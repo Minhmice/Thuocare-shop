@@ -1,0 +1,44 @@
+{
+  "id": "00006731",
+  "slug": "thuoc/simvastatin-stada-10mg-2250.html",
+  "title": "Thuốc Simvastatin Stella 10mg điều trị rối loạn lipid máu (3 vỉ x 10 viên)",
+  "short_title": "SIMVASTATIN 10MG STELLA 3X10",
+  "brand": {
+    "name": "Stella Pharm",
+    "slug": "thuong-hieu/stella-pharm",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tri-mo-mau",
+    "name": "Thuốc trị mỡ máu",
+    "parent_slug": "thuoc/thuoc-tim-mach-and-mau"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/simvastatin_ea8e1c499a.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/simvastatin_ea8e1c499a.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Simvastatin STELLA 10 mg chứa hoạt chất simvastatin với công dụng điều trị rối loạn lipid máu.</p>\n\n<p>Simvastatin STELLA dưới dạng viên nén hình oval, bao phim màu trắng, hai mặt khum, trơn.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p>Thuốc Simvastatin STELLA 10 mg được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Điều trị tăng cholesterol huyết nguyên phát hoặc rối loạn lipid huyết hỗn hợp. Thuốc dùng dưới dạng hỗ trợ cho chế độ ăn, khi sự đáp ứng của cơ thể với chế độ ăn kiêng và các biện pháp điều trị khác không dùng thuốc (tập thể dục, giảm cân) vẫn chưa đủ. </li>\n\t<li>Điều trị tăng cholesterol huyết thể đồng hợp tử có tính gia đình như một sự hỗ trợ cho chế độ ăn uống và các biện pháp làm giảm lipid khác (như gạn tách LDL) hoặc khi các biện pháp này không thích hợp. </li>\n\t<li>Điều trị tăng triglycerid huyết.</li>\n\t<li>Giảm tỉ lệ bệnh tật và tử vong do bệnh tim mạch ở bệnh nhân có bệnh tim mạch do xơ vữa động mạch hoặc bệnh <a href=\"https://nhathuoclongchau.com.vn/benh/benh-tieu-duong-289.html\">tiểu đường</a>, với mức cholesterol bình thường hoặc tăng cao.</li>\n</ul>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/simvastatin\">Simvastatin</a> là một thuốc hạ lipid được tổng hợp từ sản phẩm lên men của Aspergillus terreus. Simvastatin, vốn là một lacton bất hoạt, sau khi uống được thủy phân thành dạng beta-hydroxyacid tương ứng. Đây là một chất ức chế enzym khử 3-hydroxy-3-methylglutayl-Coenzym A (HMG-CoA). Enzym này xúc tác phản ứng biến đổi HMG-CoA thành mevalonat, bước đầu hạn chế sinh tổng hợp cholesterol.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Simvastatin là một lacton bất hoạt rất dễ bị thủy phân trên in vivo thành dạng acid tương ứng, một chất ức chế beta-hydroxyacid hiệu quả enzym khử HMG-CoA, Simvastatin là một chất nền của Cytochrom P450 đồng phân CYP3A4 và bị chuyển hóa mạnh lần đầu qua gan, vị trí tác động đầu tiên của hoạt chất này.</p>\n\n<p>Dưới 5% liều uống vào được hệ tuần hoàn dưới dạng chất chuyển hóa có hoạt tính. Cả Simvastatin và chất chuyển hóa beta-hydroxyacid đều gắn với protein huyết tương khoảng 95%.</p>\n\n<p>Simvastatin được đào thải chủ yếu qua đường mật vào phần dưới dạng chất chuyến hóa. Khoảng 10 đến 15% được tìm thấy trong nước tiểu, chủ yếu dưới dạng mất hoạt tính.</p>\n\n<p>Thời gian bán thải của chất chuyển hóa beta-hydroxyacid là 1,9 giờ.</p>",
+  "ingredients_html": [
+    {
+      "id": 23272,
+      "ingredientId": 36087,
+      "shortDescription": "10mg",
+      "name": "Simvastatin",
+      "isPrimary": false,
+      "slug": "thanh-phan/simvastatin"
+    }
+  ],
+  "stock_qty": 0
+}

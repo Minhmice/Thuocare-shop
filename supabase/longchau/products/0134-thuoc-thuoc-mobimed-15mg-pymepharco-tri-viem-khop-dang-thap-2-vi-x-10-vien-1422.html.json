@@ -1,0 +1,50 @@
+{
+  "id": "00010005",
+  "slug": "thuoc/thuoc-mobimed-15mg-pymepharco-tri-viem-khop-dang-thap-2-vi-x-10-vien-1422.html",
+  "title": "Thuốc Mobimed 15mg Pymepharco điều trị viêm khớp dạng thấp, viêm cột sống (2 vỉ x 10 viên)",
+  "short_title": "MOBIMED 15 PMP 2X10",
+  "brand": {
+    "name": "Pymepharco",
+    "slug": "thuong-hieu/pymepharco",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem/thuoc-giam-dau-khang-viem",
+    "name": "Thuốc giảm đau kháng viêm",
+    "parent_slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00010005_mobimed_15_1609_60f5_large_96c749e33e.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00010005_mobimed_15_1609_60f5_large_96c749e33e.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00010005_mobimed_15_1630734125_fc519ad798.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00010005_mobimed_15_1832_60f5_large_c59cc9b516.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00010005_mobimed_15_3004_60f5_large_32e272d425.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00010005_mobimed_15_2250_60f5_large_16e7bfe1c0.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00010005_mobimed_15_7728_60f5_large_c16b29f29c.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00010005_mobimed_15_1822_6133_large_4418e34bb4.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Mobimed 15 của Công ty Cổ phần Pymepharco, chứa hoạt chất chính là Meloxicam, là thuốc dùng để điều trị dài hạn các cơn đau mạn tính trong: Viêm đau xương khớp (hư khớp, thoái hóa khớp), viêm khớp dạng thấp, viêm cột sống dính khớp.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p>Thuốc Mobimed 15 được chỉ định dùng trong điều trị triệu chứng dài hạn các cơn đau mạn tính trong:</p>\n\n<ul>\n\t<li>\n\t<p><a href=\"https://nhathuoclongchau.com.vn/benh/viem-khop-dang-thap-254.html\">Viêm khớp dạng thấp</a>.</p>\n\t</li>\n\t<li>\n\t<p>Viêm cột sống dính khớp.</p>\n\t</li>\n</ul>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Meloxicam là thuốc kháng viêm không steroid (NSAID) thuộc họ acid enolic, có tác dụng kháng viêm, giảm đau và hạ sốt. Meloxicam có tính kháng viêm mạnh cho tất cả các loại viêm. Cơ chế chung là do meloxicam có khả năng ức chế sinh tổng hợp prostaglandin, những chất trung gian hóa học gây viêm.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Sau khi uống, meloxicam có sinh khả dụng trung bình là 89%. Nồng độ trong huyết tương tỉ lệ với liều dùng: Khi uống 7,5mg và 15mg, nồng độ trung bình trong huyết tương được ghi nhận tương ứng từ 0,4 -1mg/l và 0,8 - 2mg/l.</p>\n\n<p>Meloxicam liên kết mạnh với protein huyết tương, chủ yếu là albumin (99%). Thể tích phân bố thấp, trung bình là 11l và dao động từ 30 - 40%. Thể tích phân bố tăng nếu bệnh nhân bị suy thận nặng. Thuốc được chuyển hóa mạnh, nhất là bị oxy hóa ở gốc methyl của nhân thiazolyl.</p>\n\n<p>Tỷ lệ sản phẩm không bị biến đổi được bài tiết chiếm khoảng 3% liều dùng. Thuốc được bài tiết một nửa qua nước tiểu, một nửa qua phần. Thời gian bản thải trung bình là 20 giờ.Độ thanh thải ở huyết tương trung bình là 8 ml/phút và giảm ở người cao tuổi.</p>",
+  "ingredients_html": [
+    {
+      "id": 24223,
+      "ingredientId": 26869,
+      "shortDescription": "15mg",
+      "name": "Meloxicam",
+      "isPrimary": false,
+      "slug": "thanh-phan/meloxicam"
+    }
+  ],
+  "stock_qty": 0
+}

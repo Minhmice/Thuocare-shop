@@ -1,0 +1,60 @@
+{
+  "id": "00003294",
+  "slug": "thuoc/genteal-10g-3647.html",
+  "title": "Gel Genteal Alcon làm dịu cảm giác khô do đeo kính áp tròng, khói, gió (10g)",
+  "short_title": "GENTEAL 10G",
+  "brand": {
+    "name": "Alcon",
+    "slug": "thuong-hieu/alcon",
+    "country": "Hoa Kỳ"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-mat-tai-mui-hong/thuoc-nho-mat",
+    "name": "Thuốc nhỏ mắt",
+    "parent_slug": "thuoc/thuoc-mat-tai-mui-hong"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp x 10g",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00003294_genteal_10g_8688_6092_large_373ff1fda1.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003294_genteal_10g_8688_6092_large_373ff1fda1.jpg"
+  ],
+  "origin_label": "Hoa Kỳ",
+  "country": "Hoa Kỳ",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Nhũ tương (Gel)",
+  "trust_label": null,
+  "short_description": "<p>Genteal Gel là một sản phẩm của công ty Alcon Laboratories, Inc., thành phần chính là hypromellose và carbomer 980. Thuốc được dùng để làm dịu cảm giác khô do đeo kính áp tròng, khói, gió, sử dụng màn hình máy tính nhiều hoặc các kích ứng khác bằng cách làm ướt và bôi trơn bề mặt của mắt.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p>Thuốc GenTeal Gel được chỉ định trong các trường hợp:</p>\n\n<ul>\n\t<li>GenTeal Gel làm dịu cảm giác khô do đeo kính áp tròng, khói, gió, sử dụng màn hình máy tính nhiều hoặc các kích ứng khác bằng cách làm ướt và bôi trơn bề mặt của mắt.</li>\n</ul>\n\n<h2>Dược lực học</h2>\n\n<p>GenTeal Gel là một loại gel bôi mắt có tác dụng kéo dài, dùng để bôi trơn bề mặt của mắt cho tất cả các bệnh nhân bị cảm giác khó chịu ở mắt. Đặc tính nhược trương nhẹ của gel nhanh chóng bị “vô hiệu hóa” bởi dịch nước mắt có tính hơi ưu trương do mắt bị kích thích tiết ra khi bị khô. </p>\n\n<h3>Dược động học</h3>\n\n<p>Chưa có nghiên cứu về dược động học của Genteal Gel.</p>",
+  "ingredients_html": [
+    {
+      "id": 44728,
+      "ingredientId": 23164,
+      "shortDescription": "3mg",
+      "name": "Hypromellose",
+      "isPrimary": false,
+      "slug": "thanh-phan/hypromellose"
+    },
+    {
+      "id": 44729,
+      "ingredientId": 13015,
+      "shortDescription": "2.2mg",
+      "name": "Carbomer",
+      "isPrimary": false,
+      "slug": "thanh-phan/carbomer"
+    },
+    {
+      "id": 44730,
+      "ingredientId": 37331,
+      "shortDescription": "10g",
+      "name": "Tá dược vừa đủ",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

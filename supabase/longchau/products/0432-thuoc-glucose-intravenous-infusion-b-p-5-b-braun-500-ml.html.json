@@ -1,0 +1,44 @@
+{
+  "id": "00047042",
+  "slug": "thuoc/glucose-intravenous-infusion-b-p-5-b-braun-500-ml.html",
+  "title": "Thuốc truyền tĩnh mạch Glucose Intravenous Infusion B.P 5% B.Braun điều trị thiếu hụt carbohydrat và dịch (500ml)",
+  "short_title": "GLUCOSE INTRAVENOUS INFUSION B.P 5% B.BRAUN 500ML",
+  "brand": {
+    "name": "B.Braun",
+    "slug": "thuong-hieu/bbraun",
+    "country": "Đức"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tiem-chich-and-dich-truyen/dich-truyen",
+    "name": "Dịch truyền",
+    "parent_slug": "thuoc/thuoc-tiem-chich-and-dich-truyen"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Chai",
+  "pack_note": "10 Chai x 500ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00047042_GLUCOSE_INTRAVENOUS_INFUSION_B_P_5_B_BRAUN_500_ML_b4e94711eb.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00047042_GLUCOSE_INTRAVENOUS_INFUSION_B_P_5_B_BRAUN_500_ML_b4e94711eb.png"
+  ],
+  "origin_label": "Đức",
+  "country": "Đức",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch truyền tĩnh mạch",
+  "trust_label": null,
+  "short_description": "<p>Glucose Intravenous Infusion B.P 5% là sản phẩm của B.Braun, có thành phần chính là Glucose Monohydrate. Đây là thuốc được sử dụng trong các trường hợp như thiếu hụt carbohydrat và dịch, mất nước do tiêu chảy cấp, hạ đường huyết do suy dinh dưỡng, do ngộ độc rượu, do tăng chuyển hóa khi bị stress hay chấn thương, làm test dung nạp glucose (uống).</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Glucose Intravenous Infusion B.P 5% được chỉ định dùng trong các trường hợp sau:</p><ul><li>Thiếu hụt carbohydrat và dịch.</li><li>Mất nước do tiêu chảy cấp.</li><li>Hạ đường huyết do suy dinh dưỡng, do ngộ độc rượu, do tăng chuyển hóa khi bị stress hay chấn thương.</li><li>Làm test dung nạp glucose (uống).</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 67647,
+      "ingredientId": 21372,
+      "shortDescription": "5%",
+      "name": "Glucose Monohydrate",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

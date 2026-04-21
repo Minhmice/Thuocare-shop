@@ -1,0 +1,44 @@
+{
+  "id": "00006079",
+  "slug": "thuoc/prednisolone-stada-5mg-2540.html",
+  "title": "Thuốc Prednisolone Stella 5mg kháng viêm, điều trị viêm khớp dạng thấp, lupus ban đỏ (200 viên)",
+  "short_title": "PREDNISOLONE 5MG STELLA 200V",
+  "brand": {
+    "name": "Stella Pharm",
+    "slug": "thuong-hieu/stella-pharm",
+    "country": ""
+  },
+  "category": {
+    "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem/thuoc-khang-viem",
+    "name": "Thuốc kháng viêm",
+    "parent_slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "200 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/prenidsolone_b435dd3d06.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/prenidsolone_b435dd3d06.jpg"
+  ],
+  "origin_label": "",
+  "country": "",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén",
+  "trust_label": null,
+  "short_description": "<p><strong>Thuốc Prednisolone 5 mg</strong> là sản phẩm của <em>Stellapharm</em>, với thành phần chính <strong><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/prednisolone\">Prednisolone</a></strong>, là thuốc dùng để điều trị viêm khớp dạng thấp, lupus ban đỏ toàn thân, một số thể viêm mạch, viêm động mạch thái dương và viêm quanh động mạch nút, bệnh sarcoid, hen phế quản, viêm loét đại tràng, thiếu máu tán huyết, giảm bạch cầu hạt và những bệnh dị ứng nặng gồm cả phản vệ. Thuốc còn dùng để điều trị bệnh bạch cầu cấp, u lympho, ung thư vú và ung thư tuyến tiền liệt.</p>\n\n<p>Viên nén tròn, màu trắng, hai mặt bằng, một mặt khắc vạch, một mặt trơn.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p><strong>Thuốc Prednisolone 5 mg</strong> được chỉ định dùng trong các trường hợp cần đến tác dụng kháng viêm và ức chế miễn dịch:</p>\n\n<ul>\n\t<li>Ðiều trị trị viêm khớp dạng thấp, <strong><a href=\"https://nhathuoclongchau.com.vn/benh/lupus-ban-do-526.html\">lupus ban đỏ</a></strong> toàn thân, một số thể viêm mạch, viêm động mạch thái dương và viêm quanh động mạch nút, bệnh sarcoid, hen phế quản, viêm loét đại tràng, thiếu máu tan huyết, giảm bạch cầu hạt và những bệnh dị ứng nặng gồm cả phản vệ.</li>\n\t<li>Ðiều trị bệnh bạch cầu cấp, u lympho, ung thư vú và <strong><a href=\"https://nhathuoclongchau.com.vn/benh/ung-thu-tuyen-tien-liet-325.html\">ung thư tuyến tiền liệt</a></strong>.</li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p>Prednisolone là một glucocorticoid có tác dụng kháng viêm rõ rệt, chống dị ứng và ức chế miễn dịch.</p>\n\n<h3>Dược động học</h3>\n\n<p>Hấp thu: Sinh khả dụng đường uống của prednisolone xấp xỉ 82%. Nồng độ đỉnh đạt 1–2 giờ sau khi dùng thuốc.</p>\n\n<p>Phân bố: Prednisolone liên kết với protein huyết tương khoảng 90–95%. Độ thanh thải của prednisolone là 8,7 ± 1,6 mL/phút/kg. Thể tích phân bố của thuốc là 1,5 ± 0,2 L/kg.</p>\n\n<p>Chuyển hoá–thải trừ: Prednisolone được chuyển hoá ở gan thành những chất chuyển hoá dạng este sulfate và glucuronide, và được bài tiết vào nước tiểu. Thời gian bán thải của prednisolone xấp xỉ 1,7–2,7 giờ.</p>",
+  "ingredients_html": [
+    {
+      "id": 22972,
+      "ingredientId": 33391,
+      "shortDescription": "5mg",
+      "name": "Prednisolone",
+      "isPrimary": false,
+      "slug": "thanh-phan/prednisolone"
+    }
+  ],
+  "stock_qty": 0
+}

@@ -1,0 +1,60 @@
+{
+  "id": "00503682",
+  "slug": "thuoc/queenlife-us-pharma-usa-200ml-38012.html",
+  "title": "Dung dịch vệ sinh Queenlife 200ml US Pharma ngăn ngừa và điều trị viêm nhiễm phụ khoa",
+  "short_title": "QUEENLIFE US PHARMA USA 200ML",
+  "brand": {
+    "name": "US Pharma",
+    "slug": "thuong-hieu/us-pharma",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/dung-dich-ve-sinh-phu-nu",
+    "name": "Dung dịch vệ sinh phụ nữ",
+    "parent_slug": "thuoc/thuoc-tiet-nieu-sinh-duc"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp x 200ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/queenlife_c7de755bce.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/queenlife_c7de755bce.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch",
+  "trust_label": null,
+  "short_description": "<p>Dung dịch vệ sinh Queenlife là sản phẩm của US Pharma chứa thành phần Vitamin E, Sodium Laurenth Sulphate, α- terpineol dùng ngăn ngừa và điều trị vi trùng gây bệnh viêm nhiễm phụ khoa.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Dung dịch vệ sinh <a href=\"https://nhathuoclongchau.com.vn/thuoc/queenlife-us-pharma-usa-200ml-38012.html\">Queenlife</a> dùng ngăn ngừa và điều trị vi trùng gây bệnh <a href=\"https://nhathuoclongchau.com.vn/benh/viem-phu-khoa.html\">viêm nhiễm phụ khoa</a>:</p><ul><li>Vệ sinh vùng kín hàng ngày, vệ sinh vùng kín những ngày kinh nguyệt.</li><li>Phụ nữ trong thời kì hậu sản.</li><li>Vệ sinh bộ phận sinh dục ngoài cho cả nam, nữ trước và sau khi quan hệ tình dục.</li><li>Điều trị ngứa do vi nấm, <a href=\"https://nhathuoclongchau.com.vn/benh/nhiem-candida-197.html\">nhiễm nấm Candida</a>, huyết trắng.</li><li>Các bệnh ngoài da cho trẻ em như: Rôm sẩy, mụn nhọt, ghẻ ngứa, nấm da.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 49867,
+      "ingredientId": 40363,
+      "shortDescription": "0.15g",
+      "name": "Vitamin E",
+      "isPrimary": false,
+      "slug": "thanh-phan/vitamin-e"
+    },
+    {
+      "id": 49868,
+      "ingredientId": 36316,
+      "shortDescription": "16g",
+      "name": "Sodium Laurenth Sulphate",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 49869,
+      "ingredientId": 41104,
+      "shortDescription": "2g",
+      "name": "α- terpineol",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

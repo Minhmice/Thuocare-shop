@@ -1,0 +1,112 @@
+{
+  "id": "00010288",
+  "slug": "thuoc/hasanvit-1331.html",
+  "title": "Viên sủi Hasanvit cung cấp các vitamin cho cơ thể (20 viên)",
+  "short_title": "HASANVIT HASAN 20V",
+  "brand": {
+    "name": "Hasan",
+    "slug": "thuong-hieu/hasan",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+    "name": "Thuốc bổ",
+    "parent_slug": "thuoc/thuoc-bo-and-vitamin"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Tuýp",
+  "pack_note": "Tuýp 20 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1562_2412abe3d7.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1562_2412abe3d7.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1565_71c484ef85.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1566_b0d7ab3b58.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1563_2ee10f2f5b.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1564_05b6197e2a.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén sủi bọt",
+  "trust_label": null,
+  "short_description": "<p>Hasanvit là viên nén sủi bọt, hình tròn, 2 mặt phẳng, có hương vị cam, cung cấp vitamin cho nhu cầu cơ thể để ngăn ngừa hoặc điều trị các rối loạn liên quan.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p>Thuốc Hasanvit được chỉ định dùng cung cấp các vitamin cho cơ thể, ngăn ngừa hoặc điều trị:</p>\n\n<ul>\n\t<li>\n\t<p>Các rối loạn liên quan đến chế độ ăn không cân đối, ăn kiêng thiếu chất, rối loạn hấp thu thức ăn.</p>\n\t</li>\n\t<li>\n\t<p>Các rối loạn liên quan đến người làm việc căng thẳng về trí óc và sức lực, người nghiện thuốc lá, trẻ em thời kỳ phát triển, phụ nữ mang thai và cho con bú.</p>\n\t</li>\n\t<li>\n\t<p>Các rối loạn liên quan đến bệnh nhân sau phẫu thuật hoặc giai đoạn phục hồi sau mắc bệnh mạn tính.</p>\n\t</li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p>Chưa có báo cáo.</p>\n\n<h3>Dược động học</h3>\n\n<p>Chưa có báo cáo.</p>",
+  "ingredients_html": [
+    {
+      "id": 24302,
+      "ingredientId": 40316,
+      "shortDescription": "1.4mg",
+      "name": "Vitamin B1",
+      "isPrimary": false,
+      "slug": "thanh-phan/vitamin-b1"
+    },
+    {
+      "id": 24303,
+      "ingredientId": 40324,
+      "shortDescription": "1.6mg",
+      "name": "Vitamin B2",
+      "isPrimary": false,
+      "slug": "thanh-phan/vitamin-b2"
+    },
+    {
+      "id": 24304,
+      "ingredientId": 40393,
+      "shortDescription": "18mg",
+      "name": "Vitamin PP",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 24305,
+      "ingredientId": 40331,
+      "shortDescription": "6mg",
+      "name": "Vitamin B5",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 24306,
+      "ingredientId": 40333,
+      "shortDescription": "2mg",
+      "name": "Vitamin B6",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 71190,
+      "ingredientId": 11067,
+      "shortDescription": "0.15mg",
+      "name": "Biotin",
+      "isPrimary": false,
+      "slug": "thanh-phan/biotin"
+    },
+    {
+      "id": 71191,
+      "ingredientId": 20575,
+      "shortDescription": "0.25mg",
+      "name": "Folic Acid",
+      "isPrimary": false,
+      "slug": "thanh-phan/folic-acid"
+    },
+    {
+      "id": 71192,
+      "ingredientId": 40349,
+      "shortDescription": "60mg",
+      "name": "Vitamin C",
+      "isPrimary": false,
+      "slug": "thanh-phan/vitamin-c"
+    },
+    {
+      "id": 71193,
+      "ingredientId": 40363,
+      "shortDescription": "10mg",
+      "name": "Vitamin E",
+      "isPrimary": false,
+      "slug": "thanh-phan/vitamin-e"
+    }
+  ],
+  "stock_qty": 0
+}

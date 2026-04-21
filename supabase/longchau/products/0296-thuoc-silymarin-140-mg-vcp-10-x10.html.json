@@ -1,0 +1,44 @@
+{
+  "id": "00503167",
+  "slug": "thuoc/silymarin-140-mg-vcp-10-x10.html",
+  "title": "Thuốc Silymarin VCP điều trị bệnh viêm gan mạn tính, xơ gan (10 vỉ x 10 viên)",
+  "short_title": "SILYMARIN 140MG VCP 10X10",
+  "brand": {
+    "name": "Vcp",
+    "slug": "thuong-hieu/vcp",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-benh-gan",
+    "name": "Thuốc trị bệnh gan",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 10 Vỉ x 10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/silymarin_140_1cae399144.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/silymarin_140_1cae399144.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang cứng",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Silymarin VCP là sản phẩm của Công ty Cổ phần Dược phẩm VCP chứa thành phần là cao khô Silybum marianum (Extractum Silybi mariani fructus siccum) giúp hỗ trợ điều trị bệnh viêm gan mạn tính, xơ gan và tổn thương gan do nhiễm độc.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc <a href=\"https://nhathuoclongchau.com.vn/thuoc/silymarin-140-mg-vcp-10-x10.html\">Silymarin</a> VCP giúp hỗ trợ điều trị bệnh viêm gan mạn tính, <a href=\"https://nhathuoclongchau.com.vn/benh/xo-gan-415.html\">xơ gan</a> và tổn thương gan do nhiễm độc.</p><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 61156,
+      "ingredientId": 36065,
+      "shortDescription": "140mg",
+      "name": "Silymarin",
+      "isPrimary": true,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

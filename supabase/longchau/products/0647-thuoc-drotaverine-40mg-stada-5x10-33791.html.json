@@ -1,0 +1,51 @@
+{
+  "id": "00033705",
+  "slug": "thuoc/drotaverine-40mg-stada-5x10-33791.html",
+  "title": "Thuốc Drotaverine Stada 40mg điều trị co thắt dạ dày, ruột, hội chứng ruột kích thích (5 vỉ x 10 viên)",
+  "short_title": "DROTAVERINE 40MG STADA 5X10",
+  "brand": {
+    "name": "Stada",
+    "slug": "thuong-hieu/stada",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tieu-hoa",
+    "name": "Thuốc tiêu hoá",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00033705_drotaverine_40mg_stada_5x10_6850_6243_large_e62a7f72db.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00033705_drotaverine_40mg_stada_5x10_6850_6243_large_e62a7f72db.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00033705_drotaverine_40mg_stada_5x10_1648623226_010f39d8f0.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00033705_drotaverine_40mg_stada_5x10_2551_6243_large_34fdfce44f.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00033705_drotaverine_40mg_stada_5x10_7662_6243_large_5f00c876bc.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00033705_drotaverine_40mg_stada_5x10_7148_6243_large_f77baed027.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00033705_drotaverine_40mg_stada_5x10_9312_6243_large_f7d3cc78bd.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00033705_drotaverine_40mg_stada_5x10_3994_6243_large_93f8829d91.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00033705_drotaverine_40mg_stada_5x10_3815_6243_large_317175ee20.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Drotaverine Stada 40mg là sản phẩm của Tập đoàn Stada Arzneimittel AG – Đức, sản xuất tại nhà máy Stada Việt Nam, với thành phần chính là Drotaverine HCl giúp&nbsp;chống co thắt dạ dày.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3><p>Thuốc <a href=\"https://nhathuoclongchau.com.vn/thuoc/drotaverine-40mg-stada-5x10-33791.html\">Drotaverine Stada 40mg</a> chống co thắt dạ dày được chỉ định dùng trong các trường hợp sau:</p><ul><li>Co thắt dạ dày – ruột.</li><li><a href=\"https://nhathuoclongchau.com.vn/benh/hoi-chung-ruot-kich-thich-118.html\">Hội chứng ruột kích thích</a>.&nbsp;</li><li>Cơn đau quặn mật và các co thắt đường mật: Sỏi túi mật, viêm túi mật, viêm đường mật.</li><li>Cơn đau quặn thận và các co thắt đường niệu – sinh dục: Sỏi thận, sỏi niệu quản, viêm bể thận, <a href=\"https://nhathuoclongchau.com.vn/benh/viem-bang-quang-366.html\">viêm bàng quang</a>.</li><li>Các co thắt tử cung: <a href=\"https://nhathuoclongchau.com.vn/benh/dau-bung-kinh-567.html\">Đau bụng kinh</a>, dọa <a href=\"https://nhathuoclongchau.com.vn/benh/say-thai-497.html\">sảy thai</a>, co cứng tử cung.</li><li>Co thắt dạ dày – ruột do loét, táo bón co thắt.</li></ul><h3><strong>Dược lực học</strong></h3><p>Drotaverine có tác dụng chống co thắt, trực tiếp lên các tế bào cơ trơn, đặc biệt gây giãn cơ trơn khi đang co thắt. Không có tác dụng lên hệ thần kinh trung ương.</p><h3><strong>Dược động học</strong></h3><p><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/drotaverine\">Drotaverine</a> hấp thu qua đường uống tương đương với đường tiêm.</p><p>Hấp thu hoàn toàn sau 12 phút.</p><p>Thời gian bắt đầu tác dụng sau khi tiêm là 2 đến&nbsp;4 phút, tối đa sau 30 phút.</p><p>Chuyển hóa tại gan bằng hiện tượng glucurono kết hợp. Gắn kết rất ít với protein huyết tương. Thời gian bán hủy là 16 giờ.</p>",
+  "ingredients_html": [
+    {
+      "id": 29712,
+      "ingredientId": 18643,
+      "shortDescription": "40mg",
+      "name": "Drotaverine",
+      "isPrimary": false,
+      "slug": "thanh-phan/drotaverine"
+    }
+  ],
+  "stock_qty": 0
+}

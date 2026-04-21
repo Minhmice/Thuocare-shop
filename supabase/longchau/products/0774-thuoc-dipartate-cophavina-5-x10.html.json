@@ -1,0 +1,58 @@
+{
+  "id": "00045115",
+  "slug": "thuoc/dipartate-cophavina-5-x10.html",
+  "title": "Thuốc Dipartate Cophavina bổ sung magnesi và kali, hỗ trợ điều trị suy tim, sau nhồi máu cơ tim (5 vỉ x 10 viên)",
+  "short_title": "DIPARTATE COPHAVINA 5X10",
+  "brand": {
+    "name": "Cophavina",
+    "slug": "thuong-hieu/cophavina",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+    "name": "Thuốc bổ",
+    "parent_slug": "thuoc/thuoc-bo-and-vitamin"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09757_b5674fbee3.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09757_b5674fbee3.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09758_905b6a6a2e.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09759_b23ee94b9c.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09760_bac2c7c066.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09761_7450d85083.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09762_862cb76e30.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09763_f1a9ae31ef.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Dipartate là sản phẩm của Cophavina, có thành phần chính là Magnesi aspartat, Kali aspartat. Đây là thuốc được sử dụng để bổ sung magnesi và kali trong trường hợp thiếu hụt; hỗ trợ điều trị một số bệnh tim mãn tính như suy tim, sau nhồi máu cơ tim, trong một số trường hợp loạn nhịp tim.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc Dipartate được chỉ định dùng trong các trường hợp sau:</p><ul><li dir=\"ltr\">Bổ sung magnesi và kali trong trường hợp thiếu hụt. Hỗ trợ điều trị một số bệnh tim mãn tính như suy tim, sau nhồi máu cơ tim, trong một số trường hợp loạn nhịp tim.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p><strong>Nhóm dược lý: Bổ sung magnesi và kali.</strong></p><p><strong>Mã ATC:A12CX80.</strong></p><p>Ion Mg<sup>2+</sup> và K<sup>+</sup> là các cation nội bào, đóng vai trò quan trọng trong chức năng của nhiều enzym, sự co thắt cơ tim bị ảnh hưởng bởi nồng độ nội và ngoại bào K<sup>+</sup>, Ca<sup>2+</sup> và Na<sup>+</sup>.</p><p>Ion K<sup>+</sup> là cation nhiều nhất trong dịch nội bào. K<sup>+</sup> đóng vai trò chủ chốt trong việc thiết lập nên điện thế màng khi nghỉ và trong pha tái khử cực của điện thế hoạt động ở tổ chức thần kinh, cơ. K<sup>+</sup> cũng đóng vai trò duy trì thể tích dịch trong tế bào. Khi K<sup>+</sup> hoán đổi với H<sup>+</sup> nó giúp điều hòa pH. Nồng độ K<sup>+</sup> huyết tương bình thường là 3,8-5,0 mEq/l.</p><p>Mg<sup>2+</sup> là cation nội bào phổ biến thứ hai sau K<sup>+</sup> về mặt chức năng, Mg<sup>2+</sup> là đồng yếu tố của các enzyme liên quan trọng chuyển hóa carbohydrate, protein và Na<sup>+</sup>/K<sup>+</sup> ATPase (enzyme bơm Na<sup>+</sup>). Mg<sup>2+</sup> cũng quan trọng trong hoạt động thần kinh cơ, dẫn truyền xung động, và chức năng của cơ tim. Nồng độ Mg<sup>2+</sup> bình thường trong huyết tương chỉ 1,3-2,1 mEq/l.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 63648,
+      "ingredientId": 42754,
+      "shortDescription": "140mg",
+      "name": "Magnesi aspartat",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 63649,
+      "ingredientId": 42755,
+      "shortDescription": "158mg",
+      "name": "Kali aspartat",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "00003651",
+  "slug": "thuoc/hasancetam-800mg-3517.html",
+  "title": "Thuốc Hasancetam 800 Hasan điều trị rối loạn chức năng não, suy giảm trí nhớ (10 vỉ x 10 viên)",
+  "short_title": "HASANCETAM 800 HASAN 10X10",
+  "brand": {
+    "name": "Hasan",
+    "slug": "thuong-hieu/hasan",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tang-cuong-tuan-hoan-nao",
+    "name": "Thuốc tăng cường tuần hoàn não",
+    "parent_slug": "thuoc/thuoc-tim-mach-and-mau"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00003651_hasancetam_800_8605_5b06_large_3ed4ad608f.JPG",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003651_hasancetam_800_8605_5b06_large_3ed4ad608f.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003651_hasancetam_800mg_1629031815_45a09d3d77.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003651_hasancetam_800_8713_5b06_large_7e7ac60097.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003651_hasancetam_800_6321_5b06_large_13a3524829.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003651_hasancetam_800_3275_5b06_large_77aedd13c3.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003651_hasancetam_800_3284_5b06_large_094e714612.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003651_hasancetam_800_6197_5b06_large_69aa1a03fd.JPG"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p style=\"text-align:justify;\">Hasancetam 800 được chỉ định trong điều trị suy giảm trí nhớ, chóng mặt, kém tập trung hoặc thiếu tỉnh táo, thay đổi khí sắc, rối loạn hành vi, kém chú ý đến bản thân, sa sút trí tuệ do nhồi máu não nhiều ổ.</p>",
+  "description_html": "",
+  "usage_html": "<p style=\"text-align:justify;\">Ở người cao tuổi: Suy giảm trí nhớ, chóng mặt, kém tập trung hoặc thiếu tỉnh táo, thay đổi khí sắc, rối loạn hành vi, kém chú ý đến bản thân, sa sút trí tuệ do nhồi máu não nhiều ổ.</p>\n\n<p style=\"text-align:justify;\">Ðột quỵ thiếu máu cục bộ cấp (chỉ định này là kết quả của một thử nghiệm lâm sàng ngẫu nhiên, mù đôi, có đối chứng với placebo, đa trung tâm trên 927 người bệnh đột quỵ thiếu máu cục bộ cấp cho thấy có những tiến bộ về hành vi sau 12 tuần điều trị, nhất là ở những người bệnh lúc đầu có triệu chứng thần kinh suy yếu nặng mà được dùng thuốc trong vòng 7 giờ đầu tiên sau tai biến mạch máu não). Cần chú ý tuổi tác và mức độ nặng nhẹ lúc đầu của tai biến là các yếu tố quan trọng nhất để tiên lượng khả năng sống sót sau tai biến đột quỵ thiếu máu cục bộ cấp.</p>\n\n<p style=\"text-align:justify;\">Ðiều trị bệnh thiếu máu hồng cầu liềm (piracetam có tác dụng ức chế và làm hồi phục hồng cầu liềm in vitro và có tác dụng tốt trên người bệnh bị thiếu máu hồng cầu liềm). Ở trẻ em điều trị hỗ trợ chứng khó đọc.</p>\n\n<p style=\"text-align:justify;\">Ðiều trị triệu chứng chóng mặt.</p>\n\n<p style=\"text-align:justify;\">Ðiều trị nghiện rượu.</p>\n\n<p style=\"text-align:justify;\">Dùng bổ trợ trong điều trị giật rung cơ có nguồn gốc vỏ não.</p>",
+  "ingredients_html": "<ul>\r\n\t<li>\r\n\t<p style=\"text-align:justify;\">Dược chất ch&iacute;nh: Piracetam</p>\r\n\t</li>\r\n\t<li>\r\n\t<p style=\"text-align:justify;\">Loại thuốc: Thần kinh</p>\r\n\t</li>\r\n\t<li>\r\n\t<p style=\"text-align:justify;\">Dạng thuốc, h&agrave;m lượng: Vi&ecirc;n n&eacute;n 800mg</p>\r\n\t</li>\r\n</ul>",
+  "stock_qty": 0
+}

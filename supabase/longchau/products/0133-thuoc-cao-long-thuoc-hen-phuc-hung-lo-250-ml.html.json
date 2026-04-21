@@ -1,0 +1,116 @@
+{
+  "id": "00042692",
+  "slug": "thuoc/cao-long-thuoc-hen-phuc-hung-lo-250-ml.html",
+  "title": "Cao lỏng thuốc hen Phúc Hưng 250ml điều trị hen phế quản, viêm phế quản mạn tính",
+  "short_title": "CAO LỎNG THUỐC HEN PHÚC HƯNG LỌ 250ML",
+  "brand": {
+    "name": "Phúc Hưng",
+    "slug": "thuong-hieu/phuc-hung",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-ho-hap/thuoc-tri-hen-suyen",
+    "name": "Thuốc trị hen suyễn",
+    "parent_slug": "thuoc/thuoc-ho-hap"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Lọ",
+  "pack_note": "Lọ x 250ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_hen_phuc_hung_3c6d009a62.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_hen_phuc_hung_3c6d009a62.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Cao lỏng",
+  "trust_label": null,
+  "short_description": "<p>Thuốc hen Phúc Hưng là sản phẩm của Công ty TNHH Đông Dược Phúc Hưng, có thành phần chính là Tô Tử, Bán hạ nam chế, Cam thảo, Quế, Tiền hồ, Trần bì, Hậu phác, Đương quy, Lá táo, Sinh khương. Đây là thuốc được sử dụng để điều trị hen phế quản, viêm phế quản mạn tính, bệnh tâm phế mạn; các trường hợp ho suyễn, tức ngực, đờm nhiều, khó thở; phòng ngừa cơn hen tái phát.&nbsp;</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc hen Phúc Hưng được chỉ định dùng trong các trường hợp sau:</p><ul><li>Hen phế quản, viêm phế quản mạn tính, bệnh tâm phế mạn</li><li>Các trường hợp ho suyễn, tức ngực, đờm nhiều, khó thở</li><li>Phòng ngừa cơn hen tái phát.&nbsp;</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 61909,
+      "ingredientId": 38827,
+      "shortDescription": "40g",
+      "name": "Tô Tử",
+      "isPrimary": true,
+      "slug": ""
+    },
+    {
+      "id": 61910,
+      "ingredientId": 42520,
+      "shortDescription": "34g",
+      "name": "Bán hạ nam chế",
+      "isPrimary": true,
+      "slug": ""
+    },
+    {
+      "id": 61911,
+      "ingredientId": 12473,
+      "shortDescription": "17g",
+      "name": "Cam thảo",
+      "isPrimary": true,
+      "slug": "thanh-phan/cam-thao"
+    },
+    {
+      "id": 61912,
+      "ingredientId": 34069,
+      "shortDescription": "8.5g",
+      "name": "Quế",
+      "isPrimary": true,
+      "slug": ""
+    },
+    {
+      "id": 61913,
+      "ingredientId": 38526,
+      "shortDescription": "34g",
+      "name": "Tiền hồ",
+      "isPrimary": true,
+      "slug": ""
+    },
+    {
+      "id": 61914,
+      "ingredientId": 39051,
+      "shortDescription": "28g",
+      "name": "Trần bì",
+      "isPrimary": true,
+      "slug": ""
+    },
+    {
+      "id": 61915,
+      "ingredientId": 22040,
+      "shortDescription": "14g",
+      "name": "Hậu phác",
+      "isPrimary": true,
+      "slug": ""
+    },
+    {
+      "id": 61916,
+      "ingredientId": 18784,
+      "shortDescription": "40g",
+      "name": "Đương quy",
+      "isPrimary": true,
+      "slug": ""
+    },
+    {
+      "id": 61917,
+      "ingredientId": 42521,
+      "shortDescription": "34g",
+      "name": "Lá táo",
+      "isPrimary": true,
+      "slug": ""
+    },
+    {
+      "id": 61918,
+      "ingredientId": 36109,
+      "shortDescription": "17g",
+      "name": "Sinh khương",
+      "isPrimary": true,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

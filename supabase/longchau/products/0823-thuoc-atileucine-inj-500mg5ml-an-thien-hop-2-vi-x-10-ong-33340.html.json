@@ -1,0 +1,54 @@
+{
+  "id": "00033221",
+  "slug": "thuoc/atileucine-inj-500mg5ml-an-thien-hop-2-vi-x-10-ong-33340.html",
+  "title": "Dung dịch tiêm AtiLeucine inj 500mg/5ml An Thiên điều trị triệu chứng cơn chóng mặt (2 vỉ x 5 ống)",
+  "short_title": "ATILEUCINE INJ 500MG/5ML- AN THIÊN- HỘP 2 VỈ X 5 ỐNGATILEUCINE INJ 500MG/5ML AN THIÊN 2X5 ỐNG",
+  "brand": {
+    "name": "An Thiên",
+    "slug": "thuong-hieu/an-thien",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tiem-chich-and-dich-truyen/thuoc-tiem-chich",
+    "name": "Thuốc tiêm chích",
+    "parent_slug": "thuoc/thuoc-tiem-chich-and-dich-truyen"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 2 Vỉ x 5 Ống",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/sp3_7_6249179465.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/sp3_7_6249179465.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/sp3_1_4f26404a7f.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/sp3_2_1c5f4c1728.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/sp3_3_78d72328eb.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/sp3_6_f600ba2d68.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/sp3_4_180dda17e1.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/sp3_5_e433db2ba9.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/sp3_8_19723255b6.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/atileucine_inj_500mg_2_9958ca9489.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/atileucine_inj_500mg_3_f316d90ec3.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/a_t_Leucine_inj_e731bd9fbe.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch tiêm",
+  "trust_label": null,
+  "short_description": "<p>Dung dịch tiêm&nbsp;Atileucine là sản phẩm của Công ty Cổ phần Dược phẩm An Thiên, có thành phần chính là&nbsp;N-Acetyl-dl-leucin. Đây là thuốc được sử dụng để điều trị triệu chứng cơn chóng mặt.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p><a href=\"https://nhathuoclongchau.com.vn/thuoc/atileucine-inj-500mg5ml-an-thien-hop-2-vi-x-10-ong-33340.html\">Dung dịch tiêm&nbsp;Atileucine</a> chỉ định điều trị triệu chứng cơn chóng mặt.</p><h3>Dược lực học</h3><p><strong>Nhóm dược lý: Thuốc chống chóng mặt.</strong></p><p><strong>Mã ATC: N07CA04.</strong></p><p>Thuốc trị <a href=\"https://nhathuoclongchau.com.vn/benh/chong-mat-763.html\">chóng mặt</a> có cơ chế tác dụng chưa rõ.</p><h3>Dược động học</h3><p>Sau khi tiêm tĩnh mạch 1 g N-Acetyl-dl-leucine, quan sát thấy động học gồm 2 phần với một giai đoạn phân phối rất nhanh (thời gian bán hủy trung bình 0,11 giờ) và một kỳ đào thải nhanh (thời gian bán hủy trung bình 1,08 giờ).</p>",
+  "ingredients_html": [
+    {
+      "id": 54584,
+      "ingredientId": 28946,
+      "shortDescription": "500mg",
+      "name": "N-Acetyl-dl-leucin",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

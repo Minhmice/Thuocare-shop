@@ -1,0 +1,54 @@
+{
+  "id": "00500755",
+  "slug": "thuoc/thuoc-remowart-farmalabor-hop-1-chai-10ml-34890.html",
+  "title": "Dung dịch bôi ngoài da Remowart Farmalabor điều trị mụn cóc, chai chân và chai sần trên da (10ml)",
+  "short_title": "REMOWART FARMALABOR 10ML",
+  "brand": {
+    "name": "Farmalabor",
+    "slug": "thuong-hieu/farmalabor",
+    "country": "Bồ Đào Nha"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-da-lieu/thuoc-boi-ngoai-da",
+    "name": "Thuốc bôi ngoài da",
+    "parent_slug": "thuoc/thuoc-da-lieu"
+  },
+  "price_amount": 297000,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 1 Chai x 10ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07180_d32a84b1d5.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07180_d32a84b1d5.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07179_2217826569.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07174_4b7f0c9f4d.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07175_1b2726ad72.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07176_21f77bde79.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07177_1f5a045ba5.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07178_0e8b5c2f24.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07182_b8beda7419.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07183_10114af76c.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/remowart_1_e1bf1b3534.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/remowart_2_aa716828da.jpg"
+  ],
+  "origin_label": "Bồ Đào Nha",
+  "country": "Bồ Đào Nha",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch dùng ngoài",
+  "trust_label": null,
+  "short_description": "<p>Dung dịch bôi ngoài da Remowart là sản phẩm của Farmalabor có thành phần chính là Acid salicylic. Remowart được chỉ định trong điều trị tất cả các loại mụn cóc như mụn cóc thông thường, mụn cóc phẳng, mụn cóc ở trẻ em và mụn cóc ở chân, điều trị chai chân và chai sần trên da.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Remowart được chỉ định trong điều trị tất cả các loại mụn cóc như mụn cóc thông thường, mụn cóc phẳng, mụn cóc ở trẻ em và mụn cóc ở chân, điều trị chai chân và chai sần trên da.</p><h3>Dược lực học</h3><p><i>Nhóm tác dụng dược lý: Thuốc tróc lớp sừng da, điều trị mụn cóc</i></p><p><i>Mã ATC: D11AF</i></p><p>Remowart là dung dịch ngoài da có chứa hoạt chất acid salicylic, và có tá dược là acid lactic và flexible methylated collodion. Sản phẩm dễ sử dụng và có khả năng tróc lớp sừng mạnh.</p><p>Acid salicylic có tác dụng tróc lớp sừng mạnh và tác động sát trùng trung bình khi bôi lên da. Acid salicylic làm mềm và phá hủy lớp sừng bằng cách tăng hydrat hóa nội sinh, có thể do làm giảm pH, làm mềm và bong lớp sừng. Độ ẩm là cần thiết cho hoạt động của acid salicylic trên da cũng để làm lợt và bong tróc mô biểu bì. Salicylic acid có hoạt tính kháng nấm và kháng khuẩn yếu.</p><p>Salicylic acid được sử dụng rộng rãi cùng với acid lactic và flexible collodion trong việc điều trị mụn cóc.</p><p>Việc điều trị không gây đau và bệnh nhân có thể tự điều trị.</p><h3>Dược động học</h3><p>Salicylic acid được hấp thu nhanh chóng qua da và bài tiết chậm qua thận.</p>",
+  "ingredients_html": [
+    {
+      "id": 54099,
+      "ingredientId": 7447,
+      "shortDescription": "167mg",
+      "name": "Acid Salicylic",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

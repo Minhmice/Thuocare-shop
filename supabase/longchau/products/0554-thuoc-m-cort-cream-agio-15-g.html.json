@@ -1,0 +1,53 @@
+{
+  "id": "00049197",
+  "slug": "thuoc/m-cort-cream-agio-15-g.html",
+  "title": "Thuốc M CORT cream Agio điều trị các biểu hiện viêm và ngứa của bệnh vẩy nến, viêm da dị ứng (15g)",
+  "short_title": "M CORT CREAM AGIO 15G",
+  "brand": {
+    "name": "Agio",
+    "slug": "thuong-hieu/agio",
+    "country": "Ấn Độ"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-da-lieu/thuoc-boi-ngoai-da",
+    "name": "Thuốc bôi ngoài da",
+    "parent_slug": "thuoc/thuoc-da-lieu"
+  },
+  "price_amount": 73000,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp x 15g",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_05337_3f787cc6a4.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_05337_3f787cc6a4.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_05332_cacbe713a4.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_05333_a996c1f08c.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_05334_09e373cba8.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_05335_d23ed48c1b.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_05336_1bbb2cc2f3.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_05338_0579aa934f.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_05339_92218b9775.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/M_cort_ccream1_ad3ae75087.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/M_cort_ccream2_3282726962.jpg"
+  ],
+  "origin_label": "Ấn Độ",
+  "country": "Ấn Độ",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Kem bôi ngoài",
+  "trust_label": null,
+  "short_description": "<p>M CORT Cream là sản phẩm của Agio Pharmaceuticals, có thành phần chính là Mometasone furoate. Đây là thuốc được sử dụng để điều trị các biểu hiện viêm và ngứa của bệnh vẩy nến (ngoại trừ vẩy nến dạng mảng lan rộng) và viêm da dị ứng ở người lớn và trẻ em từ 2 đến 18 tuổi.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\"><a href=\"https://nhathuoclongchau.com.vn/thuoc/m-cort-cream-agio-15-g.html\">M CORT Cream</a> được chỉ định điều trị các biểu hiện viêm và ngứa của bệnh <a href=\"https://nhathuoclongchau.com.vn/benh/vay-nen-619.html\">vẩy nến</a> (ngoại trừ vẩy nến dạng mảng lan rộng) và <a href=\"https://nhathuoclongchau.com.vn/benh/viem-da-di-ung-1187.html\">viêm da dị ứng</a> ở người lớn và trẻ em từ 2 đến 18 tuổi.</p><h3 dir=\"ltr\">Dược lực học</h3><p><strong>Mã ATC: D07AC13;</strong></p><p><strong>Nhóm trị liệu: Corticosteroid dùng tại chỗ, dùng trong điều trị các bệnh về da.</strong></p><p>Mometasone furoate thể hiện hoạt tính kháng viêm và hoạt tính chống vảy nến rõ rệt trong các mô hình dự đoán tiêu chuẩn ở động vật.</p><p>Trong thử nghiệm dầu khổ sâm trên chuột nhắt, mometasone có hiệu nghiệm tương đương với betamethasone valerate sau một lần bôi và có hiệu nghiệm gấp khoảng 8 lần sau năm lần bôi. Trên chuột lang, mometasone có hiệu nghiệm gấp khoảng hai lần so với betamethasone valerate trong việc giảm chứng dày lớp biểu bì do M.ovalis gây ra (tức là hoạt tính chống vảy nến) sau 14 lần bôi.</p><h3 dir=\"ltr\">Dược động học</h3><p>Các nghiên cứu dược động học chỉ ra rằng khả năng hấp thu toàn thân sau khi bôi tại chỗ kem mometasone furoate 0,1% là rất ít, khoảng 0,4% liều dùng ở người, phần lớn trong số đó được bài tiết trong vòng 72 giờ sau khi bôi.</p><p>Việc xác định đặc tính của các chất chuyển hóa là không khả thi do chỉ có một lượng nhỏ tồn tại trong huyết tương và chất bài tiết.</p>",
+  "ingredients_html": [
+    {
+      "id": 71034,
+      "ingredientId": 27892,
+      "shortDescription": "0.1% (kl/kl)",
+      "name": "Mometasone furoate",
+      "isPrimary": true,
+      "slug": "thanh-phan/mometasone-furoate"
+    }
+  ],
+  "stock_qty": 0
+}

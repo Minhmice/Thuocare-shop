@@ -1,0 +1,68 @@
+{
+  "id": "00005029",
+  "slug": "thuoc/moxydar-1500-2967.html",
+  "title": "Thuốc Moxydar 1500mg Grimberg điều trị đau thực quản, dạ dày (5 vỉ x 6 viên)\t",
+  "short_title": "MOXYDAR LABORATOIRES GRIMBERG 5X6",
+  "brand": {
+    "name": "Laboratoires Grimberg",
+    "slug": "thuong-hieu/laboratoires-grimberg",
+    "country": "Pháp"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-da-day",
+    "name": "Thuốc dạ dày",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 8700,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "6 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/moxydar_f70ae7d22f.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/moxydar_f70ae7d22f.jpg"
+  ],
+  "origin_label": "Pháp",
+  "country": "Pháp",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén",
+  "trust_label": null,
+  "short_description": "<p><strong>Thuốc Moxydar</strong> điều trị triệu chứng đau do bệnh ở thực quản, dạ dày, tá tràng; triệu chứng của bệnh <strong><a href=\"https://nhathuoclongchau.com.vn/bai-viet/nhung-dau-hieu-benh-trao-nguoc-da-day-thuc-quan-ban-nen-biet-42776.html\">trào ngược dạ dày – thực quản</a></strong>.</p>",
+  "description_html": "",
+  "usage_html": "<h3><b>Chỉ định</b></h3>\n\n<p><strong>Thuốc Moxydar</strong> được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>\n\t<p>Điều trị triệu chứng đau do bệnh ở thực quản, dạ dày, tá tràng.</p>\n\t</li>\n\t<li>\n\t<p>Điều trị triệu chứng của bệnh trào ngược dạ dày - thực quản.</p>\n\t</li>\n</ul>\n\n<h3><b>Dược lực học</b></h3>\n\n<p><strong>Moxydar</strong> kết hợp ba thành phần khoáng chất có tác dụng kháng acid với một thành phần có nguồn gốc từ thực vật có tính kháng acid nhẹ và có tính đệm giữa 11 và 1 để chuẩn bị hình thành hỗn dịch.</p>\n\n<p>Moxydar có các đặc tính như sau: </p>\n\n<ul>\n\t<li>\n\t<p>Tính kháng acid chủ yếu do tính đệm trên 1 quãng pH rộng với 3 vùng pH chủ yếu: 3.5, 2.0-1.5, 1.0.</p>\n\t</li>\n\t<li>\n\t<p>Khả năng hấp thụ các muối mật và lysolécithines. Khả năng này có tác dụng trong môi trường kiềm (đường ruột).</p>\n\t</li>\n\t<li>\n\t<p>Tác dụng chống loét.</p>\n\t</li>\n</ul>\n\n<h3><b>Dược động học</b></h3>\n\n<p>Không có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 42105,
+      "ingredientId": 8590,
+      "shortDescription": "500.0mg",
+      "name": "Aluminium hydroxide",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 42106,
+      "ingredientId": 26346,
+      "shortDescription": "500.0mg",
+      "name": "Magnesium hydroxide",
+      "isPrimary": false,
+      "slug": "thanh-phan/magnesium-hydroxide"
+    },
+    {
+      "id": 42107,
+      "ingredientId": 8602,
+      "shortDescription": "300.0mg",
+      "name": "Aluminium phosphate",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 72249,
+      "ingredientId": 43656,
+      "shortDescription": "200mg",
+      "name": "Gôm guar",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

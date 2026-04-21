@@ -1,0 +1,51 @@
+{
+  "id": "00043411",
+  "slug": "thuoc/drotaverin-40-mg-khapharco-10-x10.html",
+  "title": "Thuốc Drotaverin 40mg Khapharco điều trị cơn co thắt dạ dày và ruột, hội chứng ruột bị kích thích (10 vỉ x 10 viên)",
+  "short_title": "THUỐC DROTAVERIN 40MG KHAPHARCO PHARM HỘP 10 VỈ X 10 VIÊN",
+  "brand": {
+    "name": "Khapharco",
+    "slug": "thuong-hieu/khapharco",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tieu-hoa",
+    "name": "Thuốc tiêu hoá",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 10 Vỉ x 10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07102_5c3e48b86e.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07102_5c3e48b86e.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07103_22bfc39c8c.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07105_c065aa88f4.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07106_5a3c8a5a98.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07107_5371e86438.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07108_238eeeaf57.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07109_ca150421e0.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07110_e5f841eba7.png"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Drotaverin là sản phẩm của Khapharco, có thành phần chính là Drotaverin hydroclorid. Đây là thuốc được sử dụng để trị co thắt cơ có nguồn gốc từ cơ trơn: Co thắt dạ dày - ruột. Hội chứng ruột bị kích thích. Cơn đau quặn mật và các co thắt đường mật. Cơn đau quặn thận và các co thắt đường niệu - sinh dục. Các co thắt tử cung.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc Drotaverin được chỉ định dùng trong các trường hợp sau:</p><ul><li dir=\"ltr\">Trị co thắt cơ có nguồn gốc từ cơ trơn: Co thắt dạ dày - ruột. Hội chứng ruột bị kích thích. Cơn đau quặn mật và các co thắt đường mật. Cơn đau quặn thận và các co thắt đường niệu - sinh dục. Các co thắt tử cung.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 70668,
+      "ingredientId": 42616,
+      "shortDescription": "40mg",
+      "name": "Drotaverin hydroclorid",
+      "isPrimary": true,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

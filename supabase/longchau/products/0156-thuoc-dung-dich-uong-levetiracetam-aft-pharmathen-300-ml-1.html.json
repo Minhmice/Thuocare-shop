@@ -1,0 +1,44 @@
+{
+  "id": "00503427",
+  "slug": "thuoc/dung-dich-uong-levetiracetam-aft-pharmathen-300-ml-1.html",
+  "title": "Dung dịch uống Levetiracetam-Aft 100mg/ml Pharmathen S.A kiểm soát, ngăn ngừa động kinh (300ml)",
+  "short_title": "DUNG DỊCH UỐNG LEVETIRACETAM-AFT PHARMATHEN CHAI 300ML",
+  "brand": {
+    "name": "Pharmathen S.A",
+    "slug": "thuong-hieu/pharmathen-sa",
+    "country": "Hy Lạp"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-than-kinh/thuoc-than-kinh",
+    "name": "Thuốc thần kinh",
+    "parent_slug": "thuoc/thuoc-than-kinh"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Chai",
+  "pack_note": "Chai x 300ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00503427_DUNG_DICH_UONG_LEVETIRACETAM_AFT_PHARMATHEN_300_ML_2902b5cffc.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00503427_DUNG_DICH_UONG_LEVETIRACETAM_AFT_PHARMATHEN_300_ML_2902b5cffc.png"
+  ],
+  "origin_label": "Hy Lạp",
+  "country": "Hy Lạp",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch uống",
+  "trust_label": null,
+  "short_description": "<p>Dung dịch uống Levetiracetam - AFT là sản phẩm của Pharmathen S.A (Hy Lạp) chứa hoạt chất Levetiracetam dùng trong kiểm soát và ngăn ngừa các cơn động kinh, chống co giật.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Dung dịch uống Levetiracetam - AFT dùng trong kiểm soát và ngăn ngừa các cơn động kinh, chống co giật.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 53825,
+      "ingredientId": 25376,
+      "shortDescription": "100mg",
+      "name": "Levetiracetam",
+      "isPrimary": false,
+      "slug": "thanh-phan/levetiracetam"
+    }
+  ],
+  "stock_qty": 0
+}

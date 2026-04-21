@@ -1,0 +1,87 @@
+{
+  "id": "00033842",
+  "slug": "thuoc/bidi-bc-complex-300mg-100v-33938.html",
+  "title": "Thuốc Bidi BC Complex 300mg Bidiphar điều trị, phòng ngừa thiếu vitamin nhóm B và C (100 viên)  ",
+  "short_title": "BIDI BC COMPLEX 300MG 100V",
+  "brand": {
+    "name": "Bidiphar",
+    "slug": "thuong-hieu/bidiphar",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+    "name": "Thuốc bổ",
+    "parent_slug": "thuoc/thuoc-bo-and-vitamin"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "100 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00033842_bidi_bc_complex_300mg_100v_5934_6257_large_f184576794.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00033842_bidi_bc_complex_300mg_100v_5934_6257_large_f184576794.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00033842_bidi_bc_complex_300mg_100v_9656_6257_large_dde2626633.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00033842_bidi_bc_complex_300mg_100v_1002_6257_large_d615897411.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00033842_bidi_bc_complex_300mg_100v_3576_6257_large_b3e242c8f7.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang cứng",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Bidi Bc Complex là sản phẩm của Công ty Cổ phần Dược Trang thiết bị Y tế Bình Định (Bidiphar) có thành phần chính là Vitamin B1, Vitamin B2, Vitamin B6, Vitamin PP &amp; C có tác dụng điều trị và phòng ngừa các trường hợp thiếu vitamin nhóm B và C do chế độ ăn uống không cân đối, rối loạn đường tiêu hóa (ia chảy, viêm ruột, kém hấp thu do bệnh gan-mật), cắt bỏ dạ dày, người nghiện rượu, người mới ốm dậy, trẻ em kém ăn, gầy ốm, người già, người bị lao lực, người nuôi dưỡng bằng đường tĩnh mạch, thẩm phân màng bụng và thận nhân tạo.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p>Thuốc Bidi Bc Complex chỉ định điều trị trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Điều trị và phòng ngừa các trường hợp thiếu vitamin nhóm B và C do chế độ ăn uống không cân đối, rối loạn đường tiêu hóa (ia chảy, viêm ruột, kém hấp thu do bệnh gan-mật), cắt bỏ dạ dày, người nghiện rượu, người mới ốm dậy, trẻ em kém ăn, gầy ốm, người già, người bị lao lực, người nuôi dưỡng bằng đường tĩnh mạch, thẩm phân màng bụng và thận nhân tạo.</li>\n\t<li>Người bị viêm đa dây thần kinh do rượu, beriberi, thiếu máu nguyên bào sắt, viêm da tăng bã nhờn, khô nứt môi.</li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p>Chưa có dữ liệu.</p>\n\n<h3>Dược động học</h3>\n\n<p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 36403,
+      "ingredientId": 40316,
+      "shortDescription": "15mg",
+      "name": "Vitamin B1",
+      "isPrimary": false,
+      "slug": "thanh-phan/vitamin-b1"
+    },
+    {
+      "id": 36404,
+      "ingredientId": 40333,
+      "shortDescription": "5mg",
+      "name": "Vitamin B6",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 36405,
+      "ingredientId": 40324,
+      "shortDescription": "10mg",
+      "name": "Vitamin B2",
+      "isPrimary": false,
+      "slug": "thanh-phan/vitamin-b2"
+    },
+    {
+      "id": 36406,
+      "ingredientId": 40393,
+      "shortDescription": "50mg",
+      "name": "Vitamin PP",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 36407,
+      "ingredientId": 40349,
+      "shortDescription": "300mg",
+      "name": "Vitamin C",
+      "isPrimary": false,
+      "slug": "thanh-phan/vitamin-c"
+    },
+    {
+      "id": 36408,
+      "ingredientId": 40331,
+      "shortDescription": "10mg",
+      "name": "Vitamin B5",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

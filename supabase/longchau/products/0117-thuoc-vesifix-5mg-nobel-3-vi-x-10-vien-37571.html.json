@@ -1,0 +1,44 @@
+{
+  "id": "00503265",
+  "slug": "thuoc/vesifix-5mg-nobel-3-vi-x-10-vien-37571.html",
+  "title": "Thuốc Vesifix 5mg Nobel điều trị chứng tiểu tiện không tự chủ, hội chứng bàng quan tăng hoạt động (3 vỉ x 10 viên)",
+  "short_title": "VESIFIX 5MG NOBEL 3 VỈ X 10 VIÊN",
+  "brand": {
+    "name": "Nobel",
+    "slug": "thuong-hieu/nobel",
+    "country": "Thổ Nhĩ Kỳ"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-tri-benh-tuyen-tien-liet",
+    "name": "Thuốc trị bệnh tuyến tiền liệt",
+    "parent_slug": "thuoc/thuoc-tiet-nieu-sinh-duc"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 3 Vỉ x 10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/932_00503265_8d0cadc90a.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/932_00503265_8d0cadc90a.jpg"
+  ],
+  "origin_label": "Thổ Nhĩ Kỳ",
+  "country": "Thổ Nhĩ Kỳ",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Vesifix 5mg là sản phẩm của Công ty Nobel Ilac Sanayii ve ticaret A.S, thành phần chính là Solifenacin succinat. Thuốc được chỉ định để điều trị chứng tiểu tiện không tự chủ, tiểu nhiều lần, tiểu gấp ở những bệnh nhân có hội chứng bàng quan tăng hoạt động.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Vesifix 5mg được chỉ định trong các trường hợp bàng quang hoạt động quá mức gây ra các triệu chứng như tiểu tiện không tự chủ, tiểu són, tiểu nhiều lần, tiểu thường xuyên, tiểu gấp,..</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 55307,
+      "ingredientId": 36462,
+      "shortDescription": "5mg",
+      "name": "Solifenacin succinat",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

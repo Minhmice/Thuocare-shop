@@ -1,0 +1,44 @@
+{
+  "id": "00503511",
+  "slug": "thuoc/taflotan-s-dung-dich-nho-mat-santen-hop-30-lo-x-03ml-37834.html",
+  "title": "Thuốc nhỏ mắt Taflotan-S 0.3ml Santen giảm áp lực nội nhãn cao do glaucoma góc mở hoặc tăng nhãn áp (30 lọ)",
+  "short_title": "TAFLOTAN-S DUNG DỊCH NHỎ MẮT SANTEN 30 LỌ X 0.3ML",
+  "brand": {
+    "name": "Santen",
+    "slug": "thuong-hieu/santen",
+    "country": "Nhật Bản"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-mat-tai-mui-hong/thuoc-nho-mat",
+    "name": "Thuốc nhỏ mắt",
+    "parent_slug": "thuoc/thuoc-mat-tai-mui-hong"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 30 Lọ x 0.3ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00503511_7eada6589f.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00503511_7eada6589f.jpg"
+  ],
+  "origin_label": "Nhật Bản",
+  "country": "Nhật Bản",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch nhỏ mắt",
+  "trust_label": null,
+  "short_description": "<p>Dung dịch nhỏ mắt Taflotan-S là sản phẩm của Santen Pharmaceutical Co., Ltd với thành phần chính là Tafluprost. Dung dịch nhỏ mắt Taflotan-S có tác dụng làm giảm áp lực nội nhãn cao ở bệnh nhân glaucoma góc mở hoặc tăng nhãn áp.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Làm giảm áp lực nội nhãn cao ở bệnh nhân glaucoma góc mở hoặc tăng nhãn áp.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 57310,
+      "ingredientId": 37355,
+      "shortDescription": "4.5mcg",
+      "name": "Tafluprost",
+      "isPrimary": false,
+      "slug": "thanh-phan/tafluprost"
+    }
+  ],
+  "stock_qty": 0
+}

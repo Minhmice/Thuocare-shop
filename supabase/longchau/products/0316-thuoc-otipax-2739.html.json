@@ -1,0 +1,56 @@
+{
+  "id": "00005656",
+  "slug": "thuoc/otipax-2739.html",
+  "title": "Thuốc nhỏ tai Otipax Biocodex điều trị đau do viêm tai (15ml)",
+  "short_title": "OTIPAX 15ML",
+  "brand": {
+    "name": "Biocodex",
+    "slug": "thuong-hieu/biocodex",
+    "country": "Pháp"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-mat-tai-mui-hong/thuoc-nho-tai",
+    "name": "Thuốc nhỏ tai",
+    "parent_slug": "thuoc/thuoc-mat-tai-mui-hong"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Chai",
+  "pack_note": "Chai x 15ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005656_otipax_8723_60ee_large_27efd8b8ef.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005656_otipax_8723_60ee_large_27efd8b8ef.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005656_otipax_1627393849_4da61ed265.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005656_otipax_4931_60ee_large_331f6c3100.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005656_otipax_9305_60ee_large_2bed447e39.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005656_otipax_4868_60ee_large_4ceecceac5.jpg"
+  ],
+  "origin_label": "Pháp",
+  "country": "Pháp",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch nhỏ tai",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Otipax của công ty Bicodex, thành phần chính là phenazon và lidocain hydroclorid, thuốc được dùng để điều trị triệu chứng đau tại chỗ, đặc biệt trong viêm tai bóng nước do virus trong bệnh cúm, viêm tai chấn thương do áp suất &amp; viêm tai giữa cấp trong giai đoạn sung huyết.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p>Thuốc Otipax được chỉ định dùng trong các trường hợp sau:</p>\n\n<p><em>Điều trị triệu chứng đau tại chỗ các dạng viêm tai với màng nhĩ còn nguyên vẹn đối với trẻ trên 6 tháng tuổi và người lớn:</em></p>\n\n<ul>\n\t<li>\n\t<p>Viêm tai có bóng nước do virus.</p>\n\t</li>\n\t<li>\n\t<p><a href=\"https://nhathuoclongchau.com.vn/benh/viem-tai-giua-474.html\">Viêm tai giữa</a> cấp xung huyết.</p>\n\t</li>\n\t<li>\n\t<p>Viêm tai chấn thương do áp suất. </p>\n\t</li>\n</ul>\n\n<p>Tính an toàn và hiệu quả đối với trẻ dưới 6 tháng tuổi chưa được chứng minh.</p>\n\n<h3>Dược lực học</h3>\n\n<p>Phenazon có dẫn xuất pyrazol có tính giảm đau, kháng viêm.</p>\n\n<p>Lidocain: Thuốc giảm đau tại chỗ nhóm amid.</p>\n\n<h3>Dược động học</h3>\n\n<p>Thuốc có tác dụng tại chỗ, không khuếch tán toàn thân trừ khi bị thủng màng nhĩ.</p>",
+  "ingredients_html": [
+    {
+      "id": 22683,
+      "ingredientId": 32197,
+      "shortDescription": "4g",
+      "name": "Phenazone",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 22684,
+      "ingredientId": 41871,
+      "shortDescription": "1g",
+      "name": "Lidocaine hydrochloride",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

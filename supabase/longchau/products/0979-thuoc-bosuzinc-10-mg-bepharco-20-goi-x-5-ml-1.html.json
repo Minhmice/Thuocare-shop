@@ -1,0 +1,44 @@
+{
+  "id": "00039382",
+  "slug": "thuoc/bosuzinc-10-mg-bepharco-20-goi-x-5-ml-1.html",
+  "title": "Thuốc Bosuzinc 10mg Bepharco điều trị thiếu kẽm (20 gói x 5ml)",
+  "short_title": "BOSUZINC 10MG BEPHARCO 20 GÓI X 5ML",
+  "brand": {
+    "name": "Bepharco",
+    "slug": "thuong-hieu/bephaco",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-bo-and-vitamin/siro-bo",
+    "name": "Siro bổ",
+    "parent_slug": "thuoc/thuoc-bo-and-vitamin"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Gói",
+  "pack_note": "20 Gói x 5ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00039382_6e53b3704c.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00039382_6e53b3704c.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Siro",
+  "trust_label": null,
+  "short_description": "<p>Thuốc BOSUZINC là sản phẩm của Bepharco, có thành phần chính là Kẽm. Đây là thuốc được sử dụng để bổ sung nhu cầu hàng ngày và điều trị thiếu kẽm.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc BOSUZINC được chỉ định dùng trong các trường hợp sau:</p><p>Bổ sung nhu cầu hàng ngày và điều trị thiếu kẽm trong các trường hợp:</p><ul><li>Tiêu chảy cấp và mạn tính.</li><li>Trẻ suy dinh dưỡng, chán ăn, chậm tăng trưởng, khóc đêm.</li><li>Mau lành vết thương.</li><li>Tăng cường miễn dịch.</li><li>Tăng trưởng chiều cao và tầm vóc.</li><li>Đàn ông trên 40 tuổi giúp tránh nguy cơ phì đại tuyến tiền liệt.</li><li>Mụn trứng cá lâu năm.</li><li>Nhiễm trùng tái phát ở đường hô hấp, tiêu hóa, bệnh ngoài da, kể cả mụn và rôm sảy.</li><li>Các tổn thương ngoài da: Da bị sừng hóa, khô ráp, dễ bị dị ứng, chàm, da đầu nhiều gàu.</li><li>Loạn dưỡng móng: Móng có bớt trắng, lâu mọc móng.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p><strong>Nhóm dược lý trị liệu: Thuốc bổ (A: Đường tiêu hóa, chuyển hóa).</strong></p><p>Kẽm là một nguyên tố vi lượng rất cần thiết trong dinh dưỡng. Là thành phần của nhiều hệ enzym và hiện diện ở tất cả các mô của cơ thể.</p><h3 dir=\"ltr\">Dược động học</h3><p>Kẽm hấp thu không hoàn toàn từ đường tiêu hóa và sinh khả dụng khoảng 20 - 30%. Kẽm phân phối hầu hết các mô, cao nhất là ở cơ, xương, da và dịch tiền liệt. Thuốc thải trừ chủ yếu ở phân, lượng nhỏ thải trừ ở thận và mồ hôi.</p>",
+  "ingredients_html": [
+    {
+      "id": 56450,
+      "ingredientId": 24482,
+      "shortDescription": "10mg",
+      "name": "Kẽm",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

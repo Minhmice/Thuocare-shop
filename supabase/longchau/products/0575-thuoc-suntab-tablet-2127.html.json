@@ -1,0 +1,48 @@
+{
+  "id": "00007074",
+  "slug": "thuoc/suntab-tablet-2127.html",
+  "title": "Thuốc Suntab Tablet DongKoo điều trị triệu chứng viêm xương khớp (10 vỉ x 10 viên)",
+  "short_title": "SUNTAB 10X10",
+  "brand": {
+    "name": "Dongkoo",
+    "slug": "thuong-hieu/dongkoo",
+    "country": "Hàn Quốc"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem/thuoc-giam-dau-khang-viem",
+    "name": "Thuốc giảm đau kháng viêm",
+    "parent_slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007074_suntab_tablet_6466_5b23_large_553e10a51d.JPG",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007074_suntab_tablet_6466_5b23_large_553e10a51d.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007074_suntab_tablet_9797_5b23_large_d18f45352c.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007074_suntab_tablet_5975_5b23_large_38e33d5fe7.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007074_suntab_tablet_7671_5b23_large_5f93aa8f16.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007074_suntab_tablet_9762_5b23_large_36a1aca000.JPG"
+  ],
+  "origin_label": "Hàn Quốc",
+  "country": "Hàn Quốc",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p><strong>Suntab Tablet</strong> do <em>Công ty Dongkoo Pharm Co., Ltd - Hàn Quốc</em> sản xuất. Thuốc có chứa thành phần namebutone 500mg.</p>\n\n<p>Suntab Tablet dùng để điều trị các triệu chứng cấp và mãn tính của viêm xương khớp mãn tính và viêm khớp dạng thấp (viêm, sưng, cứng và đau khớp).</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p><strong>Thuốc Suntab Tablet</strong> được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Điều trị các triệu chứng cấp và mãn tính của viêm xương khớp mãn tính và <strong><a href=\"https://nhathuoclongchau.com.vn/benh/viem-khop-dang-thap-254.html\">viêm khớp dạng thấp</a></strong> (viêm, sưng, cứng và đau khớp).</li>\n</ul>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p><strong><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/nabumetone\">Nabumetone</a></strong> thuộc nhóm kháng viêm không steroide có tác dụng kháng viêm, giảm đau và hạ sốt. Thuốc có khả năng ức chế sinh tổng họp prostaglandin, là chất trung gian gây viêm.</p>\n\n<p>Nabumetone là tiền chất, sau khi được chuyển hóa sinh học qua gan sẽ tạo ra 6 - methoxy - 2 naphthylacetic acid (6MNA) là thành phần có hoạt tính với khả năng ức chế sự tổng hợp prostaglandin.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Sau khi uống, khoảng 80% liều nabumetone đánh dấu được tìm thấy trong nước tiểu. Nabumetone không tìm thấy trong huyết tương, sau khi được hấp thu, nabumetone được biến đổi sinh học nhanh chóng thành chất chuyển hóa có hoạt tính chính, 6-methoxy-2-naphthylacetic acid (6MNA). Sau khi uống liều 1000mg thì khoảng 35% được chuyển hóa thành 6MNA và 50% được chuyển hóa thành các chất chưa xác định và chúng được đào thải qua nước tiếu.</p>\n\n<p>6MNA gắn kết với protein huyết tương khoảng 99%.</p>\n\n<p>Sử dụng chung với thức ăn sẽ làm tăng tỉ lệ hấp thu và sự xuất hiện của 6MNA trong huyết tương nhưng không ảnh hưởng đến sự chuyển hóa nabumetone thành 6MNA. Nồng độ đỉnh của 6MNA trong huyết tương tăng khoảng 1/3.</p>\n\n<p>Sử dụng chung với các kháng acid có chứa nhôm không làm ảnh hưởng đáng kể đến sinh khả dụng của 6MNA.</p>\n\n<p>6MNA được chuyển hóa qua gan tạo thành các chất chuyển hóa không hoạt tính và được đào thải dưới 2 dạng tự do và dạng kết hợp. Khoảng 75% liều đánh dấu được tìm thấy trong nước tiểu sau 48 giờ. Sau khi uống liều 1000 - 2000mg, độ thanh thải ở huyết tương trung bình là 20 - 30ml/phút và thời gian bán thải khoảng 24 giờ.</p>",
+  "ingredients_html": [
+    {
+      "id": 30711,
+      "ingredientId": 28912,
+      "shortDescription": "500mg",
+      "name": "Nabumetone",
+      "isPrimary": false,
+      "slug": "thanh-phan/nabumetone"
+    }
+  ],
+  "stock_qty": 0
+}

@@ -1,0 +1,44 @@
+{
+  "id": "00043183",
+  "slug": "thuoc/eranfu-250-mg-dr-reddy-s.html",
+  "title": "Thuốc Eranfu 250mg Dr. Reddy điều trị ung thư vú",
+  "short_title": "ERANFU 250MG DR. REDDY'S 2 ỐNG X 5ML",
+  "brand": {
+    "name": "Dr. Reddy",
+    "slug": "thuong-hieu/dr-reddy",
+    "country": "Ấn Độ"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-dieu-tri-ung-thu/thuoc-chong-ung-thu",
+    "name": "Thuốc chống ung thư",
+    "parent_slug": "thuoc/thuoc-dieu-tri-ung-thu"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 2 Ống x 5ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/877_cb9012ae70.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/877_cb9012ae70.jpg"
+  ],
+  "origin_label": "Ấn Độ",
+  "country": "Ấn Độ",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch tiêm",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Eranfu 250mg là sản phẩm của Dr. Reddys Laboratories Ltd., có thành phần chính là Fulvestrant. Thuốc được sử dụng cho phụ nữ sau mãn kinh bị ung thư vú tiến triển tại chỗ hoặc di căn có thụ thể estrogen dương tính, tái phát trong hoặc sau điều trị kháng estrogen bổ trợ, hoặc tiến triển khi đang điều trị kháng estrogen.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Eranfu 250mg được chỉ định dùng trong các trường hợp sau:</p><ul><li>Đơn trị liệu để điều trị ung thư vú dương tính với thụ thể estrogen, tiến triển tại chỗ hoặc di căn ở phụ nữ sau mãn kinh, trước đây không được điều trị bằng liệu pháp nội tiết, hoặc bệnh tái phát khi hoặc sau khi điều trị bằng antioestrogen bổ trợ, hoặc sự tiến triển của bệnh khi điều trị bằng antioestrogen.</li><li>Kết hợp với palbociclib để điều trị thụ thể hormone (HR) dương tính, thụ thể yếu tố tăng trưởng biểu bì ở người 2 (HER2) – ung thư vú tiến triển tại chỗ hoặc di căn ở phụ nữ đã được điều trị nội tiết trước đó</li></ul><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 60963,
+      "ingredientId": 20784,
+      "shortDescription": "250mg",
+      "name": "Fulvestrant",
+      "isPrimary": true,
+      "slug": "thanh-phan/fulvestrant"
+    }
+  ],
+  "stock_qty": 0
+}

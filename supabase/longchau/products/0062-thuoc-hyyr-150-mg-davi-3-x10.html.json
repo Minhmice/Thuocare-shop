@@ -1,0 +1,44 @@
+{
+  "id": "00038570",
+  "slug": "thuoc/hyyr-150-mg-davi-3-x10.html",
+  "title": "Thuốc Hyyr 150mg Davipharm điều trị ung thư phổi không phải tế bào nhỏ (3 vỉ x 10 viên)",
+  "short_title": "HYYR 150MG DAVI 3X10",
+  "brand": {
+    "name": "Davipharm",
+    "slug": "thuong-hieu/davipharm",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-dieu-tri-ung-thu/thuoc-chong-ung-thu",
+    "name": "Thuốc chống ung thư",
+    "parent_slug": "thuoc/thuoc-dieu-tri-ung-thu"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 3 Vỉ x 10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/hyrr_3f3d1d72a0.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/hyrr_3f3d1d72a0.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Hyyr là sản phẩm của Davipharm, có thành phần chính là Erlotinib. Đây là thuốc được sử dụng để điều trị những bệnh nhân ung thư phổi không phải tế bào nhỏ tiến triển tại chỗ hoặc di căn sau khi thất bại ít nhất một chế độ hóa trị liệu trước đó; phối hợp với gemcitabine được chỉ định để điều trị bước một cho những bệnh nhân ung thư tụy tiến triển tại chỗ, không cắt bỏ được hoặc di căn.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\"><a href=\"https://nhathuoclongchau.com.vn/thuoc/hyyr-150-mg-davi-3-x10.html\">Thuốc Hyyr</a> được chỉ định dùng trong các trường hợp sau:</p><ul><li><a href=\"https://nhathuoclongchau.com.vn/benh/ung-thu-phoi-428.html\">Ung thư phổi</a> không phải tế bào nhỏ: Chỉ định để điều trị những bệnh nhân ung thư phổi không phải tế bào nhỏ tiến triển tại chỗ hoặc di căn sau khi thất bại ít nhất một chế độ hóa trị liệu trước đó.</li><li><a href=\"https://nhathuoclongchau.com.vn/benh/ung-thu-tuy-2.html\">Ung thư tuỵ</a>: Phối hợp với gemcitabine được chỉ định để điều trị bước một cho những bệnh nhân ung thư tụy tiến triển tại chỗ, không cắt bỏ được hoặc di căn.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 54002,
+      "ingredientId": 19406,
+      "shortDescription": "150mg",
+      "name": "Erlotinib",
+      "isPrimary": false,
+      "slug": "thanh-phan/erlotinib"
+    }
+  ],
+  "stock_qty": 0
+}

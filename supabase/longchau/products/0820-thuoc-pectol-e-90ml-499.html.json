@@ -1,0 +1,89 @@
+{
+  "id": "00005793",
+  "slug": "thuoc/pectol-e-90ml-499.html",
+  "title": "Siro trị ho trẻ em Pectol-E Sagopha điều trị ho, viêm phế quản, suyễn, cảm, sổ mũi (90ml)",
+  "short_title": "PECTOL-E SGP 90ML",
+  "brand": {
+    "name": "Sagopha",
+    "slug": "thuong-hieu/sagopha",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-ho-hap/siro-tri-ho-cam",
+    "name": "Siro trị ho cảm",
+    "parent_slug": "thuoc/thuoc-ho-hap"
+  },
+  "price_amount": 39000,
+  "compare_at_amount": 0,
+  "unit": "Chai",
+  "pack_note": "Chai x 90ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005793_pectol_e_90ml_1781_5b0c_large_7646dfc216.JPG",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005793_pectol_e_90ml_1781_5b0c_large_7646dfc216.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005793_pectol_e_90ml_1619523688_60f158a469.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/5793_pectol_e_siro_giam_ho_tre_em_9522_599f_large_dc29df9aab.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005793_pectol_e_90ml_2554_5b0c_large_162b42ebcb.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005793_pectol_e_90ml_5826_5b0c_large_fe5b8a3bd3.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005793_pectol_e_90ml_4967_5b0c_large_9d28c09f06.JPG"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Siro",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Pactol là thuốc của công ty TNHH Dược phẩm Sài Gòn (SAGOPHA), thành phần chiết xuất tự nhiên. Pectol - E® được dùng để điều trị viêm phế quản, ho, cảm, sổ mũi.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Pectol - E® được chỉ định dùng trong các trường hợp sau:</p><ul><li>Ho;</li><li><a href=\"https://nhathuoclongchau.com.vn/benh/viem-phe-quan-cap-tinh-611.html\"><strong>Viêm phế quản</strong></a>;</li><li>Suyễn;</li><li>Cảm;</li><li>Sổ mũi.</li></ul><h3>Dược lực học</h3><p>Chưa có báo cáo.</p><h3>Dược động học</h3><p>Chưa có báo cáo.</p>",
+  "ingredients_html": [
+    {
+      "id": 26437,
+      "ingredientId": 19829,
+      "shortDescription": "0.18",
+      "name": "Eucalyptol",
+      "isPrimary": false,
+      "slug": "thanh-phan/eucalyptol"
+    },
+    {
+      "id": 26438,
+      "ingredientId": 40222,
+      "shortDescription": "14.58",
+      "name": "Viễn chí",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 26439,
+      "ingredientId": 29238,
+      "shortDescription": "2.7",
+      "name": "Natri benzoat",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 26440,
+      "ingredientId": 15687,
+      "shortDescription": "1.8",
+      "name": "Cồn bọ mắm",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 26441,
+      "ingredientId": 22731,
+      "shortDescription": "16.2",
+      "name": "Húng chanh",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 26442,
+      "ingredientId": 11363,
+      "shortDescription": "0.18",
+      "name": "Bồ đề",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

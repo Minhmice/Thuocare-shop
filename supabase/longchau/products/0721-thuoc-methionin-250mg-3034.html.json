@@ -1,0 +1,45 @@
+{
+  "id": "00004881",
+  "slug": "thuoc/methionin-250mg-3034.html",
+  "title": "Viên nang cứng Methionine 250mg Mekophar điều trị quá liều paracetamol (100 viên)",
+  "short_title": "METHIONINE 250MG MEKOPHAR 100V",
+  "brand": {
+    "name": "Mekophar",
+    "slug": "thuong-hieu/mekophar",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-benh-gan",
+    "name": "Thuốc trị bệnh gan",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 100 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004881_c54a8eba54.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004881_c54a8eba54.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004881_methionin_250mg_1628789693_32760ca6a5.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang cứng",
+  "trust_label": null,
+  "short_description": "<p><strong>Thuốc Methionine 250mg</strong> là sản phẩm của <em>Công ty Cổ phần Hóa - Dược phẩm Mekophar</em>, hoạt chất chính là DL - methionine, đây là thuốc dùng để điều trị quá liều paracetamol khi không có acetylcysteine. Ngoài ra còn dùng để toan hóa nước tiểu.</p>\n\n<p>Methionine 250mg được bào chế dưới dạng viên nang cứng, mỗi viên nang cứng chứa 250mg DL - methionine. Thuốc được đóng gói theo quy cách: Chai 100 viên nang cứng.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p><strong>Thuốc Methionine 250mg</strong> được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Điều trị quá liều <strong><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/acetaminophen\">paracetamol</a></strong> khi không có acetylcysteine.</li>\n\t<li>Ngoài ra còn dùng để toan hóa nước tiểu.</li>\n</ul>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p><strong><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/methionine\">Methionine</a></strong> là một acid amin thiết yếu có trong thành phần của chế độ ăn và trong công thức của các chế phẩm đa acid amin để nuôi dưỡng cơ thể.</p>\n\n<p>Methionine tăng cường tổng hợp glutathione và được sử dụng thay thế cho acetylcysteine trong điều trị ngộ độc paracetamol phòng ngừa tổn thương gan. Methionine còn được dùng theo đường uống để làm giảm pH nước tiểu.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Methionine được chuyển hóa ở gan.</p>",
+  "ingredients_html": [
+    {
+      "id": 22319,
+      "ingredientId": 27176,
+      "shortDescription": "250mg",
+      "name": "Methionin",
+      "isPrimary": false,
+      "slug": "thanh-phan/methionin"
+    }
+  ],
+  "stock_qty": 0
+}

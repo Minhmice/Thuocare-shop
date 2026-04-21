@@ -1,0 +1,48 @@
+{
+  "id": "00005193",
+  "slug": "thuoc/nebivox-5-2905.html",
+  "title": "Thuốc Nebivox 5mg Micro điều trị tăng huyết áp (1 vỉ x 10 viên)",
+  "short_title": "NEBIVOX 5 MICRO 1X10",
+  "brand": {
+    "name": "Micro",
+    "slug": "thuong-hieu/micro",
+    "country": "Ấn Độ"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap",
+    "name": "Thuốc tim mạch huyết áp",
+    "parent_slug": "thuoc/thuoc-tim-mach-and-mau"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005193_nebivox_5_1622_5b8f_large_c1f4a68523.JPG",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005193_nebivox_5_1622_5b8f_large_c1f4a68523.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005193_nebivox_5_8335_5b8f_large_c355e22127.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005193_nebivox_5_4593_5b8f_large_90ab5d6221.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/00005193_nebivox_5_7630_5b8f_large_0d80fa13f9.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005193_nebivox_5_9637_5b8f_large_cd950ca5c6.JPG"
+  ],
+  "origin_label": "Ấn Độ",
+  "country": "Ấn Độ",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén",
+  "trust_label": null,
+  "short_description": "<p>Nebivox của công ty Micro Labs Limited, thành phần chính là nebivolol hydrochloride. Thuốc có tác dụng điều trị tăng huyết áp.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Nebivox được chỉ định sử dụng trong các trường hợp:</p><ul><li>Điều trị các trường hợp tăng huyết áp từ nhẹ tới trung bình.</li><li>Nebivolol có thể dùng khi huyết áp tăng cao.</li></ul><h3>Dược lực học</h3><p>Nebivolol là một hỗn hợp racemic gồm hai dạng đồng phân SRRR - nebivolol (hay d - nebivolol) và RSSS - nebivolol (hay I - nebivolol). Nebivolol ức chế thụ thể beta - 1 chọn lọc. Thuốc cũng điều hòa việc phóng thích nitric oxide để tạo ra sự giãn mạch, từ đó giảm toàn bộ sức cản ngoại biên, làm giảm huyết áp.</p><h3>Dược động học</h3><p><i>Hấp thu</i></p><p>Có thể uống nebivolol cùng hoặc không cùng với thức ăn với nồng độ đỉnh trong huyết tương đạt được trong vòng 2 – 6 giờ sau khi uống thuốc.</p><p><i>Chuyển hóa</i></p><p>Thuốc được chuyển hoá một phần thành các chất chuyển hóa hydroxyl có hoạt tính. Sinh khả dụng của nebivolol trung bình là 12% ở chất chuyển hoá có hoạt tính và hầu như không còn ở chất chuyển hoá ít hoạt tính. Nhưng sinh khả dụng trung bình của các chất đối hình và các chất chuyển hóa hydroxyl là hoàn toàn tương tự giữa các chất chuyển hoá có hoạt tính và ít hoạt tính; không thấy có sự khác nhau giữa các tác dụng dược lý học.</p>",
+  "ingredients_html": [
+    {
+      "id": 22500,
+      "ingredientId": 29438,
+      "shortDescription": "5mg",
+      "name": "Nebivolol",
+      "isPrimary": false,
+      "slug": "thanh-phan/nebivolol"
+    }
+  ],
+  "stock_qty": 0
+}

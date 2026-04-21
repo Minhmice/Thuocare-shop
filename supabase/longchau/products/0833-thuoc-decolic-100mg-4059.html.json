@@ -1,0 +1,49 @@
+{
+  "id": "00002307",
+  "slug": "thuoc/decolic-100mg-4059.html",
+  "title": "Bột Decolic điều trị triệu chứng đau do rối loạn chức năng đường tiêu hóa và ống mật (20 gói x 1.15g)",
+  "short_title": "DECOLIC F.T 20 GÓI",
+  "brand": {
+    "name": "Dược 3-2",
+    "slug": "thuong-hieu/duoc-3-2",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tieu-hoa",
+    "name": "Thuốc tiêu hoá",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Gói",
+  "pack_note": "20 Gói x 1.15g",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002307_decolic_100mg_ft_pharma_3240_5b48_large_23044de2f1.JPG",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002307_decolic_100mg_ft_pharma_3240_5b48_large_23044de2f1.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002307_decolic_100mg_1628439960_3cc3f5f8cc.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002307_decolic_100mg_ft_pharma_6061_5b48_large_6a0aad60a1.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002307_decolic_100mg_ft_pharma_8725_5b48_large_98b59196fc.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002307_decolic_100mg_ft_pharma_7396_5b48_large_738925d11d.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002307_decolic_100mg_8868_6110_large_b03bc9a8f7.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Bột pha hỗn dịch uống",
+  "trust_label": null,
+  "short_description": "<p style=\"text-align:justify;\">Decolic của Công Ty Cổ Phần Dược Phẩm 3/2 - Việt Nam, điều trị triệu chứng đau do rối loạn chức năng của ống tiêu hóa và đường mật, điều trị triệu chứng đau, rối loạn sự chuyển vận, bất ổn ở ruột có liên quan đến rối loạn chức năng của ruột.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p>Decolic được chỉ định trong các trường hợp:</p>\n\n<ul>\n\t<li>\n\t<p>Điều trị triệu chứng đau do rối loạn chức năng của ống tiêu hóa và đường mật.</p>\n\t</li>\n\t<li>\n\t<p>Điều trị <a href=\"https://nhathuoclongchau.com.vn/benh/hoi-chung-ruot-kich-thich-118.html\">hội chứng ruột kích thích</a>, rối loạn chức năng tiêu hóa, co thắt đau quặn bụng, đầy hơi, <a href=\"https://nhathuoclongchau.com.vn/benh/tieu-chay-133.html\">tiêu chảy</a> hoặc <a href=\"https://nhathuoclongchau.com.vn/benh/tao-bon-246.html\">táo bón</a>.</p>\n\t</li>\n</ul>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Thuốc chống co thắt có tác dụng trên cơ. Điều chỉnh sự vận động đường tiêu hóa. Là một chất chủ vận enképhalinergique ở ngoại biên.</p>\n\n<p><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/trimebutine\">Trimebutin</a> có thể kích thích sự vận động ở ruột và cũng có thể ức chế sự vận động này nếu trước đó đã bị kích thích.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Thuốc đạt nồng độ tối đa trong máu sau khi uống từ 1 - 2 giờ.</p>\n\n<p>Thuốc được đào thải nhanh, chủ yếu qua nước tiểu, trung bình 70% sau 24 giờ.</p>",
+  "ingredients_html": [
+    {
+      "id": 20971,
+      "ingredientId": 39366,
+      "shortDescription": "24mg",
+      "name": "Trimebutin",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

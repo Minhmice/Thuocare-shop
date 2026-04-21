@@ -1,0 +1,46 @@
+{
+  "id": "00010003",
+  "slug": "thuoc/cc-life-100mg5ml-1423.html",
+  "title": "Siro C.C Life 100mg/5ml Foripharm điều trị thiếu vitamin C (60ml)",
+  "short_title": "C.C LIFE FORIPHARM 60ML",
+  "brand": {
+    "name": "Foripharm",
+    "slug": "thuong-hieu/foripharm",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-bo-and-vitamin/siro-bo",
+    "name": "Siro bổ",
+    "parent_slug": "thuoc/thuoc-bo-and-vitamin"
+  },
+  "price_amount": 30000,
+  "compare_at_amount": 0,
+  "unit": "Chai",
+  "pack_note": "Chai x 60ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00010003_9167d4de46.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00010003_9167d4de46.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00010003_cc_life_100mg5ml_1626098561_a86c6a252d.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00010003_cc_life_100mg5ml_2463_60ec_large_c2f6c8fd0d.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Siro",
+  "trust_label": null,
+  "short_description": "<p>Siro C.C.Life được sản xuất bởi Công ty Cổ phần Dược phẩm Trung Ương 3, với thành phần chính Acid ascorbic, là thuốc dùng để phòng và điều trị thiếu vitamin C ở trẻ sơ sinh và trẻ em.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p>Thuốc Siro C.C.Life được chỉ định dùng trong các trường hợp sau:</p>\n\n<p>Phòng và điều trị thiếu vitamin C ở trẻ sơ sinh và trẻ em.</p>\n\n<h3>Dược lực học</h3>\n\n<p>C.C.Life giúp cơ thể gia tăng sức đề kháng chống lại stress và các bệnh nhiễm trùng, hồi phục sức khoẻ nhanh chóng và mau lành vết thương. C.C.Life rất cần thiết cho sự tạo thành và duy trì sự chắc chắn, khoẻ mạnh của nướu, răng, sụn, mô xương, mạch máu và mô liên kết. </p>\n\n<h3>Dược động học</h3>\n\n<p>Chưa có báo cáo.</p>",
+  "ingredients_html": [
+    {
+      "id": 24222,
+      "ingredientId": 40349,
+      "shortDescription": "100mg",
+      "name": "Vitamin C",
+      "isPrimary": false,
+      "slug": "thanh-phan/vitamin-c"
+    }
+  ],
+  "stock_qty": 0
+}

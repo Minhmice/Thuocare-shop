@@ -1,0 +1,62 @@
+{
+  "id": "00004360",
+  "slug": "thuoc/leolen-forte-5mg-3274.html",
+  "title": "Viên nang cứng Leolen Forte OPC điều trị đau dây thần kinh (3 vỉ x 10 viên)",
+  "short_title": "LEOLEN FORTE OPC 3X10",
+  "brand": {
+    "name": "Opc",
+    "slug": "thuong-hieu/opc",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-than-kinh/thuoc-than-kinh",
+    "name": "Thuốc thần kinh",
+    "parent_slug": "thuoc/thuoc-than-kinh"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_3058_dc27495eba.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_3058_dc27495eba.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_3059_196dab0e1b.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_3060_8b67f32547.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_3062_fbcd0607c0.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_3063_6cc3b9bc60.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_3064_3b8e1545c2.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_3065_381daf0823.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_3066_3714f999db.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_3067_d82a4dcc4c.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/leolen_forte_1_b0ff3bf247.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/leolen_forte_2_4a0a4b2c3b.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang cứng",
+  "trust_label": null,
+  "short_description": "<p><strong>Thuốc Leolen Forte</strong> của <em>Công ty Cổ phần Dược phẩm OPC</em>, có thành phần chính gồm Cytidine -5’-disodium monophosphate 5 mg; Uridine-5'-trisodium triphosphate 3 mg (tương đương Uridine 1.33 mg). Thuốc có tác dụng điều trị đau dây thần kinh, viêm rễ thần kinh, đau lưng, thần kinh tọa, thần kinh cổ, thần kinh gian sườn, thần kinh sinh ba; đau dây thần kinh do nhiễm trùng, AIDS, Herpes; bệnh lý đa dây thần kinh do <strong><a href=\"https://nhathuoclongchau.com.vn/benh/benh-tieu-duong-289.html\">đái tháo đường</a></strong>, nghiện rượu; bệnh cơ do thần kinh ngoại biên; bệnh lý thần kinh ngoại biên do thiếu dinh dưỡng; bệnh cơ khớp.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p>Thuốc Leolen Forte được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Hỗ trợ điều trị các bệnh lý thần kinh ngoại biên có liên quan đến bệnh xương khớp (đau dây thần kinh tọa, viêm rễ thần kinh...), do chuyển hóa (viêm đa dây thần kinh do tiểu đường hay nghiện rượu...), nhiễm <strong><a href=\"https://nhathuoclongchau.com.vn/benh/nhiem-herpes-zoster-58.html\">herpes zoster</a></strong>, hoặc do lạnh.</li>\n\t<li>Hỗ trợ điều trị đau dây thần kinh mặt, thần kinh sinh ba, thần kinh gian sườn, đau thắt lưng.</li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p>Các muối Uridine và Cytidine có tác dụng:</p>\n\n<ul>\n\t<li>Làm tăng sự hồi phục và tái tạo lại bao myelin của sợi thần kinh đã bị thoái hóa.</li>\n\t<li>Làm tăng mật độ và tăng tốc độ dẫn truyền xung động của các dây thần kinh.</li>\n</ul>\n\n<p>Cytidine-5’- monophosphate (CMP) làm trung gian cho quá trình tổng hợp các lipid phức tạp là một thành phần cấu tạo màng tế bào thần kinh, đặc biệt sphingomyelin, tiền chất lớp bao myelin. CMP cũng là tiền thân của các acid nucleic (ADN và ARN), là những yếu tố cơ bản của sự chuyển hóa tế bào như trong quá trình tổng hợp protein.</p>\n\n<p>Uridine-5'-triphosphate (UTP) tác động như coenzyme trong quá trình tổng hợp glycolipid của cấu trúc neuron và lớp bao myelin, bổ sung hoạt động của CMP.</p>\n\n<h3>Dược động học</h3>\n\n<p>Cho đến nay chưa có thông tin báo cáo về dược động học của thuốc.</p>",
+  "ingredients_html": [
+    {
+      "id": 22080,
+      "ingredientId": 42303,
+      "shortDescription": "5mg",
+      "name": "Cytidin monophosphat disodium",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 22081,
+      "ingredientId": 42304,
+      "shortDescription": "3mg",
+      "name": "Uridin monophosphat disodium",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

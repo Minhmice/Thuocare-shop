@@ -1,0 +1,72 @@
+{
+  "id": "00008206",
+  "slug": "thuoc/zedcal-200ml-1690.html",
+  "title": "Siro Zedcal Meyer bổ sung Canxi và thiếu hụt Vitamin D3 (200ml)",
+  "short_title": "ZEDCAL 200ML",
+  "brand": {
+    "name": "Meyer",
+    "slug": "thuong-hieu/meyer",
+    "country": "Ấn Độ"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-bo-and-vitamin/siro-bo",
+    "name": "Siro bổ",
+    "parent_slug": "thuoc/thuoc-bo-and-vitamin"
+  },
+  "price_amount": 79000,
+  "compare_at_amount": 0,
+  "unit": "Chai",
+  "pack_note": "Chai x 200ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00008206_zedcal_200ml_1878_5b7a_large_cdbdaf2789.JPG",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00008206_zedcal_200ml_1878_5b7a_large_cdbdaf2789.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00008206_zedcal_200ml_4543_5b7a_large_da269e1a0e.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00008206_zedcal_200ml_3134_5b7a_large_faded5646d.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00008206_zedcal_200ml_2051_5b7a_large_0997e2d6c9.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00008206_zedcal_200ml_8278_5b7a_large_49cfcfe547.JPG"
+  ],
+  "origin_label": "Ấn Độ",
+  "country": "Ấn Độ",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Siro",
+  "trust_label": null,
+  "short_description": "<p>Zedcal là sản phẩm của công ty Meyer Organics Pvt. Ltd., thành phần chính chứa calcium carbonate B.P; magnesium hydroxide B.P; zinc gluconate U.S.P; vitamin D3 B.P, là thuốc dùng để bổ sung canxi và các hợp chất phối hợp với canxi trong thuốc được dùng khi thiếu vitamin D3 và các khoáng chất trong giai đoạn trẻ đang lớn.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Zedcal 200Ml được chỉ định dùng bổ sung calci và các hợp chất phối hợp với calci trong thuốc, được dùng khi thiếu vitamin D3 và các khoáng chất trong giai đoạn trẻ đang lớn.</p><h3>Dược lực học</h3><p>Calcium và sức khoẻ.</p><p>Việc cung cấp đủ lượng calcium trong bữa ăn là cần thiết cho xương và răng chắc khỏe, hỗ trợ tim, cơ và thần kinh khoẻ mạnh. Calcium đóng vai trò quan trọng trong việc phục hồi mô, kiểm soát huyết áp và độ acid.</p><p>Những người kiêng các sản phẩm từ sữa sẽ không nhận đủ lượng calcium cần thiết. Chỉ 2 muỗng cà phê đầy Zedcal cung cấp lượng Calcium nhiều hơn một ly (250 ml) sữa béo, nhưng Zedcal khác sữa là hoàn toàn không có chất béo và đường. Để sử dụng calcium một cách hiệu quả cần kết hợp với magnesium, kẽm và vitamin D3.</p><h3>Dược động học</h3><p>Chưa có báo cáo.</p>",
+  "ingredients_html": [
+    {
+      "id": 23892,
+      "ingredientId": 12326,
+      "shortDescription": "150mg",
+      "name": "Calcium",
+      "isPrimary": false,
+      "slug": "thanh-phan/calcium"
+    },
+    {
+      "id": 23893,
+      "ingredientId": 24482,
+      "shortDescription": "2mg",
+      "name": "Kẽm",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 23894,
+      "ingredientId": 26279,
+      "shortDescription": "25mg",
+      "name": "Magie",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 23895,
+      "ingredientId": 40361,
+      "shortDescription": "200iu",
+      "name": "Vitamin D3",
+      "isPrimary": false,
+      "slug": "thanh-phan/vitamin-d3"
+    }
+  ],
+  "stock_qty": 0
+}

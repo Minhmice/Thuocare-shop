@@ -1,0 +1,63 @@
+{
+  "id": "00007484",
+  "slug": "thuoc/tragutan-1950.html",
+  "title": "Siro ho Tragutan Dược điều trị các chứng ho, sát trùng đường hô hấp (40 gói x 5ml)",
+  "short_title": "TRAGUTAN 4 F.T 40 GÓI",
+  "brand": {
+    "name": "Dược 3-2",
+    "slug": "thuong-hieu/duoc-3-2",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-ho-hap/siro-tri-ho-cam",
+    "name": "Siro trị ho cảm",
+    "parent_slug": "thuoc/thuoc-ho-hap"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 40 Gói x 5ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007484_tragutan_5539_6074_large_a82cb391cc.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007484_tragutan_5539_6074_large_a82cb391cc.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007484_tragutan_1530_6074_large_d30d502e9f.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007484_tragutan_9137_6074_large_038da128a0.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007484_tragutan_9092_6074_large_eda0afb463.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Siro",
+  "trust_label": null,
+  "short_description": "<p><strong>Tragutan</strong> của <em>Công ty Cổ phần Dược phẩm 3/2</em>, thành phần chính chứa cineol (eucalyptol), tinh dầu Gừng, tinh dầu Tần, menthol.</p>\n\n<p>Tragutan là thuốc dùng để sát trùng đường hô hấp, làm dịu cơn đau họng, trị các chứng ho do dị ứng hầu họng.</p>\n\n<p>Tragutan được bào chế dưới dạng viên nang mềm, hộp 10 vỉ, mỗi vỉ chứa 10 viên, hay chai 40 viên nang mềm.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p><strong>Thuốc Tragutan</strong> được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Sát trùng đường hô hấp, làm dịu cơn đau họng.</li>\n\t<li>Trị các chứng ho do dị ứng hầu họng.</li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p>Cineol (<strong><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/eucalyptol\">eucalyptol</a></strong>) có tính sát khuẩn, trị viêm cuống phổi, long đàm, hạ sốt.</p>\n\n<p>Tinh dầu Tần với thành phần chủ yếu là carvacrol có tác dụng kháng khuẩn mạnh đối với Staphylococcus, Streptococcus, Pneumococcus, Diphteri, v.v...</p>\n\n<p>Tinh dầu Gừng có tác dụng tiêu đờm, chống nôn, chữa ho khan tiếng, ho cảm <strong><a href=\"https://nhathuoclongchau.com.vn/benh/cum-434.html\">cúm</a></strong>.</p>\n\n<p>Viên nang mềm Tragutan với các dược chất hoàn toàn thiên nhiên, có tính sát khuẩn đường hô hấp, hạ sốt, được dùng điều trị các chứng ho, long đàm, cảm sốt.</p>\n\n<p>Thuốc có hiệu quả cao và tức thời, làm dịu các cơn ho và các triệu chứng khó chịu của cảm cúm do kết hợp tính kháng khuẩn của cineol, tinh dầu Tần và tính chữa ho, tiêu đàm của tinh dầu Gừng. Thuốc không gây buồn ngủ và được dung nạp tốt.</p>\n\n<h3>Dược động học</h3>\n\n<p>Chưa có báo cáo.</p>",
+  "ingredients_html": [
+    {
+      "id": 23583,
+      "ingredientId": 19829,
+      "shortDescription": "4mg",
+      "name": "Eucalyptol",
+      "isPrimary": false,
+      "slug": "thanh-phan/eucalyptol"
+    },
+    {
+      "id": 23584,
+      "ingredientId": 38671,
+      "shortDescription": "0.3mg",
+      "name": "Tinh dầu gừng",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 23585,
+      "ingredientId": 38701,
+      "shortDescription": "0.2mg",
+      "name": "Tinh dầu tần",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

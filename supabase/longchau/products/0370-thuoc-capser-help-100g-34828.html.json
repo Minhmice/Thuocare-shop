@@ -1,0 +1,51 @@
+{
+  "id": "00500706",
+  "slug": "thuoc/capser-help-100g-34828.html",
+  "title": "Thuốc Capser Help giảm đau thần kinh do Herpes Zoster và đau dây thần kinh do đái tháo đường (100g)",
+  "short_title": "CAPSER HELP 100G",
+  "brand": {
+    "name": "HELP",
+    "slug": "thuong-hieu/help",
+    "country": "Hy Lạp"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem/thuoc-giam-dau-ha-sot",
+    "name": "Thuốc giảm đau hạ sốt",
+    "parent_slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp x 100g",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_01325_47d758344d.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_01325_47d758344d.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_01320_3276129c51.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_01321_cd714739f0.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_01322_687d9687b5.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_01324_38b97b7970.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_01326_b6df613502.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/casper_1_be0fb90260.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/casper_2_feaf6044da.jpg"
+  ],
+  "origin_label": "Hy Lạp",
+  "country": "Hy Lạp",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Kem",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Casper là sản phẩm của HELP S.A, có thành phần chính là Capsaicin. Đây là thuốc được sử dụng để giảm triệu chứng đau dây thần kinh do nhiễm virus Herpes Zoster, điều trị triệu chứng đau đa dây thần kinh ngoại biên do đái tháo đường.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc Casper được chỉ định dùng trong các trường hợp sau:</p><ul><li>Giảm triệu chứng đau dây thần kinh do nhiễm virus Herpes Zoster (đau dây thần kinh sau zona) sau khi tổn thương hở trên da đã lành.</li><li>Điều trị triệu chứng đau đa dây thần kinh ngoại biên do đái tháo đường.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p>Nhóm điều trị: Thuốc bôi ngoài da điều trị đau cơ và khớp, capsaicin và các chất tương tự.</p><p>Mặc dù chưa hiểu đầy đủ về cơ chế tác dụng của capsaicin, nhưng các bằng chứng hiện nay cho thấy capsaicin làm giảm nhạy cảm với cảm giác đau ở da thông qua giảm và ngăn chặn tái hình thành chất P trong nơ-ron cảm giác ngoại vi. Chất P được cho là chất chủ yếu tạo ra cảm giác đau truyền từ ngoại vi lên hệ thần kinh trung ương.</p><h3 dir=\"ltr\">Dược động học</h3><p>Mức độ hấp thu của capsaicin sau khi bôi chưa được xác định. Lượng sử dụng trung bình gia vị từ quả ớt là 2,5 g/người/ngày ở người Ấn Độ và 5,0 g/người/ngày ở người Thái Lan. Ớt chứa khoảng 1% capsaicin, vì vậy lượng capsaicin hấp thu hàng ngày từ 0,5 - 1 mg/kg/ngày ở người có cân nặng 50 kg.</p><p>Bôi 2 tuýp kem Casper 0,075% (90 g) mỗi tuần cho kết quả nồng độ thuốc hấp thu tại chỗ là 9,6 mg/ngày. Nếu cho rằng 100% lượng kem sẽ hấp thu hoàn toàn ở người có cân nặng 50 kg, mức độ phơi nhiễm hàng ngày sẽ là 0,192 mg/kg, bằng xấp xỉ 1/3 đến 1/4 lượng hấp thu hàng ngày từ ớt được đề cập ở trên.</p>",
+  "ingredients_html": [
+    {
+      "id": 33024,
+      "ingredientId": 12894,
+      "shortDescription": "0.75mg",
+      "name": "Capsaicin",
+      "isPrimary": false,
+      "slug": "thanh-phan/capsaicin"
+    }
+  ],
+  "stock_qty": 0
+}

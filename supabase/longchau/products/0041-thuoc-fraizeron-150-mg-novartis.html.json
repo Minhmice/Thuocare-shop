@@ -1,0 +1,44 @@
+{
+  "id": "00044471",
+  "slug": "thuoc/fraizeron-150-mg-novartis.html",
+  "title": "Bột pha tiêm Fraizeron 150mg Novartis điều trị vảy nến thể mảng, viêm khớp vảy nến, viêm cột sống dính khớp",
+  "short_title": "FRAIZERON 150MG NOVARTIS",
+  "brand": {
+    "name": "Novartis",
+    "slug": "thuong-hieu/novartis",
+    "country": "Thụy Sĩ"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-dieu-tri-ung-thu/thuoc-chong-ung-thu",
+    "name": "Thuốc chống ung thư",
+    "parent_slug": "thuoc/thuoc-dieu-tri-ung-thu"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/fraizeron_150mg_3779bd836d.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/fraizeron_150mg_3779bd836d.jpg"
+  ],
+  "origin_label": "Thụy Sĩ",
+  "country": "Thụy Sĩ",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Bột pha tiêm",
+  "trust_label": null,
+  "short_description": "<p>Fraizeron 150mg là sản phẩm của Novartis Pharma Stein AG với thành phần chính là Secukinumab. Thuốc tiêm Fraizeron 150mg được chỉ định để điều trị vảy nến thể mảng, viêm khớp vảy nến, viêm cột sống dính khớp.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Vảy nến thể mảng: Fraizeron được dùng để điều trị vảy nến thể mảng mức độ trung bình đến nặng ở những bệnh nhân người lớn có chỉ định điều trị đường toàn thân hoặc quang liệu pháp.</p><p>Viêm khớp vảy nến: Fraizeron đơn trị hoặc kết hợp với methotrexate (MTX) được chỉ định cho bệnh nhân người lớn bị viêm khớp vảy nến giai đoạn hoạt động khi đáp ứng không đầy đủ với trị liệu bằng các thuốc chống thấp khớp làm thay đổi diễn tiến bệnh (DMARD) (xem phần Dược lực học).</p><p>Viêm cột sống dính khớp: Fraizeron được chỉ định cho bệnh nhân người lớn bị viêm cột sống dính khớp giai đoạn hoạt động, đáp ứng không đầy đủ với trị liệu thông thường.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 62683,
+      "ingredientId": 35749,
+      "shortDescription": "150mg",
+      "name": "Secukinumab",
+      "isPrimary": false,
+      "slug": "thanh-phan/secukinumab"
+    }
+  ],
+  "stock_qty": 0
+}

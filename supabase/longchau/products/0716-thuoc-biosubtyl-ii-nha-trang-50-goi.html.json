@@ -1,0 +1,44 @@
+{
+  "id": "00039420",
+  "slug": "thuoc/biosubtyl-ii-nha-trang-50-goi.html",
+  "title": "Men vi sinh sống Biosubtyl-II Biopharco điều trị tiêu chảy, viêm ruột cấp và mạn tính (50 gói)",
+  "short_title": "BIOSUBTYL-II NHA TRANG 50 GÓI",
+  "brand": {
+    "name": "Biopharco",
+    "slug": "thuong-hieu/biopharco",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-tieu-chay",
+    "name": "Thuốc trị tiêu chảy",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Gói",
+  "pack_note": "50 Gói",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/biosu_6efc237152.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/biosu_6efc237152.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Thuốc bột uống",
+  "trust_label": null,
+  "short_description": "<p>Men vi sinh sống Biosubtyl-II là sản phẩm của Công ty Cổ phần Vắc xin và Sinh phẩm Nha Trang, có thành phần chính là Bacillus subtilis. Đây là thuốc được sử dụng để điều trị tiêu chảy, viêm ruột cấp và mạn tính; rối loạn tiêu hóa, đi ngoài phân sống.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc Biosubtyl-II được chỉ định dùng trong các trường hợp sau:</p><ul><li>Điều trị tiêu chảy, viêm ruột cấp và mạn tính.</li><li>Rối loạn tiêu hóa, đi ngoài phân sống.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p>Bacillus subtilis là loại vi khuẩn có sức sống cao, có khả năng đối kháng với các loại vi sinh vật khác để phục hồi thế cân bằng sinh thái của hệ vi khuẩn đường ruột. Tác dụng của thuốc trên cơ sở những đặc tính của chủng vi khuẩn này:</p><p>Bacillus subtilis có khả năng sản sinh nhiều enzym, nhưng quan trọng nhất là amylase và protease là 2 enzym thuộc hệ thống tiêu hóa.</p><p>Bacillus subtilis có khả năng sinh tổng hợp một số chất kháng sinh có tác dụng ức chế sinh trưởng hoặc tiêu diệt một số vi sinh vật khác, tác dụng lên cả vi khuẩn Gram (-), Gram (+) và nấm gây bệnh.</p><p>Bacillus subtilis tồn tại trong sản phẩm ở trạng thái bào tử, nhờ vậy khi uống vào dạ dày nó không bị acid cũng như các enzym tiêu hóa ở dịch vị phá hủy. Ở ruột, bào tử nảy mầm và phát triển thành thể hoạt động giúp cân bằng hệ vi sinh có ích trong đường ruột, cải thiện hệ thống tiêu hóa, nhất là sau khi sử dụng kháng sinh kéo dài.</p><p>Biosubtyl - II là sinh phẩm không có tác dụng phụ, không có bất kỳ tác hại nào cho sức khỏe khi sử dụng thường xuyên. Đặc biệt, tá dược là đường đơn nên dễ hấp thụ, có tác dụng bổ trợ cho trực khuẩn B.subtilis phát triển mạnh và tạo hương vị thơm ngọt, dễ uống.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 62396,
+      "ingredientId": 10166,
+      "shortDescription": "10.000.000 - 100.000.000cfu/g",
+      "name": "Bacillus subtilis",
+      "isPrimary": true,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

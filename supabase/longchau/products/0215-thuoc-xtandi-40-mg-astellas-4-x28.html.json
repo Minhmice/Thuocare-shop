@@ -1,0 +1,44 @@
+{
+  "id": "00044715",
+  "slug": "thuoc/xtandi-40-mg-astellas-4-x28.html",
+  "title": "Thuốc Xtandi 40mg Astellas  điều trị ung thư tuyến tiền liệt (4 vỉ x 28 viên)",
+  "short_title": "XTANDI 40MG ASTELLAS 4X28",
+  "brand": {
+    "name": "Astellas",
+    "slug": "thuong-hieu/astellas",
+    "country": "Nhật Bản"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-dieu-tri-ung-thu/thuoc-dieu-tri-ung-thu",
+    "name": "Thuốc điều trị ung thư",
+    "parent_slug": "thuoc/thuoc-dieu-tri-ung-thu"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 4 Vỉ x 28 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/xtandi_6e8ca96fbc.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/xtandi_6e8ca96fbc.jpg"
+  ],
+  "origin_label": "Nhật Bản",
+  "country": "Nhật Bản",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang mềm",
+  "trust_label": null,
+  "short_description": "<p class=\"drugtitle\" id=\"ten-thuoc\">Xtandi 40mg là sản phẩm của Catalent Australia Pty. Ltd với thành phần chính là Enzalutamide. Thuốc được chỉ định để điều trị ung thư tuyến tiền liệt.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Điều trị ung thư tuyến tiền liệt ở bệnh nhân nam giới người lớn. Thuốc được chỉ định khi việc điều trị bằng hormon hoặc phẫu thuật không còn có tác dụng, làm giảm mức testosterone hoặc bệnh đã di căn tới các bộ phận khác của cơ thể, việc điều trị bằng hormon hoặc phẫu thuật vẫn có tác dụng làm giảm mức testosterone.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 63169,
+      "ingredientId": 19217,
+      "shortDescription": "40mg",
+      "name": "Enzalutamide",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

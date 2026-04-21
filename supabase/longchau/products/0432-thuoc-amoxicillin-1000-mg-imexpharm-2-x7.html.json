@@ -1,0 +1,44 @@
+{
+  "id": "00047820",
+  "slug": "thuoc/amoxicillin-1000-mg-imexpharm-2-x7.html",
+  "title": "Thuốc Amoxicillin 1000mg Imexpharm điều trị các nhiễm khuẩn do các vi khuẩn nhạy cảm (2 vỉ x 7 viên)",
+  "short_title": "AMOXICILLIN 1000MG IMEXPHARM 2X7",
+  "brand": {
+    "name": "Imexpharm",
+    "slug": "thuong-hieu/imexpharm",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-khang-sinh-khang-nam/thuoc-khang-sinh",
+    "name": "Thuốc kháng sinh",
+    "parent_slug": "thuoc/thuoc-khang-sinh-khang-nam"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "7 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00047820_ee231ebbb1.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00047820_ee231ebbb1.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén phân tán",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Amoxicillin là sản phẩm của Công ty Cổ phần Dược phẩm Imexpharm chứa hoạt chất Amoxicillin là thuốc dùng để điều trị các nhiễm khuẩn do các vi khuẩn nhạy cảm gây ra ở người lớn và trẻ em.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Amoxicillin là thuốc dùng để điều trị các nhiễm khuẩn do các vi khuẩn nhạy cảm gây ra ở người lớn và trẻ em.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu</p>",
+  "ingredients_html": [
+    {
+      "id": 69624,
+      "ingredientId": 8913,
+      "shortDescription": "1000mg",
+      "name": "Amoxicillin",
+      "isPrimary": false,
+      "slug": "thanh-phan/amoxicillin"
+    }
+  ],
+  "stock_qty": 0
+}

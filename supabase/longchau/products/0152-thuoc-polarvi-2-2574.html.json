@@ -1,0 +1,46 @@
+{
+  "id": "00006026",
+  "slug": "thuoc/polarvi-2-2574.html",
+  "title": "Viên nén Polarvi 2 Vidipha điều trị viêm mũi, viêm kết mạc, mày đay (2 vỉ x 15 viên)",
+  "short_title": "POLARVI 2 VDP 2X15",
+  "brand": {
+    "name": "Vidipha",
+    "slug": "thuong-hieu/vidipha",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-di-ung/thuoc-chong-di-ung",
+    "name": "Thuốc chống dị ứng",
+    "parent_slug": "thuoc/thuoc-di-ung"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "15 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006026_polarvi_2_6119_609e_large_8067dcf44a.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006026_polarvi_2_6119_609e_large_8067dcf44a.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006026_polarvi_2_1625298007_f2e6235db0.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006026_polarvi_2_3282_60e0_large_77d1db693f.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén",
+  "trust_label": null,
+  "short_description": "<p><strong>Polarvi 2</strong> của <em>Công ty Cổ phần Dược phẩm T.Ư Vidipha</em>, thành phần chính <strong><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/dexchlorpheniramine-maleate\">dexclorpheniramin maleat</a></strong>, là thuốc dùng để điều trị triệu chứng các biểu hiện dị ứng khác nhau như: Viêm mũi (theo mùa hay quanh năm), viêm kết mạc, mề đay.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p><strong>Thuốc Polarvi 2</strong> được chỉ định dùng trong các trường hợp điều trị triệu chứng các biểu hiện dị ứng khác nhau:</p>\n\n<p><strong><a href=\"https://nhathuoclongchau.com.vn/benh/viem-mui-472.html\">Viêm mũi</a></strong> (theo mùa hay quanh năm), viêm kết mạc, <strong><a href=\"https://nhathuoclongchau.com.vn/benh/me-day-527.html\">mề đay</a></strong>.</p>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Chưa có báo cáo.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Chưa có báo cáo.</p>",
+  "ingredients_html": [
+    {
+      "id": 22927,
+      "ingredientId": 17293,
+      "shortDescription": "2mg",
+      "name": "Dexchlorpheniramine maleate",
+      "isPrimary": false,
+      "slug": "thanh-phan/dexchlorpheniramine-maleate"
+    }
+  ],
+  "stock_qty": 0
+}

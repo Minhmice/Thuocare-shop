@@ -1,0 +1,54 @@
+{
+  "id": "00002436",
+  "slug": "thuoc/diep-ha-chau-danapha-vien-uong-giai-doc-gan-188.html",
+  "title": "Thuốc Diệp Hạ Châu Danapha tăng cường chức năng gan (90 viên)",
+  "short_title": "DIỆP HẠ CHÂU DNP 90V",
+  "brand": {
+    "name": "Danapha",
+    "slug": "thuong-hieu/danapha",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-benh-gan",
+    "name": "Thuốc trị bệnh gan",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 90 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00606_20b91548c8.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00606_20b91548c8.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00599_a8ef46be44.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00600_efab1b87e3.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00601_95ab105ee4.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00602_01505fa186.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00603_0d9258074f.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00604_2ddd5494a3.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00607_0e5da508a2.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00611_b8a2b545a2.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/diep_ha_chau_danaphar_1_c1f9512b60.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/diep_ha_chau_danaphar_2_0024958161.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao đường",
+  "trust_label": null,
+  "short_description": "<p>Diệp Hạ Châu Danapha là sản phẩm của Công ty Cổ phần Dược Danapha sản xuất với thành phần chính là cao diệp hạ châu đắng, là thuốc dùng để tăng cường chức năng gan, phục hồi tế bào gan, điều trị hỗ trợ viêm gan, đau yết hầu, ung nhọt, định râu, lở ngứa.</p>\n\n<p>Thuốc được đóng gói dưới dạng hộp 1 lọ x 90 viên, hộp 9 vỉ x 10 viên nén bao đường. Có SĐK là VD - 10924 - 10.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p><strong>Thuốc Diệp Hạ Châu Danapha</strong> được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>\n\t<p>Tăng cường chức năng gan, phục hồi tế bào gan. </p>\n\t</li>\n\t<li>\n\t<p>Điều trị hỗ trợ <a href=\"https://nhathuoclongchau.com.vn/benh/viem-gan-1-1080.html\">viêm gan</a>, đau yết hầu, ung nhọt, định râu, lở ngứa.</p>\n\t</li>\n</ul>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Cao diệp hạ châu có tác dụng bảo vệ tế bào gan chuột cống trắng chống lại tính độc hại tế bào gây bởi carbon tetraclorid và galactosamin. Ngoài ra, cao diệp hạ châu còn có tác dụng ức chế dna polymerase của siêu vi viêm gan B.</p>\n\n<p>Trong một nghiên cứu lâm sàng sơ bộ với một dạng bào chế từ toàn bộ cây diệp hạ châu trên 37 người mang siêu vi viêm gan B, với liều 200 mg trong 30 ngày, có 22/37 bệnh nhân (59 %) đã mất kháng nguyên bề mặt hbsag của siêu vi B ở ngày 15 - 20 sau khi kết thúc điều trị (ở nhóm đối chứng dùng placebo chỉ có 4 %).</p>\n\n<p>Viên uống Diệp hạ châu cổ tác dụng kháng khuẩn đối với tụ cầu vàng, trực khuẩn mủ xanh, trực khuẩn coli, shigella dysenteriae.. - Theo đông y, diệp hạ châu có tác dụng tiêu độc, sát trùng, tiêu viêm, tán ứ, thông huyết mạch, lợi tiểu.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Chưa có báo cáo.</p>",
+  "ingredients_html": [
+    {
+      "id": 27774,
+      "ingredientId": 41399,
+      "shortDescription": "60mg",
+      "name": "Cao khô Diệp hạ châu đắng",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

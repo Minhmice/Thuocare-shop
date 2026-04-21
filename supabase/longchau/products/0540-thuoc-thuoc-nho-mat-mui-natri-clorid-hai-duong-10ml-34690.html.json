@@ -1,0 +1,53 @@
+{
+  "id": "00500568",
+  "slug": "thuoc/thuoc-nho-mat-mui-natri-clorid-hai-duong-10ml-34690.html",
+  "title": "Thuốc nhỏ mắt, mũi Natri Clorid 0,9% HDPharma điều trị triệu chứng mỏi mắt, mắt đỏ, sổ mũi, nghẹt mũi (10ml)",
+  "short_title": "NATRI CLORID HẢI DƯƠNG 10ML",
+  "brand": {
+    "name": "Hdpharma",
+    "slug": "thuong-hieu/hdpharma",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-mat-tai-mui-hong/thuoc-nho-mat",
+    "name": "Thuốc nhỏ mắt",
+    "parent_slug": "thuoc/thuoc-mat-tai-mui-hong"
+  },
+  "price_amount": 2600,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 1 Chai x 10ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/40_2f1a68efde.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/40_2f1a68efde.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03485_copy_409b672a71.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03484_f7373e44fa.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03485_7de9063fb2.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03486_e2cb85f535.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03487_9cdbf1b3a4.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03488_79420089c5.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03494_7ed41fb672.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03495_fbc87bbb73.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03496_3780f22b8c.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch nhỏ mắt, mũi",
+  "trust_label": null,
+  "short_description": "<p>Thuốc nhỏ mắt, mũi Natri Clorid dùng để nhỏ mắt hoặc rửa mắt và các triệu chứng về mắt như: Mỏi mắt, mắt đỏ, khô mắt, bụi bẩn, ghèn dử mắt, phòng ngừa dịch bệnh đau mắt, trị triệu chứng sổ mũi, nghẹt mũi. Dùng được cho trẻ sơ sinh.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc nhỏ mắt, mũi <a href=\"https://nhathuoclongchau.com.vn/thuoc/thuoc-nho-mat-mui-natri-clorid-hai-duong-10ml-34690.html\">Natri Clorid 0.9%</a> dùng để nhỏ mắt hoặc rửa mắt và các triệu chứng về mắt như: Mỏi mắt, mắt đỏ, khô mắt, bụi bẩn, ghèn dử mắt, phòng ngừa dịch bệnh đau mắt, trị triệu chứng sổ mũi, <a href=\"https://nhathuoclongchau.com.vn/benh/nghet-mui-855.html\">nghẹt mũi</a>. Dùng được cho trẻ sơ sinh.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 54449,
+      "ingredientId": 29252,
+      "shortDescription": "90mg",
+      "name": "Natri clorid",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

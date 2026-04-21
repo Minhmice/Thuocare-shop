@@ -1,0 +1,44 @@
+{
+  "id": "00500880",
+  "slug": "thuoc/adcetris-takeda-35016.html",
+  "title": "Thuốc Adcetris Takeda điều trị bệnh u lympho Hodgkin CD30+ tái phát hoặc kháng trị",
+  "short_title": "ADCETRIS 50MG TAKEDA",
+  "brand": {
+    "name": "Takeda",
+    "slug": "thuong-hieu/takeda",
+    "country": "Nhật Bản"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-dieu-tri-ung-thu/thuoc-dieu-tri-ung-thu",
+    "name": "Thuốc điều trị ung thư",
+    "parent_slug": "thuoc/thuoc-dieu-tri-ung-thu"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/adcetri_5d6e591b17.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/adcetri_5d6e591b17.png"
+  ],
+  "origin_label": "Nhật Bản",
+  "country": "Nhật Bản",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Bột pha tiêm truyền",
+  "trust_label": null,
+  "short_description": "<p>Adcetris là sản phẩm của Công ty Takeda, thành phần chính là Brentuximab vedotin, được chỉ định cho người lớn để điều trị bệnh u lympho Hodgkin CD30+ tái phát hoặc kháng trị.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p class=\"drugtitle\" id=\"ten-thuoc\">Thuốc <a href=\"https://nhathuoclongchau.com.vn/thuoc/adcetris-takeda-35016.html\">Adcetris</a> được chỉ định dùng trong các trường hợp sau:</p><p><a href=\"https://nhathuoclongchau.com.vn/benh/u-lympho-274.html\">U lympho</a> Hodgkin CD30+ tái phát hoặc kháng trị:</p><ul><li>Sau khi đã ghép tế bào gốc tự thân.</li><li>Sau khi đã điều trị ít nhất 2 liệu trình khi mà ghép tế bào gốc tự thân hoặc đa hóa trị liệu không phải là một lựa chọn để điều trị.</li></ul><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 33732,
+      "ingredientId": 11768,
+      "shortDescription": "50mg",
+      "name": "Brentuximab vedotin",
+      "isPrimary": true,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

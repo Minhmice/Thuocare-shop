@@ -1,0 +1,44 @@
+{
+  "id": "00503875",
+  "slug": "thuoc/duraject-60-allegens-1x4-38204.html",
+  "title": "Thuốc Duraject-60 Allegens điều trị xuất tinh sớm, xuất tinh không tự chủ (1 vỉ x 4 viên)",
+  "short_title": "DURAJECT-60 ALLEGENS 1X4",
+  "brand": {
+    "name": "Allegens",
+    "slug": "thuong-hieu/allegens",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-tri-roi-loan-cuong-duong",
+    "name": "Thuốc trị rối loạn cương dương",
+    "parent_slug": "thuoc/thuoc-tiet-nieu-sinh-duc"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "4 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00503875_c35d8651d6.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00503875_c35d8651d6.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Duraject-60 là sản phẩm của Công ty Akums Drugs and Pharmaceuticals Ltd với thành phần chính là Dapoxetine. Thuốc Duraject-60 được chỉ định trong điều trị các trường hợp xuất tinh sớm và xuất tinh không tự chủ.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Xuất tinh sớm ở nam giới độ tuổi 18 - 64 có các triệu chứng:</p><ul><li>Xuất tinh dai dẳng và tái phát khi có kích thích tình dục ở mức độ tối thiểu trước, trong hoặc ngay sau khi thâm nhập và trước khi bệnh nhân có chủ định.</li><li>Cảm giác lo lắng hoặc khó chịu do hậu quả của xuất tinh sớm.</li><li>Khó kiểm soát hiện tượng xuất tinh.</li></ul><h3>Dược lực học</h3><p>Dapoxetin là chất ức chế tái hấp thu serotonin có chọn lọc tại synap thần kinh, giúp duy trì cân bằng lượng serotonin ở thần kinh trung ương. Tác động của dapoxetin là do sự ức chế tái hấp thu các chất vận chuyển serotonin.</p><p>Dapoxetin cũng có liên hệ và ức chế sự tái hấp thu các chất vận chuyển dopamin và norepinephrin.</p><h3>Dược động học</h3><p><i>Hấp thu</i></p><p>Dapoxetin được hấp thu nhanh vào máu. Nồng độ huyết tương tối đa (Cmax) đạt được khoảng 1 - 2 giờ sau khi uống thuốc. Sinh khả dụng tuyệt đối là 42% (khoảng biến động từ 15 - 76%).</p><p><i>Phân bố</i></p><p>Các thí nghiệm in vitro cho thấy, hơn 99% dapoxetin liên kết với protein huyết tương. 98,5% chất chuyển hóa có hoạt tính desmethyldapoxetin (DED) liên kết với protein huyết tương. Dapoxetin có thể tích phân bố trung bình ổn định là 162 lít.</p><p><i>Chuyển hóa</i></p><p>Các nghiên cứu in vitro cho thấy, dapoxetin được chuyển hóa bởi các tổ hợp enzym tại gan và thận, chủ yếu là CYP2D6, CYP3A4 và flavin monooxygenase (FMO1). Sau khi uống, phần lớn dapoxetin được chuyển hóa thông qua các con đường chuyển hóa sinh học chủ yếu sau: N-oxy hóa, N-demethyl hóa, naphthyl hydroxyl hóa, glucuronic hóa và sulfat hóa.</p><p><i>Thải trừ</i></p><p>Các chất chuyển hóa của dapoxetin được thải trừ chủ yếu qua nước tiểu dưới dạng hợp chất. Không phát hiện thấy dạng không thay đổi của dapoxetin trong nước tiểu.</p>",
+  "ingredients_html": [
+    {
+      "id": 51390,
+      "ingredientId": 16714,
+      "shortDescription": "60mg",
+      "name": "Dapoxetine",
+      "isPrimary": false,
+      "slug": "thanh-phan/dapoxetine"
+    }
+  ],
+  "stock_qty": 0
+}

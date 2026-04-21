@@ -1,0 +1,35 @@
+{
+  "id": "00008261",
+  "slug": "thuoc/zoacnel-20-1659.html",
+  "title": "Thuốc Zoacnel-20 DaviPharm điều trị bệnh trứng cá (3 vỉ x 10 viên)",
+  "short_title": "ZOACNEL 20 DAVI 3X10",
+  "brand": {
+    "name": "Davipharm",
+    "slug": "thuong-hieu/davipharm",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-da-lieu/thuoc-tri-mun",
+    "name": "Thuốc trị mụn",
+    "parent_slug": "thuoc/thuoc-da-lieu"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/zoacnel_dba20ea8ab.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/zoacnel_dba20ea8ab.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang mềm",
+  "trust_label": null,
+  "short_description": "<p style=\"text-align:justify;\">Zoacnel 20 Điều trị bệnh trứng cá nặng đã kháng với các liệu trình chuẩn bằng kháng sinh uống và thuốc bôi trên da.</p>",
+  "description_html": "",
+  "usage_html": "<p style=\"text-align:justify;\">Điều trị bệnh trứng cá nặng đã kháng với các liệu trình chuẩn bằng kháng sinh uống và thuốc bôi trên da.</p>",
+  "ingredients_html": "<p><meta charset=\"utf-8\" /></p>\r\n\r\n<ul style=\"margin-left: 40px;\">\r\n\t<li dir=\"ltr\">\r\n\t<p dir=\"ltr\" style=\"text-align: justify;\">Dược chất ch&iacute;nh: &nbsp;Isotretinoin</p>\r\n\t</li>\r\n\t<li dir=\"ltr\">\r\n\t<p dir=\"ltr\" style=\"text-align: justify;\">Loại thuốc: Thuốc điều trị bệnh da liễu</p>\r\n\t</li>\r\n\t<li dir=\"ltr\">\r\n\t<p dir=\"ltr\" style=\"text-align: justify;\">Dạng thuốc, h&agrave;m lượng: Vi&ecirc;n nang mềm 20mg</p>\r\n\t</li>\r\n</ul>",
+  "stock_qty": 0
+}

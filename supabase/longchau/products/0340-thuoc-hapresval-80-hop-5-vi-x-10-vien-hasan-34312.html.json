@@ -1,0 +1,44 @@
+{
+  "id": "00500227",
+  "slug": "thuoc/hapresval-80-hop-5-vi-x-10-vien-hasan-34312.html",
+  "title": "Thuốc Hapresval 80 Hasan điều trị tăng huyết áp, suy tim, sau nhồi máu cơ tim (5 vỉ x 10 viên)",
+  "short_title": "HAPRESVAL 80 HASAN 5X10",
+  "brand": {
+    "name": "Hasan",
+    "slug": "thuong-hieu/hasan",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap",
+    "name": "Thuốc tim mạch huyết áp",
+    "parent_slug": "thuoc/thuoc-tim-mach-and-mau"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/hapres_db2f92af64.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/hapres_db2f92af64.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Hapresval 80 là sản phẩm của Công ty TNHH Hasan-Dermapharm với thành phần chính là Valsartan. Thuốc Hapresval 80 có tác dụng điều trị tăng huyết áp, suy tim, sau nhồi máu cơ tim.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Tăng huyết áp nguyên phát, dùng đơn trị hoặc phối hợp với các thuốc hạ huyết áp (HA) khác.</p><p>Suy tim sung huyết khi không dung nạp các thuốc ức chế men chuyển angiotensin (ACEI), hoặc phối hợp với các ACEI khi không dung nạp các thuốc chẹn beta.</p><p>Làm chậm tiến triển của bệnh thận ở người bị tăng HA đi kèm đái tháo đường có albumin niệu vi lượng hoặc bệnh thận toàn phát.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 67322,
+      "ingredientId": 40025,
+      "shortDescription": "80mg",
+      "name": "Valsartan",
+      "isPrimary": true,
+      "slug": "thanh-phan/valsartan"
+    }
+  ],
+  "stock_qty": 0
+}

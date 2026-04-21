@@ -1,0 +1,44 @@
+{
+  "id": "00033030",
+  "slug": "thuoc/pidoncam-1200mg5ml-ha-nam-4x5-ong-33145.html",
+  "title": "Thuốc Pidoncam 1200mg/5ml Hà Nam điều trị triệu chứng chóng mặt, suy giảm trí nhớ (4 vỉ x 5 ống)",
+  "short_title": "PIDONCAM 1200MG/5ML 4X5 ỐNG",
+  "brand": {
+    "name": "Công ty cổ phần dược phẩm Hà Nam",
+    "slug": "thuong-hieu/cong-ty-co-phan-duoc-pham-ha-nam",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tang-cuong-tuan-hoan-nao",
+    "name": "Thuốc tăng cường tuần hoàn não",
+    "parent_slug": "thuoc/thuoc-tim-mach-and-mau"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Ống",
+  "pack_note": "5 Ống",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00033030_pidoncam_1200mg5ml_ha_nam_4x5_ong_8414_61c4_large_dc9210bcdc.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00033030_pidoncam_1200mg5ml_ha_nam_4x5_ong_8414_61c4_large_dc9210bcdc.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch uống",
+  "trust_label": null,
+  "short_description": "<p>Pidoncam 1200mg/5ml là sản phẩm của Công ty Cổ phần Vật tư Y tế Hà Nam có thành phần chính là&nbsp;Piracetam có tác dụng điều trị triệu chứng chóng mặt, suy giảm trí nhớ, chóng mặt, kém tập trung, hoặc thiếu tỉnh táo, thay đổi khí sắc, rối loạn hành vi, kém chú ý đến bản thân, sa sút trí tuệ do nhồi máu não nhiều ổ, điều trị đột qụy, thiếu máu cục bộ cấp hoặc dùng bổ trợ trong điều trị giật rung cơ có nguồn gốc vỏ não.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p><a href=\"https://nhathuoclongchau.com.vn/thuoc/pidoncam-1200mg5ml-ha-nam-hop-20-ong-x-10-ml-36491.html\">Pidoncam 1200mg/5ml</a> chỉ định điều trị trong các trường hợp sau:</p><ul><li>Điều trị triệu chứng <a href=\"https://nhathuoclongchau.com.vn/benh/chong-mat-763.html\">chóng mặt</a>.</li><li>Hỗ trợ điều trị triệu chứng suy giảm trí nhớ, chóng mặt, kém tập trung, hoặc thiếu tỉnh táo, thay đổi khí sắc, rối loạn hành vi, kém chú ý đến bản thân, sa sút trí tuệ do nhồi máu não nhiều ổ ở người cao tuổi.</li><li>Điều trị <a href=\"https://nhathuoclongchau.com.vn/benh/dot-quy-thieu-mau-cuc-bo.html\">đột qụy, thiếu máu cục bộ</a> cấp.</li><li>Dùng bổ trợ trong điều trị giật rung cơ có nguồn gốc vỏ não.</li></ul><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 43720,
+      "ingredientId": 32725,
+      "shortDescription": "1200mg",
+      "name": "Piracetam",
+      "isPrimary": false,
+      "slug": "thanh-phan/piracetam"
+    }
+  ],
+  "stock_qty": 0
+}

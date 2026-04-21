@@ -1,0 +1,44 @@
+{
+  "id": "00500465",
+  "slug": "thuoc/dung-dich-uong-harocto-ha-nam-20-ong-x-5-ml.html",
+  "title": "Thuốc Harocto Hà Nam tiêu chất nhầy đường hô hấp (20 ống x 5ml)",
+  "short_title": "DUNG DỊCH UỐNG HAROCTO - HỘP 20 ỐNG 5ML",
+  "brand": {
+    "name": "Hà Nam",
+    "slug": "thuong-hieu/ha-nam",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-ho-hap/thuoc-tri-ho-cam",
+    "name": "Thuốc trị ho cảm",
+    "parent_slug": "thuoc/thuoc-ho-hap"
+  },
+  "price_amount": 170000,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 20 Ống x 5ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00500465_abddd5daa6.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00500465_abddd5daa6.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch uống",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Harocto 30mg/5ml là sản phẩm của Công ty Cổ phần Dược vật tư y tế Hà Nam - Hamedi với thành phần chính là Ambroxol. Thuốc Harocto có tác dụng tiêu chất nhầy đường hô hấp, tiêu đờm.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Tiêu chất nhầy đường hô hấp, dùng trong các trường hợp:</p><p>Bệnh cấp và mạn tính đường hô hấp có kèm tăng tiết dịch phế quản không bình thường, đặc biệt trong đợt cấp của viêm phế quản mạn, hen phế quản, viêm phế quản dạng hen.</p><h3>Dược lực học</h3><p>Nhóm dược lý: Thuốc trừ ho, tiêu đờm thuốc tác dụng trên đường hô hấp.</p><p>Mã ATC: R05CB06</p><p>Cơ chế:</p><p>Ambroxol là một chất chuyển hóa của bromhexin, có tác dụng và công dụng giống như bromhexin.<br>Ambroxol có tác dụng làm đờm lỏng hơn, ít quánh hơn nên dễ bị tống ra ngoài, vì vậy thuốc có tác dụng long đờm. Một số tài liệu có nêu ambroxol có tác dụng cải thiện được triệu chứng và làm giảm số đợt cấp tính trong bệnh phổi tắc nghẽn mãn tính nặng.</p><p>Kết quả nghiên cứu gần đây cho thấy ambroxol có tính chất kháng viêm và có hoạt tính của chất chống oxy hóa. Ngoài ra ambroxol còn có tác dụng gây tê tại chỗ thông qua chẹn kênh natri ở màng tế bào. Ambroxol có thể kích thích tổng hợp và bài tiết chất diện hoạt phế nang. Thuốc được coi là một chất hoạt hóa chất diện hoạt phế nang. Tuy vậy, thuốc không có hiệu quả khi dùng cho người mẹ để phòng hội chứng suy hô hấp ở trẻ sơ sinh, nhưng thuốc có hiệu quả khiêm tốn khi điều trị sớm cho trẻ nhỏ phát bệnh.</p><p>Ambroxol cũng có tác dụng bài tiết acid uric qua nước tiểu.</p><h3>Dược động học</h3><p>Ambroxol hầu như được hấp thu hoàn toàn sau khi uống. Thuốc liên kết với protein huyết tương khoảng 90%. Thời gian bán thải của ambroxol là 7 - 12 giờ.</p><p>Ambroxol đi qua được dịch màng ối và nhau thai, nó được bài tiết vào sữa mẹ.</p><p>Ambroxol chuyển hóa qua gan. Chuyển hóa qua gan lần đầu làm giảm 1/3 lượng ambroxol.</p><p>Ambroxol và các chất chuyển hóa được bài tiết qua thận khoảng 90%.</p><p>Ở những bệnh nhân suy gan nặng, sự thanh thải ambroxol giảm 20 – 40%.</p><p>Ở những bệnh nhân suy thận nặng có thể dẫn đến việc tích lũy ambroxol.</p>",
+  "ingredients_html": [
+    {
+      "id": 54230,
+      "ingredientId": 8700,
+      "shortDescription": "30mg",
+      "name": "Ambroxol hydroclorid",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

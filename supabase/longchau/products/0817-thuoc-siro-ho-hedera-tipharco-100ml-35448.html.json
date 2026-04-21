@@ -1,0 +1,44 @@
+{
+  "id": "00501285",
+  "slug": "thuoc/siro-ho-hedera-tipharco-100ml-35448.html",
+  "title": "Siro ho Hedera Tipharco hỗ trợ giảm đau rát họng do ho kéo dài (100ml)",
+  "short_title": "SIRO HO HEDERA TIPHARCO 100ML",
+  "brand": {
+    "name": "Tipharco",
+    "slug": "thuong-hieu/tipharco",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-ho-hap/siro-tri-ho-cam",
+    "name": "Siro trị ho cảm",
+    "parent_slug": "thuoc/thuoc-ho-hap"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Chai",
+  "pack_note": "Chai x 100ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00501285_bc24342374.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00501285_bc24342374.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Siro",
+  "trust_label": null,
+  "short_description": "<p>Siro ho Hedera là sản phẩm của Công ty cổ phần dược phẩm Tipharco có thành phần chính là cao khô lá thường xuân giúp điều trị viêm đường hô hấp cấp có kèm theo ho, điều trị triệu chứng trong các bệnh lý viêm phế quản mạn tính.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Siro ho Hedera chỉ định điều trị trong các trường hợp sau:</p><ul><li><a href=\"https://nhathuoclongchau.com.vn/bai-viet/viem-duong-ho-hap-cap-co-nguy-hiem-khong-60148.html\">Viêm đường hô hấp cấp</a> có kèm theo ho.</li><li>Điều trị triệu chứng trong các bệnh lý viêm phế quản mạn tính.</li></ul><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 34840,
+      "ingredientId": 14108,
+      "shortDescription": "0.035g",
+      "name": "Chiết xuất cao khô lá thường xuân",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

@@ -1,0 +1,44 @@
+{
+  "id": "00047757",
+  "slug": "thuoc/advagraf-0-5-mg-astellas-5-x10.html",
+  "title": "Thuốc Advagraf 0.5mg Astellas phòng ngừa thải ghép gan hay thận (5 vỉ x 10 viên)",
+  "short_title": "ADVAGRAF 0.5MG ASTELLAS 5X10",
+  "brand": {
+    "name": "Astellas",
+    "slug": "thuong-hieu/astellas",
+    "country": "Nhật Bản"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-dieu-tri-ung-thu/thuoc-chong-ung-thu",
+    "name": "Thuốc chống ung thư",
+    "parent_slug": "thuoc/thuoc-dieu-tri-ung-thu"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 5 Vỉ x 10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00047757_167b2d7941.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00047757_167b2d7941.jpg"
+  ],
+  "origin_label": "Nhật Bản",
+  "country": "Nhật Bản",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang cứng giải phóng kéo dài",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Advagraf là sản phẩm của Astellas, có thành phần chính là Tacrolimus. Đây là thuốc được sử dụng để phòng ngừa thải ghép gan hay thận ở người nhận trưởng thành, điều trị những trường hợp thải ghép dị sinh kháng với các loại thuốc ức chế miễn dịch khác ở người trưởng thành.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc Advagraf được chỉ định dùng trong các trường hợp sau:</p><ul><li>Phòng ngừa thải ghép gan hay thận ở người nhận trưởng thành.</li><li>Điều trị những trường hợp thải ghép dị sinh kháng với các loại thuốc ức chế miễn dịch khác ở người trưởng thành.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 69536,
+      "ingredientId": 37347,
+      "shortDescription": "0.5mg",
+      "name": "Tacrolimus",
+      "isPrimary": true,
+      "slug": "thanh-phan/tacrolimus"
+    }
+  ],
+  "stock_qty": 0
+}

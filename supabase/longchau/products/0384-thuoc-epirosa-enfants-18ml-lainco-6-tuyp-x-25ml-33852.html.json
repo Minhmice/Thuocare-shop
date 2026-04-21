@@ -1,0 +1,50 @@
+{
+  "id": "00033773",
+  "slug": "thuoc/epirosa-enfants-18ml-lainco-6-tuyp-x-25ml-33852.html",
+  "title": "Dung dịch thụt trực tràng Epirosa Enfants Lainco giảm triệu chứng táo bón (6 tuýp x 2.5ml)",
+  "short_title": "EPIROSA ENFANTS 1.8ML LAINCO 6 X 2.5ML",
+  "brand": {
+    "name": "Lainco",
+    "slug": "thuong-hieu/lainco",
+    "country": "Tây Ban Nha"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-tao-bon",
+    "name": "Thuốc trị táo bón",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Tuýp",
+  "pack_note": "6 Tuýp x 2.5ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00033773_epirosa_enfants_18ml_lainco_6_tuyp_x_25ml_1935_624e_large_f46cc1827f.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00033773_epirosa_enfants_18ml_lainco_6_tuyp_x_25ml_1935_624e_large_f46cc1827f.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00033773_epirosa_enfants_18ml_lainco_6_tuyp_x_25ml_4853_624e_large_1f75a5e48e.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00033773_epirosa_enfants_18ml_lainco_6_tuyp_x_25ml_4860_624e_large_0f64806a25.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00033773_epirosa_enfants_18ml_lainco_6_tuyp_x_25ml_6910_624e_large_6ec5e2fb36.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00033773_epirosa_enfants_18ml_lainco_6_tuyp_x_25ml_8918_624e_large_d8b4724079.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00033773_epirosa_enfants_18ml_lainco_6_tuyp_x_25ml_4117_624f_large_2cbd911804.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00033773_epirosa_enfants_18ml_lainco_6_tuyp_x_25ml_4035_624f_large_ad44e56c7c.jpg"
+  ],
+  "origin_label": "Tây Ban Nha",
+  "country": "Tây Ban Nha",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch thụt trực tràng",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Epirosa Enfants là sản phẩm của Lainco, S.A. (Tây Ban Nha) có thành phần chính là Glycerol giúp làm giảm triệu chứng tại chỗ do táo bón tạm thời và không thường xuyên ở trẻ em từ 2 - 12 tuổi.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p><a href=\"https://nhathuoclongchau.com.vn/thuoc/epirosa-enfants-18ml-lainco-6-tuyp-x-25ml-33852.html\">Thuốc Epirosa Enfants</a> chỉ định trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Điều trị làm giảm triệu chứng tại chỗ do táo bón tạm thời và không thường xuyên ở trẻ em từ 2 - 12 tuổi.</li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p>Nhóm dược lý: Thuốc nhuận tràng, thực trực tràng, glycerol. Mã ATC: A06AG04.</p>\n\n<p>Glycerol là tác nhân khử nước thẩm thấu có đặc tính hút ẩm và bôi trơn.</p>\n\n<p>Cơ chế tác động: Glyceral có tác dụng hỗn hợp kích thích và thẩm thấu, nó kích thích trực tiếp phản xạ tống xuất phân ở đầu dây thần kinh trong trực tràng. Ngoài ra còn tăng áp lực thầm thấu trong lòng ruột, dẫn đến giữ nước trong lòng ruột, làm mềm phân.</p>\n\n<h3>Dược động học</h3>\n\n<p>Hấp thu: <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/glycerin\">Glycerin</a> là thuốc nhuận tràng có tính thẩm thấu cao, dùng đường trực tràng, và thường gây sự tổng xuất phân trong vòng 15–30 phút sau khi dùng.</p>\n\n<p>Phân bố: Phân bố tại chỗ.</p>\n\n<p>Chuyển hóa: Chưa có thông tin.</p>\n\n<p>Thải trừ: Bài xuất qua phân.</p>",
+  "ingredients_html": [
+    {
+      "id": 29802,
+      "ingredientId": 21424,
+      "shortDescription": "1.8ml",
+      "name": "Glycerol",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

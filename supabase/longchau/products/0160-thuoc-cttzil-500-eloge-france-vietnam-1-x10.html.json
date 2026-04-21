@@ -1,0 +1,44 @@
+{
+  "id": "00502060",
+  "slug": "thuoc/cttzil-500-eloge-france-vietnam-1-x10.html",
+  "title": "Thuốc Cttzil 500 Eloge điều trị nhiễm trùng nhẹ tới trung bình (1 vỉ x 10 viên) ",
+  "short_title": "THUỐC CTTZIL 500 FRANCE VIETNAM - HỘP 1 VỈ X 10 VIÊN ",
+  "brand": {
+    "name": "Eloge",
+    "slug": "thuong-hieu/eloge",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-khang-sinh-khang-nam/thuoc-khang-sinh",
+    "name": "Thuốc kháng sinh",
+    "parent_slug": "thuoc/thuoc-khang-sinh-khang-nam"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 1 Vỉ x 10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00502060_c9c84c6981.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00502060_c9c84c6981.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang cứng",
+  "trust_label": null,
+  "short_description": "<p>CTTZil 500 là sản phẩm của Công ty liên doanh dược phẩm ELOGE FRANCE Việt Nam với thành phần chính là Cefprozil (dưới dạng Cefprozil monohydrat). Thuốc CTTZil 500 được sử dụng để điều trị nhiễm trùng nhẹ tới trung bình do các chủng vi khuẩn.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Nhiễm trùng đường hô hấp trên: viêm họng, viêm amidan, viêm tai giữa, Viêm xoang cấp tính.</p><p>Nhiễm trùng đường hô hấp dưới: viêm phế quản cấp tính hoặc đợt cấp trong viêm phế quản mãn tính.</p><p>Nhiễm trùng da và cấu trúc da không có biến chứng.&nbsp;</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 56374,
+      "ingredientId": 13623,
+      "shortDescription": "500mg",
+      "name": "Cefprozil",
+      "isPrimary": false,
+      "slug": "thanh-phan/cefprozil"
+    }
+  ],
+  "stock_qty": 0
+}

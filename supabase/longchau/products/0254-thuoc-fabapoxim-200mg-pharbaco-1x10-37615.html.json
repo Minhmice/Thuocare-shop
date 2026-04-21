@@ -1,0 +1,44 @@
+{
+  "id": "00503334",
+  "slug": "thuoc/fabapoxim-200mg-pharbaco-1x10-37615.html",
+  "title": "Thuốc Fabapoxim 200 Pharbaco điều trị nhiễm khuẩn hô hấp trên (1 vỉ x 10 viên)",
+  "short_title": "FABAPOXIM 200MG PHARBACO 1X10",
+  "brand": {
+    "name": "Pharbaco",
+    "slug": "thuong-hieu/pharbaco",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-khang-sinh-khang-nam/thuoc-khang-sinh",
+    "name": "Thuốc kháng sinh",
+    "parent_slug": "thuoc/thuoc-khang-sinh-khang-nam"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/fababoxim_200_cf2433b0af.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/fababoxim_200_cf2433b0af.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p class=\"line-clamp-3 text-base font-semibold text-neutral-900 md:text-xl md:font-bold\" title=\"Fabapoxim 200mg (Hộp 1 vỉ x 10 viên)\">Fabapoxim 200 là sản phẩm của Công ty Cổ phần Dược phẩm TW1 (Pharbaro) - Việt Nam với thành phần chính là Cefpodoxime (dưới dạng Cefpodoxime proxetil) 200mg. Thuốc có công dụng điều trị các nhiễm khuẩn như nhiễm khuẩn hô hấp trên bao gồm viêm tai giữa cấp, viêm xoang, viêm amidan, viêm họng,...</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Fabapoxim 200 được chỉ định trong các trường hợp sau:</p><ul><li>Nhiễm khuẩn hô hấp trên bao gồm <a href=\"https://nhathuoclongchau.com.vn/benh/viem-tai-giua-474.html\">viêm tai giữa</a> cấp, <a href=\"https://nhathuoclongchau.com.vn/benh/viem-xoang-479.html\">viêm xoang</a>, viêm amidan và <a href=\"https://nhathuoclongchau.com.vn/benh/viem-hong-468.html\">viêm họng</a>.</li><li><a href=\"https://nhathuoclongchau.com.vn/benh/viem-phoi-180.html\">Viêm phổi</a> cấp tính mắc phải trong cộng đồng.</li><li>Nhiễm lậu cầu cấp chưa có biến chứng.</li><li><a href=\"https://nhathuoclongchau.com.vn/benh/nhiem-trung-tiet-nieu-355.html\">Nhiễm khuẩn đường tiểu</a> chưa có biến chứng.</li><li>Nhiễm khuẩn da và cấu trúc da.</li></ul><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 45725,
+      "ingredientId": 13621,
+      "shortDescription": "200mg",
+      "name": "Cefpodoxime",
+      "isPrimary": false,
+      "slug": "thanh-phan/cefpodoxime"
+    }
+  ],
+  "stock_qty": 0
+}

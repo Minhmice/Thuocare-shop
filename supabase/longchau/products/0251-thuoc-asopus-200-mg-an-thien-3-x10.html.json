@@ -1,0 +1,44 @@
+{
+  "id": "00500166",
+  "slug": "thuoc/asopus-200-mg-an-thien-3-x10.html",
+  "title": "Thuốc Asopus 200 An Thiên điều trị bệnh gan mật (3 vỉ x 10 viên)",
+  "short_title": "ASOPUS 200MG AN THIÊN 3X10",
+  "brand": {
+    "name": "An Thiên",
+    "slug": "thuong-hieu/an-thien",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-gan-mat",
+    "name": "Thuốc gan mật",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/asopus_a13a19b9f5.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/asopus_a13a19b9f5.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Asopus 200 là sản phẩm của Công ty Cổ phần Dược phẩm An Thiên, thành phần chính Acid ursodeoxycholic, là thuốc được chỉ định trên các trường hợp như bệnh gan mật: Xơ gan mật nguyên phát (PBC), sỏi mật: Trên các bệnh nhân có túi mật hoạt động tốt.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc Asopus 200 được chỉ định dùng trong các trường hợp sau:</p><ul><li>Bệnh gan mật: Xơ gan mật nguyên phát (PBC).</li><li>Sỏi mật: Trên các bệnh nhân có túi mật hoạt động tốt.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 67222,
+      "ingredientId": 41894,
+      "shortDescription": "200mg",
+      "name": "Acid ursodeoxycholic",
+      "isPrimary": true,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

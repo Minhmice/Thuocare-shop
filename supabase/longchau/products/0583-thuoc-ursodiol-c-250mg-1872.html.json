@@ -1,0 +1,48 @@
+{
+  "id": "00007715",
+  "slug": "thuoc/ursodiol-c-250mg-1872.html",
+  "title": "Thuốc Ursodiol C 250mg PharmaScience điều trị xơ gan ứ mật, làm tan sỏi mật (30 viên)",
+  "short_title": "URSODIOL C 250 30V",
+  "brand": {
+    "name": "Pharmascience",
+    "slug": "thuong-hieu/pharmascience",
+    "country": "Canada"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-benh-gan",
+    "name": "Thuốc trị bệnh gan",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "30 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007715_ursodiol_c_250mg_7897_605b_large_e1546d07de.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007715_ursodiol_c_250mg_7897_605b_large_e1546d07de.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007715_ursodiol_c_250mg_1617978946_b7499629cb.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007715_ursodiol_c_250mg_1598_605b_large_a1d5079cea.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007715_ursodiol_c_250mg_8796_605b_large_041efabfe9.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007715_ursodiol_c_250mg_9613_6070_large_2655c78278.jpg"
+  ],
+  "origin_label": "Canada",
+  "country": "Canada",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén",
+  "trust_label": null,
+  "short_description": "<p><strong>Thuốc Ursodiol C 250 mg</strong> là sản phẩm của <em>công ty Pharmascience INC</em>, thành phần chính là <em>Ursodiol</em>. Ursodiol C 250mg được dùng để điều trị xơ gan ứ mật nguyên phát (PBC) và làm tan các sỏi mật thấu xạ ở những bệnh nhân có túi mật hoạt động.</p>\n\n<p>Ursodiol C 250 mg bào chế dạng viên nén, chai 100 viên nén hoặc chai 30 viên nén.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p>Thuốc được chỉ định để điều trị <strong><a href=\"https://nhathuoclongchau.com.vn/benh/xo-gan-415.html\">xơ gan</a></strong> ứ mật nguyên phát (PBC) và làm tan các <strong><a href=\"https://nhathuoclongchau.com.vn/benh/soi-mat-241.html\">sỏi mật</a></strong> thấu xạ ở những bệnh nhân có túi mật hoạt động.</p>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Ursodiol là một acid mật thứ cấp (secondary) được sản sinh từ các vi khuẩn đường ruột, trong khi các acid mật sơ cấp được sản sinh ra từ gan và được tích lũy ở túi mật. Khi được bài tiết vào đoạn ruột kết, các acid mật sơ cấp có thể được chuyển hoá thành acid mật thứ cấp nhờ các chủng vi khuẩn đường ruột. Các acid mật sơ cấp và thứ cấp giúp cơ thể tiêu hóa lipid.</p>\n\n<p>Ursodiol có hoạt tính điều chỉnh sự cân bằng giữa các thành phần của mật (làm giảm tổng hợp cholesterol ở mật), kích thích và giúp tái tạo tế bào gan, tạo các điều kiện thuận lợi hòa tan các sỏi cholesterol.</p>\n\n<p>Mặc dù Ursodiol không phải là dẫn chất có nguồn gốc sản sinh từ động vật, nhưng nó đã được tìm thấy với số lượng lớn trong mật gấu.</p>\n\n<p>Ursodiol có tác dụng thúc đẩy hấp thu và este hóa vitamin B1 và B2.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p><em>Hấp thu:</em></p>\n\n<p>Ursodiol được hấp thu nhanh chóng.</p>\n\n<p><em>Phân bố:</em></p>\n\n<p>Sau khi uống 96 - 98% được gắn kết với protein huyết tương và được chuyển trực tiếp đến gan, chỉ một lượng nhỏ lưu thông trong vòng tuần hoàn.</p>\n\n<p><em>Chuyển hóa:</em></p>\n\n<p>Ursodiol nhanh chóng hấp thu vào gan và gắn kết với Glycin hoặc Taurin rồi thải vào mật. Một tỷ lệ nhỏ Ursodiol chịu sự chuyển hóa trong chu trình gan - ruột.</p>\n\n<p><em>Thải trừ:</em></p>\n\n<p>Ursodiol đào thải qua sữa mẹ, thận, mật và chủ yếu qua phân.</p>",
+  "ingredients_html": [
+    {
+      "id": 23664,
+      "ingredientId": 39916,
+      "shortDescription": "250mg",
+      "name": "Ursodeoxycholic acid",
+      "isPrimary": false,
+      "slug": "thanh-phan/ursodeoxycholic-acid"
+    }
+  ],
+  "stock_qty": 0
+}

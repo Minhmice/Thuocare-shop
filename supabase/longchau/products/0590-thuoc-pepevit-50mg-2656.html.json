@@ -1,0 +1,47 @@
+{
+  "id": "00005823",
+  "slug": "thuoc/pepevit-50mg-2656.html",
+  "title": "Viên nén Pepevit 50mg Nadyphar điều trị bệnh Pellagra (100 viên)",
+  "short_title": "PEPEVIT 50 NDP 100V",
+  "brand": {
+    "name": "Nadyphar",
+    "slug": "thuong-hieu/nadyphar",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+    "name": "Thuốc bổ",
+    "parent_slug": "thuoc/thuoc-bo-and-vitamin"
+  },
+  "price_amount": 180,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "100 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005823_pepevit_50mg_7799_60e0_large_3081d24b65.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005823_pepevit_50mg_7799_60e0_large_3081d24b65.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005823_pepevit_50mg_1619615938_9a5b09675c.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005823_pepevit_50mg_1086_6089_large_e939afd689.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005823_pepevit_50mg_8916_60e0_large_53575ab40e.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén",
+  "trust_label": null,
+  "short_description": "<p><strong>Thuốc Pepevit 50mg</strong> là sản phẩm của <em>Nadyphar</em> sản xuất có thành phần dược chất là vitamin PP dùng để điều trị bệnh Pellagra.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p><strong>Thuốc Pepevit 50Mg</strong> được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Điều trị bệnh Pellagra.</li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p>Vitamin PP (<strong><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/nicotinamide\">Nicotinamid</a></strong>) là vitamin nhóm B, tan trong nước. Trong cơ thể Vitamin PP thực hiện chức năng sau khi chuyển thành nicotinamid adenin dinucleotid (NAD) hoặc nicotinamid adenin dinucleotid phosphat (NADP). NAD và NADP có vai trò rất quan trọng trong chuyển hóa, như là một coenzym có tác dụng như những phân tử vận chuyển hydro, xúc tác các phản ứng oxy hóa khử cần thiết cho hô hấp tế bào, phân giải glycogen và chuyển hóa lipid.</p>\n\n<h3>Dược động học</h3>\n\n<p>Hấp thu: Sau khi uống, Vitamin PP được hấp thu nhanh qua đường tiêu hóa, </p>\n\n<p>Phân bố: Thuốc phân bố rộng khắp vào các mô cơ thể và qua được sữa mẹ. </p>\n\n<p>Chuyển hóa: Vitamin PP được chuyển hóa ở gan thành N-methylnicotinamid, các dẫn chất 2-pyridon, 4-pyridon và tạo thành nicotinuric.</p>\n\n<p>Thải trừ: Thời gian bán thải của Vitamin PP khoảng 45 phút. Vitamin PP được thải trừ qua đường tiểu. Với liều thông thường, chỉ một lượng nhỏ vitamin PP bài tiết vào nước tiểu dạng không thay đổi. Tuy nhiên, với liều lớn thì lượng thuốc bài tiết dưới dạng không thay đổi sẽ tăng lên.</p>",
+  "ingredients_html": [
+    {
+      "id": 22777,
+      "ingredientId": 29896,
+      "shortDescription": "50mg",
+      "name": "Nicotinamid",
+      "isPrimary": false,
+      "slug": "thanh-phan/nicotinamid"
+    }
+  ],
+  "stock_qty": 0
+}

@@ -1,0 +1,44 @@
+{
+  "id": "00038986",
+  "slug": "thuoc/babygaz-giam-day-hoi-o-nong-opv-30-ml-huong-dau.html",
+  "title": "Thuốc Babygaz hương dâu giảm các triệu chứng đầy hơi ở đường tiêu hóa (30ml)",
+  "short_title": "BABYGAZ GIẢM ĐẦY HƠI, Ợ NÓNG OPV 30ML HƯƠNG DÂU",
+  "brand": {
+    "name": "Opv",
+    "slug": "thuong-hieu/opv",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/siro-tieu-hoa",
+    "name": "Siro tiêu hoá",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 28000,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp x 30ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00038986_23ee3cc337.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00038986_23ee3cc337.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Hỗn dịch uống",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Babygaz là sản phẩm của Công ty Cổ phần Dược phẩm OPV, có thành phần chính là Simethicon. Đây là thuốc được sử dụng để làm giảm các triệu chứng đầy hơi ở đường tiêu hóa.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Babygaz được chỉ định dùng trong các trường hợp sau:</p><ul><li>Làm giảm các triệu chứng đầy hơi ở đường tiêu hóa.</li></ul><h3>Dược lực học</h3><p>Simethicon làm giảm sức căng bề mặt và giảm sự căng đầy khí tạo ra do liên kết các bọt khí trong đường tiêu hóa, do đó làm giảm sự đầy hơi.</p><h3>Dược động học</h3><p>Simethicon là 1 chất trơ về mặt sinh lý học; dường như nó không được hấp thu qua đường tiêu hóa hay làm cản trở tiết dịch vị hay sự hấp thu chất bổ dưỡng. Sau khi uống, thuốc này được bài tiết ở dạng không đổi vào phân.</p>",
+  "ingredients_html": [
+    {
+      "id": 55324,
+      "ingredientId": 41917,
+      "shortDescription": "2000mg",
+      "name": "Simethicon",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

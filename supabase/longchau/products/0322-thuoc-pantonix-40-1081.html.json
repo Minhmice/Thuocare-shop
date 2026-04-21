@@ -1,0 +1,44 @@
+{
+  "id": "00013481",
+  "slug": "thuoc/pantonix-40-1081.html",
+  "title": "Viên nén Pantonix 40 Incepta điều trị bệnh trào ngược dạ dày - thực quản (5 vỉ x 10 viên)",
+  "short_title": "PANTONIX 40 5X10",
+  "brand": {
+    "name": "INCEPTA",
+    "slug": "thuong-hieu/incepta",
+    "country": "Bangladesh"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-da-day",
+    "name": "Thuốc dạ dày",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/pantonix_bb1b11d54f.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/pantonix_bb1b11d54f.jpg"
+  ],
+  "origin_label": "Bangladesh",
+  "country": "Bangladesh",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao tan trong ruột",
+  "trust_label": null,
+  "short_description": "<p>Pantonix 40 là thuốc viên nén bao tan trong ruột của công ty Incepta Pharmaceuticals Limited. Thành phần chính pantoprazol 40 mg. Được dùng để điều trị bệnh trào ngược dạ dày - thực quản (GERD), loét đường tiêu hóa, phòng ngừa loét do thuốc kháng viêm không steroid, tình trạng tăng tiết bệnh lý (hội chứng Zollinger - Ellison).</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p>Thuốc Pantonix 40 được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Kết hợp với hai loại thuốc kháng sinh thích hợp để diệt trừ <em>H.piori </em>ở những bệnh nhân bị loét dạ dày tá tràng với mục tiêu giảm sự tái phát của loét dạ dày tá tràng gây ra bởi <em>H.pylori. </em></li>\n\t<li>Điều trị loét dạ dày, tá tràng.</li>\n\t<li>Điều trị trào ngược dạ dày thực quản. </li>\n\t<li>Điều trị viêm thực quản trào ngược vừa và nặng. </li>\n\t<li>Điều trị hội chứng Zollinger - Ellison và các trường hợp bệnh lý tăng tiết acid dịch vị khác.</li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p>Pantoprazol là một dẫn xuất của benzimidazol, nó ức chế sự bài tiết acid ở dạ dày bằng một tác động chuyên biệt trên bơm proton ở tế bào thành dạ dày. </p>\n\n<p>Pantoprazol được chuyển đổi thành dạng có hoạt tính trong các tiểu quản nằm ở tế bào thành dạ dày, thuốc ức chế enzym H+, K+ - ATPase, là giai đoạn cuối cùng sản xuất ra acid dạ dày. Khả năng ức chế của pantoprazol phụ thuộc vào liều lượng và có tác động trên cả sự bài tiết acid cơ bản cũng như khi bị kích thích.</p>\n\n<p>Trên phần lớn bệnh nhân, các triệu chứng sẽ được cải thiện sau 2 tuần. Cũng như với các thuốc ức chế bơm proton và ức chế thụ thể H2 khác, việc điều trị với pantoprazol có thể gây ra sự giảm acid ở dạ dày và do đó làm tăng gastrin theo tỷ lệ giảm acid. Tuy nhiên sự gia tăng gastrin có thể đảo nghịch. </p>\n\n<p>Pantoprazol có thể ức chế sự bài tiết acid độc lập với sự kích thích bởi các tác nhân khác nhau (acetylcholin, histamin, gastrin) và tác động này là như nhau khi dùng pantoprazol ở dạng uống hoặc tiêm tĩnh mạch.</p>\n\n<h3>Dược động học</h3>\n\n<p>Pantoprazol được hấp thu nhanh sau khi uống. Thời gian bán hủy vào khoảng 1 giờ và sinh khả dụng là 77%. Thời gian bán thải trung bình huyết tương không tương quan với thời gian ức chế bài tiết acid do thuốc tập trung ở tế bào thành của dạ dày. Tỷ lệ gắn kết của pantoprazol với huyết tương rất cao (khoảng 98%) và được chuyển hóa qua hệ thống cytochrom P450. </p>\n\n<p>Khả năng tích tụ thuốc trong cơ thể chưa được ghi nhận. Các chất chuyển hóa chủ yếu được bài tiết qua nước tiểu (80%) và qua phân (20%). Sản phẩm chính của quá trình chuyển hóa là dimethyl pantoprazol là một sulphat liên hợp có thời gian bán hủy là 1,5 giờ.</p>",
+  "ingredients_html": [
+    {
+      "id": 40085,
+      "ingredientId": 31504,
+      "shortDescription": "40mg",
+      "name": "Pantoprazol",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

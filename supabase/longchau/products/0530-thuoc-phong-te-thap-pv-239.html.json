@@ -1,0 +1,176 @@
+{
+  "id": "00005922",
+  "slug": "thuoc/phong-te-thap-pv-239.html",
+  "title": "Thuốc Phong Tê Thấp PV điều trị phong thấp, thắt lưng, đầu gối đau nhức (100 viên)",
+  "short_title": "PHONG TÊ THẤP PV 100V",
+  "brand": {
+    "name": "Phúc Vinh",
+    "slug": "thuong-hieu/phuc-vinh",
+    "country": ""
+  },
+  "category": {
+    "slug": "thuoc/thuoc-bo-and-vitamin/bo-xuong-khop",
+    "name": "Bổ xương khớp",
+    "parent_slug": "thuoc/thuoc-bo-and-vitamin"
+  },
+  "price_amount": 85000,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 100 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005922_phong_te_thap_pv_2069_5bb7_large_420e6bbdda.JPG",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005922_phong_te_thap_pv_2069_5bb7_large_420e6bbdda.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/pv_5a07c01cd4.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005922_phong_te_thap_pv_7717_5bb7_large_488ce7efad.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005922_phong_te_thap_pv_7632_5bb7_large_25b139dbcc.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005922_phong_te_thap_pv_3909_5bb7_large_a57f6a864f.JPG"
+  ],
+  "origin_label": "",
+  "country": "",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao đường",
+  "trust_label": null,
+  "short_description": "<p><strong>Phong tê thấp PV</strong> có tác dụng trừ phong thấp, chữa đau khớp, đau dây thần kinh, bổ can thận, bổ khí huyết để điều trị phong thấp, thắt lưng, đầu gối đau nhức, cảm giác nặng nề, đau nhức xương, mỏi, tê buồn chân tay, đau khớp mạn tính do phong thấp, đau thần kinh tọa, thần kinh liên sườn, sưng các khớp.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p><strong>Thuốc Phong tê thấp PV</strong> được chỉ định dùng trong các trường hợp: <a href=\"https://nhathuoclongchau.com.vn/bai-viet/dau-hieu-benh-phong-thap-58478.html\"><strong>Phong thấp</strong></a>, thắt lưng, đầu gối đau nhức, cảm giác nặng nề, đau nhức xương, mỏi, tê buồn chân tay, đau khớp mạn tính do phong thấp, đau thần kinh tọa, thần kinh liên sườn, sưng các khớp.&nbsp;</p><h3>Dược lực học</h3><p>Trừ phong thấp, chữa đau khớp, đau dây thần kinh, bổ can thận, bổ khí huyết.</p><h3>Dược động học</h3><p>Chưa có báo cáo.</p>",
+  "ingredients_html": [
+    {
+      "id": 27543,
+      "ingredientId": 18380,
+      "shortDescription": "160mg",
+      "name": "Độc hoạt",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 27544,
+      "ingredientId": 34074,
+      "shortDescription": "80mg",
+      "name": "Quế chi",
+      "isPrimary": false,
+      "slug": "thanh-phan/que-chi"
+    },
+    {
+      "id": 27545,
+      "ingredientId": 32396,
+      "shortDescription": "160mg",
+      "name": "Phòng phong",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 27546,
+      "ingredientId": 18784,
+      "shortDescription": "240mg",
+      "name": "Đương quy",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 27547,
+      "ingredientId": 37619,
+      "shortDescription": "80mg",
+      "name": "Tế tân",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 27548,
+      "ingredientId": 40801,
+      "shortDescription": "160mg",
+      "name": "Xuyên khung",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 27549,
+      "ingredientId": 37441,
+      "shortDescription": "240mg",
+      "name": "Tần giao",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 27550,
+      "ingredientId": 10131,
+      "shortDescription": "240mg",
+      "name": "Bạch thược",
+      "isPrimary": false,
+      "slug": "thanh-phan/bach-thuoc"
+    },
+    {
+      "id": 27551,
+      "ingredientId": 38203,
+      "shortDescription": "200mg",
+      "name": "Thiên niên kiện",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 27552,
+      "ingredientId": 36107,
+      "shortDescription": "160mg",
+      "name": "Sinh Địa",
+      "isPrimary": false,
+      "slug": "thanh-phan/sinh-dia"
+    },
+    {
+      "id": 27553,
+      "ingredientId": 18363,
+      "shortDescription": "240mg",
+      "name": "Đỗ trọng",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 27554,
+      "ingredientId": 16671,
+      "shortDescription": "160mg",
+      "name": "Đảng Sâm",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 27555,
+      "ingredientId": 29714,
+      "shortDescription": "160mg",
+      "name": "Ngưu tất (Rễ)",
+      "isPrimary": false,
+      "slug": "thanh-phan/nguu-tat"
+    },
+    {
+      "id": 27556,
+      "ingredientId": 24618,
+      "shortDescription": "180mg",
+      "name": "Khương hoạt",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 27557,
+      "ingredientId": 32505,
+      "shortDescription": "80mg",
+      "name": "Phụ tử chế",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 27558,
+      "ingredientId": 39632,
+      "shortDescription": "240mg",
+      "name": "Tục đoạn",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 27559,
+      "ingredientId": 32516,
+      "shortDescription": "240mg",
+      "name": "Phục Linh",
+      "isPrimary": false,
+      "slug": "thanh-phan/phuc-linh"
+    }
+  ],
+  "stock_qty": 0
+}

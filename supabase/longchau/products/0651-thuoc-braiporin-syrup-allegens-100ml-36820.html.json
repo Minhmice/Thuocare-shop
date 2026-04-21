@@ -1,0 +1,44 @@
+{
+  "id": "00502575",
+  "slug": "thuoc/braiporin-syrup-allegens-100ml-36820.html",
+  "title": "Siro uống Braiporin syrup Allegens điều trị bệnh động kinh (100ml)",
+  "short_title": "BRAIPORIN SYRUP ALLEGENS 100ML ",
+  "brand": {
+    "name": "Allegens",
+    "slug": "thuong-hieu/allegens",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-than-kinh/thuoc-than-kinh",
+    "name": "Thuốc thần kinh",
+    "parent_slug": "thuoc/thuoc-than-kinh"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp x 100ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/braiporin_b03b94b058.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/braiporin_b03b94b058.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Siro",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Braiporin Syrup là sản phẩm của Công ty Trách nhiệm Hữu hạn Allegens có thành phần chính là Natri valproat. Thuốc dùng điều trị cho bệnh nhân bị động kinh với nhiều thể khác nhau, kể cả động kinh một phần hoặc toàn phần.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Braiporin Syrup là sản phẩm của Công ty Trách nhiệm Hữu hạn Allegens có thành phần chính là Natri valproat. Thuốc dùng điều trị cho bệnh nhân bị động kinh với nhiều thể khác nhau, kể cả động kinh một phần hoặc toàn phần.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 40519,
+      "ingredientId": 29286,
+      "shortDescription": "200mg",
+      "name": "Natri valproat",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

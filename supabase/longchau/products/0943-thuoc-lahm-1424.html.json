@@ -1,0 +1,61 @@
+{
+  "id": "00010001",
+  "slug": "thuoc/lahm-1424.html",
+  "title": "Hỗn dịch uống LAHM DaviPharm kháng acid, chống đầy hơi, ợ nóng, viêm thực quản, viêm dạ dày (20 gói x 15g)",
+  "short_title": "LAHM DAVI 20 GÓI",
+  "brand": {
+    "name": "Davipharm",
+    "slug": "thuong-hieu/davipharm",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-da-day",
+    "name": "Thuốc dạ dày",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 3500,
+  "compare_at_amount": 0,
+  "unit": "Gói",
+  "pack_note": "20 Gói x 15g",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/lahm_davi_e8acad5520.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/lahm_davi_e8acad5520.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00010001_lahm_1628785646_fc52413286.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Hỗn dịch uống",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Lahm được sản xuất bởi Công ty TNHH dược phẩm Đạt Vi Phú, có thành phần chính là Nhôm oxyd, Magnesi hydroxyd, Simethicon. Thuốc LAHM được sử dụng trong trường hợp làm giảm các triệu chứng như ợ nóng, viêm thực quản, viêm dạ dày, loét dạ dày.</p>\n\n<p>Thuốc Lahm được bào chế dưới dạng hỗn dịch uống, chế phẩm dạng gói, bên trong chứa hỗn dịch màu trắng, thể chất giống sữa, mùi thơm, vị ngọt. Hộp 20 gói x 15g hỗn dịch.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p>Thuốc Lahm được chỉ định dùng trong các trường hợp Lahm kết hợp hai chất kháng acid và <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/simethicone\">simethicon</a>, làm giảm các triệu chứng do tăng tính acid dạ dày và hơi tích trong chất nhầy bao gồm ợ nóng, viêm thực quản, viêm dạ dày, loét dạ dày.</p>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Chưa có báo cáo.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Chưa có báo cáo.</p>",
+  "ingredients_html": [
+    {
+      "id": 24219,
+      "ingredientId": 29800,
+      "shortDescription": "400mg",
+      "name": "Nhôm hydroxyd",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 24220,
+      "ingredientId": 26346,
+      "shortDescription": "800mg",
+      "name": "Magnesium hydroxide",
+      "isPrimary": false,
+      "slug": "thanh-phan/magnesium-hydroxide"
+    },
+    {
+      "id": 24221,
+      "ingredientId": 36074,
+      "shortDescription": "80mg",
+      "name": "Simethicone",
+      "isPrimary": false,
+      "slug": "thanh-phan/simethicone"
+    }
+  ],
+  "stock_qty": 0
+}

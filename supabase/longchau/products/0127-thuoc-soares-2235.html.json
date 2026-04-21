@@ -1,0 +1,51 @@
+{
+  "id": "00006786",
+  "slug": "thuoc/soares-2235.html",
+  "title": "Hỗn dịch uống Soares Davipharm loét dạ dày - tá tràng, viêm dạ dày (30 gói x 15g)",
+  "short_title": "SOARES 1.5G DAVI 30 GÓI",
+  "brand": {
+    "name": "Davipharm",
+    "slug": "thuong-hieu/davipharm",
+    "country": ""
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-da-day",
+    "name": "Thuốc dạ dày",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 6300,
+  "compare_at_amount": 0,
+  "unit": "Gói",
+  "pack_note": "30 Gói x 15g",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006786_soares_9077_63db_large_0d634a929c.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006786_soares_9077_63db_large_0d634a929c.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006786_soares_1675321249_693ef34e75.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006786_soares_1848_63db_large_b9deb32107.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006786_soares_6923_63db_large_a6c30222f5.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006786_soares_3003_63db_large_89f41cf44c.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006786_soares_7516_63db_large_5d811e298b.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006786_soares_2507_63db_large_3767681f9b.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006786_soares_8148_63db_large_da077508c4.jpg"
+  ],
+  "origin_label": "",
+  "country": "",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Hỗn dịch uống",
+  "trust_label": null,
+  "short_description": "<p><strong>Thuốc Soares</strong> của <i>Công ty Cổ phần Đạt Vi Phú</i>, thành phần chính là almagat. Soares là thuốc điều trị loét dạ dày - tá tràng, viêm dạ dày, chứng tăng acid dạ dày (cảm giác chua ở dạ dày, buồn nôn, nôn, đau vùng dạ dày, ợ chua), viêm thực quản trào ngược.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p><strong>Thuốc Soares</strong> được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Ðiều trị loét dạ dày - tá tràng, <strong><a href=\"https://nhathuoclongchau.com.vn/benh/viem-da-day-137.html\">viêm dạ dày</a></strong>.</li>\n\t<li>Ðiều trị chứng tăng acid dạ dày (cảm giác chua ở dạ dày, buồn nôn, nôn, đau vùng dạ dày, ợ chua). <strong><a href=\"https://nhathuoclongchau.com.vn/benh/viem-thuc-quan-408.html\">Viêm thực quản trào ngược</a></strong>.</li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p>Mã ATC: A02AD03.</p>\n\n<p>Nhóm dược lý: Thuốc kháng acid.</p>\n\n<p>Almagat là một hợp chất nhôm-magnesi hydroxycarbonat ngậm nước, Al2Mg6(OH)14(CO3)2.4H2O. Almagat là một chất kháng acid có các tính chất tương tự với nhôm hydroxyd và magnesi carbonat.</p>\n\n<p>Với khả năng đệm trung hòa, almagat có tác dụng kháng acid mạnh. So với nhôm hydroxyd, nó có hiệu quà hơn trong việc làm tăng pH và làm giảm độ acid toàn phần của dịch vị nhanh hơn mà không ảnh hưởng đến thể tích tiết dịch cũng như không tác dụng không mong muốn gây táo bón.</p>\n\n<p>Almagat cũng ức chế đáng kể hoạt động của pepsin trong dịch vị ngay cả sau khi điều chỉnh đến pH = 2 là pH hoạt động tối ưu của enzym mà điều này không thấy ở nhôm hydroxyd.</p>\n\n<p>Ngoài ra almagat còn có khả năng bao phủ đồng đều tạo một màng bảo vệ trên niêm mạc thực quản và dạ dày.</p>\n\n<h3>Dược động học</h3>\n\n<p>Thuốc không hấp thu ở ruột và được thải trừ qua phân.</p>",
+  "ingredients_html": [
+    {
+      "id": 23299,
+      "ingredientId": 8268,
+      "shortDescription": "1.5g",
+      "name": "Almagate",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

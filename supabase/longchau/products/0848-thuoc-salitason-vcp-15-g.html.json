@@ -1,0 +1,52 @@
+{
+  "id": "00039085",
+  "slug": "thuoc/salitason-vcp-15-g.html",
+  "title": "Thuốc Salitason VCP 15g điều trị bệnh vẩy nến thể mảng bám vừa và nặng",
+  "short_title": "SALITASON VCP 15G",
+  "brand": {
+    "name": "Vcp",
+    "slug": "thuong-hieu/vcp",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-da-lieu/thuoc-boi-ngoai-da",
+    "name": "Thuốc bôi ngoài da",
+    "parent_slug": "thuoc/thuoc-da-lieu"
+  },
+  "price_amount": 80000,
+  "compare_at_amount": 0,
+  "unit": "Tuýp",
+  "pack_note": "Tuýp x 15g",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/z5284393030485_7a8a74443f5a694a2292c24836496bf8_4803e9a2d7.webp",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/z5284393030485_7a8a74443f5a694a2292c24836496bf8_4803e9a2d7.webp"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Thuốc mỡ",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Salitason VCP là sản phẩm của Công ty Cổ phần Dược phẩm VCP, có thành phần chính là Mometason, Acid Salicylic. Đây là thuốc được chỉ định dùng ngoài cho các trường hợp bệnh vẩy nến thể mảng bám vừa và nặng.</p><p>&nbsp;</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc Salitason VCP được chỉ định dùng trong các trường hợp sau:</p><ul><li dir=\"ltr\">Dùng ngoài cho các trường hợp bệnh vẩy nến thể mảng bám vừa và nặng.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 55571,
+      "ingredientId": 27888,
+      "shortDescription": "1mg",
+      "name": "Mometason",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 55572,
+      "ingredientId": 7447,
+      "shortDescription": "50mg",
+      "name": "Acid Salicylic",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

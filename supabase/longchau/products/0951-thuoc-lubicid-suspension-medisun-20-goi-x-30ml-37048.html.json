@@ -1,0 +1,44 @@
+{
+  "id": "00502750",
+  "slug": "thuoc/lubicid-suspension-medisun-20-goi-x-30ml-37048.html",
+  "title": "Thuốc Lubicid Suspension Medisun giảm nhẹ các triệu chứng buồn nôn, ăn không tiêu (20 gói x 30ml)",
+  "short_title": "LUBICID SUSPENSION MEDISUN 20 GÓI X 30ML ",
+  "brand": {
+    "name": "Medisun",
+    "slug": "thuong-hieu/medisun",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tieu-hoa",
+    "name": "Thuốc tiêu hoá",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 10250,
+  "compare_at_amount": 0,
+  "unit": "Gói",
+  "pack_note": "20 Gói x 30ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/44_ccc99e709e.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/44_ccc99e709e.png"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Hỗn dịch",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Lubicid Suspension là sản phẩm của Công ty Cổ phần Dược phẩm Medisun, thuốc có thành phần chính là Bismuth Subsalicylate. Đây là thuốc được sử dụng để làm giảm nhẹ các triệu chứng như buồn nôn do ăn quá nhiều, ăn uống không tiêu và rối loạn tiêu hóa; người bị tiêu chảy.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Lubicid Suspension được chỉ định dùng trong các trường hợp sau:</p><ul><li>Thuốc giúp giảm nhẹ các triệu chứng như buồn nôn do ăn quá nhiều, ăn uống không tiêu và rối loạn tiêu hóa.</li><li>Người bị tiêu chảy.</li></ul><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 47804,
+      "ingredientId": 11169,
+      "shortDescription": "525.6mg",
+      "name": "Bismuth Subsalicylate",
+      "isPrimary": false,
+      "slug": "thanh-phan/bismuth-subsalicylate"
+    }
+  ],
+  "stock_qty": 0
+}

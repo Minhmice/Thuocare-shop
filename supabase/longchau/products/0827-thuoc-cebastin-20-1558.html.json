@@ -1,0 +1,49 @@
+{
+  "id": "00009619",
+  "slug": "thuoc/cebastin-20-1558.html",
+  "title": "Thuốc Cebastin20 Dược 3-2 điều trị viêm mũi dị ứng, mày đay (3 vỉ x 10 viên)",
+  "short_title": "CEBASTIN 20 F.T 3X10",
+  "brand": {
+    "name": "Dược 3-2",
+    "slug": "thuong-hieu/duoc-3-2",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-di-ung/thuoc-chong-di-ung",
+    "name": "Thuốc chống dị ứng",
+    "parent_slug": "thuoc/thuoc-di-ung"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/cebastin_20_4_af35963d67.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/cebastin_20_4_af35963d67.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00009619_cebastin_20_1625307094_203b5f08b0.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/cebastin_20_1_4c49a8494f.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/cebastin_20_2_5e453f26c9.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/cebastin_20_5_908d51e065.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00009619_cebastin_20_8257_60e0_large_748bd28c3a.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p style=\"text-align:justify;\">Cebastin 20 của công ty cổ phần dược phẩm 3/2, thành phần chính ebastin, là thuốc có tác dụng điều trị <a href=\"https://nhathuoclongchau.com.vn/benh/viem-mui-di-ung-473.html\">viêm mũi dị ứng</a> (theo mùa hoặc quanh năm), có hoặc không kèm viêm kết mạc dị ứng. Nổi mề đay vô căn mạn tính.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p>Thuốc Cebastin 20 được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>\n\t<p><a href=\"https://nhathuoclongchau.com.vn/benh/viem-mui-di-ung-473.html\">Viêm mũi dị ứng</a> (theo mùa hoặc quanh năm), có hoặc không kèm viêm kết mạc dị ứng.</p>\n\t</li>\n\t<li>\n\t<p>Nổi <a href=\"https://nhathuoclongchau.com.vn/benh/me-day-527.html\">mề đay</a> vô căn mạn tính.</p>\n\t</li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p>Ebastin là chất đối kháng với histamin tại thụ thể H1, có tác dụng lâu dài và chọn lọc.</p>\n\n<h3>Dược động học</h3>\n\n<p><em>Hấp thu</em></p>\n\n<p>Sau khi uống, ebastin được hấp thu nhanh và chuyển hóa thành carebastin có hoạt tính dược lý.</p>\n\n<p><em>Phân bố, chuyển hóa và thải trừ</em></p>\n\n<p>Sau khi uống một liều duy nhất 20 mg, nồng độ đỉnh trong huyết tương của ebastin là 2,8 ng/ml, trong 1 - 3 giờ và của carebastin là 157 ng/ml.</p>\n\n<p>Thời gian bán thải của carebastin từ 15 - 19 giờ; 66% carebastin được đào thải chủ yếu qua nước tiểu dưới dạng chất chuyển hóa liên hợp.</p>",
+  "ingredients_html": [
+    {
+      "id": 24037,
+      "ingredientId": 18865,
+      "shortDescription": "20mg",
+      "name": "Ebastine",
+      "isPrimary": false,
+      "slug": "thanh-phan/ebastine"
+    }
+  ],
+  "stock_qty": 0
+}

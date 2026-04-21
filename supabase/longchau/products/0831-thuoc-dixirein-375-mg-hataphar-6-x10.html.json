@@ -1,0 +1,44 @@
+{
+  "id": "00038588",
+  "slug": "thuoc/dixirein-375-mg-hataphar-6-x10.html",
+  "title": "Thuốc Dixirein 375mg Hà Tây điều trị các bệnh đường hô hấp có tăng tiết đàm nhiều và nhầy nhớt (6 vỉ x 10 viên)",
+  "short_title": "DIXIREIN 375MG HATAPHAR 6X10",
+  "brand": {
+    "name": "Hà Tây",
+    "slug": "thuong-hieu/ha-tay",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-ho-hap/thuoc-tri-ho-cam",
+    "name": "Thuốc trị ho cảm",
+    "parent_slug": "thuoc/thuoc-ho-hap"
+  },
+  "price_amount": 72000,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 6 Vỉ x 10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/864_5a6dbe0624.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/864_5a6dbe0624.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang cứng",
+  "trust_label": null,
+  "short_description": "<p dir=\"ltr\">Thuốc Dixirein là sản phẩm của Công ty cổ phần dược phẩm Hà Tây, thành phần chính chứa Carbocistein, là thuốc dùng để điều trị các bệnh đường hô hấp có tăng tiết đàm nhiều và nhầy nhớt, như viêm phế quản cấp và mạn, giãn phế quản, viêm phế quản dạng hen và khí phế thũng.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p>Các bệnh đường hô hấp có tăng tiết đàm nhiều và nhầy nhớt, như viêm phế quản cấp và mạn, giãn phế quản, viêm phế quản dạng hen và khí phế thũng.</p><h3 dir=\"ltr\">Dược lực học</h3><p>Thuốc biến đổi dịch tiết, có tính chất tiêu nhầy. Carbocistein có tác dụng làm loãng đàm bằng cách cắt đứt cầu nối disulfures liên kết chéo các chuỗi peptid của mucin, yếu tố làm tăng độ nhớt của dịch tiết. Tính chất này làm giảm độ quánh của chất nhầy, làm thay đổi độ đặc của đàm và giúp khạc đàm dễ dàng.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Thuốc hấp thu nhanh và đạt nồng độ tối đa trong huyết tương sau 2 giờ. Thuốc chuyển hóa mạnh và chịu ảnh hưởng khi qua gan lần đầu. Thời gian bán hủy khoảng 2h, thuốc và các chất chuyển hóa đào thải chủ yếu qua thận.</p>",
+  "ingredients_html": [
+    {
+      "id": 54053,
+      "ingredientId": 13011,
+      "shortDescription": "375mg",
+      "name": "Carbocisteine",
+      "isPrimary": false,
+      "slug": "thanh-phan/carbocisteine"
+    }
+  ],
+  "stock_qty": 0
+}

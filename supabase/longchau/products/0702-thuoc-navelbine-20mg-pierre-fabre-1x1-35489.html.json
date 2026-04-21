@@ -1,0 +1,44 @@
+{
+  "id": "00501332",
+  "slug": "thuoc/navelbine-20mg-pierre-fabre-1x1-35489.html",
+  "title": "Thuốc Navelbine 20mg Pierre Fabre điều trị ung thư phổi, ung thư vú (1 vỉ x 1 viên)",
+  "short_title": "NAVELBINE 20MG PIERRE FABRE 1X1",
+  "brand": {
+    "name": "Pierre Fabre",
+    "slug": "thuong-hieu/pierre-fabre",
+    "country": "Pháp"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-dieu-tri-ung-thu/thuoc-chong-ung-thu",
+    "name": "Thuốc chống ung thư",
+    "parent_slug": "thuoc/thuoc-dieu-tri-ung-thu"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 1 Vỉ x 1 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/894_17a9d99ec6.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/894_17a9d99ec6.jpg"
+  ],
+  "origin_label": "Pháp",
+  "country": "Pháp",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang mềm",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Navelbine là sản phẩm của&nbsp;Pierre Fabre Medicament production chứa hoạt chất&nbsp;Vinorelbine ditartrate. Thuốc Navelbine dùng trong điều trị ung thư phổi không phải tế bào nhỏ, ung thư vú tiến triển vùng hoặc di căn.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Navelbine được chỉ định trong các trường hợp sau:</p><ul><li>Ung thư phổi không phải tế bào nhỏ.</li><li>Ung thư vú tiến triển vùng hoặc di căn.</li></ul><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 34711,
+      "ingredientId": 40271,
+      "shortDescription": "20mg",
+      "name": "Vinorelbine ditartrate",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

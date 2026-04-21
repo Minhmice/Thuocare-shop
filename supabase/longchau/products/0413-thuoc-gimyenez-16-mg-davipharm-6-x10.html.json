@@ -1,0 +1,44 @@
+{
+  "id": "00040302",
+  "slug": "thuoc/gimyenez-16-mg-davipharm-6-x10.html",
+  "title": "Thuốc Gimyenez 16 Davipharm điều trị hội chứng Menier (6 vỉ x 10 viên)",
+  "short_title": "GIMYENEZ 16MG DAVIPHARM 6X10",
+  "brand": {
+    "name": "Davipharm",
+    "slug": "thuong-hieu/davipharm",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tang-cuong-tuan-hoan-nao",
+    "name": "Thuốc tăng cường tuần hoàn não",
+    "parent_slug": "thuoc/thuoc-tim-mach-and-mau"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 6 Vỉ x 10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/gimyen_9dacf3454c.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/gimyen_9dacf3454c.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Gimyenez 16 là sản phẩm của Davipharm, có thành phần chính là Betahistin.2HCl. Đây là thuốc được sử dụng để điều trị Hội chứng Meniere với các triệu chứng như chóng mặt (kèm buồn nôn/nôn), nghe khó hoặc mất thính giác, ù tai; điều trị triệu chứng chóng mặt tiền đình (cảm thấy chóng mặt, thường kèm theo buồn nôn hoặc nôn, thậm chí ngay khi đứng yên).</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc Gimyenez 16 được chỉ định dùng trong các trường hợp sau:</p><p>Hội chứng Meniere được xác định theo các triệu chứng chủ yếu sau đây:</p><ul><li>Chóng mặt (hoa mắt chóng mặt kèm buồn nôn/nôn).</li><li>Nghe khó hoặc mất thính giác.</li><li>Ù tai (cảm nhận âm thanh bên trong tai không đủ tương ứng so với âm bên ngoài).</li></ul><p>Điều trị triệu chứng chóng mặt tiền đình (cảm thấy chóng mặt, thường kèm theo buồn nôn hoặc nôn, thậm chí ngay khi đứng yên).</p><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 61158,
+      "ingredientId": 42434,
+      "shortDescription": "16mg",
+      "name": "Betahistin.2HCl",
+      "isPrimary": true,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

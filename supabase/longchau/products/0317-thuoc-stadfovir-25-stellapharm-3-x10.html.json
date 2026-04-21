@@ -1,0 +1,44 @@
+{
+  "id": "00042227",
+  "slug": "thuoc/stadfovir-25-stellapharm-3-x10.html",
+  "title": "Thuốc Stadfovir 25 Stella Pharm điều trị viêm gan B mạn tính (3 vỉ x 10 viên)",
+  "short_title": "STADFOVIR 25 STELLAPHARM 3X10",
+  "brand": {
+    "name": "Stella Pharm",
+    "slug": "thuong-hieu/stella-pharm",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-khang-sinh-khang-nam/thuoc-khang-virus",
+    "name": "Thuốc kháng virus",
+    "parent_slug": "thuoc/thuoc-khang-sinh-khang-nam"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00042227_STADFOVIR_25_STELLAPHARM_3_X10_0c737f5f5b.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00042227_STADFOVIR_25_STELLAPHARM_3_X10_0c737f5f5b.png"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Stadfovir 25 là sản phẩm của Công ty TNHH Liên Doanh Stellapharm với thành phần chính là Tenofovir. Thuốc Stadfovir 25 có tác dụng điều trị viêm gan B mạn tính.&nbsp;</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Stadfovir 25 được chỉ định cho người từ 12 tuổi trở lên (≥ 35 kg) trong điều trị viêm gan B mạn tính.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 62512,
+      "ingredientId": 37773,
+      "shortDescription": "25mg",
+      "name": "Tenofovir alafenamide",
+      "isPrimary": true,
+      "slug": "thanh-phan/tenofovir-alafenamide"
+    }
+  ],
+  "stock_qty": 0
+}

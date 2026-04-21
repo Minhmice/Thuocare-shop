@@ -1,0 +1,44 @@
+{
+  "id": "00503861",
+  "slug": "thuoc/naroxyn-eff-250mg-quang-anh-hop-5-vi-x-4-vien-38181.html",
+  "title": "Viên sủi Naroxyn EFF 250 Quang Anh điều trị các bệnh về xương khớp, viêm cột sống dính khớp (5 vỉ x 4 viên)",
+  "short_title": "NAROXYN EFF 250MG HÀ NAM 5X4",
+  "brand": {
+    "name": "Hà Nam",
+    "slug": "thuong-hieu/ha-nam",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem/thuoc-khang-viem",
+    "name": "Thuốc kháng viêm",
+    "parent_slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem"
+  },
+  "price_amount": 120000,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 5 Vỉ x 4 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/naroxyn_fc40918b4c.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/naroxyn_fc40918b4c.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên sủi",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Naroxyn EFF 250 là sản phẩm của Công ty Cổ phần Dược Vật tư Y tế Hà Nam, có thành phần chính là Naproxen. Đây là thuốc được sử dụng để điều trị các bệnh về xương khớp: Viêm cột sống dính khớp, thoái hoá xương - khớp, viêm khớp dạng thấp bao gồm cả viêm khớp thiếu niên; đau bụng kinh nguyệt; nhức đầu bao gồm cả chứng đau nửa đầu; đau sau phẫu thuật; đau do tổn thương phần mềm; gút cấp; sốt.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc Naroxyn EFF 250 được chỉ định dùng trong các trường hợp sau:</p><ul><li>Các bệnh về xương khớp: Viêm cột sống dính khớp, thoái hoá xương - khớp, viêm khớp dạng thấp bao gồm cả viêm khớp thiếu niên.</li><li>Đau bụng kinh nguyệt.</li><li>Nhức đầu bao gồm cả chứng đau nửa đầu.</li><li>Đau sau phẫu thuật.</li><li>Đau do tổn thương phần mềm</li><li>Gút cấp.</li><li>Sốt.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 56988,
+      "ingredientId": 29198,
+      "shortDescription": "250mg",
+      "name": "Naproxen",
+      "isPrimary": false,
+      "slug": "thanh-phan/naproxen"
+    }
+  ],
+  "stock_qty": 0
+}

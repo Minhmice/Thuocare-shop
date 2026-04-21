@@ -1,0 +1,44 @@
+{
+  "id": "00502008",
+  "slug": "thuoc/dung-dich-tiem-truyen-tinh-mach-paracetamol-10mg-allomed-chai-100ml-36204.html",
+  "title": "Dung dịch tiêm truyền tĩnh mạch Paracetamol 10mg/ml Allomed giảm các triệu chứng đau và sốt, đau đầu",
+  "short_title": "DUNG DỊCH TIÊM PARACETAMOL 10MG ALLOMED CHAI 100ML",
+  "brand": {
+    "name": "Allomed",
+    "slug": "thuong-hieu/allomed",
+    "country": ""
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tiem-chich-and-dich-truyen/thuoc-tiem-chich",
+    "name": "Thuốc tiêm chích",
+    "parent_slug": "thuoc/thuoc-tiem-chich-and-dich-truyen"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Chai",
+  "pack_note": "Chai x 100ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/original_ac361bedb5.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/original_ac361bedb5.jpg"
+  ],
+  "origin_label": "",
+  "country": "",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch tiêm truyền",
+  "trust_label": null,
+  "short_description": "<p>Dung dịch tiêm truyền tĩnh mạch Paracetamol 10mg/ml là sản phẩm của Công ty TNHH Dược phẩm Allomed chỉ định giúp giảm các triệu chứng đau và sốt trong các trường hợp phổ biến như: Đau đầu, đau răng, đặc biệt là đau sau khi trải qua phẫu thuật, chấn thương.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Dung dịch tiêm truyền tĩnh mạch Paracetamol 10mg/ml chỉ định giúp giảm các triệu chứng đau và sốt trong các trường hợp phổ biến như: Đau đầu, đau răng, đặc biệt là đau sau khi trải qua phẫu thuật, chấn thương.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 58646,
+      "ingredientId": 31537,
+      "shortDescription": "10mg",
+      "name": "Paracetamol",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

@@ -1,0 +1,44 @@
+{
+  "id": "00500743",
+  "slug": "thuoc/atsirox-1-an-thien-15-g.html",
+  "title": "Kem bôi da Atsirox 1% An Thiên điều trị các bệnh nhiễm nấm (15g)",
+  "short_title": "ATSIROX 1% AN THIEN 15G",
+  "brand": {
+    "name": "An Thiên",
+    "slug": "thuong-hieu/an-thien",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-khang-sinh-khang-nam/thuoc-khang-nam",
+    "name": "Thuốc kháng nấm",
+    "parent_slug": "thuoc/thuoc-khang-sinh-khang-nam"
+  },
+  "price_amount": 65000,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp x 15g",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00500743_ATSIROX_1_AN_THIEN_15_G_153219d8c5.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00500743_ATSIROX_1_AN_THIEN_15_G_153219d8c5.png"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Kem",
+  "trust_label": null,
+  "short_description": "<p>Kem bôi da Atsirox 1% là thuốc dùng ngoài da của Công ty Cổ phần Dược phẩm An Thiên chứa hoạt chất Ciclopirox olamine dùng trong điều trị các bệnh nhiễm nấm.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Kem bôi da <a href=\"https://nhathuoclongchau.com.vn/thuoc/atsirox-1-an-thien-15-g.html\">Atsirox 1%</a> dùng trong điều trị các bệnh nhiễm nấm.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 33056,
+      "ingredientId": 14779,
+      "shortDescription": "100mg",
+      "name": "Ciclopiroxolamine",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

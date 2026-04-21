@@ -1,0 +1,51 @@
+{
+  "id": "00049378",
+  "slug": "thuoc/hadumedrol-100-mg-ml-hdpharma-100-ong-x-1-ml.html",
+  "title": "Thuốc Hadumedrol 10mg/ml Hdpharma giúp chống buồn nôn hoặc chóng mặt (100 ống x 1ml)",
+  "short_title": "HADUMEDROL 10MG/ML HDPHARMA 100 ỐNG X 1ML",
+  "brand": {
+    "name": "Hdpharma",
+    "slug": "thuong-hieu/hdpharma",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tiem-chich-and-dich-truyen/thuoc-tiem-chich",
+    "name": "Thuốc tiêm chích",
+    "parent_slug": "thuoc/thuoc-tiem-chich-and-dich-truyen"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Ống",
+  "pack_note": "100 Ống x 1ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09986_33dac581f6.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09986_33dac581f6.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09980_ae18859385.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09981_af0476bacb.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09983_88f3c7b63d.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09984_cf8aa606d6.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09982_f59a8f21bc.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09990_57231078aa.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/hadumedrol_2456618c50.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch tiêm",
+  "trust_label": null,
+  "short_description": "<p>Dung dịch tiêm Hadumedrol dùng làm thuốc chống buồn nôn, hoặc chống chóng mặt. Giảm nhẹ các triệu chứng dị ứng do giải phóng histamin, bao gồm viêm mũi dị ứng và cảm lạnh. Điều trị các phản ứng loạn trương lực do phenothiazine.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Dung dịch tiêm Hadumedrol chỉ định điều trị trong các trường hợp sau:</p><ul><li>Dùng làm thuốc chống buồn nôn, hoặc chống chóng mặt.</li><li>Giảm nhẹ các triệu chứng dị ứng do giải phóng histamin, bao gồm viêm mũi dị ứng và cảm lạnh.</li><li>Điều trị các phản ứng loạn trương lực do phenothiazine.</li></ul><h3>Dược lực học</h3><p>Diphenhydramin là một thuốc kháng histamin H1, thế hệ thứ nhất, thuộc nhóm dẫn xuất ethanolamin. Diphenhydramin cạnh tranh với histamin ở thụ thể histamin H1 và do đó ngăn cản tác dụng của histamin, tác nhân gây ra các biểu hiện dị ứng đặc trưng ở đường hô hấp (ho), mũi (ngạt mũi, sổ mũi), da (ban đỏ, ngứa). Diphenhydramin còn có tác dụng gây ngủ và kháng cholinergic mạnh.</p><p>Diphenhydramin được dùng để phòng và điều trị buồn nôn, nôn, tác dụng này một phần là do tính chất kháng cholinergic và ức chế hệ thần kinh trung ương của thuốc.</p><h3>Dược động học</h3><p>Diphenhydramin được hấp thu hoàn toàn sau khi tiêm. Diphenhydramin phân bố rộng rãi vào các cơ quan, mô của cơ thể, bao gồm cả hệ thần kinh trung ương. Diphenhydramin qua được nhau thai và vào được sữa mẹ. Tỷ lệ liên kết với protein huyết cao, khoảng 80 - 85% in vitro. Tỷ lệ gắn với protein ít hơn ở người xơ gan và người châu Á (so với người da trắng).</p><p>Diphenhydramin được thải trừ chủ yếu qua nước tiểu dưới dạng các chất chuyển hóa, một lượng rất ít đào thải dưới dạng không chuyển hóa. Ở người khỏe mạnh, nửa đời thải trừ từ 2,4 - 9,3 giờ. Nửa đời thải trừ cuối cùng kéo dài ở người xơ gan.</p>",
+  "ingredients_html": [
+    {
+      "id": 71488,
+      "ingredientId": 41940,
+      "shortDescription": "10mg",
+      "name": "Diphenhydramin hydroclorid",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

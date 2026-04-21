@@ -1,0 +1,50 @@
+{
+  "id": "00002991",
+  "slug": "thuoc/farzincol-90ml-3785.html",
+  "title": "Siro Farzincol Pharmedic điều trị thiếu kẽm (90ml)",
+  "short_title": "FARZINCOL PMD 90ML",
+  "brand": {
+    "name": "Pharmedic",
+    "slug": "thuong-hieu/pharmedic",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-bo-and-vitamin/siro-bo",
+    "name": "Siro bổ",
+    "parent_slug": "thuoc/thuoc-bo-and-vitamin"
+  },
+  "price_amount": 26000,
+  "compare_at_amount": 0,
+  "unit": "Chai",
+  "pack_note": "Chai x 90ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002991_farzincol_90ml_5887_62a7_large_aef5f909e7.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002991_farzincol_90ml_5887_62a7_large_aef5f909e7.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002991_farzincol_90ml_1655115926_243f4f5628.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002991_farzincol_90ml_1774_62a7_large_653e83d8c0.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002991_farzincol_90ml_4178_62a7_large_ec47a73e9b.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002991_farzincol_90ml_3518_62a7_large_f282d30864.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002991_farzincol_90ml_8683_62a7_large_6c58fd67bc.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002991_farzincol_90ml_1894_62a7_large_dc1b964151.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Siro",
+  "trust_label": null,
+  "short_description": "<p>Farzincol Siro của Công ty Cổ Phần Dược Phẩm Dược Liệu Pharmedic thành phần chính kēm sulfat monohydrat là thuốc bổ sung khoáng chất được sử dụng để phòng ngừa và điều trị thiếu kẽm trong một số trường hợp như <a href=\"https://nhathuoclongchau.com.vn/benh/suy-dinh-duong-298.html\">suy dinh dưỡng</a>, tiêu chảy cấp và mạn tính.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc <a href=\"https://nhathuoclongchau.com.vn/thuoc/farzincol-90ml-3785.html\">Farzincol Siro</a> được chỉ định dùng trong các trường hợp sau:</p><p>Phòng ngừa và điều trị thiếu kẽm trong một số trường hợp như suy dinh dưỡng, <a href=\"https://nhathuoclongchau.com.vn/benh/tieu-chay-133.html\">tiêu chảy</a> cấp và mạn tính.</p><h3>Dược lực học</h3><p>Kẽm là thành phần của nhiều hệ enzym và hiện diện ở tất cả các mô của cơ thể.</p><h3>Dược động học</h3><p>Kẽm hấp thu không hoàn toàn từ đường tiêu hóa và sinh khả dụng khoảng 20 - 30%. Kẽm phân phối hầu hết các mô, cao nhất là ở cơ, xương, da và dịch tiền liệt. Thuốc thải trừ chủ yếu ở phân. Lượng nhỏ thải trừ ở thận và mồ hôi.</p>",
+  "ingredients_html": [
+    {
+      "id": 35908,
+      "ingredientId": 42022,
+      "shortDescription": "0.11g",
+      "name": "Kẽm sulfat monohydrat",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

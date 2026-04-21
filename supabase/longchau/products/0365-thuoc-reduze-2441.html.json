@@ -1,0 +1,67 @@
+{
+  "id": "00006307",
+  "slug": "thuoc/reduze-2441.html",
+  "title": "Thuốc Reduze Aus Biopharm giảm viêm khớp gối nhẹ và trung bình (5 vỉ x 12 viên)",
+  "short_title": "REDUZE 5X12",
+  "brand": {
+    "name": "Probiotec",
+    "slug": "thuong-hieu/probiotec",
+    "country": "Úc"
+  },
+  "category": {
+    "slug": "thuoc/co-xuong-khop/thuoc-xuong-khop",
+    "name": "Thuốc xương khớp",
+    "parent_slug": "thuoc/co-xuong-khop"
+  },
+  "price_amount": 7997,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "12 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006307_reduze_8444_62ad_large_631d1c347c.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006307_reduze_8444_62ad_large_631d1c347c.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006307_reduze_1628927018_6913db5d82.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006307_reduze_1842_62ad_large_d54a5c1c26.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006307_reduze_3496_62ad_large_692bb3596e.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006307_reduze_2466_62ad_large_30e177dd54.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006307_reduze_5185_62ad_large_03040fe920.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006307_reduze_8214_62ad_large_e9397d4931.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006307_reduze_1231_62ad_large_01fd26ac5b.jpg"
+  ],
+  "origin_label": "Úc",
+  "country": "Úc",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang cứng",
+  "trust_label": null,
+  "short_description": "<p style=\"text-align:justify;\">Thuốc “Reduzẽ” đóng gói thành hộp 5 vỉ, mỗi vỉ chứa 12 viên nang cứng, được sản xuất theo tiêu chuẩn của nhà sản xuất và đăng ký thuốc tại Úc, sản phẩm của công ty Aus Biopharm.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p>Thuốc “Reduzẽ” được chỉ định dùng trong các trường hợp sau:</p>\n\n<p>Ðiều trị giảm triệu chứng trong các trường hợp bị viêm khớp gối nhẹ và trung bình.</p>\n\n<h3>Dược lực học</h3>\n\n<p>Glucosamine là một amino monosaccharide được sử dụng trong các quá trình sinh tổng hợp các đại phân tử bao gồm sụn khớp. Glucosamine có vai trò tổng hợp, tái tạo sụn, có tác dụng chống viêm.</p>\n\n<p>Chondroitin sulfate là một khối các phân tử proteoglycan trong các mô sụn. Chondroitin sulfate được thấy là có ảnh hưởng tới việc hình thành sụn mới nhờ kích thích sự chuyển hóa các tế bào sụn và tổng hợp collagen proteoglycan.</p>\n\n<p>Nhiều thành phần được tìm thấy trong gừng có đặc tính chống viêm. Gừng được thấy là có tác dụng ức chế sự tổng hợp prostaglandin.</p>\n\n<p>Phellodendron (Hoàng bá) có tính chống viêm. Thành phần chính của phellodendron là berberine.</p>\n\n<h3>Dược động học</h3>\n\n<p>Glucosamine được hấp thu từ ruột non. Sinh khả dụng của glucosamine sulfate qua đường uống là 26%, glucosamine được chuyển hóa đáng kể lần đầu qua gan. Glucosamine phần lớn được thải trừ qua nước tiểu, và một lượng nhỏ được thải trừ qua phân.</p>\n\n<p>Chondroitin sulfate được thải trừ phần lớn qua nước tiểu. Sinh khả dụng qua đường uống là 7 - 12%, nồng độ huyết tương đạt mức tối đa sau khoảng 190 phút và thời gian bán thải là 6 giờ.</p>\n\n<p>Berberine (hoạt chất chính của phellodendron) được chuyển hóa phase 1 tại gan.</p>",
+  "ingredients_html": [
+    {
+      "id": 23067,
+      "ingredientId": 21358,
+      "shortDescription": "500mg",
+      "name": "Glucosamine",
+      "isPrimary": false,
+      "slug": "thanh-phan/glucosamine"
+    },
+    {
+      "id": 23068,
+      "ingredientId": 14607,
+      "shortDescription": "100mg",
+      "name": "Chondroitin sulfate",
+      "isPrimary": false,
+      "slug": "thanh-phan/chondroitin-sulfate"
+    },
+    {
+      "id": 23069,
+      "ingredientId": 21825,
+      "shortDescription": "40mg",
+      "name": "Gừng",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

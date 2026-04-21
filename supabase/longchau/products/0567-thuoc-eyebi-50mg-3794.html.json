@@ -1,0 +1,56 @@
+{
+  "id": "00002962",
+  "slug": "thuoc/eyebi-50mg-3794.html",
+  "title": "Thuốc Eyebi Phil hỗ trợ điều trị quáng gà, cận thị (3 vỉ x 10 viên)",
+  "short_title": "EYEBI 50 PHIL 3X10",
+  "brand": {
+    "name": "Phil",
+    "slug": "thuong-hieu/phil",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+    "name": "Thuốc bổ",
+    "parent_slug": "thuoc/thuoc-bo-and-vitamin"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002962_eyebi_50mg_3248_5b1e_large_b144ed6dfa.JPG",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002962_eyebi_50mg_3248_5b1e_large_b144ed6dfa.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002962_eyebi_50mg_1628329734_e5c69287df.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002962_eyebi_50mg_6275_5b1e_large_0e28245fef.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002962_eyebi_50mg_2476_5b1e_large_178c858d0e.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002962_eyebi_50mg_4424_5b1e_large_55f6d28d98.JPG"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang mềm",
+  "trust_label": null,
+  "short_description": "<p>EyeBi là sản phẩm của của Công ty Phil Inter Pharma, thành phần chính là cao Vaccinium myrtillus và DL-alpha-tocopheryl acetate (vitamin E), là thuốc dùng điều trị hỗ trợ các chứng rối loạn thị giác lúc mờ tối và ban đêm, chứng cận thị.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Eyebi được chỉ định dùng trong trường hợp sau:</p><ul><li>Ðiều trị hỗ trợ rối loạn thị giác lúc mờ tối và ban đêm (chứng quáng gà), cận thị.</li></ul><h3>Dược lực học</h3><p>Chưa có thông tin.</p><h3>Dược động học</h3><p>Chưa có thông tin.</p>",
+  "ingredients_html": [
+    {
+      "id": 21378,
+      "ingredientId": 40363,
+      "shortDescription": "50mg",
+      "name": "Vitamin E",
+      "isPrimary": false,
+      "slug": "thanh-phan/vitamin-e"
+    },
+    {
+      "id": 21379,
+      "ingredientId": 28262,
+      "shortDescription": "50mg",
+      "name": "Myrtillus",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

@@ -1,0 +1,45 @@
+{
+  "id": "00010511",
+  "slug": "thuoc/ambroco-30ml-1256.html",
+  "title": "Siro Ambroco United hương cam điều trị viêm phế quản, hen phế quản cho trẻ em (30ml)",
+  "short_title": "AMBROCO UNITED 30ML",
+  "brand": {
+    "name": "United",
+    "slug": "thuong-hieu/united",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-ho-hap/siro-tri-ho-cam",
+    "name": "Siro trị ho cảm",
+    "parent_slug": "thuoc/thuoc-ho-hap"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Chai",
+  "pack_note": "Chai x 30ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00010511_ambroco_30ml_4357_609f_large_21592e8b2a.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00010511_ambroco_30ml_4357_609f_large_21592e8b2a.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00010511_ambroco_30ml_1627982191_e275c4ef2c.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Siro",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Ambroco® là sản phẩm của Công ty TNHH United International Pharma, thành phần chính là ambroxol hydrochloride, là thuốc dùng cho trẻ em để điều trị các bệnh cấp và mãn tính của đường hô hấp có liên quan đến sự tiết bất thường của phế quản và sự vận chuyển chất nhầy bị suy giảm, đặc biệt là viêm phế quản mãn, viêm phế quản dạng hen và hen phế quản.</p>\n\n<p>Thuốc Ambroco® được bào chế dưới dạng siro thuốc, được sử dụng kỹ thuật bào chế độc đáo tasteriteTM của pediatechTM. tasteriteTM là bước đột phá trong công nghệ che dấu vị đắng của thuốc, nhờ đó mà trẻ em thưởng thức hương vị thơm ngon của Ambroco®. Hộp 1 chai 30 ml.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p>Thuốc Ambroco® được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Để điều trị các bệnh cấp và mãn tính của đường hô hấp có liên quan đến sự tiết bất thường của phế quản và sự vận chuyển chất nhầy bị suy giảm, đặc biệt là viêm phế quản mãn, viêm phế quản dạng hen và hen phế quản.</li>\n</ul>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Ambroxol là một dẫn xuất của chất tan đàm, <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/bromhexine\">bromhexine</a>.</p>\n\n<p>Thuốc kích thích tuyến nhầy tiết dịch, và cắt đứt hệ acid glycoprotein trong đàm nhầy khiến đàm bớt nhầy dính hơn.</p>\n\n<p><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/ambroxol\">Ambroxol</a> kích thích lông nhầy hoạt động và gia tăng khả năng làm sạch của lông nhầy, làm cho việc khạc đàm loãng trở nên dễ dàng hơn.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Ambroxol được hấp thu hoàn toàn sau khi uống. Ambroxol đạt nồng độ tối đa trong máu trong vòng 0.5 đến 3 giờ và thời gian bán hủy khoảng 7 - 12 giờ. Khoảng 1/3 liều dùng được chuyển hóa tại gan.</p>\n\n<p>Uống nhiều liều ambroxol không gây tích lũy thuốc. Sau khi uống, khoảng 85 - 90% thuốc được bài tiết trong nước tiểu. Chưa đến 10% được bài tiết dưới dạng không đổi.</p>",
+  "ingredients_html": [
+    {
+      "id": 44197,
+      "ingredientId": 8697,
+      "shortDescription": "15mg",
+      "name": "Ambroxol",
+      "isPrimary": false,
+      "slug": "thanh-phan/ambroxol"
+    }
+  ],
+  "stock_qty": 0
+}

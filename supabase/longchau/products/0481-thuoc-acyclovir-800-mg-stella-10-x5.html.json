@@ -1,0 +1,44 @@
+{
+  "id": "00047878",
+  "slug": "thuoc/acyclovir-800-mg-stella-10-x5.html",
+  "title": "Thuốc Acyclovir 800mg Stella Pharm điều trị nhiễm virus Herpes simplex (10 vỉ x 5 viên)",
+  "short_title": "ACYCLOVIR 800MG STELLA 10X5",
+  "brand": {
+    "name": "Stella Pharm",
+    "slug": "thuong-hieu/stella-pharm",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-khang-sinh-khang-nam/thuoc-khang-virus",
+    "name": "Thuốc kháng virus",
+    "parent_slug": "thuoc/thuoc-khang-sinh-khang-nam"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "5 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/acyclovir_a1fa3ad9bb.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/acyclovir_a1fa3ad9bb.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Acyclovir 800 là sản phẩm của Stella Pharm, có thành phần chính là Acyclovir. Đây là thuốc được sử dụng để điều trị nhiễm virus Herpes simplex trên da và màng nhầy, bao gồm nhiễm herpes sinh dục khởi phát và tái phát; ngăn ngừa tái phát Herpes simplex ở bệnh nhân có khả năng miễn dịch bình thường; phòng ngừa nhiễm Herpes simplex ở bệnh nhân suy giảm miễn dịch; điều trị nhiễm Varicella (bệnh thủy đậu) và nhiễm Herpes zoster (bệnh zona).</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Acyclovir 800 được chỉ định dùng trong các trường hợp sau:</p><ul><li>Ðiều trị nhiễm virus Herpes simplex trên da và màng nhầy, bao gồm nhiễm herpes sinh dục khởi phát và tái phát.</li><li>Ngăn ngừa tái phát Herpes simplex ở bệnh nhân có khả năng miễn dịch bình thường.</li><li>Phòng ngừa nhiễm Herpes simplex ở bệnh nhân suy giảm miễn dịch.</li><li>Điều trị nhiễm Varicella (bệnh thủy đậu) và nhiễm Herpes zoster (bệnh zona).</li></ul><h3>Dược lực học</h3><p>Acyclovir là một dẫn chất purine nucleoside tổng hợp với hoạt tính ức chế in vitro và in vivo virus Herpes simplex type 1 (HSV-1), type 2 (HSV-2) và virus Varicella Zoster (VZV).</p><p>Hoạt tính ức chế của acyclovir chọn lọc cao do ái lực của nó đối với enzyme thymidine kinase (TK) được mã hóa bởi HSV và VZV. Enzyme này biến đổi acyclovir thành acyclovir monophosphate, một dẫn chất nucleotide. Monophosphate được biến đổi thành diphosphate bởi guanylate kinase của tế bào và thành triphosphate bởi một số enzyme của tế bào. In vitro, acyclovir triphosphate làm ngừng sự sao chép DNA của virus Herpes. Quá trình này xảy ra theo 3 đường:</p><ul><li>Ức chế cạnh tranh với DNA polymerase của virus.</li><li>Gắn kết và kết thúc chuỗi DNA của virus.</li><li>Bất hoạt DNA polymerase của virus.</li></ul><p>Hoạt tính kháng HSV của acyclovir tốt hơn kháng VZV do quá trình phosphoryl hóa của nó hiệu quả hơn bởi enzyme TK của virus.</p><h3>Dược động học</h3><p><i>Hấp thu</i></p><p>Sinh khả dụng đường uống của acyclovir khoảng 20% (15 – 30%). Thức ăn không làm ảnh hưởng đến hấp thu của thuốc. Thời gian đạt nồng độ đỉnh trong huyết thanh khoảng 1,5 – 2 giờ.</p><p><i>Phân bố</i></p><p>Acyclovir phân bố rộng trong dịch cơ thể và các cơ quan như não, thận, phổi, ruột, gan, lách, cơ, tử cung, niêm mạc và dịch âm đạo, nước mắt, thủy dịch, tinh dịch, dịch não tủy. Liên kết với protein thấp (9 – 33%).</p><p><i>Chuyển hoá</i></p><p>Một lượng nhỏ thuốc được chuyển hóa ở gan.</p><p><i>Thải trừ</i></p><p>Phần lớn thuốc (30 – 90% liều) được đào thải qua thận dưới dạng không biến đổi. Thời gian bán thải của thuốc ở người lớn khoảng 3 giờ, ở trẻ em từ 2 – 3 giờ, ở trẻ sơ sinh 4 giờ.</p>",
+  "ingredients_html": [
+    {
+      "id": 20087,
+      "ingredientId": 7712,
+      "shortDescription": "800mg",
+      "name": "Acyclovir",
+      "isPrimary": false,
+      "slug": "thanh-phan/acyclovir"
+    }
+  ],
+  "stock_qty": 0
+}

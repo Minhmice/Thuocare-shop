@@ -1,0 +1,67 @@
+{
+  "id": "00004218",
+  "slug": "thuoc/konimag-25g-3324.html",
+  "title": "Hỗn dịch uống Konimag PT Konimex giảm buồn nôn, khó tiêu, loét đường tiêu hóa (30 gói x 7ml)",
+  "short_title": "KONIMAG",
+  "brand": {
+    "name": "PT Konimex",
+    "slug": "thuong-hieu/pt-konimex",
+    "country": "Indonesia"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-da-day",
+    "name": "Thuốc dạ dày",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 2100,
+  "compare_at_amount": 0,
+  "unit": "Gói",
+  "pack_note": "30 Gói x 7ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1534_Recovered_ec25682660.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1534_Recovered_ec25682660.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1539_a14cf5b024.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1535_944ac639dc.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1536_fdfc311032.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1540_46736f1f34.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1541_9bb783b996.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1542_23e5348cad.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/konimag_c1632eb4ae.jpg"
+  ],
+  "origin_label": "Indonesia",
+  "country": "Indonesia",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Hỗn dịch uống",
+  "trust_label": null,
+  "short_description": "<p><strong>Konimag</strong> của <em>Công ty PT. Konimex - Indonesia</em>, thành phần chính là nhôm hydroxyd, magnesi trisilicat, simethicon, thuốc dùng trung hòa acid, làm giảm các triệu chứng khó chịu ở dạ dày. Hỗn dịch màu trắng mùi bạc hà.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p><strong>Thuốc Konimag</strong> được chỉ định dùng trong các trường hợp điều trị làm giảm buồn nôn, <strong><a href=\"https://nhathuoclongchau.com.vn/benh/kho-tieu-578.html\">khó tiêu</a></strong> do dư acid, khó chịu dạ dày và <strong><a href=\"https://nhathuoclongchau.com.vn/benh/loet-tieu-hoa-124.html\">loét đường tiêu hóa</a></strong>.</p>\n\n<h3>Dược lực học</h3>\n\n<p>Chưa ghi  nhận.</p>\n\n<h3>Dược động học</h3>\n\n<p>Do thuốc tác động tại chỗ nên chưa thấy ghi nhận dược động học của thuốc.</p>",
+  "ingredients_html": [
+    {
+      "id": 22026,
+      "ingredientId": 8621,
+      "shortDescription": "300mg",
+      "name": "Aluminum hydroxide, dried",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 22027,
+      "ingredientId": 26348,
+      "shortDescription": "300mg",
+      "name": "Magnesium ion",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 22028,
+      "ingredientId": 36074,
+      "shortDescription": "25mg",
+      "name": "Simethicone",
+      "isPrimary": false,
+      "slug": "thanh-phan/simethicone"
+    }
+  ],
+  "stock_qty": 0
+}

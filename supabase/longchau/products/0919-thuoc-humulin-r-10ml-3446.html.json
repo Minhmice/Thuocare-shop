@@ -1,0 +1,44 @@
+{
+  "id": "00003841",
+  "slug": "thuoc/humulin-r-10ml-3446.html",
+  "title": "Thuốc tiêm Humulin R 100UI/ml điều trị bệnh đái tháo đường (10ml)",
+  "short_title": "HUMULIN R 10ML",
+  "brand": {
+    "name": "Lilly",
+    "slug": "thuong-hieu/lilly",
+    "country": "Hoa Kỳ"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tri-tieu-duong",
+    "name": "Thuốc trị tiểu đường",
+    "parent_slug": "thuoc"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Chai",
+  "pack_note": "Chai x 10ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/humulin_r_50aa6e9565.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/humulin_r_50aa6e9565.jpg"
+  ],
+  "origin_label": "Hoa Kỳ",
+  "country": "Hoa Kỳ",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch tiêm",
+  "trust_label": null,
+  "short_description": "<p>Humulin R 10 ml được sản xuất bởi Eli Lilly - Company, thành phần chính insulin human, thuốc được dùng để điều trị bệnh nhân đái tháo đường cần insulin để duy trì hằng định nội môi glucose.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc <a href=\"https://nhathuoclongchau.com.vn/thuoc/humulin-r-10ml-3446.html\">Humulin R</a> 10 ml được chỉ định dùng trong các trường hợp sau:</p><ul><li>Điều trị bệnh nhân đái tháo đường cần insulin để duy trì hằng định nội môi glucose.</li></ul><h3>Dược lực học</h3><p>Humulin R 10 ml là chế phẩm insulin tác dụng nhanh.</p><p>Hoạt tính cơ bản của insulin là điều hòa chuyển hóa glucose.</p><p>Ngoài ra, insulin còn có một số tác dụng đồng hóa và chống dị hóa trên nhiều loại mô khác nhau. Trong mô cơ, tác dụng này bao gồm tăng tổng hợp glycogen, acid béo, glycerol và protein và hấp thu acid amin, đồng thời làm giảm ly giải glycogen, tân tạo glucose, tạo ceton, ly giải mỡ, dị hóa protein và sản xuất acid amin.</p><h3>Dược động học</h3><p>Dược động học của insulin không phản ánh tác dụng chuyển hóa của hormon này. Vì vậy, khi cân nhắc hoạt lực của insulin nên quan sát các biểu đồ biểu diễn sự sử dụng glucose.</p><p><i>An toàn tiền lâm sàng</i></p><p>Humulin R 10 ml là <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/insulin-human\">insulin người</a> được sản xuất bằng kỹ thuật tái tổ hợp. Hiện chưa có báo cáo về các phản ứng nghiêm trọng trong các nghiên cứu độc tính bán mạn tính. Trong một loạt các phân tích độc tính về di truyền trên in vitro và in vivo, insulin người không gây đột biến về gen.</p>",
+  "ingredients_html": [
+    {
+      "id": 21844,
+      "ingredientId": 41702,
+      "shortDescription": "1000ui",
+      "name": "Insulin người",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

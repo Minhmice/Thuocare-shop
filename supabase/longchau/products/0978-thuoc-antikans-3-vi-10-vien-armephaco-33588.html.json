@@ -1,0 +1,55 @@
+{
+  "id": "00033484",
+  "slug": "thuoc/antikans-3-vi-10-vien-armephaco-33588.html",
+  "title": "Thuốc Antikans Armephaco hỗ trợ tăng cường hệ miễn dịch (3 vỉ x 10 viên)",
+  "short_title": "ANTIKANS ARMEPHACO 3X10",
+  "brand": {
+    "name": "Armephaco",
+    "slug": "thuong-hieu/armephaco",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-tang-cuong-suc-de-khang",
+    "name": "Thuốc tăng cường sức đề kháng",
+    "parent_slug": "thuoc/thuoc-bo-and-vitamin"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 3 Vỉ x 10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03721_796451962d.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03721_796451962d.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03724_738d698c43.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03721_796451962d.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03720_1a064bd478.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03722_b73f4f7c94.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03723_64286b2e74.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03724_738d698c43.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03725_71927c32f9.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03726_38f0d92434.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03727_e1ad319a4d.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/antikans_1_7c69c19d66.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/antikans_2_3401315acc.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang cứng",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Antikans là sản phẩm của Armephaco, có thành phần chính là Thymomodulin. Đây là thuốc được sử dụng để hỗ trợ dự phòng tái phát nhiễm khuẩn hô hấp ở trẻ em và người lớn; viêm mũi dị ứng, hỗ trợ dự phòng tái phát dị ứng thức ăn; hỗ trợ cải thiện triệu chứng lâm sàng ở bệnh nhân HIV/AIDS; hỗ trợ tăng cường hệ miễn dịch đã suy giảm ở người cao tuổi.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Antikans được chỉ định dùng trong các trường hợp sau:</p><ul><li>Hỗ trợ dự phòng tái phát nhiễm khuẩn hô hấp ở trẻ em và người lớn.</li><li>Viêm mũi dị ứng.</li><li>Hỗ trợ dự phòng tái phát dị ứng thức ăn.</li><li>Hỗ trợ cải thiện triệu chứng lâm sàng ở bệnh nhân HIV/AIDS</li><li>Hỗ trợ tăng cường hệ miễn dịch đã suy giảm ở người cao tuổi.</li></ul><h3>Dược lực học</h3><p>Tác dụng dược lý: Thymomodulin có tác dụng điều hòa miễn dịch trên mô hình thử nghiệm.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 55311,
+      "ingredientId": 38448,
+      "shortDescription": "80mg",
+      "name": "Thymomodulin",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

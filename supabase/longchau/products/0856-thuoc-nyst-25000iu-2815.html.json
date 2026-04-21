@@ -1,0 +1,52 @@
+{
+  "id": "00005450",
+  "slug": "thuoc/nyst-25000iu-2815.html",
+  "title": "Thuốc rơ miệng Nyst 25.000IU OPC dự phòng và điều trị bệnh Candida miệng (10 gói)",
+  "short_title": "NYST 25000IU OPC 10 GÓI",
+  "brand": {
+    "name": "Opc",
+    "slug": "thuong-hieu/opc",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-khang-sinh-khang-nam/thuoc-khang-nam",
+    "name": "Thuốc kháng nấm",
+    "parent_slug": "thuoc/thuoc-khang-sinh-khang-nam"
+  },
+  "price_amount": 1900,
+  "compare_at_amount": 0,
+  "unit": "Gói",
+  "pack_note": "10 Gói",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_4218_14af8f1d86.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_4218_14af8f1d86.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_4219_d8d93e1fbf.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_4220_1ebda1d3bf.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_4221_e2737fb1f1.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_4222_0de0736c2d.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_4224_1b4469cd35.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_4225_469b604359.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_4226_c8346fd82b.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/thuo_e_uec_ro_o_mie_u_eng_nyst_c32f851556.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Bột pha hỗn dịch uống",
+  "trust_label": null,
+  "short_description": "<p><strong>Thuốc Nyst 25.000 IU</strong> là sản phẩm của <em>Công ty Cổ phần Dược phẩm OPC</em>, với thành phần chính là <strong><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/nystatin\">nystatin</a></strong>, là thuốc dự phòng và điều trị bệnh Candida miệng (đẹn): Tưa miệng, viêm miệng, lưỡi bị mất nhú, lưỡi đẹn, viêm họng do <em>Candida albicans.</em></p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p><strong>Thuốc Nyst 25.000 IU</strong> được chỉ định dùng trong trường hợp dự phòng và điều trị bệnh Candida miệng (đẹn): <strong><a href=\"https://nhathuoclongchau.com.vn/benh/tua-mieng-342.html\">Tưa miệng</a></strong>, viêm miệng, lưỡi bị mất nhú, lưỡi đẹn, viêm họng do Candida albicans.</p>\n\n<h3>Dược lực học</h3>\n\n<p>Nystatin là một polyen, kháng sinh chống nấm được chiết xuất từ dịch nuôi cấy nấm Streptomyces noursei, bột màu vàng, rất ít tan trong nước. Nystatin có tác dụng kìm hãm hoặc diệt nấm tùy thuộc vào nồng độ và độ nhạy cảm của nấm, không tác động đến vi khuẩn chí bình thường trên cơ thể. Nhạy cảm nhất là các nấm men và có tác dụng rất tốt trên Candida albicans. Nystatin không có tác dụng với vi khuẩn, động vật nguyên sinh và virus.</p>\n\n<p>Nystatin có tác dụng chống nấm do liên kết với các sterol ở màng tế bào nấm, làm biến đổi tính thấm và chức năng của màng, nên kali và các thành phần tế bào thiết yếu khác bị cạn kiệt. Nystatin dung nạp tốt ngay cả khi điều trị lâu dài và hiếm gây kháng thuốc.</p>\n\n<p>Khi kháng thuốc, Candida kháng Nystatin thì cũng kháng các polyen chống nấm khác. Các triệu chứng nhiễm nấm Candida sẽ giảm trong vòng 24 - 72 giờ.</p>\n\n<p>Nystatin có tác dụng chống bội nhiễm Candida albicans đường tiêu hóa trong quá trình điều trị kháng sinh. Thuốc được dùng tại chỗ, không dùng để điều trị nhiễm nấm Candida toàn thân.</p>\n\n<h3>Dược động học</h3>\n\n<p>Nystatin được hấp thu kém qua đường tiêu hóa, không được hấp thu qua da hay niêm mạc khi dùng tại chỗ, thải trừ chủ yếu qua phân dưới dạng chưa chuyển hóa.</p>",
+  "ingredients_html": [
+    {
+      "id": 22596,
+      "ingredientId": 30459,
+      "shortDescription": "25000iu",
+      "name": "Nystatin",
+      "isPrimary": false,
+      "slug": "thanh-phan/nystatin"
+    }
+  ],
+  "stock_qty": 0
+}

@@ -1,0 +1,50 @@
+{
+  "id": "00007100",
+  "slug": "thuoc/sylhepgan-2117.html",
+  "title": "Thuốc Sylhepgan Nam Hà điều trị tăng amoniac huyết (12 vỉ x 5 viên)",
+  "short_title": "SYLHEPGAN 500 12X5",
+  "brand": {
+    "name": "Nam Hà",
+    "slug": "thuong-hieu/nam-ha",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-benh-gan",
+    "name": "Thuốc trị bệnh gan",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "5 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007100_sylhepgan_3238_5b07_large_566d4c3849.JPG",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007100_sylhepgan_3238_5b07_large_566d4c3849.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007100_sylhepgan_1628933994_e4939e1a07.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007100_sylhepgan_9790_5b07_large_fc01acb8fd.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007100_sylhepgan_5995_5b07_large_44890289a0.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007100_sylhepgan_7860_5b07_large_dffe223003.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007100_sylhepgan_6661_5b07_large_67b077ba72.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007100_sylhepgan_8214_6117_large_02a43c1367.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang mềm",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Sylhepgan là thuốc điều trị tăng amoniac huyết, do Công ty Cổ phần Dược phẩm Nam Hà sản xuất có thành phần chính L-ornithine-L-aspartate, đóng gói thành hộp 6 vỉ, hộp 12 vỉ x 5 viên nang mềm.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p>Thuốc Sylhepgan được chỉ định dùng trong các trường hợp tăng amoniac huyết ở một số bệnh lý về gan, đặc biệt trong điều trị bệnh não gan.</p>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Các chế phẩm chứa L-ornithin L-aspartate được sử dụng để tăng chuyển hoá amoniac thành urea và glutamin. Đây là một phức hợp muối kép, khác với các thuốc chỉ chứa có L-ornithine, khi vào cơ thể hợp chất này phân ly thành hai acid amin là L-ornithin và L-aspartate. Hai acid amin này là nguyên liệu tham gia vào chu trình urea và quá trình tổng hợp glutamin.</p>\n\n<p>Sự tổng hợp glutamin ở nội bào còn nguyên vẹn là phương tiện rất hiệu quả trong việc điều chỉnh lượng amoniac đi vào chu trình tổng hợp urea. Do đó, sự phối hợp L-ornithin và L-aspartate có tác dụng tương hỗ trong quá trình làm giảm nồng độ amoniac, do đó có tác dụng giải độc, bảo vệ tế bào gan. </p>\n\n<p>Ngoài ra, L-ornithin và L-aspartate còn gián tiếp tham gia tạo năng lượng ATP để cung cấp năng lượng cho các quá trình tổng hợp urea và kích thích sự hoạt động các chức năng khác của gan, đặc biệt là chức năng chuyển hóa mỡ và tái tạo nhu mô gan. Đây là chức năng quan trọng trong điều trị gan nhiễm mỡ và viêm gan do virút, do nhiễm độc hóa chất, do uống thuốc độc với gan như thuốc lao, ung thư, hoặc do uống rượu.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Hiện tại chưa có tài liệu ghi nhận.</p>",
+  "ingredients_html": [
+    {
+      "id": 23411,
+      "ingredientId": 25890,
+      "shortDescription": "500mg",
+      "name": "L-ornithine-L-aspartate",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

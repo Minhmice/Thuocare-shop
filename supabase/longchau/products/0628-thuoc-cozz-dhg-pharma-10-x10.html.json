@@ -1,0 +1,73 @@
+{
+  "id": "00050514",
+  "slug": "thuoc/cozz-dhg-pharma-10-x10.html",
+  "title": "Thuốc Cozz DHG điều trị các chứng ho, đau họng, sổ mũi, cảm cúm (10 vỉ x 10 viên)",
+  "short_title": "COZZ DHG PHARMA 10X10",
+  "brand": {
+    "name": "Dhg",
+    "slug": "thuong-hieu/dhg",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-ho-hap/thuoc-tri-ho-cam",
+    "name": "Thuốc trị ho cảm",
+    "parent_slug": "thuoc/thuoc-ho-hap"
+  },
+  "price_amount": 680,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07751_267e038968.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07751_267e038968.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07753_f2d4dee33d.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07754_b5c10359b3.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07755_1a7b4ddc8a.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07756_dacb651359.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/cozz_bf2eaad06f.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang mềm",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Cozz dùng trị các chứng ho, sổ mũi, cảm cúm do hàn. Sát trùng đường hô hấp, làm dịu cơn đau họng.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Cozz dùng trị các chứng ho, sổ mũi, cảm cúm do hàn. Sát trùng đường hô hấp, làm dịu cơn đau họng.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 72752,
+      "ingredientId": 19829,
+      "shortDescription": "100mg",
+      "name": "Eucalyptol",
+      "isPrimary": false,
+      "slug": "thanh-phan/eucalyptol"
+    },
+    {
+      "id": 72753,
+      "ingredientId": 26940,
+      "shortDescription": "0.5mg",
+      "name": "Menthol",
+      "isPrimary": false,
+      "slug": "thanh-phan/menthol"
+    },
+    {
+      "id": 72754,
+      "ingredientId": 38701,
+      "shortDescription": "0.18mg",
+      "name": "Tinh dầu tần",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 72755,
+      "ingredientId": 38671,
+      "shortDescription": "0.5mg",
+      "name": "Tinh dầu gừng",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

@@ -1,0 +1,44 @@
+{
+  "id": "00041387",
+  "slug": "thuoc/aginmezin-5-mg-agimexpharm-10-x25.html",
+  "title": "Thuốc Aginmezin 5 Agimexpharm điều trị dị ứng hô hấp, viêm mũi, hắt hơi, sổ mũi (10 vỉ x 25 viên)",
+  "short_title": "AGINMEZIN 5MG AGIMEXPHARM 25X10AGINMEZIN 5MG AGIMEXPHARM 10X25",
+  "brand": {
+    "name": "Agimexpharm",
+    "slug": "thuong-hieu/agimexpharm",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-di-ung/thuoc-chong-di-ung",
+    "name": "Thuốc chống dị ứng",
+    "parent_slug": "thuoc/thuoc-di-ung"
+  },
+  "price_amount": 160,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "25 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00041387_907562d44f.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00041387_907562d44f.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Aginmezin 5mg là sản phẩm của Công ty Cổ phần Dược phẩm Agimexpharm, thành phần chính Alimemazin tartrat, là thuốc dùng để điều trị dị ứng hô hấp (viêm mũi, hắt hơi, sổ mũi) và ngoài da (mày đay, ngứa); mất ngủ của trẻ em và người lớn.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc Aginmezin 5mg được chỉ định dùng trong các trường hợp sau:</p><ul><li>Dị ứng hô hấp (viêm mũi, hắt hơi, sổ mũi) và ngoài da (mày đay, ngứa).</li><li>Mất ngủ của trẻ em và người lớn.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 59040,
+      "ingredientId": 41798,
+      "shortDescription": "5mg",
+      "name": "Alimemazin tartat",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

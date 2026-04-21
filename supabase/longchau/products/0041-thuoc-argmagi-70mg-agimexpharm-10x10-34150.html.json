@@ -1,0 +1,44 @@
+{
+  "id": "00500063",
+  "slug": "thuoc/argmagi-70mg-agimexpharm-10x10-34150.html",
+  "title": "Thuốc Argmagi 70 Agimexpharm hỗ trợ điều trị viêm gan mạn tính, có tác dụng lợi mật, chống oxy hóa (10 vỉ x 10 viên)",
+  "short_title": "ARGMAGI 70MG AGIMEXPHARM 10X10",
+  "brand": {
+    "name": "Agimexpharm",
+    "slug": "thuong-hieu/agimexpharm",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-benh-gan",
+    "name": "Thuốc trị bệnh gan",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 3500,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/argmani_70_c46107c469.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/argmani_70_c46107c469.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Argmagi 70 là sản phẩm của Agimexpharm, có thành phần chính là Silymarin. Đây là thuốc được sử dụng để hỗ trợ điều trị viêm gan mạn tính, có tác dụng lợi mật, chống oxy hóa, ức chế xơ hóa gan và bảo vệ tế bào gan.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc Argmagi 70 được chỉ định dùng trong các trường hợp sau:</p><ul><li dir=\"ltr\">Hỗ trợ điều trị viêm gan mạn tính, có tác dụng lợi mật, chống oxy hóa, ức chế xơ hóa gan và bảo vệ tế bào gan.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 30894,
+      "ingredientId": 36065,
+      "shortDescription": "70mg",
+      "name": "Silymarin",
+      "isPrimary": true,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

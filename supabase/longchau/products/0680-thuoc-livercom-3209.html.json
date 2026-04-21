@@ -1,0 +1,88 @@
+{
+  "id": "00004500",
+  "slug": "thuoc/livercom-3209.html",
+  "title": "Viên nang mềm Livercom Hataphar bổ sung vitamin B và hỗ trợ điều trị rối loạn tiêu hóa (12 vỉ x 5 viên)",
+  "short_title": "LIVERCOM HÀ TÂY 12X5",
+  "brand": {
+    "name": "Hà Tây",
+    "slug": "thuong-hieu/ha-tay",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-benh-gan",
+    "name": "Thuốc trị bệnh gan",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "5 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004500_livercom_6178_60f0_large_cf215593a0.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004500_livercom_6178_60f0_large_cf215593a0.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004500_livercom_1626419978_4f123f9b7e.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004500_livercom_1266_5b42_large_988b67a062.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004500_livercom_5693_5b42_large_e9bdd48354.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004500_livercom_7824_60f1_large_619647de63.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang mềm",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Livercom là sản phẩm được sản xuất bởi Công ty Cổ phần Dược phẩm Hà Tây, thuốc được dùng bổ sung vitamin nhóm B và hỗ trợ điều trị rối loạn chức năng gan, giải độc gan…</p>\n\n<p style=\"text-align:justify;\">Thuốc Livercom được bào chế dưới dạng viên nang mềm. Quy cách đóng gói: Hộp 12 vỉ x 5 viên.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Livercom được chỉ định dùng để bổ sung các vitamin nhóm B và hỗ trợ thêm khi điều trị một số bệnh liên quan dưới đây:</p><ul><li><a href=\"https://nhathuoclongchau.com.vn/benh/roi-loan-tieu-hoa-210.html\">Rối loạn tiêu hóa</a>, kém ăn, suy nhược cơ thể.</li><li>Rối loạn chức năng gan: Viêm gan cấp và mãn tính, <a href=\"https://nhathuoclongchau.com.vn/benh/xo-gan-415.html\">xơ gan</a> ở giai đoạn bù trừ chức năng gan, suy gan, gan nhiễm mỡ.</li><li>Trong các trường hợp dùng các thuốc có độc tính đối với gan (sử dụng hóa chất, thuốc kháng sinh, hạ nhiệt giảm đau, thuốc chống lao...).</li><li>Tăng cường chức năng giải độc của gan hỗ trợ điều trị các trường hợp trứng cá, mụn nhọt, dị ứng mãn tính.</li></ul><p>Bệnh nhân mới ốm dậy trong thời kỳ dưỡng bệnh, người bị bệnh mãn tính, bệnh nhân sau phẫu thuật.</p><h3>Dược lực học</h3><p>Chưa có thông tin.</p><h3>Dược động học</h3><p>Chưa có thông tin.</p>",
+  "ingredients_html": [
+    {
+      "id": 40147,
+      "ingredientId": 13090,
+      "shortDescription": "200mg",
+      "name": "Carduus Marianus",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 40148,
+      "ingredientId": 40316,
+      "shortDescription": "8mg",
+      "name": "Vitamin B1",
+      "isPrimary": false,
+      "slug": "thanh-phan/vitamin-b1"
+    },
+    {
+      "id": 40149,
+      "ingredientId": 40324,
+      "shortDescription": "8mg",
+      "name": "Vitamin B2",
+      "isPrimary": false,
+      "slug": "thanh-phan/vitamin-b2"
+    },
+    {
+      "id": 40150,
+      "ingredientId": 40333,
+      "shortDescription": "8mg",
+      "name": "Vitamin B6",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 40151,
+      "ingredientId": 40331,
+      "shortDescription": "16mg",
+      "name": "Vitamin B5",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 40152,
+      "ingredientId": 40393,
+      "shortDescription": "24mg",
+      "name": "Vitamin PP",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

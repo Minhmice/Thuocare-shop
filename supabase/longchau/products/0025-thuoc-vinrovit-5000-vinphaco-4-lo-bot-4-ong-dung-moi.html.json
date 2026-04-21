@@ -1,0 +1,60 @@
+{
+  "id": "00038914",
+  "slug": "thuoc/vinrovit-5000-vinphaco-4-lo-bot-4-ong-dung-moi.html",
+  "title": "Bột đông khô pha tiêm Vinrovit 5000 Vinphaco điều trị viêm thần kinh (4 lọ bột + 4 ống dung môi)",
+  "short_title": "VINROVIT 5000 VINPHACO 4 LỌ BỘT + 4 ỐNG DUNG MÔI",
+  "brand": {
+    "name": "Vinphaco",
+    "slug": "thuong-hieu/vinphaco",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-than-kinh/thuoc-than-kinh",
+    "name": "Thuốc thần kinh",
+    "parent_slug": "thuoc/thuoc-than-kinh"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Lọ",
+  "pack_note": "4 Lọ",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00038914_VINROVIT_5000_VINPHACO_4_LO_BOT_4_ONG_DUNG_MOI_70ea3ad556.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00038914_VINROVIT_5000_VINPHACO_4_LO_BOT_4_ONG_DUNG_MOI_70ea3ad556.png"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Bột đông khô pha tiêm",
+  "trust_label": null,
+  "short_description": "<p>Bột đông khô pha tiêm Vinrovit 5000 là sản phẩm của Vinphaco, có thành phần chính là Thiamin hydroclorid, Pyridoxin hydroclorid, Cyanocobalamin. Đây là thuốc được sử dụng trong các trường hợp đau dây thần kinh hông, đau dây thần kinh cổ - cánh tay, các chứng đau do thần kinh; viêm đa dây thần kinh ở người nghiện rượu mạn tính; viêm dây thần kinh thị giác sau nhãn cầu do nhiễm độc.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Bột đông khô pha tiêm Vinrovit 5000 được chỉ định dùng trong các trường hợp sau:</p><ul><li dir=\"ltr\">Đau dây thần kinh hông, đau dây thần kinh cổ - cánh tay, các chứng đau do thần kinh.&nbsp;</li><li>Viêm đa dây thần kinh ở người nghiện rượu mạn tính.</li><li>Viêm dây thần kinh thị giác sau nhãn cầu do nhiễm độc.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 62473,
+      "ingredientId": 38160,
+      "shortDescription": "50mg",
+      "name": "Thiamin hydroclorid",
+      "isPrimary": true,
+      "slug": "thanh-phan/thiamin-hydroclorid"
+    },
+    {
+      "id": 62474,
+      "ingredientId": 33932,
+      "shortDescription": "250mg",
+      "name": "Pyridoxin hydroclorid",
+      "isPrimary": true,
+      "slug": ""
+    },
+    {
+      "id": 62475,
+      "ingredientId": 16264,
+      "shortDescription": "5mg",
+      "name": "Cyanocobalamin",
+      "isPrimary": true,
+      "slug": "thanh-phan/cyanocobalamin"
+    }
+  ],
+  "stock_qty": 0
+}

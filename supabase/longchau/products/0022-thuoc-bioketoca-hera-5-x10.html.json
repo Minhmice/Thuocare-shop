@@ -1,0 +1,116 @@
+{
+  "id": "00045125",
+  "slug": "thuoc/bioketoca-hera-5-x10.html",
+  "title": "Thuốc Bioketoca Herabiopharm điều trị rối loạn chuyển hóa protein trong suy thận mạn (5 vỉ x 10 viên)",
+  "short_title": "BIOKETOCA HERA 5X10",
+  "brand": {
+    "name": "Herabiopharm",
+    "slug": "thuong-hieu/herabiopharm",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+    "name": "Thuốc bổ",
+    "parent_slug": "thuoc/thuoc-bo-and-vitamin"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/bioketoca_6a6d7299ac.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/bioketoca_6a6d7299ac.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Bioketoca là sản phẩm của Herabiopharm, có thành phần chính là D,L-α-ketoisoleucin calci, α-Ketoleucine calcium, α-Ketophenylalanine calcium, α-Ketovaline calcium, D,L-α-Hydroxymethionine calcium, L-Lysine acetate, L-Threonine, L-Tryptophan, L-Histidin, L-Tyrosine. Đây là thuốc được sử dụng để phòng tránh và điều trị bệnh do rối loạn hoặc suy giảm cơ chế chuyển hóa protein trong bệnh suy thận mạn.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc Bioketoca được chỉ định dùng trong các trường hợp sau:</p><ul><li>Phòng tránh và điều trị bệnh do rối loạn hoặc suy giảm cơ chế chuyển hóa protein trong bệnh suy thận mạn, khi lượng protein trong chế độ ăn bị hạn chế ở mức dưới 40 g/ngày (đối với người lớn). Thường chỉ định cho các bệnh nhân có tốc độ lọc cầu thận (GFR) dưới 25 ml/phút.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 65472,
+      "ingredientId": 16456,
+      "shortDescription": "67mg",
+      "name": "D,L-α-ketoisoleucin calci",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 65473,
+      "ingredientId": 42976,
+      "shortDescription": "101mg",
+      "name": "α-Ketoleucine calcium",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 65474,
+      "ingredientId": 42977,
+      "shortDescription": "68mg",
+      "name": "α-Ketophenylalanine calcium",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 65475,
+      "ingredientId": 42978,
+      "shortDescription": "86mg",
+      "name": "α-Ketovaline calcium",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 65476,
+      "ingredientId": 42979,
+      "shortDescription": "59mg",
+      "name": "D,L-α-Hydroxymethionine calcium",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 65477,
+      "ingredientId": 25722,
+      "shortDescription": "105mg",
+      "name": "L-Lysine acetate",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 65478,
+      "ingredientId": 25975,
+      "shortDescription": "53mg",
+      "name": "L-Threonine",
+      "isPrimary": false,
+      "slug": "thanh-phan/l-threonine"
+    },
+    {
+      "id": 65479,
+      "ingredientId": 25980,
+      "shortDescription": "23mg",
+      "name": "L-Tryptophan",
+      "isPrimary": false,
+      "slug": "thanh-phan/l-tryptophan"
+    },
+    {
+      "id": 65480,
+      "ingredientId": 25494,
+      "shortDescription": "38mg",
+      "name": "L-Histidin",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 65481,
+      "ingredientId": 25986,
+      "shortDescription": "30mg",
+      "name": "L-Tyrosine",
+      "isPrimary": false,
+      "slug": "thanh-phan/l-tyrosine"
+    }
+  ],
+  "stock_qty": 0
+}

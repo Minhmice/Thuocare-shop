@@ -1,0 +1,195 @@
+{
+  "id": "00005011",
+  "slug": "thuoc/moriamin-forte-2976.html",
+  "title": "Viên nang cứng Moriamin Forte Roussel hỗ trợ duy trì và phục hồi sức khỏe (10 vỉ x 10 viên)",
+  "short_title": "MORIAMIN FORTE RESANTIS 10X10",
+  "brand": {
+    "name": "RESANTIS",
+    "slug": "thuong-hieu/resantis",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+    "name": "Thuốc bổ",
+    "parent_slug": "thuoc/thuoc-bo-and-vitamin"
+  },
+  "price_amount": 3489,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005011_moriamin_forte_1691_63db_large_1edc652721.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005011_moriamin_forte_1691_63db_large_1edc652721.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005011_moriamin_forte_1675320289_aa3593f03f.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005011_moriamin_forte_8566_63db_large_c124a6e2a7.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005011_moriamin_forte_3412_63db_large_817ee2bc83.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005011_moriamin_forte_8204_63db_large_f49a5c7117.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005011_moriamin_forte_6943_63db_large_bddab1c5d5.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005011_moriamin_forte_9762_63db_large_131fa0419e.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005011_moriamin_forte_7823_63db_large_3178400d0c.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang cứng",
+  "trust_label": null,
+  "short_description": "<p>Moriamin Forte được sản xuất bởi Công ty Roussel Việt Nam, với thành phần chính gồm acid amin thiết yếu (l - leucine, l - Isoleucine, lysine hydrochloride…) và vitamin (vitamin A, vitamin D2, vitamin B1 nitrate…).</p><p>Đây là thuốc dùng để duy trì và phục hồi sức khỏe trong các trường hợp như hoạt động thể lực, lao động nặng, mệt mỏi, làm việc quá sức, sau đợt bệnh nặng, sau phẫu thuật. Thuốc còn được dùng để bồi dưỡng, cung cấp chất đạm và vitamin cho trẻ em, người lớn tuổi, phụ nữ có thai và cho con bú, người bệnh có nguy cơ thiếu hụt vitamin và chất đạm.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3><p>Thuốc Moriamin Forte được chỉ định dùng trong các trường hợp sau:</p><ul><li>Duy trì và phục hồi sức khỏe trong các trường hợp như hoạt động thể lực, lao động nặng, mệt mỏi, làm việc quá sức, sau đợt bệnh nặng, sau phẫu thuật.</li><li>Bồi dưỡng, cung cấp chất đạm và vitamin cho trẻ em, người lớn tuổi, phụ nữ có thai và cho con bú, người bệnh có nguy cơ thiếu hụt vitamin và chất đạm.</li></ul><h3><strong>Dược lực học</strong></h3><p>Chưa có báo cáo.</p><h3><strong>Dược động học</strong></h3><p>Chưa có báo cáo.</p>",
+  "ingredients_html": [
+    {
+      "id": 42848,
+      "ingredientId": 25712,
+      "shortDescription": "18.3mg",
+      "name": "L-Leucine",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 42849,
+      "ingredientId": 25721,
+      "shortDescription": "25mg",
+      "name": "L-Lysine",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 42850,
+      "ingredientId": 25926,
+      "shortDescription": "5mg",
+      "name": "L-Phenylalanine",
+      "isPrimary": false,
+      "slug": "thanh-phan/l-phenylalanine"
+    },
+    {
+      "id": 42851,
+      "ingredientId": 25975,
+      "shortDescription": "4.2mg",
+      "name": "L-Threonine",
+      "isPrimary": false,
+      "slug": "thanh-phan/l-threonine"
+    },
+    {
+      "id": 42852,
+      "ingredientId": 26088,
+      "shortDescription": "6.7mg",
+      "name": "L-Valine",
+      "isPrimary": false,
+      "slug": "thanh-phan/l-valine"
+    },
+    {
+      "id": 42853,
+      "ingredientId": 25980,
+      "shortDescription": "5mg",
+      "name": "L-Tryptophan",
+      "isPrimary": false,
+      "slug": "thanh-phan/l-tryptophan"
+    },
+    {
+      "id": 42854,
+      "ingredientId": 27178,
+      "shortDescription": "18.4mg",
+      "name": "Methionine",
+      "isPrimary": false,
+      "slug": "thanh-phan/methionine"
+    },
+    {
+      "id": 42855,
+      "ingredientId": 25671,
+      "shortDescription": "5.9mg",
+      "name": "L-Isoleucine",
+      "isPrimary": false,
+      "slug": "thanh-phan/l-isoleucine"
+    },
+    {
+      "id": 42856,
+      "ingredientId": 40309,
+      "shortDescription": "2000IU",
+      "name": "Vitamin A",
+      "isPrimary": false,
+      "slug": "thanh-phan/vitamin-a"
+    },
+    {
+      "id": 42857,
+      "ingredientId": 40360,
+      "shortDescription": "200IU",
+      "name": "Vitamin D2",
+      "isPrimary": false,
+      "slug": "thanh-phan/vitamin-d2"
+    },
+    {
+      "id": 42858,
+      "ingredientId": 40316,
+      "shortDescription": "5mg",
+      "name": "Vitamin B1",
+      "isPrimary": false,
+      "slug": "thanh-phan/vitamin-b1"
+    },
+    {
+      "id": 42859,
+      "ingredientId": 40324,
+      "shortDescription": "3mg",
+      "name": "Vitamin B2",
+      "isPrimary": false,
+      "slug": "thanh-phan/vitamin-b2"
+    },
+    {
+      "id": 42860,
+      "ingredientId": 29896,
+      "shortDescription": "20mg",
+      "name": "Nicotinamid",
+      "isPrimary": false,
+      "slug": "thanh-phan/nicotinamid"
+    },
+    {
+      "id": 42861,
+      "ingredientId": 40333,
+      "shortDescription": "2.5mg",
+      "name": "Vitamin B6",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 42862,
+      "ingredientId": 7428,
+      "shortDescription": "0.2mg",
+      "name": "Acid folic",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 42863,
+      "ingredientId": 40318,
+      "shortDescription": "1mcg",
+      "name": "Vitamin B12",
+      "isPrimary": false,
+      "slug": "thanh-phan/vitamin-b12"
+    },
+    {
+      "id": 42864,
+      "ingredientId": 40363,
+      "shortDescription": "1mg",
+      "name": "Vitamin E",
+      "isPrimary": false,
+      "slug": "thanh-phan/vitamin-e"
+    },
+    {
+      "id": 65279,
+      "ingredientId": 12282,
+      "shortDescription": "5mg",
+      "name": "Calci pantothenat",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 65280,
+      "ingredientId": 40349,
+      "shortDescription": "20mg",
+      "name": "Vitamin C",
+      "isPrimary": false,
+      "slug": "thanh-phan/vitamin-c"
+    }
+  ],
+  "stock_qty": 0
+}

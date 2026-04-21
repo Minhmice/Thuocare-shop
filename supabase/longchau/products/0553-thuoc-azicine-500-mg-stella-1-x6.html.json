@@ -1,0 +1,44 @@
+{
+  "id": "00038725",
+  "slug": "thuoc/azicine-500-mg-stella-1-x6.html",
+  "title": "Thuốc Azicine 500 Stella Pharm điều trị nhiễm khuẩn do vi khuẩn nhạy cảm (1 vỉ x 6 viên)",
+  "short_title": "AZICINE 500MG STELLA 1X6",
+  "brand": {
+    "name": "Stella Pharm",
+    "slug": "thuong-hieu/stella-pharm",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-khang-sinh-khang-nam/thuoc-khang-sinh",
+    "name": "Thuốc kháng sinh",
+    "parent_slug": "thuoc/thuoc-khang-sinh-khang-nam"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 1 Vỉ x 6 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00038725_ac482210c5.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00038725_ac482210c5.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Azicine 500 là viên nén bao phim chứa hoạt chất Azithromycin (dưới dạng azithromycin dihydrate) dùng điều trị các trường hợp nhiễm khuẩn gây ra bởi vi khuẩn nhạy cảm; trong nhiễm khuẩn đường hô hấp dưới bao gồm viêm phế quản và viêm phổi, trong nhiễm khuẩn răng miệng, trong nhiễm khuẩn da và mô mềm, trong viêm tai giữa cấp tính và trong nhiễm khuẩn đường hô hấp trên bao gồm viêm xoang, viêm hầu họng/viêm amiđan. Điều trị nhiễm khuẩn cơ quan sinh dục không biến chứng do Chlamydia trachomatis.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Azicine 500 chỉ định điều trị trong các trường hợp sau:</p><ul><li>Điều trị các trường hợp nhiễm khuẩn gây ra bởi vi khuẩn nhạy cảm; trong nhiễm khuẩn đường hô hấp dưới bao gồm viêm phế quản và viêm phổi, trong nhiễm khuẩn răng miệng, trong nhiễm khuẩn da và mô mềm, trong viêm tai giữa cấp tính và trong nhiễm khuẩn đường hô hấp trên bao gồm viêm xoang, viêm hầu họng/viêm amiđan.</li><li>Điều trị nhiễm khuẩn cơ quan sinh dục không biến chứng do Chlamydia trachomatis. Nó còn được chỉ định điều trị bệnh hạ cam (chancroid) do Haemophilus ducreyi, và nhiễm khuẩn cơ quan sinh dục không biến chứng do Neisseria gonorrhoeae không đa kháng.</li><li>Dùng đơn độc azithromycin hoặc cùng với rifabutin để dự phòng nhiễm Mycobacterium avium-intracellulare complex (MAC) hoặc phối hợp với ethambutol để điều trị nhiễm MAC lan tỏa (DMAC) ở những bệnh nhân nhiễm HIV giai đoạn tiến triển.</li></ul><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 57761,
+      "ingredientId": 9994,
+      "shortDescription": "500mg",
+      "name": "Azithromycin",
+      "isPrimary": false,
+      "slug": "thanh-phan/azithromycin"
+    }
+  ],
+  "stock_qty": 0
+}

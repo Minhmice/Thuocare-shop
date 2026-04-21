@@ -1,0 +1,44 @@
+{
+  "id": "00502757",
+  "slug": "thuoc/pitator-tablets-4-mg-4-x7.html",
+  "title": "Thuốc Pitator Tables 4mg Orient Pharma hỗ trợ điều trị rối loạn lipid máu (4 vỉ x 7 viên)",
+  "short_title": "PITATOR TABLETS 4MG 4X7",
+  "brand": {
+    "name": "Orient Pharma",
+    "slug": "thuong-hieu/orient-pharma",
+    "country": "Đài Loan"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tri-mo-mau",
+    "name": "Thuốc trị mỡ máu",
+    "parent_slug": "thuoc/thuoc-tim-mach-and-mau"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "7 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00502757_PITATOR_TABLES_4_MG_4_X7_eff06db85c.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00502757_PITATOR_TABLES_4_MG_4_X7_eff06db85c.png"
+  ],
+  "origin_label": "Đài Loan",
+  "country": "Đài Loan",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Pitator Tablets 4mg là sản phẩm của Orient Pharma Co., Ltd. (Đài Loan) chứa hoạt chất Pitavastatin. Phác đồ dùng thuốc chỉ là một trong những can thiệp tác động vào thành phần lipid trong máu của người bệnh. Những thuốc điều trị rối loạn lipid máu phải kết hợp với chế độ ăn hạn chế mỡ và cholesterol, và chỉ nên dùng thuốc khi chế độ ăn kiêng và các phương pháp không dùng thuốc không đủ để kiểm soát lipid máu.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Phác đồ dùng thuốc Pitator Tablets 4mg chỉ là một trong những can thiệp tác động vào thành phần lipid trong máu của người bệnh. Những thuốc điều trị rối loạn lipid máu phải kết hợp với chế độ ăn hạn chế mỡ và cholesterol, và chỉ nên dùng thuốc khi chế độ ăn kiêng và các phương pháp không dùng thuốc không đủ để kiểm soát lipid máu.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 65399,
+      "ingredientId": 32770,
+      "shortDescription": "4mg",
+      "name": "Pitavastatin",
+      "isPrimary": true,
+      "slug": "thanh-phan/pitavastatin"
+    }
+  ],
+  "stock_qty": 0
+}

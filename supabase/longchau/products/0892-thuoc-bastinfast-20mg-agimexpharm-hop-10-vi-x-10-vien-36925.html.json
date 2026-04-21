@@ -1,0 +1,44 @@
+{
+  "id": "00502672",
+  "slug": "thuoc/bastinfast-20mg-agimexpharm-hop-10-vi-x-10-vien-36925.html",
+  "title": "Thuốc Bastinfast 20 Agimexpharm điều trị triệu chứng viêm mũi dị ứng, ngứa da, mày đay (10 vỉ x 10 viên)",
+  "short_title": "BASTINFAST 20 AGIMEXPHARM 10X10",
+  "brand": {
+    "name": "Agimexpharm",
+    "slug": "thuong-hieu/agimexpharm",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-di-ung/thuoc-chong-di-ung",
+    "name": "Thuốc chống dị ứng",
+    "parent_slug": "thuoc/thuoc-di-ung"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00502672_e432a69abf.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00502672_e432a69abf.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Bastinfast 20 là sản phẩm của Công ty Cổ phần Dược phẩm Agimexpharm với thành phần chính là Ebastin. Thuốc Bastinfast 20 có tác dụng điều trị triệu chứng: Viêm mũi dị ứng theo mùa hoặc mạn tính; ngứa da, mày đay.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Điều trị triệu chứng:</p><ul><li>Viêm mũi dị ứng theo mùa hoặc mạn tính.&nbsp;</li><li>Ngứa da, mày đay.</li></ul><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 63120,
+      "ingredientId": 42172,
+      "shortDescription": "20mg",
+      "name": "Ebastin",
+      "isPrimary": true,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

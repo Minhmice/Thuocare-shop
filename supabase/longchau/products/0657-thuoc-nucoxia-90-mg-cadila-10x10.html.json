@@ -1,0 +1,44 @@
+{
+  "id": "00039014",
+  "slug": "thuoc/nucoxia-90-mg-cadila-10x10.html",
+  "title": "Thuốc Nucoxia 90mg Cadila giảm các dấu hiệu và triệu chứng của viêm khớp dạng thấp (10 vỉ x 10 viên)",
+  "short_title": "NUCOXIA 90MG CADILA 10x10",
+  "brand": {
+    "name": "Cadila",
+    "slug": "thuong-hieu/cadila",
+    "country": "Ấn Độ"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem/thuoc-giam-dau-khang-viem",
+    "name": "Thuốc giảm đau kháng viêm",
+    "parent_slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00039014_e8beb71607.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00039014_e8beb71607.jpg"
+  ],
+  "origin_label": "Ấn Độ",
+  "country": "Ấn Độ",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Nucoxia 90 là sản phẩm của Cadila Healthcare LTD, có thành phần chính là Etoricoxib. Đây là thuốc được sử dụng để làm giảm các dấu hiệu và triệu chứng của viêm khớp dạng thấp.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Nucoxia 90 được chỉ định dùng trong các trường hợp sau:</p><ul><li>Etoricoxib được chỉ định để giảm các dấu hiệu và triệu chứng của viêm khớp dạng thấp.</li></ul><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 55360,
+      "ingredientId": 19806,
+      "shortDescription": "90mg",
+      "name": "Etoricoxib",
+      "isPrimary": false,
+      "slug": "thanh-phan/etoricoxib"
+    }
+  ],
+  "stock_qty": 0
+}

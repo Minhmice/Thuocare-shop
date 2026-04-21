@@ -1,0 +1,52 @@
+{
+  "id": "00041149",
+  "slug": "thuoc/cezinco-110-mg-5-ml-allomed-30-ong-x-5-ml.html",
+  "title": "Dung dịch uống Cezinco 110mg/5ml Allomed phòng ngừa và điều trị thiếu vitamin C, thiếu kẽm (30 ống)",
+  "short_title": "CEZINCO 110MG/5ML ALLOMED 30 ỐNG X 5ML",
+  "brand": {
+    "name": "Allomed",
+    "slug": "thuong-hieu/allomed",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+    "name": "Thuốc bổ",
+    "parent_slug": "thuoc/thuoc-bo-and-vitamin"
+  },
+  "price_amount": 11300,
+  "compare_at_amount": 0,
+  "unit": "Ống",
+  "pack_note": "30 Ống",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/cezinco_3dd9298389.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/cezinco_3dd9298389.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch uống",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Cezinco 110mg/5ml là sản phẩm của Allomed, có thành phần chính là Acid Ascorbic, Kẽm. Đây là thuốc được sử dụng để phòng ngừa và điều trị thiếu vitamin C và/hoặc thiếu kẽm.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc Cezinco 110mg/5ml được chỉ định dùng trong các trường hợp sau:</p><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 63412,
+      "ingredientId": 7418,
+      "shortDescription": "100mg",
+      "name": "Acid Ascorbic",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 63413,
+      "ingredientId": 24482,
+      "shortDescription": "10mg",
+      "name": "Kẽm",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

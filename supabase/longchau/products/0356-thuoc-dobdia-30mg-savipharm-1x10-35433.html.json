@@ -1,0 +1,44 @@
+{
+  "id": "00501269",
+  "slug": "thuoc/dobdia-30mg-savipharm-1x10-35433.html",
+  "title": "Thuốc Dobdia Savi điều trị các đợt trầm cảm nặng (10 viên)",
+  "short_title": "DOBDIA 30MG SAVIPHARM 1X10",
+  "brand": {
+    "name": "Savi",
+    "slug": "thuong-hieu/savi",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-than-kinh/thuoc-chong-tram-cam",
+    "name": "Thuốc chống trầm cảm",
+    "parent_slug": "thuoc/thuoc-than-kinh"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00501269_dobdia_30mg_savipharm_1x10_4743_6368_large_b2ff47bc03.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00501269_dobdia_30mg_savipharm_1x10_4743_6368_large_b2ff47bc03.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Dobdia là sản phẩm của Dược phẩm SaVi chứa hoạt chất Mirtazapin dùng điều trị các đợt trầm cảm nặng.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p>Thuốc Dobdia chỉ định điều trị các đợt trầm cảm nặng.</p>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Mirtazapin là thuốc ức chế thụ thể α2 tiền synap có hoạt tính trung ương, làm tăng dẫn truyền thần kinh của noradrenergic và serotonergic. Sự tăng cường dẫn truyền<br />\nthần kinh của serotonergic chỉ thông qua các thụ thể 5-HT1 đặc hiệu, do các thụ thể 5-HT2 và 5-HT3 bị chẹn bởi mirtazapin. Cả hai chất đồng phân đối quang của<br />\nmirtazapin đều được cho là có hoạt tính chống trầm cảm, đồng phân S(+) ức chế thụ thể α2 và 5-HT2 trong khi đồng phân R(-) ức chế thụ thể 5-HT3.</p>\n\n<p>Hoạt tính đối kháng histamin H1 của mirtazapin có liên quan đến tính an thần của thuốc. Thuốc gần như không có hoạt tính kháng cholinergic và không có tác dụng trên hệ tim mạch khi dùng ở liều điều trị.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p><em>Hấp thu</em></p>\n\n<p>Sau khi uống, mirtazapin được hấp thu nhanh chóng với sinh khả dụng khoảng 50%, đạt nồng độ đỉnh trong huyết tương sau khoảng 2 giờ. Thức ăn không làm ảnh hưởng đến dược động học của mirtazapin.</p>\n\n<p><em>Phân bố</em></p>\n\n<p>Mirtazapin gắn với protein huyết tương với tỷ lệ khoảng 85%</p>\n\n<p><em>Chuyển hóa</em></p>\n\n<p>Con dường chuyển hóa chủ yếu là sự khử methyl, oxy hóa rồi liên hợp. Theo dữ liệu nghiên cứu in vitro ở microsom gan của người cho thấy các enzym cytochrom P450.</p>\n\n<p>CYP2D6 và CYPIA2 liên quan đến sự hình thành chất chuyển hóa 8-hydroxy của mirtazapin, trong khi đó CYP3A4 được cho là tham gia hình thành các chất chuyển hóa N-demethyl và N-oxyd. Chất chuyển hóa khử methyl có hoạt tính được lý và đặc tính dược động học tương tự mirtazapin.</p>\n\n<p><em>Thải trừ</em></p>\n\n<p>Mirtazapin được chuyển hóa và thải trừ chủ yếu qua nước tiểu và phân trong vòng vài ngày. Thời gian bán thải trung bình là 20 – 40 giờ, thời gian bán thải có thể lâu hơn lên tới 65 giờ. Ở nam giới trẻ tuổi, thời gian bán thải có thể ngắn hơn. Nồng độ thuốc đạt trạng thái ổn định sau khoảng 3 – 4 ngày và sau đó cũng không có tích lũy thêm.</p>\n\n<p>Sự thải trừ của mirtazapin giảm ở người suy thận và suy gan.</p>\n\n<p><em>Tuyến tính</em></p>\n\n<p>Trong khoảng liều được khuyến cáo, dược động học của mirtazapin có tính chất tuyến tính.</p>",
+  "ingredients_html": [
+    {
+      "id": 36793,
+      "ingredientId": 27720,
+      "shortDescription": "30mg",
+      "name": "Mirtazapin",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

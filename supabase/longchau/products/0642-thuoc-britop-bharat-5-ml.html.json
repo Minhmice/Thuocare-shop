@@ -1,0 +1,52 @@
+{
+  "id": "00502287",
+  "slug": "thuoc/britop-bharat-5-ml.html",
+  "title": "Thuốc nhỏ mắt Britop Bharat điều trị viêm nhiễm ở mắt (5ml)",
+  "short_title": "BRITOP BHARAT 5ML",
+  "brand": {
+    "name": "Bharat",
+    "slug": "thuong-hieu/bharat",
+    "country": "Ấn Độ"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-mat-tai-mui-hong/thuoc-nho-mat",
+    "name": "Thuốc nhỏ mắt",
+    "parent_slug": "thuoc/thuoc-mat-tai-mui-hong"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp x 5ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00502287_5035ed8e28.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00502287_5035ed8e28.jpg"
+  ],
+  "origin_label": "Ấn Độ",
+  "country": "Ấn Độ",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch",
+  "trust_label": null,
+  "short_description": "<p>Thuốc nhỏ mắt Britop là sản phẩm của Công ty Bharat Parenterals Ltd với thành phần chính là Dexamethasone, Ofloxacin. Thuốc nhỏ mắt Britop là thuốc điều trị cho các trường hợp viêm nhiễm ở mắt có đáp ứng với thuốc nhóm corticoid.&nbsp;</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><ul><li>Thuốc được chỉ định cho những người có tình trạng viêm nhiễm trên mắt có đáp ứng với thuốc corticoid và chỉ định cho mắt nhiễm khuẩn nông hay có nguy cơ nhiễm khuẩn.</li><li>Ngoài ra còn chỉ định sử dụng trên các tình trạng viêm nhiễm trùng bên ngoài mắt như viêm kết mạc, giác mạc. Hoặc các bộ phận phụ như viêm túi lệ, mí mắt do vi khuẩn nhạy cảm với Ofloxacin gây ra.</li></ul><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 38920,
+      "ingredientId": 17268,
+      "shortDescription": "5mg",
+      "name": "Dexamethason phosphat",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 38921,
+      "ingredientId": 30701,
+      "shortDescription": "16.5mg",
+      "name": "Ofloxacin",
+      "isPrimary": false,
+      "slug": "thanh-phan/ofloxacin"
+    }
+  ],
+  "stock_qty": 0
+}

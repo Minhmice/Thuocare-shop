@@ -1,0 +1,52 @@
+{
+  "id": "00005453",
+  "slug": "thuoc/nystatin-500000iu-2812.html",
+  "title": "Thuốc Nystatin 500.000I.U Vidipha dự phòng và điều trị nhiễm nấm Candida (2 vỉ x 8 viên) ",
+  "short_title": "NYSTATIN 500000IU VDP 2X8",
+  "brand": {
+    "name": "VIDIPHA",
+    "slug": "thuong-hieu/vidipha",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-khang-sinh-khang-nam/thuoc-khang-nam",
+    "name": "Thuốc kháng nấm",
+    "parent_slug": "thuoc/thuoc-khang-sinh-khang-nam"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "8 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1480_dc2215bc77.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1480_dc2215bc77.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1481_55b406d286.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1482_581a24e72d.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1483_688680f992.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1484_fdc951b7dc.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1485_573582ef10.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1486_0f6032c189.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1487_c424773994.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/nystatin_500000_iu_1f50959ecb.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên bao đường",
+  "trust_label": null,
+  "short_description": "<p><strong>Nystatin 500.000 I.U</strong> là một sản phẩm của <i>Công ty Cổ phần Dược phẩm T.Ư Vidipha</i> với thành phần chính là Nystatin 500.000 I.U. Thuốc được dùng trong dự phòng và điều trị nhiễm nấm Candida ở niêm mạc tiêu hóa.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p><strong>Thuốc Nystatin 500.000 I.U</strong> được chỉ định dùng trong các trường hợp sau:</p>\n\n<p>Dự phòng và điều trị nhiễm nấm <em><strong><a href=\"https://nhathuoclongchau.com.vn/benh/nhiem-candida-197.html\">Candida</a></strong> </em>ở niêm mạc đường tiêu hoá.</p>\n\n<h3>Dược lực học</h3>\n\n<p>Nystatin là kháng sinh chống nấm được chiết xuất từ dịch nuôi cấy nấm <em>Streptomyces noursei,</em> bột màu vàng, rất ít tan trong nước. Nystatin có tác dụng kìm hãm hoặc diệt nấm tùy thuộc vào nồng độ và độ nhạy cảm của nấm, không có tác động đến vi khuẩn chí bình thường trên cơ thể. Nhạy cảm nhất là các nấm men và có tác dụng rất tốt nấm <em>Candida albicans.</em></p>\n\n<p>Cơ chế tác dụng: Do liên kết với sterol của màng tế bào các nấm nhạy cảm nên nystatin làm thay đổi tính thấm của màng nấm. Nystatin dung nạp tốt ngay cả khi điều trị lâu dài và không gây kháng thuốc.</p>\n\n<p>Nystatin có tác dụng chống bội nhiễm <em>Candida albicans</em> đường tiêu hóa trong quá trình điều trị kháng sinh.</p>\n\n<h3>Dược động học</h3>\n\n<p>Nystatin được hấp thu kém qua đường tiêu hóa, không được hấp thu qua da hay niêm mạc khi dùng tại chỗ, thải trừ chủ yếu qua phân dưới dạng chưa chuyển hóa.</p>",
+  "ingredients_html": [
+    {
+      "id": 22599,
+      "ingredientId": 30459,
+      "shortDescription": "500.000IU",
+      "name": "Nystatin",
+      "isPrimary": false,
+      "slug": "thanh-phan/nystatin"
+    }
+  ],
+  "stock_qty": 0
+}

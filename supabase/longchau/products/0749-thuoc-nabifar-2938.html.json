@@ -1,0 +1,51 @@
+{
+  "id": "00005083",
+  "slug": "thuoc/nabifar-2938.html",
+  "title": "Thuốc bột Nabifar Pharmedic dùng vệ sinh phụ nữ (10 gói x 5g)",
+  "short_title": "BỘT NABIFAR 5G PMD 10 GÓI",
+  "brand": {
+    "name": "Pharmedic",
+    "slug": "thuong-hieu/pharmedic",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/dung-dich-ve-sinh-phu-nu",
+    "name": "Dung dịch vệ sinh phụ nữ",
+    "parent_slug": "thuoc/thuoc-tiet-nieu-sinh-duc"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 10 Gói x 5g",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1818_be2dc72ccf.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1818_be2dc72ccf.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/nabifar_a0849240fa.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1819_c518748fe1.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1820_7a8d32d635.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1822_2024fe9c3e.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1823_c6d03cef1e.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1825_92fdf7f802.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1826_4359e0d2ba.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Thuốc bột dùng ngoài",
+  "trust_label": null,
+  "short_description": "<p>Nabifar là sản phẩm của công ty Cổ phần Dược phẩm Dược liệu Pharmedic, có thành phần chính là natri bicarbonate 5 g. Thuốc được chỉ định trong trường hợp&nbsp;<strong>vệ sinh phụ nữ</strong>.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3><p>Thuốc Nabifar được chỉ định dùng trong các trường hợp sau:</p><ul><li>Vệ sinh phụ nữ.&nbsp;</li></ul><h3><strong>Dược lực học</strong></h3><p>Nhóm dược lý: Thuốc chống acid và kiềm hóa.</p><p>Mã ATC: B05C B04</p><p>Natri bicarbonat có đặc tính tẩy uế, sát khuẩn. Dùng ngoài, chất này hòa tan dịch rỉ và cải thiện mùi hôi.&nbsp;</p><h3><strong>Dược động học</strong></h3><p>Chưa có thông tin.</p>",
+  "ingredients_html": [
+    {
+      "id": 22460,
+      "ingredientId": 42051,
+      "shortDescription": "5",
+      "name": "Natri bicarbonat",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

@@ -1,0 +1,44 @@
+{
+  "id": "00502419",
+  "slug": "thuoc/thuoc-nupigin-2-vi-x-5-ong-10ml-cpc1-ha-noi-36659.html",
+  "title": "Dung dịch uống Nupigin 1200mg/10ml CPC1HN điều trị rung giật cơ nguồn gốc vỏ não, thiếu máu não (2 vỉ x 5 ống)",
+  "short_title": "NUPIGIN CPC1 2X5 ỐNG 10ML",
+  "brand": {
+    "name": "CPC1HN",
+    "slug": "thuong-hieu/cpc1hn",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tang-cuong-tuan-hoan-nao",
+    "name": "Thuốc tăng cường tuần hoàn não",
+    "parent_slug": "thuoc/thuoc-tim-mach-and-mau"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 2 Vỉ x 5 Ống",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/nupigin_10ml_2bb44872f3.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/nupigin_10ml_2bb44872f3.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch uống",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Nupigin dùng trong điều trị rung giật cơ nguồn gốc vỏ não, thiếu máu não, suy giảm nhận thức ở người già, chứng nói khó ở trẻ nhỏ và chóng mặt.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc <a href=\"https://nhathuoclongchau.com.vn/thuoc/thuoc-nupigin-2-vi-x-5-ong-10ml-cpc1-ha-noi-36659.html\">Nupigin</a> được chỉ định điều trị trong các trường hợp sau:</p><ul><li><a href=\"https://nhathuoclongchau.com.vn/bai-viet/benh-dong-kinh-rung-giat-co-nguyen-nhan-cach-chan-doan-va-dieu-tri-benh.html\">Rung giật cơ</a> nguồn gốc vỏ não.</li><li><a href=\"https://nhathuoclongchau.com.vn/benh/thieu-mau-nao-668.html\">Thiếu máu não</a>.</li><li><a href=\"https://nhathuoclongchau.com.vn/benh/suy-giam-nhan-thuc-650.html\">Suy giảm nhận thức</a> ở người già.</li><li>Chứng nói khó ở trẻ nhỏ.</li><li><a href=\"https://nhathuoclongchau.com.vn/benh/chong-mat-763.html\">Chóng mặt</a>.</li></ul><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 46200,
+      "ingredientId": 32725,
+      "shortDescription": "1200mg",
+      "name": "Piracetam",
+      "isPrimary": false,
+      "slug": "thanh-phan/piracetam"
+    }
+  ],
+  "stock_qty": 0
+}

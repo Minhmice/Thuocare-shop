@@ -1,0 +1,44 @@
+{
+  "id": "00004908",
+  "slug": "thuoc/metronidazole-250mg-mekophar-3020.html",
+  "title": "Viên nén Metronidazole 250mg Mekophar điều trị viêm nhiễm đường niệu sinh dục, bệnh do amip (10 vỉ x 10 viên)",
+  "short_title": "METRONIDAZOLE 250 MKP 10X10",
+  "brand": {
+    "name": "Mekophar",
+    "slug": "thuong-hieu/mekophar",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-khang-sinh-khang-nam/thuoc-khang-nam",
+    "name": "Thuốc kháng nấm",
+    "parent_slug": "thuoc/thuoc-khang-sinh-khang-nam"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004908_metronidazole_250mg_mekophar_4141_62ce_large_047f459bf1.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004908_metronidazole_250mg_mekophar_4141_62ce_large_047f459bf1.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p><strong>Metronidazole</strong> là sản phẩm của&nbsp;<strong>Mekophar</strong> chứa dược chất chính&nbsp;Metronidazol&nbsp;có tác dụng&nbsp;điều trị nhiễm Trichomonas vaginalis ở đường niệu – sinh dục; bệnh do amip (lỵ amip, áp xe gan); viêm âm đạo không đặc hiệu; bệnh do Giardia lamblia, Dracunculus medinensis; viêm loét miệng, trứng cá đỏ; viêm nhiễm phụ khoa.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3><p><a href=\"https://nhathuoclongchau.com.vn/thuoc/metronidazol-250mg-hataphar-50x10-22719.html\"><strong>Metronidazole 250mg</strong></a> chỉ định điều trị trong các trường hợp sau:</p><ul><li>Nhiễm Trichomonas vaginalis ở đường niệu - sinh dục.</li><li>Bệnh do amip (lỵ amip, áp xe gan).</li><li><a href=\"https://nhathuoclongchau.com.vn/benh/viem-am-dao-504.html\"><strong>Viêm âm đạo</strong></a> không đặc hiệu.</li><li>Bệnh do Giardia lamblia, Dracunculus medinensis.</li><li>Viêm loét miệng, trứng cá đỏ.</li><li>Điều trị các nhiễm khuẩn kỵ khí nhạy cảm khu trú hay toàn thân.</li><li>Dự phòng nhiễm khuẩn kỵ khí sau phẫu thuật ở bệnh nhân phải phẫu thuật đường mật, đại trực tràng, phụ khoa.</li><li>Viêm loét dạ dày-tá tràng do nhiễm Helicobacter pylori (phối hợp với một số thuốc khác).</li></ul><h3><strong>Dược lực học</strong></h3><p>Metronidazole, dẫn chất nitro-imidazole, có tác dụng điều trị nhiễm động vật nguyên sinh như Entamoeba histolytica, Giardia lamblia, Trichomonas vaginalis và có tác dụng diệt khuẩn trên Bacteroides, Fusobacterium và các vi khuẩn kỵ khí bắt buộc khác, nhưng không có tác dụng trên vi khuẩn ái khí. Metronidazole chỉ bị kháng trong một số ít trường hợp.</p><h3><strong>Dược động học</strong></h3><p>Metronidazole thường được hấp thu nhanh và hoàn toàn theo đường uống, đạt tới nồng độ trong huyết tương xấp xỉ 10kg/ml khoảng 1 giờ sau khi uống 500mg. Khoảng 10 - 20%</p><p>Metronidazole liên kết với protein huyết tương. Metronidazole khuếch tán tốt vào các mô và dịch cơ thể, nước bọt và sữa mẹ. Metronidazole chuyển hóa ở gan thành các chất chuyển hóa dạng hydroxy và acid, thải trừ qua nước tiểu một phần dưới dạng glucuronid.</p>",
+  "ingredients_html": [
+    {
+      "id": 22332,
+      "ingredientId": 27535,
+      "shortDescription": "250mg",
+      "name": "Metronidazole",
+      "isPrimary": false,
+      "slug": "thanh-phan/metronidazole"
+    }
+  ],
+  "stock_qty": 0
+}

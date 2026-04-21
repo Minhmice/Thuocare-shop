@@ -1,0 +1,44 @@
+{
+  "id": "00502927",
+  "slug": "thuoc/lactulose-stella-20-goi-x-15ml-37225.html",
+  "title": "Dung dịch uống Lactulose Stella điều trị táo bón mạn tính, các bệnh não do gan, hôn mê gan (20 gói x 15ml)",
+  "short_title": "LACTULOSE STELLA 20 GÓI X 15ML",
+  "brand": {
+    "name": "Stella Pharm",
+    "slug": "thuong-hieu/stella-pharm",
+    "country": ""
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-tao-bon",
+    "name": "Thuốc trị táo bón",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 20 Gói x 15ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/21_3c8768e9dd.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/21_3c8768e9dd.png"
+  ],
+  "origin_label": "",
+  "country": "",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch uống",
+  "trust_label": null,
+  "short_description": "<p>Dung dịch uống Lactulose Stella dùng trong điều trị táo bón mạn tính, các bệnh não do gan, hôn mê gan.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Dung dịch uống Lactulose Stella chỉ định điều trị trong các trường hợp sau:</p><ul><li>Táo bón mạn tính.</li><li>Điều trị các bệnh não do gan, hôn mê gan.</li></ul><h3>Dược lực học</h3><p><strong>Nhóm dược lý: Thuốc trị táo bón; thuốc nhuận tràng thẩm thấu.</strong></p><p><strong>Mã ATC: A06AD11</strong></p><p>Lactulose là một disaccharide tổng hợp, chứa galactose và fructose, được chuyển hóa bởi các vi khuẩn đường ruột thành acid lactic và một lượng nhỏ acid acetic và acid formic. Những acid này làm giảm pH của phân và chuyển amoniac (NH3) là dạng khuếch tán sang dạng ion amoni (NH4+) không khuếch tán được từ ruột vào máu. Hơn nữa, do môi trường ở ruột có tính acid hơn ở máu, nên amoniac có thể khuếch tán từ máu vào ruột, rồi lại chuyển thành ion amoni không hấp thu được. Kết quả là hàm lượng amoniac trong máu giảm. Tương tự, sự hấp thu các amin (cũng tham gia gây bệnh não do gan) có thể cũng giảm.</p><p>Nguyên nhân chính gây ngộ độc thần kinh trung ương ở người bị hôn mê do gan là tăng amoniac trong máu. Do vậy, lactulose được dùng trong điều trị bệnh não do gan, nhưng cần dùng liều cao. Khoảng 75 - 85% người bệnh có đáp ứng lâm sàng tốt với điều trị lactulose.</p><p>Lactulose có tác dụng thẩm thấu tại chỗ ở đại tràng, nên làm tăng lượng nước trong phân, làm mềm phân và kích thích nhu động ruột. Tác dụng này có thể phải 72 giờ sau khi dùng thuốc.</p><h3>Dược động học</h3><p>Lactulose hầu như không được hấp thu ở đường tiêu hóa. Thuốc đến ruột già, chủ yếu ở dạng chuyển hóa. Thuốc được chuyển hóa bởi các vi khuẩn, tạo thành các acid hữu cơ đơn giản, chủ yếu là acid lactic. Bài tiết qua nước tiểu dưới dạng chưa chuyển hóa khoảng 3% hoặc ít hơn. Thuốc thải trừ chủ yếu qua phân.</p>",
+  "ingredients_html": [
+    {
+      "id": 59137,
+      "ingredientId": 24951,
+      "shortDescription": "10g",
+      "name": "Lactulose",
+      "isPrimary": true,
+      "slug": "thanh-phan/lactulose"
+    }
+  ],
+  "stock_qty": 0
+}

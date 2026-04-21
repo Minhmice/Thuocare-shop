@@ -1,0 +1,44 @@
+{
+  "id": "00040654",
+  "slug": "thuoc/loratadin-10-mg-traphaco-10-x10.html",
+  "title": "Thuốc Loratadin 10mg Traphaco điều trị triệu chứng viêm mũi dị ứng và mề đay tự phát mạn tính (10 vỉ x 10 viên)",
+  "short_title": "LORATADIN 10MG TRAPHACO 10X10",
+  "brand": {
+    "name": "Traphaco",
+    "slug": "thuong-hieu/traphaco",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-di-ung/thuoc-chong-di-ung",
+    "name": "Thuốc chống dị ứng",
+    "parent_slug": "thuoc/thuoc-di-ung"
+  },
+  "price_amount": 950,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/loratadin_5d933d37e8.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/loratadin_5d933d37e8.png"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Loratadin dùng trong điều trị triệu chứng viêm mũi dị ứng và mề đay tự phát mạn tính.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Loratadin dùng trong điều trị triệu chứng viêm mũi dị ứng và mề đay tự phát mạn tính.</p><h3>Dược lực học</h3><p>Nhóm dược lý: Thuốc kháng histamin, đối kháng thụ thể H1.</p><p>Loratadin là dẫn chất piperidin liên quan tới azatadin, là thuốc kháng histamin tác dụng kéo dài. Loratadin thuộc nhóm thuốc đối kháng chọn lọc thụ thể H1 ngoại vi thuộc thế hệ thứ 2, không an thần, không có hoạt tính muscarinic đáng kể.</p><p>Loratadin có tác dụng giảm nhẹ các triệu chứng của viêm mũi và viêm kết mạc dị ứng do giải phóng histamin. Loratadin còn có tác dụng chống ngứa và nổi mề đay liên quan tới histamin. Tuy nhiên, loratadin không có tác dụng bảo vệ, hay trợ giúp lâm sàng đối với trường hợp giải phóng histamin nặng như choáng phản vệ. Thuốc kháng histamin không có vai trò trong điều trị hen.</p><p>Tác dụng kéo dài của loratadin là do thuốc phân ly chậm sau khi gắn với thụ thể H1 hoặc do tạo thành chất chuyển hóa có hoạt tính desloratadin. Những thuốc kháng histamin không có tác dụng chữa nguyên nhân mà chỉ trợ giúp làm nhẹ bớt triệu chứng.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 19077,
+      "ingredientId": 25881,
+      "shortDescription": "10mg",
+      "name": "Loratadine",
+      "isPrimary": true,
+      "slug": "thanh-phan/loratadine"
+    }
+  ],
+  "stock_qty": 0
+}

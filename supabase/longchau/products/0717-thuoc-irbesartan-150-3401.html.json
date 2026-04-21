@@ -1,0 +1,45 @@
+{
+  "id": "00003984",
+  "slug": "thuoc/irbesartan-150-3401.html",
+  "title": "Thuốc Irbesartan Stella 150mg điều trị tăng huyết áp, bệnh thận do tiểu đường (2 vỉ x 14 viên)",
+  "short_title": "IRBESARTAN 150MG STELLA 2X14",
+  "brand": {
+    "name": "Stella Pharm",
+    "slug": "thuong-hieu/stella-pharm",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap",
+    "name": "Thuốc tim mạch huyết áp",
+    "parent_slug": "thuoc/thuoc-tim-mach-and-mau"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "14 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00003984_irbesartan_150_7730_62aa_large_398fe7b9cb.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003984_irbesartan_150_7730_62aa_large_398fe7b9cb.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003984_irbesartan_150_1619607057_c7f02d85e8.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Irbesartan 150 là sản phẩm của Công ty TNHH Stellapharm, có thành phần chính là Irbesartan, được dùng để điều trị tăng huyết áp, bệnh thận do tiểu đường.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Irbesartan 150 được chỉ định dùng để điều trị trong các trường hợp:</p><ul><li>Bệnh tăng huyết áp: Irbesartan được sử dụng đơn độc hay kết hợp với các nhóm điều trị <a href=\"https://nhathuoclongchau.com.vn/benh/cao-huyet-ap-225.html\">tăng huyết áp</a> khác trong điều trị tăng huyết áp.</li><li>Các thuốc đối kháng thụ thể angiotensin II như irbesartan được xem là một trong những thuốc trị tăng huyết áp được ưa chuộng để điều trị khởi đầu bệnh tăng huyết áp ở bệnh nhân bị suy thận mạn tính, <a href=\"https://nhathuoclongchau.com.vn/benh/benh-tieu-duong-289.html\">tiểu đường</a> và/hoặc <a href=\"https://nhathuoclongchau.com.vn/benh/suy-tim-314.html\">suy tim</a>.</li><li>Bệnh thận do đái tháo đường: Irbesartan được dùng để điều trị bệnh thận do đái tháo đường biểu hiện bằng sự tăng creatinin huyết thanh và protein niệu (sự bài tiết protein trong nước tiểu vượt quá 300 mg/ngày) ở bệnh nhân bị tiểu đường tuýp&nbsp;2 và tăng huyết áp.</li></ul><h3>Dược lực học</h3><p>Nhóm dược lý: Các chất đối kháng thụ thể angiotensin II, đơn chất.</p><p>Mã ATC: C09CA04</p><p>Irbesartan là một thuốc dùng đường uống có tác dụng đối kháng chọn lọc trên thụ thể angiotensin II (loại AT1).</p><p><i>Cơ chế tác động</i></p><p>Ngăn chặn tất cả những tác dụng của angiotensin II qua trung gian thụ thể AT1, không kể đến nguồn gốc hoặc con đường tổng hợp của angiotensin II.</p><p>Tác dụng đối kháng chọn lọc trên thụ thể AT1 dẫn đến tăng renin huyết tương và giảm nồng độ aldosteron huyết thanh.</p><p>Nồng độ kali trong huyết thanh không bị ảnh hưởng đáng kể khi dùng irbesartan đơn độc ở liều khuyến cáo.</p><p>Irbesartan không ức chế enzym chuyển (kininase II), một loại enzym tạo ra angiotensin II và thoái giáng bradykinin thành chất chuyển hóa dạng bất hoạt.</p><p>Irbesartan không cần phải chuyển thành chất chuyển hóa để có tác động này.</p><h3>Dược động học</h3><p>Irbesartan được hấp thu nhanh chóng qua đường tiêu hóa với sinh khả dụng đường uống từ 60 - 80%.</p><p>Nồng độ đỉnh trong huyết tương của irbesartan đạt được từ 1,5 đến 2 giờ sau khi uống. Khoảng 96% irbesartan liên kết với protein huyết tương.</p><p>Thuốc được chuyển hóa qua gan, chủ yếu bởi cytochrome isoenzym CYP2C9 thành chất chuyển hóa không có hoạt tính. Thuốc được đào thải dưới dạng không đổi và dạng chuyển hóa trong mật và trong nước tiểu.</p><p>Thời gian bán thải cuối cùng là khoảng 11 - 15 giờ.</p>",
+  "ingredients_html": [
+    {
+      "id": 21881,
+      "ingredientId": 23981,
+      "shortDescription": "150mg",
+      "name": "Irbesartan",
+      "isPrimary": false,
+      "slug": "thanh-phan/irbesartan"
+    }
+  ],
+  "stock_qty": 0
+}

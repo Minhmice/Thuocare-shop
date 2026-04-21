@@ -1,0 +1,44 @@
+{
+  "id": "00038282",
+  "slug": "thuoc/vastarel-od-80-mg-servier-3-x10-1.html",
+  "title": "Thuốc Vastarel OD 80mg Servier điều trị đau thắt ngực ổn định (3 vỉ x 10 viên)",
+  "short_title": "VASTAREL OD 80MG SERVIER 3X10",
+  "brand": {
+    "name": "Servier",
+    "slug": "thuong-hieu/servier",
+    "country": "Pháp"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap",
+    "name": "Thuốc tim mạch huyết áp",
+    "parent_slug": "thuoc/thuoc-tim-mach-and-mau"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/vastarel_378fac25b0.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/vastarel_378fac25b0.jpg"
+  ],
+  "origin_label": "Pháp",
+  "country": "Pháp",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang cứng",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Vastarel OD chỉ định cho người lớn trong liệu pháp bổ sung hỗ trợ vào biện pháp trị liệu hiện có để điều trị triệu chứng ở bệnh nhân đau thắt ngực ổn định không được kiểm soát đầy đủ hoặc bệnh nhân không dung nạp với các liệu pháp điều trị đau thắt ngực khác.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Vastarel OD chỉ định cho người lớn trong liệu pháp bổ sung hỗ trợ vào biện pháp trị liệu hiện có để điều trị triệu chứng ở bệnh nhân đau thắt ngực ổn định không được kiểm soát đầy đủ hoặc bệnh nhân không dung nạp với các liệu pháp điều trị đau thắt ngực khác.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 54446,
+      "ingredientId": 39378,
+      "shortDescription": "80mg",
+      "name": "Trimetazidine",
+      "isPrimary": false,
+      "slug": "thanh-phan/trimetazidine"
+    }
+  ],
+  "stock_qty": 0
+}

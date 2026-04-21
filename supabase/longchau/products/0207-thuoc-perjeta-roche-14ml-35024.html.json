@@ -1,0 +1,44 @@
+{
+  "id": "00500870",
+  "slug": "thuoc/perjeta-roche-14ml-35024.html",
+  "title": "Thuốc Perjeta 420mg Roche điều trị ung thư vú di căn hoặc ung thư vú tái phát (14ml)",
+  "short_title": "PERJETA 420MG ROCHE 14ML",
+  "brand": {
+    "name": "Roche",
+    "slug": "thuong-hieu/roche",
+    "country": "Thụy Sĩ"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-dieu-tri-ung-thu/thuoc-dieu-tri-ung-thu",
+    "name": "Thuốc điều trị ung thư",
+    "parent_slug": "thuoc/thuoc-dieu-tri-ung-thu"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp x 14ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00500870_9918341f0d.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00500870_9918341f0d.jpg"
+  ],
+  "origin_label": "Thụy Sĩ",
+  "country": "Thụy Sĩ",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch đậm đặc để pha dung dịch tiêm truyền",
+  "trust_label": null,
+  "short_description": "<p dir=\"ltr\">Thuốc Perjeta là sản phẩm của Công ty Roche, thành phần chính chứa Pertuzumab, là thuốc dùng để điều trị ung thư vú di căn hoặc ung thư vú tái phát.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p><i>Ung thư vú di căn:</i> Perjeta được chỉ định điều trị kết hợp với Herceptin và docetaxel cho bệnh nhân ung thư vú di căn hoặc ung thư vú tái phát tại chỗ không thể phẫu thuật được, có HER2 dương tính, chưa được điều trị với liệu pháp kháng HER2 hoặc hóa trị liệu đối với ung thư di căn.</p><p><i>Điều trị tân bổ trợ ung thư vú:</i> Perjeta phối hợp với Herceptin và hóa trị để điều trị tân bổ trợ cho những bệnh nhân ung thư vú có HER2 dương tính, tiến triển tại chỗ, viêm hoặc ung thư vú giai đoạn sớm (hoặc đường kính khối u &gt; 2cm, hoặc có hạch dương tính) như là một phần trong phác đồ điều trị hoàn chỉnh cho bệnh nhân ung thư vú giai đoạn sớm.</p><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 33726,
+      "ingredientId": 32055,
+      "shortDescription": "420mg",
+      "name": "Pertuzumab",
+      "isPrimary": false,
+      "slug": "thanh-phan/pertuzumab"
+    }
+  ],
+  "stock_qty": 0
+}

@@ -1,0 +1,44 @@
+{
+  "id": "00044732",
+  "slug": "thuoc/xgeva-120-mg-1-7-ml-amgen.html",
+  "title": "Dung dịch tiêm Xgeva 120mg Amgen ngăn ngừa gãy xương bệnh lý, phóng xạ đến xương",
+  "short_title": "XGEVA 120MG/1.7ML AMGEN",
+  "brand": {
+    "name": "AMGEN",
+    "slug": "thuong-hieu/amgen",
+    "country": "Mỹ"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-dieu-tri-ung-thu/thuoc-dieu-tri-ung-thu",
+    "name": "Thuốc điều trị ung thư",
+    "parent_slug": "thuoc/thuoc-dieu-tri-ung-thu"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp x 1.7ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/xgeva_fb871ab21c.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/xgeva_fb871ab21c.jpg"
+  ],
+  "origin_label": "Mỹ",
+  "country": "Mỹ",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch tiêm",
+  "trust_label": null,
+  "short_description": "<p>Xgeva Denosumab 120mg là sản phẩm của Amgen Manufacturing Limited với thành phần chính là Denosumab. Thuốc có tác dụng ngăn ngừa các sự kiện liên quan đến xương (gãy xương bệnh lý, phóng xạ đến xương, chèn ép tủy sống hoặc phẫu thuật xương) ở người lớn mắc các khối u ác tính tiến triển liên quan đến xương. Điều trị cho người trưởng thành và thanh thiếu niên trưởng thành với khối u xương tế bào khổng lồ không thể phục hồi hoặc khi phẫu thuật cắt bỏ có thể dẫn đến bệnh nặng.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Ngăn ngừa các sự kiện liên quan đến xương (gãy xương bệnh lý, phóng xạ đến xương, chèn ép tủy sống hoặc phẫu thuật xương) ở người lớn mắc các khối u ác tính tiến triển liên quan đến xương.&nbsp;Điều trị cho người trưởng thành và thanh thiếu niên trưởng thành với khối u xương tế bào khổng lồ không thể phục hồi hoặc khi phẫu thuật cắt bỏ có thể dẫn đến bệnh nặng.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 63203,
+      "ingredientId": 17124,
+      "shortDescription": "120mg",
+      "name": "Denosumab",
+      "isPrimary": false,
+      "slug": "thanh-phan/denosumab"
+    }
+  ],
+  "stock_qty": 0
+}

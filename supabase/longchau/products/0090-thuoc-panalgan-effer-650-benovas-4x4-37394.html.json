@@ -1,0 +1,44 @@
+{
+  "id": "00503096",
+  "slug": "thuoc/panalgan-effer-650-benovas-4x4-37394.html",
+  "title": "Thuốc Panalgan Effer 650 Benovas giảm đau, hạ sốt (4 vỉ x 4 viên)",
+  "short_title": "PANALGAN EFFER 650 BENOVAS 4X4",
+  "brand": {
+    "name": "Benovas",
+    "slug": "thuong-hieu/benovas",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-ho-hap/thuoc-tri-ho-cam",
+    "name": "Thuốc trị ho cảm",
+    "parent_slug": "thuoc/thuoc-ho-hap"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "4 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/panl_8ac550c5c3.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/panl_8ac550c5c3.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén sủi bọt",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Panalgan Effer 650 là sản phẩm của Công ty Cổ phần Dược phẩm Cửu Long - Benovas chứa thành phần hoạt chất Paracetamol giúp giảm đau, hạ sốt.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Panalgan Effer 650 giúp giảm đau, hạ sốt.</p><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 44015,
+      "ingredientId": 31537,
+      "shortDescription": "650mg",
+      "name": "Paracetamol",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

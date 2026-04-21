@@ -1,0 +1,44 @@
+{
+  "id": "00044013",
+  "slug": "thuoc/doxazosin-dwp-2-mg-6-x10.html",
+  "title": "Thuốc Doxazosin DWP 2mg Wealphar điều trị tăng huyết áp, phì đại lành tính tuyến tiền liệt (6 vỉ x 10 viên)",
+  "short_title": "DOXAZOSIN DWP 2MG 6X10",
+  "brand": {
+    "name": "Wealphar",
+    "slug": "thuong-hieu/wealphar",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap",
+    "name": "Thuốc tim mạch huyết áp",
+    "parent_slug": "thuoc/thuoc-tim-mach-and-mau"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/1_b977539e1d.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/1_b977539e1d.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén",
+  "trust_label": null,
+  "short_description": "<p>Doxazosin DWP 2mg là sản phẩm của Công ty Cổ phần Dược phẩm Wealphar. Thuốc có thành phần chính là Doxazosin (dưới dạng Doxazosin mesilat). Thuốc Doxazosin DWP 2mg có thể dùng đơn độc hay phối hợp trong liệu pháp điều trị tăng huyết áp, phì đại lành tính tuyến tiền liệt ở người lớn.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><ul><li>Bướu lành tiền liệt tuyến.</li><li>Tăng huyết áp.</li></ul><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 62124,
+      "ingredientId": 18546,
+      "shortDescription": "2mg",
+      "name": "Doxazosin",
+      "isPrimary": false,
+      "slug": "thanh-phan/doxazosin"
+    }
+  ],
+  "stock_qty": 0
+}

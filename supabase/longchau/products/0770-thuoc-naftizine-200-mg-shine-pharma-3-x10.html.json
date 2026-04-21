@@ -1,0 +1,44 @@
+{
+  "id": "00038834",
+  "slug": "thuoc/naftizine-200-mg-shine-pharma-3-x10.html",
+  "title": "Thuốc Naftizine 200mg Shine Pharma điều trị triệu chứng đau cách hồi (3 vỉ x 10 viên)",
+  "short_title": "NAFTIZINE 200MG SHINE PHARMA 3X10",
+  "brand": {
+    "name": "Shine Pharma",
+    "slug": "thuong-hieu/shine-pharma",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap",
+    "name": "Thuốc tim mạch huyết áp",
+    "parent_slug": "thuoc/thuoc-tim-mach-and-mau"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 3 Vỉ x 10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/23_a2349cf944.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/23_a2349cf944.png"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Naftizine là sản phẩm của Công ty Cổ phần Dược phẩm Medisun, có thành phần chính là Naftidrofuryl oxalate. Đây là thuốc được sử dụng để điều trị triệu chứng đau cách hồi của viêm động mạch tắc nghẽn mãn tính chi dưới (giai đoạn II), điều trị chứng sa sút trí tuệ người già, mất khả năng nhận thức (ngoại trừ bệnh Alzheimer); đề nghị điều trị sau tai biến hay bệnh lý thiếu máu cục bộ não; điều trị hỗ trợ hội chứng Raynaud; điều trị các di chứng sau đột quỵ (như rối loạn vận động và cảm giác).</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\"><a href=\"https://nhathuoclongchau.com.vn/thuoc/naftizine-200-mg-shine-pharma-3-x10.html\">Thuốc Naftizine</a> được chỉ định dùng trong các trường hợp sau:</p><ul><li>Điều trị triệu chứng <a href=\"https://nhathuoclongchau.com.vn/benh/dau-cach-hoi-1033.html\">đau cách hồi</a> của viêm động mạch tắc nghẽn mãn tính chi dưới (giai đoạn II).</li><li>Điều trị chứng sa sút trí tuệ người già, mất khả năng nhận thức (ngoại trừ bệnh Alzheimer).</li><li>Được đề nghị điều trị sau tai biến hay bệnh lý thiếu máu cục bộ não.</li><li>Điều trị hỗ trợ <a href=\"https://nhathuoclongchau.com.vn/benh/hoi-chung-raynaud-632.html\">hội chứng Raynaud</a>.</li><li>Điều trị các di chứng sau đột quỵ (như rối loạn vận động và cảm giác).</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p>Thuốc chống co mạch.</p><p>Naftidrofuryl có tác động ức chế thụ thể 5 HT<sub>2</sub>, tác dụng gây co mạch trên động vật và tác dụng gây kết tập tiểu cầu của sérotonine trên động vật và trên người.</p><h3 dir=\"ltr\">Dược động học</h3><p>Hấp thu: Thuốc được hấp thu nhanh qua đường tiêu hóa: 2 đến 3 giờ sau khi uống, thuốc đạt nồng độ tối đa trong huyết tương.</p><p>Phân phối: Tỉ lệ gắn với protein huyết tương chiếm 80%. Naftidrofuryl qua được hàng rào máu não và có thể cả hàng rào nhau thai.</p><p>Chuyển hóa: Naftidrofuryl chủ yếu được chuyển hóa bằng quá trình thủy phân, cho ra nhiều chất chuyển hóa không có hoạt tính khác nhau.</p><p>Đào thải: Khoảng 80% thuốc uống vào được bài tiết qua nước tiểu dưới dạng chất chuyển hóa đã được liên hợp. Thời gian bán thải của thuốc vào khoảng từ 3 đến 4 giờ.</p>",
+  "ingredients_html": [
+    {
+      "id": 54736,
+      "ingredientId": 29021,
+      "shortDescription": "200mg",
+      "name": "Naftidrofuryl oxalate",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

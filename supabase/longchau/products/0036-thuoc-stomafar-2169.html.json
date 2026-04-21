@@ -1,0 +1,58 @@
+{
+  "id": "00006909",
+  "slug": "thuoc/stomafar-2169.html",
+  "title": "Viên nhai Stomafar Pharmedic điều trị trung hòa acid dạ dày (10 vỉ x 8 viên)",
+  "short_title": "STOMAFAR PMD 10X8",
+  "brand": {
+    "name": "Pharmedic",
+    "slug": "thuong-hieu/pharmedic",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-da-day",
+    "name": "Thuốc dạ dày",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "8 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006909_stomafar_8671_60ee_large_1551e19288.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006909_stomafar_8671_60ee_large_1551e19288.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006909_stomafar_1626785822_d3d9d99331.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006909_stomafar_7404_60ee_large_8b62be56a1.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006909_stomafar_8285_60ee_large_49ceedbe9e.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006909_stomafar_7931_60ee_large_19ee95df69.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006909_stomafar_3704_60ee_large_612b74e1e5.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006909_stomafar_6170_60f6_large_0600d10b1c.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nhai",
+  "trust_label": null,
+  "short_description": "<p><strong>Stomafar</strong> của <i>công ty Cổ phần Dược phẩm Dược liệu Pharmedic</i>, thành phần nhôm hydroxyd và magnesi hydroxyd. Thuốc được sử dụng để trung hòa acid dạ dày trong <a href=\"https://nhathuoclongchau.com.vn/bai-viet/benh-viem-loet-da-day-ta-trang-va-nhung-dieu-can-luu-y-48789.html\"><strong>loét dạ dày - tá tràng</strong></a>, viêm dạ dày, ợ nóng và các bệnh tăng acid dạ dày, điều trị trào ngược dạ dày thực quản.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p><strong>Thuốc Stomafar</strong> được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Ðiều trị trung hòa acid dạ dày trong loét dạ dày - tá tràng, viêm dạ dày, ợ nóng và các bệnh tăng acid dạ dày.</li>\n\t<li><strong><a href=\"https://nhathuoclongchau.com.vn/benh/trao-nguoc-da-day-135.html\">Trào ngược dạ dày</a></strong> thực quản.</li>\n</ul>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Nhôm hydroxyd được sử dụng như một thuốc kháng acid. Nhôm hydroxyd có khả năng làm tăng pH dạ dày. Uống khi đói, thuốc có thể đi qua dạ dày rỗng quá nhanh để thể hiện hết tác dụng trung hoà acid của nó. Sự tăng pH dịch vị do chất kháng acid gây nên sẽ ức chế tác dụng tiêu protid của pepsin; tác dụng này rất quan trọng ở người loét dạ dày.</p>\n\n<p>Các antacid chứa magnesi là các hợp chất magnesi vô cơ tan trong acid dịch vị, giải phóng ra các anion có tác dụng trung hòa acid dạ dày hoặc làm chất đệm cho dịch dạ dày, nhưng không tác động đến sự sản sinh ra dịch dạ dày. Kết quả là pH dạ dày tăng lên, làm giảm triệu chứng tăng acid. Thuốc cũng làm giảm độ acid trong thực quản và làm giảm tác dụng của men pepsin.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Nhôm hydroxid tan chậm trong dạ dày và phản ứng với acid hydrocloric ở dạ dày tạo thành nhôm clorid và nước. Khoảng 17 - 30% lượng nhôm clorid vừa tạo ra được hấp thu và sau đó được thải trừ qua thận. Ở ruột non, nhôm clorid chuyển nhanh thành muối nhôm kiềm không tan, kém hấp thu.</p>\n\n<p>Magnesi hydroxyd phản ứng với acid hydrocloric ở dạ dày tạo thành magnesi clorid và nước. Khoảng 15 - 30% lượng magnesi clorid vừa tạo ra được hấp thu và sau đó được thải trừ qua thận. Còn lượng magnesi hydroxyd nào mà chưa được chuyển hóa thành magnesi clorid thì có thể chuyển hóa ở ruột non và được hấp thu không đáng kể.</p>",
+  "ingredients_html": [
+    {
+      "id": 23362,
+      "ingredientId": 8619,
+      "shortDescription": "400mg",
+      "name": "Aluminum hydroxide",
+      "isPrimary": false,
+      "slug": "thanh-phan/aluminum-hydroxide"
+    },
+    {
+      "id": 23363,
+      "ingredientId": 26346,
+      "shortDescription": "400mg",
+      "name": "Magnesium hydroxide",
+      "isPrimary": false,
+      "slug": "thanh-phan/magnesium-hydroxide"
+    }
+  ],
+  "stock_qty": 0
+}

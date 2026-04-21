@@ -1,0 +1,44 @@
+{
+  "id": "00048132",
+  "slug": "thuoc/ramipril-cap-dwp-10-mg-wealphar-6-x10.html",
+  "title": "Thuốc Ramipril Cap Dwp 10mg Wealphar điều trị tăng huyết áp (6 vỉ x 10 viên)",
+  "short_title": "RAMIPRIL CAP DWP 10MG WEALPHAR 6X10",
+  "brand": {
+    "name": "Wealphar",
+    "slug": "thuong-hieu/wealphar",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap",
+    "name": "Thuốc tim mạch huyết áp",
+    "parent_slug": "thuoc/thuoc-tim-mach-and-mau"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/ramipril_dd1940c981.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/ramipril_dd1940c981.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang cứng",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Ramipril Cap DWP 10 là sản phẩm của Công ty Cổ phần Dược phẩm Wealphar, có thành phần chính là Ramipril. Đây là thuốc được sử dụng để dùng riêng lẽ hay phối hợp với thiazide trong điều trị tăng huyết áp; phối hợp với thuốc lợi tiểu &amp; digitalis trong điều trị suy tim ứ huyết không đáp ứng với các biện pháp khác; phòng ngừa sau nhồi máu cơ tim ở bệnh nhân suy tim.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc Ramipril Cap DWP 10 được chỉ định dùng trong các trường hợp sau:</p><ul><li>Dùng riêng lẽ hay phối hợp với thiazide trong điều trị tăng huyết áp.</li><li>Phối hợp với thuốc lợi tiểu &amp; digitalis trong điều trị suy tim ứ huyết không đáp ứng với các biện pháp khác.</li><li>Phòng ngừa sau nhồi máu cơ tim ở bệnh nhân suy tim.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 69866,
+      "ingredientId": 34300,
+      "shortDescription": "10mg",
+      "name": "Ramipril",
+      "isPrimary": true,
+      "slug": "thanh-phan/ramipril"
+    }
+  ],
+  "stock_qty": 0
+}

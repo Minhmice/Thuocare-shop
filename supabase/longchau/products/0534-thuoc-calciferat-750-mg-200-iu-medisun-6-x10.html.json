@@ -1,0 +1,52 @@
+{
+  "id": "00041458",
+  "slug": "thuoc/calciferat-750-mg-200-iu-medisun-6-x10.html",
+  "title": "Thuốc Calciferat 750mg/200iu Medisun phòng và điều trị loãng xương, thiếu hụt calci và vitamin D (6 vỉ x 10 viên)",
+  "short_title": "CALCIFERAT 750MG/200IU MEDISUN 6X10",
+  "brand": {
+    "name": "Medisun",
+    "slug": "thuong-hieu/medisun",
+    "country": ""
+  },
+  "category": {
+    "slug": "thuoc/co-xuong-khop/thuoc-xuong-khop",
+    "name": "Thuốc xương khớp",
+    "parent_slug": "thuoc/co-xuong-khop"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00041458_e119fb0107.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00041458_e119fb0107.jpg"
+  ],
+  "origin_label": "",
+  "country": "",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Calciferat là sản phẩm của Medisun, có thành phần chính là Calci carbonat, vitamin D3. Đây là thuốc được sử dụng để phòng và điều trị loãng xương, thiếu hụt calci và vitamin D.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc Calciferat được chỉ định dùng trong các trường hợp sau:</p><ul><li>Phòng và điều trị loãng xương ở một số trường hợp ví dụ: phụ nữ mang thai và cho con bú, người cao tuổi...</li><li>Phòng và điều trị thiếu hụt calci và vitamin D, đặc biệt với người ít phơi nắng, hoặc chế độ ăn thiếu vitamin D.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 59181,
+      "ingredientId": 12267,
+      "shortDescription": "750mg",
+      "name": "Calci carbonat",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 59182,
+      "ingredientId": 40361,
+      "shortDescription": "200iu",
+      "name": "Vitamin D3",
+      "isPrimary": false,
+      "slug": "thanh-phan/vitamin-d3"
+    }
+  ],
+  "stock_qty": 0
+}

@@ -1,0 +1,44 @@
+{
+  "id": "00502294",
+  "slug": "thuoc/greenpam-80mg-medica-korea-6x10-36542.html",
+  "title": "Thuốc Green Pam 80mg Medica Korea hỗ trợ tăng cường hệ miễn dịch (6 vỉ x 10 viên)",
+  "short_title": "GREENPAM 80MG MEDICA KOREA 6X10",
+  "brand": {
+    "name": "Medica Korea",
+    "slug": "thuong-hieu/medica-korea",
+    "country": "Hàn Quốc"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-tang-cuong-suc-de-khang",
+    "name": "Thuốc tăng cường sức đề kháng",
+    "parent_slug": "thuoc/thuoc-bo-and-vitamin"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/green_pam_e946e0cd4c.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/green_pam_e946e0cd4c.jpg"
+  ],
+  "origin_label": "Hàn Quốc",
+  "country": "Hàn Quốc",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang cứng",
+  "trust_label": null,
+  "short_description": "<p>Thuốc GreenPam Hard Capsule là sản phẩm của Medica Korea có thành phần hoạt chất Thymomodulin. Đây là thuốc dùng hỗ trợ tăng cường hệ miễn dịch đã suy giảm ở người cao tuổi.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc GreenPam Hard Capsule chỉ định dùng hỗ trợ tăng cường hệ miễn dịch đã suy giảm ở người cao tuổi.</p><h3>Dược lực học</h3><p>Tác dụng dược lý: Thymomodulin có tác dụng điều hòa miễn dịch trên mô hình thử nghiệm.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 41990,
+      "ingredientId": 38448,
+      "shortDescription": "80mg",
+      "name": "Thymomodulin",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

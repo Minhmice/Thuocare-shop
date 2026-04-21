@@ -1,0 +1,93 @@
+{
+  "id": "00002239",
+  "slug": "thuoc/dau-gio-truong-son-6ml-12-chai-4088.html",
+  "title": "Dầu gió Trường Sơn điều trị cảm, ho, sổ mũi, nhứt đầu, say nắng (6ml)",
+  "short_title": "DẦU GIÓ TRƯỜNG SƠN 6ML",
+  "brand": {
+    "name": "Trường Sơn",
+    "slug": "thuong-hieu/truong-son",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/mieng-dan-cao-xoa-dau/dau-gio",
+    "name": "Dầu gió",
+    "parent_slug": "thuoc/mieng-dan-cao-xoa-dau"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Chai",
+  "pack_note": "12 Chai x 6ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002239_dau_gio_truong_son_6ml_12_chai_9997_6423_large_09572ca8a3.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002239_dau_gio_truong_son_6ml_12_chai_9997_6423_large_09572ca8a3.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002239_dau_gio_truong_son_6ml_12_chai_1680061098_90a4dcbcd2.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002239_dau_gio_truong_son_6ml_12_chai_9976_6423_large_6f372e8efa.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002239_dau_gio_truong_son_6ml_12_chai_2101_6423_large_a067cd0c2b.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002239_dau_gio_truong_son_6ml_12_chai_2007_6423_large_838c0a25b7.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002239_dau_gio_truong_son_6ml_12_chai_3173_6423_large_ba017699c7.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002239_dau_gio_truong_son_6ml_12_chai_6893_6423_large_d06550f539.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002239_dau_gio_truong_son_6ml_12_chai_6813_6423_large_3367c69158.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002239_dau_gio_truong_son_6ml_12_chai_9722_6423_large_858fa2e3e0.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002239_dau_gio_truong_son_6ml_12_chai_7784_6423_large_3b8a65eebe.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch",
+  "trust_label": null,
+  "short_description": "<p>Dầu nóng Trường Sơn do Công ty Cổ phần Đông Nam Dược Trường Sơn sản xuất, có thành phần chính là Menthol, tinh dầu bạc hà, eucalyptol, methyl salicylat, long não, hương liệu, được dùng trong các trường hợp&nbsp;cảm, ho, sổ mũi, trúng gió, nhức đầu, say tàu xe, xoa bóp chống viêm cảm, muỗi chích, kiến cắn, buồn nôn, đau bụng, nhức mỏi tay chân, đau khớp, trật gân.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p>Dầu nóng Trường Sơn được chỉ định dùng trong các trường hợp: Cảm, ho, số mũi, trúng gió, <a href=\"https://nhathuoclongchau.com.vn/benh/nhuc-dau-24.html\">nhức đầu</a>, say đi tàu xe, xoa bóp chống viêm cảm, muỗi chích, kiến cắn, buồn nôn, đau bụng, nhức mỏi tay chân, đau khớp, trật gân.</p>\n\n<h3>Dược lực học</h3>\n\n<p>Chưa có thông tin.</p>\n\n<h3>Dược động học</h3>\n\n<p>Chưa có thông tin.</p>",
+  "ingredients_html": [
+    {
+      "id": 20929,
+      "ingredientId": 26940,
+      "shortDescription": "22",
+      "name": "Menthol",
+      "isPrimary": false,
+      "slug": "thanh-phan/menthol"
+    },
+    {
+      "id": 20930,
+      "ingredientId": 10043,
+      "shortDescription": "3",
+      "name": "Bạc hà",
+      "isPrimary": false,
+      "slug": "thanh-phan/bac-ha"
+    },
+    {
+      "id": 20931,
+      "ingredientId": 18014,
+      "shortDescription": "0.2",
+      "name": "Đinh hương",
+      "isPrimary": false,
+      "slug": "thanh-phan/dinh-huong"
+    },
+    {
+      "id": 20932,
+      "ingredientId": 25837,
+      "shortDescription": "2",
+      "name": "Long não",
+      "isPrimary": false,
+      "slug": "thanh-phan/long-nao"
+    },
+    {
+      "id": 20933,
+      "ingredientId": 27307,
+      "shortDescription": "18",
+      "name": "Methyl salicylate",
+      "isPrimary": false,
+      "slug": "thanh-phan/methyl-salicylate"
+    },
+    {
+      "id": 20934,
+      "ingredientId": 19840,
+      "shortDescription": "0.8",
+      "name": "Eucalytol",
+      "isPrimary": false,
+      "slug": "thanh-phan/eucalytol"
+    }
+  ],
+  "stock_qty": 0
+}

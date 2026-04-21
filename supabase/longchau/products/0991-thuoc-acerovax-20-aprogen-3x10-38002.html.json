@@ -1,0 +1,44 @@
+{
+  "id": "00503692",
+  "slug": "thuoc/acerovax-20-aprogen-3x10-38002.html",
+  "title": "Thuốc Acerovax-20 điều trị giảm cholesterol toàn phần, rối loạn betalipoprotein máu (3 vỉ x 10 viên)",
+  "short_title": "ACEROVAX-20 APROGEN 3X10",
+  "brand": {
+    "name": "Aprogen",
+    "slug": "thuong-hieu/aprogen",
+    "country": "Hàn Quốc"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap",
+    "name": "Thuốc tim mạch huyết áp",
+    "parent_slug": "thuoc/thuoc-tim-mach-and-mau"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/acerovax_20_1b137bd00e.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/acerovax_20_1b137bd00e.jpg"
+  ],
+  "origin_label": "Hàn Quốc",
+  "country": "Hàn Quốc",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Acerovax-20 là sản phẩm của Công ty Aprogen Pharmaceuticals, Inc., thành phần chính là Atorvastatin (dưới dạng Atorvastatin calci) 20mg. Thuốc được chỉ định để làm giảm cholesterol toàn phần, LDL-cholesterol, apolipoprotein B và triglycerid và để làm tăng HDL-cholesterol ở các bệnh nhân có tăng cholesterol máu nguyên phát, bệnh nhân rối loạn betalipoprotein máu.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p><a href=\"https://nhathuoclongchau.com.vn/thuoc/acerovax-20-aprogen-3x10-38002.html\">Thuốc Acerovax-20</a> được chỉ định dùng trong các trường hợp sau:</p><ul><li>Atorvastatin được chỉ định để làm giảm <a href=\"https://nhathuoclongchau.com.vn/bai-viet/hieu-ro-ve-cholesterol-toan-phan-manh-ghep-quan-trong-trong-buc-tranh-suc-khoe.html\">cholesterol toàn phần</a>, LDL-cholesterol, apolipoprotein B và triglycerid và để làm tăng <a href=\"https://nhathuoclongchau.com.vn/bai-viet/xet-nghiem-hdl-cholesterol-la-gi-khi-nao-can-thuc-hien-loai-xet-nghiem-nay.html\">HDL-cholesterol</a> ở các bệnh nhân có <a href=\"https://nhathuoclongchau.com.vn/benh/cholesterol-mau-cao-290.html\">tăng cholesterol máu</a> nguyên phát.</li><li>Bệnh nhân rối loạn betalipoprotein máu mà không đáp ứng đầy đủ với chế độ ăn.</li><li>Atorvastatin cũng được chỉ định để làm giảm cholesterol toàn phần và<a href=\"https://nhathuoclongchau.com.vn/bai-viet/nhung-dieu-can-biet-ve-chi-so-ldl-cholesterol-trong-mau.html\"> LDL-cholesterol</a> ở các bệnh nhân có tăng cholesterol máu có tính gia đình đồng hợp tử khi chế độ ăn.</li></ul><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 49904,
+      "ingredientId": 9727,
+      "shortDescription": "20mg",
+      "name": "Atorvastatin",
+      "isPrimary": false,
+      "slug": "thanh-phan/atorvastatin"
+    }
+  ],
+  "stock_qty": 0
+}

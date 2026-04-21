@@ -1,0 +1,50 @@
+{
+  "id": "00501047",
+  "slug": "thuoc/paracold-500mg-effervescent-mekophar-4x4-35193.html",
+  "title": "Viên sủi Paracold 500 Effervescent Mekophar giảm đau thần kinh, đau đầu, đau khớp (4 vỉ x 4 viên)",
+  "short_title": "PARACOLD 500MG EFFERVESCENT MEKOPHAR 4X4",
+  "brand": {
+    "name": "Mekophar",
+    "slug": "thuong-hieu/mekophar",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem/thuoc-giam-dau-ha-sot",
+    "name": "Thuốc giảm đau hạ sốt",
+    "parent_slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "4 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00501047_paracold_500mg_effervescent_mekophar_4x4_4705_6361_large_c06df1be8a.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00501047_paracold_500mg_effervescent_mekophar_4x4_4705_6361_large_c06df1be8a.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00501047_paracold_500mg_effervescent_mekophar_4x4_1667356573_1a921064e1.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00501047_paracold_500mg_effervescent_mekophar_4x4_3889_6361_large_adf8db1768.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00501047_paracold_500mg_effervescent_mekophar_4x4_2733_6361_large_e346569cd0.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00501047_paracold_500mg_effervescent_mekophar_4x4_2829_6361_large_a6998b9058.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00501047_paracold_500mg_effervescent_mekophar_4x4_8904_6361_large_9eac0081b8.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00501047_paracold_500mg_effervescent_mekophar_4x4_9680_6361_large_e0b2959e57.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén sủi bọt",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Paracold là sản phẩm của Công ty Cổ phần Hoá dược phẩm Mekophar có thành phần chính là Paracetamol giúp giảm đau thần kinh, đau đầu, đau khớp, đau do chấn thương, đau lưng, đau bụng kinh, đau răng, hạ sốt ở người bị sốt do cảm cúm, viêm nhiễm.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p>Thuốc Paracold chỉ định điều trị trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Giảm đau trong các trường hợp: Đau dây thần kinh, đau đầu, đau khớp, đau do chấn thương, đau lưng, đau bụng kinh, đau răng,...</li>\n\t<li>Hạ sốt ở người bị sốt do cảm cúm, viêm nhiễm.</li>\n</ul>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Paracetamol là thuốc giảm đau, hạ sốt không gây nghiện, không chứa salicylate, có tác động giảm đau ngoại vi. Thuốc làm tăng ngưỡng chịu đau ở các chứng nhức đầu, đau cơ, đau khớp và các triệu chứng khó chịu khi bị cảm cúm. Paracetamol làm giảm thân nhiệt ở người bệnh sốt, nhưng hiếm khi làm giảm thân nhiệt ở người bình thường.</p>\n\n<p>Thuốc tác động lên vùng dưới đồi gây hạ nhiệt, tỏa nhiệt tăng do giãn mạch và tăng lưu lượng máu ngoại biên.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Paracetamol được hấp thu nhanh chóng và hầu như hoàn toàn qua đường tiêu hóa. Nồng độ đỉnh trong huyết tương đạt trong vòng 30 - 60 phút sau khi uống với liều điều trị. Phân bố nhanh và đồng đều trong phần lớn các mô của cơ thể, qua được nhau thai và sữa mẹ.</p>\n\n<p>Khoảng 25% paracetamol trong máu kết hợp với protein huyết tương.</p>\n\n<p>Thời gian bán thải từ 1 - 3 giờ. Paracetamol chuyển hóa ở gan thành chất trung gian N-acetyl-benzoquinoneimine có thể gây độc gan.</p>\n\n<p>Thuốc đào thải chủ yếu theo đường tiểu trong vòng 24 giờ dưới dạng sản phẩm chuyển hóa (chỉ một lượng nhỏ ở dạng không đổi).</p>",
+  "ingredients_html": [
+    {
+      "id": 40659,
+      "ingredientId": 31537,
+      "shortDescription": "500mg",
+      "name": "Paracetamol",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

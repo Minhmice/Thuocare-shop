@@ -1,0 +1,92 @@
+{
+  "id": "00501557",
+  "slug": "thuoc/dung-dich-duy-tri-tiem-truyen-tinh-mach-glucolyte-2-otsuka-500-ml-1.html",
+  "title": "Dung dịch tiêm truyền Glucolyte-2 Otsuka duy trì điều trị cho bệnh nhân trước và sau phẫu thuật (500ml)",
+  "short_title": "GLUCOLYTE-2 OTSUKA CHAI 500ML",
+  "brand": {
+    "name": "Otsuka",
+    "slug": "thuong-hieu/otsuka",
+    "country": "Hàn Quốc"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tiem-chich-and-dich-truyen/dich-truyen",
+    "name": "Dịch truyền",
+    "parent_slug": "thuoc/thuoc-tiem-chich-and-dich-truyen"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Chai",
+  "pack_note": "Chai x 500ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/3_6d4a3fa6f9.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/3_6d4a3fa6f9.png"
+  ],
+  "origin_label": "Hàn Quốc",
+  "country": "Hàn Quốc",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch tiêm",
+  "trust_label": null,
+  "short_description": "<p>Dung dịch tiêm truyền tĩnh mạch Glucolyte-2 là sản phẩm của Công ty Cổ phần Otsuka OPV dùng trong điều trị duy trì trong giai đoạn tiền phẫu và hậu phẫu, điều trị duy trì trong bệnh tiêu chảy. Cung cấp và điều trị dự phòng các trường hợp thiếu Kali, Magiê, Phosphate và Kẽm. Sử dụng đồng thời với các dung dịch đạm trong nuôi dưỡng bằng đường tĩnh mạch.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Dung dịch tiêm truyền tĩnh mạch Glucolyte-2 chỉ định điều trị trong các trường hợp sau:</p><ul><li>Để điều trị duy trì trong giai đoạn tiền phẫu và hậu phẫu.</li><li>Điều trị duy trì trong bệnh tiêu chảy.</li><li>Cung cấp và điều trị dự phòng các trường hợp thiếu Kali, Magiê, Phosphate và Kẽm.</li><li>Sử dụng đồng thời với các dung dịch đạm trong nuôi dưỡng bằng đường tĩnh mạch.</li></ul><h3>Dược lực học</h3><p>Một vấn đề thường gặp phải ở bệnh nhân sau mổ là giảm Kali máu, Kali có tác dụng dẫn truyền thần kinh và co cơ. Những nghiên cứu gần đây cho thấy có sự liên quan chặt chẽ giữa tình trạng giảm Magiê máu ở những bệnh nhân nằm viện. Tình trạng giảm Magiê máu cũng là biến chứng thường thấy của việc sử dụng aminoglycoside. Tình trạng giảm phosphat máu sau phẫu thuật cũng xảy ra ở những bệnh nhản nằm viện, Phospho có vai trò hình thành xương và răng đồng thời cũng là nguồn năng lượng (ATP). Kẽm có tác dụng đáng kể trong quá trình làm lành các vết thương.</p><p>Kẽm cũng là một đồng yếu tố cho ít nhất 70 enzyme và tham gia vào việc tổng hợp protein và acid nucleic và chuyển hóa năng lượng. Việc thiếu yếu tố vi lượng này trong cơ thể có thể làm giảm khả năng tự vệ của cơ thể chống lại nhiễm trùng và khả năng làm lành vết thương sau phẫu thuật hoặc nhiễm bệnh. Dung dịch điện giải duy trì Glucolyte-2 có tác dụng cung cấp và điều trị dự phòng các trường hợp thiếu Kali, Magiê, Phosphate và Kẽm.</p><h3>Dược động học</h3><p>Sau khi tiêm truyền, dung dịch Glucolyte-2 được hấp thu nhanh và phân bố rộng rãi trong cơ thể. Thuốc chủ yếu được thải trừ qua đường nước tiểu, một phần qua phân và mồ hôi.</p>",
+  "ingredients_html": [
+    {
+      "id": 57605,
+      "ingredientId": 17359,
+      "shortDescription": "37.5g",
+      "name": "Dextrose, anhydrous",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 70763,
+      "ingredientId": 24401,
+      "shortDescription": "0.375g",
+      "name": "Kali clorid",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 70764,
+      "ingredientId": 24496,
+      "shortDescription": "3.234mg",
+      "name": "Kẽm sulfat",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 70765,
+      "ingredientId": 42421,
+      "shortDescription": "0.154g",
+      "name": "Magie sulfat",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 70766,
+      "ingredientId": 24416,
+      "shortDescription": "0.68g",
+      "name": "Kali photphat monobasic",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 70767,
+      "ingredientId": 42986,
+      "shortDescription": "0.41g",
+      "name": "Natri acetat",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 70768,
+      "ingredientId": 29252,
+      "shortDescription": "1.955g",
+      "name": "Natri clorid",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

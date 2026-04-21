@@ -1,0 +1,45 @@
+{
+  "id": "00038375",
+  "slug": "thuoc/newpicetam-ophthalmic-solution-reyon-6-ml.html",
+  "title": "Dung dịch nhỏ mắt Newpicetam Ophthalmic Solution Reyon điều trị viêm bờ mi, lẹo, viêm túi lệ (6ml)",
+  "short_title": "NEWPICETAM OPHTHALMIC SOLUTION REYON 6ML",
+  "brand": {
+    "name": "REYON",
+    "slug": "thuong-hieu/reyon",
+    "country": "Hàn Quốc"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-khang-sinh-khang-nam/thuoc-khang-sinh",
+    "name": "Thuốc kháng sinh",
+    "parent_slug": "thuoc/thuoc-khang-sinh-khang-nam"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp x 6ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/newpicetam_1_0afa60128c.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/newpicetam_1_0afa60128c.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/2_19615dbea1.jpg"
+  ],
+  "origin_label": "Hàn Quốc",
+  "country": "Hàn Quốc",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch uống",
+  "trust_label": null,
+  "short_description": "<p>Dung dịch nhỏ mắt Newpicetam Ophthalmic là sản phẩm của Reyon Pharmaceutical Co., Ltd có chứa thành phần chính là Levofloxacin được chỉ định để điều trị viêm bờ mi, lẹo, viêm túi lệ, viêm kết mạc, viêm sụn mi, viêm giác mạc, loét giác mạc.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Dung dịch nhỏ mắt Newpicetam Ophthalmic chỉ định điều trị trong các trường hợp sau: viêm bờ mi, lẹo, viêm túi lệ, viêm kết mạc, viêm sụn mi, viêm giác mạc, loét giác mạc gây ra do các chủng vi khuẩn nhạy cảm với levofloxacin.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 53880,
+      "ingredientId": 25406,
+      "shortDescription": "30mg",
+      "name": "Levofloxacin",
+      "isPrimary": false,
+      "slug": "thanh-phan/levofloxacin"
+    }
+  ],
+  "stock_qty": 0
+}

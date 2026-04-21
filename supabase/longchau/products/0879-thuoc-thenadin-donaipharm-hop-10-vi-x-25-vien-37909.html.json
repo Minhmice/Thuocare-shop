@@ -1,0 +1,44 @@
+{
+  "id": "00503595",
+  "slug": "thuoc/thenadin-donaipharm-hop-10-vi-x-25-vien-37909.html",
+  "title": "Thuốc Thenadin 5mg DonaiPharm điều trị tình trạng dị ứng, mất ngủ, ho khan (10 vỉ x 25 viên)",
+  "short_title": "THENADIN DONAIPHARM HỘP 10 VỈ X 25 VIÊN",
+  "brand": {
+    "name": "Đồng Nai",
+    "slug": "thuong-hieu/dong-nai",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-di-ung/thuoc-chong-di-ung",
+    "name": "Thuốc chống dị ứng",
+    "parent_slug": "thuoc/thuoc-di-ung"
+  },
+  "price_amount": 118,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "25 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00503595_44ecbd0c29.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00503595_44ecbd0c29.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Thenadin là sản phẩm của Công ty Cổ phần Dược Đồng Nai với thành phần chính là Alimemazine (Trimeprazin, Methylpromazin). Thuốc Thenadin được sử dụng để điều trị tình trạng dị ứng, mất ngủ, ho khan.&nbsp;</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p class=\"MsoNormal\">Dị ứng hô hấp (viêm mũi, hắt hơi, sổ mũi) và ngồi da (mày đay, ngứa).<o:p></o:p></p><p class=\"MsoNormal\">Mất ngủ ở trẻ em và người lớn.<o:p></o:p></p><p class=\"MsoNormal\">Ho khan gây khó chịu, chủ yếu vào ban đêm.<o:p></o:p></p><p class=\"MsoNormal\">Nôn thường xuyên ở trẻ em.</p><h3>Dược lực học</h3><p class=\"MsoNormal\">Alimemazine là dẫn chất phenothiazin, có tác dụng kháng histamin và kháng serotonin mạnh, thuốc còn có tác dụng an thần, giảm ho, chống nôn.<o:p></o:p></p><p class=\"MsoNormal\">Alimemazine cạnh tranh với histamin tại các thụ thể histamin H<sub>1</sub>, do đó có tác dụng kháng histamin H<sub>1</sub>. Thuốc đối kháng với phần lớn các tác dụng dược lý của histamin H<sub>1</sub>, bao gồm các chứng mày đay, ngứa. Tác dụng kháng cholinergic ngoại vi của thuốc tương đối yếu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 60418,
+      "ingredientId": 8148,
+      "shortDescription": "5mg",
+      "name": "Alimemazin tartrat",
+      "isPrimary": true,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

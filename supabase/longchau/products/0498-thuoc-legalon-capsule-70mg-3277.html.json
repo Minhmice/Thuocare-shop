@@ -1,0 +1,66 @@
+{
+  "id": "00004353",
+  "slug": "thuoc/legalon-capsule-70mg-3277.html",
+  "title": "Viên nang Legalon 70 Madaus điều trị bệnh gan, nhiễm độc gan (10 vỉ x 10 viên)",
+  "short_title": "LEGALON 70 MADAUS 10X10",
+  "brand": {
+    "name": "Madaus",
+    "slug": "thuong-hieu/madaus",
+    "country": "Đức"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-benh-gan",
+    "name": "Thuốc trị bệnh gan",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004353_legalon_capsule_70mg_3576_5bd9_large_e7705bd3f0.JPG",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004353_legalon_capsule_70mg_3576_5bd9_large_e7705bd3f0.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004353_legalon_capsule_70mg_1627402488_5ae889cc70.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004353_legalon_capsule_70mg_6127_5bd9_large_a592d173fb.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004353_legalon_capsule_70mg_9690_5bd9_large_5fc6ff440e.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004353_legalon_capsule_70mg_8733_5bd9_large_7e16bcf60b.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004353_legalon_capsule_70mg_8171_5bd9_large_65909913bb.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004353_legalon_capsule_70mg_5901_6100_large_88cb6ac7f0.jpg"
+  ],
+  "origin_label": "Đức",
+  "country": "Đức",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang cứng",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Legalon® 70 Protect MADAUS với thành phần chiết xuất từ cây cúc gai - silymarin thường được dùng để điều trị hỗ trợ <a href=\"https://nhathuoclongchau.com.vn/benh/viem-gan-man-146.html\">viêm gan mạn tính</a> và <a href=\"https://nhathuoclongchau.com.vn/benh/xo-gan-415.html\">xơ gan</a>.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p><strong>Thuốc Legalon® 70 Protect MADAUS</strong> được chỉ định dùng điều trị hỗ trợ trong tổn thương gan do nhiễm độc ở những bệnh nhân bị viêm gan mạn tính hoặc xơ gan.</p>\n\n<p>Lưu ý: Điều trị bằng Legalon 70 Protect MADAUS chỉ hữu ích khi loại trừ được chất độc gây tổn thương gan (ví dụ rượu).</p>\n\n<h3>Dược lực học</h3>\n\n<p>Chưa có báo cáo.</p>\n\n<h3>Dược động học</h3>\n\n<p>Chưa có báo cáo.</p>",
+  "ingredients_html": [
+    {
+      "id": 47805,
+      "ingredientId": 42127,
+      "shortDescription": "70mg",
+      "name": "Silymarin (DNPH)",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 60263,
+      "ingredientId": 42128,
+      "shortDescription": "54.1mg",
+      "name": "Silymarin (HPLC/DAB)",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 60264,
+      "ingredientId": 42129,
+      "shortDescription": "86.5 - 93.35mg",
+      "name": "Silibinin (dung môi chiết: ethyl acetate)",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

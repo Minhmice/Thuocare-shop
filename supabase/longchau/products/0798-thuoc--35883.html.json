@@ -1,0 +1,44 @@
+{
+  "id": "00501728",
+  "slug": "thuoc/-35883.html",
+  "title": "Thuốc AgiTritine 100 Agimexpharm điều trị chứng đau do rối loạn chức năng của ống tiêu hóa và đường mật (10 vỉ x 10 viên)",
+  "short_title": "AGITRITINE 100MG AGIMEXPHARM 10X10",
+  "brand": {
+    "name": "Agimexpharm",
+    "slug": "thuong-hieu/agimexpharm",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat",
+    "name": "Thuốc tiêu hoá & gan mật",
+    "parent_slug": "thuoc"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/agitritine_766ee95c2c.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/agitritine_766ee95c2c.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén",
+  "trust_label": null,
+  "short_description": "<p>Thuốc AgiTritine 100 là sản phẩm của Agimexpharm, có thành phần chính là Trimebutine. Đây là thuốc được sử dụng để điều trị triệu chứng đau do rối loạn chức năng của ống tiêu hóa và đường mật; điều trị và làm giảm các triệu chứng liên quan đến hội chứng ruột bị kích thích; liệt ruột sau phẫu thuật ổ bụng.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc AgiTritine 100 được chỉ định dùng trong các trường hợp sau:</p><ul><li>Điều trị triệu chứng đau do rối loạn chức năng của ống tiêu hóa và đường mật.</li><li>Điều trị và làm giảm các triệu chứng liên quan đến hội chứng ruột bị kích thích: Điều trị triệu chứng đau, rối loạn sự chuyển vận bất ổn ở ruột có liên quan đến rối loạn chức năng của ruột. Liệt ruột sau phẫu thuật ổ bụng.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 36078,
+      "ingredientId": 39367,
+      "shortDescription": "100mg",
+      "name": "Trimebutine",
+      "isPrimary": false,
+      "slug": "thanh-phan/trimebutine"
+    }
+  ],
+  "stock_qty": 0
+}

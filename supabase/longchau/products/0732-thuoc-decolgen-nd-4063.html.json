@@ -1,0 +1,62 @@
+{
+  "id": "00002303",
+  "slug": "thuoc/decolgen-nd-4063.html",
+  "title": "Thuốc Decolgen ND United điều trị các triệu chứng cảm thông thường, viêm mũi dị ứng (25 vỉ x 4 viên)",
+  "short_title": "DECOLGEN ND UNITED 25X4",
+  "brand": {
+    "name": "United",
+    "slug": "thuong-hieu/united",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem/thuoc-giam-dau-ha-sot",
+    "name": "Thuốc giảm đau hạ sốt",
+    "parent_slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Vỉ",
+  "pack_note": "25 Vỉ x 4 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1926_988312f0d7.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1926_988312f0d7.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/decolgen_nd_5b27126cf5.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1928_a4117c6ea2.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1931_0487338063.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1929_9b653b77ad.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1930_487df4507d.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1927_ec9b7727dd.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1938_3a3f4f16e7.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1933_2b412fc58c.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1937_743626d043.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1934_6d0362ba7e.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén",
+  "trust_label": null,
+  "short_description": "<p><a href=\"https://nhathuoclongchau.com.vn/thuoc/decolgen-nd-500mg-4060.html\">Decolgen Nd</a> là sản phẩm của Công ty TNHH United International Pharma có thành phần chính là Paracetamol (acetaminophen), Phenylephrine Hydrochloride&nbsp;dùng điều trị các triệu chứng cảm thông thường, viêm mũi dị ứng, viêm mũi vận mạch, viêm màng nhầy xuất tiết do cúm, viêm xoang và các rối loạn của đường hô hấp trên.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Decolgen Nd chỉ định điều trị trong các trường hợp sau:</p><p>Điều trị các triệu chứng cảm thông thường, <a href=\"https://nhathuoclongchau.com.vn/benh/viem-mui-di-ung-473.html\">viêm mũi dị ứng</a>, viêm mũi vận mạch, viêm màng nhầy xuất tiết do cúm, viêm xoang và các rối loạn của đường hô hấp trên.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 46885,
+      "ingredientId": 31537,
+      "shortDescription": "500mg",
+      "name": "Paracetamol",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 46886,
+      "ingredientId": 32319,
+      "shortDescription": "10mg",
+      "name": "Phenylephrine",
+      "isPrimary": false,
+      "slug": "thanh-phan/phenylephrine"
+    }
+  ],
+  "stock_qty": 0
+}

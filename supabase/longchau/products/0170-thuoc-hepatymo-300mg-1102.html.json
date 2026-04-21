@@ -1,0 +1,49 @@
+{
+  "id": "00012406",
+  "slug": "thuoc/hepatymo-300mg-1102.html",
+  "title": "Thuốc Hepatymo 300mg điều trị viêm gan siêu B mạn tính (3 vỉ x 10 viên)",
+  "short_title": "HEPATYMO 300MG 3X10",
+  "brand": {
+    "name": "MEYER-BPC",
+    "slug": "thuong-hieu/meyer-bpc",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-khang-sinh-khang-nam/thuoc-khang-virus",
+    "name": "Thuốc kháng virus",
+    "parent_slug": "thuoc/thuoc-khang-sinh-khang-nam"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00012406_hepatymo_300mg_9525_5b97_large_fbb9ce7c90.JPG",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00012406_hepatymo_300mg_9525_5b97_large_fbb9ce7c90.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00012406_hepatymo_300mg_1619189926_750d6bec1f.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/00012406_hepatymo_300mg_5915_5b97_large_c63420fa52.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00012406_hepatymo_300mg_7388_5b97_large_86f9a4363f.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00012406_hepatymo_300mg_9838_5b97_large_f7d75679f0.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/00012406_hepatymo_300mg_3697_5b97_large_1484dfdcf9.JPG"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Hepatymo 300mg của Công ty Liên doanh Meyer - Bpc, có thành phần chính tenofovir. Đây là thuốc dùng để điều trị viêm gan siêu B mạn tính ở người lớn có bệnh lý gan còn bù và có bằng chứng của việc sao chép virus và có bằng chứng mô học của tình trạng viêm hoạt động hoặc xơ hóa, phối hợp với các thuốc kháng retrovirus khác trong điều trị <a href=\"https://nhathuoclongchau.com.vn/benh/hiv-aids-440.html\">HIV</a>.</p>\n\n<p>Thuốc được bào chế dưới dạng viên nén bao phim 300mg.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p>Thuốc Hepatymo 300mg được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li><a href=\"https://nhathuoclongchau.com.vn/benh/viem-gan-b-143.html\">Viêm gan siêu vi B</a> mạn tính ở người lớn có bệnh lý gan còn bù và có bằng chứng của việc sao chép virus và có bằng chứng mô học của tình trạng viêm hoạt động hoặc xơ hóa.</li>\n\t<li>Phối hợp với các thuốc kháng retrovirus khác trong điều trị HIV.</li>\n</ul>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/tenofovir-disoproxil\">Tenofovir disoproxil</a> fumarat có cấu trúc một nucleotid diester vòng xoắn tương tự adenosin monophosphat, là một tiền chất của tenofovir. Sau khi được phosphoryl hóa thành dạng diphosphat có hoạt tính, tenofovir diphosphat kháng lại polymerase của HBV và men sao mã ngược của HIV.</p>\n\n<p>Tenofovir diphosphat ức chế polymerase của virus (men sao mã ngược) bằng cách cạnh tranh trực tiếp với chất nền tự nhiên deoxyribonucleotid và kết thúc chuỗi DNA sau khi gắn vào chuỗi DNA của virus.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p><em>Hấp thu</em></p>\n\n<p>Tenofovir disoproxil fumarat được hấp thu và chuyển thành tenofovir nhanh sau khi uống, với nồng độ đỉnh đạt sau 1 - 2 giờ. Sinh khả dụng ở người ăn kiêng khoảng 25% nhưng tăng lên khi uống trong bữa ăn nhiều chất béo.</p>\n\n<p><em>Phân bố</em></p>\n\n<p>Tenofovir phân bố rộng rãi khắp các mô cơ thể, đặc biệt là thận và gan. Tenofovir liên kết với protein huyết tương dưới 1% và với protein huyết thanh khoảng 7%.</p>\n\n<p><em>Chuyển hoá</em></p>\n\n<p>Tenofovir disoproxil fumarat được hấp thu và chuyển thành tenofovir.</p>\n\n<p><em>Thải trừ</em></p>\n\n<p>Thời gian bán thải của tenofovir là 12 - 18 giờ. Thải trừ chủ yếu qua nước tiểu.</p>",
+  "ingredients_html": [
+    {
+      "id": 44331,
+      "ingredientId": 42323,
+      "shortDescription": "300mg",
+      "name": "Tenofovir disoproxil fumarat",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

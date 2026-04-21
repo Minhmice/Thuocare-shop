@@ -1,0 +1,44 @@
+{
+  "id": "00501616",
+  "slug": "thuoc/-35765.html",
+  "title": "Thuốc Cetigam OPV điều trị thiếu acid ascorbic (bệnh Scorbut), tăng cường sức đề kháng cho cơ thể (20 ống x 10ml)",
+  "short_title": "CETIGAM OPV 20 ỐNG X 10ML",
+  "brand": {
+    "name": "Opv",
+    "slug": "thuong-hieu/opv",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-tang-cuong-suc-de-khang",
+    "name": "Thuốc tăng cường sức đề kháng",
+    "parent_slug": "thuoc/thuoc-bo-and-vitamin"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Ống",
+  "pack_note": "5 Ống x 10ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/43_fc8cdead75.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/43_fc8cdead75.png"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Siro",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Cetigam là sản phẩm của Công ty Cổ phần Dược phẩm OPV có chứa hoạt chất Acid Ascorbic. Thuốc có công dụng trong điều trị thiếu acid ascorbic (bệnh Scorbut), tăng cường sức đề kháng cho cơ thể.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc <a href=\"https://nhathuoclongchau.com.vn/thuoc/-35765.html\">Cetigam</a> có công dụng trong điều trị thiếu acid ascorbic (bệnh <a href=\"https://nhathuoclongchau.com.vn/bai-viet/scorbut-la-benh-gi-scorbut-co-gay-nguy-hiem-khong-48669.html\">Scorbut</a>), tăng cường sức đề kháng cho cơ thể.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 35657,
+      "ingredientId": 7418,
+      "shortDescription": "200mg",
+      "name": "Acid Ascorbic",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

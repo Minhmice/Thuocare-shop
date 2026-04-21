@@ -1,0 +1,44 @@
+{
+  "id": "00500024",
+  "slug": "thuoc/candesarkern-16mg-kern-2x14-34104.html",
+  "title": "Thuốc Candesarkern 16mg Kern điều trị tăng huyết áp (2 vỉ x 14 viên)",
+  "short_title": "CANDEKERN 16MG KERN 2X14",
+  "brand": {
+    "name": "KERN",
+    "slug": "thuong-hieu/kern",
+    "country": "Tây Ban Nha"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap",
+    "name": "Thuốc tim mạch huyết áp",
+    "parent_slug": "thuoc/thuoc-tim-mach-and-mau"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "14 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00500024_75a5247abe.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00500024_75a5247abe.jpg"
+  ],
+  "origin_label": "Tây Ban Nha",
+  "country": "Tây Ban Nha",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Candesarkern 16mg là sản phẩm của Công ty Kern Pharma S.L với thành phần chính là Candesartan. Thuốc Candesarkern 16mg có tác dụng chính là điều trị tăng huyết áp, thuốc có thể sử dụng một mình hoặc kết hợp với các thuốc trị tăng huyết áp khác.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Candesartan Cilexetil được chỉ định để điều trị tăng huyết áp. Có thể sử dụng một mình hoặc kết hợp với các thuốc trị tăng huyết áp khác.</p><h3>Dược lực học</h3><p><i>Hấp thu&nbsp;</i></p><p>Candesartan cilexetil được hấp thu nhanh chóng và sinh chuyển hóa hoàn toàn bằng cách thủy phân ester trong khi hấp thu từ ống tiêu hóa thành Candesartan, là một chất đối kháng chọn lọc thụ thé ATI angiotensin IL. Sinh khả dụng tuyệt đối của Candesartan vào khoảng 15%. Sau khi dùng thuốc bằng đường uống, nồng độ đỉnh huyết tương đạt được sau 3 đến 4 giờ. Thức ăn giàu chất béo không ảnh hưởng đến sinh khả dụng của Candesartan.</p><p><i>Phân bố</i></p><p>Sau khi dùng liều đơn, lặp lại, được động học của Candesartan tuyến tính với liều dùng lên đến 32mg Candesartan cilexetil. Candesartan và các chất chuyển hóa không hoạt tính của nó không tích luỹ trong cơ thể khi lặp lại liều mỗi ngày một lần. Thể tích phân bế của Candesartan là 0,13L/ kg. Tỷ lệ gắn kết của Candesartan với protein huyết tương cao (&gt; 99%), thuốc không thấm vào tế bào hồng câu.&nbsp;</p><p><i>Chuyển hóa và thải trừ&nbsp;</i></p><p>Candesartan chuyển hóa một phần nhỏ ở gan qua con đường O-deethyl hóa thành chất chuyển hóa không có hoạt tính. Sau khi dùng đường uống Candesartan, khoảng 26% liều dùng được bài tiết đưới dạng không đổi qua nước tiểu. Độ thanh thải toàn phần trong huyết tương của Candesartan là 0,37 ml/phút/kg, với độ thanh thải cầu thận là 0,19 ml/phút/kg. Thời gian bán thải của Candesartan khoảng 9 giờ,</p><h3>Dược động học</h3><p>Candesartan ngăn cản tác dụng co mạch và tác dụng gây tiết aldosteron của angiotensin II bằng cách ức chế có chọn lọc sự gắn kết angiotensin II vào thụ thể AT1 của nhiều mô như cơ trơn mạch máu và tuyến thượng thận. Vì thế, tác động của nó phụ thuộc vào cách tổng hợp angiotensin II.&nbsp;</p><p>Thụ thể AT2 cũng được tìm thấy ở nhiều mô nhưng chưa được cho rằng có vai trò trong việc giữ cân bằng hệ nội mô tim mạch. Candesartan có nhiều điểm tương đồng (&gt; 10000) với thụ thể AT1 hơn thụ thể AT2.&nbsp;</p><p>Vì Candesartan không ức chế men chuyển (kininase II), do đó nó không ảnh hưởng đến sự đáp ứng của bradykinin. Candesartan không gắn kết cũng như phong tỏa các thụ thể hormone khác hay các kênh ion quan trọng trong điều hòa tim mạch.</p><p>Phong bế thụ thể angiotensin II làm ức chế cơ chế điều vờ phản hồi âm tính của angiotensin IT trên sự tiết renin, tuy nhiên sự tăng hoạt tính renin huyết tương và nồng độ angiotensin II trong tuần hoàn không vượt qua tác động của Candesartan trên huyết áp.</p>",
+  "ingredients_html": [
+    {
+      "id": 45184,
+      "ingredientId": 12554,
+      "shortDescription": "16mg",
+      "name": "Candesartan cilexetil",
+      "isPrimary": true,
+      "slug": "thanh-phan/candesartan-cilexetil"
+    }
+  ],
+  "stock_qty": 0
+}

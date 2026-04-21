@@ -1,0 +1,52 @@
+{
+  "id": "00010291",
+  "slug": "thuoc/gefbin-10mg-1329.html",
+  "title": "Thuốc Gefbin Medisun điều trị viêm mũi dị ứng, mề đay vô căn mạn tính (3 vỉ x 10 viên)",
+  "short_title": "GEFBIN 10 3X10",
+  "brand": {
+    "name": "Medisun",
+    "slug": "thuong-hieu/medisun",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-di-ung/thuoc-chong-di-ung",
+    "name": "Thuốc chống dị ứng",
+    "parent_slug": "thuoc/thuoc-di-ung"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_7406_b4cd39e20e.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_7406_b4cd39e20e.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_7407_be774f26e6.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_7408_f18c1c6d91.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_7409_ca29df63c3.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_7410_03fb5ff50b.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_7411_89865b0c96.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_7412_6bdc48cb9f.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_7413_71eb5db837.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/gefbin_c566e82cfc.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Gefbin 10 mg dạng viên nén của Công ty Cổ phần Dược phẩm Medisun có thành phần chính là Esbatin. Gefbin 10 mg là thuốc dùng để điều trị viêm mũi dị ứng (theo mùa hoặc quanh năm), có hoặc không kèm viêm kết mạc dị ứng. Nổi mề đay vô căn mạn tính.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p>Thuốc Gefbin 10 mg được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>\n\t<p><strong><a href=\"https://nhathuoclongchau.com.vn/benh/viem-mui-di-ung-473.html\">Viêm mũi dị ứng</a></strong> (theo mùa hoặc quanh năm), có hoặc không kèm viêm kết mạc dị ứng.</p>\n\t</li>\n\t<li>\n\t<p>Nổi mề đay vô căn mạn tính.</p>\n\t</li>\n</ul>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Ebastin có tác dụng kéo dài và đối kháng chọn lọc trên thụ thể Histamin H1. Sau khi dùng lặp đi lặp lại, ức chế thụ thể ngoại vi duy trì ở mức không đổi.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Ebastin chuyển hóa và hấp thu nhanh chóng sau khi uống.</p>\n\n<p>Ebastin được chuyển đổi gần như hoàn toàn thành dạng axit, chất chuyển hóa có hoạt tính là Carebastin, nồng độ đỉnh trong huyết tương của Carebastin đạt nồng độ từ 80 mg/ml đến 100 mg/ml sau khi uống từ 2.6 giờ đến 4 giờ.</p>\n\n<p>Thời gian bán hủy của Carebastin là từ 15 giờ đến 19 giờ, với 66% lượng thuốc được bài tiết qua nước tiểu, chủ yếu là các chất chuyển hóa liên hợp. Sau khi dùng 10 mg mỗi ngày một lần, trạng thái ổn định đạt được trong 3 ngày đến 5 ngày với nồng độ đỉnh trong huyết tương từ 130 ng/ml đến 160 ng/ml.</p>",
+  "ingredients_html": [
+    {
+      "id": 24309,
+      "ingredientId": 18865,
+      "shortDescription": "10mg",
+      "name": "Ebastine",
+      "isPrimary": false,
+      "slug": "thanh-phan/ebastine"
+    }
+  ],
+  "stock_qty": 0
+}

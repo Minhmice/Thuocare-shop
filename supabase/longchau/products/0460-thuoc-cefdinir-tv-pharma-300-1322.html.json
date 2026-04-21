@@ -1,0 +1,44 @@
+{
+  "id": "00010311",
+  "slug": "thuoc/cefdinir-tv-pharma-300-1322.html",
+  "title": "Thuốc Cefdinir 300mg TV.Pharm điều trị viêm phổi cộng đồng, viêm phế quản mạn (1 vỉ x 10 viên)",
+  "short_title": "CEFDINIR 300 TVP 1X10",
+  "brand": {
+    "name": "Tv.Pharm",
+    "slug": "thuong-hieu/tvpharm",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-khang-sinh-khang-nam/thuoc-khang-sinh",
+    "name": "Thuốc kháng sinh",
+    "parent_slug": "thuoc/thuoc-khang-sinh-khang-nam"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00010311_cefdinir_300_1x10_4943_b1e0_large_df5f1c4307.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00010311_cefdinir_300_1x10_4943_b1e0_large_df5f1c4307.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang cứng",
+  "trust_label": null,
+  "short_description": "<p>Cefdinir 300 mg có thành phần chính Cefdinir để điều trị nhiễm khuẩn do các vi khuẩn nhạy cảm ở người lớn và trẻ em.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p>Thuốc Cefdinir 300mg được chỉ định dùng trong các trường hợp sau:</p>\n\n<p><em>Người lớn và thiếu niên</em></p>\n\n<p>Viêm phổi mắc phải cộng đồng, do các tác nhân <em>Haemophilus influenzae, Haemophilus parainfluenzae, Streptococcus pneumoniae</em>(chủng nhạy cam với penicillin), và <em>Moraxellacatarrhalis </em>(gồm cả chủng sinh β- lactamase).</p>\n\n<p>Đợt cấp của viêm phế quản mãn, cũng do bởi những tác nhân kể trên.</p>\n\n<p>Viêm xoang cấp tính do <em>Haemophilus influenzae, Streptococcus pneumoniae, Moraxella catarrhalis </em>(gồm cả chủng sinh β- lactamase).</p>\n\n<p>Nhiễm khuẩn da và cấu trúc da do <em>Staphylococcus aureus </em>(gồm cả chủng sinh β- lactamase) và <em>Streptococcus pyogenes.</em></p>\n\n<p><em>Trẻ em</em></p>\n\n<p><a href=\"https://nhathuoclongchau.com.vn/benh/viem-tai-giua-474.html\">Viêm tai giữa</a> cấp gây ra bởi <em>Haemophilus influenzae, Haemophilus parainfluenzae, Streptococcus pneumoniae, và Moraxella catarrhalis </em>(gồm cả chủng sinh β- lactamase).</p>\n\n<p>Viêm hầu họng/<a href=\"https://nhathuoclongchau.com.vn/benh/viem-amidan-467.html\">viêm amidan</a> do <em>Streptococcus pyogenes.</em></p>\n\n<p>Nhiễm khuẩn da và cấu trúc da do <em>Staphylococcus aureus</em> (gồm cả chủng sinh β- lactamase) và <em>Streptococcus pyogenes.</em></p>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Vi khuẩn gram dương: <em>Staphylococcus aureus, Staphylococcus epidermidis</em> (kể cả chủng sinh β- lactamase nhưng phải nhạy cảm với Methicillin), <em>Streptococcus pneumoniae, Streptococcus pyogenes</em> (nhạy với penicillin).</p>\n\n<p>Vi khuẩn gram âm: <em>Haemophilus influenzae, Haemophilus parainfluenzae</em>, và <em>Moraxella catarrhalis</em> (gồm cả chủng sinh β- lactamase), <em>Escherichia coli, Klebsiella pneumoniae, Neisseria gonorrhoeae</em>.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Sau khi uống một liều 300 - 600 mg cefdinir. Nồng độ đỉnh trong huyết tương đạt 1,6 ug/mL - 2,9 ug/mL trong khoảng 2,9 giờ. Thể tích phân bố khoảng 0,35 I/kg. Khoảng 60 - 70 % gắn với protein huyết tương. Phân bố rộng khắp các mô và dịch cơ thể, thâm nhập tốt vào dịch não tủy.</p>\n\n<p>Chuyển hóa chủ yếu qua gan và thải trừ qua thận.</p>",
+  "ingredients_html": [
+    {
+      "id": 24313,
+      "ingredientId": 13569,
+      "shortDescription": "300mg",
+      "name": "Cefdinir",
+      "isPrimary": false,
+      "slug": "thanh-phan/cefdinir"
+    }
+  ],
+  "stock_qty": 0
+}

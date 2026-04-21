@@ -1,0 +1,44 @@
+{
+  "id": "00044804",
+  "slug": "thuoc/thuoc-mo-bacterocin-oint-genuone-15-g.html",
+  "title": "Thuốc mỡ Bacterocin Oint 15g Genuone điều trị tại chỗ bệnh chốc lở, viêm nang lông và mụn mủ",
+  "short_title": "THUỐC MỠ BACTEROCIN OINT GENUONE 15G",
+  "brand": {
+    "name": "GENUONE",
+    "slug": "thuong-hieu/genuone",
+    "country": "Hàn Quốc"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-da-lieu/thuoc-boi-ngoai-da",
+    "name": "Thuốc bôi ngoài da",
+    "parent_slug": "thuoc/thuoc-da-lieu"
+  },
+  "price_amount": 105000,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/bacteroin_0a0e86ff2d.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/bacteroin_0a0e86ff2d.jpg"
+  ],
+  "origin_label": "Hàn Quốc",
+  "country": "Hàn Quốc",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Thuốc mỡ",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Bacterocin Oint là sản phẩm của Kolmar Korea có thành phần chính Mupirocin dùng điều trị tại chỗ bệnh chốc lở, viêm nang lông và mụn mủ do Staphylococcus aureus và Streptococcus pyogenes, nhiễm khuẩn da do bỏng hoặc bị thương.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Bacterocin Oint chỉ định điều trị trong các trường hợp sau:</p><ul><li>Điều trị tại chỗ bệnh chốc lở, viêm nang lông và mụn mủ do Staphylococcus aureus và Streptococcus pyogenes.</li><li>Điều trị nhiễm khuẩn da do bỏng hoặc bị thương.</li></ul><h3>Dược lực học</h3><p>Mã ATC: DO6AXOP, RO1AX06</p><p>Upirocin là một kháng sinh.</p><p>Thuốc ức chế sự tổng hợp protein của vi khuẩn. Thuốc có tác dụng kìm khuẩn ở nồng độ thấp và diệt khuẩn ở nồng độ cao.</p><p>Mupirocin có phổ kháng khuẩn hẹp, chủ yếu trên vi khuẩn Gram dương Ưa&nbsp;khí. Hầu hết các chủng Staphylococci như Staphylococcus aureus, S.epidermidis, S. saprophylicus đều nhạy cảm với thuốc.</p><h3>Dược động học</h3><p>Khi bôi ngoài da, một lượng thuốc rất nhỏ được hấp thu vào vòng tuần hoàn chung.</p><p>Thuốc chỉ dùng để bôi tại chỗ.</p>",
+  "ingredients_html": [
+    {
+      "id": 40657,
+      "ingredientId": 28190,
+      "shortDescription": "20mg",
+      "name": "Mupirocin",
+      "isPrimary": true,
+      "slug": "thanh-phan/mupirocin"
+    }
+  ],
+  "stock_qty": 0
+}

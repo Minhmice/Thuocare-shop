@@ -1,0 +1,52 @@
+{
+  "id": "00039387",
+  "slug": "thuoc/betasalic-medipharco-15-g.html",
+  "title": "Thuốc mỡ bôi da Betasalic 15g Medipharco giảm viêm trong điều trị các bệnh da tăng sinh tế bào sừng",
+  "short_title": "BETASALIC MEDIPHARCO 15G",
+  "brand": {
+    "name": "Medipharco",
+    "slug": "thuong-hieu/medipharco",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-da-lieu/thuoc-boi-ngoai-da",
+    "name": "Thuốc bôi ngoài da",
+    "parent_slug": "thuoc/thuoc-da-lieu"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp x 15g",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/betasalic_e67e470919.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/betasalic_e67e470919.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Thuốc mỡ",
+  "trust_label": null,
+  "short_description": "<p>Betasalic 15g là sản phẩm của Công ty Cổ phần Dược Medipharco, thành phần chính Betamethason dipropionat và Acid Salicylic, là thuốc dùng để làm giảm các biểu hiện viêm trong điều trị các bệnh da tăng sinh tế bào sừng và các bệnh da khô có đáp ứng với corticosteroid.&nbsp;</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc Betasalic 15g được chỉ định dùng trong các trường hợp sau:</p><ul><li dir=\"ltr\">Betamethason dipropionat là 1 corticosteroid tổng hợp chứa fluor. Thuốc tác động tại chỗ và tạo ra 1 đáp ứng nhanh và bền vững trong các bệnh viêm da. Thuốc cũng có hiệu quả trong các bệnh ít đáp ứng với corticosteroid, như bệnh vảy nến da đầu, bệnh vảy nến mảng mạn tính ở bàn tay và bàn chân, nhưng không bao gồm bệnh vảy nến trên diện rộng.</li><li>Acid Salicylic dùng tại chỗ có tác dụng làm mềm chất sừng, làm nới lỏng biểu mô bị sừng hóa và làm bong lớp biểu bì.</li><li>Thuốc Betasalic được chỉ định làm giảm các biểu hiện viêm trong điều trị các bệnh da tăng sinh tế bào sừng và các bệnh da khô có đáp ứng với corticosteroid. Các lớp sừng làm ngăn cản sự thấm vào da của corticosteroid, Acid Salicylic hỗ trợ cho Betamethason thấm vào da nhanh hơn.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 41640,
+      "ingredientId": 10843,
+      "shortDescription": "9.6mg",
+      "name": "Betamethasone dipropionate",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 41641,
+      "ingredientId": 35358,
+      "shortDescription": "450mg",
+      "name": "Salicylic acid",
+      "isPrimary": false,
+      "slug": "thanh-phan/salicylic-acid"
+    }
+  ],
+  "stock_qty": 0
+}

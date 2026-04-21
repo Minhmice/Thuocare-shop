@@ -1,0 +1,50 @@
+{
+  "id": "00006051",
+  "slug": "thuoc/povidine-500ml-2559.html",
+  "title": "Dung dịch sát khuẩn Povidine 10% Pharmedic ngăn ngừa nhiễm khuẩn ở vết cắt, vết trầy (500ml)",
+  "short_title": "POVIDINE 10% PMD 500ML",
+  "brand": {
+    "name": "Pharmedic",
+    "slug": "thuong-hieu/pharmedic",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-da-lieu/thuoc-sat-khuan",
+    "name": "Thuốc sát khuẩn",
+    "parent_slug": "thuoc/thuoc-da-lieu"
+  },
+  "price_amount": 76000,
+  "compare_at_amount": 0,
+  "unit": "Chai",
+  "pack_note": "Chai x 500ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_3385_ea2a1c1ab0.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_3385_ea2a1c1ab0.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_3386_3bea625cbc.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_3387_19e38d4f74.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_3388_cd77b9526b.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_3389_79d9e355a6.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_3390_d8ab2c94d0.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006051_povidine_500ml_1619526110_328d6e44d6.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch dùng ngoài",
+  "trust_label": null,
+  "short_description": "<p>Thuốc <a href=\"https://nhathuoclongchau.com.vn/thuoc/povidine-8ml-2558.html\">Povidine 10%</a> sản xuất bởi Công ty cổ phần dược phẩm dược liệu Pharmedic, thành phần chính povidon iod có công dụng sát khuẩn, dùng để sát trùng vết thương ở da hoặc khử trùng dụng cụ tùy nồng độ. Ngoài ra, thuốc còn được sử dụng phụ trợ trong bệnh ngoài da do sơ nhiễm hay bội nhiễm hay bệnh nấm gây hăm da.</p><p>Thuốc dùng dạng dung dịch dùng ngoài, chất lỏng màu nâu thẫm, mùi đặc trưng của iod.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3><p><a href=\"https://nhathuoclongchau.com.vn/thuoc/povidine-500ml-2559.html\">Povidine 500ml</a> được chỉ định để điều trị trong trường hợp:</p><ul><li>Sát khuẩn da trước phẫu thuật, tiêm truyền hay chích thuốc.</li><li>Sát trùng vết thương ở da và màng nhầy.</li><li>Khử trùng dụng cụ trước khi tiệt trùng.</li></ul><p>Phụ trị:</p><ul><li>Bệnh ngoài da do sơ nhiễm hay bội nhiễm.</li><li>Bệnh nấm gây hăm da, hăm kẽ ngón tay, ngón chân, nấm tóc, nấm trên da.</li></ul><h3><strong>Dược lực học</strong></h3><p>Povidon iod là phức hợp của iod với povidone chứa 9 - 12% iod. Povidon được dùng làm chất mang iod. Dung dịch povidon - iod được giải phóng iod dần dần, do đó kéo dài tác dụng sát khuẩn diệt khuẩn, nấm, virus, động vật đơn bào, kén và bào tử.</p><p>Povidine tác dụng diệt vi khuẩn gram dương và gram âm, đặc biệt với các loại gây nhiễm trùng da như Staphylococcus, Streptococcus, E.coli, Proteus, P. aeruginosa. Thuốc cũng diệt được vi nấm, siêu vì, đơn bào và nấm men.</p><h3><strong>Dược động học</strong></h3><p><i>Hấp thu</i></p><p>Hấp thu toàn thân phụ thuộc vào vùng và tình trạng sử dụng thuốc (diện rộng, da, niêm mạc, vết thương, các khoang trong cơ thể). Khi dùng làm dung dịch rửa các khoang trong cơ thể, toàn bộ phức hợp cao phân tử povidon iod cũng có thể được cơ thể hấp thu.</p><p><i>Chuyển hóa</i></p><p>Phức hợp này không chuyển hóa hoặc đào thải qua thận. Thuốc được hệ liên võng nội mô lọc giữ.</p><p><i>Thải trừ</i></p><p>lod thấm được qua da và thải qua nước tiểu.</p>",
+  "ingredients_html": [
+    {
+      "id": 44842,
+      "ingredientId": 33304,
+      "shortDescription": "10%",
+      "name": "Povidone-iodine",
+      "isPrimary": false,
+      "slug": "thanh-phan/povidone-iodine"
+    }
+  ],
+  "stock_qty": 0
+}

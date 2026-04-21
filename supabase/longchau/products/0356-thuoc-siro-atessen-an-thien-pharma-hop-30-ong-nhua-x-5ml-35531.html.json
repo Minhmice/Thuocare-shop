@@ -1,0 +1,52 @@
+{
+  "id": "00501375",
+  "slug": "thuoc/siro-atessen-an-thien-pharma-hop-30-ong-nhua-x-5ml-35531.html",
+  "title": "Siro ATessen An Thiên hỗ trợ giảm ho khan, ho không đờm, ho mạn tính (30 ống x 5ml)",
+  "short_title": "SIRÔ ATESSEN AN THIÊN 30 ỐNG X 5ML",
+  "brand": {
+    "name": "An Thiên",
+    "slug": "thuong-hieu/an-thien",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-ho-hap/thuoc-tri-ho-cam",
+    "name": "Thuốc trị ho cảm",
+    "parent_slug": "thuoc/thuoc-ho-hap"
+  },
+  "price_amount": 50000,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 30 Ống x 5ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00501375_e23ce2bfb1.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00501375_e23ce2bfb1.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Siro",
+  "trust_label": null,
+  "short_description": "<p>Siro Atessen giúp &nbsp;giảm triệu chứng ho khan, ho không đờm, ho mạn tính.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p><a href=\"https://nhathuoclongchau.com.vn/thuoc/siro-atessen-an-thien-pharma-hop-30-ong-nhua-x-5ml-35531.html\">Siro Atessen</a> giúp &nbsp;giảm triệu chứng <a href=\"https://nhathuoclongchau.com.vn/benh/ho-khan-646.html\">ho khan</a>, ho không đờm, ho mạn tính.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 45946,
+      "ingredientId": 21754,
+      "shortDescription": "33.3mg",
+      "name": "Guaifenesin",
+      "isPrimary": false,
+      "slug": "thanh-phan/guaifenesin"
+    },
+    {
+      "id": 45947,
+      "ingredientId": 42762,
+      "shortDescription": "1.65mg",
+      "name": "Oxomemazin hydroclorid",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

@@ -1,0 +1,44 @@
+{
+  "id": "00500657",
+  "slug": "thuoc/spexib-150mg-novartis-3-hop-5x10-34781.html",
+  "title": "Thuốc Spexib 150mg Novartis hỗ trợ điều trị ung thư phổi (5 vỉ x 10 viên)",
+  "short_title": "SPEXIB 150MG NOVARTIS 3 HỘP 5X10",
+  "brand": {
+    "name": "Novartis",
+    "slug": "thuong-hieu/novartis",
+    "country": "Thụy Sĩ"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-dieu-tri-ung-thu/thuoc-dieu-tri-ung-thu",
+    "name": "Thuốc điều trị ung thư",
+    "parent_slug": "thuoc/thuoc-dieu-tri-ung-thu"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 3 Hộp lẻ x 50 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/spexib_9642c6d542.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/spexib_9642c6d542.jpg"
+  ],
+  "origin_label": "Thụy Sĩ",
+  "country": "Thụy Sĩ",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang cứng",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Spexib được chỉ định điều trị cho bệnh nhân ung thư phổi không tế bào nhỏ (NSCLC) tiến xa tại chỗ hoặc di căn, dương tính với ALK (anaplastic lymphoma kinase).</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p><a href=\"https://nhathuoclongchau.com.vn/thuoc/spexib-150mg-novartis-3-hop-5x10-34781.html\">Thuốc Spexib</a> được chỉ định điều trị cho bệnh nhân <a href=\"https://nhathuoclongchau.com.vn/bai-viet/ung-thu-phoi-khong-te-bao-nho-la-gi-va-bieu-hien-som-cua-benh-51508.html\">ung thư phổi không tế bào nhỏ</a> (NSCLC) tiến xa tại chỗ hoặc di căn, dương tính với ALK (anaplastic lymphoma kinase).</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 34375,
+      "ingredientId": 13790,
+      "shortDescription": "150mg",
+      "name": "Ceritinib",
+      "isPrimary": false,
+      "slug": "thanh-phan/ceritinib"
+    }
+  ],
+  "stock_qty": 0
+}

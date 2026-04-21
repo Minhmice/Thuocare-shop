@@ -1,0 +1,51 @@
+{
+  "id": "00049480",
+  "slug": "thuoc/alphachymotrypsin-odt-khanh-hoa-2-x10.html",
+  "title": "Thuốc Alphachymotrypsin ODT Khánh Hòa điều trị phù nề sau chấn thương, phẫu thuật, bỏng (2 vỉ x 10 viên)",
+  "short_title": "ALPHACHYMOTRYPSIN ODT KHÁNH HÒA 2X10",
+  "brand": {
+    "name": "Khánh Hòa",
+    "slug": "thuong-hieu/khanh-hoa",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem/thuoc-khang-viem",
+    "name": "Thuốc kháng viêm",
+    "parent_slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00034_9e1209dd6c.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00034_9e1209dd6c.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00035_f2acb45a2e.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00036_da0969e933.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00037_52000140fd.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00038_6be35f55f7.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00039_cf4a82c96a.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00040_3d051c85b5.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/alphachymotrypsin_odt_bc6762ff20.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén phân tán",
+  "trust_label": null,
+  "short_description": "<p>AlphaCHYMOTRYPSIN là sản phẩm của Công ty Cổ phần Dược phẩm Khánh Hòa, có thành phần chính là Alphachymotrypsin. Đây là thuốc được sử dụng để điều trị phù nề sau chấn thương, phẫu thuật, bỏng.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc AlphaCHYMOTRYPSIN được chỉ định dùng trong các trường hợp sau:</p><ul><li dir=\"ltr\">Điều trị phù nề sau chấn thương, phẫu thuật, bỏng.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p>Alphachymotrypsin là enzym phân giải protein, được điều chế bằng cách hoạt hóa chymotrypsinogen, chiết xuất từ tụy bò.</p><p>Alphachymotrypsin đặc biệt cắt các liên kết chuỗi các acid amin thơm.</p><p>Alphachymotrypsin cũng được sử dụng nhằm giảm viêm và phù nề do áp xe và loét, hoặc do chấn thương và nhằm giúp làm lỏng các dịch tiết đường hô hấp trên ở người bệnh hen, viêm phế quản, các bệnh phổi và viêm xoang.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có tài liệu nghiên cứu.</p>",
+  "ingredients_html": [
+    {
+      "id": 71642,
+      "ingredientId": 8435,
+      "shortDescription": "4200usp",
+      "name": "Alphachymotrypsin",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

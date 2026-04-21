@@ -1,0 +1,54 @@
+{
+  "id": "00502369",
+  "slug": "thuoc/lornomeyer-4mg-meyer-bpc-3x10-36616.html",
+  "title": "Thuốc Lornomeyer 4 Meyer giảm đau, kháng viêm xương khớp (3 vỉ x 10 viên)",
+  "short_title": "LORNOMEYER 4MG MEYER BPC 3X10",
+  "brand": {
+    "name": "MEYER-BPC",
+    "slug": "thuong-hieu/meyer-bpc",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem/thuoc-giam-dau-khang-viem",
+    "name": "Thuốc giảm đau kháng viêm",
+    "parent_slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03276_6a2e9c1d72.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03276_6a2e9c1d72.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03276_6a2e9c1d72.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03277_3dc4d0d687.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03278_3e1ff36bda.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03279_9ad4d2802a.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03280_c68690c75e.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03282_33f54bf2e2.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03283_4ac8906e63.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03284_1608ef32d5.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/lornomeyer_4_1_79ad67270d.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/lornomeyer_4_2_078595e4d1.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Lornomeyer 4 dùng điều trị các chứng đau mức độ nhẹ và trung bình, kèm theo triệu chứng viêm, đặc biệt trong viêm xương khớp, viêm khớp dạng thấp.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p><a href=\"https://nhathuoclongchau.com.vn/thuoc/lornomeyer-4mg-meyer-bpc-3x10-36616.html\">Thuốc Lornomeyer 4</a> dùng điều trị các chứng đau mức độ nhẹ và trung bình, kèm theo triệu chứng viêm, đặc biệt trong viêm xương khớp, <a href=\"https://nhathuoclongchau.com.vn/benh/viem-khop-dang-thap-254.html\">viêm khớp dạng thấp</a>.</p><h3>Dược lực học</h3><p dir=\"ltr\"><strong>Nhóm dược lý: Thuốc chống viêm không steroid</strong></p><p dir=\"ltr\"><strong>Mã ATC: M01AC05</strong></p><p dir=\"ltr\"><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/lornoxicam\">Lornoxicam</a> là thuốc kháng viêm không steroid (NSAIDs) thuộc nhóm Oxicam. Cũng giống như một số thuốc chống viêm không steroid khác, lornoxicam là một chất ức chế mạnh enzym cyclooxygenase (COX-1 và COX-2), enzym chịu trách nhiệm xúc tác tổng hợp prostaglandin (chất trung gian có vai trò quan trọng trong cơ chế bệnh sinh của quá trình viêm, sốt, đau) và thromboxan từ acid arachidonic. Không giống như NSAIDs khác, sự ức chế cyclooxygenase của lornoxicam không làm tăng leukotriene, kết quả làm giảm thiểu nguy cơ gây ra các tác dụng không mong muốn.</p><h3 dir=\"ltr\">Dược động học</h3><p>Lornoxicam được hấp thụ nhanh và gần như hoàn toàn qua đường tiêu hóa (90 - 100%).</p><p>Lornoxicam liên kết với protein huyết tương khoảng 99% (chủ yếu với albumin). Lornoxicam được chuyển hóa hoàn toàn bởi CYP 2C9, chất chuyển hóa chủ yếu 5'-hydroxy-lornoxicam và một lượng không đáng kể lornoxicam chưa được chuyển hóa bài tiết qua nước tiểu. Khoảng 2/3 thuốc được thải trừ qua gan và 1/3 qua thận ở dạng còn hoạt tính. Thời gian bán thải từ 3 đến 5 giờ.</p>",
+  "ingredients_html": [
+    {
+      "id": 39149,
+      "ingredientId": 25891,
+      "shortDescription": "4mg",
+      "name": "Lornoxicam",
+      "isPrimary": false,
+      "slug": "thanh-phan/lornoxicam"
+    }
+  ],
+  "stock_qty": 0
+}

@@ -1,0 +1,44 @@
+{
+  "id": "00050687",
+  "slug": "thuoc/epirubicin-10-mg-bidiphar-5-ml-1.html",
+  "title": "Dung dịch tiêm Epirubicin Bidiphar 10mg Điều trị ung thư vú, ung thư phổi Hộp 5ml",
+  "short_title": "EPIRUBICIN 10MG BIDIPHAR 5ML",
+  "brand": {
+    "name": "Bidiphar",
+    "slug": "thuong-hieu/bidiphar",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-dieu-tri-ung-thu/thuoc-chong-ung-thu",
+    "name": "Thuốc chống ung thư",
+    "parent_slug": "thuoc/thuoc-dieu-tri-ung-thu"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp x 5ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/epirubicin_bidiphar_10_1651270409_850561d166.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/epirubicin_bidiphar_10_1651270409_850561d166.png"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch tiêm",
+  "trust_label": null,
+  "short_description": "<p>Dung dịch tiêm Epirubicin Bidiphar 10 được sử dụng để điều trị: Ung thư vú, ung thư buồng trứng tiến triển, ung thư dạ dày, ung thư phổi tế bào nhỏ. Khi dùng đường bàng quang, epirubicin đã được chứng minh có lợi ích trong điều trị: Ung thư biểu mô tế bào chuyển tiếp thể nhú ở bàng quang, ung thư biểu mô tại chỗ trong ung thư bàng quang, dự phòng tái phát ung thư bề mặt bàng quang sau khi phẫu thuật cắt qua niệu đạo.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Dung dịch tiêm Epirubicin Bidiphar 10 chỉ định trong các trường hợp sau:</p><ul><li>&nbsp;Epirubicin Bidiphar 10 được sử dụng để điều trị: Ung thư vú, ung thư buồng trứng tiến triển, ung thư dạ dày, ung thư phổi tế bào nhỏ.</li><li>Khi dùng đường bàng quang, epirubicin đã được chứng minh có lợi ích trong điều trị: Ung thư biểu mô tế bào chuyển tiếp thể nhú ở bàng quang, ung thư biểu mô tại chỗ trong ung thư bàng quang, dự phòng tái phát ung thư bề mặt bàng quang sau khi phẫu thuật cắt qua niệu đạo.</li></ul><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 73044,
+      "ingredientId": 43599,
+      "shortDescription": "10mg",
+      "name": "Epirubicin hydroclorid",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

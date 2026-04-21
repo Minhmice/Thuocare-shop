@@ -1,0 +1,54 @@
+{
+  "id": "00502874",
+  "slug": "thuoc/atisalbu-an-thien-30-goi-x-5ml-37178.html",
+  "title": "Dung dịch uống Atisalbu 5ml An Thiên điều trị co thắt phế quản do hen, viêm phế quản mãn tính (30 gói)",
+  "short_title": "ATISALBU AN THIÊN 30 GÓI X 5ML",
+  "brand": {
+    "name": "An Thiên",
+    "slug": "thuong-hieu/an-thien",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-ho-hap/thuoc-tri-hen-suyen",
+    "name": "Thuốc trị hen suyễn",
+    "parent_slug": "thuoc/thuoc-ho-hap"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Gói",
+  "pack_note": "30 Gói x 5ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00475_0e8f305006.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00475_0e8f305006.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00467_e3a9e867a0.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00470_bff98a7ba4.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00471_7a21d0ec87.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00472_023c7e5fb8.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00473_f5a36f3b2c.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00474_53868583ad.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00479_5ec23ecc16.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00478_92143ebd76.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/at_salbu_1_355a40f1fb.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/at_salbu_2_beedb18e25.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch uống",
+  "trust_label": null,
+  "short_description": "<p dir=\"ltr\">Thuốc Atisalbu là sản phẩm của Công ty Cổ phần Dược phẩm An Thiên, thành phần chính chứa Salbutamol, là thuốc dùng trong co thắt phế quản do hen phế quản, viêm phế quản mãn và các bệnh phế quản - phổi mãn tính khác.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><ul><li>Điều trị cơn hen, ngăn cơn co thắt phế quản do gắng sức.</li><li>Điều trị tắc nghẽn đường dẫn khi hồi phục được.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p><strong>Nhóm dược lý:</strong> Chất chủ vận thụ thể bêta 2 adrenergic chọn lọc.</p><p><strong>Mã ATC:</strong> R03CC02</p><p>Salbutamol có tác dụng chọn lọc kích thích các thụ thể beta 2 (có ở cơ trơn phế quản, cơ từ cung, cơ trơn mạch máu) và ít tác dụng tới các thụ thể beta 1 trên cơ tim nên có tác dụng làm giãn phế quản, giảm cơn co tử cung và ít tác dụng trên tim.</p><h3 dir=\"ltr\">Dược động học</h3><p>Dược động học của thuốc phụ thuộc vào cách dùng.</p><p>Dùng theo đường uống, salbutamol được hấp thu nhanh qua đường tiêu hóa, một lượng thuốc lớn qua gan rồi vào máu, do đó sinh khả dụng tuyệt đối của salbutamol khoảng 40%. Nồng độ trong huyết tương đạt mức tối đa sau khi uống 2 - 3 giờ. Chỉ có 5% thuốc được gắn vào các protein huyết tương. Thời gian bán thải của thuốc từ 5 - 6 giờ. Khoảng 50% lượng thuốc được chuyền hóa thành các dạng sulfo liên hợp (không có hoạt tính). Thuốc được đào thải chủ yếu qua nước tiểu (75 - 80%) dưới dạng còn hoạt tính và các dạng không còn hoạt tính.</p>",
+  "ingredients_html": [
+    {
+      "id": 43055,
+      "ingredientId": 35351,
+      "shortDescription": "2mg",
+      "name": "Salbutamol",
+      "isPrimary": false,
+      "slug": "thanh-phan/salbutamol"
+    }
+  ],
+  "stock_qty": 0
+}

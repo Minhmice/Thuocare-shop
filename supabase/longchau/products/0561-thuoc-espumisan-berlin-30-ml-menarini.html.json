@@ -1,0 +1,52 @@
+{
+  "id": "00002875",
+  "slug": "thuoc/espumisan-berlin-30-ml-menarini.html",
+  "title": "Nhũ dịch Espumisan L Menarini điều trị các triệu chứng chướng bụng, đau bụng (30ml)",
+  "short_title": "ESPUMISAN 30ML",
+  "brand": {
+    "name": "Menarini",
+    "slug": "thuong-hieu/menarini",
+    "country": "Ý"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tieu-hoa",
+    "name": "Thuốc tiêu hoá",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 63000,
+  "compare_at_amount": 0,
+  "unit": "Chai",
+  "pack_note": "Chai x 30ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002875_espumisan_30ml_5640_62a7_large_909bfdff3b.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002875_espumisan_30ml_5640_62a7_large_909bfdff3b.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002875_espumisan_30ml_8027_62a7_large_f44ffc7f44.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002875_espumisan_30ml_5602_62a7_large_913809a2ce.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002875_espumisan_30ml_7008_62a7_large_491425b6a4.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002875_espumisan_30ml_5244_62a7_large_288fe85485.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002875_espumisan_30ml_7520_62a7_large_0c74c5d105.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/cdn_7492941b4d.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/cdn_1_b335b71a2f.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/cdn_2_695f326019.png"
+  ],
+  "origin_label": "Ý",
+  "country": "Ý",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Nhũ tương uống nhỏ giọt",
+  "trust_label": null,
+  "short_description": "<p>Espumisan® L là thuốc của Công ty Berlin-Chemie AG, có thành phần chính là simethicon. Espumisan® L có tác dụng điều trị triệu chứng các trường hợp có tích tụ khí trong đường tiêu hoá như chướng bụng, đau bụng ở trẻ, hỗ trợ trong trường hợp chuẩn bị xét nghiệm bằng hình ảnh khoang bụng và giải độc khi ngộ độc bột giặt.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p>Espumisan® L được chỉ định dùng trong các trường hợp:</p>\n\n<ul>\n\t<li>Điều trị triệu chứng các trường hợp có tích tụ khí trong đường tiêu hoá như chướng bụng, đau bụng ở trẻ em (đau bụng ở trẻ dưới 3 tháng tuổi).</li>\n\t<li>Hỗ trợ trong trường hợp chuẩn bị xét nghiệm bằng hình ảnh khoang bụng (X quang, siêu âm, nội soi dạ dày).</li>\n\t<li>Giải độc trong trường hợp ngộ độc bột giặt.</li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p>Espumisan® L có chứa hoạt chất simethicon, là một polydimethylsiloxane hoạt động theo cơ chế bề mặt và ổn định. Nó làm giảm sức căng bề mặt của bọt khí bao bọc quanh thức ăn và trong màng nhày của đường tiêu hoá dẫn đến phá vỡ bọt khí. Hơi giải phóng ra có thể được hấp thụ bởi thành ruột và thải trừ qua nhu động.</p>\n\n<p><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/simethicone\">Simethicon</a> không có tác dụng dược lý, không tham gia vào các phản ứng hoá học và là một chất trơ về mặt sinh lý và dược lý.</p>\n\n<h3>Dược động học</h3>\n\n<p>Simethicon không hấp thu qua đường uống và thải trừ dạng không đổi qua đường tiêu hóa.</p>",
+  "ingredients_html": [
+    {
+      "id": 21279,
+      "ingredientId": 36074,
+      "shortDescription": "40mg",
+      "name": "Simethicone",
+      "isPrimary": false,
+      "slug": "thanh-phan/simethicone"
+    }
+  ],
+  "stock_qty": 0
+}

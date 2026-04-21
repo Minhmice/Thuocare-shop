@@ -1,0 +1,51 @@
+{
+  "id": "00007676",
+  "slug": "thuoc/uphatin-5mg-1879.html",
+  "title": "Viên ngậm Uphatin 5mg Uphace điều trị các triệu chứng táo bón (3 vỉ x 10 viên) ",
+  "short_title": "UPHATIN 5 UPHACE 3X10",
+  "brand": {
+    "name": "Uphace",
+    "slug": "thuong-hieu/uphace",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-tao-bon",
+    "name": "Thuốc trị táo bón",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007676_uphatin_5mg_5354_5b72_large_6f9f671ff4.JPG",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007676_uphatin_5mg_5354_5b72_large_6f9f671ff4.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007676_uphatin_5mg_1625652059_56648ddeb0.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007676_uphatin_5mg_6867_5b72_large_ff44e0c7df.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007676_uphatin_5mg_6609_5b72_large_da5d65fd7d.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007676_uphatin_5mg_9980_5b72_large_ea3a5a58bd.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007676_uphatin_5mg_4863_5b72_large_959bc7aaca.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007676_uphatin_5mg_8119_5b72_large_2aa40205ac.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007676_uphatin_5mg_4085_60e5_large_c7e905b9bf.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén ngậm",
+  "trust_label": null,
+  "short_description": "<p style=\"text-align:justify;\"> Uphatin của Công ty Cổ Phần Dược Phẩm Trung Ương 25 chứa natri picosulfat có tác dụng trong điều trị chứng táo bón.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p>Thuốc Uphatin được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Ðiều trị các triệu chứng <a href=\"https://nhathuoclongchau.com.vn/benh/tao-bon-246.html\">táo bón</a>.</li>\n\t<li>Chuẩn bị cho chụp hay phẫu thuật đại tràng.</li>\n</ul>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Natri picosulfat là chất kích thích nhuận tràng giống như bisacodyl dùng để điều trị táo bón và để thụt tháo đại tràng trước khi chụp chiếu hay phẫu thuật đại tràng.</p>\n\n<p>Sau khi uống, thuốc kích thích nhu động ruột sau khi được vi khuẩn đường ruột chuyển hóa. Các sản phẩm chuyển hóa tác động lên các thụ thể hóa học của các nơron trong thành ruột, gây ức chế hấp thu nước từ lòng ruột, do đó làm thể tích phân tăng và kích thích nhu động ruột. </p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Tác dụng thường xuất hiện sau từ 10 đến 14 giờ. Nếu dùng cùng với magnesi citrat để thụt tháo đại tràng thì tác dụng có thể xuất hiện chỉ sau 3 giờ.</p>\n\n<p>Natri picosulfat được chuyển hóa nhờ các vi khuẩn đường ruột thành một chất vẫn có hoạt tính là bis (p-hydroxyphenyl)-2-pyridymethan và được đào thải qua thận.</p>",
+  "ingredients_html": [
+    {
+      "id": 30824,
+      "ingredientId": 29276,
+      "shortDescription": "5mg",
+      "name": "Natri picosulfat",
+      "isPrimary": true,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

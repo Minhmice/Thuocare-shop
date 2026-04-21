@@ -1,0 +1,44 @@
+{
+  "id": "00500534",
+  "slug": "thuoc/bot-pha-hon-dich-uong-bizrani-45ml-34655.html",
+  "title": "Bột pha hỗn dịch uống Bizrani Dopharma điều trị nhiễm khuẩn (45ml)",
+  "short_title": "BỘT PHA HỖN DỊCH UỐNG BIZRANI 45ML",
+  "brand": {
+    "name": "Dopharma",
+    "slug": "thuong-hieu/dopharma",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-khang-sinh-khang-nam/thuoc-khang-sinh",
+    "name": "Thuốc kháng sinh",
+    "parent_slug": "thuoc/thuoc-khang-sinh-khang-nam"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp x 45ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00500534_1d4abab36b.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00500534_1d4abab36b.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Bột pha hỗn dịch uống",
+  "trust_label": null,
+  "short_description": "<p>Bột pha hỗn dịch uống Bizrani là sản phẩm của Công ty Cổ phần Dược phẩm TW2 (Dopharma) chứa hoạt chất Cefprozil dùng điều trị nhiễm khuẩn đường hô hấp trên: Viêm phế quản, viêm họng/viêm amidan, viêm xoang cấp tính. Điều trị nhiễm khuẩn đường hô hấp dưới: Viêm phổi, viêm tai giữa và nhiễm trùng da và cấu trúc dưới da.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Bột pha hỗn dịch uống Bizrani dùng điều trị nhiễm khuẩn đường hô hấp trên: Viêm phế quản, viêm họng/viêm amidan, viêm xoang cấp tính. Điều trị nhiễm khuẩn đường hô hấp dưới: Viêm phổi, viêm tai giữa và nhiễm trùng da và cấu trúc dưới da.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 59346,
+      "ingredientId": 13623,
+      "shortDescription": "125mg",
+      "name": "Cefprozil",
+      "isPrimary": true,
+      "slug": "thanh-phan/cefprozil"
+    }
+  ],
+  "stock_qty": 0
+}

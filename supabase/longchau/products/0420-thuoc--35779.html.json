@@ -1,0 +1,60 @@
+{
+  "id": "00501615",
+  "slug": "thuoc/-35779.html",
+  "title": "Dung dịch uống Palkids Apimed bổ sung vitamin, canxi, điều trị suy nhược cơ thể (20 ống x 10ml)\t ",
+  "short_title": "PALKIDS APIMED 20 ỐNG X 10ML",
+  "brand": {
+    "name": "Apimed",
+    "slug": "thuong-hieu/apimed",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-tang-cuong-suc-de-khang",
+    "name": "Thuốc tăng cường sức đề kháng",
+    "parent_slug": "thuoc/thuoc-bo-and-vitamin"
+  },
+  "price_amount": 14000,
+  "compare_at_amount": 0,
+  "unit": "Ống",
+  "pack_note": "10 Ống x 10ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/palkids_608b2494b1.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/palkids_608b2494b1.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch uống",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Palkids là sản phẩm của Công ty Cổ phần Dược Apimed có chứa hoạt chất Calcium Carbonate, Acid Ascorbic, L-Lysin HCL. Đây là thuốc giúp bổ sung calci, vitamin cho cơ thể nhằm tăng cường sức khỏe, hỗ trợ điều trị suy nhược cơ thể, cải thiện tình trạng sút cân, chán ăn, mệt mỏi.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Palkids chỉ định điều trị trong các trường hợp suy nhược cơ thể, cải thiện tình trạng sút cân, chán ăn, mệt mỏi.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 45076,
+      "ingredientId": 12344,
+      "shortDescription": "12.8mg",
+      "name": "Calcium Carbonate",
+      "isPrimary": false,
+      "slug": "thanh-phan/calcium-carbonate"
+    },
+    {
+      "id": 45077,
+      "ingredientId": 7418,
+      "shortDescription": "72.4mg",
+      "name": "Acid Ascorbic",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 45078,
+      "ingredientId": 25720,
+      "shortDescription": "28.33mg",
+      "name": "L-Lysin HCL",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

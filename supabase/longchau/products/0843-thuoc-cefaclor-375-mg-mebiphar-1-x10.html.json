@@ -1,0 +1,49 @@
+{
+  "id": "00011177",
+  "slug": "thuoc/cefaclor-375-mg-mebiphar-1-x10.html",
+  "title": "Thuốc Cefaclor 375mg Mebiphar điều trị nhiễm khuẩn đường hô hấp (1 vỉ x 10 viên)",
+  "short_title": "CEFACLOR 375 MBP 1X10",
+  "brand": {
+    "name": "Mebiphar",
+    "slug": "thuong-hieu/mebiphar",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-khang-sinh-khang-nam/thuoc-khang-sinh",
+    "name": "Thuốc kháng sinh",
+    "parent_slug": "thuoc/thuoc-khang-sinh-khang-nam"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/1_2fac16da45.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/1_2fac16da45.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/6_2ae56cc8bf.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/2_8eeaabea84.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/3_d3bbcd6ab7.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/5_6fadf0052e.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/4_2cdb43e3b4.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Cefaclor Mebiphar 375 mg là sản phẩm của Công ty TNHH MTV Dược phẩm Sinh học Y tế (Mebiphar), có&nbsp;thành phần hoạt chất là cefaclor, là kháng sinh nhóm cephalosporin thế hệ II được chỉ định trong điều trị một số nhiễm khuẩn.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Cefaclor Mebiphar 375 mg được chỉ định dùng trong các trường hợp sau:</p><ul><li>Điều trị các nhiễm khuẩn đường hô hấp do các vi khuẩn nhạy cảm.</li><li>Viêm tai giữa cấp, viêm xoang cấp, viêm họng, viêm amiđan tái phát nhiều lần, viêm phổi, viêm phế quản mạn trong đợt diễn biến, nhiễm khuẩn đường tiết niệu dưới không biến chứng (viêm bàng quang), nhiễm khuẩn da và phần mềm...</li></ul><h3>Dược lực học</h3><p>Cefaclor là một kháng sinh cephalosporin dạng uống, bán tổng hợp, thuộc thế hệ 2, có tác dụng diệt khuẩn đang phát triển và phân chia bằng cách ức chế tổng hợp thành tế bào vi khuẩn.</p><p><i>Phổ kháng khuẩn</i></p><p>Cefaclor in vitro có tác dụng đối với phần lớn các chủng vi khuẩn được phân lập từ người bệnh: Staphylococcus, kể cả những chủng sinh ra penicilinase, coagulase dương tính, coagulase âm tính, tuy nhiên có biểu hiện kháng chéo giữa cefaclor với methicillin; Streptococcus pneumoniae; Streptococcus pyogenes (Streptococcus tan huyết beta nhóm A); Moraxella (Branhamella) catarrhalis; Haemophilus influenzae (kể cả những chủng sinh ra beta-lactamase, kháng ampicillin); Escherichia coli; Proteus mirabilis; Klebsiella spp.; Citrobacter diversus; Neisseria gonorrhoeae...</p><h3>Dược động học</h3><p><i>Hấp thu</i></p><p>Thuốc được hấp thu tốt sau khi uống lúc đói. Uống liều 250 mg và 500 mg lúc đói, nồng độ đỉnh trung bình trong huyết tương ứng khoảng 7 và 13 microgam/ml, đạt được sau 30 đến 60 phút. Thức ăn làm chậm hấp thu nhưng tổng lượng thuốc hấp thu không đổi, nồng độ đỉnh lúc này chỉ đạt 50% đến 75% so với uống lúc đói và thường xuất hiện muộn hơn từ 45 đến 60 phút.</p><p><i>Phân bố</i></p><p>Cefaclor được phân bố rộng rãi khắp cơ thể,&nbsp;có thể đi qua nhau thai và bài tiết trong sữa mẹ ở nồng độ thấp. Khoảng 25% cefaclor gắn kết với protein huyết tương. Nửa đời của cefaclor trong huyết tương từ 30 đến 60 phút.</p><p><i>Thải trừ</i></p><p>Cefaclor thải trừ nhanh chóng qua thận,&nbsp;tới 85% liều sử dụng được thải trừ qua nước tiểu ở dạng không đổi trong vòng 8 giờ. Cefaclor đạt nồng độ cao trong nước tiểu trong vòng 8 giờ sau khi uống, nồng độ đỉnh khoảng 600 và 900 microgam/ml.</p>",
+  "ingredients_html": [
+    {
+      "id": 24515,
+      "ingredientId": 13526,
+      "shortDescription": "375mg",
+      "name": "Cefaclor",
+      "isPrimary": false,
+      "slug": "thanh-phan/cefaclor"
+    }
+  ],
+  "stock_qty": 0
+}

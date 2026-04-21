@@ -1,0 +1,44 @@
+{
+  "id": "00006313",
+  "slug": "thuoc/regurgex-10mg-2436.html",
+  "title": "Thuốc Regurgex 10mg Square điều trị triệu chứng buồn nôn và buồn nôn (10 vỉ x 10 viên)",
+  "short_title": "REGURGEX 10 10X10",
+  "brand": {
+    "name": "Square",
+    "slug": "thuong-hieu/square",
+    "country": "Bangladesh"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tieu-hoa",
+    "name": "Thuốc tiêu hoá",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/35_fba835c5d7.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/35_fba835c5d7.png"
+  ],
+  "origin_label": "Bangladesh",
+  "country": "Bangladesh",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Regurgex 10mg được sản xuất bởi Công ty TNHH Dược phẩm và Thiết bị Y tế Phương Lê. Thuốc&nbsp;có thành phần chính là Domperidon maleat. Thuốc Regurgex 10mg&nbsp;được chỉ định trong điều trị triệu chứng nôn và buồn nôn.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Regurgex 10mg được chỉ định dùng trong các trường hợp sau:</p><ul><li>Điều trị triệu chứng nôn và buồn nôn.</li></ul><h3>Dược lực học</h3><p>Domperidon là chất kháng dopamin, có tính chất tương tự metoclopramide hydroclorid. Do thuốc hầu như không tác dụng lên các thụ thể dopamin ở não nên domperidon không gây ảnh hưởng lên tâm thần và thần kinh. Domperidon kích thích nhu động ống tiêu hóa, làm tăng trương lực cơ thắt tâm vị và làm tăng biên độ mở rộng cơ thắt môn vị sau bữa ăn, nhưng không ảnh hưởng lên sự bài tiết của dạ dày. Thuốc dùng để điều trị triệu chứng buồn nôn và nôn cấp, cả buồn nôn và nôn do dùng levodopa hoặc bromocriptine ở người bệnh Parkinson.</p><h3>Dược động học</h3><p>Domperidon được hấp thu ở đường tiêu hóa, nhưng có sinh khả dụng đường uống thấp (uống lúc đói chỉ vào khoảng 14%) do chuyển hóa bước đầu của thuốc qua gan và chuyển hóa ở ruột.</p><p>Sinh khả dụng của thuốc sau khi uống tăng lên rõ rệt nếu uống thuốc 90 phút sau khi ăn, nhưng thời gian để đạt nồng độ đỉnh trong huyết tương thì chậm lại.</p><p>Thuốc liên kết với protein huyết tương khoảng từ 92% đến 93%. Thuốc chuyển hóa rất nhanh và nhiều ở gan nhờ quá trình hydroxyl hóa và khử N-alkyl oxy hóa. Nửa đời thải trừ ở người khỏe mạnh khoảng 7,5 giờ và kéo dài ở người có suy giảm chức năng thận. Không có hiện tượng thuốc bị tích tụ trong cơ thể do suy thận, vì độ thanh thải của thận thấp hơn nhiều so với độ thanh thải toàn phần của huyết tương.</p><p>Domperidon đào thải theo phân và nước tiểu, chủ yếu dưới dạng các chất chuyển hóa: 30% liều uống đào thải theo nước tiểu trong 24 giờ (0,4% ở dạng nguyên vẹn), 66% đào thải theo phân trong vòng 4 ngày (10% ở dạng nguyên vẹn). Domperidon hầu như không qua hàng rào máu - não.</p>",
+  "ingredients_html": [
+    {
+      "id": 42435,
+      "ingredientId": 18452,
+      "shortDescription": "10mg",
+      "name": "Domperidone",
+      "isPrimary": false,
+      "slug": "thanh-phan/domperidone"
+    }
+  ],
+  "stock_qty": 0
+}

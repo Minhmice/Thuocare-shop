@@ -1,0 +1,52 @@
+{
+  "id": "00040258",
+  "slug": "thuoc/vt-amlopril-8-mg-5-mg-usv-private-limited-3-x10.html",
+  "title": "Thuốc VT-Amlopril 8mg/5mg USV Private Limited điều trị thay thế trong tăng huyết áp vô căn (3 vỉ x 10 viên)",
+  "short_title": "VT-AMLOPRIL 8MG/5MG USV PRIVATE LIMITED 3X10",
+  "brand": {
+    "name": "USV",
+    "slug": "thuong-hieu/usv",
+    "country": ""
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap",
+    "name": "Thuốc tim mạch huyết áp",
+    "parent_slug": "thuoc/thuoc-tim-mach-and-mau"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/vt_ampro_269496ae54.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/vt_ampro_269496ae54.jpg"
+  ],
+  "origin_label": "",
+  "country": "",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén",
+  "trust_label": null,
+  "short_description": "<p>Thuốc VT-Amlopril 8mg/5mg là sản phẩm của USV Private Limited, có thành phần chính là Perindopril tert-butylamin, Amlodipine. Đây là thuốc được sử dụng để điều trị thay thế trong tăng huyết áp vô căn và/hoặc bệnh dạng mạch vành ổn định, ở bệnh nhân đã được kiểm soát đồng thời bằng perindopril và amlodipine ở hàm lượng tương tự.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc VT-Amlopril 8mg/5mg được chỉ định dùng trong các trường hợp sau:</p><ul><li dir=\"ltr\">Điều trị thay thế trong tăng huyết áp vô căn và/hoặc bệnh dạng mạch vành ổn định, ở bệnh nhân đã được kiểm soát đồng thời bằng perindopril và amlodipine ở hàm lượng tương tự.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 61145,
+      "ingredientId": 41852,
+      "shortDescription": "8mg",
+      "name": "Perindopril tert-butylamin",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 61146,
+      "ingredientId": 8862,
+      "shortDescription": "5mg",
+      "name": "Amlodipine",
+      "isPrimary": false,
+      "slug": "thanh-phan/amlodipine"
+    }
+  ],
+  "stock_qty": 0
+}

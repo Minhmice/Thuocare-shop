@@ -1,0 +1,44 @@
+{
+  "id": "00047616",
+  "slug": "thuoc/simvastatin-10-mg-stella-10-x10.html",
+  "title": "Thuốc Simvastatin Stella 10mg điều trị tăng cholesterol huyết nguyên phát (10 vỉ x 10 viên)",
+  "short_title": "SIMVASTATIN 10MG STELLA 10X10",
+  "brand": {
+    "name": "Stella Pharm",
+    "slug": "thuong-hieu/stella-pharm",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tri-mo-mau",
+    "name": "Thuốc trị mỡ máu",
+    "parent_slug": "thuoc/thuoc-tim-mach-and-mau"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/Simvastatin_STELLA_10_mg_Viet_Nam_c264073f39.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/Simvastatin_STELLA_10_mg_Viet_Nam_c264073f39.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Simvastatin là sản phẩm của Stellapharm. Đây là thuốc hạ lipid được tổng hợp từ sản phẩm lên men của Aspergillus terreus. Không những vậy, Simvastatin vốn là một lacton bất hoạt. Tuy nhiên, sau khi uống, Simvastatin được thủy phân thành dạng beta hydroxy acid tương ứng. Trong đó, beta hydroxy acid ức chế enzyme khử 3-hydroxy-3-methylglutaryl-coenzym A (HMG-CoA), là bước đầu hạn chế sinh tổng hợp cholesterol.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Simvastatin chỉ định điều trị trong các trường hợp sau:</p><ul><li>Hỗ trợ chế độ ăn để điều trị tăng cholesterol huyết nguyên phát hoặc rối loạn lipid huyết hỗn hợp.</li><li>Điều trị tăng cholesterol huyết thể đồng hợp tử có tính gia đình.</li><li>Điều trị tăng triglyceride huyết.</li><li>Giảm tỉ lệ bệnh tật và tử vong do bệnh tim mạch ở bệnh nhân có bệnh tim mạch do xơ vữa động mạch hoặc bệnh tiểu đường.</li></ul><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 23272,
+      "ingredientId": 36087,
+      "shortDescription": "10mg",
+      "name": "Simvastatin",
+      "isPrimary": false,
+      "slug": "thanh-phan/simvastatin"
+    }
+  ],
+  "stock_qty": 0
+}

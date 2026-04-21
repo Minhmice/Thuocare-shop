@@ -1,0 +1,44 @@
+{
+  "id": "00009820",
+  "slug": "thuoc/meloxicam-15-1475.html",
+  "title": "Viên nén Meloxicam Stada 15mg điều trị viêm khớp dạng thấp (3 vỉ x 10 viên)",
+  "short_title": "MELOXICAM 15 STADA 3X10",
+  "brand": {
+    "name": "Stada",
+    "slug": "thuong-hieu/stada",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem/thuoc-giam-dau-khang-viem",
+    "name": "Thuốc giảm đau kháng viêm",
+    "parent_slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00009820_meloxicam_15_5964_60b9_large_0f46bb7c63.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00009820_meloxicam_15_5964_60b9_large_0f46bb7c63.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén",
+  "trust_label": null,
+  "short_description": "<p>Meloxicam 15 được sản xuất bởi công ty TNHH Stada, có thành phần chính là meloxicam, được chỉ định để điều trị viêm khớp dạng thấp, điều trị triệu chứng ngắn hạn bệnh viêm xương khớp cấp tính trầm trọng và điều trị triệu chứng viêm cứng đốt sống; thuốc cũng có thể được sử dụng trong chứng viêm khớp tự phát ở trẻ vị thành niên.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p>Thuốc Meloxicam 15 được chỉ định để điều trị <a href=\"https://nhathuoclongchau.com.vn/benh/viem-khop-dang-thap-254.html\">viêm khớp dạng thấp</a>, điều trị triệu chứng ngắn hạn bệnh viêm xương khớp cấp tính trầm trọng và điều trị triệu chứng viêm cứng đốt sống. Thuốc cũng có thể được sử dụng trong chứng viêm khớp tự phát ở trẻ vị thành niên.</p>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Meloxicam là thuốc kháng viêm không steroid (NSAID) thuộc họ oxicam, có đặc tính kháng viêm, giảm đau và hạ sốt. Hoạt tính kháng viêm của meloxicam đã được chứng minh trên những dạng viêm nhiễm kinh điển. Như các NSAID khác, cơ chế tác dụng chính xác vẫn chưa được biết rõ. Tuy nhiên, có ít nhất một cơ chế chung của nhóm NSAID (bao gồm cả meloxicam) là ức chế sinh tổng hợp prostaglandin, được biết là chất trung gian gây viêm.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Meloxicam được hấp thu tốt sau khi uống. Thuốc gắn kết 99% với protein huyết tương. Meloxicam có thời gian bán thải trong huyết tương khoảng 20 giờ. Thuốc được chuyển hóa chủ yếu qua quá trình oxy hóa và được bài tiết một lượng tương đương qua nước tiểu và phân, dưới 5% liều dùng được bài tiết dưới dạng không đổi. Thể tích phân bố tăng lên khi suy thận.</p>",
+  "ingredients_html": [
+    {
+      "id": 24155,
+      "ingredientId": 26869,
+      "shortDescription": "15mg",
+      "name": "Meloxicam",
+      "isPrimary": false,
+      "slug": "thanh-phan/meloxicam"
+    }
+  ],
+  "stock_qty": 0
+}

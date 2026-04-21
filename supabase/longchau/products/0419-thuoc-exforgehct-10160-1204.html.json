@@ -1,0 +1,66 @@
+{
+  "id": "00010725",
+  "slug": "thuoc/exforgehct-10160-1204.html",
+  "title": "Thuốc Exforge HCT 10mg/160mg/12.5mg Novartis điều trị tăng huyết áp vô căn (4 vỉ x 7 viên)",
+  "short_title": "EXFORGEHCT 10/160/12.5MG",
+  "brand": {
+    "name": "Novartis",
+    "slug": "thuong-hieu/novartis",
+    "country": "Thụy Sĩ"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap",
+    "name": "Thuốc tim mạch huyết áp",
+    "parent_slug": "thuoc/thuoc-tim-mach-and-mau"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "7 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00010725_exforgehct_10160_1579_5bc6_large_6ca0a90a00.JPG",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00010725_exforgehct_10160_1579_5bc6_large_6ca0a90a00.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00010725_exforgehct_10160_1630729100_146096acb8.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00010725_exforgehct_10160_6137_5bc6_large_be9488c287.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00010725_exforgehct_10160_5307_5bc6_large_37ca160d31.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00010725_exforgehct_10160_3948_5bc6_large_30557a22d7.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00010725_exforgehct_10160_4837_5bc6_large_f4ba2fddd6.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00010725_exforgehct_10160_7331_6132_large_f1b0a8519e.JPG"
+  ],
+  "origin_label": "Thụy Sĩ",
+  "country": "Thụy Sĩ",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Exforge HCT là viên nén bao phim được sản xuất bởi Công ty Norvartis. Thuốc được chỉ định trong điều trị tăng huyết áp vô căn. </p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p>Thuốc Exforge HCT được chỉ định dùng trong trường hợp sau:</p>\n\n<p><em>Ðiều trị tăng huyết áp vô căn.</em></p>\n\n<h3>Dược lực học</h3>\n\n<p>Exforge HCT kết hợp ba hợp chất điều trị tăng huyết áp ở những bệnh nhân bị tăng huyết áp vô căn: amlodipine thuộc nhóm đối vận calci, valsartan thuộc nhóm thuốc đối vận thụ thể angiotensin II và thuốc lợi tiểu thiazide.</p>\n\n<h3>Dược động học</h3>\n\n<p>Sau khi dùng đường uống, nồng độ đỉnh huyết tương của amlodipin đạt được sau 6 - 8 giờ, valsartan sau 3 giờ và HCTZ sau 2 giờ. Tốc độ và mức độ hấp thu amlodipin, valsartan và HCTZ từ Exforge HCT tương tự như khi được dùng dưới các dạng bào chế riêng rẽ.</p>",
+  "ingredients_html": [
+    {
+      "id": 31541,
+      "ingredientId": 8862,
+      "shortDescription": "10mg",
+      "name": "Amlodipine",
+      "isPrimary": false,
+      "slug": "thanh-phan/amlodipine"
+    },
+    {
+      "id": 31542,
+      "ingredientId": 40025,
+      "shortDescription": "160mg",
+      "name": "Valsartan",
+      "isPrimary": false,
+      "slug": "thanh-phan/valsartan"
+    },
+    {
+      "id": 31543,
+      "ingredientId": 22905,
+      "shortDescription": "12.5mg",
+      "name": "Hydrochlorothiazide",
+      "isPrimary": false,
+      "slug": "thanh-phan/hydrochlorothiazide"
+    }
+  ],
+  "stock_qty": 0
+}

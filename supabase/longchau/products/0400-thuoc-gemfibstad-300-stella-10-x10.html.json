@@ -1,0 +1,44 @@
+{
+  "id": "00047877",
+  "slug": "thuoc/gemfibstad-300-stella-10-x10.html",
+  "title": "Thuốc Gemfibstad 300 Stella điều trị tăng lipid huyết (10 vỉ x 10 viên)",
+  "short_title": "GEMFIBSTAD 300 STELLA 10X10",
+  "brand": {
+    "name": "Stella Pharm",
+    "slug": "thuong-hieu/stella-pharm",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tri-mo-mau",
+    "name": "Thuốc trị mỡ máu",
+    "parent_slug": "thuoc/thuoc-tim-mach-and-mau"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00047877_bb177340c7.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00047877_bb177340c7.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang cứng",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Gemfibstad 300 là sản phẩm của Stellapharm chứa thành phần Gemfibrozil dùng trong điều trị tăng lipid huyết không đáp ứng với chế độ ăn kiêng và các biện pháp khác. Gemfibrozil còn có tác dụng giảm kết tập tiểu cầu, nên làm giảm nguy cơ về bệnh tim mạch.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Gemfibstad 300 được chỉ định như một liệu pháp bổ trợ cho chế độ ăn kiêng và chế độ điều trị không dùng thuốc khác (như tập thể dục, giảm cân) trong các trường hợp sau:</p><ul><li>Điều trị tăng triglycerid huyết nặng có kèm hoặc không kèm HDL cholesterol thấp.</li><li>Tăng lipid huyết hỗn hợp trong trường hợp nhóm statin bị chống chỉ định hoặc không dung nạp.</li><li>Tăng cholesterol huyết nguyên phát trong trường hợp nhóm statin bị chống chỉ định hoặc không dung nạp.</li><li>Phòng ngừa tiên phát.</li><li>Giảm tỷ lệ mắc bệnh tim mạch ở nam giới bị tăng cholesterol không HDL và có nguy cơ cao bị biến cố tim mạch lần đầu trong trường hợp nhóm statin bị chống chỉ định hoặc không dung nạp.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 18429,
+      "ingredientId": 21119,
+      "shortDescription": "300mg",
+      "name": "Gemfibrozil",
+      "isPrimary": false,
+      "slug": "thanh-phan/gemfibrozil"
+    }
+  ],
+  "stock_qty": 0
+}

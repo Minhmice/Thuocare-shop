@@ -1,0 +1,44 @@
+{
+  "id": "00501621",
+  "slug": "thuoc/thuoc-agimol-325-agimexpharm-hop-30-goi-1-6-g.html",
+  "title": "Thuốc cốm Agimol 325 Agimexpharm giảm đau, hạ sốt (30 gói x 1.6g)",
+  "short_title": "AGIMOL 325 AGIMEXPHARM 30 GÓI",
+  "brand": {
+    "name": "Agimexpharm",
+    "slug": "thuong-hieu/agimexpharm",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem/thuoc-giam-dau-ha-sot",
+    "name": "Thuốc giảm đau hạ sốt",
+    "parent_slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem"
+  },
+  "price_amount": 1400,
+  "compare_at_amount": 0,
+  "unit": "Gói",
+  "pack_note": "30 Gói x 1.6g",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/agimol_325_7ef877b58e.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/agimol_325_7ef877b58e.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Thuốc cốm",
+  "trust_label": null,
+  "short_description": "<p>Thuốc cốm Agimol 325 giúp giảm đau - hạ sốt trong các trường hợp: Nóng sốt, cảm lạnh, cảm cúm, nhức đầu, đau họng, đau răng, mọc răng và nhổ răng.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc cốm Agimol 325 giúp giảm đau - hạ sốt trong các trường hợp: Nóng sốt, cảm lạnh, cảm cúm, nhức đầu, đau họng, đau răng, mọc răng và nhổ răng.</p><h3>Dược lực học</h3><p><strong>Nhóm dược lý: Thuốc giảm đau, hạ sốt.</strong></p><p><strong>Mã ATC: N02BE01.</strong></p><p>Paracetamol có tác dụng giảm đau - hạ sốt do nó ức chế sự tổng hợp Prostaglandin.</p><p>Với liều điều trị, Agimol ít tác động lên hệ tim mạch và hô hấp, không tác dụng trên tiểu cầu hoặc thời gian chảy máu.</p><h3>Dược động học</h3><p><i>Hấp thu: </i>Nhanh và hầu như hoàn toàn qua đường tiêu hóa. Đạt nồng độ đỉnh 30 – 60 phút sau khi uống với liều điều trị, nửa đời huyết tương là 1,25 – 3 giờ.</p><p><i>Phân bố: </i>Nhanh và đồng đều trong phần lớn các mô của cơ thể. Khoảng 25% Paracetamol trong máu kết hợp với Protein huyết tương, 1 phần nhỏ bị N-hydroxyl hóa bởi men Cytocrom P450 thành chất trung gian có tính phản ứng cao là N- acetyl-benzoquinonimin, chất này sẽ phản ứng với Glutathion và bị khử hoạt tính. Nếu uống Paracetamol liều cao sẽ tạo nhiều N-acetyl-benzoquinonimin, Glutathion sẽ bị cạn kiệt, khi đó phản ứng của nó với nhóm sulfhydryl của protein gan tăng lên, có thể dẫn đến hoại tử tế bào gan.</p><p><i>Thải trừ:</i> Phần lớn qua nước tiểu (90% – 100% liều điều trị trong ngày đầu), chủ yếu ở dạng liên hợp với Acid glucuronic.</p>",
+  "ingredients_html": [
+    {
+      "id": 1930,
+      "ingredientId": 31537,
+      "shortDescription": "325mg",
+      "name": "Paracetamol",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

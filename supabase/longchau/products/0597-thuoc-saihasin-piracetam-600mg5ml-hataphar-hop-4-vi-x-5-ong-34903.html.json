@@ -1,0 +1,44 @@
+{
+  "id": "00500775",
+  "slug": "thuoc/saihasin-piracetam-600mg5ml-hataphar-hop-4-vi-x-5-ong-34903.html",
+  "title": "Thuốc Saihasin 600mg/5ml Hataphar điều trị và hỗ trợ phục hồi hệ thống thần kinh (4 vỉ x 5 ống)",
+  "short_title": "SAIHASIN PIRACETAM 600MG/5ML HATAPHAR 4X5 ỐNG",
+  "brand": {
+    "name": "Hà Tây",
+    "slug": "thuong-hieu/ha-tay",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-than-kinh/thuoc-than-kinh",
+    "name": "Thuốc thần kinh",
+    "parent_slug": "thuoc/thuoc-than-kinh"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Ống",
+  "pack_note": "5 Ống",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00500775_SAIHASIN_PIRACETAM_600_MG_5_ML_HATAPHAR_4_X5_ONG_0867c652d3.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00500775_SAIHASIN_PIRACETAM_600_MG_5_ML_HATAPHAR_4_X5_ONG_0867c652d3.png"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch uống",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Saihasin là sản phẩm của Công ty Cổ phần Dược phẩm Hà Tây với thành phần chính là Piracetam. Thuốc Saihasin &nbsp;được chỉ định để điều trị và hỗ trợ phục hồi hệ thống thần kinh giúp duy trì trạng thái tỉnh táo, tập trung, tăng cường khả năng ghi nhớ của não bộ cung như làm giảm tình trạng giật rung cơ.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p><i>Thuốc này chỉ dùng theo đơn thuốc</i></p><p>Người lớn:</p><ul><li>Ở người cao tuổi: Thuốc để hỗ trợ điều trị suy giảm trí nhớ, kém tập trung hoặc thiếu tỉnh táo, thay đổi khí sắc, rối loạn hành vi, kém chú ý đến bản thân, sa sút trí tuệ (trừ bệnh Alzheimer và các chứng mất trí nhớ khác).</li><li>Điều trị triệu chứng chóng mặt.</li><li>Dùng bổ trợ trong điều trị giật rung cơ có nguồn gốc vỏ não không phân biệt nguyên nhân.</li></ul><p>Trẻ em trên 30 kg (từ 9 tuổi trở lên): Hỗ trợ điều trị chứng khó đọc.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 40037,
+      "ingredientId": 32725,
+      "shortDescription": "600mg",
+      "name": "Piracetam",
+      "isPrimary": false,
+      "slug": "thanh-phan/piracetam"
+    }
+  ],
+  "stock_qty": 0
+}

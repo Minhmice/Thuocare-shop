@@ -1,0 +1,48 @@
+{
+  "id": "00007225",
+  "slug": "thuoc/telma-20-2049.html",
+  "title": "Thuốc Telma 20 Glenmark điều trị tăng huyết áp vô căn (1 vỉ x 10 viên)",
+  "short_title": "TELMA 20 1X10",
+  "brand": {
+    "name": "Glenmark",
+    "slug": "thuong-hieu/glenmark",
+    "country": "Ấn Độ"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap",
+    "name": "Thuốc tim mạch huyết áp",
+    "parent_slug": "thuoc/thuoc-tim-mach-and-mau"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007225_telma_20_1x10_7554_9ff2_large_d0ba3a99d1.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007225_telma_20_1x10_7554_9ff2_large_d0ba3a99d1.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007225_telma_20_1629011956_250cbc3496.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007225_telma_20_4063_6118_large_502010b196.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007225_telma_20_3066_6118_large_4638c6239e.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007225_telma_20_5253_6118_large_7898e3379c.jpg"
+  ],
+  "origin_label": "Ấn Độ",
+  "country": "Ấn Độ",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén không bao",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Telma được sản xuất bởi công ty Glenmark Pharmaceuticals Ltd, có thành phần hoạt chất là Telmisartan chỉ định trong điều trị tăng huyết áp vô căn ở người lớn. Ngoài ra thuốc còn giúp phòng ngừa các bệnh lý tim mạch ở bệnh nhân người lớn có nguy cơ cao.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p>Thuốc Telma được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul><li>Ðiều trị <strong><a href=\"https://nhathuoclongchau.com.vn/benh/cao-huyet-ap-225.html\">tăng huyết áp</a></strong> vô căn ở người lớn.</li>\n\t<li>Phòng ngừa bệnh lý <strong><a href=\"https://nhathuoclongchau.com.vn/benh/benh-tim-mach-599.html\">tim mạch</a></strong>.</li>\n\t<li>Giảm bệnh lý tim mạch ở người lớn có các nguy cơ sau:\n\t<ul><li>Có biểu hiện <strong><a href=\"https://nhathuoclongchau.com.vn/benh/xo-vua-dong-mach-429.html\">xơ vữa động mạch</a></strong> (tiền sử mạch vành, đột quỵ, hoặc bệnh động mạch ngoại biên).</li>\n\t\t<li>Đái tháo đường type 2 có tổn thương cơ quan đích.</li>\n\t</ul></li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p>Telmisartan là thuốc đối kháng thụ thể angiotensin II (loại AT1) có hiệu quả khi dùng đường uống. Telmisartan chiếm chỗ angiotensin II với ái lực mạnh tại vị trí gắn kết vào thụ thể AT1, thụ thể chịu trách nhiệm cho tất cả hoạt động được biết của angiotensin II. Telmisartan không thể hiện bất kỳ hoạt động chủ vận từng phần nào tại thụ thể AT1.</p>\n\n<h3>Dược động học</h3>\n\n<p>Telmisartan hấp thu nhanh mặc dù lượng hấp thu có thay đổi. Sinh khả dụng tuyệt đối của telmisartan khoảng 50%.</p>\n\n<p>Trong khoảng thời gian sau 3 giờ, nồng độ huyết tương là tương đương nhau cho dù telmisartan được uống lúc đói hay cùng với thức ăn.</p>\n\n<p>Telmisartan kết hợp hầu hết với protein huyết tương (&gt;99,5%), chủ yếu với albumin và alpha-1 acid glycoprotein. Thể tích phân bổ trung bình ở trạng thái ổn định khoảng 500 L. Telmisartan chuyển hoá bằng phản ứng liên hợp với glucuronid. Chất chuyển hoá không có tác dụng dược lý.</p>\n\n<p>Telmisartan gần như được thải trừ hoàn toàn qua phân, phần lớn là ở dạng không biến đổi. Tổng lượng tiết qua nước tiểu là &lt; 1% liều.</p>",
+  "ingredients_html": [
+    {
+      "id": 36096,
+      "ingredientId": 37732,
+      "shortDescription": "20mg",
+      "name": "Telmisartan",
+      "isPrimary": false,
+      "slug": "thanh-phan/telmisartan"
+    }
+  ],
+  "stock_qty": 0
+}

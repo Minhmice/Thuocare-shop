@@ -1,0 +1,70 @@
+{
+  "id": "00004498",
+  "slug": "thuoc/vien-gan-mat-liverbil-525.html",
+  "title": "Thuốc Liverbil OPC nhuận gan, lợi mật, hỗ trợ điều trị viêm gan (5 vỉ x 10 viên)",
+  "short_title": "LIVERBIL OPC 5X10",
+  "brand": {
+    "name": "Opc",
+    "slug": "thuong-hieu/opc",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-benh-gan",
+    "name": "Thuốc trị bệnh gan",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 63000,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 5 Vỉ x 10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004498_vien_gan_mat_liverbil_6482_5c0f_large_be31f291d1.JPG",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004498_vien_gan_mat_liverbil_6482_5c0f_large_be31f291d1.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004498_vien_gan_mat_liverbil_1625297342_d88ced8dde.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004498_vien_gan_mat_liverbil_5231_5c0f_large_2334bdc61d.JPG"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang cứng",
+  "trust_label": null,
+  "short_description": "<p><strong>Thuốc Liverbil</strong> của <em>Công ty cổ phần dược phẩm OPC</em>, chứa dược chất chính gồm actisô, bìm bìm biếc, rau đắng đất, diệp hạ châu được dùng để phòng và hỗ trợ điều trị <strong><a href=\"https://nhathuoclongchau.com.vn/benh/viem-gan-1-1080.html\">viêm gan</a></strong>, suy giảm chức năng gan; thanh nhiệt, giải độc gan và bảo vệ gan; điều trị các triệu chứng: Đầy bụng, <strong><a href=\"https://nhathuoclongchau.com.vn/benh/roi-loan-tieu-hoa-210.html\">rối loạn tiêu hóa</a></strong>, dị ứng, mụn nhọt, mẩn ngứa, mề đay do rối loạn chức năng gan, viêm gan gây ra.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p><strong>Thuốc Liverbil</strong> được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Phòng và hỗ trợ điều trị viêm gan, suy giảm chức năng gan. </li>\n\t<li>Thanh nhiệt, giải độc gan và bảo vệ gan.</li>\n\t<li>Điều trị các triệu chứng: Đầy bụng, rối loạn tiêu hóa, dị ứng, mụn nhọt, mẩn ngứa, mề đay do rối loạn chức năng gan, viêm gan gây ra.</li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p>Liverbil® là chế phẩm được bào chế từ các dược liệu actisô, bìm bìm biếc, rau đắng đất và diệp hạ châu có tác dụng tăng tiết mật, lợi tiểu, thanh nhiệt, giải độc, bảo vệ gan. Trong đó: </p>\n\n<ul>\n\t<li>Actisô có tác dụng tăng mật, lợi tiểu, chống độc; giảm cholesterol huyết, bảo vệ gan. </li>\n\t<li><strong><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/bim-bim-biec\">Bìm bìm biếc</a></strong> có tác dụng nhuận tràng, lợi tiểu, tiêu sưng, sát trùng. </li>\n\t<li><strong><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/rau-dang-dat\">Rau đắng đất</a></strong> có tác dụng nhuận gan, lợi tiểu, lợi tiêu hóa và sát trùng. </li>\n\t<li><strong><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/diep-ha-chau\">Diệp hạ châu</a></strong> có tác dụng lợi tiểu, tiêu độc, sát trùng.</li>\n</ul>\n\n<h3>Dược động học</h3>\n\n<p>Chưa ghi nhận.</p>",
+  "ingredients_html": [
+    {
+      "id": 26334,
+      "ingredientId": 17681,
+      "shortDescription": "80mg",
+      "name": "Diệp hạ châu",
+      "isPrimary": false,
+      "slug": "thanh-phan/diep-ha-chau"
+    },
+    {
+      "id": 26335,
+      "ingredientId": 34354,
+      "shortDescription": "80mg",
+      "name": "Rau đắng đất",
+      "isPrimary": false,
+      "slug": "thanh-phan/rau-dang-dat"
+    },
+    {
+      "id": 26336,
+      "ingredientId": 11026,
+      "shortDescription": "40mg",
+      "name": "Bìm bìm biếc (Hạt)",
+      "isPrimary": false,
+      "slug": "thanh-phan/bim-bim-biec"
+    },
+    {
+      "id": 26337,
+      "ingredientId": 9706,
+      "shortDescription": "40mg",
+      "name": "Atisô",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

@@ -1,0 +1,44 @@
+{
+  "id": "00044152",
+  "slug": "thuoc/trikaxon-pharbaco-1-g-1-lo-1-nuoc-cat.html",
+  "title": "Bột pha tiêm Trikaxon 1 g.i.v Pharbaco điều trị các bệnh nhiễm khuẩn nặng (1 lọ x 1 nước cất)",
+  "short_title": "TRIKAXON PHARBACO 1G 1 LỌ + 1 NƯỚC CẤT",
+  "brand": {
+    "name": "Pharbaco",
+    "slug": "thuong-hieu/pharbaco",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tiem-chich-and-dich-truyen/thuoc-tiem-chich",
+    "name": "Thuốc tiêm chích",
+    "parent_slug": "thuoc/thuoc-tiem-chich-and-dich-truyen"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/trikaxon_ac61e779e5.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/trikaxon_ac61e779e5.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Bột pha tiêm",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Trikaxon là sản phẩm của Pharbaco, có thành phần chính là Ceftriaxon. Đây là thuốc được sử dụng để điều trị các bệnh nhiễm khuẩn nặng do các vi khuẩn nhạy cảm với Ceftriaxon kể cả viêm màng não, trừ thể do Listeria. monocytogenes, bệnh lyme, nhiễm khuẩn đường tiết niệu sinh dục (gồm cả viêm bể thận), viêm phổi, lậu, thương hàn, giang mai, nhiễm khuẩn huyết, nhiễm khuẩn xương và khớp, nhiễm khuẩn da; dự phòng nhiễm khuẩn trong các phẫu thuật, nội soi can thiệp (như phẫu thuật âm đạo hoặc ổ bụng).</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc Trikaxon được chỉ định dùng trong các trường hợp sau:</p><ul><li>Điều trị các bệnh nhiễm khuẩn nặng do các vi khuẩn nhạy cảm với Ceftriaxon kể cả viêm màng não, trừ thể do Listeria. monocytogenes, bệnh lyme, nhiễm khuẩn đường tiết niệu sinh dục (gồm cả viêm bể thận), viêm phổi, lậu, thương hàn, giang mai, nhiễm khuẩn huyết, nhiễm khuẩn xương và khớp, nhiễm khuẩn da.</li><li>Dự phòng nhiễm khuẩn trong các phẫu thuật, nội soi can thiệp (như phẫu thuật âm đạo hoặc ổ bụng).</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 47285,
+      "ingredientId": 42088,
+      "shortDescription": "1000mg",
+      "name": "Ceftriaxon",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

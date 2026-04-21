@@ -1,0 +1,52 @@
+{
+  "id": "00500785",
+  "slug": "thuoc/authisix-meyer-bpc-6-x10.html",
+  "title": "Thuốc Authisix Meyer-Bpc giúp ngăn ngừa tình trạng thiếu hụt canxi và vitamin D3 (6 vỉ x 10 viên) ",
+  "short_title": "AUTHISIX MEYER-BPC 6X10",
+  "brand": {
+    "name": "MEYER-BPC",
+    "slug": "thuong-hieu/meyer-bpc",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/co-xuong-khop/thuoc-xuong-khop",
+    "name": "Thuốc xương khớp",
+    "parent_slug": "thuoc/co-xuong-khop"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/auth_750f0b257a.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/auth_750f0b257a.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Authisix là sản phẩm của Công ty Liên doanh Meyer - BPC chứa hoạt chất Calcium Carbonate và Vitamin D3 giúp ngăn ngừa tình trạng thiếu hụt calci và vitamin D3 và hỗ trợ điều trị bệnh nhân bị loãng xương.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Authisix giúp ngăn ngừa tình trạng thiếu hụt calci và vitamin D3 và hỗ trợ điều trị bệnh nhân bị loãng xương.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 62510,
+      "ingredientId": 12344,
+      "shortDescription": "1500mg",
+      "name": "Calcium Carbonate",
+      "isPrimary": true,
+      "slug": "thanh-phan/calcium-carbonate"
+    },
+    {
+      "id": 62511,
+      "ingredientId": 40361,
+      "shortDescription": "400iu",
+      "name": "Vitamin D3",
+      "isPrimary": true,
+      "slug": "thanh-phan/vitamin-d3"
+    }
+  ],
+  "stock_qty": 0
+}

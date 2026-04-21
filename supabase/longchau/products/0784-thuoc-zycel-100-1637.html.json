@@ -1,0 +1,46 @@
+{
+  "id": "00008297",
+  "slug": "thuoc/zycel-100-1637.html",
+  "title": "Thuốc Zycel 100 Zydus Cadila giảm viêm xương khớp (1 vỉ x 10 viên)",
+  "short_title": "ZYCEL 100 CADILA 1X10",
+  "brand": {
+    "name": "Cadila",
+    "slug": "thuong-hieu/cadila",
+    "country": "Ấn Độ"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem/thuoc-giam-dau-khang-viem",
+    "name": "Thuốc giảm đau kháng viêm",
+    "parent_slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00008297_zycel_100mg_6952_4595_large_14bfd5b9c6.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00008297_zycel_100mg_6952_4595_large_14bfd5b9c6.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00008297_zycel_100_1619580241_15ccaa1de3.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00008297_zycel_100_8555_6088_large_809da6e125.jpg"
+  ],
+  "origin_label": "Ấn Độ",
+  "country": "Ấn Độ",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang cứng",
+  "trust_label": null,
+  "short_description": "<p>Zycel 100 của công ty Cadila Healthcare LTD, thành phần chính là celecoxib, dùng để điều trị giảm các dấu hiệu và triệu chứng của viêm xương khớp và viêm khớp dạng thấp ở người lớn.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p>Thuốc Zycel 100 được chỉ định dùng trong các trường hợp: Giảm các dấu hiệu và triệu chứng của <a href=\"https://nhathuoclongchau.com.vn/benh/viem-xuong-258.html\">viêm xương</a> khớp và viêm khớp dạng thấp ở người lớn.</p>\n\n<h3>Dược lực học</h3>\n\n<p>Celecoxib một chất ức chế chọn lọc với men cyclo - oxygenase (COX - 2 isoform) và có tác dụng chống viêm. Nó có hiệu quả mạnh gấp 375 lần dưới dạng chất ức chế COX - 2 hơn là COX - 1 isoform. Tên hoá học của celecoxib là 4 - [5 - (4 - methylphenyl) - 3 - (trifluoromethyl) - lH - pyrazol - l - yl] benzenesulfonamide và một pyrazole thay thế diaryl. Công thức phân tử của celecoxib là C17H14F3N3O2S, và trọng lượng phân tử là 381,38.</p>\n\n<h3>Dược động học</h3>\n\n<p><em>Hấp thu</em></p>\n\n<p>Nồng độ đỉnh trong huyết tương của celecoxib đạt được xấp xỉ 3 giờ sau một liều uống. Cả nồng độ đỉnh trong huyết tương (Cmax) và diện tích dưới đường cong (AUC) xấp xỉ tỷ lệ với liều dùng trong khoảng liều nghiên cứu lâm sàng 100 - 200 mg. Viên nang celecoxib có thể được dùng không cần chú ý đến thời điểm dùng bữa.</p>\n\n<p><em>Phân bố</em></p>\n\n<p>Thuốc liên kết mạnh với protein (xấp xỉ 97%) trong các khoảng liều lâm sàng. </p>\n\n<p><em>Chuyển hóa</em></p>\n\n<p>Những nghiên cứu ở in vitro chỉ ra rằng kết phần lớn với albumin và với mức độ nhỏ hơn với acid glycoprotein, chuyển hóa phần lớn qua hệ thống enzym cytochrome P450. Ba chất chuyển định trong huyết tương người và tất cả các chất chuyển hóa đã được xác định này đều không hoạt tính như COX - 1 hoặc COX - 2. </p>\n\n<p><em>Thải trừ</em></p>\n\n<p>Celecoxib được thải trừ phần lớn dạng chuyển hóa qua gan với lượng ít (&lt; 3%) dạng thuốc không đổi được thấy ở nước tiểu và phân. Sau khi uống liều đơn đánh dấu xấp xỉ 57% liều dùng được bài tiết trong phân và 27% được bài tiết theo nước tiểu. Thời gian bán thải xấp xỉ 11 giờ khi đói.</p>",
+  "ingredients_html": [
+    {
+      "id": 23940,
+      "ingredientId": 13665,
+      "shortDescription": "100mg",
+      "name": "Celecoxib",
+      "isPrimary": false,
+      "slug": "thanh-phan/celecoxib"
+    }
+  ],
+  "stock_qty": 0
+}

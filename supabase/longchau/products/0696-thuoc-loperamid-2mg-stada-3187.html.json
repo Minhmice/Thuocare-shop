@@ -1,0 +1,51 @@
+{
+  "id": "00004539",
+  "slug": "thuoc/loperamid-2mg-stada-3187.html",
+  "title": "Viên nang cứng Loperamide Stella 2mg giảm tiêu chảy cấp (5 vỉ x 10 viên)",
+  "short_title": "LOPERAMID 2MG STELLA 5X10",
+  "brand": {
+    "name": "Stella Pharm",
+    "slug": "thuong-hieu/stella-pharm",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-tieu-chay",
+    "name": "Thuốc trị tiêu chảy",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_3914_63fa3161d6.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_3914_63fa3161d6.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_3915_24dc40f510.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_3916_25bc728076.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_3917_6fe7d3d258.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_3918_75d8434fb6.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/IMG_3919_1d43014407.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_3920_46340a216e.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_3921_dde10c0e44.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang cứng",
+  "trust_label": null,
+  "short_description": "<p>Loperamide Stella 2mg của Công ty TNHH LD Stellapharm, thành phần chính loperamid, là thuốc dùng để kiểm soát và làm giảm triệu chứng tiêu chảy cấp không đặc trưng và tiêu chảy mạn do bệnh viêm ruột.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Loperamide Stella 2mg được chỉ định dùng trong các trường hợp sau:</p><ul><li>Hỗ trợ và làm giảm triệu chứng tiêu chảy cấp không đặc trưng và <a href=\"https://nhathuoclongchau.com.vn/benh/tieu-chay-133.html\">tiêu chảy</a> mạn do bệnh viêm ruột.&nbsp;</li><li>Làm giảm thể tích chất thải sau thủ thuật mở thông hồi tràng, trực tràng.</li></ul><h3>Dược lực học</h3><p>Loperamid làm chậm nhu động ruột thông qua tác động trực tiếp trên các đầu mút dây thần kinh và hoặc các hạch trong sách của thành ruột. Thuốc tác động bằng cách cản trở cơ chế cholinergic và noncholinergic liên quan đến phản xạ nhu động, làm giảm hoạt động của các cơ vòng và cơ dọc ở thành ruột.</p><p>Tuy nhiên, một số thông tin cho rằng thuốc có thể tác động giống như <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/diphenoxylate\">diphenoxylate</a> và <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/morphine\">morphin</a>, bằng cách làm tăng sự co bóp của hệ thống cơ vòng ở ruột, vì vậy làm gia tăng sự phân đoạn và làm chậm nhu động đẩy tới ruột.&nbsp;</p><p>Loperamid kéo dài thời gian lưu thông các chất qua ruột và do đó làm giảm thể tích phân, làm tăng độ nhớt và tỷ trọng khô của phân, giảm bớt sự mất dịch và chất điện giải. Là thuốc chống tiêu chảy, loperamid được ghi nhận là thuốc đặc hiệu hơn, tác động dài hơn và có hiệu lực mạnh hơn 2- 3 lần dựa trên cân nặng so với diphenoxylate. Chưa ghi nhận có sự dung nạp đối với tác động chống tiêu chảy của loperamid.&nbsp;</p><h3>Dược động học</h3><p><i>Hấp thu</i></p><p>Xấp xỉ 40% liều uống loperamid được hấp thu qua đường tiêu hóa.&nbsp;</p><p><i>Phân bố</i></p><p>Nồng độ thuốc tiết qua sữa rất thấp. Liên kết với protein khoảng 97%.&nbsp;</p><p><i>Chuyển hoá</i></p><p>Thuốc được chuyển hóa ở gan thành dạng không hoạt động (trên 50%).</p><p><i>Thải trừ</i></p><p>Bài tiết ra phân theo đường mật dưới dạng liên hợp không có hoạt tính, sự bài tiết qua nước tiểu không đáng kể. Thời gian bán hủy của loperamid ở người trong khoảng 7 - 14 giờ.</p>",
+  "ingredients_html": [
+    {
+      "id": 22158,
+      "ingredientId": 43006,
+      "shortDescription": "2mg",
+      "name": "Loperamid hydroclorid",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

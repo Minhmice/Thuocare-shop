@@ -1,0 +1,62 @@
+{
+  "id": "00503369",
+  "slug": "thuoc/invel-mega-bliss-gvs-pharma-hop-2-vi-x-7-vien-37663.html",
+  "title": "Thuốc Invel Mega điều trị viêm âm đạo do nấm, vi khuẩn hoặc trichomonas (2 vỉ x 7 viên)",
+  "short_title": "INVEL MEGA 2X7",
+  "brand": {
+    "name": "MEGA We care",
+    "slug": "thuong-hieu/mega-we-care",
+    "country": "Thái Lan"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-dat-am-dao",
+    "name": "Thuốc đặt âm đạo",
+    "parent_slug": "thuoc/thuoc-tiet-nieu-sinh-duc"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 2 Vỉ x 7 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_01349_98e1739656.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_01349_98e1739656.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_01343_e2c5325d0c.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_01344_abc7885394.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_01345_4b283460f3.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_01346_973a14f301.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_01347_f0c418dc5c.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_01348_51a0bd58b0.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_01350_ec9ab26d49.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_01351_9907d35b7b.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/invel_1_e229da4a81.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/invel_2_ce675de09f.jpg"
+  ],
+  "origin_label": "Thái Lan",
+  "country": "Thái Lan",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên đặt",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Invel là sản phẩm của Bliss, có thành phần chính là Metronidazol, Miconazol nitrat. Đây là thuốc được sử dụng để điều trị bệnh nấm candida âm đạo, viêm âm đạo do vi khuẩn và trichomonas, hoặc viêm âm đạo do các nhiễm trùng phối hợp.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc Invel được chỉ định dùng trong các trường hợp sau:</p><ul><li dir=\"ltr\">Điều trị bệnh nấm candida âm đạo, viêm âm đạo do vi khuẩn và trichomonas, hoặc viêm âm đạo do các nhiễm trùng phối hợp.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 52561,
+      "ingredientId": 27534,
+      "shortDescription": "500mg",
+      "name": "Metronidazol",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 52562,
+      "ingredientId": 27596,
+      "shortDescription": "100mg",
+      "name": "Miconazol nitrat",
+      "isPrimary": false,
+      "slug": "thanh-phan/miconazol-nitrat"
+    }
+  ],
+  "stock_qty": 0
+}

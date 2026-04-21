@@ -1,0 +1,60 @@
+{
+  "id": "00502301",
+  "slug": "thuoc/atinalox-an-thien-20-goi-x-15g-36535.html",
+  "title": "Hỗn dịch uống AtiNalox 15g An Thiên điều trị viêm loét dạ dày - tá tràng cấp, mạn tính (20 gói)",
+  "short_title": "ATINALOX AN THIÊN 20 GÓI X 15G",
+  "brand": {
+    "name": "An Thiên",
+    "slug": "thuong-hieu/an-thien",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/he-tieu-hoa-and-gan-mat/thuoc-khang-acid-chong-trao-nguoc-and-chong-loet",
+    "name": "Thuốc kháng acid, chống trào ngược & chống loét",
+    "parent_slug": "thuoc/he-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 7000,
+  "compare_at_amount": 0,
+  "unit": "Gói",
+  "pack_note": "20 Gói x 15g",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00502301_b614bd7e9b.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00502301_b614bd7e9b.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Hỗn dịch",
+  "trust_label": null,
+  "short_description": "<p>Thuốc AtiNalox là sản phẩm của Công ty Cổ phần Dược phẩm An Thiên dạng hỗn dịch uống chứa hoạt chất Simethicone, Aluminium hydroxide, Magnesium hydroxide dùng trong điều trị viêm loét dạ dày - tá tràng cấp, mạn tính.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc AtiNalox chỉ định điều trị trong các trường hợp sau:</p><ul><li>Viêm loét dạ dày - tá tràng, cấp và mạn tính.</li><li>Làm dịu các triệu chứng do tăng acid dạ dày (chứng ợ nóng, ợ chua, đầy bụng, khó tiêu do tăng acid).</li><li>Điều trị triệu chứng trào ngược dạ dày - thực quản.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 38874,
+      "ingredientId": 36074,
+      "shortDescription": "80mg",
+      "name": "Simethicone",
+      "isPrimary": false,
+      "slug": "thanh-phan/simethicone"
+    },
+    {
+      "id": 38875,
+      "ingredientId": 8590,
+      "shortDescription": "612mg",
+      "name": "Aluminium hydroxide",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 38876,
+      "ingredientId": 26346,
+      "shortDescription": "800.4mg",
+      "name": "Magnesium hydroxide",
+      "isPrimary": false,
+      "slug": "thanh-phan/magnesium-hydroxide"
+    }
+  ],
+  "stock_qty": 0
+}

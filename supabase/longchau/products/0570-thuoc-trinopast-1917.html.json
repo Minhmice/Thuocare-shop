@@ -1,0 +1,45 @@
+{
+  "id": "00007546",
+  "slug": "thuoc/trinopast-1917.html",
+  "title": "Thuốc Trinopast 75 OPV chống động kinh (2 vỉ x 7 viên)",
+  "short_title": "TRINOPAST 75 OPV 2X7",
+  "brand": {
+    "name": "Opv",
+    "slug": "thuong-hieu/opv",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-than-kinh/thuoc-than-kinh",
+    "name": "Thuốc thần kinh",
+    "parent_slug": "thuoc/thuoc-than-kinh"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "7 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007546_trinopast_1947_5c17_large_d6ba5618ce.JPG",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007546_trinopast_1947_5c17_large_d6ba5618ce.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007546_trinopast_9291_5b27_large_bf94fb7c54.JPG"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang cứng",
+  "trust_label": null,
+  "short_description": "<p><strong>Trinopast</strong> là sản phẩm của <i>Công ty Dược phẩm OPV</i>, có thành phần chính là <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/pregabalin\"><strong>pregabalin</strong></a>, là thuốc hướng tâm thần.</p><p>Trinopast được bào chế dưới dạng viên nang cứng. Quy cách đóng gói gồm hộp 2 vỉ x 7 viên nang cứng.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p><strong>Thuốc Trinopast</strong> được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Ðiều trị các <strong><a href=\"https://nhathuoclongchau.com.vn/benh/dong-kinh-621.html\">cơn động kinh</a></strong> cục bộ kèm hoặc không kèm toàn thể hóa thứ phát.</li>\n\t<li>Hỗ trợ điều trị các chứng <strong><a href=\"https://nhathuoclongchau.com.vn/bai-viet/roi-loan-lo-au-lan-toa-nguyen-nhan-trieu-chung-va-cach-phong-ngua-50873.html\">rối loạn lo âu lan tỏa</a></strong>, đau thần kinh và các chứng đau cơ xơ hóa.</li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p><em>Pregabalin</em> gắn vào tiểu đơn vị alpha2 - delta của kênh dẫn truyền canxi phụ thuộc điện thế ở hệ thần kinh trung ương. Pregabalin làm giảm sự phóng thích các chất dẫn truyền thần kinh như glutamat, noradrenalin...</p>\n\n<p>Pregabalin làm tăng nồng độ acid gamma-aminobutyric (GABA) ở tế bào thần kinh nhờ gia tăng hoạt động của men acid glutamic decarboxylase phụ thuộc liều dùng. Acid glutamic decarboxylase làm một men giúp chuyển đổi chất dẫn truyền thần kinh giai đoạn kích thích glutamat thành GABA ức chế. Do vậy, pregabalin có hoạt động mạnh hơn benzodiazepin, barbiturat và những thuốc trầm cảm khác.</p>\n\n<h3>Dược động học</h3>\n\n<p>Pregabalin được hấp thu nhanh chóng sau khi uống và nồng độ đỉnh huyết tương đạt được trong vòng 1,5 giờ. Sinh khả dụng đường uống đạt 90%. Tình trạng đều và ổn định của thuốc trong cơ thể đạt được sau từ 1 đến 2 ngày.</p>\n\n<p>Pregabalin không liên kết với các protein huyết tương và chuyển hóa không đáng kể. Khoảng 98% thuốc bài tiết ra ngoài qua nước tiểu dưới dạng các chất không biến đổi. Thời gian bán thải trung bình là 6,3 giờ.</p>",
+  "ingredients_html": [
+    {
+      "id": 23619,
+      "ingredientId": 33412,
+      "shortDescription": "75mg",
+      "name": "Pregabalin",
+      "isPrimary": false,
+      "slug": "thanh-phan/pregabalin"
+    }
+  ],
+  "stock_qty": 0
+}

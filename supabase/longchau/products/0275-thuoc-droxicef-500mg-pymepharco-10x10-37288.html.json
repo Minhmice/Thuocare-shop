@@ -1,0 +1,44 @@
+{
+  "id": "00502985",
+  "slug": "thuoc/droxicef-500mg-pymepharco-10x10-37288.html",
+  "title": "Thuốc Droxicef 500mg Pymepharco điều trị nhiễm khuẩn đường tiết niệu, đường hô hấp (10 vỉ x 10 viên)",
+  "short_title": "DROXICEF 500MG PYMEPHARCO 10X10",
+  "brand": {
+    "name": "Pymepharco",
+    "slug": "thuong-hieu/pymepharco",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-khang-sinh-khang-nam/thuoc-khang-sinh",
+    "name": "Thuốc kháng sinh",
+    "parent_slug": "thuoc/thuoc-khang-sinh-khang-nam"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DROXICEF_500mg_Hop_10_vi_x_10_Vien_nang_nang_tim_xam_a5b1fe62a3.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DROXICEF_500mg_Hop_10_vi_x_10_Vien_nang_nang_tim_xam_a5b1fe62a3.png"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang cứng",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Droxicef 500 là sản phẩm của Công ty Cổ phần Pymepharco chứa hoạt chất Cefadroxil. Đây là thuốc điều trị nhiễm khuẩn đường tiết niệu, đường hô hấp, da và mô mềm, viêm xương tủy, viêm khớp nhiễm khuẩn.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Droxicef 500 chỉ định điều trị trong các trường hợp sau:</p><ul><li>Nhiễm khuẩn đường tiết niệu: Viêm thận - bể thận cấp và mạn tính, viêm bàng quang, viêm niệu đạo.</li><li>Nhiễm khuẩn đường hô hấp: Viêm amiđan, viêm họng, viêm phế quản - phổi và viêm phổi thùy, viêm phế quản cấp và mạn tính, áp ze phổi, viêm mủ màng phối, viêm màng phối, viêm thanh quản, viêm tai giữa.</li><li>Nhiễm khuẩn da và mô mềm: Viêm hạch bạch huyết, áp xe, viêm tế bào, loét.</li><li>Viêm xương tủy, viêm khớp nhiễm khuẩn.</li></ul><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 43329,
+      "ingredientId": 13530,
+      "shortDescription": "500mg",
+      "name": "Cefadroxil",
+      "isPrimary": false,
+      "slug": "thanh-phan/cefadroxil"
+    }
+  ],
+  "stock_qty": 0
+}

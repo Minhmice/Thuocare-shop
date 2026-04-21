@@ -1,0 +1,49 @@
+{
+  "id": "00007135",
+  "slug": "thuoc/tadalafil-stada-10-mg-2089.html",
+  "title": "Thuốc Tadalafil Stella 10mg điều trị rối loạn cương dương (1 vỉ x 2 viên)",
+  "short_title": "TADALAFIL 10MG STELLA 1X2",
+  "brand": {
+    "name": "Stella Pharm",
+    "slug": "thuong-hieu/stella-pharm",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-tri-roi-loan-cuong-duong",
+    "name": "Thuốc trị rối loạn cương dương",
+    "parent_slug": "thuoc/thuoc-tiet-nieu-sinh-duc"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "2 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007135_tadalafil_stada_10_mg_5117_61d8_large_91e67e3956.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007135_tadalafil_stada_10_mg_5117_61d8_large_91e67e3956.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007135_tadalafil_stada_10_mg_1619528421_8ea1921b55.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007135_tadalafil_stada_10_mg_4271_61d8_large_bb12f3518e.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007135_tadalafil_stada_10_mg_7878_61d8_large_8bc654f47a.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007135_tadalafil_stada_10_mg_3902_61d8_large_1620e1a745.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007135_tadalafil_stada_10_mg_4578_61d8_large_1dcc0acb2d.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p><strong>Thuốc Tadalafil Stella 10mg</strong> là thuốc của <i>Stella Pharm, </i>thuốc có thành phần chính là Tadalafil. Thuốc được sử dụng để điều trị <a href=\"https://nhathuoclongchau.com.vn/benh/roi-loan-cuong-duong-494.html\"><strong>rối loạn cương dương</strong></a>.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3><p><strong>Thuốc Tadalafil Stella 10mg</strong> được chỉ định dùng trong các trường hợp điều trị rối loạn cương dương. Thuốc chỉ có tác dụng khi có sự kích thích tình dục.&nbsp;</p><h3><strong>Dược lực học</strong></h3><p><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/tadalafil\"><strong>Tadalafil</strong></a> là chất ức chế chọn lọc, có phục hồi của guanosin monophosphat vòng (cGMP) - đặc biệt là phosphodiesterase týp 5 (PDE5). Khi kích thích tình dục dẫn đến phóng thích nitric oxyd tại chỗ, sự ức chế PDE5 của Tadalafil làm tăng nồng độ cGMP trong thể hang.</p><p>Kết quả làm giãn cơ trơn và tăng dòng máu vào các mô dương vật, từ đó gây cương dương vật.</p><p>Khi không có kích thích tình dục, Tadalafil không có tác dụng.&nbsp;</p><h3><strong>Dược động học</strong></h3><p>Tadalafil hấp thu tốt sau khi uống. Nồng độ đỉnh trong huyết tương đạt được trong vòng 2 giờ, tốc độ và mức độ hấp thu không bị ảnh&nbsp;hưởng bởi thức ăn.&nbsp;</p><p>Tadalafil được phân bố rộng vào các mô và khoảng 94% gắn kết với protein huyết tương. Thuốc được chuyển hóa chủ yếu ở gan bởi cytochrom P450 isoenzym CYP3A4. Chất chuyển hóa chính là methylcatechol glucuronid không có hoạt tính. Thời gian bán thải trung bình của tadalafil khoảng 17,5 giờ.</p><p>Tadalafil được đào thải chủ yếu dưới dạng chất chuyển hóa qua phân (61% liều sử dụng) và lượng ít hơn qua nước tiểu (36% liều sử dụng). Độ thanh thải giảm ở người lớn tuổi và bệnh nhân suy thận.</p>",
+  "ingredients_html": [
+    {
+      "id": 23439,
+      "ingredientId": 37349,
+      "shortDescription": "10mg",
+      "name": "Tadalafil",
+      "isPrimary": false,
+      "slug": "thanh-phan/tadalafil"
+    }
+  ],
+  "stock_qty": 0
+}

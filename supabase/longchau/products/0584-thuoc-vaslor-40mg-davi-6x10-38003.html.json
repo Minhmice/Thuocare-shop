@@ -1,0 +1,44 @@
+{
+  "id": "00503691",
+  "slug": "thuoc/vaslor-40mg-davi-6x10-38003.html",
+  "title": "Thuốc Vaslor-40 Davipharm hỗ trợ cho chế độ ăn kiêng điều trị cao cholesterol máu nguyên phát (6 vỉ x 10 viên)",
+  "short_title": "VASLOR 40MG DAVI 6X10",
+  "brand": {
+    "name": "Davipharm",
+    "slug": "thuong-hieu/davipharm",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap",
+    "name": "Thuốc tim mạch huyết áp",
+    "parent_slug": "thuoc/thuoc-tim-mach-and-mau"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/image_1024_6c096c7d18.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/image_1024_6c096c7d18.png"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Vaslor-40 là sản phẩm của Davipharm, có thành phần chính là Atorvastatin. Đây là thuốc được sử dụng trong các trường hợp sau đây để hỗ trợ cho chế độ ăn kiêng điều trị cao cholesterol máu nguyên phát, cao cholesterol máu do di truyền đồng hợp tử hoặc cao lipid máu hỗn hợp; điều trị rối loạn betalipoprotein máu nguyên phát; dự phòng bệnh tim mạch, làm giảm nguy cơ nhồi máu cơ tim ở người lớn bị cao huyết áp; giảm cholesterol toàn phần, cholesterol trọng lượng phân tử thấp và giảm mức độ apo ở trẻ em từ 10 tuổi trở lên.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc Vaslor-40 được chỉ định dùng trong các trường hợp sau:</p><ul><li>Atorvastatin được chỉ định dùng hỗ trợ với chế độ ăn kiêng để làm giảm cholesterol toàn phần, LDL-cholesterol, apolipoprotein B và triglycerid ở các bệnh nhân cao cholesterol máu nguyên phát, cao cholesterol máu do di truyền đồng hợp tử hoặc cao lipid máu hỗn hợp.</li><li>Atorvastatin được chỉ định dùng hỗ trợ chế độ ăn kiêng để điều trị những bệnh nhân bị cao triglycerid huyết thanh. Atorvastatin được chỉ định để điều trị các bệnh nhân bị rối loạn betalipoprotein máu nguyên phát mà không có đáp ứng đầy đủ với chế độ ăn kiêng.</li><li>Dự phòng bệnh tim mạch: Làm giảm nguy cơ nhồi máu cơ tim ở người lớn bị cao huyết áp không có bệnh động mạch vành lâm sàng, nhưng có tối thiểu 3 nguy cơ của bệnh động mạch vành như tuổi trên 55, đàn ông, hút thuốc lá, đái tháo đường typ 2, phì đại thất trái, có các bất thường đặc hiệu trên điện tâm đồ, protein niệu, tỷ lệ của cholesterol toàn phần trong huyết tương so với cholesterol có trọng lượng phân tử cao ≥ 6, hoặc gia đình có tiền sử bị bệnh động mạch vành trước tuổi trưởng thành.</li><li>Bệnh nhi (10 - 17 tuổi): Dùng hỗ trợ với chế độ ăn kiêng để làm giảm cholesterol toàn phần, cholesterol trọng lượng phân tử thấp và giảm mức độ apo. B ở các trẻ trai và gái đã có kinh lần đầu, 10 - 17 tuổi, có bệnh cao cholesterol máu di truyền dị hợp tử, liều sau khi đã thử nghiệm đầy đủ điều trị bằng chế độ ăn kiêng mà kết quả xét nghiệm như sau: LDL-C duy trì ≥ 190 mg/dL; hoặc LDL-C duy trì ≥ 160 mg/dL và tiền sử gia đình bị bệnh tim mạch trước tuổi trưởng thành, hoặc có ít nhất 2 yếu tố nguy cơ bệnh tim mạch ở bệnh nhi.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 49903,
+      "ingredientId": 9727,
+      "shortDescription": "40mg",
+      "name": "Atorvastatin",
+      "isPrimary": false,
+      "slug": "thanh-phan/atorvastatin"
+    }
+  ],
+  "stock_qty": 0
+}

@@ -1,0 +1,52 @@
+{
+  "id": "00009808",
+  "slug": "thuoc/dalfusin-75-1480.html",
+  "title": "Thuốc Dalfusin 75 Celogen điều trị đau thần kinh, hỗ trợ điều trị động kinh (3 vỉ x 10 viên)",
+  "short_title": "DALFUSIN 75 3X10",
+  "brand": {
+    "name": "Celogen Pharma",
+    "slug": "thuong-hieu/celogen-pharma",
+    "country": "Ấn Độ"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-than-kinh/thuoc-than-kinh",
+    "name": "Thuốc thần kinh",
+    "parent_slug": "thuoc/thuoc-than-kinh"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00009808_dalfusin_75_2101_6425_large_38bab13b55.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00009808_dalfusin_75_2101_6425_large_38bab13b55.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00009808_dalfusin_75_1680159688_b7cb4c553f.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00009808_dalfusin_75_7957_6425_large_b481918385.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00009808_dalfusin_75_3198_6425_large_ba1f386d82.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00009808_dalfusin_75_8041_6425_large_1af7fd4367.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00009808_dalfusin_75_3235_6425_large_28fb9582c1.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00009808_dalfusin_75_4060_6425_large_529efd601a.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00009808_dalfusin_75_7318_6425_large_ae1a04d3c8.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00009808_dalfusin_75_1661_6425_large_e4d69fa492.jpg"
+  ],
+  "origin_label": "Ấn Độ",
+  "country": "Ấn Độ",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang cứng",
+  "trust_label": null,
+  "short_description": "<p>Dalfusin 75 của nhà sản xuất Celogen (India), thành phần chính pregabalin. Đây là thuốc dùng để điều trị đau thần kinh có liên quan tới biến chứng thần kinh ngoại biên ở bệnh nhân đái tháo đường. Điều trị đau thần kinh sau zona. Liệu pháp bổ trợ cho bệnh nhân người lớn có cơn động kinh khởi phát một phần. Điều trị đau xơ cơ. Điều trị đau thần kinh liên quan tới chấn thương tủy sống.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p>Dalfusin 75 được dùng trong các trường hợp:</p>\n\n<ul>\n\t<li>Đau thần kinh ở người lớn.</li>\n\t<li>Hỗ trợ điều trị bệnh động kinh một phần có hoặc không có bệnh động kinh toàn phần thứ phát, ở bệnh nhân trên 12 tuổi.</li>\n</ul>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Pregabalin là một dẫn xuất cấu trúc của chất dẫn truyền thần kinh ức chế acid gamma - aminobutyric (GABA), tuy nhiên, nó không trực tiếp liên kết với thụ thể GABA. Pregabalin tác động vào tiểu đơn vị α2-δ ở tiền synap trên các kênh calci phụ thuộc điện thế, có tác dụng điều hòa theo hướng ức chế tính dễ kích thích của nơ ron thần kinh. Pregabalin có tác dụng mạnh hơn 6 lần so với gabapentin.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Pregabalin đạt nồng độ đỉnh sau 1,5 giờ với sinh khả dụng hơn 90% và không phụ thuộc vào liều dùng. Có thể dùng kèm pregabalin với thức ăn vì thức ăn không làm giảm sự hấp thu tổng cộng pregabalin. Tuy nhiên, thức ăn có thể làm giảm nồng độ đỉnh huyết tương xuống 25 - 30% và kéo dài nồng độ đỉnh huyết tương trong khoảng 3 giờ.</p>\n\n<p>Pregabalin không gắn kết với protein huyết tương và được thải trừ chủ yếu qua thận dưới dạng thuốc không thay đổi.</p>\n\n<p>Thời gian bán hủy của pregabalin là khoảng 6,3 giờ.</p>\n\n<p>Việc thải trừ pregabalin gần như tỉ lệ thuận với độ thanh thải creatinin, do đó, điều chỉnh liều với bệnh nhân suy thận là cần thiết.</p>",
+  "ingredients_html": [
+    {
+      "id": 24153,
+      "ingredientId": 33412,
+      "shortDescription": "75mg",
+      "name": "Pregabalin",
+      "isPrimary": false,
+      "slug": "thanh-phan/pregabalin"
+    }
+  ],
+  "stock_qty": 0
+}

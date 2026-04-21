@@ -1,0 +1,44 @@
+{
+  "id": "00039069",
+  "slug": "thuoc/bigiko-80-brv-3-x10.html",
+  "title": "Thuốc Bigiko 80 BRV điều trị thiểu năng tuần hoàn não (3 vỉ x 10 viên)",
+  "short_title": "BIGIKO 80MG BRV 3X10",
+  "brand": {
+    "name": "Brv",
+    "slug": "thuong-hieu/brv",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tang-cuong-tuan-hoan-nao",
+    "name": "Thuốc tăng cường tuần hoàn não",
+    "parent_slug": "thuoc/thuoc-tim-mach-and-mau"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00039069_cb667cf094.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00039069_cb667cf094.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Bigiko 80 là sản phẩm của Công ty Cổ phần BV Pharma, có thành phần chính là Cao bạch quả. Đây là thuốc được sử dụng để điều trị thiểu năng tuần hoàn não; các triệu chứng suy giảm trí năng ở người lớn tuổi; các triệu chứng đau cách hồi của bệnh tắc động mạch chi dưới mãn tính; hội chứng chóng mặt, ù tai, giảm thính lực do thiếu máu cục bộ; một số trường hợp thiếu máu võng mạc như bệnh lý võng mạc do đái tháo đường, thoái hóa điểm vàng; cải thiện hội chứng Raynaud.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Bigiko 80 được chỉ định dùng trong các trường hợp sau:</p><ul><li>Thiểu năng tuần hoàn não.</li><li>Các triệu chứng suy giảm trí năng ở người lớn tuổi (giúp cải thiện trí nhớ, tăng chức năng nhận thức,...).</li><li>Các triệu chứng đau cách hồi của bệnh tắc động mạch chi dưới mãn tính.</li><li>Hội chứng chóng mặt, ù tai, giảm thính lực do thiếu máu cục bộ.</li><li>Một số trường hợp thiếu máu võng mạc như bệnh lý võng mạc do đái tháo đường, thoái hóa điểm vàng.</li><li>Cải thiện hội chứng Raynaud.</li></ul><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 55531,
+      "ingredientId": 12642,
+      "shortDescription": "80mg",
+      "name": "Cao bạch quả",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

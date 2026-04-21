@@ -1,0 +1,44 @@
+{
+  "id": "00503119",
+  "slug": "thuoc/neupencap-300mg-danapha-3x10-37416.html",
+  "title": "Thuốc Neupencap 300mg Danapha điều trị đau do viêm dây thần kinh ngoại biên (3 vỉ x 10 viên)",
+  "short_title": "NEUPENCAP 300MG DANAPHA 3X10",
+  "brand": {
+    "name": "Danapha",
+    "slug": "thuong-hieu/danapha",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-than-kinh/thuoc-an-than",
+    "name": "Thuốc an thần",
+    "parent_slug": "thuoc/thuoc-than-kinh"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/26_1e332d3677.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/26_1e332d3677.png"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang cứng",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Neupencap là sản phẩm của Công ty Cổ phần dược Danapha chứa hoạt chất Gabapentin dùng trong hỗ trợ trong động kinh cục bộ, điều trị đau do viêm các dây thần kinh ngoại biên ở người lớn.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Neupencap chỉ định điều trị trong các trường hợp sau:</p><ul><li>Điều trị hỗ trợ trong động kinh cục bộ ở người lớn và trẻ em trên 3 tuổi.</li><li>Điều trị đau do viêm các dây thần kinh ngoại biên ở người lớn.</li></ul><h3>Dược lực học</h3><p>Gabapentin là thuốc chống động kinh. Trên súc vật thực nghiệm, thuốc có tác dụng chống cơn duỗi cứng các chi sau khi làm sốc điện và cũng ức chế được cơn co giật do pentylenetetrazol. Hiệu quả ở thí nghiệm trên cũng tương tự như đối với acid valproic nhưng khác với phenytoin và carbamazepin. Cấu trúc hóa học của gabapentin tương tự chất ức chế dẫn truyền thần kinh là GABA, nhưng gabapentin không tác động trực tiếp lên các thụ thể GABA, không làm thay đổi cấu trúc, giải phóng, chuyển hóa và thu hồi GABA.</p><h3>Dược động học</h3><p>Gạbapentin hấp thu qua đường tiêu hóa qua cơ chế bão hòa (khi liều tăng, sinh khả dụng lại giảm). Thuốc đạt nồng độ đỉnh trong huyết tương sau khi uong 2 giờ và đạt nồng độ ổn định sau 1 -2 ngày. Nồng độ huyết thanh có hiệu quả của thuốc chưa được xác định. Trong một số nghiên cứu, số lần co giật chỉ thay giảm ở những người có nồng độ huyết thanh gabapentin trên 2 mg/lít (11,7 micromol/lít). Nồng độ huyết tương của gabapentin nói chúng nằm trong phạm vi từ 2 mg/lít tới 20 mg/lít.</p><p>Sinh khả dụng khoảng 60% khi dùng với liều 1,8 g/24 giờ và không tương ứng với liều dùng, thậm chí khi liều tăng trên 1,8 g/24 giờ thì sinh khả dụng lại giảm (sinh khả dụng khoảng 35% khi dùng với liều 4,8 g/24 giờ). Thức ăn ít ảnh hưởng đến tốc độ và mức độ hấp thu.</p><p>Ở người bệnh cao tuổi và người bệnh suy giảm chức năng thận, độ thanh thải gabapentin huyết tương bị giảm. Gabapentin có thể bị loại khỏi huyết tương bằng thẩm phân máu, vì vậy cần điều chỉnh liều đối với những người bệnh này.</p><p>Gạbapentin phan bố khắp cơ thể, vào được sữa mẹ, liên kết với protein huyết tương rất thấp (&lt;3%). Thể tích phân bố của thuốc là 58 ± 6 lít ở người lớn.</p><p>Gabapentin hầu như không chuyển hóa trong cơ thể và thải trừ chủ yếu qua thận dưới dạng không đổi. Nửa đời cua gabapentin khoảng 5 giờ đến 7 giờ ở người có chức năng thận bình thường.</p>",
+  "ingredients_html": [
+    {
+      "id": 44097,
+      "ingredientId": 20846,
+      "shortDescription": "300mg",
+      "name": "Gabapentin",
+      "isPrimary": false,
+      "slug": "thanh-phan/gabapentin"
+    }
+  ],
+  "stock_qty": 0
+}

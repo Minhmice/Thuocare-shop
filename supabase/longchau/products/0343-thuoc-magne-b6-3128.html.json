@@ -1,0 +1,60 @@
+{
+  "id": "00004650",
+  "slug": "thuoc/magne-b6-3128.html",
+  "title": "Dung dịch uống Magne B6 Corbière Sanofi điều trị thiếu hụt magnesi (10 ống x 10ml)",
+  "short_title": "MAGNE B6 CORBIERE SNF 10 ỐNG 10ML",
+  "brand": {
+    "name": "Sanofi",
+    "slug": "thuong-hieu/sanofi",
+    "country": "Pháp"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-bo-and-vitamin/siro-bo",
+    "name": "Siro bổ",
+    "parent_slug": "thuoc/thuoc-bo-and-vitamin"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 10 Ống x 100ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004650_magne_b6_4625_60c1_large_0e9bbdf25d.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004650_magne_b6_4625_60c1_large_0e9bbdf25d.jpg"
+  ],
+  "origin_label": "Pháp",
+  "country": "Pháp",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch uống",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Magne B6 Corbiere ống là một sản phẩm của Công ty Cổ phần Dược phẩm Sanofi-Synthelabo Việt Nam, thuốc được dùng để điều trị các trường hợp thiếu magnesi riêng biệt hay kết hợp.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3><p>Thuốc Magne B6 Corbiere ống được chỉ định dùng trong các trường hợp thiếu magnesi riêng biệt hay kết hợp.</p><h3><strong>Dược lực học</strong></h3><p>Về phương diện sinh lý, magnesi là một ion dương có nhiều trong nội bào. Magnesi làm giảm tính kích thích của nơrôn và sự dẫn truyền nơrôn cơ. Magnesi tham gia vào nhiều phản ứng men. Pyridoxin, là một đồng enzym (đồng diếu tố), tham gia vào nhiều quá trình chuyển hóa.</p><h3><strong>Dược động học</strong></h3><p>Sự hấp thu muối magnesi ở đường tiêu hóa xảy ra qua một cơ chế thụ động, trong số nhiều cơ chế khác nhau, trong đó độ hòa tan của muối có vai trò quyết định.</p><p>Sự hấp thu muối magnesi ở đường tiêu hóa không vượt quá 50%.</p><p>Bài tiết chủ yếu trong nước tiểu.</p>",
+  "ingredients_html": [
+    {
+      "id": 22233,
+      "ingredientId": 26349,
+      "shortDescription": "186mg",
+      "name": "Magnesium lactate",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 22234,
+      "ingredientId": 42319,
+      "shortDescription": "10mg",
+      "name": "Pyridoxin HCl",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 22235,
+      "ingredientId": 26298,
+      "shortDescription": "936mg",
+      "name": "Magnesi pidolat",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

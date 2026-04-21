@@ -1,0 +1,44 @@
+{
+  "id": "00039460",
+  "slug": "thuoc/hyranplus-samchundang-5-ml.html",
+  "title": "Thuốc nhỏ mắt Hyranplus 5ml Samchundang Pharm điều trị loạn biểu mô giác - kết mạc",
+  "short_title": "HYRANPLUS SAMCHUNDANG 5ML",
+  "brand": {
+    "name": "Samchundang Pharm",
+    "slug": "thuong-hieu/samchundang-pharm",
+    "country": "Hàn Quốc"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-mat-tai-mui-hong/thuoc-nho-mat",
+    "name": "Thuốc nhỏ mắt",
+    "parent_slug": "thuoc/thuoc-mat-tai-mui-hong"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp x 5ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/hyranplus_7574c7f60c.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/hyranplus_7574c7f60c.jpg"
+  ],
+  "origin_label": "Hàn Quốc",
+  "country": "Hàn Quốc",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch nhỏ mắt",
+  "trust_label": null,
+  "short_description": "<p>Hyranplus là sản phẩm của Samchundang Pharm Co., Ltd, thành phần chính Natri hyaluronate, là thuốc dùng để điều trị loạn biểu mô giác - kết mạc do các bệnh sau: Các bệnh nội tại như hội chứng Sjogren, hội chứng Steven-Johnson và hội chứng Sicca (mắt khô)...; các bệnh ngoại lai do phẫu thuật, thuốc, chấn thương và mang kính tiếp xúc...</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc Hyranplus được chỉ định dùng trong điều trị loạn biểu mô giác - kết mạc do các bệnh sau:&nbsp;</p><ul><li dir=\"ltr\">Các bệnh nội tại như hội chứng Sjogren, hội chứng Steven-Johnson và hội chứng Sicca (mắt khô)...</li><li dir=\"ltr\">Các bệnh ngoại lai do phẫu thuật, thuốc, chấn thương và mang kính tiếp xúc...</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 56739,
+      "ingredientId": 29261,
+      "shortDescription": "7.5mg",
+      "name": "Natri hyaluronat",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

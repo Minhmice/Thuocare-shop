@@ -1,0 +1,46 @@
+{
+  "id": "00006382",
+  "slug": "thuoc/risenate-70mg-2400.html",
+  "title": "Thuốc Risenate Davipharm điều trị loãng xương ở phụ nữ mãn kinh (1 vỉ x 4 viên)",
+  "short_title": "RISENATE 70 DAVI 1X4",
+  "brand": {
+    "name": "Davipharm",
+    "slug": "thuong-hieu/davipharm",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/co-xuong-khop/thuoc-xuong-khop",
+    "name": "Thuốc xương khớp",
+    "parent_slug": "thuoc/co-xuong-khop"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "4 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006382_6a6287304f.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006382_6a6287304f.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006382_risenate_70mg_1625752022_a606e31f4e.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006382_risenate_70mg_9245_60e7_large_440657b490.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Risenate được sản xuất bởi Công Ty Cổ Phần Dược Phẩm Đạt Vi Phú, chứa thành phần chính là Acid alendronic, được sử dụng điều trị triệu chứng loãng xương ở phụ nữ mãn kinh.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p>Thuốc Risenate được chỉ định dùng trong các trường hợp:</p>\n\n<ul>\n\t<li>Điều trị <a href=\"https://nhathuoclongchau.com.vn/benh/loang-xuong-78.html\">loãng xương</a> ở phụ nữ mãn kinh.</li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p>Alendronat là một thuốc có tác dụng ức chế tiêu xương đặc hiệu. Alendronat tích tụ chọn lọc ở các vị trí tiêu xương đang hoạt động, ức chế sự hoạt động của các hủy cốt bào. </p>\n\n<p>Điều trị bằng alendronat có thể làm tăng đáng kể khối lượng xương ở xương cột sống, cổ xương đùi và mấu chuyển. Tuy nhiên sau 1 - 2 năm điều trị, nếu ngừng liệu pháp alendronat thì không duy trì được sự tăng khối lượng xương. Điều đó chứng tỏ phải liên tục điều trị hàng ngày mới duy trì được hiệu quả chữa bệnh.</p>\n\n<h3>Dược động học</h3>\n\n<p>Hấp thu: So với một liều chuẩn tiêm tĩnh mạch, khả dụng sinh học đường uống trung bình ở phụ nữ là 0,7% với những liều trong phạm vi từ 5 - 40 mg, uống sau 1 đêm nhịn ăn và 2 giờ trước một bữa ăn sáng chuẩn. </p>\n\n<p>Phân bố: Alendronat được phân bố nhất thời ở mô mềm, sau đó phân bố lại vào xương hoặc bài xuất qua nước tiểu. Liên kết với protein trong huyết tương khoảng 78%. </p>\n\n<p>Chuyển hóa và thải trừ: Sau khi tiêm tĩnh mạch liều duy nhất 10 mg, độ thanh thải ở thận là 71 mL/phút. Nửa đời kết thúc của thuốc trên 10 năm, có lẽ là do sự giải phóng alendronat từ xương.</p>",
+  "ingredients_html": [
+    {
+      "id": 23108,
+      "ingredientId": 41522,
+      "shortDescription": "70mg",
+      "name": "Alendronat natri",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

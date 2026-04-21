@@ -1,0 +1,52 @@
+{
+  "id": "00502691",
+  "slug": "thuoc/claminat-250625mg-imexpharm-12-goi-36995.html",
+  "title": "Thuốc Claminat 250/62.5mg Imexpharm điều trị nhiễm khuẩn do các vi khuẩn nhạy cảm (12 gói)",
+  "short_title": "CLAMINAT 250/62.5MG IMEXPHARM 12 GÓI",
+  "brand": {
+    "name": "Imexpharm",
+    "slug": "thuong-hieu/imexpharm",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-khang-sinh-khang-nam/thuoc-khang-sinh",
+    "name": "Thuốc kháng sinh",
+    "parent_slug": "thuoc/thuoc-khang-sinh-khang-nam"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Gói",
+  "pack_note": "12 Gói",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00502691_CLAMINAT_250_62_5_MG_IMEXPHARM_12_GOI_719006f39d.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00502691_CLAMINAT_250_62_5_MG_IMEXPHARM_12_GOI_719006f39d.png"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Cốm pha hỗn dịch uống",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Claminat là sản phẩm của Imexpharm, có thành phần chính là Amoxicilin, ACID CLAVULANIC. Đây là thuốc được sử dụng để điều trị trong thời gian ngắn các trường hợp nhiễm khuẩn do các vi khuẩn nhạy cảm.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc Claminat được chỉ định điều trị trong thời gian ngắn các trường hợp nhiễm khuẩn do các vi khuẩn nhạy cảm gây ra:</p><ul><li>Nhiễm khuẩn nặng đường hô hấp trên như viêm amidan, viêm xoang, viêm tai giữa.</li><li>Nhiễm khuẩn đường hô hấp dưới như viêm phế quản cấp và mạn, viêm phổi - phế quản.</li><li>Nhiễm khuẩn nặng đường tiết niệu - sinh dục như viêm bàng quang, niệu đạo, viêm bể thận (nhiễm khuẩn đường sinh dục nữ).</li><li>Nhiễm khuẩn da và mô mềm như mụn nhọt, áp xe, nhiễm khuẩn vết thương.</li><li>Nhiễm khuẩn xương và khớp như viêm tủy xương.</li><li>Nhiễm khuẩn nha khoa như áp xe ổ răng.</li><li>Một số nhiễm khuẩn khác: Nhiễm khuẩn do nạo phá thai, nhiễm khuẩn máu sản khoa, nhiễm khuẩn trong ổ bụng.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 65995,
+      "ingredientId": 41860,
+      "shortDescription": "250mg",
+      "name": "Amoxicilin",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 65996,
+      "ingredientId": 41413,
+      "shortDescription": "62.5mg",
+      "name": "Acid Clavulanic",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

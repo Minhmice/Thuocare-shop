@@ -1,0 +1,50 @@
+{
+  "id": "00004967",
+  "slug": "thuoc/mirgy-100mg-2990.html",
+  "title": "Viên nang cứng Mirgy 100mg Getz điều trị đau thần kinh, động kinh (1 vỉ x 10 viên)",
+  "short_title": "MIRGY 100 GETZ 1X10",
+  "brand": {
+    "name": "Getz",
+    "slug": "thuong-hieu/getz",
+    "country": "Pakistan"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-than-kinh/thuoc-than-kinh",
+    "name": "Thuốc thần kinh",
+    "parent_slug": "thuoc/thuoc-than-kinh"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_5801_f6ee80f42e.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_5801_f6ee80f42e.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/mirgy_177d9bd576.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_5802_2bf6d8e856.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_5803_daac929009.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_5804_48ec9f8426.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_5806_57c5361c79.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_5807_f242b53888.jpg"
+  ],
+  "origin_label": "Pakistan",
+  "country": "Pakistan",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang cứng",
+  "trust_label": null,
+  "short_description": "<p><strong>Thuốc Mirgy</strong> do <i>Công ty Getz Pharma (PVT) Limited</i> sản xuất, với thành phần chính là <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/gabapentin\"><strong>gabapentin</strong></a>, là thuốc điều trị đau thần kinh, động kinh.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p><strong>Thuốc Mirgy</strong> được chỉ định dùng trong các trường hợp:</p>\n\n<ul>\n\t<li>Điều trị nhiều dạng đau thần kinh ở người trưởng thành bao gồm: Đau thần kinh hậu herpes; bệnh thần kinh đái tháo đường ngoại biên; đau dây thần kinh sinh ba.</li>\n\t<li>Ðiều trị hỗ trợ động kinh cục bộ có hoặc không có cơn toàn thể thứ phát ở bệnh nhân trên 12 tuổi bị động kinh.</li>\n\t<li>Gabapentin còn được chỉ định điều trị hỗ trợ trong điều trị động kinh cục bộ ở bệnh nhi từ 3 - 12 tuổi.</li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p>Gabapentin đã được chứng minh có ái lực tại những vị trí đặc biệt trên mô não như vùng vỏ não mới và vùng đồi thị. Mặc dù cơ chế chính xác của hoạt tính làm dịu thần kinh trung ương và chống co giật của thuốc chưa được hiểu rõ hoàn toàn, có thể cho là thuốc được kích hoạt thông qua các vị trí liên kết peptid (receptor).</p>\n\n<h3>Dược động học</h3>\n\n<p><em>Hấp thu</em></p>\n\n<p>Gabapentin được hấp thu qua đường tiêu hóa bằng cơ chế bão hòa. Sinh khả dụng của gabapentin không tương đương với liều dùng. Sinh khả dụng tuyệt đối của đường uống 300 mg là xấp xỉ 60%. Ở liều 300 mg, 400 mg sinh khả dụng của gabapentin là không thay đổi khi dùng đa liều. Thức ăn không ảnh hưởng lên mức độ và tốc độ dược động học của gabapentin.</p>\n\n<p><em>Phân phối</em></p>\n\n<p>Ít hơn 3% Gabapentin gắn với protein huyết tương. Gabapentin qua được sữa mẹ.</p>\n\n<p><em>Chuyển hóa và thải trừ</em></p>\n\n<p>Gabapentin được thải trừ khỏi hệ thống tuần hoàn thông qua thận dưới dạng không đổi. Thời gian bán thải của gabapentin trong huyết tương không phụ thuộc theo liều và trung bình khoảng từ 5 - 7 giờ. Tỷ lệ đào thải gabapentin là hằng định, độ đào thải ra khỏi huyết tương, độ đào thải qua thận của gabapentin tỷ lệ thuận trực tiếp với độ thanh thải creatinin.</p>",
+  "ingredients_html": [
+    {
+      "id": 22363,
+      "ingredientId": 20846,
+      "shortDescription": "100mg",
+      "name": "Gabapentin",
+      "isPrimary": false,
+      "slug": "thanh-phan/gabapentin"
+    }
+  ],
+  "stock_qty": 0
+}

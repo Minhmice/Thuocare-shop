@@ -1,0 +1,116 @@
+{
+  "id": "00004076",
+  "slug": "thuoc/keamine-105mg-3367.html",
+  "title": "Viên nén Keamine Stella điều trị rối loạn chuyển hóa protein (6 vỉ x 10 viên)",
+  "short_title": "KEAMINE STELLA 6X10",
+  "brand": {
+    "name": "Stella Pharm",
+    "slug": "thuong-hieu/stella-pharm",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-tri-benh-than",
+    "name": "Thuốc trị bệnh thận",
+    "parent_slug": "thuoc/thuoc-tiet-nieu-sinh-duc"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/keamin_a828f108e5.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/keamin_a828f108e5.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Keamine là sản phẩm của Stella Pharm giúp ngăn ngừa và điều trị bệnh do rối loạn hay suy giảm cơ chế chuyển hóa protein ở người suy thận mạn tính, khi lượng protein trong chế độ ăn bị hạn chế ở mức dưới 40g/ngày (ở người lớn). Thường chỉ định cho các bệnh nhân có mức lọc cầu thận (GFR) &lt; 25mL/phút.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p>Thuốc Keamine 105mg được chỉ định dùng trong các trường hợp sau:</p>\n\n<p>Ngăn ngừa và điều trị bệnh do rối loạn hay suy giảm cơ chế chuyển hóa protein ở người <a href=\"https://nhathuoclongchau.com.vn/benh/suy-than-man-361.html\">suy thận mạn tính</a>, khi lượng protein trong chế độ ăn bị hạn chế ở mức dưới 40g/ngày (ở người lớn). Thường chỉ định cho các bệnh nhân có mức lọc cầu thận (GFR) &lt; 25mL/phút.</p>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Việc sử dụng Keamine 105mg cho phép đưa vào các acid amin thiết yếu trong khi vẫn đảm bảo hạn chế đưa vào các acid amin có nitơ. Sau khi ăn, các đồng đẳng keto được chuyển amin bằng cách lấy nitơ từ các acid amin không thiết yếu, do đó làm giảm hình thành urê do các nhóm amin đã được tái sử dụng. Nồng độ các chất độc urê tích lũy trong máu giảm xuống.</p>\n\n<p>Các acid với gốc keto và hydroxy không làm tăng lọc đối với các nephron còn lại. Các chế phẩm bổ sung chứa keto acid có ảnh hưởng tích cực trên tình trạng tăng phosphat huyết do thận và tăng năng tuyến cận giáp thứ phát và có thể cải thiện chứng <a href=\"https://nhathuoclongchau.com.vn/benh/loang-xuong-78.html\">loãng xương</a> do thận. Dùng Keamine 105mg kết hợp với chế độ ăn rất ít protein cho phép làm giảm việc đưa nitơ vào cơ thể đồng thời tránh hậu quả xấu của chế độ ăn không đủ protein và tình trạng suy dinh dưỡng.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Động học của các acid amin trong huyết tương và sự tích hợp của chúng trong các con đường chuyển hóa được xác định rõ ràng. Tuy nhiên cần lưu ý rằng, ở những bệnh nhân bị urê huyết, các rối loạn trong huyết tương không được coi là phụ thuộc vào việc đưa các acid amin vào cơ thể và động học sau hấp thu dường như bị rối loạn ở giai đoạn rất sớm trong sự tiến triển của bệnh. Ở những người bình thường, có sự gia tăng nồng độ của các đồng đẳng chứa keto trong huyết tương 10 phút sau khi uống.</p>\n\n<p>Nồng độ này đạt đến giá trị cao hơn xấp xỉ 5 lần nồng độ ban đầu. Nồng độ đỉnh đạt được trong vòng 20 - 60 phút và nồng độ bình thường trở lại sau 90 phút. Do đó, sự hấp thu qua đường tiêu hóa rất nhanh chóng.</p>\n\n<p>Trong huyết tương, sự gia tăng đồng thời nồng độ của đồng đẳng chứa keto và acid amin tương ứng cho thấy sự chuyển amin của các đồng đẳng chứa keto rất nhanh. Do con đường phân bố tự nhiên của các α-keto acid trong cơ thể, nên gần như thức ăn được nhanh chóng tham gia vào các chu trình chuyển hóa. Các ketoacid theo các con đường dị hóa giống như các acid amin cổ điển. Cho đến nay chưa thực hiện nghiên cứu chuyên biệt và sự đào thải ketoacid.</p>",
+  "ingredients_html": [
+    {
+      "id": 42076,
+      "ingredientId": 25718,
+      "shortDescription": "105mg",
+      "name": "L-Lysin",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 42077,
+      "ingredientId": 25974,
+      "shortDescription": "53mg",
+      "name": "L-Threonin",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 42078,
+      "ingredientId": 25981,
+      "shortDescription": "23mg",
+      "name": "L-Tryptophanamide",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 42079,
+      "ingredientId": 25495,
+      "shortDescription": "38mg",
+      "name": "L-Histidine",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 42080,
+      "ingredientId": 25986,
+      "shortDescription": "30mg",
+      "name": "L-Tyrosine",
+      "isPrimary": false,
+      "slug": "thanh-phan/l-tyrosine"
+    },
+    {
+      "id": 42081,
+      "ingredientId": 12402,
+      "shortDescription": "68mg",
+      "name": "Calcium-2-oxo-3-phenylpropionic",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 42082,
+      "ingredientId": 12403,
+      "shortDescription": "86mg",
+      "name": "Calcium-3-methyl-2-oxobutyric acid",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 42083,
+      "ingredientId": 12404,
+      "shortDescription": "67mg",
+      "name": "Calcium-3-methyl-2-oxovaleric acid",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 42084,
+      "ingredientId": 12289,
+      "shortDescription": "101mg",
+      "name": "Calci-4-methyl-2-oxo-valerat",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 42085,
+      "ingredientId": 12291,
+      "shortDescription": "59mg",
+      "name": "Calci-DL-2-hydroxy-4-(methylthio) butyrate",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

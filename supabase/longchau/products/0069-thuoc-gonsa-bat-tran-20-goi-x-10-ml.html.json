@@ -1,0 +1,100 @@
+{
+  "id": "00039149",
+  "slug": "thuoc/gonsa-bat-tran-20-goi-x-10-ml.html",
+  "title": "Cao lỏng Gonsa Bát Trân điều trị cơ thể suy nhược (20 gói x 10ml)",
+  "short_title": "GONSA BÁT TRÂN 20 GÓI X 10ML",
+  "brand": {
+    "name": "Gonsa",
+    "slug": "thuong-hieu/gonsa",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+    "name": "Thuốc bổ",
+    "parent_slug": "thuoc/thuoc-bo-and-vitamin"
+  },
+  "price_amount": 7700,
+  "compare_at_amount": 0,
+  "unit": "Gói",
+  "pack_note": "20 Gói x 10ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/21_9007aaf2d4.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/21_9007aaf2d4.png"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Cao lỏng",
+  "trust_label": null,
+  "short_description": "<p>Gonsa Bát Trân có tác dụng bổ khí, dưỡng huyết được dùng trong điều trị cơ thể suy nhược, biểu hiện qua các dấu hiệu: Mệt mỏi, chán ăn, lười nói, hơi thở ngắn, da xanh, chóng mặt hoa mắt, tim đập hồi hộp.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p><a href=\"https://nhathuoclongchau.com.vn/thuoc/gonsa-bat-tran-20-goi-x-10-ml.html\">Gonsa Bát Trân</a> chỉ định điều trị <a href=\"https://nhathuoclongchau.com.vn/benh/suy-nhuoc-co-the-701.html\">cơ thể suy nhược</a>, biểu hiện qua các dấu hiệu: Mệt mỏi, chán ăn, lười nói, hơi thở ngắn, da xanh, chóng mặt hoa mắt, tim đập hồi hộp.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 55726,
+      "ingredientId": 18784,
+      "shortDescription": "0.9g",
+      "name": "Đương quy",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 55727,
+      "ingredientId": 40801,
+      "shortDescription": "0.45g",
+      "name": "Xuyên khung",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 55728,
+      "ingredientId": 38361,
+      "shortDescription": "0.9g",
+      "name": "Thục địa",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 55729,
+      "ingredientId": 10131,
+      "shortDescription": "0.6g",
+      "name": "Bạch thược",
+      "isPrimary": false,
+      "slug": "thanh-phan/bach-thuoc"
+    },
+    {
+      "id": 55730,
+      "ingredientId": 16671,
+      "shortDescription": "0.6g",
+      "name": "Đảng Sâm",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 55731,
+      "ingredientId": 10112,
+      "shortDescription": "0.6g",
+      "name": "Bạch linh",
+      "isPrimary": false,
+      "slug": "thanh-phan/bach-linh"
+    },
+    {
+      "id": 55732,
+      "ingredientId": 10138,
+      "shortDescription": "0.6g",
+      "name": "Bạch truật",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 55733,
+      "ingredientId": 12473,
+      "shortDescription": "0.3g",
+      "name": "Cam thảo",
+      "isPrimary": false,
+      "slug": "thanh-phan/cam-thao"
+    }
+  ],
+  "stock_qty": 0
+}

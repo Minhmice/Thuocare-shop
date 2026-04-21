@@ -1,0 +1,62 @@
+{
+  "id": "00048726",
+  "slug": "thuoc/algostase-500-mg-50-mg-smb-16-v.html",
+  "title": "Thuốc Algostase 500mg/50mg SMB điều trị đau nhẹ đến vừa và hạ sốt (16 viên)",
+  "short_title": "ALGOSTASE 500MG/50MG SMB 16V",
+  "brand": {
+    "name": "SMB Technology S.A",
+    "slug": "thuong-hieu/smb-technology-sa",
+    "country": "Bỉ"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem/thuoc-giam-dau-ha-sot",
+    "name": "Thuốc giảm đau hạ sốt",
+    "parent_slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem"
+  },
+  "price_amount": 4950,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "16 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_04317_89356fcddc.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_04317_89356fcddc.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_04312_0fc9898ce0.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_04313_1cfe48a045.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_04314_5a379842de.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_04315_0d1c05b20f.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_04316_182a31fd7a.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_04318_13efeea981.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_04322_0b01287094.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/algostase_1_17dfabc77b.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/algostase_2_9b86eeca62.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/algostase_3_14c11c5865.jpg"
+  ],
+  "origin_label": "Bỉ",
+  "country": "Bỉ",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén sủi bọt",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Algostase 500mg/50mg chứa paracetamol là một chất hạ sốt, giảm đau và caffeine là một chất tăng cường tác dụng giảm đau của paracetamol. Thuốc có hiệu quả trong điều trị đau nhẹ đến vừa và hạ sốt bao gồm: Đau đầu, đau nửa đầu, đau cơ, đau bụng kinh, đau họng, đau cơ xương, sốt và đau sau khi tiêm vắc xin, đau sau khi nhổ răng hoặc sau các thủ thuật nha khoa, đau răng, đau do viêm xương khớp.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Algostase 500mg/50mg chứa paracetamol là một chất hạ sốt, giảm đau và caffeine là một chất tăng cường tác dụng giảm đau của paracetamol. Thuốc có hiệu quả trong điều trị đau nhẹ đến vừa và hạ sốt bao gồm: Đau đầu, đau nửa đầu, đau cơ, đau bụng kinh, đau họng, đau cơ xương, sốt và đau sau khi tiêm vắc xin, đau sau khi nhổ răng hoặc sau các thủ thuật nha khoa, đau răng, đau do viêm xương khớp.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 70407,
+      "ingredientId": 31537,
+      "shortDescription": "500mg",
+      "name": "Paracetamol",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 70408,
+      "ingredientId": 12241,
+      "shortDescription": "50mg",
+      "name": "Caffeine",
+      "isPrimary": false,
+      "slug": "thanh-phan/caffeine"
+    }
+  ],
+  "stock_qty": 0
+}

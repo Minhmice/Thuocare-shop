@@ -1,0 +1,45 @@
+{
+  "id": "00006396",
+  "slug": "thuoc/rocamux-2390.html",
+  "title": "Thuốc bột uống Rocamux Roussel điều trị viêm phế quản, viêm mũi họng (20 gói x 2g) ",
+  "short_title": "ROCAMUX 20 GÓI",
+  "brand": {
+    "name": "Roussel",
+    "slug": "thuong-hieu/roussel",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-ho-hap/thuoc-tri-ho-cam",
+    "name": "Thuốc trị ho cảm",
+    "parent_slug": "thuoc/thuoc-ho-hap"
+  },
+  "price_amount": 3500,
+  "compare_at_amount": 0,
+  "unit": "Gói",
+  "pack_note": "20 Gói x 2g",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/rocamux_9a6679cf53.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/rocamux_9a6679cf53.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006396_rocamux_1625653057_6aa9def235.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Bột",
+  "trust_label": null,
+  "short_description": "<p><strong>Thuốc Rocamux</strong> của <em>Công ty Roussel - Việt Nam</em>, là thuốc dùng trong các bệnh đường hô hấp như <strong><a href=\"https://nhathuoclongchau.com.vn/bai-viet/viem-phe-quan-co-nguy-hiem-khong-dan-den-bien-chung-nguy-hiem-nao-54143.html\">viêm phế quản</a></strong>, viêm mũi - họng, <strong><a href=\"https://nhathuoclongchau.com.vn/benh/hen-phe-quan-160.html\">hen phế quản</a></strong>, tắc nghẽn đường hô hấp cấp và mạn tính, bào chế dạng thuốc bột uống. Thuốc được đóng thành gói 2 gam trong hộp 20 gói.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p><strong>Thuốc Rocamux</strong> được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Ðiều trị các rối loạn về tiết dịch trong các bệnh đường hô hấp như viêm phế quản, <strong><a href=\"https://nhathuoclongchau.com.vn/benh/viem-mui-472.html\">viêm mũi</a></strong> - họng, hen phế quản, tắc nghẽn đường hô hấp cấp và mạn tính. </li>\n\t<li>Điều trị hỗ trợ trong các bệnh viêm nhiễm đường hô hấp.</li>\n</ul>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Carbocistein - một dẫn xuất của cistein - là 1 chất có tác dụng làm loãng đàm bằng cách cắt đứt cầu nối disulfid của glycoprotein, giảm độ quánh của chất nhầy, làm thay đổi độ đặc của đàm, giúp khạc đàm dễ dàng.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Carbocistein được hấp thu tốt và nhanh chóng khi sử dụng bằng đường uống. Nồng độ đỉnh trong huyết tương đạt được sau 1 - 2 giờ. Thời gian bán hủy trong huyết tương là 1,5 - 2 giờ. Carbocistein thấm tốt qua mô phổi, niêm dịch đường hô hấp, và có tác động tại chỗ. Phần lớn thuốc bài tiết qua nước tiểu dưới dạng không đổi.</p>",
+  "ingredients_html": [
+    {
+      "id": 23113,
+      "ingredientId": 13011,
+      "shortDescription": "250mg",
+      "name": "Carbocisteine",
+      "isPrimary": false,
+      "slug": "thanh-phan/carbocisteine"
+    }
+  ],
+  "stock_qty": 0
+}

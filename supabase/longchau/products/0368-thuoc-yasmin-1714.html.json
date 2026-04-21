@@ -1,0 +1,52 @@
+{
+  "id": "00008162",
+  "slug": "thuoc/yasmin-1714.html",
+  "title": "Thuốc Yasmin Bayer dùng tránh thai (1 vỉ x 21 viên)",
+  "short_title": "YASMIN BAYER 1X21",
+  "brand": {
+    "name": "Bayer",
+    "slug": "thuong-hieu/bayer",
+    "country": "Đức"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-tranh-thai",
+    "name": "Thuốc tránh thai",
+    "parent_slug": "thuoc/thuoc-tiet-nieu-sinh-duc"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 1 Vỉ x 21 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00008162_yasmin_6036_62b5_large_8423edba6a.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00008162_yasmin_6036_62b5_large_8423edba6a.jpg"
+  ],
+  "origin_label": "Đức",
+  "country": "Đức",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Yasmin được sản xuất bởi công ty Bayer, thành phần chính là drospirenone và ethinylestradiol, được chỉ định để tránh thai đường uống.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Yasmin được chỉ định dùng trong các trường hợp sau:</p><ul><li>Tránh thai đường uống.</li></ul><h3>Dược lực học</h3><p>Tác dụng tránh thai của các thuốc uống tránh thai kết hợp dựa trên các tác động qua lại của nhiều yếu tố khác nhau trong đó yếu tố quan trọng nhất chính là sự ức chế rụng trứng và thay đổi của chất bài tiết ở cổ tử cung.</p><h3>Dược động học</h3><p><strong>Drospirenone</strong></p><p><i>Hấp thu:</i></p><p>Sau khi uống, <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/drospirenone\">drospirenone</a> được hấp thu rất nhanh và gần như hoàn toàn.</p><p><i>Phân bố:</i></p><p>Drospirenone có liên kết với albumin trong huyết tương nhưng không có liên kết với globulin gắn kết hormon sinh dục (SHBG) hoặc globulin gắn kết với corticoid (CBG).</p><p><i>Chuyển hoá:</i></p><p>Drospirenone được chuyển hoá hoàn toàn.</p><p><i>Bài tiết:</i></p><p>Thời gian bán thải của các chất chuyển hoá trong nước tiểu và phân vào khoảng 1.7 ngày.</p><p><strong>Ethinylestradiol</strong></p><p><i>Hấp thu:</i></p><p>Ethinylestradiol dùng theo đường uống được hấp thu nhanh chóng và hoàn toàn.</p><p><i>Phân bố:</i></p><p>Ethinylestradiol có tỷ lệ gắn kết cao nhưng không đặc hiệu với các albumin trong huyết tương.</p><p><i>Chuyển hoá</i>:</p><p>Sự kết hợp của ethinylestradiol diễn ra ở cả niêm mạc ruột non và gan.</p><p><i>Bài tiết:</i></p><p>Nồng độ ethinylestradiol trong huyết thanh giảm theo hai giai đoạn và thời gian bán thải tương đương là 1 giờ&nbsp;và từ 10 - 20 giờ.</p>",
+  "ingredients_html": [
+    {
+      "id": 44293,
+      "ingredientId": 19608,
+      "shortDescription": "0.03mg",
+      "name": "Ethinylestradiol",
+      "isPrimary": false,
+      "slug": "thanh-phan/ethinylestradiol"
+    },
+    {
+      "id": 44294,
+      "ingredientId": 18636,
+      "shortDescription": "3mg",
+      "name": "Drospirenone",
+      "isPrimary": false,
+      "slug": "thanh-phan/drospirenone"
+    }
+  ],
+  "stock_qty": 0
+}

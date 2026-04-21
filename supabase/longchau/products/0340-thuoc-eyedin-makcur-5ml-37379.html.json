@@ -1,0 +1,60 @@
+{
+  "id": "00503080",
+  "slug": "thuoc/eyedin-makcur-5ml-37379.html",
+  "title": "Thuốc tra mắt Eyedin Makcur điều trị nhiểm khuẩn mắt (5ml)",
+  "short_title": "EYEDIN MAKCUR 5ML",
+  "brand": {
+    "name": "Makcur",
+    "slug": "thuong-hieu/makcur",
+    "country": "Ấn Độ"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-mat-tai-mui-hong/thuoc-nho-mat",
+    "name": "Thuốc nhỏ mắt",
+    "parent_slug": "thuoc/thuoc-mat-tai-mui-hong"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp x 5ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00503080_eyedin_makcur_5ml_4580_63b6_large_35efb6002f.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00503080_eyedin_makcur_5ml_4580_63b6_large_35efb6002f.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00503080_eyedin_makcur_5ml_1672902610_9a0500f0a5.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00503080_eyedin_makcur_5ml_5229_63b6_large_c5b39b467b.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00503080_eyedin_makcur_5ml_9635_63b6_large_770b1768f8.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00503080_eyedin_makcur_5ml_5441_63b6_large_9c77234edd.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00503080_eyedin_makcur_5ml_1599_63b6_large_d26a056b2e.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00503080_eyedin_makcur_5ml_7650_63b6_large_26f3a02daf.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00503080_eyedin_makcur_5ml_9843_63b6_large_e65f6737f8.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00503080_eyedin_makcur_5ml_6078_63b6_large_f835d18a2c.jpg"
+  ],
+  "origin_label": "Ấn Độ",
+  "country": "Ấn Độ",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch",
+  "trust_label": null,
+  "short_description": "<p>Thuốc tra mắt Eyedin là sản phẩm của Makcur Laboratories có thành phần chính là Tobramycin. Thuốc là một kháng sinh điều trị tại chỗ trong những bệnh nhiễm khuẩn mắt do các vi khuẩn nhạy cảm gây ra viêm mi mắt, viêm giác mạc, viêm kết mạc, viêm túi lệ,...</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p>Thuốc tra mắt Eyedin là một kháng sinh điều trị tại chỗ trong những bệnh nhiễm khuẩn mắt do các vi khuẩn nhạy cảm gây ra viêm mi mắt, viêm giác mạc, viêm kết mạc, viêm túi lệ,...</p>\n\n<p>Khi dùng thuốc nhỏ mắt Tobramycin, nên theo dõi đáp ứng của vi khuẩn đối với liệu pháp kháng sinh tại chỗ. Các nghiên cứu lâm sàng đã cho thấy tobramycin an toàn và hiệu quả khi dùng cho trẻ em.</p>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Những nghiên cứu in vitro cho thấy rằng tobramycin có tác dụng chống lại những chủng vi khuẩn sau đây: Staphylococci, bao gồm S. aureus và S. epidermidis (coagulase dương tính và coagulase âm tính), kể cả những chủng đề kháng với penicillin.</p>\n\n<p>Streptococci, bao gồm một số loài liên cầu tan máu nhóm A, vài chủng không tan máu và một vài chủng Streptococcus pneumoniae.</p>\n\n<p>Pseudomonas aeruginosa, Escherichia coli, Klebsiella pneumoniae, Enterobacter aerogenes, Proteus mirabilis, Morganella. morganii, hầu hết các chúng Proteus vulgaris, Hemophilus influenzae và H.aegyptius, Moraxella lacunata, Acinetobacter calcoaceticus và một vài loại Neisseria.</p>\n\n<p>Những nghiên cứu về tính nhạy cảm của vi khuẩn cho thấy rằng trong một vài trường hợp những vi khuẩn đề kháng với gentamicin vẫn nhạy cảm với tobramycin.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Chưa có số liệu về mức độ hấp thu toàn thân của dung dịch thuốc nhỏ mắt Tobramycin. Tuy nhiên, người ta biết rằng có thể có sự hấp thu toàn thân đối với các thuốc dùng tại chỗ ở mắt.</p>",
+  "ingredients_html": [
+    {
+      "id": 43915,
+      "ingredientId": 10529,
+      "shortDescription": "0.001ml",
+      "name": "Benzalkonium Chloride BP",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 43916,
+      "ingredientId": 38847,
+      "shortDescription": "15mg",
+      "name": "Tobramycin",
+      "isPrimary": false,
+      "slug": "thanh-phan/tobramycin"
+    }
+  ],
+  "stock_qty": 0
+}

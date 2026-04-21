@@ -1,0 +1,49 @@
+{
+  "id": "00033404",
+  "slug": "thuoc/immutes-capsule-80mg-austin-6x10-33513.html",
+  "title": "Thuốc Immutes Capsule 80mg Austin hỗ trợ tăng cường hệ miễn dịch (6 vỉ x 10 viên)",
+  "short_title": "IMMUTES CAPSULE 80MG AUSTIN 6X10",
+  "brand": {
+    "name": "Austin Pharm",
+    "slug": "thuong-hieu/austin-pharm",
+    "country": "Hàn Quốc"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-tang-cuong-suc-de-khang",
+    "name": "Thuốc tăng cường sức đề kháng",
+    "parent_slug": "thuoc/thuoc-bo-and-vitamin"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00033404_immutes_capsule_80mg_austin_6x10_6415_6218_large_e6d645d7c3.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00033404_immutes_capsule_80mg_austin_6x10_6415_6218_large_e6d645d7c3.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00033404_immutes_capsule_80mg_austin_6x10_6044_6214_large_ce3df9220a.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00033404_immutes_capsule_80mg_austin_6x10_5272_6214_large_dee5fb5333.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00033404_immutes_capsule_80mg_austin_6x10_4531_6214_large_5d0e33f0ba.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00033404_immutes_capsule_80mg_austin_6x10_4446_6214_large_3397beb91a.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00033404_immutes_capsule_80mg_austin_6x10_4848_6214_large_33ee01c2ac.jpg"
+  ],
+  "origin_label": "Hàn Quốc",
+  "country": "Hàn Quốc",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang cứng",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Immutes Capsule chứa dược chất chính là thymomodulin, được chỉ định để hỗ trợ tăng cường hệ miễn dịch đã bị suy giảm ở người lớn tuổi.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p>Thuốc Immutes Capsule được chỉ định dùng trong các trường hợp hỗ trợ tăng cường hệ miễn dịch đã bị suy giảm ở người lớn tuổi.</p>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p><em>Tác dụng dược lý: </em>Thymomodulin có tác dụng điều hoà miễn dịch trên mô hình thử nghiệm.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Chưa ghi nhận.</p>",
+  "ingredients_html": [
+    {
+      "id": 36647,
+      "ingredientId": 38448,
+      "shortDescription": "80mg",
+      "name": "Thymomodulin",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

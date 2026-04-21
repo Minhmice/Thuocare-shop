@@ -1,0 +1,44 @@
+{
+  "id": "00503121",
+  "slug": "thuoc/colonic-2000-mg-usa-nic-20-ong-x-10-ml.html",
+  "title": "Dung dịch uống Colonic 2000mg USA-NIC Pharma điều trị cho bệnh nhân tăng amoniac máu (20 ống x 10ml)",
+  "short_title": "COLONIC 2000MG USA-NIC 20 ỐNG X 10ML",
+  "brand": {
+    "name": "Usa - Nic Pharma",
+    "slug": "thuong-hieu/usa-nic-pharma",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+    "name": "Thuốc bổ",
+    "parent_slug": "thuoc/thuoc-bo-and-vitamin"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Ống",
+  "pack_note": "20 Ống x 10ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00503121_COLONIC_2000_MG_USA_NIC_20_ONG_X_10_ML_bd08102ef8.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00503121_COLONIC_2000_MG_USA_NIC_20_ONG_X_10_ML_bd08102ef8.png"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch uống",
+  "trust_label": null,
+  "short_description": "<p>Dung dịch uống Colonic là sản phẩm của Công ty TNHH dược phẩm USA - NIC (USA - NIC Pharma) chứa hoạt chất Arginin hydroclorid. Thuốc được dùng điều trị duy trì cho bệnh nhân tăng amoniac máu ở bệnh nhân thiếu carbamylphosphate synthetase, thiếu ornithine carbamyl transferase. Bổ sung dinh dưỡng cho người bị rối loạn chu trình ure như tăng amoniac máu tuýp II, tăng citrulin máu, arginosuccinic niệu và thiếu men N-acetyl glutamate synthetase.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Dung dịch uống Colonic chỉ định điều trị trong các trường hợp sau:</p><ul><li>Điều trị duy trì cho bệnh nhân tăng amoniac máu ở bệnh nhân thiếu carbamylphosphate synthetase, thiếu ornithine carbamyl transferase.</li><li>Điều trị duy trì cho bệnh nhân tăng amoniac máu bị citrulin máu, arginosuccinic niệu.</li><li>Điều trị hỗ trợ các rối loạn khó tiêu.</li><li>Điều trị hỗ trợ nhằm cải thiện khả năng luyện tập ở những người bị bệnh tim mạch ổn định.</li><li>Bổ sung dinh dưỡng cho người bị rối loạn chu trình ure như tăng amoniac máu tuýp II, tăng citrulin máu, arginosuccinic niệu và thiếu men N-acetyl glutamate synthetase.</li></ul><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 44099,
+      "ingredientId": 9425,
+      "shortDescription": "2000mg",
+      "name": "Arginin hydroclorid",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

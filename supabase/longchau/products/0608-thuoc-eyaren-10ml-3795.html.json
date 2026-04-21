@@ -1,0 +1,55 @@
+{
+  "id": "00002961",
+  "slug": "thuoc/eyaren-10ml-3795.html",
+  "title": "Thuốc nhỏ mắt Eyaren Samil điều trị vẩn đục, xuất huyết pha lê thể, đục thủy tinh thể (10ml)",
+  "short_title": "EYAREN SAMIL 10ML",
+  "brand": {
+    "name": "Samil",
+    "slug": "thuong-hieu/samil",
+    "country": "Hàn Quốc"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-mat-tai-mui-hong/thuoc-nho-mat",
+    "name": "Thuốc nhỏ mắt",
+    "parent_slug": "thuoc/thuoc-mat-tai-mui-hong"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Chai",
+  "pack_note": "Chai x 10ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002961_eyaren_10ml_4904_5b30_large_a314465157.JPG",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002961_eyaren_10ml_4904_5b30_large_a314465157.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002961_eyaren_10ml_7106_5b30_large_8757fa8caa.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002961_eyaren_10ml_7755_5b30_large_67793d9083.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002961_eyaren_10ml_8616_5b30_large_088fc0d3c1.JPG"
+  ],
+  "origin_label": "Hàn Quốc",
+  "country": "Hàn Quốc",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch nhỏ mắt",
+  "trust_label": null,
+  "short_description": "<p>Eyaren 10 ml của nhà sản xuất Samil Pharma Co., Ltd - Hàn Quốc, thành phần chính piracetam, là thuốc dùng để trị vẩn đục pha lê thể, xuất huyết pha lê thể do bất cứ nguyên nhân gì (người già, cận thị, tiểu đường, viêm quanh tĩnh mạch), đục thủy tinh thể bắt đầu và tiến triển.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p>Thuốc Eyaren được chỉ định dùng trong các trường hợp sau:</p>\n\n<p>Vẩn đục pha lê thể, xuất huyết pha lê thể do bất cứ nguyên nhân gì (người già, <a href=\"https://nhathuoclongchau.com.vn/benh/can-thi-542.html\">cận thị</a>, <a href=\"https://nhathuoclongchau.com.vn/benh/benh-tieu-duong-289.html\">tiểu đường</a>, viêm quanh tĩnh mạch), <a href=\"https://nhathuoclongchau.com.vn/benh/duc-thuy-tinh-the-546.html\">đục thủy tinh thể</a> bắt đầu và tiến triển.</p>\n\n<h3>Dược lực học</h3>\n\n<p>Iodine là chất rất dễ bị oxi hóa, do đó nó có tác dụng chống oxy hóa ở một số bệnh do hiện tượng oxi hóa gây ra. Tác dụng chống đục thủy tinh thể của Iodide (iodine) được cho là do ảnh hưởng chống oxy hóa trực tiếp hoặc gián tiếp của chất này.</p>\n\n<h3>Dược động học</h3>\n\n<p>Khi dùng theo đường nhỏ mắt, Iodide có thể được hấp thu vào cơ thể, chất này sau đó được dự trữ ở tuyến giáp. Iodide được thải trừ chủ yếu qua nước tiểu, một lượng nhỏ qua nước bọt, mồ hôi, sữa mẹ và phân.</p>",
+  "ingredients_html": [
+    {
+      "id": 21376,
+      "ingredientId": 33259,
+      "shortDescription": "30mg",
+      "name": "Potassium Iodide",
+      "isPrimary": false,
+      "slug": "thanh-phan/potassium-iodide"
+    },
+    {
+      "id": 21377,
+      "ingredientId": 36309,
+      "shortDescription": "30mg",
+      "name": "Sodium iodide",
+      "isPrimary": false,
+      "slug": "thanh-phan/sodium-iodide"
+    }
+  ],
+  "stock_qty": 0
+}

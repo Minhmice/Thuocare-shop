@@ -1,0 +1,52 @@
+{
+  "id": "00033597",
+  "slug": "thuoc/vagsur-100mg-medisun-1x10-33693.html",
+  "title": "Thuốc Vagsur Medisun điều trị nấm âm đạo (1 vỉ x 10 viên)",
+  "short_title": "VAGSUR 100 1X10",
+  "brand": {
+    "name": "Medisun",
+    "slug": "thuong-hieu/medisun",
+    "country": ""
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-dat-am-dao",
+    "name": "Thuốc đặt âm đạo",
+    "parent_slug": "thuoc/thuoc-tiet-nieu-sinh-duc"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00033597_vagsur_100mg_medisun_1x10_1473_6234_large_bf758c8066.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00033597_vagsur_100mg_medisun_1x10_1473_6234_large_bf758c8066.jpg"
+  ],
+  "origin_label": "",
+  "country": "",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang mềm",
+  "trust_label": null,
+  "short_description": "<p>Vagsur là sản phẩm của Công ty Cổ phần Dược phẩm Medisun, thành phần chính là clindamycin và clotrimazol là thuốc trị nấm.</p>\n\n<p>Vagsur được bào chế dưới dạng viên nang mềm, quy cách đóng gói gồm hộp 1 vỉ x 10 viên nang mềm.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p>Thuốc Vagsur được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Ðiều trị tại chỗ các nhiễm trùng âm đạo do nhiễm nấm Candida, viêm nhiễm âm đạo do các chủng vi khuẩn không chuyên biệt, viêm âm hộ.</li>\n\t<li>Ðiều trị hỗ trợ trong xuất tiết âm đạo.</li>\n</ul>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Clotrimazol tác dụng bằng cách phá huỷ hàng rào thấm màng tế bào của nấm. Clotrimazole ức chế sự tổng hợp sinh học của ergosterol, một thành phần thiết yếu cấu tạo nên màng tế bào nấm. Nếu tổng hợp ergosterol hoàn thành hoặc một phần bị ức chế, tế bào không thể tạo thành màng tế bào hoàn chỉnh. Điều này dẫn tới nấm bị chết. </p>\n\n<p>Clindamycin có tác dụng kìm khuẩn. Clindamycin tác dụng đến sự tổng hợp protein của vi khuẩn, tương tự như cách của Erythromycin và Chloramphenicol bằng cách liên kết với phần 50S ribosome của vi khuẩn điều này dẫn đến sự đối kháng nếu chỉ định đồng thời và có thể kháng chéo.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Đặt âm đạo viên Clotrimazol hàm lượng 100mg ở người cho thấy số lượng hấp thu ít hơn 1/200 của lượng hấp thu sau khi chi định đường uống liều 1.5 gam Clotrimazol. Nồng độ tối đa trong huyết thanh là giữa 0.016 và 0.05 microgam/ml từ 1 đến 3 ngày sau khi chỉ định đặt. </p>\n\n<p>Sau một ngày chỉ định đặt âm đạo liều 100mg Clindamycin phosphat ở dạng kem bôi âm đạo nồng độ 2%, chi định cho 6 phụ nữ tình nguyện khoẻ mạnh trong 7 ngày, xấp xỉ 5% (Khoảng từ 0.6% đến 11%) của liều chỉ định đã được hấp thu vào cơ thể. Nồng độ đỉnh Clindamycin trong huyết tương quan sát được ở ngày thứ nhất trung bình 18 ng/ml (khoảng từ 4 đến 47 ng/ml) và trong 7 ngày nồng độ trung bình là 25 ng/ml (khoảng từ 6 đến 61 ng/ml). </p>\n\n<p>Các nồng độ đỉnh này đạt được xấp xỉ 14 giờ sau liều sử dụng (khoảng từ 4 đến 24 giờ). Có rất ít hoặc không có tích luỹ Clindamycin trong cơ thể sau liều lặp lại bôi âm đạo đối với Clindamycin phosphat dạng cream 2% bôi âm đạo. Thời gian bán thải trong cơ thể từ 1.5 đến 2.6 giờ.</p>",
+  "ingredients_html": [
+    {
+      "id": 29602,
+      "ingredientId": 15088,
+      "shortDescription": "100mg",
+      "name": "Clindamycin",
+      "isPrimary": false,
+      "slug": "thanh-phan/clindamycin"
+    },
+    {
+      "id": 29603,
+      "ingredientId": 15237,
+      "shortDescription": "200mg",
+      "name": "Clotrimazol",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

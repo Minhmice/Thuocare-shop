@@ -1,0 +1,51 @@
+{
+  "id": "00007534",
+  "slug": "thuoc/trihexyphenidyl-2mg-1927.html",
+  "title": "Thuốc Trihexyphenidyl Pharmedic điều trị phụ trợ hội chứng Parkinson (5 vỉ x 20 viên)",
+  "short_title": "TRIHEXYPHENIDYL PMD 5X20",
+  "brand": {
+    "name": "Pharmedic",
+    "slug": "thuong-hieu/pharmedic",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-than-kinh/thuoc-than-kinh",
+    "name": "Thuốc thần kinh",
+    "parent_slug": "thuoc/thuoc-than-kinh"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "20 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6696_666e2b9bfc.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6696_666e2b9bfc.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6697_108456f12f.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6698_e76ff9e721.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6699_2babe3524f.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6701_41d3d93273.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6702_979a58760e.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/trihexxyphenidyl_1_0d651165bf.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/trihexyphenidyl_2_83f9900896.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén",
+  "trust_label": null,
+  "short_description": "<p>Thuốc <strong><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/trihexyphenidyl\">Trihexyphenidyl</a></strong> là một sản phẩm của <em>Công ty Cổ phần Dược liệu Pharmedic</em>, thành phần chính là <em>Trihexyphenidyl hydroclorid</em>. Trihexyphenidyl là thuốc dùng trong điều trị phụ trợ hội chứng Parkinson (các thể do xơ cứng mạch, sau viêm não hoặc không rõ nguyên nhân), làm giảm hội chứng ngoại tháp do thuốc như thioxanthen, phenothiazin, butyrophenon nhưng không hiệu quả với các loạn vận động muộn.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p><strong>Thuốc Trihexyphenidyl</strong> được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Ðiều trị phụ trợ hội chứng <strong><a href=\"https://nhathuoclongchau.com.vn/benh/parkinson-27.html\">Parkinson</a></strong> (các thể do xơ cứng mạch, sau viêm não hoặc không rõ nguyên nhân).</li>\n\t<li>Ðiều trị làm giảm hội chứng ngoại tháp do thuốc như thioxanthen, <strong><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/perphenazine\">phenothiazin</a></strong>, butyrophenon nhưng không hiệu quả với các loạn vận động muộn.</li>\n</ul>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Nhóm dược lý: Thuốc kháng muscarin, thuốc chống loạn động, điều trị Parkinson.</p>\n\n<p>Mã ATC: N04 A01.</p>\n\n<p>Trihexyphenidyl là một amin bậc 3, kháng muscarin và trị bệnh Parkinson. Trihexyphenidyl có tác dụng ức chế thần kinh đối giao cảm ngoại biên kiểu atropin, kể cả cơ trơn. Trihexyphenidyl có tác dụng trực tiếp chống co thắt ở cơ trơn, giãn đồng tử nhẹ, giảm tiết nước bọt và ức chế thần kinh phế vị của tim.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Trihexyphenidyl được hấp thu tốt qua đường tiêu hóa, tác dụng bắt đầu 1 giờ sau khi uống, nồng độ đỉnh xảy ra khoảng 2 - 3 giờ, kéo dài khoảng 6 - 12 giờ. Thuốc thải trừ chủ yếu qua thận dưới dạng không đổi và chất chuyển hóa. Thời gian bán thải 10,2 ± 4,7 giờ.</p>",
+  "ingredients_html": [
+    {
+      "id": 23609,
+      "ingredientId": 39344,
+      "shortDescription": "2mg",
+      "name": "Trihexyphenidyl",
+      "isPrimary": false,
+      "slug": "thanh-phan/trihexyphenidyl"
+    }
+  ],
+  "stock_qty": 0
+}

@@ -1,0 +1,52 @@
+{
+  "id": "00002510",
+  "slug": "thuoc/dogwazin-50mg-3972.html",
+  "title": "Thuốc Dogwazin Thành Nam điều trị các triệu chứng lo âu, rối loạn hành vi nặng (3 vỉ x 10 viên)",
+  "short_title": "DOGWAZIN 50MG",
+  "brand": {
+    "name": "Thành Nam",
+    "slug": "thuong-hieu/thanh-nam",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-than-kinh/thuoc-than-kinh",
+    "name": "Thuốc thần kinh",
+    "parent_slug": "thuoc/thuoc-than-kinh"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_7133_1ae10cd09d.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_7133_1ae10cd09d.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_7134_baed6cbf50.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_7136_29810a7fb1.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_7137_2c0add71e9.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_7138_2a3aefad0b.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_7141_813ad1379a.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_7142_251da99b10.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/dogwazin_1_107046d10a.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/dogwazin_2_8799a46340.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang cứng",
+  "trust_label": null,
+  "short_description": "<p>Dogwazin 50Mg của Công ty NHH SX – TM Dược phẩm Thành Nam, thành phần chính sulpiride là thuốc được sử dụng để điều trị tâm thần phân liệt cấp và mạn tính.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Dogwazin 50 mg được chỉ định dùng trong các trường hợp sau:</p><p>Điều trị triệu chứng ngắn ngày chứng lo âu ở người lớn trong trường hợp thất bại với các điều trị thông thường.</p><p>Rối loạn hành vi nghiêm trọng (kích động, tự gây thương tích, điệu bộ lặp lại máy móc) ở trẻ em trên 6 tuổi, đặc biệt trong hội chứng tự kỉ.</p><h3>Dược lực học</h3><p><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/sulpiride\">Sulpiride</a> thuộc nhóm benzamid, có tác dụng chống rối loạn tâm thần thông qua phong bế chọn lọc các thụ thể dopamin D2 não. Có thể coi sulpiride như một thuốc trung gian giữa các thuốc an thần kinh và thuốc chống trầm cảm, vì sulpiride có cả hai tác dụng đó. Sulpiride chủ yếu được dùng để điều trị các bệnh loạn thần như tâm thần phân liệt.</p><p>Sulpiride không gây buồn ngủ và mất xúc cảm như khi dùng các thuốc an thần kinh kinh điển như <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/perphenazine\">phenothiazin</a> hoặc butyrophenon.</p><h3>Dược động học</h3><p>Sulpiride hấp thu chậm qua đường tiêu hóa, sinh khả dụng thấp và tùy thuộc vào cá thể. Nồng độ đỉnh của sulpiride đạt được từ 3 đến 6 giờ sau khi uống 1 liều. Phân bố nhanh vào các mô, qua được sữa mẹ nhưng qua hàng rào máu não kém. Thuốc liên kết với protein huyết tương thấp (&lt; 40%). Thuốc thải trừ qua nước tiểu và phân, chủ yếu dưới dạng chưa chuyển hóa (khoảng 95%). Nửa đời thải trừ khoảng 8 - 9 giờ.</p>",
+  "ingredients_html": [
+    {
+      "id": 21075,
+      "ingredientId": 37199,
+      "shortDescription": "50mg",
+      "name": "Sulpiride",
+      "isPrimary": false,
+      "slug": "thanh-phan/sulpiride"
+    }
+  ],
+  "stock_qty": 0
+}

@@ -1,0 +1,44 @@
+{
+  "id": "00040603",
+  "slug": "thuoc/sutagran-50-agimexpharm-2-x6.html",
+  "title": "Thuốc Sutagran 50 Agimexpharm điều trị tích cực để cắt ngay cơn đau nửa đầu (2 vỉ x 6 viên)",
+  "short_title": "SUTAGRAN 50 AGIMEXPHARM 2X6",
+  "brand": {
+    "name": "Agimexpharm",
+    "slug": "thuong-hieu/agimexpharm",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem/thuoc-tri-dau-nua-dau",
+    "name": "Thuốc trị đau nửa đầu",
+    "parent_slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "6 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00040603_23f4b8905d.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00040603_23f4b8905d.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Sutagran 50 là sản phẩm của Agimexpharm, có thành phần chính là Sumatriptan. Đây là thuốc được sử dụng để điều trị tích cực để cắt ngay cơn đau nửa đầu.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc Sutagran 50 được chỉ định dùng trong các trường hợp sau:</p><ul><li dir=\"ltr\">Điều trị tích cực để cắt ngay cơn đau nửa đầu.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p><strong>Nhóm dược lý: Thuốc chống đau nửa đầu: Thuốc chủ vận thụ thể chọn lọc 5-HT1.</strong></p><p><strong>Mã ATC: N02CC01.</strong></p><p>Sumatriptan là chủ vận thụ thể 5-hydroxytriptamin (5-HT) chọn lọc. Thuốc kháng migrain (bệnh đau nửa đầu) thông qua tác dụng co mạch tại vùng động mạch cổ mà sự giãn nới những mạch này được cho là nguyên nhân của bệnh migrain.</p><h3 dir=\"ltr\">Dược động học</h3><p><strong>Hấp thu</strong></p><p>Sumatriptan được hấp thu nhanh chóng nhưng không hoàn toàn qua đường uống và chịu sự chuyển hóa, kết quả là sinh khả dụng tuyệt đối thấp khoảng 14%. Nồng độ đỉnh trong huyết tương sau khi uống đạt được trong khoảng 2 giờ.</p><p><strong>Phân phối</strong></p><p>Tỉ lệ liên kết với protein huyết tương thấp khoảng 14 - 21%.</p><p><strong>Chuyển hóa</strong></p><p>Sumatriptan được chuyển hóa rộng rãi ở gan chủ yếu bởi monoamin oxidase A.</p><p><strong>Thải trừ</strong></p><p>Thời gian bán thải của sumatriptan khoảng 2 giờ và được bài tiết chủ yếu qua nước tiểu dưới dạng chất chuyển hóa của acid indole acetic bất hoạt và dạng liên kết với glucuronid. Sumatriptan và các chất chuyển hóa của nó cũng xuất hiện trong phân. Một lượng nhỏ sumatriptan được phân bố vào sữa mẹ.</p>",
+  "ingredients_html": [
+    {
+      "id": 59745,
+      "ingredientId": 37209,
+      "shortDescription": "50mg",
+      "name": "Sumatriptan",
+      "isPrimary": true,
+      "slug": "thanh-phan/sumatriptan"
+    }
+  ],
+  "stock_qty": 0
+}

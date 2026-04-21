@@ -1,0 +1,108 @@
+{
+  "id": "00044138",
+  "slug": "thuoc/lycalci-opv-20-ong.html",
+  "title": "Thuốc Lycalci OPV bổ sung lysine, vitamin và khoáng chất (20 ống x 7,5 ml)",
+  "short_title": "LYCALCI OPV 20 ỐNG",
+  "brand": {
+    "name": "Opv",
+    "slug": "thuong-hieu/opv",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-bo-and-vitamin/siro-bo",
+    "name": "Siro bổ",
+    "parent_slug": "thuoc/thuoc-bo-and-vitamin"
+  },
+  "price_amount": 12900,
+  "compare_at_amount": 0,
+  "unit": "Ống",
+  "pack_note": "20 Ống x 7.5ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/lycalci_102403bec3.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/lycalci_102403bec3.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Siro",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Lycaci là sản phẩm của Công ty Cổ phần Dược phẩm OPV dùng để bổ sung lysine, vitamin và khoáng chất.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc <a href=\"https://nhathuoclongchau.com.vn/thuoc/lycalci-opv-20-ong.html\">Lycaci</a> là sản phẩm của Công ty Cổ phần Dược phẩm OPV dùng để bổ sung lysine, <a href=\"https://nhathuoclongchau.com.vn/thuc-pham-chuc-nang/vitamin-khoang-chat\">vitamin và khoáng chất</a>.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 67234,
+      "ingredientId": 26157,
+      "shortDescription": "150mg",
+      "name": "Lysin hydrochlorid",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 67235,
+      "ingredientId": 12610,
+      "shortDescription": "65.025mg",
+      "name": "Canxi",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 67236,
+      "ingredientId": 38160,
+      "shortDescription": "1.5mg",
+      "name": "Thiamin hydroclorid",
+      "isPrimary": false,
+      "slug": "thanh-phan/thiamin-hydroclorid"
+    },
+    {
+      "id": 67237,
+      "ingredientId": 34756,
+      "shortDescription": "1.725mg",
+      "name": "Riboflavin natri phosphat",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 67238,
+      "ingredientId": 42319,
+      "shortDescription": "3mg",
+      "name": "Pyridoxin HCl",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 67239,
+      "ingredientId": 29897,
+      "shortDescription": "9.975mg",
+      "name": "Nicotinamide",
+      "isPrimary": false,
+      "slug": "thanh-phan/nicotinamide"
+    },
+    {
+      "id": 67240,
+      "ingredientId": 17318,
+      "shortDescription": "5.025mg",
+      "name": "Dexpanthenol",
+      "isPrimary": false,
+      "slug": "thanh-phan/dexpanthenol"
+    },
+    {
+      "id": 67241,
+      "ingredientId": 14553,
+      "shortDescription": "200.025mg",
+      "name": "Cholecalciferol",
+      "isPrimary": false,
+      "slug": "thanh-phan/cholecalciferol"
+    },
+    {
+      "id": 67242,
+      "ingredientId": 8372,
+      "shortDescription": "7.5mg",
+      "name": "Alpha Tocopheryl Acetat",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

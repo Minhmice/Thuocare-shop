@@ -1,0 +1,44 @@
+{
+  "id": "00038341",
+  "slug": "thuoc/seirato-10-lesvi-2-x15.html",
+  "title": "Thuốc Seirato 10 Lesvi điều trị triệu chứng tiểu không tự chủ, tiểu nhiều lần và tiểu gấp (2 vỉ x 15 viên)",
+  "short_title": "SEIRATO 10 LESVI 2X15",
+  "brand": {
+    "name": "Lesvi",
+    "slug": "thuong-hieu/lesvi",
+    "country": "Tây Ban Nha"
+  },
+  "category": {
+    "slug": "thuoc/he-tiet-nieu-sinh-duc",
+    "name": "Hệ tiết niệu-sinh dục",
+    "parent_slug": "thuoc"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "15 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00038341_SEIRATO_10_LESVI_2_X15_jpg_71dad59c53.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00038341_SEIRATO_10_LESVI_2_X15_jpg_71dad59c53.png"
+  ],
+  "origin_label": "Tây Ban Nha",
+  "country": "Tây Ban Nha",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Seirato 10 là sản phẩm của Laboratorios Lesvi S.L với thành phần chính là Solifenacin succinat. Thuốc Seirato 10 có tác dụng điều trị triệu chứng tiểu không tự chủ do thôi thúc (tiểu són) và (hoặc) tiểu nhiều lần và tiểu gấp, có thể xảy ra ở bệnh nhân bị hội chứng bàng quang tăng hoạt động.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Seirato 10 được chỉ định dùng trong các trường hợp sau:</p><p>Điều trị các triệu chứng như tiểu tiện không tự chủ, tiểu són, tiểu gấp, tiểu nhiều lần.</p><p>Thuốc có hiệu quả tốt trên người bệnh có hội chứng bàng quang tăng hoạt động với những biểu hiện lâm sàng bao gồm các triệu chứng trên.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 65313,
+      "ingredientId": 41969,
+      "shortDescription": "10mg",
+      "name": "Solifenacin succinate",
+      "isPrimary": true,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

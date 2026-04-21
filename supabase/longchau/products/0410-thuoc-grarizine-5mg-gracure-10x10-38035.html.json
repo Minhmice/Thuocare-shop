@@ -1,0 +1,44 @@
+{
+  "id": "00503714",
+  "slug": "thuoc/grarizine-5mg-gracure-10x10-38035.html",
+  "title": "Thuốc Grarizine 5mg Gracure điều trị viêm mũi dị ứng quanh năm, viêm mũi dị ứng theo mùa (10 vỉ x 10 viên)",
+  "short_title": "GRARIZINE 5MG GRACURE 10X10",
+  "brand": {
+    "name": "Gracure",
+    "slug": "thuong-hieu/gracure",
+    "country": "Ấn Độ"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-di-ung/thuoc-chong-di-ung",
+    "name": "Thuốc chống dị ứng",
+    "parent_slug": "thuoc/thuoc-di-ung"
+  },
+  "price_amount": 400,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00503714_b721b43f64.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00503714_b721b43f64.jpg"
+  ],
+  "origin_label": "Ấn Độ",
+  "country": "Ấn Độ",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Grarizine là sản phẩm của Gracure Pharmaceuticals Ltd với thành phần chính là Levocetirizin dihydrochlorid. Thuốc có tác dụng điều trị các triệu chứng liên quan đến tình trạng dị ứng như viêm mũi dị ứng quanh năm, viêm mũi dị ứng theo mùa và chứng mày đay tự phát mạn tính.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Levocetirizine được chỉ định điều trị các triệu chứng liên quan đến tình trạng dị ứng như viêm mũi dị ứng quanh năm, viêm mũi dị ứng theo mùa và chứng mày đay tự phát mạn tính.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 50060,
+      "ingredientId": 25400,
+      "shortDescription": "5mg",
+      "name": "Levocetirizine hydrochloride",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

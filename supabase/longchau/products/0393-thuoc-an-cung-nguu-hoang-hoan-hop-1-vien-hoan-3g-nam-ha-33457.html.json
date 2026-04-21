@@ -1,0 +1,132 @@
+{
+  "id": "00033351",
+  "slug": "thuoc/an-cung-nguu-hoang-hoan-hop-1-vien-hoan-3g-nam-ha-33457.html",
+  "title": "Thuốc An Cung Ngưu Hoàng Hoàn thanh nhiệt, giải độc, trấn kinh, khai khiếu (1 viên)",
+  "short_title": "AN CUNG NGƯU HOÀNG HOÀN HONGJITANG 1 VIÊN X 3G",
+  "brand": {
+    "name": "HONGJITANG",
+    "slug": "thuong-hieu/hongjitang",
+    "country": "Trung Quốc"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+    "name": "Thuốc bổ",
+    "parent_slug": "thuoc/thuoc-bo-and-vitamin"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 1 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/88_11058d41cb.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/88_11058d41cb.png"
+  ],
+  "origin_label": "Trung Quốc",
+  "country": "Trung Quốc",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên hoàn mềm",
+  "trust_label": null,
+  "short_description": "<p>An Cung Ngưu Hoàng Hoàn là sản phẩm của Jinan Hongjitang Pharmaceutical Co., Ltd. dựa trên bài thuốc từ các dược liệu: Ngưu hoàng, bột thủy ngưu giác cô đặc, xạ hương, trân châu, chu sa, hùng hoàng, hoàng liên, hoàng cầm, chi tử, uất kim, băng phiến, mật ong. Thuốc có công năng thanh nhiệt, giải độc, trấn kinh, khai khiếu. Chụ trì dùng trong trường hợp nhiệt bệnh, tà nhập tâm bào, sốt cao co giật, hôn mê, &nbsp;mê sảng, hôn mê do trúng phong (viêm não, viêm màng não, xuất huyết não thể bế chứng: Có sốt cao, huyết áp tăng,…)</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>An Cung Ngưu Hoàng Hoàn được chỉ định trong các trường hợp:</p><ul><li>Thanh nhiệt giải độc, trấn tâm an thần, khai khiếu.</li><li>Điều trị hôn mê co giật, hoảng loạn, tai biến (đột quỵ) mạch máu não thể nhồi máu não.</li><li>Dự phòng tai biến (đột quỵ) cho những người có nguy cơ cao như tim mạch, cao huyết áp, mỡ máu..., người thường dùng chất kích thích như rượu bia thuốc lá, người cao tuổi.</li></ul><h3><strong>Dược lực học</strong></h3><p>Chưa có dữ liệu.</p><h3><strong>Dược động học</strong></h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 69239,
+      "ingredientId": 29707,
+      "shortDescription": "166.7mg",
+      "name": "Ngưu hoàng",
+      "isPrimary": false,
+      "slug": "thanh-phan/nguu-hoang"
+    },
+    {
+      "id": 69240,
+      "ingredientId": 43446,
+      "shortDescription": "333.3mg",
+      "name": "Bột thủy ngưu giác cô đặc",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 69241,
+      "ingredientId": 40683,
+      "shortDescription": "41.7mg",
+      "name": "Xạ hương",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 69242,
+      "ingredientId": 39052,
+      "shortDescription": "83.3mg",
+      "name": "Trân Châu",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 69243,
+      "ingredientId": 14676,
+      "shortDescription": "166.7mg",
+      "name": "Chu sa",
+      "isPrimary": false,
+      "slug": "thanh-phan/chu-sa"
+    },
+    {
+      "id": 69244,
+      "ingredientId": 22737,
+      "shortDescription": "166.7mg",
+      "name": "Hùng hoàng",
+      "isPrimary": false,
+      "slug": "thanh-phan/hung-hoang"
+    },
+    {
+      "id": 69245,
+      "ingredientId": 22441,
+      "shortDescription": "166.7mg",
+      "name": "Hoàng liên",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 69246,
+      "ingredientId": 22423,
+      "shortDescription": "166.7mg",
+      "name": "Hoàng cầm",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 69247,
+      "ingredientId": 14059,
+      "shortDescription": "166.7mg",
+      "name": "Chi tử",
+      "isPrimary": false,
+      "slug": "thanh-phan/chi-tu"
+    },
+    {
+      "id": 69248,
+      "ingredientId": 39746,
+      "shortDescription": "166.7mg",
+      "name": "Uất Kim",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 69249,
+      "ingredientId": 10293,
+      "shortDescription": "41.7mg",
+      "name": "Băng phiến",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 69250,
+      "ingredientId": 26615,
+      "shortDescription": "1333.1mg",
+      "name": "Mật ong",
+      "isPrimary": false,
+      "slug": "thanh-phan/mat-ong"
+    }
+  ],
+  "stock_qty": 0
+}

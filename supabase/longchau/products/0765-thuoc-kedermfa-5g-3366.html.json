@@ -1,0 +1,57 @@
+{
+  "id": "00004078",
+  "slug": "thuoc/kedermfa-5g-3366.html",
+  "title": "Kem bôi da Kedermfa QM. Mediphar điều trị nấm da chân, da đùi, da toàn thân, nấm móng, lang ben (5g)",
+  "short_title": "KEDERMFA QM.MDP 5G",
+  "brand": {
+    "name": "Quang Minh",
+    "slug": "thuong-hieu/quang-minh",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-da-lieu/thuoc-boi-ngoai-da",
+    "name": "Thuốc bôi ngoài da",
+    "parent_slug": "thuoc/thuoc-da-lieu"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Tuýp",
+  "pack_note": "Tuýp x 5g",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004078_kedermfa_5g_2230_5b39_large_f502101bc0.JPG",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004078_kedermfa_5g_2230_5b39_large_f502101bc0.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004078_kedermfa_5g_1618491595_1714d14b4f.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004078_kedermfa_5g_4366_5b39_large_d5575a4cf9.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004078_kedermfa_5g_5968_5b39_large_8617398a91.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004078_kedermfa_5g_9685_5b39_large_fae61e7c8d.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004078_kedermfa_5g_7823_6078_large_cfe2f8e14c.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Kem",
+  "trust_label": null,
+  "short_description": "<p><strong>Thuốc Kedermfa</strong> là thuốc bôi ngoài da được sử dụng để điều trị các bệnh da liễu do nấm (lang ben, hắc lào) và bệnh chàm eczema với các thành phần bao gồm Ketoconazole và Neomycin.</p><p>Kedermfa 5 g được bào chế dạng kem bôi da.&nbsp;Kem màu trắng sữa hoặc hơi ngà vàng nhạt, vị đắng, dính được vào da khi bôi.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Kedermfa được chỉ định để điều trị trong các trường hợp:</p><ul><li>Điều trị tại chỗ nấm da kèm nhiễm khuẩn thứ phát: <a href=\"https://nhathuoclongchau.com.vn/benh/benh-nam-da-1160.html\">Nấm da</a> chân, da đùi, da toàn thân, <a href=\"https://nhathuoclongchau.com.vn/benh/nam-mong-193.html\">nấm móng</a>, lang ben.</li></ul><h3>Dược lực học</h3><p>Neomycin sulfat là một kháng sinh nhóm Aminoglycosid có tác dụng với phần lớn vi khuẩn Gram (-) và Gram (+) gây nên các nhiễm khuẩn ngoài da.</p><p><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/ketoconazole\">Ketoconazole</a> là thuốc trị vi nấm nhóm imidazole, là một kháng nấm có phổ rộng, tác dụng lên nhiều loại <a href=\"https://nhathuoclongchau.com.vn/bai-viet/cac-loai-nam-gay-benh-tren-nguoi.html\">nấm gây bệnh</a>.</p><h3>Dược động học</h3><p>Neomycin sulfat được hấp thu qua da, hấp thu của thuốc có thể&nbsp;tăng lên khi niêm mạc bị viêm hoặc bị tổn&nbsp;thương. Khi được hấp thu, neomycin được thải trừ nhanh qua thận dưới dạng hoạt tính. Thời gian bán thải của thuốc khoảng 2 - 3 giờ.&nbsp;</p><p>Ketoconazole được hấp thu qua da, chuyển&nbsp;hóa ở gan thành dạng không hoạt động và đào thải chủ yếu qua phân, một phần&nbsp;nhỏ qua nước tiểu.</p>",
+  "ingredients_html": [
+    {
+      "id": 21936,
+      "ingredientId": 24523,
+      "shortDescription": "100mg",
+      "name": "Ketoconazol",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 61255,
+      "ingredientId": 29517,
+      "shortDescription": "25.000ui",
+      "name": "Neomycin sulfat",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

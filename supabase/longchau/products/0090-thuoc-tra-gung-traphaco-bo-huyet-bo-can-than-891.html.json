@@ -1,0 +1,52 @@
+{
+  "id": "00007466",
+  "slug": "thuoc/tra-gung-traphaco-bo-huyet-bo-can-than-891.html",
+  "title": "Trà Gừng Traphaco điều trị đau bụng do lạnh, đầy trướng, không tiêu (10 gói x 3g)",
+  "short_title": "TRÀ GỪNG TRAPHACO 10 GÓI",
+  "brand": {
+    "name": "Traphaco",
+    "slug": "thuong-hieu/traphaco",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tieu-hoa",
+    "name": "Thuốc tiêu hoá",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 14000,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 10 Gói x 3g",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1993_dd64841d13.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1993_dd64841d13.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/tra_gung_3cd7807ee2.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1990_e82d073f5c.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1991_1ba0ec82bb.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1994_8b59541d07.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1995_71d3135f88.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1996_ff592844c4.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_2001_f3b776a784.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_2000_28da426d51.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Cốm pha dung dịch uống",
+  "trust_label": null,
+  "short_description": "<p>Trà gừng Traphaco có thành phần chính là Gừng tươi, đây là sản phẩm được sử dụng để điều trị đau bụng do lạnh, đầy chướng không tiêu hoặc nôn, tiêu lỏng do lạnh, người nhiễm lạnh, chân tay lạnh, mạch nhỏ, ho do lạnh.</p>",
+  "description_html": "<h3>Giới thiệu trà gừng Traphaco</h3><ul><li><strong>Chỉ định:</strong> Trà gừng Traphaco được chỉ định để điều trị đau bụng do lạnh, đầy chướng không tiêu hoặc nôn, tiêu lỏng do lạnh, người nhiễm lạnh, chân tay lạnh, mạch nhỏ, ho do lạnh.</li><li><strong>Cách dùng:</strong> Dùng đường uống. Hòa mỗi túi vào khoảng 40 ml nước nóng. Thuốc nên dùng lúc ấm (khoảng 40 - 50oC), sử dụng trong vòng 2 giờ sau khi pha.</li><li><strong>Đối tượng sử dụng:</strong> Người bị đau bụng do lạnh, đầy chướng khó tiêu, buồn nôn hoặc nôn, tiêu lỏng do lạnh; người bị nhiễm lạnh, tay chân lạnh, mạch nhỏ và ho do lạnh.</li><li><strong>Lưu ý khi sử dụng:</strong> Chưa có thông tin về lưu ý khi sử dụng.</li><li><strong>Chống chỉ định:</strong> Người ra nhiều mồ hôi hoặc mất máu; người đái tháo đường, sốt cao.</li></ul>",
+  "usage_html": "<h3>Chỉ định</h3><p>Trà Gừng Traphaco được chỉ định dùng trong các trường hợp sau:</p><ul><li>Ðiều trị đau bụng do lạnh, đầy chướng không tiêu hoặc nôn, tiêu lỏng do lạnh, người nhiễm lạnh, chân tay lạnh, mạch nhỏ, ho do lạnh.</li></ul><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 25103,
+      "ingredientId": 21828,
+      "shortDescription": "1.6g",
+      "name": "Gừng tươi",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

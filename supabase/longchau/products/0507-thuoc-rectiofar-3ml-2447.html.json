@@ -1,0 +1,52 @@
+{
+  "id": "00006298",
+  "slug": "thuoc/rectiofar-3ml-2447.html",
+  "title": "Dung dịch Rectiofar Pharmedic điều trị táo bón (50 túi x 1 ống bơm 3ml)",
+  "short_title": "RECTIOFAR PMD 3ML",
+  "brand": {
+    "name": "Pharmedic",
+    "slug": "thuong-hieu/pharmedic",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-tao-bon",
+    "name": "Thuốc trị táo bón",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 3500,
+  "compare_at_amount": 0,
+  "unit": "Ống",
+  "pack_note": "50 Ống x 3ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/rectiofar_pink_e45478cf9a.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/rectiofar_pink_e45478cf9a.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/rectiofar_cu_moi_92636685e3.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006298_rectiofar_3ml_7031_62ba_large_a545ebf5ef.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006298_rectiofar_3ml_9373_62ba_large_e08c54f478.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006298_rectiofar_3ml_3902_62ba_large_9202a57d78.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006298_rectiofar_3ml_2481_62ba_large_fd769ec952.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006298_rectiofar_3ml_2542_62ba_large_b300b764ef.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006298_rectiofar_3ml_9149_6089_large_5806568a11.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/rectiofar_15b023da24.png"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch bơm trực tràng",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Rectiofar của Công ty cổ phần dược phẩm dược liệu PHARMEDIC, chứa hoạt chất glycerin ở dạng dung dịch bơm trực tràng để điều trị táo bón ở trẻ em và người lớn.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p>Thuốc Rectiofar được chỉ định dùng trong các trường hợp sau:</p>\n\n<p>Ðiều trị táo bón trẻ em và người lớn.</p>\n\n<h3>Dược lực học</h3>\n\n<p>Nhóm dược lý: Thuốc nhuận tràng, thuốc xổ.</p>\n\n<p>Glycerin được dùng qua đường trực tràng để hút dịch vào đại tràng và do đó thúc đẩy thải phân khi <a href=\"https://nhathuoclongchau.com.vn/benh/tao-bon-246.html\">táo bón</a>.</p>\n\n<p>Thuốc còn có tác dụng gây trơn và làm mềm phân.</p>\n\n<h3>Dược động học</h3>\n\n<p>Khi dùng đường trực tràng, sự hấp thu của thuốc kém.</p>",
+  "ingredients_html": [
+    {
+      "id": 50215,
+      "ingredientId": 21416,
+      "shortDescription": "1.79g",
+      "name": "Glycerin",
+      "isPrimary": false,
+      "slug": "thanh-phan/glycerin"
+    }
+  ],
+  "stock_qty": 0
+}

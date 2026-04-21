@@ -1,0 +1,58 @@
+{
+  "id": "00049621",
+  "slug": "thuoc/vitamin-a-d-hdpharma-10-x10.html",
+  "title": "Thuốc Vitamin A-D Hdpharma dùng dự phòng và điều trị các triệu chứng do thiếu vitamin A - D (10 vỉ x 10 viên)",
+  "short_title": "VITAMIN A-D HDPHARMA 10X10",
+  "brand": {
+    "name": "Hdpharma",
+    "slug": "thuong-hieu/hdpharma",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+    "name": "Thuốc bổ",
+    "parent_slug": "thuoc/thuoc-bo-and-vitamin"
+  },
+  "price_amount": 320,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_02186_8390827079.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_02186_8390827079.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_02187_148f0664c9.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_02188_e311eda2a2.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_02189_f43e54f5b2.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_02191_b92687b83d.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_02192_04eddbbb2c.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_02195_f1e0c6eae7.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang mềm",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Vitamin A - D dùng dự phòng và điều trị các triệu chứng do thiếu vitamin A - D. Rối loạn thị giác, khô và ngứa mắt, quáng gà, chứng loãng xương, gãy xương, nhuyễn xương, còi xương, gãy xương chậm lành, co cứng cơ, co giật do giảm calci huyết, rối loạn chuyển hoá phosphat ở người có tuổi. Điều trị các bệnh về da như loét trợt, trứng cá, vảy nến.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p><a href=\"https://nhathuoclongchau.com.vn/thuoc/vitamin-a-d-hdpharma-10-x10.html\">Thuốc Vitamin A - D</a> dùng dự phòng và điều trị các triệu chứng do thiếu vitamin A - D. <a href=\"https://nhathuoclongchau.com.vn/bai-viet/roi-loan-thi-giac-bieu-hien-va-cach-phong-ngua-48257.html\">Rối loạn thị giác</a>, khô và ngứa mắt, quáng gà, chứng loãng xương, gãy xương, nhuyễn xương, <a href=\"https://nhathuoclongchau.com.vn/benh/coi-xuong-206.html\">còi xương</a>, gãy xương chậm lành, co cứng cơ, co giật do giảm calci huyết, rối loạn chuyển hoá phosphat ở người có tuổi. Điều trị các bệnh về da như loét trợt, trứng cá, vảy nến.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 71968,
+      "ingredientId": 40309,
+      "shortDescription": "5000iu",
+      "name": "Vitamin A",
+      "isPrimary": false,
+      "slug": "thanh-phan/vitamin-a"
+    },
+    {
+      "id": 71969,
+      "ingredientId": 40361,
+      "shortDescription": "400iu",
+      "name": "Vitamin D3",
+      "isPrimary": false,
+      "slug": "thanh-phan/vitamin-d3"
+    }
+  ],
+  "stock_qty": 0
+}

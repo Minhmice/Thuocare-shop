@@ -1,0 +1,53 @@
+{
+  "id": "00006870",
+  "slug": "thuoc/sporacid-2195.html",
+  "title": "Thuốc Sporacid Itraconazole 100mg Dexa điều trị nấm candida âm hộ, âm đạo (3 vỉ x 4 viên)",
+  "short_title": "SPORACID 100 3X4",
+  "brand": {
+    "name": "Dexa",
+    "slug": "thuong-hieu/dexa",
+    "country": "Indonesia"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-khang-sinh-khang-nam/thuoc-khang-nam",
+    "name": "Thuốc kháng nấm",
+    "parent_slug": "thuoc/thuoc-khang-sinh-khang-nam"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "4 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07132_0759760d01.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07132_0759760d01.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07135_0d9d672bc9.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07133_831161dc9d.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07134_2cb81acdb8.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07136_2d74a3cf61.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07137_447986b392.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07138_aed8fe70cd.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07142_6afabea10d.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/sporacid_1_2_3b59510e94.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/sporacid_2_1_04b7a0171d.jpg"
+  ],
+  "origin_label": "Indonesia",
+  "country": "Indonesia",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang",
+  "trust_label": null,
+  "short_description": "<p><strong>Sporacid</strong> được sản xuất bởi <em>PT Dexa Medica</em>, với thành phần chính <strong><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/itraconazole\">itraconazole</a></strong>, là thuốc dùng để điều trị nấm <em>Candida</em> âm hộ, âm đạo, lang ben, nấm da, viêm giác mạc do nấm và nấm <em>Candida </em>miệng.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p><strong>Thuốc Sporacid</strong> được chỉ định dùng trong các trường hợp sau:</p><ul><li>Ðiều trị <a href=\"https://nhathuoclongchau.com.vn/benh/nhiem-candida-197.html\"><strong>nấm Candida</strong></a> âm hộ, âm đạo, lang ben, nấm da, viêm giác mạc do nấm và nấm Candida miệng.</li></ul><h3>Dược lực học</h3><p>Sporacid là một thuốc kháng nấm phổ rộng nhóm triazole, có hiệu quả điều trị nhiễm nấm bề mặt và toàn thân.</p><p>Sporacid tác động bằng cách gắn với enzyme cytochrome P450 của nấm, làm chậm sự tổng hợp ergosterol và làm rối loạn tính thấm của màng tế bào nấm.</p><h3>Dược động học</h3><p><i>Hấp thu</i></p><p>Thuốc được hấp thu qua đường tiêu hóa với nồng độ tối đa 1,5 - 4 giờ sau khi dùng đường uống.</p><p><i>Phân bố</i></p><p>95% thuốc được kết hợp với protein huyết tương và được phân bố trong toàn cơ thể. Ở một số mô của cơ thể, nồng độ Sporacid có thể lớn gấp 10 lần trong huyết tương.</p><p><i>Chuyển hoá - thải trừ</i></p><p>Thời gian bán hủy của thuốc là 20 giờ ở liều đơn và có thể lâu hơn (30 giờ) khi được dùng lặp lại. Sporacid được chuyển hóa ở gan và được bài tiết qua mật và nước tiểu.</p>",
+  "ingredients_html": [
+    {
+      "id": 23337,
+      "ingredientId": 24247,
+      "shortDescription": "100mg",
+      "name": "Itraconazole",
+      "isPrimary": false,
+      "slug": "thanh-phan/itraconazole"
+    }
+  ],
+  "stock_qty": 0
+}

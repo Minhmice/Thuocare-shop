@@ -1,0 +1,44 @@
+{
+  "id": "00047478",
+  "slug": "thuoc/kpec-500-mg-reliv-6-x10.html",
+  "title": "Thuốc KPEC 500 Reliv điều trị ung thư vú, ung thư đại tràng, ung thư đại trực tràng (6 vỉ x 10 viên) ",
+  "short_title": "KPEC 500MG RELIV 6X10",
+  "brand": {
+    "name": "Reliv",
+    "slug": "thuong-hieu/reliv",
+    "country": "Ấn Độ"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-dieu-tri-ung-thu/thuoc-dieu-tri-ung-thu",
+    "name": "Thuốc điều trị ung thư",
+    "parent_slug": "thuoc/thuoc-dieu-tri-ung-thu"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/kpec_a5f3ed564a.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/kpec_a5f3ed564a.jpg"
+  ],
+  "origin_label": "Ấn Độ",
+  "country": "Ấn Độ",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Kpec 500 là sản phẩm của Reliv, có thành phần chính là Capecitabin. Đây là thuốc được sử dụng để hóa trị gây độc tế bào (Cytotoxic Chemotherapy) trong các bệnh ung thư vú, ung thư đại tràng, ung thư đại trực tràng, ung thư dạ dày - thực quản.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc <a href=\"https://nhathuoclongchau.com.vn/thuoc/kpec-500-mg-reliv-6-x10.html\">Kpec 500</a> được chỉ định dùng trong các trường hợp sau:</p><ul><li><a href=\"https://nhathuoclongchau.com.vn/benh/ung-thu-vu-328.html\">Ung thư vú</a>.</li><li>Ung thư đại tràng, ung thư đại trực tràng.</li><li><a href=\"https://nhathuoclongchau.com.vn/benh/ung-thu-thuc-quan-317.html\">Ung thư dạ dày - thực quản</a></li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 69629,
+      "ingredientId": 12851,
+      "shortDescription": "500mg",
+      "name": "Capecitabin",
+      "isPrimary": true,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

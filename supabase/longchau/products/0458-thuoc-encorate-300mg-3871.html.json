@@ -1,0 +1,44 @@
+{
+  "id": "00002787",
+  "slug": "thuoc/encorate-300mg-3871.html",
+  "title": "Thuốc Encorate 300 nSun Pharma điều trị động kinh (5 vỉ x 10 viên)",
+  "short_title": "ENCORATE 300 SUN 5X10",
+  "brand": {
+    "name": "Sun Pharma",
+    "slug": "thuong-hieu/sun-pharma",
+    "country": "Ấn Độ"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-than-kinh/thuoc-than-kinh",
+    "name": "Thuốc thần kinh",
+    "parent_slug": "thuoc/thuoc-than-kinh"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002787_encorate_300mg_4411_62ce_large_7b6131cc81.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002787_encorate_300mg_4411_62ce_large_7b6131cc81.jpg"
+  ],
+  "origin_label": "Ấn Độ",
+  "country": "Ấn Độ",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim tan trong ruột",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Encorate là sản phẩm của Sun Pharmaceutical Industries Ltd có thành phần là Natri Valproate có tác dụng điều trị động kinh toàn thể, động kinh cục bộ hoặc các thể động kinh khác; đối với phụ nữ trong độ tuổi sinh đẻ, thuốc chỉ nên được sử dụng cho những trường hợp nặng hoặc đã đề kháng với các thuốc khác; ngừa sốt cao co giật ở trẻ em, chứng máy cơ ở trẻ em; điều trị và dự phòng hưng cảm trong rối loạn cảm xúc lưỡng cực.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p>Thuốc Encorate chỉ định điều trị trong các trường hợp sau:</p>\n\n<ul>\n\t<li>\n\t<p>Điều trị động kinh toàn thể, <a href=\"https://nhathuoclongchau.com.vn/benh/dong-kinh-621.html\">động kinh</a> cục bộ hoặc các thể động kinh khác.</p>\n\t</li>\n\t<li>\n\t<p>Đối với phụ nữ trong độ tuổi sinh đẻ, thuốc chỉ nên được sử dụng cho những trường hợp nặng hoặc đã đề kháng với các thuốc khác.</p>\n\t</li>\n\t<li>\n\t<p>Ngừa sốt cao co giật ở trẻ em, chứng máy cơ ở trẻ em.</p>\n\t</li>\n\t<li>\n\t<p>Điều trị và dự phòng hưng cảm trong <a href=\"https://nhathuoclongchau.com.vn/benh/roi-loan-cam-xuc-luong-cuc-69.html\">rối loạn cảm xúc lưỡng cực</a>.</p>\n\t</li>\n</ul>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Tác dụng chính của <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/valproic-acid\">Valproate</a> là ức chế hoạt tính của gammaamino butyricacid (GABA) bằng cách tác động vào quá trình tổng hợp và chuyển hóa của GABA.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Thời gian bán hủy của Natri Valproate nằm trong khoảng 8 - 20 giờ. Ở trẻ em thời gian bán hủy thường ngắn hơn. Hiệu quả điều trị đạt được khi nồng độ của acid valproic trong huyết tương khoảng từ 40 - 100mg/l (278 - 694microml/l). Điều này phụ thuộc vào đối tượng và thuốc sử dụng đi kèm. Khoảng 6 - 15% nồng độ của thuốc trong huyết tương ở dưới dạng tự do.</p>",
+  "ingredients_html": [
+    {
+      "id": 21204,
+      "ingredientId": 42342,
+      "shortDescription": "300mg",
+      "name": "Natri valproate",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

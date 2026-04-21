@@ -1,0 +1,97 @@
+{
+  "id": "00002921",
+  "slug": "thuoc/eugica-100ml-3814.html",
+  "title": "Siro Eugica DHG hỗ trợ điều trị ho, long đờm (100ml)",
+  "short_title": "EUGICA DHG 100ML",
+  "brand": {
+    "name": "Dhg",
+    "slug": "thuong-hieu/dhg",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-ho-hap/siro-tri-ho-cam",
+    "name": "Siro trị ho cảm",
+    "parent_slug": "thuoc/thuoc-ho-hap"
+  },
+  "price_amount": 36000,
+  "compare_at_amount": 0,
+  "unit": "Chai",
+  "pack_note": "Chai x 100ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_04585_bcf61d6572.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_04585_bcf61d6572.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_04578_a9ed84b85d.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_04579_ca3eca2835.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_04581_b95eb38345.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_04583_4fa79262fc.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_04586_b3bed9b170.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Siro",
+  "trust_label": null,
+  "short_description": "<p><a href=\"https://nhathuoclongchau.com.vn/thuoc/eugica-100ml-3814.html\">Eugica siro</a> 100ml được sản xuất bởi Công ty Cổ phần Dược Hậu Giang thành phần chính là Húng chanh, An tức hương, vỏ quýt, Viễn chí, Cồn bọ mắm, Eucalyptol, Natri benzoat. Thuốc được chỉ định để điều trị các trường hợp ho có đờm, ho mất tiếng, ho kinh niên, viêm đau họng, viêm khí quản, phế quản, sổ mũi; làm loãng dịch nhầy đường hô hấp, long đờm.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Siro ho Eugica 100ml được chỉ định dùng trong các trường hợp sau:</p><ul><li>Ðiều trị ho có đờm, ho mất tiếng, ho kinh niên, viêm đau họng, viêm khí quản, phế quản, sổ mũi.</li><li>Làm loãng dịch nhầy đường hô hấp, long đờm.</li></ul><h3>Dược lực học</h3><p>Eugica siro 100ml là sản phẩm có thành phần hoạt chất thiên nhiên là các vị thuốc chữa ho rất phổ biến trong nhân dân ta từ lâu đời nay:&nbsp;</p><p>Húng chanh hay tần dày lá - một dược liệu đã được phòng đông y - Viện vi trùng nghiên cứu (năm 1961) cho thấy có tác dụng kháng sinh mạnh. Trong dân gian ngoài việc dùng làm gia vị, húng chanh còn là vị thuốc rất phổ biến dùng chữa cảm cúm, ho hen, viêm họng rất hữu hiệu.</p><p>Eucalyptol có tính sát trùng, được dùng chữa ho, kích thích tiêu hoá. Eucalyptol được đào thải chủ yếu qua đường hô hấp sau khi phân tán trong huyết tương.</p><p>Bọ mắm tức cây thuốc dòi: Chữa bệnh viêm họng, ho lâu năm, ho lao.</p><p>Núc nác hay mộc hồ điệp: Chữa ho lâu ngày, viêm khí - phế quản, đau dạ dày.</p><p>Viễn chí được dùng trong tây y làm thuốc chữa ho nhiều đờm. Theo tài liệu cổ: Viễn chí có vị đắng tính ôn vào 2 kinh tâm và thận. Có tác dụng an thần, ích trí, tán uất, hoá đờm, tiêu ung thũng. Dùng chữa hồi hộp, hay quên, hay sợ hãi, ho nhiều đờm, ung thư sưng thũng.&nbsp;</p><p>Vỏ quả quýt cũng gọi trần bì, là vị thuốc ngoài tác dụng chữa ăn uống không tiêu, nôn mửa còn là vị thuốc chữa ho mất tiếng, trừ đờm.&nbsp;</p><p>An tức hương còn gọi cánh kiến trắng, cây bồ đề: Chữa viêm phế quản kinh niên.&nbsp;</p><p>Natri benzoat có tính sát trùng, thường dùng trong các chế phẩm chữa ho.</p><h3>Dược động học</h3><p>Chưa có báo cáo.</p>",
+  "ingredients_html": [
+    {
+      "id": 35909,
+      "ingredientId": 22731,
+      "shortDescription": "42.4 ",
+      "name": "Húng chanh",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 35910,
+      "ingredientId": 8972,
+      "shortDescription": "20 ",
+      "name": "An tức hương",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 35911,
+      "ingredientId": 40438,
+      "shortDescription": "30 ",
+      "name": "vỏ quýt",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 35912,
+      "ingredientId": 40222,
+      "shortDescription": "10 ",
+      "name": "Viễn chí",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 35913,
+      "ingredientId": 15687,
+      "shortDescription": "2 ",
+      "name": "Cồn bọ mắm",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 35914,
+      "ingredientId": 19829,
+      "shortDescription": "0.2 ",
+      "name": "Eucalyptol",
+      "isPrimary": false,
+      "slug": "thanh-phan/eucalyptol"
+    },
+    {
+      "id": 35915,
+      "ingredientId": 29238,
+      "shortDescription": "3 ",
+      "name": "Natri benzoat",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

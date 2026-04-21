@@ -1,0 +1,60 @@
+{
+  "id": "00033810",
+  "slug": "thuoc/kem-boi-candiderm-cream-glenmark-dieu-tri-nhiem-trung-da-15-g-33899.html",
+  "title": "Kem bôi Candiderm Crème Glenmark điều trị nhiễm trùng da (15g)",
+  "short_title": "CANDIDERM CREAM GLENMARK 15G",
+  "brand": {
+    "name": "Glenmark",
+    "slug": "thuong-hieu/glenmark",
+    "country": "Ấn Độ"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-da-lieu/thuoc-boi-ngoai-da",
+    "name": "Thuốc bôi ngoài da",
+    "parent_slug": "thuoc/thuoc-da-lieu"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp x 15g",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00033810_candiderm_cream_glenmark_15g_8321_62a7_large_5ac5920e9f.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00033810_candiderm_cream_glenmark_15g_8321_62a7_large_5ac5920e9f.jpg"
+  ],
+  "origin_label": "Ấn Độ",
+  "country": "Ấn Độ",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dạng kem",
+  "trust_label": null,
+  "short_description": "<p>Thuốc bôi Candiderm là sản phẩm của Glenmark Pharmaceuticals Ltd có thành phần chính là Clotrimazole; Anhydrous Beclomethasone Dipropionate; Gentamycin Sulphate có tác dụng điều trị nhiễm trùng da, chẳng hạn như bệnh chàm (các mảng da bị viêm, ngứa, nứt nẻ và thô ráp), <a href=\"https://nhathuoclongchau.com.vn/benh/viem-da-1140.html\">viêm da </a>(phát ban da), chốc lở (vết loét đỏ trên mặt), bệnh <a href=\"https://nhathuoclongchau.com.vn/benh/vay-nen-619.html\">vẩy nến</a> (các tế bào da nhân lên nhanh chóng tạo thành các mảng đỏ gồ ghề (không đồng đều) được bao phủ bởi các vảy trắng).</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p><a href=\"https://nhathuoclongchau.com.vn/thuoc/kem-boi-candiderm-cream-glenmark-dieu-tri-nhiem-trung-da-15-g-33899.html\">Thuốc bôi Candiderm</a> chỉ định điều trị nhiễm trùng da, trong các trường hợp sau đây:</p>\n\n<ul>\n\t<li>Bệnh chàm (các mảng da bị viêm, ngứa, nứt nẻ và thô ráp).</li>\n\t<li>Viêm da (phát ban da).</li>\n\t<li>Chốc lở (vết loét đỏ trên mặt).</li>\n\t<li>Bệnh vẩy nến (các tế bào da nhân lên nhanh chóng tạo thành các mảng đỏ gồ ghề (không đồng đều) được bao phủ bởi các vảy trắng).</li>\n\t<li>Điều trị <a href=\"https://nhathuoclongchau.com.vn/benh/ham-ta-1334.html\">hăm tã</a>.</li>\n\t<li>Nhiễm trùng da.</li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p>Chưa có dữ liệu.</p>\n\n<h3>Dược động học</h3>\n\n<p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 32739,
+      "ingredientId": 21143,
+      "shortDescription": "",
+      "name": "Gentamycin Sulphate",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 32740,
+      "ingredientId": 10420,
+      "shortDescription": "",
+      "name": "Beclomethasone dipropionate",
+      "isPrimary": false,
+      "slug": "thanh-phan/beclomethasone-dipropionate"
+    },
+    {
+      "id": 32741,
+      "ingredientId": 15238,
+      "shortDescription": "1",
+      "name": "Clotrimazole",
+      "isPrimary": false,
+      "slug": "thanh-phan/clotrimazole"
+    }
+  ],
+  "stock_qty": 0
+}

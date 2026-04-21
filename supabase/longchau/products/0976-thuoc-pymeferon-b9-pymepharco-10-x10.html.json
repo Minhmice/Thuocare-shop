@@ -1,0 +1,52 @@
+{
+  "id": "00038193",
+  "slug": "thuoc/pymeferon-b9-pymepharco-10-x10.html",
+  "title": "Thuốc Pyme Feron B9 Pymepharco ngừa thiếu máu và giảm dị tật ống thần kinh ở thai nhi (10 vỉ x 10 viên)",
+  "short_title": "PYMEFERON B9 PYMEPHARCO 10X10",
+  "brand": {
+    "name": "Pymepharco",
+    "slug": "thuong-hieu/pymepharco",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tri-thieu-mau",
+    "name": "Thuốc trị thiếu máu",
+    "parent_slug": "thuoc/thuoc-tim-mach-and-mau"
+  },
+  "price_amount": 740,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00038193_7bbae9e5cf.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00038193_7bbae9e5cf.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang cứng",
+  "trust_label": null,
+  "short_description": "<p>Pyme Feron B9 là sản phẩm của Công ty Cổ phần Pymepharco, thành phần chính là Acid Folic (vitamin B9) và sắt, là thuốc chỉ định dành riêng cho phụ nữ có thai để phòng ngừa thiếu máu và giảm thiểu nguy cơ mắc các dị tật ống thần kinh ở thai nhi.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc <a href=\"https://nhathuoclongchau.com.vn/thuoc/pymeferon-b9-pymepharco-10-x10.html\">Pyme Feron B9</a> được chỉ định dùng trong trường hợp sau: Dành riêng cho phụ nữ có thai để phòng ngừa <a href=\"https://nhathuoclongchau.com.vn/benh/thieu-mau-267.html\">thiếu máu</a> và giảm thiểu nguy cơ mắc các dị tật ống thần kinh ở thai nhi.</p><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 53463,
+      "ingredientId": 35596,
+      "shortDescription": "50mg",
+      "name": "Sắt",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 53464,
+      "ingredientId": 7428,
+      "shortDescription": "350mcg",
+      "name": "Acid folic",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

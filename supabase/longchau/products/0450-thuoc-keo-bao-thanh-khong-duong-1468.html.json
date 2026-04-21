@@ -1,0 +1,173 @@
+{
+  "id": "00009853",
+  "slug": "thuoc/keo-bao-thanh-khong-duong-1468.html",
+  "title": "Viên ngậm Bảo Thanh Hoa Linh không đường - bổ phế, trừ ho, hóa đờm (20 vỉ x 5 viên)",
+  "short_title": "VIÊN NGẬM BẢO THANH K ĐƯỜNG 20X5",
+  "brand": {
+    "name": "Hoa Linh",
+    "slug": "thuong-hieu/hoa-linh",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-ho-hap/vien-ngam-tri-ho-viem-hong",
+    "name": "Viên ngậm trị ho, viêm họng",
+    "parent_slug": "thuoc/thuoc-ho-hap"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Vỉ",
+  "pack_note": "20 Vỉ x 5 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00009853_keo_bao_thanh_khong_duong_4095_63ab_large_c2ad7b9029.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00009853_keo_bao_thanh_khong_duong_4095_63ab_large_c2ad7b9029.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00009853_keo_bao_thanh_khong_duong_1672196075_8f7e4aa813.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00009853_keo_bao_thanh_khong_duong_6952_63ab_large_318eeaa81d.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00009853_keo_bao_thanh_khong_duong_5329_63ab_large_1e80147e4d.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00009853_keo_bao_thanh_khong_duong_8470_63ab_large_9411015c40.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00009853_keo_bao_thanh_khong_duong_9655_63ab_large_72c4db957b.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00009853_keo_bao_thanh_khong_duong_8810_63ab_large_5f543c7852.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00009853_keo_bao_thanh_khong_duong_6707_63ab_large_d50da7db5b.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00009853_keo_bao_thanh_khong_duong_5972_63ab_large_d9634c3a30.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00009853_keo_bao_thanh_khong_duong_2556_63ab_large_4b1fee771a.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên ngậm",
+  "trust_label": null,
+  "short_description": "<p><a href=\"https://nhathuoclongchau.com.vn/thuoc/keo-bao-thanh-khong-duong-1468.html\">Viên ngậm Bảo Thanh không đường</a> của Công ty TNHH Dược phẩm Hoa Linh, thành phần chính cao lỏng hỗn hợp xuyên bối mẫu, tỳ bà lá, sa sâm, phục linh, trần bì, cát cánh, bán hạ, ngũ vị tử, qua lâu nhân, viễn chí, khổ hạnh nhân, gừng, ô mai, cam thảo và tinh dầu bạc hà; thuốc dùng để điều trị các chứng ho do cảm lạnh, nhiễm lạnh, ho gió, ho khan, ho có đờm, ho do dị ứng thời tiết; người bị phế âm hư gây ho dai dẳng lâu ngày, miệng họng khô, cổ họng ngứa, nóng rát, khản tiếng; hỗ trợ điều trị viêm phổi, viêm họng, viêm phế quản.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3><p>Thuốc kẹo ngậm Bảo Thanh Không Đường được chỉ định dùng trong các trường hợp sau:</p><p>Các chứng ho do <a href=\"https://nhathuoclongchau.com.vn/benh/cam-lanh-583.html\">cảm lạnh</a>, nhiễm lạnh, ho gió, ho khan, ho có đờm, ho do dị ứng thời tiết.</p><p>Người bị phế âm hư gây ho dai dẳng lâu ngày, miệng họng khô, cổ họng ngứa, nóng rát, khản tiếng.&nbsp;</p><p>Hỗ trợ điều trị viêm phổi, <a href=\"https://nhathuoclongchau.com.vn/benh/viem-hong-468.html\">viêm họng</a>, viêm phế quản.&nbsp;</p><h3><strong>Dược lực học</strong></h3><p>Bổ phế, trừ ho, hóa đờm.&nbsp;</p><h3><strong>Dược động học</strong></h3><p>Chưa có báo cáo.</p>",
+  "ingredients_html": [
+    {
+      "id": 24160,
+      "ingredientId": 38658,
+      "shortDescription": "2.5",
+      "name": "Tinh dầu bạc hà",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 24161,
+      "ingredientId": 30482,
+      "shortDescription": "12.5",
+      "name": "Ô mai",
+      "isPrimary": false,
+      "slug": "thanh-phan/o-mai"
+    },
+    {
+      "id": 24162,
+      "ingredientId": 21825,
+      "shortDescription": "2.5",
+      "name": "Gừng",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 24163,
+      "ingredientId": 40222,
+      "shortDescription": "2.5",
+      "name": "Viễn chí",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 24164,
+      "ingredientId": 34020,
+      "shortDescription": "5",
+      "name": "Qua lâu nhân",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 24165,
+      "ingredientId": 29693,
+      "shortDescription": "1.25",
+      "name": "Ngũ vị tử",
+      "isPrimary": false,
+      "slug": "thanh-phan/ngu-vi-tu"
+    },
+    {
+      "id": 24166,
+      "ingredientId": 10272,
+      "shortDescription": "2.5",
+      "name": "Bán hạ (Thân, Rễ)",
+      "isPrimary": false,
+      "slug": "thanh-phan/ban-ha"
+    },
+    {
+      "id": 24167,
+      "ingredientId": 13188,
+      "shortDescription": "10",
+      "name": "Cát cánh",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 24168,
+      "ingredientId": 32516,
+      "shortDescription": "2.5",
+      "name": "Phục Linh",
+      "isPrimary": false,
+      "slug": "thanh-phan/phuc-linh"
+    },
+    {
+      "id": 24169,
+      "ingredientId": 40794,
+      "shortDescription": "10",
+      "name": "Xuyên bối mẫu",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 24170,
+      "ingredientId": 39705,
+      "shortDescription": "12.5",
+      "name": "Tỳ bà diệp",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 24171,
+      "ingredientId": 26615,
+      "shortDescription": "25",
+      "name": "Mật ong",
+      "isPrimary": false,
+      "slug": "thanh-phan/mat-ong"
+    },
+    {
+      "id": 24172,
+      "ingredientId": 29756,
+      "shortDescription": "2.5",
+      "name": "Nhân Sâm",
+      "isPrimary": false,
+      "slug": "thanh-phan/nhan-sam"
+    },
+    {
+      "id": 24173,
+      "ingredientId": 38063,
+      "shortDescription": "2.5",
+      "name": "Thanh bì",
+      "isPrimary": false,
+      "slug": "thanh-phan/thanh-bi"
+    },
+    {
+      "id": 24174,
+      "ingredientId": 27803,
+      "shortDescription": "5",
+      "name": "Mơ",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 24175,
+      "ingredientId": 24600,
+      "shortDescription": "2.5",
+      "name": "Khoản đông",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

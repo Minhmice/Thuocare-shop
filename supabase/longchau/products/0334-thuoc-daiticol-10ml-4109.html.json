@@ -1,0 +1,52 @@
+{
+  "id": "00002193",
+  "slug": "thuoc/daiticol-10ml-4109.html",
+  "title": "Thuốc nhỏ mắt Daiticol Dược 3-2 điều trị đỏ mắt, ngứa mắt, xốn mắt (10ml)",
+  "short_title": "DAITICOL F.T 10ML",
+  "brand": {
+    "name": "Dược 3-2",
+    "slug": "thuong-hieu/duoc-3-2",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-mat-tai-mui-hong/thuoc-nho-mat",
+    "name": "Thuốc nhỏ mắt",
+    "parent_slug": "thuoc/thuoc-mat-tai-mui-hong"
+  },
+  "price_amount": 5000,
+  "compare_at_amount": 0,
+  "unit": "Chai",
+  "pack_note": "Chai x 10ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002193_daiticol_10ml_2244_6093_large_dbb207c1df.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002193_daiticol_10ml_2244_6093_large_dbb207c1df.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch",
+  "trust_label": null,
+  "short_description": "<p>Daiticol 10Ml của công ty Cổ phần Dược phẩm 3/2, thành phần chính diphenhydramin hydroclorid và kẽm sulfat. Thuốc được sử dụng trong các trường hợp như đỏ mắt, ngứa mắt, xốn mắt do tiếp xúc với môi trường bị ô nhiễm (nước hồ bơi, khói, bụi khi đi tàu xe...); mỏi mắt, cay mắt do đọc nhiều, làm việc nhiều trên máy vi tính, làm dịu mắt.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p>Thuốc Daiticol 10Ml được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Đỏ mắt, ngứa mắt, xốn mắt do tiếp xúc với môi trường bị ô nhiễm (nước hồ bơi, khói, bụi khi đi tàu xe...).</li>\n\t<li><a href=\"https://nhathuoclongchau.com.vn/benh/nhuc-moi-mat-398.html\">Mỏi mắt</a>, cay mắt do đọc nhiều, làm việc nhiều trên máy vi tính.</li>\n\t<li>Làm dịu mắt.</li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p>Kẽm sulfat có tác dụng sát khuẩn, dùng để sát trùng mắt.</p>\n\n<p><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/diphenhydramine\">Diphenhydramin</a> HCI là thuốc kháng histamin dùng để trị ngứa mắt, đỏ mắt.</p>\n\n<h3>Dược động học</h3>\n\n<p>Chưa có thông tin.</p>",
+  "ingredients_html": [
+    {
+      "id": 33078,
+      "ingredientId": 18087,
+      "shortDescription": "",
+      "name": "Diphenhydramine",
+      "isPrimary": false,
+      "slug": "thanh-phan/diphenhydramine"
+    },
+    {
+      "id": 33079,
+      "ingredientId": 24482,
+      "shortDescription": "",
+      "name": "Kẽm",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

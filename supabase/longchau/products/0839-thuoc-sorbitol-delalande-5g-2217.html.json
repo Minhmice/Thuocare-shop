@@ -1,0 +1,52 @@
+{
+  "id": "00006824",
+  "slug": "thuoc/sorbitol-delalande-5g-2217.html",
+  "title": "Thuốc bột Sorbitol Sanofi 5g điều trị triệu chứng táo bón, khó tiêu (20 gói x 5g)",
+  "short_title": "SORBITOL 5G SNF 20 GÓI",
+  "brand": {
+    "name": "Sanofi",
+    "slug": "thuong-hieu/sanofi",
+    "country": "Pháp"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-tao-bon",
+    "name": "Thuốc trị táo bón",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 1950,
+  "compare_at_amount": 0,
+  "unit": "Gói",
+  "pack_note": "20 Gói x 5g",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1948_f9d466092e.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1948_f9d466092e.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/sorbitol_f2b97f4b1e.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1949_90a2196e14.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1950_022ca23df5.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1951_a9e605f7ef.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1952_8af9d31d77.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1955_f499e79431.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1956_fb8eba36ef.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1957_fb9e795d8f.jpg"
+  ],
+  "origin_label": "Pháp",
+  "country": "Pháp",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Thuốc bột uống",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Sorbitol Delalande được sản xuất bởi Công ty Cổ phần Dược phẩm Sanofi - Synthelabo Việt Nam, có thành phần chính là sorbitol. Thuốc Sorbitol Delalande được sử dụng trong điều trị triệu chứng táo bón, phụ trợ chứng khó tiêu.</p>\n\n<p>Thuốc Sorbitol Delalande được bào chế dưới dạng thuốc bột uống. Gói 5 g. Hộp 20 gói.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p>Thuốc Sorbitol Delalande được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Điều trị triệu chứng <a href=\"https://nhathuoclongchau.com.vn/benh/tao-bon-246.html\">táo bón</a>.</li>\n\t<li>Điều trị phụ trợ chứng khó tiêu.</li>\n</ul>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p><em>Nhuận tràng thẩm thấu</em></p>\n\n<p><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/sorbitol\">Sorbitol</a> kích thích sự bài tiết cholecystokinin - pancreozymin làm co túi mật và bài tiết dịch tụy. Nó làm tăng lượng nước vào trong lòng ruột và làm tăng nhu động do tác dụng thẩm thấu.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Sorbitol được chuyển hóa thành fructose và sau đó là glucose dưới tác dụng của men Sorbitol – dehydrogenase.</p>\n\n<p>Một lượng rất nhỏ Sorbitol không chuyển hóa được bài tiết qua thận. Phần còn lại được thải qua đường thở dưới dạng co2 khi thở ra.</p>",
+  "ingredients_html": [
+    {
+      "id": 34196,
+      "ingredientId": 36574,
+      "shortDescription": "5g",
+      "name": "Sorbitol",
+      "isPrimary": false,
+      "slug": "thanh-phan/sorbitol"
+    }
+  ],
+  "stock_qty": 0
+}

@@ -1,0 +1,44 @@
+{
+  "id": "00503006",
+  "slug": "thuoc/cyramza-500mg50ml-lilly-hop-1-lo-37315.html",
+  "title": "Thuốc Cyramza 500mg/50ml Lilly điều trị ung thư dạ dày, ung thư phổi, ung thư gan",
+  "short_title": "CYRAMZA 500MG/50ML LILLY",
+  "brand": {
+    "name": "Lilly",
+    "slug": "thuong-hieu/lilly",
+    "country": "Hoa Kỳ"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-dieu-tri-ung-thu/thuoc-chong-ung-thu",
+    "name": "Thuốc chống ung thư",
+    "parent_slug": "thuoc/thuoc-dieu-tri-ung-thu"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp x 50ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/862_4083db9e9b.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/862_4083db9e9b.jpg"
+  ],
+  "origin_label": "Hoa Kỳ",
+  "country": "Hoa Kỳ",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch đậm đặc để pha dung dịch tiêm truyền",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Cyramza 500mg/50ml là sản phẩm của Eli Lilly and Company Indianapolis, thành phần chính là Ramucirumab hàm lượng 500mg, ngoài ra còn chứa tá dược Natri 85mg. Thuốc được khá nhiều người biết đến với công dụng điều trị một số căn bệnh ung thư như ung thư dạ dày, ung thư phổi, ung thư gan,...</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Cyramza 500mg/50ml được chỉ định dùng trong điều trị các loại ung thư như ung thư dạ dày, ung thư phổi, ung thư gan,...</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 43484,
+      "ingredientId": 34309,
+      "shortDescription": "500mg",
+      "name": "Ramucirumab",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

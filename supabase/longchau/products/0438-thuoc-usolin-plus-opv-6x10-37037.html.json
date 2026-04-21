@@ -1,0 +1,60 @@
+{
+  "id": "00502735",
+  "slug": "thuoc/usolin-plus-opv-6x10-37037.html",
+  "title": "Thuốc Usolin Plus OPV hỗ trợ điều trị một số bệnh gan mãn tính (6 vỉ x 10 viên)",
+  "short_title": "USOLIN PLUS OPV 6X10",
+  "brand": {
+    "name": "Opv",
+    "slug": "thuong-hieu/opv",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-benh-gan",
+    "name": "Thuốc trị bệnh gan",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_usolin_plus_2_i3056_ec28b02b3c.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_usolin_plus_2_i3056_ec28b02b3c.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Usolin Plus là sản phẩm của OPV, có thành phần chính là Riboflavin, Thiamin nitrate, Ursodeoxycholic acid. Đây là thuốc được sử dụng để hỗ trợ điều trị một số bệnh gan mãn tính như bệnh lý gan do rượu, sỏi mật và bệnh gan do liên quan đến đường mật nguyên phát.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc Usolin Plus được chỉ định dùng trong các trường hợp sau:</p><ul><li dir=\"ltr\">Hỗ trợ điều trị một số bệnh gan mãn tính như bệnh lý gan do rượu, sỏi mật và bệnh gan do liên quan đến đường mật nguyên phát.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 42148,
+      "ingredientId": 34748,
+      "shortDescription": "5mg",
+      "name": "Riboflavin",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 42149,
+      "ingredientId": 38161,
+      "shortDescription": "10mg",
+      "name": "Thiamin nitrate",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 42150,
+      "ingredientId": 39916,
+      "shortDescription": "50mg",
+      "name": "Ursodeoxycholic acid",
+      "isPrimary": false,
+      "slug": "thanh-phan/ursodeoxycholic-acid"
+    }
+  ],
+  "stock_qty": 0
+}

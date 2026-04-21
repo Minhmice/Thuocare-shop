@@ -1,0 +1,44 @@
+{
+  "id": "00502758",
+  "slug": "thuoc/thuoc-ucolic-tablet-200mg-nexpharm-hop-5x10-37063.html",
+  "title": "Thuốc Ucolic Tablet 200mg Nexpharm điều trị bệnh đường mật và túi mật (5 vỉ x 10 viên)",
+  "short_title": "UCOLIC TABLET 200MG NEXPHARM 5X10",
+  "brand": {
+    "name": "Nexpharm",
+    "slug": "thuong-hieu/nexpharm",
+    "country": "Hàn Quốc"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-gan-mat",
+    "name": "Thuốc gan mật",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00502758_dad423aa9c.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00502758_dad423aa9c.jpg"
+  ],
+  "origin_label": "Hàn Quốc",
+  "country": "Hàn Quốc",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Ucolic Tablet là sản phẩm của Nexpharm, có thành phần chính là Acid ursodeoxycholic. Đây là thuốc được sử dụng để điều trị bệnh đường mật và túi mật (viêm túi mật, viêm đường mật) do giảm bài tiết, cải thiện chức năng gan trong bệnh gan mạn tính, tăng cholesterol huyết, bệnh sỏi mật (sỏi cholesterol trong túi mật), cải thiện chức năng gan trong xơ gan nguyên phát.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc Ucolic Tablet được chỉ định dùng trong các trường hợp sau:</p><ul><li>Bệnh đường mật và túi mật (viêm túi mật, viêm đường mật) do giảm bài tiết.</li><li>Cải thiện chức năng gan trong bệnh gan mạn tính.</li><li>Tăng cholesterol huyết.</li><li>Bệnh sỏi mật (sỏi cholesterol trong túi mật).</li><li>Cải thiện chức năng gan trong xơ gan nguyên phát.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 63434,
+      "ingredientId": 41894,
+      "shortDescription": "200mg",
+      "name": "Acid ursodeoxycholic",
+      "isPrimary": true,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

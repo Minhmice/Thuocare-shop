@@ -1,0 +1,44 @@
+{
+  "id": "00041210",
+  "slug": "thuoc/dizantan-80-mg-3-x10.html",
+  "title": "Thuốc Dizantan 80mg Korea United điều trị tăng huyết áp, suy tim, giảm tỷ lệ tử vong do tim mạch (3 vỉ x 10 viên)",
+  "short_title": "DIZANTAN 80MG 3X10",
+  "brand": {
+    "name": "Korea United",
+    "slug": "thuong-hieu/korea-united",
+    "country": "Hàn Quốc"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap",
+    "name": "Thuốc tim mạch huyết áp",
+    "parent_slug": "thuoc/thuoc-tim-mach-and-mau"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/49_4e0cd3c36a.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/49_4e0cd3c36a.png"
+  ],
+  "origin_label": "Hàn Quốc",
+  "country": "Hàn Quốc",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Dizantan 80 là sản phẩm của Công ty Cổ phần Korea United Pharm, có thành phần chính là Valsartan. Đây là thuốc dùng cho bệnh nhân tăng huyết áp, bệnh nhân suy tim, giảm tỷ lệ tử vong do tim mạch ở những bệnh nhân suy tâm thất trái sau nhồi máu cơ tim.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Dizantan 80 được chỉ định dùng trong các trường hợp sau:</p><ul><li>Bệnh nhân tăng huyết áp.</li><li>Bệnh nhân suy tim.</li><li>Giảm tỷ lệ tử vong do tim mạch ở những bệnh nhân suy tâm thất trái sau nhồi máu cơ tim.</li></ul><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 58991,
+      "ingredientId": 40025,
+      "shortDescription": "",
+      "name": "Valsartan",
+      "isPrimary": false,
+      "slug": "thanh-phan/valsartan"
+    }
+  ],
+  "stock_qty": 0
+}

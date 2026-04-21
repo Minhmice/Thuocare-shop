@@ -1,0 +1,228 @@
+{
+  "id": "00038602",
+  "slug": "thuoc/nhu-tuong-truyen-tinh-mach-kabiven-peripheral-1000-kcal-tui-3-ngan-1440-ml.html",
+  "title": "Nhũ tương truyền tĩnh mạch Kabiven Peripheral 1000kcal Fresenius Kabi gồm glucose, acid amin, intralipid (1440ml)",
+  "short_title": "NHŨ TƯƠNG TRUYỀN TĨNH MẠCH KABIVEN PERIPHERAL 1000 KCAL TÚI 3 NGĂN 1440ML",
+  "brand": {
+    "name": "Fresenius Kabi",
+    "slug": "thuong-hieu/fresenius-kabi",
+    "country": "Đức"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tiem-chich-and-dich-truyen/dich-truyen",
+    "name": "Dịch truyền",
+    "parent_slug": "thuoc/thuoc-tiem-chich-and-dich-truyen"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Túi",
+  "pack_note": "Túi x 1440ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00038602_NHU_TUONG_TRUYEN_TINH_MACH_KABIVEN_PERIPHERAL_1000_KCAL_TUI_3_NGAN_1440_ML_e4eb516eaa.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00038602_NHU_TUONG_TRUYEN_TINH_MACH_KABIVEN_PERIPHERAL_1000_KCAL_TUI_3_NGAN_1440_ML_e4eb516eaa.png"
+  ],
+  "origin_label": "Đức",
+  "country": "Đức",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Nhũ tương tiêm truyền",
+  "trust_label": null,
+  "short_description": "<p>Nhũ tương truyền tĩnh mạch Kabiven Peripheral là sản phẩm của Fresenius Kabi AB (Thụy Điển) chứa các thành phần (dung dịch glucose 11%, dung dịch acid amin có điện giải và nhũ tương mỡ intralipid 20%) được dùng để nuôi dưỡng qua đường truyền tĩnh mạch đối với các bệnh nhân và trẻ em trên 2 tuổi khi việc nuôi dưỡng qua đường miệng và đường tiếu hóa không thể thực hiện, không đủ họặc bị chống chỉ định.</p><p>Kabiven Peripheral gồm 1 túi 3 ngăn và 1 bao bọc ngoài. Chất hấp thụ khi oxy được đặt giữa túi trong và bao bọc ngoài. Túi trong được chia thành 3 ngăn bởi các màng nối.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Nhũ tương truyền tĩnh mạch Kabiven Peripheral nuôi dưỡng qua đường truyền tĩnh mạch đối với các bệnh nhân và trẻ em trên 2 tuổi khi việc nuôi dưỡng qua đường miệng và đường tiếu hóa không thể thực hiện, không đủ họặc bị chống chỉ định.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 65485,
+      "ingredientId": 42124,
+      "shortDescription": "97g",
+      "name": "Glucose Monohydrat",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 65486,
+      "ingredientId": 42982,
+      "shortDescription": "51g",
+      "name": "Dầu đậu nành",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 65487,
+      "ingredientId": 8011,
+      "shortDescription": "4.8g",
+      "name": "Alanine",
+      "isPrimary": false,
+      "slug": "thanh-phan/alanine"
+    },
+    {
+      "id": 65488,
+      "ingredientId": 9427,
+      "shortDescription": "3.4g",
+      "name": "Arginina",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 65489,
+      "ingredientId": 7419,
+      "shortDescription": "1g",
+      "name": "Acid aspartic",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 65490,
+      "ingredientId": 42984,
+      "shortDescription": "1.7g",
+      "name": "Acid glutamic",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 65491,
+      "ingredientId": 21480,
+      "shortDescription": "2.4g",
+      "name": "Glycin",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 65492,
+      "ingredientId": 22311,
+      "shortDescription": "2g",
+      "name": "Histidine",
+      "isPrimary": false,
+      "slug": "thanh-phan/histidine"
+    },
+    {
+      "id": 65493,
+      "ingredientId": 24118,
+      "shortDescription": "1.7g",
+      "name": "Isoleucine",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 65494,
+      "ingredientId": 25341,
+      "shortDescription": "2.4g",
+      "name": "Leucine",
+      "isPrimary": false,
+      "slug": "thanh-phan/leucine"
+    },
+    {
+      "id": 65495,
+      "ingredientId": 26159,
+      "shortDescription": "2.7g",
+      "name": "Lysine",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 65496,
+      "ingredientId": 27176,
+      "shortDescription": "1.7g",
+      "name": "Methionin",
+      "isPrimary": false,
+      "slug": "thanh-phan/methionin"
+    },
+    {
+      "id": 65497,
+      "ingredientId": 32295,
+      "shortDescription": "2.4g",
+      "name": "Phenylalanine",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 65498,
+      "ingredientId": 33545,
+      "shortDescription": "2g",
+      "name": "Proline",
+      "isPrimary": false,
+      "slug": "thanh-phan/proline"
+    },
+    {
+      "id": 65499,
+      "ingredientId": 35860,
+      "shortDescription": "1.4g",
+      "name": "Serine",
+      "isPrimary": false,
+      "slug": "thanh-phan/serine"
+    },
+    {
+      "id": 65500,
+      "ingredientId": 38333,
+      "shortDescription": "1.7g",
+      "name": "Threonine",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 65501,
+      "ingredientId": 39571,
+      "shortDescription": "0.57g",
+      "name": "Tryptophan",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 65502,
+      "ingredientId": 39737,
+      "shortDescription": "0.07g",
+      "name": "Tyrosine",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 65503,
+      "ingredientId": 40006,
+      "shortDescription": "2.2g",
+      "name": "Valine",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 65504,
+      "ingredientId": 41921,
+      "shortDescription": "0.22g",
+      "name": "Calci clorid dihydrat",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 65505,
+      "ingredientId": 42985,
+      "shortDescription": "1.5g",
+      "name": "Natri glycerophosphat",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 65506,
+      "ingredientId": 26301,
+      "shortDescription": "0.48g",
+      "name": "Magnesi sulfat",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 65507,
+      "ingredientId": 24401,
+      "shortDescription": "1.8g",
+      "name": "Kali clorid",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 65508,
+      "ingredientId": 42986,
+      "shortDescription": "1.5g",
+      "name": "Natri acetat",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

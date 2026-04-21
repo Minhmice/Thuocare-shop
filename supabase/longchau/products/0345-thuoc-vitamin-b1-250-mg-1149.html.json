@@ -1,0 +1,44 @@
+{
+  "id": "00011064",
+  "slug": "thuoc/vitamin-b1-250-mg-1149.html",
+  "title": "Thuốc Vitamin B1 250mg Domesco điều trị tình trạng thiếu Vitamin B1 (100 viên)",
+  "short_title": "VITAMIN B1 250 DMC 100V",
+  "brand": {
+    "name": "Domesco",
+    "slug": "thuong-hieu/domesco",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+    "name": "Thuốc bổ",
+    "parent_slug": "thuoc/thuoc-bo-and-vitamin"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 100 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/vitamin_b1_4261823337.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/vitamin_b1_4261823337.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang cứng (nâu-xanh)",
+  "trust_label": null,
+  "short_description": "<p>Vitamin B1 250 mg là sản phẩm của Công ty Cổ phần Hóa - Dược Phẩm Mekophar, thành phần chính là vitamin B1, được dùng để điều trị tình trạng thiếu vitamin B1 nặng, rối loạn chuyển hóa do thiếu enzym có tính di truyền có đáp ứng với thiamin.</p>\n\n<p>Vitamin B1 250 mg được bào chế dưới dạng viên nang, thuốc được đóng gói theo quy cách: Hộp 1 chai x 100 viên.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p>Thuốc Vitamin B1 250 mg được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Điều trị các bệnh do thiếu Vitamin B1 như bệnh tê phù, bệnh não Wernicke, viêm dây thần kinh ngoại biên cùng chứng nứt da, viêm dây thần kinh của phụ nữ mang thai (nếu có kết hợp với triệu chứng nôn ói nặng).</li>\n\t<li>Trị những hội chứng đau như cơn <a href=\"https://nhathuoclongchau.com.vn/benh/nhuc-dau-24.html\">nhức đầu</a>. </li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p>Vitamin B1 (Thiamin) là một vitamin tan trong nước, cần thiết cho sự chuyển hóa carbohydrat, hiện diện trong nhiều loại thức ăn như: Men bia, hạt ngũ cốc, củ quả, quả hạch, thịt...</p>\n\n<p>Vitamin B1 hoạt động bằng cách kết hợp với Adenosin triphosphat (ATP) ở gan, thận và bạch cầu tạo thành Thiamin diphosphat (Thiamin pyrophosphat) đóng vai trò coenzym trong quá trình chuyển hóa carbohydrat và các phản ứng transketola hóa.</p>\n\n<h3>Dược động học</h3>\n\n<p>Sự hấp thu vitamin B1 trong ăn uống hàng ngày qua đường tiêu hóa là do sự vận chuyển tích cực không phụ thuộc Na+. Ở người lớn, khoảng 1 mg vitamin B1 bị chuyển hóa hoàn toàn mỗi ngày trong các mô, và đây chính là lượng tối thiểu cần hàng ngày. Khi hấp thu ở mức thấp này, có rất ít hoặc không thấy vitamin B1 thải trừ qua nước tiểu.</p>\n\n<p>Khi hấp thu vượt quá nhu cầu tối thiểu, sau khi bão hòa ở các mô, lượng vitamin B1 thừa sẽ được thải trừ qua nước tiểu dưới dạng phân tử vitamin B1 nguyên vẹn. Khi hấp thu vitamin B1 tăng lên hơn nữa, thải trừ dưới dạng vitamin B1 chưa chuyển hóa sẽ tăng hơn.</p>",
+  "ingredients_html": [
+    {
+      "id": 24501,
+      "ingredientId": 38162,
+      "shortDescription": "250mg",
+      "name": "Thiamine",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

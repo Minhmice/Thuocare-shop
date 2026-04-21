@@ -1,0 +1,44 @@
+{
+  "id": "00502846",
+  "slug": "thuoc/codintec-100mg5ml-dopharma-70ml-37140.html",
+  "title": "Bột pha hỗn dịch uống Codintec 100mg/5ml Dopharma điều trị nhiễm khuẩn (70ml)",
+  "short_title": "CODINTEC 100MG/5ML DOPHARMA 70ML",
+  "brand": {
+    "name": "Dopharma",
+    "slug": "thuong-hieu/dopharma",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-khang-sinh-khang-nam/thuoc-khang-sinh",
+    "name": "Thuốc kháng sinh",
+    "parent_slug": "thuoc/thuoc-khang-sinh-khang-nam"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp x 70ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/19_d423bc82c1.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/19_d423bc82c1.png"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Hỗn dịch",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Codintec là sản phẩm của Công ty Cổ phần Dược phẩm Trung ương 2 (Dopharma) chứa hoạt chất Cefpodoxime dùng điều trị nhiễm khuẩn từ nhẹ đến trung bình như nhiễm khuẩn đường hô hấp, nhiễm khuẩn đường tiết niệu, bệnh lậu cấp không biến chứng.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Codintec chỉ định điều trị nhiễm khuẩn từ nhẹ đến trung bình như nhiễm khuẩn đường hô hấp, nhiễm khuẩn đường tiết niệu, bệnh lậu cấp không biến chứng.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 50439,
+      "ingredientId": 13621,
+      "shortDescription": "100mg",
+      "name": "Cefpodoxime",
+      "isPrimary": false,
+      "slug": "thanh-phan/cefpodoxime"
+    }
+  ],
+  "stock_qty": 0
+}

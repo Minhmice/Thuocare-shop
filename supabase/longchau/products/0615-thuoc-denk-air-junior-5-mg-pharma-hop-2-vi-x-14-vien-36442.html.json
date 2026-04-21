@@ -1,0 +1,44 @@
+{
+  "id": "00502193",
+  "slug": "thuoc/denk-air-junior-5-mg-pharma-hop-2-vi-x-14-vien-36442.html",
+  "title": "Thuốc Denk-Air Junior 5mg Denk Pharma điều trị hen suyễn (2 vỉ x 14 viên)",
+  "short_title": "DENK-AIR JUNIOR 5 MG PHARMA - HỘP 2 VỈ x 14 VIÊN",
+  "brand": {
+    "name": "Denk",
+    "slug": "thuong-hieu/denk",
+    "country": "Đức"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-ho-hap/thuoc-tri-hen-suyen",
+    "name": "Thuốc trị hen suyễn",
+    "parent_slug": "thuoc/thuoc-ho-hap"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 2 Vỉ x 14 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/3_d3db834903.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/3_d3db834903.png"
+  ],
+  "origin_label": "Đức",
+  "country": "Đức",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén nhai",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Denk-Air Junior 5mg dùng trong trong điều trị hen suyễn.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Denk-Air Junior 5mg dùng trong trong điều trị <a href=\"https://nhathuoclongchau.com.vn/benh/hen-suyen-1397.html\">hen suyễn</a>.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 56394,
+      "ingredientId": 27994,
+      "shortDescription": "5mg",
+      "name": "Montelukast",
+      "isPrimary": false,
+      "slug": "thanh-phan/montelukast"
+    }
+  ],
+  "stock_qty": 0
+}

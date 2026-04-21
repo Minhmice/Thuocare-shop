@@ -1,0 +1,44 @@
+{
+  "id": "00038569",
+  "slug": "thuoc/blosatin-20-hasan-5-x10.html",
+  "title": "Thuốc Blosatin 20 Hasan điều trị triệu chứng viêm mũi dị ứng, viêm kết mạc dị ứng (5 vỉ x 10 viên)",
+  "short_title": "BLOSATIN 20 HASAN 5X10",
+  "brand": {
+    "name": "Hasan",
+    "slug": "thuong-hieu/hasan",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-di-ung/thuoc-chong-di-ung",
+    "name": "Thuốc chống dị ứng",
+    "parent_slug": "thuoc/thuoc-di-ung"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 5 Vỉ x 10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/blosatin_20_5fa0177f65.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/blosatin_20_5fa0177f65.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Blosatin 20 là sản phẩm của Hasan Dermapharm chứa hoạt chất Ebastine được dùng trong các trường hợp: Điều trị các triệu chứng dị ứng như viêm mũi dị ứng, viêm kết mạc dị ứng theo mùa hoặc quanh năm (chảy nước mũi, ngứa mũi, ngứa mắt, khóc, hắt hơi...), nổi mề đay vô căn, viêm da dị ứng.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Blosatin 20 chỉ định điều trị trong các trường hợp sau:</p><ul><li>Điều trị các triệu chứng dị ứng như viêm mũi dị ứng, viêm kết mạc dị ứng theo mùa hoặc quanh năm (chảy nước mũi, ngứa mũi, ngứa mắt, khóc, hắt hơi...).</li><li>Nổi mề đay vô căn.</li><li>Viêm da dị ứng.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 54001,
+      "ingredientId": 18865,
+      "shortDescription": "20mg",
+      "name": "Ebastine",
+      "isPrimary": false,
+      "slug": "thanh-phan/ebastine"
+    }
+  ],
+  "stock_qty": 0
+}

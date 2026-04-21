@@ -1,0 +1,44 @@
+{
+  "id": "00502034",
+  "slug": "thuoc/oteotan-1mg05ml-lesvi-20-tuyp-36245.html",
+  "title": "Dung dịch nhỏ tai Oteotan 1mg/0.5ml Lesvi điều trị viêm tai ngoài cấp tính và viêm tai giữa có mủ mạn tính (20 tuýp)",
+  "short_title": "OTEOTAN 1MG/0.5ML LESVI 20 TUÝP",
+  "brand": {
+    "name": "Lesvi",
+    "slug": "thuong-hieu/lesvi",
+    "country": "Tây Ban Nha"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-mat-tai-mui-hong/thuoc-nho-tai",
+    "name": "Thuốc nhỏ tai",
+    "parent_slug": "thuoc/thuoc-mat-tai-mui-hong"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Tuýp",
+  "pack_note": "20 Tuýp",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/oteotan_85d8e7272e.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/oteotan_85d8e7272e.jpg"
+  ],
+  "origin_label": "Tây Ban Nha",
+  "country": "Tây Ban Nha",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch nhỏ tai",
+  "trust_label": null,
+  "short_description": "<p>Dung dịch nhỏ tai Oteotan chỉ định để điều trị viêm tai ngoài cấp tính và <a href=\"https://nhathuoclongchau.com.vn/benh/viem-tai-giua-474.html\">viêm tai giữa</a> có mủ mạn tính.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Dung dịch nhỏ tai Oteotan chỉ định để điều trị trong các trường hợp sau:</p><ul><li><a href=\"https://nhathuoclongchau.com.vn/benh/viem-tai-ngoai-475.html\">Viêm tai ngoài</a> cấp tính và viêm tai giữa có mủ mạn tính người lớn.</li><li>Viêm tai ngoài cấp tính ở trẻ em từ 1 tuổi trở lên có màng nhĩ còn nguyên vẹn.</li><li>Cần xem xét các hướng dẫn chính thức về việc sử dụng kháng sinh hợp lý.</li></ul><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 41989,
+      "ingredientId": 14869,
+      "shortDescription": "1mg",
+      "name": "Ciprofloxacin",
+      "isPrimary": false,
+      "slug": "thanh-phan/ciprofloxacin"
+    }
+  ],
+  "stock_qty": 0
+}

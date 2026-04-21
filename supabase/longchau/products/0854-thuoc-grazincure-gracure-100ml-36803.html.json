@@ -1,0 +1,44 @@
+{
+  "id": "00502550",
+  "slug": "thuoc/grazincure-gracure-100ml-36803.html",
+  "title": "Thuốc Grazincure 100ml Gracure điều trị tiêu chảy, thiếu kẽm, suy giảm miễn dịch",
+  "short_title": "GRAZINCURE GRACURE 100ML",
+  "brand": {
+    "name": "Gracure",
+    "slug": "thuong-hieu/gracure",
+    "country": "Ấn Độ"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-bo-and-vitamin/siro-bo",
+    "name": "Siro bổ",
+    "parent_slug": "thuoc/thuoc-bo-and-vitamin"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp x 100ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/grazin_c4fa6b0e7b.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/grazin_c4fa6b0e7b.jpg"
+  ],
+  "origin_label": "Ấn Độ",
+  "country": "Ấn Độ",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch uống",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Grazincure là sản phẩm của Gracure, có thành phần chính là Kẽm. Đây là thuốc được sử dụng cho các trường hợp tiêu chảy, thiếu kẽm, suy giảm miễn dịch, duy trì vị giác, làm lành vết thương, rụng tóc.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc <a href=\"https://nhathuoclongchau.com.vn/thuoc/grazincure-gracure-100ml-36803.html\">Grazincure</a> được chỉ định dùng trong các trường hợp sau:</p><ul><li><a href=\"https://nhathuoclongchau.com.vn/benh/tieu-chay-133.html\">Tiêu chảy</a>;</li><li>Thiếu kẽm;</li><li>Suy giảm miễn dịch;</li><li>Duy trì vị giác;</li><li>Làm lành vết thương;</li><li><a href=\"https://nhathuoclongchau.com.vn/benh/rung-toc-532.html\">Rụng tóc</a>.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 40337,
+      "ingredientId": 24482,
+      "shortDescription": "10mg",
+      "name": "Kẽm",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

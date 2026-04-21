@@ -1,0 +1,44 @@
+{
+  "id": "00039463",
+  "slug": "thuoc/atimezon-inj-omeprazole-40-mg-an-thien-hop-3-lo-bot-dong-kho-3-ong-dung-moi-10-ml.html",
+  "title": "Bột pha tiêm Atimezon inj Omeprazole 40mg An Thiên điều trị chứng tăng tiết acid dạ dày (3 lọ bột đông khô + 3 ống dung môi 10 ml)",
+  "short_title": "ATIMEZON INJ OMEPRAZOLE 40MG AN THIÊN - HỘP 3 LỌ BỘT ĐÔNG KHÔ + 3 ỐNG DUNG MÔI 10 ML",
+  "brand": {
+    "name": "An Thiên",
+    "slug": "thuong-hieu/an-thien",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-da-day",
+    "name": "Thuốc dạ dày",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 3 Lọ",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00039463_a1c5455118.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00039463_a1c5455118.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Bột đông khô pha tiêm",
+  "trust_label": null,
+  "short_description": "<p>Thuốc AtiMezon inj là sản phẩm của Công ty Cổ phần Dược phẩm An Thiên, có thành phần chính là Omeprazol. Đây là thuốc được sử dụng để điều trị các chứng tăng tiết acid dạ dày khi điều trị không hiệu quả bằng đường uống.</p><div class=\"sc-cfJLRR fLMgbK\"><div class=\"sc-jibziO nuTZf\">&nbsp;</div></div>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc AtiMezon inj được chỉ định dùng trong các trường hợp sau:</p><p>Điều trị các chứng tăng tiết acid dạ dày khi điều trị không hiệu quả bằng đường uống trong:</p><ul><li>Loét dạ dày - tá tràng.</li><li>Hội chứng Zollinger - Ellison.</li><li>Trào ngược dạ dày.</li><li>Viêm thực quản kèm loét.</li></ul><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 58610,
+      "ingredientId": 30863,
+      "shortDescription": "40mg",
+      "name": "Omeprazol",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

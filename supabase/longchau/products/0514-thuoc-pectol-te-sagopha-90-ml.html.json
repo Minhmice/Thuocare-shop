@@ -1,0 +1,76 @@
+{
+  "id": "00047527",
+  "slug": "thuoc/pectol-te-sagopha-90-ml.html",
+  "title": "Siro trị ho Pectol Te Sagopha điều trị ho, viêm phế quản, sổ mũi, cảm mạo do phong hàn gây ra (90ml)",
+  "short_title": "PECTOL TE SAGOPHA 90ML",
+  "brand": {
+    "name": "Sagopha",
+    "slug": "thuong-hieu/sagopha",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-ho-hap/siro-tri-ho-cam",
+    "name": "Siro trị ho cảm",
+    "parent_slug": "thuoc/thuoc-ho-hap"
+  },
+  "price_amount": 55000,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp x 90ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/pectol_ca6093486e.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/pectol_ca6093486e.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Siro",
+  "trust_label": null,
+  "short_description": "<p>Pectol Te là sản phẩm của Công ty TNHH Dược phẩm Sài Gòn (Sagopha) có chứa thành phần chính là Trần bì, Núc nác, Húng chanh, Cát cánh, An tức hương được chỉ định để điều trị ho, viêm phế quản, sổ mũi, cảm mạo do phong hàn gây ra.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Pectol Te chỉ định điều trị trong các trường hợp sau: Ho, Viêm phế quản, Sổ mũi, Cảm mạo do phong hàn gây ra.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 69186,
+      "ingredientId": 39051,
+      "shortDescription": "75mg",
+      "name": "Trần bì",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 69187,
+      "ingredientId": 30398,
+      "shortDescription": "100mg",
+      "name": "Núc nác",
+      "isPrimary": false,
+      "slug": "thanh-phan/nuc-nac"
+    },
+    {
+      "id": 69188,
+      "ingredientId": 22731,
+      "shortDescription": "2000mg",
+      "name": "Húng chanh",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 69189,
+      "ingredientId": 13188,
+      "shortDescription": "25mg",
+      "name": "Cát cánh",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 69190,
+      "ingredientId": 8972,
+      "shortDescription": "10mg",
+      "name": "An tức hương",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

@@ -1,0 +1,60 @@
+{
+  "id": "00008118",
+  "slug": "thuoc/wongel-suspension-10ml-1730.html",
+  "title": "Dung dịch Wongel Daewon điều trị viêm dạ dày, loét tá tràng (20 gói x 10ml)",
+  "short_title": "WONGEL 798 DAEWON 20 GÓI",
+  "brand": {
+    "name": "Daewon",
+    "slug": "thuong-hieu/daewon",
+    "country": "Hàn Quốc"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-da-day",
+    "name": "Thuốc dạ dày",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Gói",
+  "pack_note": "20 Gói x 10ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/wongel_bfd76da3f0.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/wongel_bfd76da3f0.jpg"
+  ],
+  "origin_label": "Hàn Quốc",
+  "country": "Hàn Quốc",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch uống",
+  "trust_label": null,
+  "short_description": "<p style=\"text-align:justify;\"><strong>Wongel Suspension 10 ml</strong> là sản phẩm thuốc của <em>công ty Daewon Pharmaceutical Co., Ltd. </em>- Hàn Quốc với các thành phần hoạt chất là Aluminum oxide, Magnesium hydroxide, Oxethazaine. Thuốc được chỉ định để điều trị đau cấp tính – mạn tính trong <strong><a href=\"https://nhathuoclongchau.com.vn/benh/viem-da-day-137.html\">bệnh viêm dạ dày</a></strong>, loét tá tràng, viêm thực quản và đau bụng do khó tiêu, trong chụp X-quang.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p><strong>Thuốc Wongel Suspension 10 ml</strong> được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Chỉ định điều trị đau cấp tính – mạn tính trong bệnh viêm dạ dày, loét tá tràng, viêm thực quản và đau bụng do khó tiêu, trong chụp X-quang. </li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p>Oxethazaine hay 2,2-(2-hydroxyethylimino)bis[N-(1,1-dimethyl-2-phenylethyl)N-methylacetamide] là một glycine amide tương tự như lidocaine. Đây là một chất gây tê tại chỗ an toàn và hiệu quả. Nó có tác dụng gây tê niêm mạc kéo dài sau khi dùng tại chỗ.</p>\n\n<p>Oxethazaine có tác dụng hiệu quả hơn nhiều lần so với cocaine, <strong><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/procaine\">procaine</a></strong>, lidocaine hoặc dibucaine. Trên các thử nghiệm ở người cũng như ở vật thí nghiệm, người ta thấy Oxethazaine là một chất lý tưởng không độc tính giúp làm giảm acid dịch vị, có thể là nhờ cơ chế ức chế sự bài tiết gastrin, secretin và những chất khác trong dịch vị.</p>\n\n<p>Oxethazaine kết hợp với nhôm và magnesi hydroxyd sẽ giúp làm giảm đau và giảm những triệu chứng khó chịu ở dạ dày. Tác dụng này kéo dài hơn và mạnh mẽ hơn so với khi sử dụng kháng acid đơn độc.</p>\n\n<p>Oxethazaine thêm vào những hợp chất kháng acid chuẩn sẽ giúp làm giảm liều dùng của kháng acid cần thiết để làm giảm đau và sẽ làm cho bệnh nhân có cảm giác dễ chịu hơn nhiều so với khi sử dụng kháng acid đơn độc.</p>\n\n<h3>Dược động học</h3>\n\n<p>Những nghiên cứu trên người cho thấy rằng một lượng nhỏ nhôm từ hydroxyd nhôm và khoảng 10% magnesi từ magnesi hydroxyd được hấp thu từ đường tiêu hóa.</p>\n\n<p>Sau khi uống 10 ml hỗn hợp alumina gel với magnesi hydroxid có chứa 20mg oxethazaine, nồng độ đỉnh của oxethazaine trong máu đạt xấp xỉ 20ng/ml khoảng 1 giờ sau khi uống.</p>\n\n<p>Oxethazaine sẽ được chuyển đổi nhanh và mạnh, dẫn đến thời gian bán hủy trong máu khá ngắn, chỉ khoảng độ 1 giờ. Sau 24 giờ, có ít hơn 0,1% oxethazaine được đào thải qua nước tiểu dưới dạng không đổi. Chất chuyển hóa chính của oxethazaine là β-hydroxy-mephentermine và β-hydroxy-phentermine.</p>\n\n<p>Xét về mặt dược lý, mephentermine và phentermine xuất hiện trong máu với lượng không đáng kể và có ít hơn 0,1% lượng chất này được đào thải qua nước tiểu trong vòng 24 giờ.</p>",
+  "ingredients_html": [
+    {
+      "id": 23849,
+      "ingredientId": 26346,
+      "shortDescription": "196mg",
+      "name": "Magnesium hydroxide",
+      "isPrimary": false,
+      "slug": "thanh-phan/magnesium-hydroxide"
+    },
+    {
+      "id": 23850,
+      "ingredientId": 29800,
+      "shortDescription": "291mg",
+      "name": "Nhôm hydroxyd",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 23851,
+      "ingredientId": 31144,
+      "shortDescription": "20mg",
+      "name": "Oxethazaine",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

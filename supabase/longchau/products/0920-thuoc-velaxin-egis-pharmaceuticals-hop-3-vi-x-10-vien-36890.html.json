@@ -1,0 +1,44 @@
+{
+  "id": "00502620",
+  "slug": "thuoc/velaxin-egis-pharmaceuticals-hop-3-vi-x-10-vien-36890.html",
+  "title": "Thuốc Velaxin 75mg Egis Pharma điều trị trầm cảm nặng, rối loạn lo âu (3 vỉ x 10 viên)",
+  "short_title": "VELAXIN EGIS PHARMACEUTICALS 3X10",
+  "brand": {
+    "name": "Egis Pharma",
+    "slug": "thuong-hieu/egis-pharma",
+    "country": "Hungary"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-than-kinh/thuoc-chong-tram-cam",
+    "name": "Thuốc chống trầm cảm",
+    "parent_slug": "thuoc/thuoc-than-kinh"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/velaxin_ca6b2cdb6b5e48929488a7c05b7b9af1_master_e814afdc59.webp",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/velaxin_ca6b2cdb6b5e48929488a7c05b7b9af1_master_e814afdc59.webp"
+  ],
+  "origin_label": "Hungary",
+  "country": "Hungary",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang giải phóng chậm",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Velaxin là sản phẩm của Egis Pharmaceuticals Private Limited Company với thành phần chính là Venlafaxine. Thuốc Velaxin được dùng để điều trị trầm cảm nặng, rối loạn lo âu lan tỏa, rối loạn lo âu xã hội, rối loạn hoảng sợ.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><ul><li>Điều trị các triệu chứng của bệnh nhân đang trải qua tình trạng trầm cảm nặng.</li><li>Phòng tái phát của các cơn trầm cảm nặng.</li><li>Hỗ trợ trong giảm triệu chứng của rối loạn lo âu lan tỏa.</li><li>Điều trị hội chứng rối loạn lo âu xã hội.</li><li>Cải thiện tình trạng của người bị rối loạn hoảng sợ, bất kể có xuất hiện triệu chứng sợ nơi đông người hay không.</li></ul><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 67209,
+      "ingredientId": 40160,
+      "shortDescription": "75mg",
+      "name": "Venlafaxine",
+      "isPrimary": true,
+      "slug": "thanh-phan/venlafaxine"
+    }
+  ],
+  "stock_qty": 0
+}

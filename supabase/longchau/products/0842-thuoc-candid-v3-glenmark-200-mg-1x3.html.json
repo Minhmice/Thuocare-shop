@@ -1,0 +1,44 @@
+{
+  "id": "00038987",
+  "slug": "thuoc/candid-v3-glenmark-200-mg-1x3.html",
+  "title": "Viên đặt âm đạo Candid-V3 Glenmark điều trị bệnh nhiễm Candida (1 vỉ x 3 viên)",
+  "short_title": "CANDID V3 GLENMARK 200MG 1x3",
+  "brand": {
+    "name": "Glenmark",
+    "slug": "thuong-hieu/glenmark",
+    "country": "Ấn Độ"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-dat-am-dao",
+    "name": "Thuốc đặt âm đạo",
+    "parent_slug": "thuoc/thuoc-tiet-nieu-sinh-duc"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "3 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/609_4320ad5ff6.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/609_4320ad5ff6.jpg"
+  ],
+  "origin_label": "Ấn Độ",
+  "country": "Ấn Độ",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén đặt âm đạo",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Candid V3 là viên nén đặt âm đạo chứa hoạt chất Clotrimazol được chỉ định để điều trị tại chỗ nhiễm Candida âm hộ - âm đạo (VVC). Clotrimazol là thuốc được lựa chọn để điều trị bệnh <a href=\"https://nhathuoclongchau.com.vn/benh/nhiem-candida-197.html\">nhiễm Candida</a> âm đạo.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Candid V3 được chỉ định để điều trị tại chỗ nhiễm Candida âm hộ - âm đạo (VVC). Clotrimazol là thuốc được lựa chọn để điều trị bệnh nhiễm Candida âm đạo.</p><h3>Dược lực học</h3><p>Clotrimazol là một dẫn chất imidazol có tác dụng chống nấm do ức chế tổng hợp sterol của nấm. Nó ức chế sự chuyển 2,4 – methylenedihydrolanosterol thành demethylsterol, tiền chất của <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/ergosterol\">ergosterol</a>, một thành phần chính tạo nên màng tế bào chất của nấm.</p><p>Ở nồng độ ức chế tối thiểu, <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/clotrimazole\">clotrimazol</a> gây ra sự rò rỉ các hợp chất phospho nội tế bào vào môi trường xung quanh đồng thời bẻ gẫy các acid nucleic tế bào và làm tăng sự thoát kali. Nó cũng gây rò rỉ các chất thiết yêu nội bào dẫn đến ức chế tổng hợp các đại phân tử như protein, lipid, DNA và polysaccharid.</p><p>Các cơ chế tác dụng kháng nấm khác của clotrimazol bao gồm ảnh hưởng đến ATPase màng tế bào, các enzyme khác của màng tế bào, ảnh hưởng đến sự vận chuyển qua màng tế bào và chuyền hóa acid béo.</p><p><strong>Phổ kháng sinh vật:</strong></p><p><i>Nấm:</i></p><p>Clotrimazol là một chất chống nấm phổ rộng có tác dụng ức chế sự phát triển của hầu hết các nấm gây bệnh ở người bao gồm các loại sau:</p><p>a) Blastomyces dermatitidis</p><p>b) Candida spp: Clotrimazol có tác dụng chống lại Candida spp. như nystatin</p><p>c) Coccidioides immitis</p><p>d) Cryptococcus neoformans (Torula histolytica)</p><p>e) Dermatophytes (Trichophyton, Microsporum, Epidermophyton)</p><p>f) Histoplasma capsulatum</p><p>g) Malassezia furfur</p><p>h) Naegleria fowleri</p><p>1) Nocardia spp</p><p>J) Paracoccidioides brasiliensis</p><p>k) Sporotrichum schenckii</p><h3>Dược động học</h3><p>Điều tra về dược động học của viên đặt âm đạo Clotrimazol cho thấy chỉ có một lượng nhỏ (3 – 10% liều dùng) được hấp thu. Do lượng Clotrimazol hấp thu bị chuyển hóa nhanh qua gan thành chất chuyển hóa không có hoạt tính dược lý nên nồng độ đỉnh trong huyết tương của Clotrimazol sau khi đặt âm đạo liều 500 mg là dưới 10 ng/ml, điều này cho thấy viên Clotrimazol đặt âm đạo không gây tác dụng toàn thân hoặc tác dụng phụ.</p>",
+  "ingredients_html": [
+    {
+      "id": 55325,
+      "ingredientId": 15238,
+      "shortDescription": "200mg",
+      "name": "Clotrimazole",
+      "isPrimary": false,
+      "slug": "thanh-phan/clotrimazole"
+    }
+  ],
+  "stock_qty": 0
+}

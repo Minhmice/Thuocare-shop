@@ -1,0 +1,82 @@
+{
+  "id": "00500236",
+  "slug": "thuoc/bai-thach-truong-phuc-3x10-34372.html",
+  "title": "Thuốc Bài Thạch Trường Phúc phòng và hỗ trợ điều trị sỏi thận, sỏi mật (3 vỉ x 10 viên)",
+  "short_title": "BÀI THẠCH TRƯỜNG PHÚC 3X10",
+  "brand": {
+    "name": "TRƯỜNG PHÚC",
+    "slug": "thuong-hieu/truong-phuc",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-tri-benh-than",
+    "name": "Thuốc trị bệnh thận",
+    "parent_slug": "thuoc/thuoc-tiet-nieu-sinh-duc"
+  },
+  "price_amount": 99000,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 3 Vỉ x 10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00500236_bai_thach_truong_phuc_3x10_3941_6290_large_5eedfa1569.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00500236_bai_thach_truong_phuc_3x10_3941_6290_large_5eedfa1569.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00500236_bai_thach_truong_phuc_3x10_1653617739_b093546026.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00500236_bai_thach_truong_phuc_3x10_9409_6290_large_1ec2e28f53.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00500236_bai_thach_truong_phuc_3x10_3809_6290_large_85d5a0e415.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00500236_bai_thach_truong_phuc_3x10_9214_6290_large_52b51e7173.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00500236_bai_thach_truong_phuc_3x10_1266_6290_large_dde7a9fa6c.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00500236_bai_thach_truong_phuc_3x10_5769_6290_large_e0fb631896.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Bài Thạch Trường Phúc là sản phẩm của Công ty TNHH Dược Thảo Hoàng Thành có thành phần chính là cao đặc hỗn hợp từ các dược liệu như kim tiền thảo, xa tiên sử, bạch mao căn, đương quy, sinh địa, ý dĩ dùng phòng và hỗ trợ điều trị sỏi thận, sỏi đường tiết niệu, sỏi bàng quang, sỏi mật, tiểu buốt, tiểu rắt, tiểu ra máu.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p>Bài Thạch Trường Phúc chỉ định điều trị trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Phòng và hỗ trợ điều trị <a href=\"https://nhathuoclongchau.com.vn/benh/soi-than-358.html\">sỏi thận</a>, sỏi đường tiết niệu, sỏi bàng quang, <a href=\"https://nhathuoclongchau.com.vn/benh/soi-mat-241.html\">sỏi mật</a>, tiểu buốt, tiểu rắt, tiểu ra máu.</li>\n</ul>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Chưa có dữ liệu.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 37081,
+      "ingredientId": 40692,
+      "shortDescription": "0.8g",
+      "name": "Xa tiền tử",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 37082,
+      "ingredientId": 10116,
+      "shortDescription": "0.8g",
+      "name": "Bạch mao căn",
+      "isPrimary": false,
+      "slug": "thanh-phan/bach-mao-can"
+    },
+    {
+      "id": 37083,
+      "ingredientId": 36107,
+      "shortDescription": "0.8g",
+      "name": "Sinh Địa",
+      "isPrimary": false,
+      "slug": "thanh-phan/sinh-dia"
+    },
+    {
+      "id": 37084,
+      "ingredientId": 40836,
+      "shortDescription": "0.4g",
+      "name": "Ý Dĩ",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 37085,
+      "ingredientId": 24668,
+      "shortDescription": "3.2g",
+      "name": "Kim tiền thảo",
+      "isPrimary": false,
+      "slug": "thanh-phan/kim-tien-thao"
+    }
+  ],
+  "stock_qty": 0
+}

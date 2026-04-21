@@ -1,0 +1,44 @@
+{
+  "id": "00500853",
+  "slug": "thuoc/companity-cpc-1-4-x5-ong.html",
+  "title": "Thuốc Companity CPC1HN điều trị táo bón (4 vỉ x 5 ống) ",
+  "short_title": "COMPANITY CPC1 4X5 ỐNG ",
+  "brand": {
+    "name": "CPC1HN",
+    "slug": "thuong-hieu/cpc1hn",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-tao-bon",
+    "name": "Thuốc trị táo bón",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 4100,
+  "compare_at_amount": 0,
+  "unit": "Ống",
+  "pack_note": "5 Ống",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00500853_fcf2086ac4.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00500853_fcf2086ac4.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch uống",
+  "trust_label": null,
+  "short_description": "<p>Companity là sản phẩm của Công ty Cổ phần Dược phẩm CPC1 Hà Nội với thành phần chính là Lactulose. Thuốc Companity được chỉ định để điều trị táo bón, não gan, rối loạn chức năng đại tràng,...</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><ul><li>Điều trị bệnh não gan, hôn mê gan (cho người từ 18 tuổi trở lên).</li><li>Điều trị táo bón.</li></ul><h3>Dược lực học</h3><p>Lactulose là một disacharid tổng hợp, chứa galactose và fructose, được chuyển hóa bởi các vi khuẩn đường ruột thành acid lactic và một lượng nhỏ acid acetic và acid formic. Những acid này làm giảm pH của phân và chuyển amoniac (NH,) là dạng khuếch tán sang dạng ion amoni (NH,+) không khuếch tán được từ ruột vào máu. Hơn nữa, do môi trường ở ruột có tính acid hơn ở máu, nên amoniac có thể khuếch tán từ máu vào ruột, rồi lại chuyển thành ion amoni không hấp thu được. Kết quả là hàm lượng amoniac trong máu giảm. Tương tự, sự hấp thu các amin (cũng tham gia gây bệnh não do gan) có thể cũng giảm.</p><p>Nguyên nhân chính gây ngộ độc thần kinh trung ương ở người bị hôn mê do gan là tăng amoniac trong máu. Do vậy, lactulose được dùng trong điều trị bệnh não do gan, nhưng cần dùng liều cao. Khoảng 75 - 85% người bệnh có đáp ứng lâm sàng tốt với điều trị lactulose. Vì lactulose không gây độc, nên được dùng thay thế cho các kháng sinh như neomycin, đặc biệt khi cần điều trị lâu hoặc có chống chỉ định với neomycin. Lactulose không có tác dụng điều trị bệnh não không do nitrogen như các bệnh não do thuốc hoặc rối loạn chuyển hóa, điện giải.</p><p>Lactulose không có tác dụng trong điều trị hôn mê có liên quan đến viêm gan nhiễm khuẩn hoặc các rối loạn cấp khác ở gan. Khi tăng amoniac huyết do rối loạn chuyển hóa bẩm sinh, dùng lactulose cũng không có tác dụng.</p><h3>Dược động học</h3><p>Lactulose hầu như không được hấp thu ở đường tiêu hóa. Thuốc đến ruột già, chủ yếu ở dạng chưa chuyển hóa.</p><p>Thuốc được chuyển hóa bởi các vi khuẩn, tạo thành các acid hữu cơ, chủ yếu là acid lactic. Bài tiết qua nước tiểu dưới dạng chưa chuyển hóa khoảng 3% hoặc ít hơn. Thuốc thải trừ chủ yếu qua phân.</p>",
+  "ingredients_html": [
+    {
+      "id": 33359,
+      "ingredientId": 24951,
+      "shortDescription": "670mg",
+      "name": "Lactulose",
+      "isPrimary": false,
+      "slug": "thanh-phan/lactulose"
+    }
+  ],
+  "stock_qty": 0
+}

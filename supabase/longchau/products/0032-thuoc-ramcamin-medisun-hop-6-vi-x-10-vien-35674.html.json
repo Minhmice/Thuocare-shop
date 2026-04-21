@@ -1,0 +1,61 @@
+{
+  "id": "00501520",
+  "slug": "thuoc/ramcamin-medisun-hop-6-vi-x-10-vien-35674.html",
+  "title": "Thuốc Ramcamin Medisun hỗ trợ điều trị tuần hoàn não, suy giảm trí nhớ (6 vỉ x 10 viên)",
+  "short_title": "RAMCAMIN MEDISUN 6X10",
+  "brand": {
+    "name": "Medisun",
+    "slug": "thuong-hieu/medisun",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tang-cuong-tuan-hoan-nao",
+    "name": "Thuốc tăng cường tuần hoàn não",
+    "parent_slug": "thuoc/thuoc-tim-mach-and-mau"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 6 Vỉ x 10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03092_9fb9a5a8b9.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03092_9fb9a5a8b9.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03093_516184ef42.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03096_86c4f7d273.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03097_b5b6cc2a5a.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03098_9432e35eb7.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03100_d012c0f244.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03101_37bf916028.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03102_4c8ea1a24f.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/ramcamin_1_6bf2540b5d.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/ramcamin_2_a7926fc366.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang cứng",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Ramcamin là sản phẩm của Công ty Cổ phần Dược phẩm Medisun, có thành phần chính là Vincamin, Rutin. Đây là thuốc được sử dụng để hỗ trợ điều trị tuần hoàn não như: Suy giảm trí nhớ, mất khả năng tập trung; hỗ trợ tăng sức bền cho mao mạch.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p dir=\"ltr\">Thuốc Ramcamin được chỉ định dùng trong các trường hợp sau:</p><ul><li>Hỗ trợ điều trị suy tuần hoàn não: Giảm trí nhớ, mất khả năng tập trung.</li><li>Hỗ trợ tăng sức bền của mao mạch.</li></ul><h3>Dược lực học</h3><p>Vincamin có tác động trên sự chuyển hóa của tế bào thần kinh do làm tăng sức tiêu thụ oxy và giảm tỷ lệ lactat/pyruvat. Ngoài ra cũng làm tăng lưu lượng máu về các nơi bị thiếu máu cục bộ.</p><p>Rutin là chất cần thiết tạo collagen tế bào, bảo vệ thành mạch, giảm tính thấm mao mạch.</p><h3>Dược động học</h3><p>Thuốc được hấp thu nhanh và đạt nồng độ tối đa trong máu sau 2 giờ. Thuốc được đào thải qua thận gồm 5 chất chuyển hóa và vincamin không bị biến đổi.</p>",
+  "ingredients_html": [
+    {
+      "id": 57591,
+      "ingredientId": 40254,
+      "shortDescription": "20mg",
+      "name": "Vincamine",
+      "isPrimary": false,
+      "slug": "thanh-phan/vincamine"
+    },
+    {
+      "id": 57592,
+      "ingredientId": 35190,
+      "shortDescription": "40mg",
+      "name": "Rutin",
+      "isPrimary": false,
+      "slug": "thanh-phan/rutin"
+    }
+  ],
+  "stock_qty": 0
+}

@@ -1,0 +1,53 @@
+{
+  "id": "00501481",
+  "slug": "thuoc/siro-ho-hedera-tipharco-30-goi-x-5ml-35621.html",
+  "title": "Siro Hedera Tipharco điều trị ho, viêm phế quản, viêm đường hô hấp (30 gói x 5ml)",
+  "short_title": "SIRO HO HEDERA TIPHARCO 30 GÓI X 5ML",
+  "brand": {
+    "name": "Tipharco",
+    "slug": "thuong-hieu/tipharco",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-ho-hap/siro-tri-ho-cam",
+    "name": "Siro trị ho cảm",
+    "parent_slug": "thuoc/thuoc-ho-hap"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Gói",
+  "pack_note": "30 Gói x 5ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00501481_siro_ho_hedera_tipharco_30_goi_x_5ml_3829_63d7_large_af1a7363e1.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00501481_siro_ho_hedera_tipharco_30_goi_x_5ml_3829_63d7_large_af1a7363e1.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00501481_siro_ho_hedera_tipharco_30_goi_x_5ml_1675049527_ebe387cee7.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00501481_siro_ho_hedera_tipharco_30_goi_x_5ml_8867_63d7_large_2137385093.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00501481_siro_ho_hedera_tipharco_30_goi_x_5ml_4436_63d7_large_a3a66974d4.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00501481_siro_ho_hedera_tipharco_30_goi_x_5ml_5361_63d7_large_54e9e63e1b.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00501481_siro_ho_hedera_tipharco_30_goi_x_5ml_1577_63d7_large_fc93d94f3c.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00501481_siro_ho_hedera_tipharco_30_goi_x_5ml_3131_63d7_large_8cc7b00bca.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00501481_siro_ho_hedera_tipharco_30_goi_x_5ml_1023_63d7_large_f2f98c6709.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00501481_siro_ho_hedera_tipharco_30_goi_x_5ml_1398_63d7_large_f4b120d3d7.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00501481_siro_ho_hedera_tipharco_30_goi_x_5ml_3613_63d7_large_336b0c5030.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Siro",
+  "trust_label": null,
+  "short_description": "<p>Siro Hedera là sản phẩm của Công ty Cổ phần Dược phẩm Tipharco có chứa thành phần chính là cao khô lá thường xuân giúp điều trị viêm đường hô hấp có kèm theo ho, điều trị triệu chứng trong các bệnh lý viêm phế quản mạn tính.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p>Siro Hedera chỉ định dùng điều trị trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Viêm đường hô hấp cấp có kèm theo họ.</li>\n\t<li>Điều trị triệu chứng trong các bệnh lý viêm phế quản mạn tính.</li>\n</ul>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Chưa có dữ liệu.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 44064,
+      "ingredientId": 42073,
+      "shortDescription": "0.035g",
+      "name": "Cao khô lá thường xuân",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

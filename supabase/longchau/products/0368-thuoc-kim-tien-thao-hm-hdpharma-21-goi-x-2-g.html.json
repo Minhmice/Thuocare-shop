@@ -1,0 +1,52 @@
+{
+  "id": "00038916",
+  "slug": "thuoc/kim-tien-thao-hm-hdpharma-21-goi-x-2-g.html",
+  "title": "Thuốc cốm Kim Tiền Thảo HM trị sỏi thận, sỏi niệu, viêm bể thận, viêm túi mật (21 gói x 2g)",
+  "short_title": "KIM TIỀN THẢO HM HDPHARMA 21 GÓI X 2G",
+  "brand": {
+    "name": "Hdpharma",
+    "slug": "thuong-hieu/hdpharma",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-benh-gan",
+    "name": "Thuốc trị bệnh gan",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Gói",
+  "pack_note": "21 Gói x 2g",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09336_bdbc7b5b16.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09336_bdbc7b5b16.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09326_b1b33779bc.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09327_a2e335829b.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09328_2cbcfa98a9.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09329_b380a33f26.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09330_ed41834bda.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09337_bde87bf336.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09339_feef709785.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/kim_tien_thao_45e663ca63.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Thuốc cốm",
+  "trust_label": null,
+  "short_description": "<p>Thuốc cốm Kim Tiền Thảo là sản phẩm của Công ty Cổ phần Dược Vật tư Y tế Hải Dương, có thành phần chính là Cao đặc Kim tiền thảo. Đây là thuốc được sử dụng để điều trị sỏi thận, sỏi niệu, viêm bể thận, viêm túi mật; phòng ngừa tái phát sỏi thận, đặc biệt là sau khi tán sỏi hoặc mổ lấy sỏi; điều trị đái dắt, đái buốt, đái ít, đái có nhiều cặn, nước tiểu đỏ.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc cốm Kim Tiền Thảo được chỉ định dùng trong các trường hợp sau:</p><ul><li>Trị sỏi thận, sỏi niệu, viêm bể thận, viêm túi mật.</li><li>Phòng ngừa tái phát sỏi thận, đặc biệt là sau khi tán sỏi hoặc mổ lấy sỏi.</li><li>Đái dắt, đái buốt, đái ít, đái có nhiều cặn, nước tiểu đỏ.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 64890,
+      "ingredientId": 42360,
+      "shortDescription": "600mg",
+      "name": "Cao đặc Kim tiền thảo",
+      "isPrimary": true,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

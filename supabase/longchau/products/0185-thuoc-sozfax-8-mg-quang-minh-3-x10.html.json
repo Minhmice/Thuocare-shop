@@ -1,0 +1,44 @@
+{
+  "id": "00041282",
+  "slug": "thuoc/sozfax-8-mg-quang-minh-3-x10.html",
+  "title": "Thuốc Sozfax 8 Quang Minh điều trị đau và viêm trong viêm xương khớp, viêm khớp dạng thấp (3 vỉ x 10 viên)",
+  "short_title": "SOZFAX 8MG QUANG MINH 3X10",
+  "brand": {
+    "name": "Quang Minh",
+    "slug": "thuong-hieu/quang-minh",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem/thuoc-giam-dau-khang-viem",
+    "name": "Thuốc giảm đau kháng viêm",
+    "parent_slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/sozfaz_9ffc4d4165.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/sozfaz_9ffc4d4165.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Sozfax 8 là sản phẩm của Công ty Cổ phần Thương mại Dược phẩm Quang Minh, có thành phần chính là Lornoxicam. Đây là thuốc được sử dụng để điều trị đau và viêm trong viêm xương khớp, viêm khớp dạng thấp; đau thắt lưng, viêm cột sống cứng khớp, viêm khớp dạng gút.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc Sozfax 8 được chỉ định dùng trong các trường hợp sau:</p><ul><li>Đau và viêm trong viêm xương khớp, viêm khớp dạng thấp.</li><li>Đau thắt lưng, viêm cột sống cứng khớp, viêm khớp dạng gút.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 59049,
+      "ingredientId": 25891,
+      "shortDescription": "8mg",
+      "name": "Lornoxicam",
+      "isPrimary": false,
+      "slug": "thanh-phan/lornoxicam"
+    }
+  ],
+  "stock_qty": 0
+}

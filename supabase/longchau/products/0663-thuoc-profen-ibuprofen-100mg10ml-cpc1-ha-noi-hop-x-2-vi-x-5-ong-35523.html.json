@@ -1,0 +1,44 @@
+{
+  "id": "00501373",
+  "slug": "thuoc/profen-ibuprofen-100mg10ml-cpc1-ha-noi-hop-x-2-vi-x-5-ong-35523.html",
+  "title": "Hỗn dịch uống Profen Ibuprofen100mg/10ml CPC1HN giảm đau, hạ sốt ở trẻ em (2 vỉ x 5 ống)",
+  "short_title": "PROFEN IBUPROFEN 100MG/10ML CPC1 HÀ NỘI HỘP X 2 VỈ X 5 ỐNG",
+  "brand": {
+    "name": "CPC1HN",
+    "slug": "thuong-hieu/cpc1hn",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem/thuoc-giam-dau-ha-sot",
+    "name": "Thuốc giảm đau hạ sốt",
+    "parent_slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem"
+  },
+  "price_amount": 60000,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 2 Vỉ x 5 Ống x 10ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/2_1e6c019868.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/2_1e6c019868.png"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Hỗn dịch",
+  "trust_label": null,
+  "short_description": "<p>Hỗn dịch uống Profen là sản phẩm của Công ty Cổ phần Dược phẩm CPC1 Hà Nội chứa hoạt chất Ibuprofen giúp hạ sốt ở trẻ em, giảm đau trong các trường hợp như đau răng hoặc đau do nhổ răng, đau đầu, đau bụng kinh, đau trong viêm khớp dạng thấp, đau do bong gân.</p><p>&nbsp;</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Hỗn dịch uống Profen chỉ định điều trị trong các trường hợp sau:</p><ul><li>Hạ sốt ở trẻ em.</li><li>Giảm đau trong các trường hợp như đau răng hoặc đau do nhổ răng, đau đầu, đau bụng kinh, đau trong viêm khớp dạng thấp, đau do bong gân.</li></ul><h3>Dược lực học</h3><p><strong>Nhóm dược lý: Thuốc kháng viêm không steroid (NSAIDs)</strong></p><p><strong>Mã ATC: M01AE01</strong></p><p>Ibuprofen là thuốc chống viêm không steroid, dẫn xuất từ acid propionic. Giống như các thuốc chống viêm không steroid khác, ibuprofen có tác dụng giảm dau, hạ sốt và chống viêm.</p><p>Cơ chế tác dụng của thuốc là ức chế prostaglandin synthetase và do đó ngăn tạo ra prostaglandin, thromboxan và các sản phẩm khác của cyclooxygenase. Ibuprofen cũng ức chế tổng hợp prostacyclin ở thận và có thể gây nguy cơ ứ nước do làm giảm dòng máu tới thận.</p><p>Cần phải lưu ý đến điều này đối với các người bệnh bị suy thận, suy tim, suy gan và các bệnh có rối loạn về thể tích huyết tương.</p><p>Ibuprofen có tác dụng hạ sốt mạnh hơn aspirin, nhưng kém indomethacin. Thuốc có tác dụng chống viêm tốt và có tác dụng giảm đau tốt trong điều trị viêm khớp dạng thấp thiếu niên.</p><h3>Dược động học</h3><p>Ibuprofen hấp thu tốt ở ống tiêu hóa. Nồng độ tối đa của thuốc trong huyết tương đạt được sau khi uống từ 1 đến 2 giờ. Thuốc gắn rất nhiều với protein huyết tương. Nửa đời của thuốc khoảng 2 giờ. Ibuprofen đào thải rất nhanh qua nước tiểu (1% dưới dạng không đổi, 14% dưới dạng liên hợp).</p>",
+  "ingredients_html": [
+    {
+      "id": 54393,
+      "ingredientId": 23189,
+      "shortDescription": "100mg",
+      "name": "Ibuprofen",
+      "isPrimary": false,
+      "slug": "thanh-phan/ibuprofen"
+    }
+  ],
+  "stock_qty": 0
+}

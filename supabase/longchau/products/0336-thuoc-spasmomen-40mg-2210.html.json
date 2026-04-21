@@ -1,0 +1,49 @@
+{
+  "id": "00006838",
+  "slug": "thuoc/spasmomen-40mg-2210.html",
+  "title": "Thuốc Spasmomen Menarini điều trị hội chứng đại tràng kích thích (3 vỉ x 10 viên)",
+  "short_title": "SPASMOMEN 40 3X10",
+  "brand": {
+    "name": "Menarini",
+    "slug": "thuong-hieu/menarini",
+    "country": "Pháp"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tieu-hoa",
+    "name": "Thuốc tiêu hoá",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006838_3f5e134d5c.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006838_3f5e134d5c.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006838_spasmomen_40mg_1626110046_470c0dd0f9.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006838_spasmomen_40mg_7105_5b09_large_e0461ddcb5.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006838_spasmomen_40mg_1395_5b09_large_7733b4ad3a.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006838_spasmomen_40mg_3905_5b09_large_8cc418af18.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006838_spasmomen_40mg_6456_5b09_large_9b651e4376.JPG"
+  ],
+  "origin_label": "Pháp",
+  "country": "Pháp",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p><strong>Thuốc Spasmomen 40mg</strong> là sản phẩm của <em>Berlin-Chemie AG (Menarini Group)</em> thành phần chính Otilonium Bromide, là thuốc kháng cholinergic tổng hợp được sử dụng để điều trị hội chứng đại tràng kích thích (IBS).</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p><strong>Thuốc Spasmomen 40mg</strong> được chỉ định dùng điều trị <strong><a href=\"https://nhathuoclongchau.com.vn/benh/hoi-chung-ruot-kich-thich-118.html\">hội chứng đại tràng kích thích (IBS)</a></strong></p>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Otilonium bromide là thuốc kháng cholinergic tổng hợp, hợp chất ammonium bậc 4, có tác dụng chống co thắt rất mạnh trên cơ trơn của đường tiêu hoá.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Các dữ liệu thực nghiệm cho thấy, sau khi uống thuốc được hấp thu rất ít, hầu hết lượng thuốc hấp thu được thải trừ qua đường mật.</p>",
+  "ingredients_html": [
+    {
+      "id": 23325,
+      "ingredientId": 31069,
+      "shortDescription": "40mg",
+      "name": "Otilonium Bromide",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

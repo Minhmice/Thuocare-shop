@@ -1,0 +1,60 @@
+{
+  "id": "00003562",
+  "slug": "thuoc/gumas-128g-3548.html",
+  "title": "Hỗn dịch uống Gumas Davipharm hỗ trợ điều trị ợ nóng, viêm thực quản, viêm dạ dày (20 gói)",
+  "short_title": "GUMAS DAVI 20 GÓI",
+  "brand": {
+    "name": "Davipharm",
+    "slug": "thuong-hieu/davipharm",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-da-day",
+    "name": "Thuốc dạ dày",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Gói",
+  "pack_note": "20 Gói",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/gumas_d71376ddcb.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/gumas_d71376ddcb.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Hỗn dịch",
+  "trust_label": null,
+  "short_description": "<p>Gumas Davi 20 gói của công ty TNHH DP Đạt Vi Phú, thành phần chính hydroxyd, magnesi hydroxyd và simethicon, thuốc dùng để làm giảm các triệu chứng do tăng tính acid dạ dày và hơi tích trong chất nhày bao gồm ợ nóng, viêm thực quản, viêm dạ dày, loét dạ dày.</p>\n\n<p>Chế phẩm dạng gói, bên trong chứa hỗn dịch màu trắng, thể chất giống sữa, mùi thơm, vị ngọt.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3><p>Thuốc Gumas Davi 20 gói được chỉ định dùng trong các trường hợp:</p><ul><li>Làm giảm các triệu chứng do tăng tính acid dạ dày và hơi tích trong chất nhày bao gồm ợ nóng, <a href=\"https://nhathuoclongchau.com.vn/benh/viem-thuc-quan-408.html\">viêm thực quản</a>, viêm dạ dày, <a href=\"https://nhathuoclongchau.com.vn/benh/loet-da-day-ta-trang-580.html\">loét dạ dày</a>.</li></ul><h3><strong>Dược lực học</strong></h3><p>Chưa có báo cáo.</p><h3><strong>Dược động học</strong></h3><p>Chưa có báo cáo.</p>",
+  "ingredients_html": [
+    {
+      "id": 49090,
+      "ingredientId": 8619,
+      "shortDescription": "400mg",
+      "name": "Aluminum hydroxide",
+      "isPrimary": false,
+      "slug": "thanh-phan/aluminum-hydroxide"
+    },
+    {
+      "id": 49091,
+      "ingredientId": 26346,
+      "shortDescription": "800mg",
+      "name": "Magnesium hydroxide",
+      "isPrimary": false,
+      "slug": "thanh-phan/magnesium-hydroxide"
+    },
+    {
+      "id": 49092,
+      "ingredientId": 36074,
+      "shortDescription": "80mg",
+      "name": "Simethicone",
+      "isPrimary": false,
+      "slug": "thanh-phan/simethicone"
+    }
+  ],
+  "stock_qty": 0
+}

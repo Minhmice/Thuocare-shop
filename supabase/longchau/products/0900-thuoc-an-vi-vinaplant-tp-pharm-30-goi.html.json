@@ -1,0 +1,91 @@
+{
+  "id": "00048695",
+  "slug": "thuoc/an-vi-vinaplant-tp-pharm-30-goi.html",
+  "title": "Thuốc An Vị Vinaplant TP Pharm điều trị viêm loét dạ dày - tá tràng (30 gói x 2g)",
+  "short_title": "AN VỊ VINAPLANT TP PHARM 30 GÓI",
+  "brand": {
+    "name": "TP Pharm",
+    "slug": "thuong-hieu/tp-pharm",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-da-day",
+    "name": "Thuốc dạ dày",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 4000,
+  "compare_at_amount": 0,
+  "unit": "Gói",
+  "pack_note": "30 Gói x 2g",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_04275_320a06f5bd.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_04275_320a06f5bd.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_04270_51c7d01ab7.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_04271_0491d49075.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_04272_b7964b914f.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_04273_5afe61969f.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_04274_86ab659df4.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_04276_9f242c633e.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/anvi_8e1c2721e0.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Thuốc cốm",
+  "trust_label": null,
+  "short_description": "<p>Thuốc An Vị Vinaplant là sản phẩm của Công ty Cổ phần Dược phẩm Thành Phát có chứa thành phần chính là Bạch cập, Mai mực, Bối mẫu, Cam thảo, Diên hồ sách, Đại hoàng được chỉ định để điều trị viêm loét dạ dày - tá tràng, biểu hiện: Đau vùng thượng vị, trào ngược acid, có cảm giác khó chịu ở dạ dày.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc <a href=\"https://nhathuoclongchau.com.vn/thuoc/an-vi-vinaplant-tp-pharm-30-goi.html\">An Vị Vinaplant</a> chỉ định điều trị trong các trường hợp sau:</p><ul><li>Trị <a href=\"https://nhathuoclongchau.com.vn/benh/loet-da-day-ta-trang-580.html\">viêm loét dạ dày - tá tràng</a>, biểu hiện: Đau vùng thượng vị, trào ngược acid, có cảm giác khó chịu ở dạ dày.</li></ul><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 70398,
+      "ingredientId": 10069,
+      "shortDescription": "0.3g",
+      "name": "Bạch cập",
+      "isPrimary": false,
+      "slug": "thanh-phan/bach-cap"
+    },
+    {
+      "id": 70399,
+      "ingredientId": 26400,
+      "shortDescription": "0.3g",
+      "name": "Mai mực",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 70400,
+      "ingredientId": 43559,
+      "shortDescription": "0.15g",
+      "name": "Bối mẫu",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 70401,
+      "ingredientId": 12473,
+      "shortDescription": "0.5g",
+      "name": "Cam thảo",
+      "isPrimary": false,
+      "slug": "thanh-phan/cam-thao"
+    },
+    {
+      "id": 70402,
+      "ingredientId": 17665,
+      "shortDescription": "0.15g",
+      "name": "Diên hồ sách",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 70403,
+      "ingredientId": 16564,
+      "shortDescription": "0.15g",
+      "name": "Đại hoàng",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

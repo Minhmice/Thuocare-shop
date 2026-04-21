@@ -1,0 +1,44 @@
+{
+  "id": "00039197",
+  "slug": "thuoc/thuoc-nho-mat-daenase-ophthalmic-solution-alti-allergics-reyon-6-ml.html",
+  "title": "Thuốc nhỏ mắt Daenase Ophthalmic Solution Alti-Allergics Reyon điều trị viêm kết mạc do dị ứng (6ml) ",
+  "short_title": "THUỐC NHỎ MẮT DAENASE OPHTHALMIC SOLUTION ALTI-ALLERGICS REYON 6ML",
+  "brand": {
+    "name": "REYON",
+    "slug": "thuong-hieu/reyon",
+    "country": "Hàn Quốc"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-mat-tai-mui-hong/thuoc-nho-mat",
+    "name": "Thuốc nhỏ mắt",
+    "parent_slug": "thuoc/thuoc-mat-tai-mui-hong"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp x 6ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/Anh_Default_chua_co_hinh_that_1_8938fe5b92.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/Anh_Default_chua_co_hinh_that_1_8938fe5b92.jpg"
+  ],
+  "origin_label": "Hàn Quốc",
+  "country": "Hàn Quốc",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch nhỏ mắt",
+  "trust_label": null,
+  "short_description": "<p>Daenase Ophthalmic solution là sản phẩm của Reyon Pharmaceutical Co., Ltd có chứa thành phần chính là Ketotifen fumarat được chỉ định để điều trị chứng viêm kết mạc do dị ứng.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Daenase Ophthalmic solution chỉ định điều trị trong các trường hợp sau: chứng viêm kết mạc do dị ứng.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 55885,
+      "ingredientId": 24535,
+      "shortDescription": "0.5%",
+      "name": "Ketotifen",
+      "isPrimary": false,
+      "slug": "thanh-phan/ketotifen"
+    }
+  ],
+  "stock_qty": 0
+}

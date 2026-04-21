@@ -1,0 +1,46 @@
+{
+  "id": "00044615",
+  "slug": "thuoc/ninlaro-takeda-4-mg-3-x1.html",
+  "title": "Thuốc Ninlaro 4mg Takedo điều trị đa u tủy xương (3 vỉ x 1 viên)",
+  "short_title": "NINLARO TAKEDA 4MG 3X1",
+  "brand": {
+    "name": "Takeda",
+    "slug": "thuong-hieu/takeda",
+    "country": "Nhật Bản"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-dieu-tri-ung-thu/thuoc-dieu-tri-ung-thu",
+    "name": "Thuốc điều trị ung thư",
+    "parent_slug": "thuoc/thuoc-dieu-tri-ung-thu"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 3 Vỉ x 1 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/z6903035248654_faad0f1b3837aef4e15c897963d0a619_9b9351ac68.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/z6903035248654_faad0f1b3837aef4e15c897963d0a619_9b9351ac68.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/z6903035236087_723055039a5de3a9d9b96ce64109c208_40ff24102c.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/z6903035235427_1715ea143caaf599e7452999a547e8aa_cf44cc0694.jpg"
+  ],
+  "origin_label": "Nhật Bản",
+  "country": "Nhật Bản",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang cứng",
+  "trust_label": null,
+  "short_description": "<p>Ninlaro là sản phẩm của Takeda Pharmaceuticals với thành phần chính là ixazomib. Thuốc Ninlaro được sử dụng trong điều trị đa u tủy xương đã được điều trị ít nhất một lần trước đó, được dùng kết hợp với lenalidomide và dexamethasone.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Điều trị đa u tủy xương đã được điều trị ít nhất một lần trước đó, được dùng kết hợp với lenalidomide và dexamethasone</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 62877,
+      "ingredientId": 24268,
+      "shortDescription": "4mg",
+      "name": "Ixazomib",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

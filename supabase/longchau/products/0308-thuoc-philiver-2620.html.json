@@ -1,0 +1,91 @@
+{
+  "id": "00005901",
+  "slug": "thuoc/philiver-2620.html",
+  "title": "Viên nang mềm Philiver Phil Inter Pharma điều trị bệnh gan mạn tính, gan nhiễm mỡ (12 vỉ x 5 viên)",
+  "short_title": "PHILIVER 200 PHIL 12X5",
+  "brand": {
+    "name": "Phil Inter",
+    "slug": "thuong-hieu/phil-inter",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-benh-gan",
+    "name": "Thuốc trị bệnh gan",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 3900,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "5 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005901_philiver_6970_63db_large_45099dee9d.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005901_philiver_6970_63db_large_45099dee9d.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005901_philiver_1675322638_befa52717f.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005901_philiver_9467_63db_large_c170cab41b.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005901_philiver_1177_63db_large_d49df557cf.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005901_philiver_9396_63db_large_918744e31a.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005901_philiver_5573_63db_large_3ec036d050.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005901_philiver_8073_63db_large_1225971370.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005901_philiver_2339_63db_large_39a89e5c3c.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang mềm",
+  "trust_label": null,
+  "short_description": "<p><strong>Thuốc Philiver</strong> được sản xuất bởi <i>Công ty&nbsp;TNHH Phil&nbsp;Inter&nbsp;Pharma</i>. Thuốc Philiver có thành phần chính là cao Cardus marianus (gồm Silymarin và Silybin), một số vitamin (B1, B6, B2…) và calci. Thuốc Philiver được chỉ định trong điều trị bệnh gan mạn tính, gan nhiễm mỡ, xơ gan, bệnh nhiễm độc gan.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3><p><strong>Thuốc Philiver</strong> được chỉ định dùng trong các trường hợp bệnh gan mạn tính, <a href=\"https://nhathuoclongchau.com.vn/benh/gan-nhiem-mo-464.html\"><strong>gan nhiễm mỡ</strong></a>,&nbsp;<a href=\"https://nhathuoclongchau.com.vn/benh/xo-gan-415.html\"><strong>xơ gan</strong></a>, bệnh nhiễm độc gan.</p><h3><strong>Dược lực học</strong></h3><p>Chưa có báo cáo.</p><h3><strong>Dược động học</strong></h3><p>Chưa có báo cáo.</p>",
+  "ingredients_html": [
+    {
+      "id": 22846,
+      "ingredientId": 13088,
+      "shortDescription": "200mg",
+      "name": "Cardus marianus",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 22847,
+      "ingredientId": 38162,
+      "shortDescription": "8mg",
+      "name": "Thiamine",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 22848,
+      "ingredientId": 33933,
+      "shortDescription": "10mg",
+      "name": "Pyridoxine",
+      "isPrimary": false,
+      "slug": "thanh-phan/pyridoxine"
+    },
+    {
+      "id": 22849,
+      "ingredientId": 34763,
+      "shortDescription": "8mg",
+      "name": "Riboflavine",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 22850,
+      "ingredientId": 29897,
+      "shortDescription": "24mg",
+      "name": "Nicotinamide",
+      "isPrimary": false,
+      "slug": "thanh-phan/nicotinamide"
+    },
+    {
+      "id": 22851,
+      "ingredientId": 12384,
+      "shortDescription": "16mg",
+      "name": "Calcium Pantothenate",
+      "isPrimary": false,
+      "slug": "thanh-phan/calcium-pantothenate"
+    }
+  ],
+  "stock_qty": 0
+}

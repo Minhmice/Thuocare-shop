@@ -1,0 +1,65 @@
+{
+  "id": "00005944",
+  "slug": "thuoc/phytilax-2604.html",
+  "title": "Viên nhuận trường Phytilax Sagopha thông mật, điều trị táo bón (3 vỉ x 10 viên)",
+  "short_title": "PHYTILAX 0.1G SGP 3X10",
+  "brand": {
+    "name": "Sagopha",
+    "slug": "thuong-hieu/sagopha",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-tao-bon",
+    "name": "Thuốc trị táo bón",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 700,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005944_phytilax_3766_5bb7_large_383011d6e7.JPG",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005944_phytilax_3766_5bb7_large_383011d6e7.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005944_phytilax_1625398279_4fca7cd551.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005944_phytilax_8119_5bb7_large_d7f20051e6.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/00005944_phytilax_4045_5bb7_large_cb345e11d6.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005944_phytilax_9939_5bb7_large_a77a339709.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005944_phytilax_9002_5bb7_large_9259006e31.JPG"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên bao đường",
+  "trust_label": null,
+  "short_description": "<p>Thuốc nhuận tràng Phytilax là sản phẩm của Dược phẩm Sài Gòn, thành phần chính có chứa bột mật heo (Fel. Suillium) , Lô hội (Aloe), Bột Thảo quyết minh (Semen Sennae torae) với công dụng thông mật, nhuận trường, trị táo bón nói chung và đặc biệt cho người già thiểu năng gan mật.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p>Thuốc Phytilax được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Thông mật, nhuận trường, trị <a href=\"https://nhathuoclongchau.com.vn/benh/tao-bon-246.html\">táo bón</a> nói chung và đặc biệt cho người già thiểu năng gan mật.</li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p>Chưa có báo cáo.</p>\n\n<h3>Dược động học</h3>\n\n<p>Chưa có báo cáo.</p>",
+  "ingredients_html": [
+    {
+      "id": 22881,
+      "ingredientId": 26608,
+      "shortDescription": "0.1",
+      "name": "Mật heo",
+      "isPrimary": false,
+      "slug": "thanh-phan/mat-heo"
+    },
+    {
+      "id": 22882,
+      "ingredientId": 25764,
+      "shortDescription": "0.05",
+      "name": "Lô hội",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 22883,
+      "ingredientId": 38102,
+      "shortDescription": "0.05",
+      "name": "Thảo quyết minh",
+      "isPrimary": false,
+      "slug": "thanh-phan/thao-quyet-minh"
+    }
+  ],
+  "stock_qty": 0
+}

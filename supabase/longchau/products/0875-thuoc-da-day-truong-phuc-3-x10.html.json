@@ -1,0 +1,100 @@
+{
+  "id": "00043559",
+  "slug": "thuoc/da-day-truong-phuc-3-x10.html",
+  "title": "Thuốc Dạ Dày Trường Phúc điều trị viêm loét dạ dày, hành tá tràng (3 vỉ x 10 viên)",
+  "short_title": "DẠ DÀY TRƯỜNG PHÚC 3X10",
+  "brand": {
+    "name": "TRƯỜNG PHÚC",
+    "slug": "thuong-hieu/truong-phuc",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat",
+    "name": "Thuốc tiêu hoá & gan mật",
+    "parent_slug": "thuoc"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 3 Vỉ x 10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/da_day_truong_phuc_13409f2c4f.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/da_day_truong_phuc_13409f2c4f.png"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Dạ Dày Trường Phúc là sản phẩm của Công ty TNHH Dược thảo Hoàng Thành với thành phần chính là chè dây, hương phụ, khương hoàng, bán hạ chế, cam thảo, sinh khương, mộc hương, trần bì. Dạ Dày Trường Phúc có tác dụng điều trị viêm loét dạ dày, hành tá tràng, với thành phần là các thảo dược tự nhiên tốt cho sức khỏe giúp cải thiện các trứng như đau rát vùng thượng vị, ăn không ngon, đầy hơi, ợ chua, cảm giác khó chịu ở dạ dày, rối loạn tiêu hóa,…</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><ul><li>Điều trị <a href=\"https://nhathuoclongchau.com.vn/benh/viem-loet-da-day.html\">viêm loét dạ dày</a>, hành tá tràng cấp mà mãn tính, đau rát vùng thượng vị, ăn không tiêu, <a href=\"https://nhathuoclongchau.com.vn/benh/day-hoi-818.html\">đầy hơi</a>, ợ chua, cảm giác khó chịu ở dạ dày.</li><li>Điều trị <a href=\"https://nhathuoclongchau.com.vn/benh/roi-loan-tieu-hoa-210.html\">rối loạn tiêu hóa</a>, sôi bụng, <a href=\"https://nhathuoclongchau.com.vn/benh/chuong-bung-764.html\">chướng bụng</a>, ăn uống chậm tiêu, ăn không ngon</li></ul><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 61381,
+      "ingredientId": 14013,
+      "shortDescription": "1.575g",
+      "name": "Chè dây",
+      "isPrimary": false,
+      "slug": "thanh-phan/che-day"
+    },
+    {
+      "id": 61382,
+      "ingredientId": 22798,
+      "shortDescription": "1.2g",
+      "name": "Hương phụ",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 61383,
+      "ingredientId": 24617,
+      "shortDescription": "1.2g",
+      "name": "Khương hoàng",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 61384,
+      "ingredientId": 10274,
+      "shortDescription": "0.45g",
+      "name": "Bán hạ chế",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 61385,
+      "ingredientId": 12473,
+      "shortDescription": "1.05g",
+      "name": "Cam thảo",
+      "isPrimary": false,
+      "slug": "thanh-phan/cam-thao"
+    },
+    {
+      "id": 61386,
+      "ingredientId": 36109,
+      "shortDescription": "0.6g",
+      "name": "Sinh khương",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 61387,
+      "ingredientId": 27827,
+      "shortDescription": "0.075g",
+      "name": "Mộc hương",
+      "isPrimary": false,
+      "slug": "thanh-phan/moc-huong"
+    },
+    {
+      "id": 61388,
+      "ingredientId": 39051,
+      "shortDescription": "0.15g",
+      "name": "Trần bì",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

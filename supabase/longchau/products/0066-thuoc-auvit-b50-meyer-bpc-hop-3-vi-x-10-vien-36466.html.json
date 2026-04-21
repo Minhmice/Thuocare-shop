@@ -1,0 +1,52 @@
+{
+  "id": "00502212",
+  "slug": "thuoc/auvit-b50-meyer-bpc-hop-3-vi-x-10-vien-36466.html",
+  "title": "Thuốc Auvit-B50 MEYER-BPC điều trị thiếu hụt vitamin nhóm B (3 vỉ x 10 viên)",
+  "short_title": "AUVIT-B50 MEYER-BPC 3X10",
+  "brand": {
+    "name": "MEYER-BPC",
+    "slug": "thuong-hieu/meyer-bpc",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+    "name": "Thuốc bổ",
+    "parent_slug": "thuoc/thuoc-bo-and-vitamin"
+  },
+  "price_amount": 5167,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00502212_17ea5a2060.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00502212_17ea5a2060.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Auvit-B50 của Công ty liên doanh Meyer-BPC - Việt Nam, có thành phần chính là thiamin mononitrat và pyridoxin hydrochlorid. Thuốc được sử dụng trong điều trị các trường hợp thiếu hụt vitamin nhóm B, thường bị đau đầu, trẻ em suy nhược, chậm lớn. Ngoài ra, thuốc còn được dùng trong trường hợp bất ổn về hệ thần kinh.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Auvit-B50 Meyer-BPC được chỉ định dùng trong các trường hợp sau:</p><ul><li>Thiếu Vitamin nhóm B, đau đầu, trẻ em suy nhược chậm lớn.</li><li>Người mắc bệnh về hệ thần kinh như đau dây thần kinh, viêm dây thần kinh ngoại biên, viêm dây thần kinh mắt, viêm dây thần kinh do tiểu đường và do rượu, viêm đa dây thần kinh, dị cảm, hội chứng vai cánh tay, suy nhược thần kinh, đau thần kinh tọa và co giật do tăng cảm ứng của hệ thống thần kinh trung ương.</li></ul><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 57885,
+      "ingredientId": 33932,
+      "shortDescription": "50mg",
+      "name": "Pyridoxin hydroclorid",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 57886,
+      "ingredientId": 38165,
+      "shortDescription": "250mg",
+      "name": "Thiamine Mononitrate",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

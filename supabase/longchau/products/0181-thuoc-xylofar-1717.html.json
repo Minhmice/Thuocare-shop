@@ -1,0 +1,44 @@
+{
+  "id": "00008157",
+  "slug": "thuoc/xylofar-1717.html",
+  "title": "Thuốc nhỏ mũi Xylofar Pharmedic  điều trị triệu chứng nghẹt mũi, sổ mũi (10ml)",
+  "short_title": "XYLOFAR PMD 10ML",
+  "brand": {
+    "name": "Pharmedic",
+    "slug": "thuong-hieu/pharmedic",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-mat-tai-mui-hong/thuoc-tai-mui-hong",
+    "name": "Thuốc tai mũi họng",
+    "parent_slug": "thuoc/thuoc-mat-tai-mui-hong"
+  },
+  "price_amount": 6000,
+  "compare_at_amount": 0,
+  "unit": "Chai",
+  "pack_note": "Chai x 10ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00008157_xylofar_2858_60c6_large_e3d070f01a.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00008157_xylofar_2858_60c6_large_e3d070f01a.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung  dịch nhỏ mũi",
+  "trust_label": null,
+  "short_description": "<p><strong>Xylofar</strong> được được sản xuất bởi <i>Công ty Cổ phần Dược phẩm Dược liệu Pharmedic</i>, thành phần chính là <i>xylomethazolin hydroclorid</i>, là thuốc được dùng để giảm sung huyết mũi do cảm lạnh thông thường, viêm mũi quanh năm, viêm mũi dị ứng, viêm xoang.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3><p><strong>Thuốc được Xylofar</strong> chỉ định dùng trong các trường hợp sau:</p><ul><li>Giảm sung huyết mũi do cảm lạnh thông thường, viêm mũi quanh năm, viêm mũi dị ứng, viêm xoang.</li></ul><h3><strong>Dược lực học</strong></h3><p>Chưa có thông tin.</p><h3><strong>Dược động học</strong></h3><p>Chưa có thông tin.</p>",
+  "ingredients_html": [
+    {
+      "id": 23861,
+      "ingredientId": 42181,
+      "shortDescription": "5mg",
+      "name": "Xylometazolin hydroclorid",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

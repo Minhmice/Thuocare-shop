@@ -1,0 +1,44 @@
+{
+  "id": "00033360",
+  "slug": "thuoc/dimedrol-100-ong-x-1-ml-dung-dich-tiem-hd-pharma-33466.html",
+  "title": "Dung Dịch Tiêm Dimedrol HD Pharma điều trị viêm mũi dị ứng và bệnh da dị ứng (100 ống x1ml)",
+  "short_title": "DIMEDROL 100 ỐNG X 1 ML - DUNG DỊCH TIÊM HD PHARMA",
+  "brand": {
+    "name": "Hdpharma",
+    "slug": "thuong-hieu/hdpharma",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tiem-chich-and-dich-truyen/thuoc-tiem-chich",
+    "name": "Thuốc tiêm chích",
+    "parent_slug": "thuoc/thuoc-tiem-chich-and-dich-truyen"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 100 Ống x 1ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/dimedrol_fc3013f57a.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/dimedrol_fc3013f57a.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch tiêm",
+  "trust_label": null,
+  "short_description": "<p dir=\"ltr\">Thuốc Dimedrol là sản phẩm của Công ty cổ phần dược vật tư y tế Hải Dương, thành phần chính chứa Diphenhydramin HCl, là thuốc dùng để điều trị triệu chứng dị ứng do giải phóng histamin, bao gồm viêm mũi dị ứng và bệnh da dị ứng, nôn hoặc chóng mặt, các phản ứng loạn trương lực do phenothiazine.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p>Thuốc Dimedrol được chỉ định dùng trong các trường hợp sau:</p><ul><li>Triệu chứng dị ứng do giải phóng histamin, bao gồm viêm mũi dị ứng và bệnh da dị ứng.</li><li>Nôn hoặc chóng mặt.</li><li>Các phản ứng loạn trương lực do phenothiazine.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 40772,
+      "ingredientId": 41940,
+      "shortDescription": "10mg",
+      "name": "Diphenhydramin hydroclorid",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

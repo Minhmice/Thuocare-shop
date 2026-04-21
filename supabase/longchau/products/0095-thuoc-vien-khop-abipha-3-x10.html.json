@@ -1,0 +1,156 @@
+{
+  "id": "00047374",
+  "slug": "thuoc/vien-khop-abipha-3-x10.html",
+  "title": "Viên khớp Abipha điều trị thấp khớp, viêm khớp, thoái hóa khớp, đau mạn tính các khớp (3 vỉ x 10 viên)",
+  "short_title": "VIÊN KHỚP ABIPHA 3X10",
+  "brand": {
+    "name": "Abipha",
+    "slug": "thuong-hieu/abipha",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/co-xuong-khop/thuoc-xuong-khop",
+    "name": "Thuốc xương khớp",
+    "parent_slug": "thuoc/co-xuong-khop"
+  },
+  "price_amount": 6000,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00047374_ea2e2d99f9.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00047374_ea2e2d99f9.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang cứng",
+  "trust_label": null,
+  "short_description": "<p>Viên khớp Abipha là sản phẩm của Công ty Cổ phần Dược phẩm Quốc tế Abipha, có thành phần chính là Độc hoạt, Quế, Phòng phong, Đương quy, Tế tân, Xuyên khung, Tần giao, Bạch thược, Tang ký sinh, Địa hoàng, Đỗ trọng, Nhân Sâm, Ngưu tất, Phục Linh, Cam thảo. Đây là thuốc được sử dụng trong các trường hợp thấp khớp, viêm khớp, thoái hóa khớp, đau mạn tính các khớp, xương, đau lưng, đau cột sống, đau dầy thần kinh tọa, đau bắp thịt, thắt lưng, đầu gối nhức mỏi, các chi dưới co duỗi khó khăn, cảm giác nặng nề.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Viên khớp Abipha được chỉ định dùng trong các trường hợp sau:</p><ul><li dir=\"ltr\">Thấp khớp, viêm khớp, thoái hóa khớp, đau mạn tính các khớp, xương, đau lưng, đau cột sống, đau dầy thần kinh tọa, đau bắp thịt, thắt lưng, đầu gối nhức mỏi, các chi dưới co duỗi khó khăn, cảm giác nặng nề.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 68765,
+      "ingredientId": 18380,
+      "shortDescription": "510mg",
+      "name": "Độc hoạt",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 68766,
+      "ingredientId": 34069,
+      "shortDescription": "340mg",
+      "name": "Quế",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 68767,
+      "ingredientId": 32396,
+      "shortDescription": "340mg",
+      "name": "Phòng phong",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 68768,
+      "ingredientId": 18784,
+      "shortDescription": "340mg",
+      "name": "Đương quy",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 68769,
+      "ingredientId": 37619,
+      "shortDescription": "340mg",
+      "name": "Tế tân",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 68770,
+      "ingredientId": 40801,
+      "shortDescription": "340mg",
+      "name": "Xuyên khung",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 68771,
+      "ingredientId": 37441,
+      "shortDescription": "340mg",
+      "name": "Tần giao",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 68772,
+      "ingredientId": 10131,
+      "shortDescription": "340mg",
+      "name": "Bạch thược",
+      "isPrimary": false,
+      "slug": "thanh-phan/bach-thuoc"
+    },
+    {
+      "id": 68773,
+      "ingredientId": 37469,
+      "shortDescription": "340mg",
+      "name": "Tang ký sinh",
+      "isPrimary": false,
+      "slug": "thanh-phan/tang-ky-sinh"
+    },
+    {
+      "id": 68774,
+      "ingredientId": 17440,
+      "shortDescription": "340mg",
+      "name": "Địa hoàng",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 68775,
+      "ingredientId": 18363,
+      "shortDescription": "340mg",
+      "name": "Đỗ trọng",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 68776,
+      "ingredientId": 29756,
+      "shortDescription": "340mg",
+      "name": "Nhân Sâm",
+      "isPrimary": false,
+      "slug": "thanh-phan/nhan-sam"
+    },
+    {
+      "id": 68777,
+      "ingredientId": 29712,
+      "shortDescription": "340mg",
+      "name": "Ngưu tất",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 68778,
+      "ingredientId": 32516,
+      "shortDescription": "340mg",
+      "name": "Phục Linh",
+      "isPrimary": false,
+      "slug": "thanh-phan/phuc-linh"
+    },
+    {
+      "id": 68779,
+      "ingredientId": 12473,
+      "shortDescription": "340mg",
+      "name": "Cam thảo",
+      "isPrimary": false,
+      "slug": "thanh-phan/cam-thao"
+    }
+  ],
+  "stock_qty": 0
+}

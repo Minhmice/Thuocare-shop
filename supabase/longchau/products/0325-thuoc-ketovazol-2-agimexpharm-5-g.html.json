@@ -1,0 +1,44 @@
+{
+  "id": "00039016",
+  "slug": "thuoc/ketovazol-2-agimexpharm-5-g.html",
+  "title": "Thuốc Ketovazol 2% Agimexpharm điều trị các bệnh nấm ngoài da và niêm mạc",
+  "short_title": "KETOVAZOL 2% AGIMEXPHARM 5G",
+  "brand": {
+    "name": "Agimexpharm",
+    "slug": "thuong-hieu/agimexpharm",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-da-lieu/thuoc-boi-ngoai-da",
+    "name": "Thuốc bôi ngoài da",
+    "parent_slug": "thuoc/thuoc-da-lieu"
+  },
+  "price_amount": 9000,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/ketovazol_558109a781.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/ketovazol_558109a781.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Kem",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Ketovazol 2% là sản phẩm của Agimexpharm, có thành phần chính là Ketoconazol. Đây là thuốc được sử dụng để điều trị các bệnh nấm ngoài da và niêm mạc (<i>Candida, Trichophyton rubrum, T. mentagrophytes, Epidermophyton loccosum. Malassezia furfur</i>...): Lang ben, nấm da chân, nấm da thân.</p><div class=\"sc-jibziO eKMDrc\"><div class=\"sc-ekrjqK eETWFu\">&nbsp;</div></div>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc Ketovazol 2% được chỉ định dùng trong các trường hợp sau:</p><ul><li>Trị các bệnh nấm ngoài da và niêm mạc (<i>Candida, Trichophyton rubrum, T. mentagrophytes, Epidermophyton loccosum. Malassezia furfur</i>...): Lang ben, nấm da chân, nấm da thân.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p>Ketoconazol là thuốc chống nấm có phổ rộng, tác dụng trên nhiều loại nấm gây bệnh như <i>Candida spp. Blastomyces dermatitidis, Coccidioides immitis, Epidermophyton loccosum, Histoplasma capsulatum</i>. Ngoài ra thuốc còn tác dụng trên một vài vi khuẩn Gram dương.</p><p>Cũng như các dẫn chất azol chống nấm khác, ketoconazol ức chế hoạt tính của cytochrom P<sub>450</sub> là hệ enzym cần thiết cho quá trình khử methyl các 14 alpha-methyl-sterol thành ergosterol là sterol chính của màng tế bào nấm, lượng ergosterol bị giảm làm thay đổi tính thấm và chức năng của màng tế bào nấm.</p><h3 dir=\"ltr\">Dược động học</h3><p>Kem bôi da thấm qua lớp biểu bì tạo tác dụng trị liệu tại chỗ nơi bị nhiễm nấm. Trên nấm candida ức chế sự biến đổi từ dạng bào tử chồi thành thể sợi là dạng gây bệnh. Một phần thuốc có tác dụng toàn thân do thâm nhập vào tĩnh mạch.</p><p>Ketoconazol chuyển hóa một phần ở gan tạo ra các dẫn chất không có hoạt tính qua quá trình oxy hóa và thoái giáng vòng imidazol và piperazin, quá trình O-dealkyl oxy hóa và hydroxyd hóa nhân thơm. Con đường chính thải trừ thuốc và các chất chuyển hóa của nó qua mật rồi vào phân.</p>",
+  "ingredients_html": [
+    {
+      "id": 55362,
+      "ingredientId": 24523,
+      "shortDescription": "0.1g",
+      "name": "Ketoconazol",
+      "isPrimary": true,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

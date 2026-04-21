@@ -1,0 +1,55 @@
+{
+  "id": "00001506",
+  "slug": "thuoc/calcigenol-437.html",
+  "title": "Dung dịch Calcigenol Vidipha bổ sung calci cho khẩu phần ăn, phòng ngừa còi xương do dinh dưỡng (360g)",
+  "short_title": "CALCI GENOL VIDIPHA 360G",
+  "brand": {
+    "name": "Vidipha",
+    "slug": "thuong-hieu/vidipha",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/co-xuong-khop/thuoc-xuong-khop",
+    "name": "Thuốc xương khớp",
+    "parent_slug": "thuoc/co-xuong-khop"
+  },
+  "price_amount": 30000,
+  "compare_at_amount": 0,
+  "unit": "Chai",
+  "pack_note": "Chai x 360g",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_3381_c85b1a2d3c.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_3381_c85b1a2d3c.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_3384_7cf554d7d2.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_3383_23a051b3cb.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_3382_2f53afba72.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Hỗn dịch uống",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Calcigenol được sản xuất bởi công ty Cổ phần Dược phẩm Trung Ương Vidipha, Việt Nam. Calcigenol thuộc nhóm thuốc bổ/khoáng chất và vitamin được dùng trong các trường hợp phòng ngừa hoặc điều trị thiếu calci.</p>\n\n<p>Calcigenol được bào chế dưới dạng hỗn dịch uống. Quy cách đóng gói chai 360 ml hỗn dịch uống.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p>Thuốc Calcigenol được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Bổ sung calci cho khẩu phần ăn.</li>\n\t<li>Phòng ngừa <a href=\"https://nhathuoclongchau.com.vn/benh/coi-xuong-206.html\">còi xương</a> do dinh dưỡng.</li>\n\t<li>Phòng ngừa còi xương do chuyển hóa và nhuyễn xương.</li>\n\t<li>Ngăn ngừa và điều trị <a href=\"https://nhathuoclongchau.com.vn/benh/loang-xuong-78.html\">loãng xương</a> kể cả loãng xương do corticoid.</li>\n\t<li>Co giật do giảm calci huyết.</li>\n</ul>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Vitamin D được hấp thu ở ruột non theo cách thụ động, rồi tiếp vào hệ tuần hoàn theo đường bạch huyết, sáp nhập với các vi thể nhũ tráp.</p>\n\n<p>Sau khi hấp thu, vitamin D liên kết với một protein đặc hiệu và được chuyển đến gan để chuyển đổi thành 25 – hydroxy vitamin D. Chất này liên kết với cùng protein mang và được chuyển đến thận để biến đổi dưới dạng chủ động 1, 25 – dihydroxy vitamin D.</p>\n\n<p>Các nơi tồn trữ chủ yếu là mô mỡ, các cơ, máu. Chất 25 – dihydroxy vitamin D gắn với protein mang là đại bộ phận chất dự trữ lưu thông của vitamin D. Thời gian bán hủy trong máu từ 25 – 40 ngày.</p>\n\n<p>Sự bài tiết của vitamin D và các chất chuyển hóa được tiến hành bằng đường phân, dưới dạng biến đổi hoặc dưới dạng hòa tan trong nước.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Chưa có tài liệu cập nhật.</p>",
+  "ingredients_html": [
+    {
+      "id": 51431,
+      "ingredientId": 39229,
+      "shortDescription": "3.6g",
+      "name": "Tricalcium phosphate",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 51432,
+      "ingredientId": 40360,
+      "shortDescription": "72000iu",
+      "name": "Vitamin D2",
+      "isPrimary": false,
+      "slug": "thanh-phan/vitamin-d2"
+    }
+  ],
+  "stock_qty": 0
+}

@@ -1,0 +1,81 @@
+{
+  "id": "00013487",
+  "slug": "thuoc/eagle-brand-yellow-balm-40g-12-lo-1077.html",
+  "title": "Cao vàng Con Ó Eagle Brand Yellow Balm Borden giảm đau đầu, choáng váng, chóng mặt (12 hộp x 40g)",
+  "short_title": "YELLOW BALM 40G",
+  "brand": {
+    "name": "Borden",
+    "slug": "thuong-hieu/borden",
+    "country": "Singapore"
+  },
+  "category": {
+    "slug": "thuoc/mieng-dan-cao-xoa-dau/cao-xoa",
+    "name": "Cao xoa",
+    "parent_slug": "thuoc/mieng-dan-cao-xoa-dau"
+  },
+  "price_amount": 31000,
+  "compare_at_amount": 0,
+  "unit": "Chai",
+  "pack_note": "12 Chai x 40g",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00013487_cao_vang_con_o_yellow_balm_1978_5b99_large_6771bdac69.JPG",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00013487_cao_vang_con_o_yellow_balm_1978_5b99_large_6771bdac69.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00013487_cao_vang_con_o_yellow_balm_1617979953_619e0271d1.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00013487_cao_vang_con_o_yellow_balm_3641_5b99_large_ee0e7fc2c4.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00013487_cao_vang_con_o_yellow_balm_2708_5b99_large_ed9ddd416f.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00013487_cao_vang_con_o_yellow_balm_5365_5b99_large_d2fd2a0ac5.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00013487_cao_vang_con_o_yellow_balm_8648_5b99_large_2c77a781f2.JPG"
+  ],
+  "origin_label": "Singapore",
+  "country": "Singapore",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Cao",
+  "trust_label": null,
+  "short_description": "<p>Cao vàng Con Ó là sản phẩm của PT Eagle Indo Pharma, thành phần chính là Menthol, Eucalyptus oil, Methyl Salicylate, Camphor, Peppemint oil, được dùng trong trường hợp các cơn đau đầu, choáng váng, chóng mặt, đau lưng, đau thắt lưng, thấp khớp, các vết côn trùng đốt, mẩn ngứa và các triệu chứng cảm lạnh.</p>\n\n<p>Cao vàng Con Ó được bào chế dưới dạng cao xoa. Cao xoa màu vàng, mùi đặc trưng. Hộp 1 lọ 10g, 20g, 40g.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p>Cao vàng Con Ó được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Các cơn <a href=\"https://nhathuoclongchau.com.vn/benh/nhuc-dau-24.html\">đau đầu</a>, choáng váng, <a href=\"https://nhathuoclongchau.com.vn/benh/hoa-mat-chong-mat-14.html\">chóng mặt</a>, đau lưng, đau thắt lưng, thấp khớp, các vết côn trùng đốt, mẩn ngứa và các triệu chứng cảm lạnh</li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p>Chưa có thông tin.</p>\n\n<h3>Dược động học</h3>\n\n<p>Chưa có thông tin.</p>",
+  "ingredients_html": [
+    {
+      "id": 24619,
+      "ingredientId": 19829,
+      "shortDescription": "1.95",
+      "name": "Eucalyptol",
+      "isPrimary": false,
+      "slug": "thanh-phan/eucalyptol"
+    },
+    {
+      "id": 24620,
+      "ingredientId": 10043,
+      "shortDescription": "1",
+      "name": "Bạc hà",
+      "isPrimary": false,
+      "slug": "thanh-phan/bac-ha"
+    },
+    {
+      "id": 24621,
+      "ingredientId": 27307,
+      "shortDescription": "0.8",
+      "name": "Methyl salicylate",
+      "isPrimary": false,
+      "slug": "thanh-phan/methyl-salicylate"
+    },
+    {
+      "id": 24622,
+      "ingredientId": 26940,
+      "shortDescription": "1.55",
+      "name": "Menthol",
+      "isPrimary": false,
+      "slug": "thanh-phan/menthol"
+    },
+    {
+      "id": 24623,
+      "ingredientId": 18249,
+      "shortDescription": "0.4",
+      "name": "DL-camphor",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

@@ -1,0 +1,59 @@
+{
+  "id": "00003076",
+  "slug": "thuoc/fleet-enema-for-children-3747.html",
+  "title": "Dung dịch thụt trực tràng Fleet Enema For Children giảm chứng táo bón không thường xuyên (66ml)",
+  "short_title": "FLEET ENEMA CHILD 66ML",
+  "brand": {
+    "name": "C.B.Fleet",
+    "slug": "thuong-hieu/cbfleet",
+    "country": "Hoa Kỳ"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-tao-bon",
+    "name": "Thuốc trị táo bón",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 65000,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp x 66ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00003076_fleet_enema_for_children_1819_60f0_large_ca6d1db402.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003076_fleet_enema_for_children_1819_60f0_large_ca6d1db402.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003076_fleet_enema_for_children_1626355771_6d0e73b2f6.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003076_fleet_enema_for_children_3363_5bb5_large_7eeb7f7725.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003076_fleet_enema_for_children_5284_5bb5_large_b3f0b50fc0.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003076_fleet_enema_for_children_2542_5bb5_large_5584f22def.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003076_fleet_enema_for_children_3729_5bb5_large_ac87c1ca5f.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003076_fleet_enema_for_children_3464_5bb5_large_816093322d.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003076_fleet_enema_for_children_6801_60f0_large_0b7ce82507.jpg"
+  ],
+  "origin_label": "Hoa Kỳ",
+  "country": "Hoa Kỳ",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch uống",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Fleet Enema For Children có thành phần là Monobasic natri phosphat, Dibasic natri phosphat có tác dụng điều trị táo bón; làm sạch đại tràng chuẩn bị nội soi đại tràng sigma, trực tràng, chụp X-quang, phẫu thuật, phẫu thuật đại tràng.</p>\n\n<p>Thuốc Fleet Enema For Children là dung dịch gần như không màu, trong suốt có mùi đặc trưng, không có tạp chất. Dung dịch chứa trong chai nhựa LDPE, dung tích 66ml có đầu tuýp dài 2 inch cũng làm bằng nhựa LDPE, bao ngoài là hộp carton.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p>Thuốc Fleet Enema được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>\n\t<p>Làm giảm chứng <a href=\"https://nhathuoclongchau.com.vn/benh/tao-bon-246.html\">táo bón</a> không thường xuyên.</p>\n\t</li>\n\t<li>\n\t<p>Làm sạch phân trong ruột cho bệnh nhân trẻ em trước khi phẫu thuật hoặc xét nghiệm trực tràng.</p>\n\t</li>\n\t<li>\n\t<p>Chuẩn bị để soi đại tràng sigma.</p>\n\t</li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p>Fleet Enema sẽ hoạt động như một loại thuốc nhuận tràng muối khi dùng theo đường trực tràng. Sự tích tụ chất lỏng trong ruột dưới tạo ra căng tức. Từ đó thúc đẩy nhu động ruột và chuyển động của ruột mà chỉ có trực tràng, đại tràng xích ma và một phần hoặc toàn bộ đại tràng đi xuống được thoát ra ngoài.</p>\n\n<h3>Dược động học</h3>\n\n<p>Sự hấp thu ở đại tràng có lẽ là rất ít, nhưng đã có báo cáo rằng tăng photphat không có triệu chứng lên đến 2-3 lần so với nồng độ photpho bình thường, xảy ra ở gần 25% người có chức năng thận bình thường sau khi dùng natri photphat dạng uống có chứa các chế phẩm đại tràng. Trong điều kiện bình thường, sự hấp thụ phốt pho lớn nhất xảy ra ở ruột non mà không bao giờ đạt được khi sử dụng trực tràng.</p>",
+  "ingredients_html": [
+    {
+      "id": 21428,
+      "ingredientId": 27927,
+      "shortDescription": "9.5g",
+      "name": "Monobasic Natri Phosphat",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 21429,
+      "ingredientId": 17509,
+      "shortDescription": "3.5g",
+      "name": "Dibasic Natri Phosphat",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

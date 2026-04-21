@@ -1,0 +1,49 @@
+{
+  "id": "00007245",
+  "slug": "thuoc/tenocar-50mg-2036.html",
+  "title": "Thuốc Tenocar 50 Pymepharco điều trị tăng huyết áp, đau thắt ngực (2 vỉ x 15 viên)",
+  "short_title": "TENOCAR 50 PMP 2X15",
+  "brand": {
+    "name": "Pymepharco",
+    "slug": "thuong-hieu/pymepharco",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap",
+    "name": "Thuốc tim mạch huyết áp",
+    "parent_slug": "thuoc/thuoc-tim-mach-and-mau"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "15 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007245_tenocar_50mg_7980_5b8d_large_ea30bc3d1e.JPG",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007245_tenocar_50mg_7980_5b8d_large_ea30bc3d1e.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007245_tenocar_50mg_1619588895_4934af8aa8.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007245_tenocar_50mg_6253_5b8d_large_b316c397d5.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/00007245_tenocar_50mg_7114_5b8d_large_cd8378247f.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007245_tenocar_50mg_3888_5b8d_large_f56254fd02.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007245_tenocar_50mg_3063_6088_large_f2d221c30e.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén",
+  "trust_label": null,
+  "short_description": "<p><strong>Thuốc Tenocar 50mg</strong> của Công ty Cổ phần Pymepharco có thành phần chính là <strong><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/atenolol\">Atenolol</a></strong>. Thuốc được sử dụng để điều trị tăng huyết áp, đau thắt ngực mạn tính ổn định, nhồi máu cơ tim sớm (trong vòng 12 giờ đầu) và dùng dự phòng sau nhồi máu cơ tim, loạn nhịp nhanh trên thất.</p>\n\n<p>Tenocar 50mg được bào chế dưới dạng viên nén tròn, màu trắng. Đây là thuốc bán theo đơn, quy cách đóng gói là hộp 2 vỉ x 15 viên.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p><strong>Thuốc Tenocar 50 Mg</strong> được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Ðiều trị tăng huyết áp, đau thắt ngực mạn tính ổn định, nhồi máu cơ tim sớm (trong vòng 12 giờ đầu).</li>\n\t<li>Dự phòng sau <strong><a href=\"https://nhathuoclongchau.com.vn/benh/nhoi-mau-co-tim-595.html\">nhồi máu cơ tim</a></strong>, loạn nhịp nhanh trên thất.</li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p>Thuốc điều trị cao huyết áp, thuộc nhóm chẹn chọn lọc trên thụ thể β1 – adrenergic. Atenolol có tác dụng trên thụ thể β1 của tim ở liều thấp hơn so với liều cần để có tác dụng trên thụ thể β2 ở mạch máu ngoại biên và phế quản.</p>\n\n<p>Thuốc chẹn thụ thể β có tác dụng làm giảm lực co cơ và giảm tần số tim. Atenolol không có tác dụng ổn định màng, không qua được màng não.</p>\n\n<p>Điều trị bằng atenolol sẽ ức chế tác dụng của catecholamin khi gắng sức và căng thẳng tâm lý, dẫn đến giảm tần số tim, giảm cung lượng tim và giảm huyết áp, không làm tăng hoặc làm tăng rất ít sức cản của mạch ngoại biên.</p>\n\n<h3>Dược động học</h3>\n\n<p>Nồng độ tối đa trong huyết tương của thuốc đạt được trong vòng 2 – 4 giờ sau khi uống.</p>\n\n<p>Thể tích phân bố là 0,7 L/kg. Atenolol chỉ được chuyển hóa 1 lượng nhỏ. Phần lớn liều dùng được bài tiết qua thận dưới dạng không đổi.</p>\n\n<p>Thời gian bán thải trong huyết tương của atenolol từ 6 – 9 giờ đối với người lớn có chức năng thận bình thường.</p>\n\n<p>Tác dụng trên mạch và huyết áp dài hơn và duy trì được ít nhất 24 giờ. Thời gian bán thải của thuốc tăng lên đối với người suy thận và không bị ảnh hưởng bởi gan.</p>",
+  "ingredients_html": [
+    {
+      "id": 23477,
+      "ingredientId": 9691,
+      "shortDescription": "50mg",
+      "name": "Atenolol",
+      "isPrimary": false,
+      "slug": "thanh-phan/atenolol"
+    }
+  ],
+  "stock_qty": 0
+}

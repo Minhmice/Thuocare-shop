@@ -1,0 +1,58 @@
+{
+  "id": "00502570",
+  "slug": "thuoc/cortisotra-spharm-8g-36825.html",
+  "title": "Kem Cortisotra S.Pharm điều trị ngứa do dị ứng, nổi mẩn, mụn trứng cá (8g)",
+  "short_title": "CORTISOTRA SPHARM 8G",
+  "brand": {
+    "name": "SPHARM",
+    "slug": "thuong-hieu/spharm-1",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-da-lieu/thuoc-boi-ngoai-da",
+    "name": "Thuốc bôi ngoài da",
+    "parent_slug": "thuoc/thuoc-da-lieu"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp x 8g",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_4746_d6d2e3bbac.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_4746_d6d2e3bbac.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_4739_7ef1be1f55.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_4740_050ec5d259.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_4741_118e99a076.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_4742_f34b7c4fa2.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_4743_118d68bb02.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_4747_fda405404d.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dạng kem",
+  "trust_label": null,
+  "short_description": "<p>Kem Cortisotra là sản phẩm của Công ty Cổ phần Dược S.Pharm chứa hoạt chất&nbsp;Dexamethason acetat, Cloramphenicol có công dụng điều trị ngứa do <a href=\"https://nhathuoclongchau.com.vn/benh/benh-di-ung-539.html\">dị ứng</a>, nổi mẩn, <a href=\"https://nhathuoclongchau.com.vn/benh/mun-trung-ca-529.html\">mụn trứng cá</a>.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p>Kem Cortisotra chỉ định điều trị ngứa do dị ứng, nổi mẩn, mụn trứng cá.</p>\n\n<h3>Dược lực học</h3>\n\n<p>Chưa có dữ liệu.</p>\n\n<h3>Dược động học</h3>\n\n<p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 40495,
+      "ingredientId": 14396,
+      "shortDescription": "160mg",
+      "name": "Chloramphenicol",
+      "isPrimary": false,
+      "slug": "thanh-phan/chloramphenicol"
+    },
+    {
+      "id": 40496,
+      "ingredientId": 17272,
+      "shortDescription": "4mg",
+      "name": "Dexamethasone acetate",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

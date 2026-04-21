@@ -1,0 +1,52 @@
+{
+  "id": "00048113",
+  "slug": "thuoc/alchysin-8400-reliv-2-x10.html",
+  "title": "Thuốc Alchysin 8400 Reliv điều trị các trường hợp phù nề sau chấn thương (2 vỉ x 10 viên)",
+  "short_title": "ALCHYSIN 8400 RELIV 2X10",
+  "brand": {
+    "name": "Reliv",
+    "slug": "thuong-hieu/reliv",
+    "country": "Ấn Độ"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem/thuoc-khang-viem",
+    "name": "Thuốc kháng viêm",
+    "parent_slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09818_1a1169ef6a.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09818_1a1169ef6a.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09819_5a48c22050.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09820_8a3e6000a3.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09821_e27b30773f.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09822_13b1d1b38a.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09823_67a2a97c26.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09824_63a5ebea85.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09825_e9d70f50c4.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/alchysin_8480ce9fd3.jpg"
+  ],
+  "origin_label": "Ấn Độ",
+  "country": "Ấn Độ",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Alchysin 8400 là sản phẩm của Công ty Cổ phần Dược phẩm Reliv chứa hoạt chất Chymotrypsin hay (Alpha-chymotrypsin). Thuốc này được dùng để điều trị các trường hợp phù nề sau chấn thương, sau phẫu thuật hoặc bỏng.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Alchysin 8400 chỉ định điều trị trong các trường hợp sau:</p><ul><li>Thuốc này được dùng để điều trị các trường hợp phù nề sau chấn thương, sau phẫu thuật hoặc bỏng.</li></ul><h3>Dược lực học</h3><p>Chymotrypsin (Alpha- Chymotrypsin) là một enzym phân giải protein có tác dụng xúc tác chọn lọc trên các nối peptid ở liền kề các acid amin có nhân thơm. Thuốc đã được dùng trong điều trị phù nề do viêm, sau chấn thương, sau phẫu thuật.</p><h3>Dược động học</h3><p>Chưa có tài liệu đề cập.</p>",
+  "ingredients_html": [
+    {
+      "id": 69856,
+      "ingredientId": 14703,
+      "shortDescription": "8400usp",
+      "name": "Chymotrypsin",
+      "isPrimary": true,
+      "slug": "thanh-phan/chymotrypsin"
+    }
+  ],
+  "stock_qty": 0
+}

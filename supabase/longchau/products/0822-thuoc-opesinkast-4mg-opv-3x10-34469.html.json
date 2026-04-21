@@ -1,0 +1,44 @@
+{
+  "id": "00500340",
+  "slug": "thuoc/opesinkast-4mg-opv-3x10-34469.html",
+  "title": "Thuốc Opesinkast 4 OPV dự phòng và điều trị hen phế quản mạn tính (3 vỉ x 10 viên)",
+  "short_title": "OPESINKAST 4MG OPV 3X10",
+  "brand": {
+    "name": "Opv",
+    "slug": "thuong-hieu/opv",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-mat-tai-mui-hong/thuoc-xit-hen-suyen",
+    "name": "Thuốc xịt hen suyễn",
+    "parent_slug": "thuoc/thuoc-mat-tai-mui-hong"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00500340_bc39cb1b72.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00500340_bc39cb1b72.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén phân tán tan trong miệng",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Opesinkast là sản phẩm của Công ty Cổ phần Dược phẩm OPV chứa hoạt chất Montelukast (dưới dạng Montelukast natri). Đây là thuốc dùng dự phòng và điều trị hen phế quản mạn tính cho người lớn và trẻ em từ 6 tháng tuổi trở lên, bao gồm dự phòng các triệu chứng hen ban ngày và ban đêm, điều trị người hen nhạy cảm với aspirin và dự phòng cơn thắt phế quản do gắng sức. Làm giảm triệu chứng ban ngày và ban đêm của viêm mũi dị ứng (viêm mũi dị ứng theo mùa ở người lớn và trẻ em từ 2 tuổi trở lên và viêm mũi dị ứng quanh năm ở người lớn và trẻ em từ 6 tháng tuổi trở lên).</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p><a href=\"https://nhathuoclongchau.com.vn/thuoc/opesinkast-4mg-opv-3x10-34469.html\">Thuốc Opesinkast 4</a> là chỉ định điều trị trong các trường hợp sau:</p><ul><li>Dự phòng và điều trị <a href=\"https://nhathuoclongchau.com.vn/benh/hen-phe-quan-160.html\">hen phế quản</a> mạn tính cho người lớn và trẻ em từ 6 tháng tuổi trở lên, bao gồm dự phòng các triệu chứng hen ban ngày và ban đêm, điều trị người hen nhạy cảm với <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/acetylsalicylic-acid\">aspirin</a> và dự phòng cơn thắt phế quản do gắng sức.</li><li>Làm giảm triệu chứng ban ngày và ban đêm của viêm mũi dị ứng (<a href=\"https://nhathuoclongchau.com.vn/benh/viem-mui-di-ung-473.html\">viêm mũi dị ứng</a> theo mùa ở người lớn và trẻ em từ 2 tuổi trở lên và viêm mũi dị ứng quanh năm ở người lớn và trẻ em từ 6 tháng tuổi trở lên).</li></ul><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 40173,
+      "ingredientId": 27994,
+      "shortDescription": "4mg",
+      "name": "Montelukast",
+      "isPrimary": true,
+      "slug": "thanh-phan/montelukast"
+    }
+  ],
+  "stock_qty": 0
+}

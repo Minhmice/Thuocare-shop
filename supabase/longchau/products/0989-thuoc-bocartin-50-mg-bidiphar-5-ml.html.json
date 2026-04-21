@@ -1,0 +1,44 @@
+{
+  "id": "00047072",
+  "slug": "thuoc/bocartin-50-mg-bidiphar-5-ml.html",
+  "title": "Thuốc tiêm Bocartin 50 Carboplatin 50mg Bidiphar điều trị ung thư buồng trứng, ung thư phổi (1 lọ x 5ml)",
+  "short_title": "BOCARTIN 50MG BIDIPHAR 5ML",
+  "brand": {
+    "name": "Bidiphar",
+    "slug": "thuong-hieu/bidiphar",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-dieu-tri-ung-thu/thuoc-chong-ung-thu",
+    "name": "Thuốc chống ung thư",
+    "parent_slug": "thuoc/thuoc-dieu-tri-ung-thu"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp x 5ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00047072_75cfb85c5c.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00047072_75cfb85c5c.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Thuốc tiêm đông khô",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Bocartin 50 là sản phẩm của Công ty Cổ phần Dược Trang thiết bị Y tế Bình Định (Bidiphar) chứa hoạt chất Carboplatin. Đây là thuốc dùng trong điều trị ung thư buồng trứng (từ giai đoạn Ic đến IV, sau phẫu thuật, tái phát, di căn sau điều trị); ung thư phổi (cả ung thư phổi tế bào nhỏ, cả ung thư phổi không tế bào nhỏ); ung thư đầu và cổ; u Wilms, u não, u nguyên bào thần kinh; ung thư tinh hoàn, ung thư bàng quang, u nguyên bào võng mạc tiến triển và tái phát ở trẻ em.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p><a href=\"https://nhathuoclongchau.com.vn/thuoc/bocartin-50-mg-bidiphar-5-ml.html\">Thuốc Bocartin 50</a> chỉ định điều trị trong các trường hợp sau:</p><ul><li><a href=\"https://nhathuoclongchau.com.vn/benh/ung-thu-buo-ng-tru-ng-380.html\">Ung thư buồng trứng</a> (từ giai đoạn Ic đến IV, sau phẫu thuật, tái phát, di căn sau điều trị).</li><li>Ung thư phổi (cả ung thư phổi tế bào nhỏ, cả ung thư phổi không tế bào nhỏ).</li><li>Ung thư đầu và cổ.</li><li>U Wilms, u não, u nguyên bào thần kinh.</li><li><a href=\"https://nhathuoclongchau.com.vn/benh/ung-thu-tinh-hoan-318.html\">Ung thư tinh hoàn</a>, ung thư bàng quang, u nguyên bào võng mạc tiến triển và tái phát ở trẻ em.</li></ul><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 67685,
+      "ingredientId": 13055,
+      "shortDescription": "50mg",
+      "name": "Carboplatin",
+      "isPrimary": false,
+      "slug": "thanh-phan/carboplatin"
+    }
+  ],
+  "stock_qty": 0
+}

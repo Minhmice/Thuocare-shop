@@ -1,0 +1,49 @@
+{
+  "id": "00033614",
+  "slug": "thuoc/prospan-forte-21-tui-x-5ml-33702.html",
+  "title": "Thuốc ho Prospan Forte Engelhard điều trị viêm đường hô hấp cấp (21 túi x 5ml)",
+  "short_title": "PROSPAN FORTE 21 TÚI X 5ML",
+  "brand": {
+    "name": "Engelhard",
+    "slug": "thuong-hieu/engelhard",
+    "country": "Đức"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-ho-hap/thuoc-tri-ho-cam",
+    "name": "Thuốc trị ho cảm",
+    "parent_slug": "thuoc/thuoc-ho-hap"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Túi",
+  "pack_note": "21 Túi x 5ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00033614_prospan_forte_21_tui_x_5ml_8425_6232_large_e5ce5c35f2.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00033614_prospan_forte_21_tui_x_5ml_8425_6232_large_e5ce5c35f2.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00033614_prospan_forte_21_tui_x_5ml_1647503914_e4078298bc.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00033614_prospan_forte_21_tui_x_5ml_1256_6232_large_aeca76433d.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00033614_prospan_forte_21_tui_x_5ml_3565_6232_large_215bc0aea4.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00033614_prospan_forte_21_tui_x_5ml_1987_6232_large_b9367e2870.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00033614_prospan_forte_21_tui_x_5ml_2951_6232_large_cb752c7477.jpg"
+  ],
+  "origin_label": "Đức",
+  "country": "Đức",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch uống",
+  "trust_label": null,
+  "short_description": "<p>Thuốc ho <a href=\"https://nhathuoclongchau.com.vn/thuoc/prospan-forte-21-tui-x-5ml-33702.html\">Prospan gói</a> là sản phẩm của EngelHard Arzneimittel Gmbh chứa thành phần chính là cao khô lá thường xuân dùng điều trị viêm đường hô hấp cấp có kèm ho, điều trị triệu chứng trong các bệnh lý viêm phế quản mạn tính.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc <a href=\"https://nhathuoclongchau.com.vn/thuoc/prospan-forte-100ml-29932.html\">Prospan Forte</a> chỉ định điều trị trong các trường hợp sau:</p><ul><li>Điều trị viêm đường hô hấp cấp có kèm ho.</li><li>Điều trị triệu chứng trong các bệnh lý <a href=\"https://nhathuoclongchau.com.vn/benh/viem-phe-quan-man-tinh-179.html\">viêm phế quản mạn tính</a>.</li></ul><h3>Dược lực học</h3><p>Chưa có dữ liệu được báo cáo.</p><h3>Dược động học</h3><p>Chưa có dữ liệu được báo cáo.</p>",
+  "ingredients_html": [
+    {
+      "id": 29577,
+      "ingredientId": 14108,
+      "shortDescription": "35mg",
+      "name": "Chiết xuất cao khô lá thường xuân",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

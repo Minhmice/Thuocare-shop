@@ -1,0 +1,44 @@
+{
+  "id": "00038900",
+  "slug": "thuoc/agihistine-8-agimexpharm-5-x20.html",
+  "title": "Thuốc Agihistine 8 Agimexpharm điều trị hội chứng Ménière (5 vỉ x 20 viên)",
+  "short_title": "AGIHISTINE 8 AGIMEXPHARM 5X20",
+  "brand": {
+    "name": "Agimexpharm",
+    "slug": "thuong-hieu/agimexpharm",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-than-kinh/thuoc-than-kinh",
+    "name": "Thuốc thần kinh",
+    "parent_slug": "thuoc/thuoc-than-kinh"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "20 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/aghi_1023d19af8.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/aghi_1023d19af8.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Agihistine 8 là sản phẩm của Công ty Cổ phần Dược phẩm Agimexpharm chứa hoạt chất Betahistin dihydroclorid. Đây là thuốc điều trị hội chứng Ménière với ba triệu chứng cơ bản sau: Chóng mặt (kèm theo buồn nôn, nôn); suy giảm thính giác; ù tai; điều trị triệu chứng chóng mặt do tiền đình.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Agihistine 8 chỉ định điều trị trong các trường hợp sau:</p><p>Điều trị hội chứng Ménière với ba triệu chứng cơ bản sau:</p><ul><li>Chóng mặt (kèm theo buồn nôn, nôn).</li><li>Suy giảm thính giác.</li><li>Ù tai.</li></ul><p>Điều trị triệu chứng chóng mặt do tiền đình.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 55015,
+      "ingredientId": 10804,
+      "shortDescription": "8mg",
+      "name": "Betahistine",
+      "isPrimary": true,
+      "slug": "thanh-phan/betahistine"
+    }
+  ],
+  "stock_qty": 0
+}

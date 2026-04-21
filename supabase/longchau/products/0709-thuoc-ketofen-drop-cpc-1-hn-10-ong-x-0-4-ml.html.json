@@ -1,0 +1,44 @@
+{
+  "id": "00039020",
+  "slug": "thuoc/ketofen-drop-cpc-1-hn-10-ong-x-0-4-ml.html",
+  "title": "Thuốc nhỏ mắt Ketofen Drop 0.4ml CPC1HN điều trị các tình trạng viêm kết mạc cấp hay mãn tính (10 ống)",
+  "short_title": "KETOFEN-DROP CPC1HN 10 ỐNG X 0,4ML",
+  "brand": {
+    "name": "CPC1HN",
+    "slug": "thuong-hieu/cpc1hn",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-mat-tai-mui-hong/thuoc-nho-mat",
+    "name": "Thuốc nhỏ mắt",
+    "parent_slug": "thuoc/thuoc-mat-tai-mui-hong"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Ống",
+  "pack_note": "10 Ống x 0.4ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00039020_KETOFEN_DROP_CPC_1_HN_10_ONG_X_0_4_ML_193f633964.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00039020_KETOFEN_DROP_CPC_1_HN_10_ONG_X_0_4_ML_193f633964.png"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch nhỏ mắt",
+  "trust_label": null,
+  "short_description": "<p>Ketofen Drop là sản phẩm của Công ty Cổ phần Dược phẩm CPC1 Hà Nội với thành phần chính là Ketotifen. Dung dịch nhỏ mắt Ketofen Drop được chỉ định nhiều để điều trị các tình trạng viêm kết mạc cấp hay mãn tính.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Dung dịch nhỏ mắt <a href=\"https://nhathuoclongchau.com.vn/thuoc/ketofen-drop-cpc-1-hn-10-ong-x-0-4-ml.html\">Ketofen Drop</a> được chỉ định dùng trong các trường hợp sau:</p><ul><li>Viêm kết mạc cấp hoặc mạn tính.</li><li><a href=\"https://nhathuoclongchau.com.vn/benh/viem-giac-mac-555.html\">Viêm giác mạc</a> - kết mạc do dị ứng (viêm giác mạc - kết mạc mùa xuân, dị ứng lạc chỗ,...).</li></ul><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 55366,
+      "ingredientId": 24535,
+      "shortDescription": "0.5mg",
+      "name": "Ketotifen",
+      "isPrimary": false,
+      "slug": "thanh-phan/ketotifen"
+    }
+  ],
+  "stock_qty": 0
+}

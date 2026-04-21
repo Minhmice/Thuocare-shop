@@ -1,0 +1,51 @@
+{
+  "id": "00050065",
+  "slug": "thuoc/etoricoxib-60-mg-khapharco-10-x10.html",
+  "title": "Thuốc Etoricoxib Khapharco 60mg điều trị viêm khớp (10 vỉ 10 viên)",
+  "short_title": "ETORICOXIB 60MG KHAPHARCO 10X10",
+  "brand": {
+    "name": "Khapharco",
+    "slug": "thuong-hieu/khapharco",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem/thuoc-giam-dau-khang-viem",
+    "name": "Thuốc giảm đau kháng viêm",
+    "parent_slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_02930_44287513aa.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_02930_44287513aa.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_02931_e888043a0c.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_02932_95c2358129.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_02933_1a17e2b954.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_02934_368399d816.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_02935_e84ea2eceb.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_02936_ded91ee967.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_02937_f32126bd38.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Etoricoxib 60 là sản phẩm của Công ty Cổ phần Dược phẩm Khánh Hòa, có thành phần chính là Etoricoxib. Đây là thuốc được sử dụng cho người lớn và thanh thiếu niên trên 16 tuổi để giảm các triệu chứng của <strong>bệnh viêm xương khớp, viêm khớp dạng thấp và viêm đốt sống dính khớp</strong>; giảm đau và các dấu hiệu của <strong>viêm khớp thống phong cấp tính</strong>; điều trị ngắn hạn các <strong>cơn đau vừa liên quan đến phẫu thuật răng</strong>.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc Etoricoxib 60 được chỉ định cho người lớn và thanh thiếu niên trên 16 tuổi trong các trường hợp sau:</p><ul><li>Giảm các triệu chứng của bệnh viêm xương khớp, viêm khớp dạng thấp và viêm đốt sống dính khớp.</li><li>Giảm đau và các dấu hiệu của viêm khớp thống phong cấp tính.</li><li>Điều trị ngắn hạn các cơn đau vừa liên quan đến phẫu thuật răng.</li></ul><p>Quyết định kê đơn chất ức chế chọn lọc COX-2 phải dựa trên việc đánh giá toàn bộ các nguy cơ đối với từng bệnh nhân.</p><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 72286,
+      "ingredientId": 19806,
+      "shortDescription": "60mg",
+      "name": "Etoricoxib",
+      "isPrimary": true,
+      "slug": "thanh-phan/etoricoxib"
+    }
+  ],
+  "stock_qty": 0
+}

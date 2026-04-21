@@ -1,0 +1,44 @@
+{
+  "id": "00500726",
+  "slug": "thuoc/brusonex-bruschettini-34859.html",
+  "title": "Hỗn dịch xịt mũi Brusonex Bruschettini điều trị chảy mũi, hắt hơi, ngứa ngáy, khó chịu ở mũi",
+  "short_title": "BRUSONEX BRUSCHETTINI ",
+  "brand": {
+    "name": "Tâm Lan",
+    "slug": "thuong-hieu/tam-lan",
+    "country": "Ý"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-mat-tai-mui-hong/thuoc-xit-mui",
+    "name": "Thuốc xịt mũi",
+    "parent_slug": "thuoc/thuoc-mat-tai-mui-hong"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/46_3346b079ac.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/46_3346b079ac.png"
+  ],
+  "origin_label": "Ý",
+  "country": "Ý",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Hỗn dịch xịt mũi",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Brusonex là sản phẩm của Farmea (Pháp), có thành phần chính là Mometason furoat. Đây là thuốc được sử dụng để ngăn ngừa các triệu chứng sổ mũi được chỉ định trong các trường hợp: Người bệnh bị chảy mũi, hắt hơi, ngứa ngáy, khó chịu ở mũi xuất hiện theo các mùa hoặc bị quanh năm.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Brusonex được chỉ định dùng trong các trường hợp sau:</p><ul><li>Ngăn ngừa các triệu chứng sổ mũi được chỉ định trong các trường hợp: Người bệnh bị chảy mũi, hắt hơi, ngứa ngáy, khó chịu ở mũi xuất hiện theo các mùa hoặc bị quanh năm.</li></ul><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 37039,
+      "ingredientId": 27892,
+      "shortDescription": "50mcg",
+      "name": "Mometasone furoate",
+      "isPrimary": false,
+      "slug": "thanh-phan/mometasone-furoate"
+    }
+  ],
+  "stock_qty": 0
+}

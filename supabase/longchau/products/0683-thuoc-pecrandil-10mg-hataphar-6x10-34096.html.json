@@ -1,0 +1,44 @@
+{
+  "id": "00500032",
+  "slug": "thuoc/pecrandil-10mg-hataphar-6x10-34096.html",
+  "title": "Thuốc Pecrandil 10 Hà Tây phòng và điều trị lâu dài cơn đau thắt ngực ổn định (6 vỉ x 10 viên)",
+  "short_title": "PECRANDIL 10 HATAPHAR 6X10",
+  "brand": {
+    "name": "Hà Tây",
+    "slug": "thuong-hieu/ha-tay",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap",
+    "name": "Thuốc tim mạch huyết áp",
+    "parent_slug": "thuoc/thuoc-tim-mach-and-mau"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/27_8d8265eb04.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/27_8d8265eb04.png"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Pecrandil 10mg dùng trong phòng và điều trị lâu dài cơn đau thắt ngực ổn định (bao gồm giảm nguy cơ hội chứng mạch vành cấp ở những bệnh nhân có nguy cơ cao).</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p><a href=\"https://nhathuoclongchau.com.vn/thuoc/pecrandil-10mg-hataphar-6x10-34096.html\">Thuốc Pecrandil 10mg</a> dùng trong các trường hợp sau đây:</p><ul><li>Phòng và điều trị lâu dài <a href=\"https://nhathuoclongchau.com.vn/bai-viet/con-dau-that-nguc-on-dinh-nguyen-nhan-trieu-chung-va-cach-dieu-tri.html\">cơn đau thắt ngực ổn định</a> (bao gồm giảm nguy cơ hội chứng mạch vành cấp ở những bệnh nhân có nguy cơ cao).</li></ul><h3>Dược lực học</h3><p>Nicorandil là một dẫn xuất nitrat của nicotinamid, có tác dụng giãn mạch. <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/nicorandil\">Nicorandil</a> cũng là một thuốc mở kênh kali nên giãn cả tiểu động mạch và các động mạch vành lớn, đồng thời nhóm nitrat còn gây giãn tĩnh mạch thông qua kích thích guanylate cyclase. Vì thế, thuốc làm giảm cả tiền gánh, hậu gánh và cải thiện lưu lượng máu tưới cho động mạch vành.</p><h3>Dược động học</h3><p><i>Hấp thu: </i>Nicorandil hấp thu tốt qua đường tiêu hóa.</p><p><i>Phân bố: </i>Nồng độ đỉnh trong huyết tương đạt được sau khi uống 30 - 60 phút.</p><p><i>Chuyển hóa: </i>Chuyển hóa chủ yếu qua khử nitrat.</p><p><i>Thải trừ: </i>Khoảng 20% liều dùng được thải qua nước tiểu dưới dạng chuyển hóa. Thời gian bán thải khoảng 1 giờ. Tỷ lệ gắn của nicorandil với protein huyết tương thấp.</p>",
+  "ingredients_html": [
+    {
+      "id": 39326,
+      "ingredientId": 29893,
+      "shortDescription": "10mg",
+      "name": "Nicorandil",
+      "isPrimary": true,
+      "slug": "thanh-phan/nicorandil"
+    }
+  ],
+  "stock_qty": 0
+}

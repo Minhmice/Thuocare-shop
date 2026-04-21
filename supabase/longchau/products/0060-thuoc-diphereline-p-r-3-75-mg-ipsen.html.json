@@ -1,0 +1,44 @@
+{
+  "id": "00043190",
+  "slug": "thuoc/diphereline-p-r-3-75-mg-ipsen.html",
+  "title": "Thuốc Diphereline P.R. 3.75mg Ipsen điều trị ung thư tuyến tiền liệt, dậy thì sớm, lạc nội mạc tử cung",
+  "short_title": "DIPHERELINE P.R. 3.75MG IPSEN",
+  "brand": {
+    "name": "Ipsen",
+    "slug": "thuong-hieu/ipsen",
+    "country": "Pháp"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-dieu-tri-ung-thu/thuoc-dieu-tri-ung-thu",
+    "name": "Thuốc điều trị ung thư",
+    "parent_slug": "thuoc/thuoc-dieu-tri-ung-thu"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DIPHERELINE_3_75_1_ba79c3f4c8.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DIPHERELINE_3_75_1_ba79c3f4c8.jpg"
+  ],
+  "origin_label": "Pháp",
+  "country": "Pháp",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Hỗn dịch tiêm",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Diphereline P.R. là sản phẩm của Ipsen, có thành phần chính là Triptorelin. Đây là thuốc được sử dụng để điều trị ung thư tuyến tiền liệt, dậy thì sớm, lạc nội mạc tử cung, vô sinh nữ, điều trị trước phẫu thuật u xơ tử cung.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc Diphereline P.R. được chỉ định dùng trong các trường hợp sau:</p><p>Ung thư tuyến tiền liệt:</p><ul><li>Đơn trị liệu hoặc dùng đồng thời và phối hợp với xạ trị trong điều trị ung thư tuyến tiền liệt tiến triển tại chỗ.</li><li>Điều trị ung thư tuyến tiền liệt di căn</li><li>Hiệu quả điều trị sẽ cao hơn nếu trước đó bệnh nhân chưa được điều trị bất kỳ hormone nào.</li></ul><p>Dậy thì sớm (bé gái trước 8 tuổi và bé trai trước 10 tuổi).</p><p>Lạc nội mạc tử cung (giai đoạn I đến IV): Điều trị không nên kéo dài quá 6 tháng. Không khuyến cáo điều trị đợt 2 bằng triptorelin hoặc chất tương tự GnRH khác.</p><p>Vô sinh nữ: Kết hợp với các hormone hướng sinh dục (hMG, FSH, hCG) trong pha gây rụng trứng của thụ tinh trong ống nghiệm và chuyển phôi (I.V.F.E.T.).</p><p>Điều trị trước phẫu thuật U xơ tử cung: Khi u xơ tử cung liên quan đến thiếu máu (haemoglobin thấp hơn hoặc bằng 8 g/dl), Khi cần làm giảm kích thước khối u để thuận lợi hoặc dễ dàng cho quá trình phẫu thuật bằng nội soi hoặc qua đường âm đạo. Thời gian điều trị giới hạn 3 tháng.</p><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 63668,
+      "ingredientId": 39449,
+      "shortDescription": "3.75mg",
+      "name": "Triptorelin",
+      "isPrimary": false,
+      "slug": "thanh-phan/triptorelin"
+    }
+  ],
+  "stock_qty": 0
+}

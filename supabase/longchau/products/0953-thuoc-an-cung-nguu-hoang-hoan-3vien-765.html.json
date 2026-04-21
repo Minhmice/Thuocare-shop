@@ -1,0 +1,110 @@
+{
+  "id": "00000763",
+  "slug": "thuoc/an-cung-nguu-hoang-hoan-3vien-765.html",
+  "title": "Thuốc An Cung Ngưu Hoàng Hoàn thanh nhiệt, giải độc (3 viên)",
+  "short_title": "AN CUNG NGƯU HOÀNG HOÀN 3V",
+  "brand": {
+    "name": "Yan'an",
+    "slug": "thuong-hieu/yan-an",
+    "country": "Trung Quốc"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+    "name": "Thuốc bổ",
+    "parent_slug": "thuoc/thuoc-bo-and-vitamin"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 3 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00000763_an_cung_nguu_hoang_hoan_3vien_1372_5c6c_large_38618f8e23.JPG",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00000763_an_cung_nguu_hoang_hoan_3vien_1372_5c6c_large_38618f8e23.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00000763_an_cung_nguu_hoang_hoan_3vien_1627982615_365163184f.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00000763_an_cung_nguu_hoang_hoan_3vien_9994_5bc0_large_a67f3e0a26.JPG"
+  ],
+  "origin_label": "Trung Quốc",
+  "country": "Trung Quốc",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Hoàn mềm",
+  "trust_label": null,
+  "short_description": "<p>An Cung Ngưu Hoàng Hoàn là sản phẩm của Y học Cổ truyền Trung Quốc được sản xuất bởi Yanan Pharmaceutical dựa trên bài thuốc từ các dược liệu: Ngưu hoàng nuôi cấy, bột sừng trâu cô đặc, xạ hương, trân châu, chu sa, húng hoàng, hoàng liên, hoàng cầm, chi tử, uất kim, băng phiến và tá dược. Thuốc có công năng thanh nhiệt, giải độc, trấn kinh, khai khiếu.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3><p><strong>An Cung Ngưu Hoàng Hoàn </strong>có công năng thanh nhiệt, giải độc, trấn kinh, khai khiếu.</p><p>Thuốc được chỉ định trong các trường hợp: Dùng cho nhiệt bệnh, tà nhập tâm bào, cao nhiệt kinh quyết (sốt cao co giật), thần hôn (hôn mê), loạn ngữ (mê sảng), hôn mê do trúng phong, viêm não, viêm màng não, xuất huyết não thể nhiệt bế: Có sốt cao do nhiễm độc vi khuẩn và virus, huyết áp tăng...</p><h3><strong>Dược lực học</strong></h3><p>An Cung Ngưu Hoàng Hoàn có tính thanh nhiệt, giải độc, trấn kinh, tỉnh thần, sát trùng, thông kinh lạc; dùng để điều trị các chứng: Thần hôn bế môn. Trung y coi là một loại “chí bảo đơn”, “ôn bệnh tam bảo” được coi là loại thuốc được xếp ở vị trí cao nhất trong tam bảo.</p><h3><strong>Dược động học</strong></h3><p><i>Ngưu hoàng:</i> Khai khiếu tỉnh thần, tức phong hóa đàm.</p><p><i>Hoàng liên, hoàng cầm, chi tử: </i>Khổ, hàn, thanh, nhiệt</p><p><i>Uất kim: </i>Thư can, thông khí huyết.</p><p><i>Chu sa, trân châu: </i>Trấn kinh, an thần, thông trí não.</p><p><i>Sừng trâu: </i>Thanh nhiệt, lương huyết.</p><p><i>Hùng hoàng:</i> Sát trùng.</p><p><i>Xạ hương, băng phiến:</i> Mùi thơm khai khiếu.</p><p><i>Mật ong: </i>Hòa vị, điều trung.</p>",
+  "ingredients_html": [
+    {
+      "id": 25552,
+      "ingredientId": 10293,
+      "shortDescription": "166.67mg",
+      "name": "Băng phiến",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 25553,
+      "ingredientId": 14059,
+      "shortDescription": "166.67mg",
+      "name": "Chi tử",
+      "isPrimary": false,
+      "slug": "thanh-phan/chi-tu"
+    },
+    {
+      "id": 25554,
+      "ingredientId": 22423,
+      "shortDescription": "166.67mg",
+      "name": "Hoàng cầm",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 25555,
+      "ingredientId": 22441,
+      "shortDescription": "166.67mg",
+      "name": "Hoàng liên",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 25556,
+      "ingredientId": 22737,
+      "shortDescription": "166.67mg",
+      "name": "Hùng hoàng",
+      "isPrimary": false,
+      "slug": "thanh-phan/hung-hoang"
+    },
+    {
+      "id": 25557,
+      "ingredientId": 39052,
+      "shortDescription": "83.33mg",
+      "name": "Trân Châu",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 25558,
+      "ingredientId": 40683,
+      "shortDescription": "41.67mg",
+      "name": "Xạ hương",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 25559,
+      "ingredientId": 14676,
+      "shortDescription": "166.67mg",
+      "name": "Chu sa",
+      "isPrimary": false,
+      "slug": "thanh-phan/chu-sa"
+    },
+    {
+      "id": 25560,
+      "ingredientId": 29707,
+      "shortDescription": "166.67mg",
+      "name": "Ngưu hoàng",
+      "isPrimary": false,
+      "slug": "thanh-phan/nguu-hoang"
+    }
+  ],
+  "stock_qty": 0
+}

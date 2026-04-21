@@ -1,0 +1,44 @@
+{
+  "id": "00048611",
+  "slug": "thuoc/benivatib-100-mg-benovas-60-v-1.html",
+  "title": "Thuốc Benivatib 100mg Benovas điều trị cho bệnh nhân ung thư bạch cầu tủy mạn (60 viên)",
+  "short_title": "BENIVATIB 100MG BENOVAS 60V",
+  "brand": {
+    "name": "Benovas",
+    "slug": "thuong-hieu/benovas",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-dieu-tri-ung-thu/thuoc-dieu-tri-ung-thu",
+    "name": "Thuốc điều trị ung thư",
+    "parent_slug": "thuoc/thuoc-dieu-tri-ung-thu"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 60 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/benivatib_100_7a43db2d48.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/benivatib_100_7a43db2d48.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang cứng",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Benivatib là sản phẩm của Nobilus Ent, Tomasz Kozluk, có thành phần chính là Imatinib. Đây là thuốc được sử dụng cho bệnh nhân ung thư bạch cầu tuỷ mạn (CML), bệnh nhân dương tính có u dạ dày đường tiêu hoá ác tính di căn hoặc/và không thể cắt bỏ.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc Benivatib được chỉ định dùng trong các trường hợp sau:</p><ul><li>Bệnh nhân ung thư bạch cầu tủy mạn (CML).</li><li>Bệnh nhân dương tính có u dạ dày đường tiêu hoá ác tính di căn hoặc/và không thể cắt bỏ.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 62221,
+      "ingredientId": 23315,
+      "shortDescription": "100mg",
+      "name": "Imatinib",
+      "isPrimary": false,
+      "slug": "thanh-phan/imatinib"
+    }
+  ],
+  "stock_qty": 0
+}

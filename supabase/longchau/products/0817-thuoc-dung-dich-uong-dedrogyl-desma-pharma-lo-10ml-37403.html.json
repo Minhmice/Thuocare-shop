@@ -1,0 +1,44 @@
+{
+  "id": "00503103",
+  "slug": "thuoc/dung-dich-uong-dedrogyl-desma-pharma-lo-10ml-37403.html",
+  "title": "Dung dịch uống Dedrogyl Desma Pharma 10ml phòng ngừa và điều trị còi xương",
+  "short_title": "DUNG DỊCH UỐNG DEDROGYL DESMA PHARMA 10ML",
+  "brand": {
+    "name": "Desma",
+    "slug": "thuong-hieu/desma",
+    "country": "Ý"
+  },
+  "category": {
+    "slug": "thuoc/co-xuong-khop/thuoc-xuong-khop",
+    "name": "Thuốc xương khớp",
+    "parent_slug": "thuoc/co-xuong-khop"
+  },
+  "price_amount": 330000,
+  "compare_at_amount": 0,
+  "unit": "Lọ",
+  "pack_note": "Lọ x 10ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00503103_b6380fe9dd.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00503103_b6380fe9dd.jpg"
+  ],
+  "origin_label": "Ý",
+  "country": "Ý",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch uống",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Dedrogyl là sản phẩm của Laboratorio Farmaceutico S.I.T. Specialità Igienico Terapeutiche S.R.L (Ý) dạng dung dịch uống chứa hoạt chất Calcifediol dùng phòng ngừa và điều trị còi xương.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Dedrogyl dùng phòng ngừa và điều trị còi xương.</p><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 57590,
+      "ingredientId": 12292,
+      "shortDescription": "1.5mg",
+      "name": "Calcifediol",
+      "isPrimary": false,
+      "slug": "thanh-phan/calcifediol"
+    }
+  ],
+  "stock_qty": 0
+}

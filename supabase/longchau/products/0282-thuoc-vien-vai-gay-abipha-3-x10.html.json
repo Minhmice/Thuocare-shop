@@ -1,0 +1,107 @@
+{
+  "id": "00047373",
+  "slug": "thuoc/vien-vai-gay-abipha-3-x10.html",
+  "title": "Viên vai gáy Abipha giảm đau nhức vai gáy, cơ xương khớp, tăng cường lưu thông khí huyết (3 vỉ x 10 viên)",
+  "short_title": "THUỐC VIÊN VAI GÁY ABIPHA 3X10",
+  "brand": {
+    "name": "Abipha",
+    "slug": "thuong-hieu/abipha",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/co-xuong-khop/thuoc-xuong-khop",
+    "name": "Thuốc xương khớp",
+    "parent_slug": "thuoc/co-xuong-khop"
+  },
+  "price_amount": 6000,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09934_66374ea472.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09934_66374ea472.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09935_7cd9852839.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09936_9f44cd13f4.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09937_10094e1a05.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09938_a523875112.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09939_bc2df76efa.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09941_e4c51f4a59.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/vien_vai_gay_abipha_f89f1f6b7a.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang cứng",
+  "trust_label": null,
+  "short_description": "<p>Viên vai gáy Abipha dùng điều trị các chứng đau cơ, xương, khớp, viêm khớp, thoái hóa khớp, viêm quanh khớp vai, đau vai gáy do co cứng cơ, hội chứng vai tay, thoái hóa cột sống cổ, các chứng đau từ lưng ra hai tay.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p>Viên vai gáy Abipha dùng điều trị các chứng đau cơ, xương, khớp, viêm khớp, thoái hóa khớp, viêm quanh khớp vai, đau vai gáy do co cứng cơ, hội chứng vai tay, thoái hóa cột sống cổ, các chứng đau từ lưng ra hai tay.</p><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Ích khí hòa dinh, trừ phong thấp.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 68757,
+      "ingredientId": 22437,
+      "shortDescription": "720mg",
+      "name": "Hoàng kỳ",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 68758,
+      "ingredientId": 40744,
+      "shortDescription": "720mg",
+      "name": "Xích thược",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 68759,
+      "ingredientId": 24618,
+      "shortDescription": "720mg",
+      "name": "Khương hoạt",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 68760,
+      "ingredientId": 24617,
+      "shortDescription": "720mg",
+      "name": "Khương hoàng",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 68761,
+      "ingredientId": 32396,
+      "shortDescription": "720mg",
+      "name": "Phòng phong",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 68762,
+      "ingredientId": 18784,
+      "shortDescription": "720mg",
+      "name": "Đương quy",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 68763,
+      "ingredientId": 12473,
+      "shortDescription": "240mg",
+      "name": "Cam thảo",
+      "isPrimary": false,
+      "slug": "thanh-phan/cam-thao"
+    },
+    {
+      "id": 68764,
+      "ingredientId": 12535,
+      "shortDescription": "400mg",
+      "name": "Can khương",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

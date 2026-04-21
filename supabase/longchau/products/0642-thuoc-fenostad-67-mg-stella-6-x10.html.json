@@ -1,0 +1,44 @@
+{
+  "id": "00501048",
+  "slug": "thuoc/fenostad-67-mg-stella-6-x10.html",
+  "title": "Thuốc Fenostad 67mg Stella điều trị các rối loạn lipid (6 vỉ x 10 viên)",
+  "short_title": "FENOSTAD 67MG STELLA 6X10",
+  "brand": {
+    "name": "Stella Pharm",
+    "slug": "thuong-hieu/stella-pharm",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tri-mo-mau",
+    "name": "Thuốc trị mỡ máu",
+    "parent_slug": "thuoc/thuoc-tim-mach-and-mau"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00501048_ba66e7ecaa.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00501048_ba66e7ecaa.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang cứng",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Fenofibrat 67mg là sản phẩm của Công ty TNHH LD Stellapharm với thành phần chính là fenofibrate dưới dạng fenofibrat pellets. Thuốc Fenofibrat 67mg được sử dụng điều trị các rối loạn lipid, tăng triglycerid huyết nặng và tăng lipid hỗn hợp... Giúp cải thiện đáng kể sự phân bố các cholesterol trong huyết tương.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Fenostad 67 được chỉ định hỗ trợ chế độ ăn kiêng và chế độ điều trị không dùng thuốc khác (như tập thể dục, giảm cân):</p><ul><li>Điều trị tăng triglycerid huyết nặng có hoặc không có HDL cholesterol thấp.</li><li>Tăng lipid huyết hỗn hợp khi chống chỉ định hoặc không dung nạp với statin.</li><li>Tăng lipid huyết hỗn hợp ở những bệnh nhân có nguy cơ tim mạch cao, cần thêm vào một statin khi các triglycerid và HDL cholesterol không được kiểm soát đầy đủ.</li></ul><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 36968,
+      "ingredientId": 20132,
+      "shortDescription": "67mg",
+      "name": "Fenofibrate",
+      "isPrimary": false,
+      "slug": "thanh-phan/fenofibrate"
+    }
+  ],
+  "stock_qty": 0
+}

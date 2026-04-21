@@ -1,0 +1,55 @@
+{
+  "id": "00049477",
+  "slug": "thuoc/bralcib-3-mg-atco-5-ml.html",
+  "title": "Thuốc Bralcib 3mg Atco điều trị các nhiễm khuẩn phần ngoài mắt do vi khuẩn nhạy cảm (5ml)",
+  "short_title": "BRALCIB 3MG ATCO 5ML",
+  "brand": {
+    "name": "Atco",
+    "slug": "thuong-hieu/atco",
+    "country": "Ai Cập"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-mat-tai-mui-hong/thuoc-nho-mat",
+    "name": "Thuốc nhỏ mắt",
+    "parent_slug": "thuoc/thuoc-mat-tai-mui-hong"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp x 5ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00147_b2a7ac3e8a.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00147_b2a7ac3e8a.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00141_aabfae2478.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00142_14d85775b5.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00143_5e8720dd28.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00144_a1aa0e8487.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00145_ea683e80a9.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00146_bc1e645c2c.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00148_f542d6d1a8.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00149_fff2ffcbf6.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00151_84f195797f.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/bracilb_0_3_ffa1bb35dd.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/bralcib_0_3_2_c62fae5140.jpg"
+  ],
+  "origin_label": "Ai Cập",
+  "country": "Ai Cập",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch nhỏ mắt",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Bracilb là sản phẩm của ATCO Laboratories Limited, có thành phần chính là Tobramycin. Đây là thuốc được sử dụng để điều trị các nhiễm khuẩn phần ngoài mắt gây ra bởi các chủng vi khuẩn nhạy cảm bao gồm: Viêm mí mắt, viêm kết mạc và viêm giác - kết mạc.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc Bracilb được chỉ định dùng trong các trường hợp sau:</p><ul><li dir=\"ltr\">Điều trị các nhiễm khuẩn phần ngoài mắt gây ra bởi các chủng vi khuẩn nhạy cảm bao gồm: Viêm mí mắt, viêm kết mạc và viêm giác - kết mạc.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p>Tobramycin sulphate là kháng sinh bán tổng hợp họ aminoglycosid. Thuốc diệt khuẩn nhanh do gắn vào tiểu đơn vị 30S của ribosom vi khuẩn và ngăn chặn sự tổng hợp protein của vi khuẩn.</p><p>Nghiên cứu invitro chứng minh Tobramycin có hoạt tính trên các chủng vi khuẩn nhạy cảm sau đây:</p><p>Vi khuẩn gram dương:</p><ul><li>Staphylococci, bao gồm Staphylococcus aureus và Staphylococcus epidermidis (Coagulase dương tính và âm tính) kể cả chủng kháng methicillin.</li><li>Sterptococci: Gồm các chủng huyết giải nhóm A, một số chủng không huyết giải và Sterptococcus pneumoniae.</li></ul><p>Vi khuân gram âm: Pseudomonas aeruginosa, Escherichia coli, Klebsiella pneumoniae, Enterobacter aerogenes, Proteus mirabilis (gồm các chủng indol dương tính và âm tính), Haemophilus spp., Moxarella lacunata, Neisseria spp., Acinobacter calcoaceticus.</p><p>Các nghiên thử độ nhạy cảm cho thấy trong một số trường hợp vi khuẩn đề kháng với gentamicin vẫn còn nhạy cảm với Tobramycin. Dùng Tobramycin kéo dài có thể sinh ra các chủng kháng thuốc.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 71638,
+      "ingredientId": 38847,
+      "shortDescription": "3mg",
+      "name": "Tobramycin",
+      "isPrimary": true,
+      "slug": "thanh-phan/tobramycin"
+    }
+  ],
+  "stock_qty": 0
+}

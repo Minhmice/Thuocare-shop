@@ -1,0 +1,60 @@
+{
+  "id": "00050222",
+  "slug": "thuoc/pharcoter-forte-pharbaco-4-x10.html",
+  "title": "Thuốc Pharcoter Forte  Điều Trị Ho, Long Đờm  (4 Vỉ X 10 Viên)",
+  "short_title": "PHARCOTER FORTE PHARBACO 4X10",
+  "brand": {
+    "name": "Pharbaco",
+    "slug": "thuong-hieu/pharbaco",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-ho-hap/thuoc-tri-ho-cam",
+    "name": "Thuốc trị ho cảm",
+    "parent_slug": "thuoc/thuoc-ho-hap"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07651_6da9efd4b3.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07651_6da9efd4b3.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07652_9396c111f0.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07654_841bb02c2e.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07655_87e0b57ac8.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07656_a99abb18b8.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07657_9c7a69ea89.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07658_f48ecdc146.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/pharcoter_forte_1_5598b55219.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/pharcoter_forte_2_50b98e961d.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Pharcoter Forte là sản phẩm của Công ty Cổ phần Dược phẩm Trung ương I - Pharbaco, có thành phần chính là Codein base, Terpin hydrate. Đây là thuốc được sử dụng cho bệnh nhân trên 12 tuổi để điều trị triệu chứng ho gió, ho khan, ho do viêm khí quản, ho do viêm phế quản.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc Pharcoter Forte được chỉ định cho bệnh nhân trên 12 tuổi để điều trị triệu chứng ho gió, ho khan, ho do viêm khí quản, ho do viêm phế quản.</p><h3 dir=\"ltr\">Dược lực học</h3><p>Terpin hydrat: Có tác dụng làm tăng bài tiết trực tiếp ở phế quản nên được dùng như một thuốc ho long đờm.</p><p>Codein là methylmorphin, nhóm methyl thay thế vị trí của hydro ở nhóm hydroxyl liên kết với nhân thơm trong phân tử morphin, do vậy codein có tác dụng dược lý tương tự morphin, tức là giảm đau và giảm ho. So với morphin, codein được hấp thu tốt hơn ở dạng uống, ít gây táo bón và ít gây co thắt mật hơn.</p><p>Codein có tác dụng giảm ho do tác dụng trực tiếp lên trung tâm gây ho ở hành não; codein làm khô dịch tiết phế quản. Codein không đủ hiệu lực để giảm ho nặng. Codein là thuốc trấn ho trong trường hợp ho khan làm mất ngủ.</p><h3 dir=\"ltr\">Dược động học</h3><p>Terpin hydrat hấp thu tốt qua đường tiêu hóa. Đào thải chủ yếu qua nước tiểu.</p><p>Sau khi uống, thời gian bán thải của codein là 2 - 4 giờ, tác dụng giảm ho xuất hiện trong vòng 1 - 2 giờ và có thể kéo dài 4 - 6 giờ. Codein được chuyển hóa ở gan và thải trừ ở thận dưới dạng tự do hoặc kết hợp với acid glucuronic. Codein hoặc sản phẩm chuyển hóa bài tiết qua phân rất ít.</p><p>Codein qua được nhau thai và một lượng nhỏ qua được hàng rào máu - não.</p>",
+  "ingredients_html": [
+    {
+      "id": 72481,
+      "ingredientId": 43665,
+      "shortDescription": "15mg",
+      "name": "Codein base",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 72482,
+      "ingredientId": 37834,
+      "shortDescription": "100mg",
+      "name": "Terpin hydrate",
+      "isPrimary": false,
+      "slug": "thanh-phan/terpin-hydrate"
+    }
+  ],
+  "stock_qty": 0
+}

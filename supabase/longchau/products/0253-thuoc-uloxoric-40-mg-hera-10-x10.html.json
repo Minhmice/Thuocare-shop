@@ -1,0 +1,44 @@
+{
+  "id": "00501019",
+  "slug": "thuoc/uloxoric-40-mg-hera-10-x10.html",
+  "title": "Thuốc Uloxoric 40mg Herabiopharm điều trị tăng acid uric máu mạn tính (10 vỉ x 10 viên)",
+  "short_title": "ULOXORIC 40MG HERA 10X10",
+  "brand": {
+    "name": "Herabiopharm",
+    "slug": "thuong-hieu/herabiopharm",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/co-xuong-khop/thuoc-xuong-khop",
+    "name": "Thuốc xương khớp",
+    "parent_slug": "thuoc/co-xuong-khop"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/z5487220150968_9894c3bfd2eedc5b84d085cb3385ad2f_807a7cbe4b.webp",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/z5487220150968_9894c3bfd2eedc5b84d085cb3385ad2f_807a7cbe4b.webp"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Uloxoric là sản phẩm của Herabiopharm, có thành phần chính là Febuxostat. Đây là thuốc được sử dụng cho người lớn để điều trị tăng acid uric máu mạn tính khi đã xảy ra tình trạng lắng đọng urat; phòng ngừa và điều trị tăng acid uric huyết ở bệnh nhân trưởng thành đang trải qua hóa trị liệu do bệnh máu ác tính có nguy cơ trung bình đến cao hội chứng ly giải khối u (TLS).</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc Uloxoric được chỉ định dùng trong các trường hợp sau:</p><ul><li>Điều trị tăng acid uric máu mạn tính khi đã xảy ra tình trạng lắng đọng urat.</li><li>Uloxoric 120 mg được chỉ định phòng ngừa và điều trị tăng acid uric huyết ở bệnh nhân trưởng thành đang trải qua hóa trị liệu do bệnh máu ác tính có nguy cơ trung bình đến cao hội chứng ly giải khối u (TLS).</li><li>Uloxoric được chỉ định ở người lớn.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 35834,
+      "ingredientId": 20055,
+      "shortDescription": "40mg",
+      "name": "Febuxostat",
+      "isPrimary": false,
+      "slug": "thanh-phan/febuxostat"
+    }
+  ],
+  "stock_qty": 0
+}

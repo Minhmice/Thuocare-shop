@@ -1,0 +1,73 @@
+{
+  "id": "00011237",
+  "slug": "thuoc/ty-viem-nang-ho-tro-dieu-tri-viem-mui-viem-xoang-344.html",
+  "title": "Thuốc Tỷ Viêm Nang Khang Minh điều trị viêm xoang, viêm mũi dị ứng (60 viên)",
+  "short_title": "TỶ VIÊM NANG 60V",
+  "brand": {
+    "name": "Khang Minh",
+    "slug": "thuong-hieu/khang-minh",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-mat-tai-mui-hong/thuoc-tai-mui-hong",
+    "name": "Thuốc tai mũi họng",
+    "parent_slug": "thuoc/thuoc-mat-tai-mui-hong"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 60 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00011237_ty_viem_nang_ho_tro_dieu_tri_viem_mui_viem_xoang_8103_5b1e_large_bc1a935d9b.JPG",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00011237_ty_viem_nang_ho_tro_dieu_tri_viem_mui_viem_xoang_8103_5b1e_large_bc1a935d9b.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00011237_ty_viem_nang_ho_tro_dieu_tri_viem_mui_viem_xoang_1354_5b1e_large_2903bd9c47.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00011237_ty_viem_nang_ho_tro_dieu_tri_viem_mui_viem_xoang_7902_5b1e_large_03ab817797.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00011237_ty_viem_nang_ho_tro_dieu_tri_viem_mui_viem_xoang_3368_5b1e_large_8500e4e5b6.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00011237_ty_viem_nang_ho_tro_dieu_tri_viem_mui_viem_xoang_2849_5b1e_large_c02c62eb11.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00011237_ty_viem_nang_ho_tro_dieu_tri_viem_mui_viem_xoang_5035_5b1e_large_eef3f41d36.JPG"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang cứng",
+  "trust_label": null,
+  "short_description": "<p>Tỷ Viêm Nang là sản phẩm của công ty Khang Minh Pharma (Việt Nam), thành phần chính là tân di hoa, xuyên khung, thăng ma, bạch chỉ và cam thảo. Thuốc dùng để điều trị viêm xoang, viêm mũi dị ứng, sổ mũi, nghẹt mũi, hắt hơi liên tục, nhức đầu, đau vùng xương mặt, vùng trán.</p>\n\n<p>Tỷ viêm nang được bào chế dạng viên nang cứng và đóng gói theo quy cách: Hộp 01 lọ x 60 viên và hộp 10 vỉ x 10 viên.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p>Tỷ Viêm Nang được chỉ định sử dụng trong trường hợp:</p>\n\n<p>Ðiều trị <a href=\"https://nhathuoclongchau.com.vn/benh/viem-xoang-479.html\">viêm xoang</a>, viêm mũi dị ứng, sổ mũi, nghẹt mũi, hắt hơi liên tục, <a href=\"https://nhathuoclongchau.com.vn/benh/nhuc-dau-24.html\">nhức đầu</a>, đau vùng xương mặt, vùng trán.</p>\n\n<h3>Dược lực học</h3>\n\n<p>Không có báo cáo.</p>\n\n<h3>Dược động học</h3>\n\n<p>Không có báo cáo.</p>",
+  "ingredients_html": [
+    {
+      "id": 27063,
+      "ingredientId": 10072,
+      "shortDescription": " ",
+      "name": "Bạch chỉ",
+      "isPrimary": false,
+      "slug": "thanh-phan/bach-chi"
+    },
+    {
+      "id": 27064,
+      "ingredientId": 38062,
+      "shortDescription": " ",
+      "name": "Thăng ma",
+      "isPrimary": false,
+      "slug": "thanh-phan/thang-ma"
+    },
+    {
+      "id": 27065,
+      "ingredientId": 40801,
+      "shortDescription": " ",
+      "name": "Xuyên khung",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 27066,
+      "ingredientId": 37439,
+      "shortDescription": " ",
+      "name": "Tân di hoa",
+      "isPrimary": false,
+      "slug": "thanh-phan/tan-di-hoa"
+    }
+  ],
+  "stock_qty": 0
+}

@@ -1,0 +1,129 @@
+{
+  "id": "00007325",
+  "slug": "thuoc/thuoc-ho-opc-nguoi-lon-524.html",
+  "title": "Thuốc ho người lớn OPC điều trị viêm nhiễm đường hô hấp, các chứng ho gió (90ml)",
+  "short_title": "THUỐC HO NL OPC 90ML",
+  "brand": {
+    "name": "Opc",
+    "slug": "thuong-hieu/opc",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-ho-hap/thuoc-tri-ho-cam",
+    "name": "Thuốc trị ho cảm",
+    "parent_slug": "thuoc/thuoc-ho-hap"
+  },
+  "price_amount": 38000,
+  "compare_at_amount": 0,
+  "unit": "Chai",
+  "pack_note": "Chai x 90ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007325_thuoc_ho_opc_nguoi_lon_2110_5b59_large_c5dcc4686c.JPG",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007325_thuoc_ho_opc_nguoi_lon_2110_5b59_large_c5dcc4686c.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007325_thuoc_ho_opc_nguoi_lon_1619513023_19984655d2.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007325_thuoc_ho_opc_nguoi_lon_1968_5b59_large_d047f9a1f7.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007325_thuoc_ho_opc_nguoi_lon_4488_5b59_large_486ad7c450.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007325_thuoc_ho_opc_nguoi_lon_5828_5b59_large_024a68745d.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007325_thuoc_ho_opc_nguoi_lon_2628_5b59_large_172892f9cc.JPG"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Siro",
+  "trust_label": null,
+  "short_description": "<p>THUỐC HO NGƯỜI LỚN OPC là sản phẩm được sản xuất bởi Công ty Cổ phần Dược phẩm OPC, có thành phần chính là Tỳ bà diệp, Cát cánh, Bách bộ, Tiền hồ, Tang Bạch bì, Thiên môn, Phục linh/Bạch linh, Cam thảo, Hoàng cầm, Menthol, Cineol.</p>\n\n<p>Thuốc được dùng để điều trị các bệnh viêm nhiễm đường hô hấp, các chứng ho gió, ho cảm, ho có đàm, đau họng.</p>\n\n<p>THUỐC HO NGƯỜI LỚN OPC được bào chế ở dạng dung dịch uống. Hộp 1 chai 90 ml.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p>THUỐC HO NGƯỜI LỚN OPC được chỉ định dùng trong các trường hợp sau:</p>\n\n<p>Điều trị các bệnh viêm nhiễm đường hô hấp, các chứng ho gió, ho cảm, ho có đàm, đau họng.</p>\n\n<h3>Dược lực học</h3>\n\n<p>Chưa có thông tin.</p>\n\n<h3>Dược động học</h3>\n\n<p>Chưa có thông tin.</p>",
+  "ingredients_html": [
+    {
+      "id": 26338,
+      "ingredientId": 14839,
+      "shortDescription": "18.00mg",
+      "name": "cineol",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 26339,
+      "ingredientId": 22423,
+      "shortDescription": "1.80 ",
+      "name": "Hoàng cầm",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 26340,
+      "ingredientId": 10112,
+      "shortDescription": "1.80 ",
+      "name": "Bạch linh",
+      "isPrimary": false,
+      "slug": "thanh-phan/bach-linh"
+    },
+    {
+      "id": 26341,
+      "ingredientId": 38199,
+      "shortDescription": "2.70 ",
+      "name": "Thiên môn đông",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 26342,
+      "ingredientId": 37464,
+      "shortDescription": "1.80 ",
+      "name": "Tang bạch bì",
+      "isPrimary": false,
+      "slug": "thanh-phan/tang-bach-bi"
+    },
+    {
+      "id": 26343,
+      "ingredientId": 38526,
+      "shortDescription": "1.80 ",
+      "name": "Tiền hồ",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 26344,
+      "ingredientId": 10064,
+      "shortDescription": "2.79 ",
+      "name": "Bách bộ",
+      "isPrimary": false,
+      "slug": "thanh-phan/bach-bo"
+    },
+    {
+      "id": 26345,
+      "ingredientId": 13188,
+      "shortDescription": "1.80 ",
+      "name": "Cát cánh",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 26346,
+      "ingredientId": 39706,
+      "shortDescription": "16.20 ",
+      "name": "Tỳ bà lá",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 26347,
+      "ingredientId": 26940,
+      "shortDescription": "18.00mg",
+      "name": "Menthol",
+      "isPrimary": false,
+      "slug": "thanh-phan/menthol"
+    },
+    {
+      "id": 26348,
+      "ingredientId": 12473,
+      "shortDescription": " ",
+      "name": "Cam thảo",
+      "isPrimary": false,
+      "slug": "thanh-phan/cam-thao"
+    }
+  ],
+  "stock_qty": 0
+}

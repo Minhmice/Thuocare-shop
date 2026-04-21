@@ -1,0 +1,60 @@
+{
+  "id": "00007356",
+  "slug": "thuoc/tieu-doc-pv-1995.html",
+  "title": "Thuốc Tiêu Độc PV điều trị dị ứng, mẩn ngứa, mày đay (60 viên)",
+  "short_title": "TIÊU ĐỘC PV 60V",
+  "brand": {
+    "name": "Phúc Vinh",
+    "slug": "thuong-hieu/phuc-vinh",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-benh-gan",
+    "name": "Thuốc trị bệnh gan",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 75000,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 60 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_tieu_doc_pv_dieu_tri_di_ung_man_ngua_may_day_60_vien_00007356_b86ca6b132.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_tieu_doc_pv_dieu_tri_di_ung_man_ngua_may_day_60_vien_00007356_b86ca6b132.png"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao đường",
+  "trust_label": null,
+  "short_description": "<p>Tiêu độc Pv&nbsp;chống dị ứng, giải độc, chống viêm. Điều trị các triệu chứng dị ứng, mẩn ngứa, mày đay, mụn nhọt, giải độc.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3><p>Thuốc Tiêu độc PV&nbsp;được chỉ định dùng trong trường hợp cần điều trị các triệu chứng dị ứng, mẩn ngứa, mày đay, mụn nhọt, giải độc.</p><h3><strong>Dược lực học</strong></h3><p>Chưa có dữ liệu.</p><h3><strong>Dược động học</strong></h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 23519,
+      "ingredientId": 24654,
+      "shortDescription": "600mg",
+      "name": "Kim ngân hoa",
+      "isPrimary": false,
+      "slug": "thanh-phan/kim-ngan-hoa"
+    },
+    {
+      "id": 23520,
+      "ingredientId": 38300,
+      "shortDescription": "600mg",
+      "name": "Thổ phục linh",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 23521,
+      "ingredientId": 35470,
+      "shortDescription": "300mg",
+      "name": "Sâm ngọc linh",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

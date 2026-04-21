@@ -1,0 +1,44 @@
+{
+  "id": "00502593",
+  "slug": "thuoc/harotin-10-hasan-5-x10.html",
+  "title": "Thuốc Harotin 10 Hasan điều trị trầm cảm, rối loạn hoảng sợ, rối loạn lo âu tổng quát (5 vỉ x 10 viên)",
+  "short_title": "HAROTIN 10 HASAN 5X10",
+  "brand": {
+    "name": "Hasan",
+    "slug": "thuong-hieu/hasan",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-than-kinh/thuoc-chong-tram-cam",
+    "name": "Thuốc chống trầm cảm",
+    "parent_slug": "thuoc/thuoc-than-kinh"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/harotin_53fe15ab73.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/harotin_53fe15ab73.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Harotin 10 là sản phẩm của Hasan Dermapharm với thành phần chính là. Thuốc Harotin 10 có tác dụng điều trị trầm cảm, rối loạn hoảng sợ, rối loạn lo âu tổng quát, hội chứng loạn thần kinh ám ảnh, rối loạn do stress chấn thương.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Trầm cảm.</p><p>Rối loạn hoảng sợ.</p><p>Rối loạn lo âu tổng quát.</p><p>Hội chứng loạn thần kinh ám ảnh.</p><p>Rối loạn do stress chấn thương.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 67569,
+      "ingredientId": 31609,
+      "shortDescription": "10mg",
+      "name": "Paroxetine",
+      "isPrimary": true,
+      "slug": "thanh-phan/paroxetine"
+    }
+  ],
+  "stock_qty": 0
+}

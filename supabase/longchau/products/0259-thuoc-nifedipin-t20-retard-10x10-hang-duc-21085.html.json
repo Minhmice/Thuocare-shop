@@ -1,0 +1,52 @@
+{
+  "id": "00020727",
+  "slug": "thuoc/nifedipin-t20-retard-10x10-hang-duc-21085.html",
+  "title": "Viên nén Nifedipin T20 retard Stella dự phòng đau thắt ngực, điều trị tăng huyết áp (10 vỉ x 10 viên) ",
+  "short_title": "NIFEDIPIN T20 RETARD STELLA 10X10",
+  "brand": {
+    "name": "Stella Pharm",
+    "slug": "thuong-hieu/stella-pharm",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap",
+    "name": "Thuốc tim mạch huyết áp",
+    "parent_slug": "thuoc/thuoc-tim-mach-and-mau"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_3967_7c2b4a1c22.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_3967_7c2b4a1c22.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_3968_88f08405b0.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_3969_efa92add12.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_3970_347579c2dc.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_3971_d6f4f48282.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/IMG_3972_6ff3a7ca2a.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_3977_16bf443293.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_3978_8bee0eeea5.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/nifedipin_t20_286d2ca454.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim tác dụng kéo dài",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Nifedipin T20 Retard là sản phẩm của Stellapharm, thành phần chính là nifedipine. Nifedipin T20 retard có tác dụng dự phòng đau thắt ngực, đặc biệt khi có yếu tố co mạch như trong đau thắt ngực kiểu Prinzmetal; điều trị tăng huyết áp.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p>Thuốc Nifedipin T20 Retard chỉ định trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Dự phòng đau thắt ngực, đặc biệt khi có yếu tố co mạch như trong đau thắt ngực kiểu Prinzmetal.</li>\n\t<li>Điều trị <a href=\"https://nhathuoclongchau.com.vn/bai-viet/benh-tang-huyet-ap-va-cach-dieu-tri-hieu-qua-37386.html\">tăng huyết áp</a>.</li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p>Nifedipine là thuốc chẹn kênh calci thuộc nhóm dihydropyridin. Cơ chế tác dụng của nifedipine là ức chế chọn lọc dòng ion calci đi vào trong tế bào bằng cách tương tác đặc hiệu với kênh calci ở màng tế bào.</p>\n\n<p>Thuốc có tác dụng tương đối chọn lọc trên cơ trơn mạch máu, ít có tác dụng hơn đối với tế bào cơ tim. Vì vậy ở liều điều trị thuốc không ảnh hưởng trực tiếp trên co bóp và dẫn truyền xung động tim.</p>\n\n<h3>Dược động học</h3>\n\n<p>Hấp thu: nifedipine được hấp thu nhanh và gần như hoàn toàn qua đường tiêu hóa, nhưng do chuyển hóa lần đầu ở gan mạnh nên sinh khả dụng sau khi uống khoảng 45 - 75%. Thức ăn làm chậm nhưng không làm giảm hấp thu thuốc.</p>\n\n<p>Phân bố: thuốc liên kết với albumin huyết tương 92 – 98%. Thể tích phân bố là 0,6 - 1,2 lít/kg thể trọng.</p>\n\n<p>Chuyển hóa: thuốc chuyển hóa ở gan tạo thành các chất chuyển hóa không còn hoạt tính.</p>\n\n<p>Thải trừ: các chất chuyển hóa không hoạt tính thải trừ chủ yếu qua thận và khoảng 5 - 15% thải trừ qua phân. Dưới 1% thuốc thải trừ qua nước tiểu dưới dạng không đổi.</p>",
+  "ingredients_html": [
+    {
+      "id": 7593,
+      "ingredientId": 29925,
+      "shortDescription": "20mg",
+      "name": "Nifedipine",
+      "isPrimary": false,
+      "slug": "thanh-phan/nifedipine"
+    }
+  ],
+  "stock_qty": 0
+}

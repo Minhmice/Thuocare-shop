@@ -1,0 +1,54 @@
+{
+  "id": "00005208",
+  "slug": "thuoc/neodex-5ml-2900.html",
+  "title": "Thuốc nhỏ mắt Neodex Pharmedic hỗ trợ điều trị viêm kết mạc, giác mạc, viêm mí mắt (5ml)",
+  "short_title": "NEODEX PMD 5ML",
+  "brand": {
+    "name": "Pharmedic",
+    "slug": "thuong-hieu/pharmedic",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-mat-tai-mui-hong/thuoc-nho-mat",
+    "name": "Thuốc nhỏ mắt",
+    "parent_slug": "thuoc/thuoc-mat-tai-mui-hong"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Chai",
+  "pack_note": "Chai x 5ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/neodex_13345fd344.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/neodex_13345fd344.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005208_neodex_5ml_1618976466_261601f929.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005208_neodex_5ml_8660_607f_large_e9f8c11e73.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch",
+  "trust_label": null,
+  "short_description": "<p><strong>Neodex</strong> được sản xuất bởi <i>Công ty Cổ phần Dược phẩm Dược liệu Pharmedic</i>, với thành phần chính <i>neomycin sulfate</i> và <i>dexamethasone natri phosphate</i>. Đây là thuốc dùng để kháng viêm, kháng dị ứng và chống nhiễm khuẩn ở mắt khi viêm kết mạc, giác mạc, viêm mí mắt, viêm túi lệ, viêm màng mạch nho. Thuốc còn được dùng trong các bệnh nhiễm trùng mắt do chấn thương trước hoặc sau khi phẫu thuật mắt.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3><p><strong>Thuốc Neodex</strong> được chỉ định dùng trong các trường hợp sau:</p><ul><li>Kháng viêm, kháng dị ứng và chống nhiễm khuẩn ở mắt khi viêm kết mạc, giác mạc, viêm mí mắt, viêm túi lệ, viêm màng mạch nho.</li><li>Các bệnh nhiễm trùng mắt do chấn thương trước hoặc sau khi phẫu thuật mắt.</li></ul><h3><strong>Dược lực học</strong></h3><p>Dexamethasone là corticoid tổng hợp, có tác dụng kháng viêm và kháng dị ứng.</p><p>Neomycin là một kháng sinh diệt khuẩn thuộc nhóm aminoglycoside, có hoạt tính trên phần lớn những chủng gây bệnh liên quan đến nhiễm trùng mắt. Phổ kháng khuẩn của neomycin bao gồm staphylococcus, gonococcus, acinetobacter, brucella, escherichia coli, haemophilus, klebsiella, salmonella, serratia, shigella, yersinia.</p><h3><strong>Dược động học</strong></h3><p>Neomycin hấp thu kém qua đường tiêu hoá. Sau khi dùng tại chỗ, lượng thuốc hấp thu không đủ để tạo ra tác dụng toàn thân. Sau khi hấp thu, neomycin nhanh chóng thải ra thận ở dạng hoạt tính.</p><p>Khi dùng nhỏ mắt, dexamethasone được hấp thu vào dịch nước mắt, giác mạc, mống mắt, màng mạch, thể mi và võng mạc. Sự hấp thu toàn thân có thể xảy ra nhưng chỉ đáng kể ở liều cao. Dexamethasone được chuyển hoá ở gan và thải trừ chủ yếu ở thận.</p>",
+  "ingredients_html": [
+    {
+      "id": 22503,
+      "ingredientId": 17269,
+      "shortDescription": "25mg",
+      "name": "Dexamethasone",
+      "isPrimary": false,
+      "slug": "thanh-phan/dexamethasone"
+    },
+    {
+      "id": 22504,
+      "ingredientId": 29513,
+      "shortDescription": "5.5mg",
+      "name": "Neomycin",
+      "isPrimary": false,
+      "slug": "thanh-phan/neomycin"
+    }
+  ],
+  "stock_qty": 0
+}

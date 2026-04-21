@@ -1,0 +1,51 @@
+{
+  "id": "00008443",
+  "slug": "thuoc/tadeno-1595.html",
+  "title": "Thuốc ShineTadeno 50mg Medisun phòng và hỗ trợ điều trị rối loạn đường tiểu (3 vỉ x 10 viên)",
+  "short_title": "TADENO 50 3X10",
+  "brand": {
+    "name": "Medisun",
+    "slug": "thuong-hieu/medisun",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-tri-benh-tuyen-tien-liet",
+    "name": "Thuốc trị bệnh tuyến tiền liệt",
+    "parent_slug": "thuoc/thuoc-tiet-nieu-sinh-duc"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00008443_tadeno_4546_63d7_large_886ad46ab7.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00008443_tadeno_4546_63d7_large_886ad46ab7.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00008443_tadeno_1675062678_7d47dc3107.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00008443_tadeno_4250_63d7_large_55b32a74e1.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00008443_tadeno_7522_63d7_large_42f288314e.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00008443_tadeno_3116_63d7_large_32dba9e688.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00008443_tadeno_8073_63d7_large_2a4d047023.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00008443_tadeno_3663_63d7_large_8f19cdd7da.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00008443_tadeno_7520_63d7_large_7b74cbe953.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang mềm",
+  "trust_label": null,
+  "short_description": "<p><strong>Shine Tadeno</strong> của <i>Công ty Cổ phần Dược phẩm Medisun</i> sản xuất, thành phần chính là cao pygeum africanum, là thuốc dùng để điều trị <a href=\"https://nhathuoclongchau.com.vn/bai-viet/roi-loan-duong-huyet-o-nguoi-benh-tieu-duong-nguyen-nhan-va-cach-phong-ngua-48903.html\">rối loạn đường tiểu</a>.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3><p>Thuốc Shine Tadeno được chỉ định dùng trong các trường hợp sau:</p><p>Phòng và điều trị rối loạn đường tiểu do phì đại lành tính tiền liệt tuyến, di chứng phẫu thuật cắt bỏ tiền liệt tuyến và <a href=\"https://nhathuoclongchau.com.vn/benh/ung-thu-tuyen-tien-liet-325.html\">ung thư tiền liệt tuyến</a>.</p><h3><strong>Dược lực học</strong></h3><p>Trên thực nghiệm, người ta đã xác định được tác dụng của dịch chiết pygeum africanum trên sự chống tăng sinh ở nguyên bào sợi được kích thích bởi b - FGF (yếu tố tăng trưởng nguyên bào sợi tính kiềm) mà vai trò trong bệnh căn học hiện nay đã được gợi ra. Mặt khác, điều rất đáng chú ý là dịch chiết pygeum africanum không can thiệp vào hoạt động kích thích tố của hệ sinh dục nam.</p><h3><strong>Dược động học</strong></h3><p>Không xác định.</p>",
+  "ingredients_html": [
+    {
+      "id": 23991,
+      "ingredientId": 41972,
+      "shortDescription": "50mg",
+      "name": "Cao Pygenum africanum",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

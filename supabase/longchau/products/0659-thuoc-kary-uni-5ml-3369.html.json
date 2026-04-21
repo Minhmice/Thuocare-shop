@@ -1,0 +1,43 @@
+{
+  "id": "00004072",
+  "slug": "thuoc/kary-uni-5ml-3369.html",
+  "title": "Thuốc nhỏ mắt Kary Uni Santen điều trị đục thủy tinh thể mới phát (5ml)",
+  "short_title": "KARY UNI SANTEN 5ML",
+  "brand": {
+    "name": "Santen",
+    "slug": "thuong-hieu/santen",
+    "country": "Nhật Bản"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-mat-tai-mui-hong/thuoc-nho-mat",
+    "name": "Thuốc nhỏ mắt",
+    "parent_slug": "thuoc/thuoc-mat-tai-mui-hong"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Chai",
+  "pack_note": "Chai x 5ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_4710_274756f47e.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_4710_274756f47e.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_4704_566511d65c.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_4705_f8b2fb52f8.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_4706_447b56bf50.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_4707_64f55a31cb.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_4708_d66e6b0fc2.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_4711_ab713d2eb5.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/karry_uni_1_b5419e8c99.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/kary_uni_2_b329761a63.jpg"
+  ],
+  "origin_label": "Nhật Bản",
+  "country": "Nhật Bản",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Hỗn dịch nhỏ mắt",
+  "trust_label": null,
+  "short_description": "<p>Kary Uni 5 ml do Công ty TNHH Dược phẩm Santen (Santen Pharmaceutical Co., Ltd) sản xuất. Kary Uni 5 ml là hỗn dịch nhỏ mắt thân nước vô khuẩn, khi lắc có màu cam đục, có thành phần chính Pirenoxin 0.25 mg, được dùng để điều trị đục thủy tinh thể mới phát ở người lớn tuổi.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p>Thuốc Kary Uni 5 ml được chỉ định để điều trị <a href=\"https://nhathuoclongchau.com.vn/benh/duc-thuy-tinh-the-546.html\">đục thủy tinh thể</a> mới phát ở người lớn tuổi.</p>\n\n<h3>Dược lực học</h3>\n\n<p>Theo thuyết quinoid, đục thủy tinh thể ở người lớn tuổi là một biểu hiện của sự thoái hóa protein ở thủy tinh thể gây bởi các quinon - là chất được hình thành do rối loạn chuyển hóa tryptophan.</p>\n\n<p>Vì pirenoxin có ái lực cao hơn đối với protein tan trong nước ở thủy tinh thể so với các quinon, nó ức chế cạnh tranh sự gắn kết với quinon, do đó ngăn cản thoái hóa protein.</p>\n\n<h3>Dược động học</h3>\n\n<p>Huyền dịch nhỏ mắt chứa hoạt chất Pirenoxine.</p>\n\n<p>Ngay sau khi nhỏ tại chỗ, pH của chế phẩm trở thành tương đương với pH của nước mắt, các hạt treo của Pirenoxine được hòa tan nhanh trong nước mắt (10 giây).</p>",
+  "ingredients_html": "<p><meta charset=\"utf-8\" /></p>\r\n\r\n<p><meta charset=\"utf-8\" /></p>\r\n\r\n<p dir=\"ltr\" role=\"presentation\">Th&agrave;nh phần của Kary Uni 5ml:</p>\r\n\r\n<ul dir=\"ltr\">\r\n\t<li role=\"presentation\">Dược chất ch&iacute;nh: Pirenoxin 0.25mg</li>\r\n\t<li role=\"presentation\">T&aacute; dược: Glycerin đậm đặc, benzalkonium clorid, polyoxyethylen hydrogenated castor oil 60, dinatri edetat hydrat, acid hydrocloric lo&atilde;ng, natri hydroxyd v&agrave; nước tinh khiết.</li>\r\n</ul>\r\n\r\n<p dir=\"ltr\" role=\"presentation\">Loại thuốc: Thuốc nhỏ mắt</p>\r\n\r\n<p dir=\"ltr\" role=\"presentation\">Dạng thuốc, h&agrave;m lượng: Hộp 1 lọ nhựa 5mL</p>\r\n\r\n<p>Nh&agrave; sản xuất: Santen</p>",
+  "stock_qty": 0
+}

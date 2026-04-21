@@ -1,0 +1,53 @@
+{
+  "id": "00009725",
+  "slug": "thuoc/strepsils-orange-with-vitamin-c-1513.html",
+  "title": "Viên ngậm Strepsils Orange with Vitamin C Reckitt Benckiser điều trị đau họng (50 gói x 2 viên)",
+  "short_title": "STREPSILS ORANGE WITH VITAMIN C 50X2",
+  "brand": {
+    "name": "Reckitt Benckiser",
+    "slug": "thuong-hieu/reckitt-benckiser",
+    "country": "Anh"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-ho-hap/vien-ngam-tri-ho-viem-hong",
+    "name": "Viên ngậm trị ho, viêm họng",
+    "parent_slug": "thuoc/thuoc-ho-hap"
+  },
+  "price_amount": 4400,
+  "compare_at_amount": 0,
+  "unit": "Gói",
+  "pack_note": "50 Gói x 2 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00009725_589b950fd0.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00009725_589b950fd0.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00009725_strepsils_orange_with_vitamin_c_1626104811_aa8ebebd4e.jpg"
+  ],
+  "origin_label": "Anh",
+  "country": "Anh",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên ngậm",
+  "trust_label": null,
+  "short_description": "<p>Viên ngậm Strepsils Orange With Vitamin C 50 gói là sản phẩm của&nbsp;Công ty Reckitt Benckiser Healthcare Manufacturing (Thailand) Ltd chứa hai hoạt chất 2,4-Dichlorobenzyl Alcohol và Amylmetacresol có tính kháng khuẩn sử dụng trong <strong>điều trị </strong><a href=\"https://nhathuoclongchau.com.vn/benh/viem-hong-468.html\"><strong>viêm họng</strong></a>. <a href=\"https://nhathuoclongchau.com.vn/thuoc/strepsils-original-24-vien-2158.html\">Viên ngậm Strepsils</a> là viên ngậm kháng khuẩn để làm <strong>giảm đau họng dùng cho trẻ em và người lớn</strong>.</p>",
+  "description_html": "<h3>Giới thiệu viên ngậm Strepsils Orange with Vitamin C Reckitt Benckiser</h3><ul><li><strong>Thành phần hoạt chất: </strong>2,4 - Dichlorobenzyl alcohol 1.2mg; Amylmetacresol 0.6mg.</li><li><strong>Chỉ định:</strong> Thuốc chứa 2,4-Dichlorobenzyl Alcohol và Amylmetacresol có tác dụng kháng khuẩn, dùng điều trị viêm họng; viên ngậm Strepsils giúp giảm đau họng cho trẻ em và người lớn.</li><li><strong>Cách dùng:</strong> Ngậm 1 viên để tan chậm trong miệng cách khoảng 2 đến 3 giờ. Không dùng quá liều đã chỉ định.</li><li><strong>Chống chỉ định: </strong>Chống chỉ định trong trường hợp quá mẫn cảm với bất kỳ thành phần nào của thuốc.</li><li><strong>Lưu ý khi sử dụng: </strong>Cần thận trọng và điều chỉnh liều ở bệnh nhân suy gan hoặc suy thận nhằm hạn chế nguy cơ độc tính và các tác dụng không mong muốn. Trẻ nhỏ có thể bị nghẹt thở do viên ngậm.</li></ul>",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc <a href=\"https://nhathuoclongchau.com.vn/thuoc/strepsils-orange-with-vitamin-c-24-vien-2159.html\">Strepsils Orange Vitamin C</a> được chỉ định dùng trong các trường hợp sau:</p><ul><li>Thuốc chứa hai hoạt chất 2,4-Dichlorobenzyl Alcohol và Amylmetacresol có tính kháng khuẩn sử dụng trong điều trị viêm họng.</li><li>Viên ngậm Strepsils là viên ngậm kháng khuẩn để làm giảm đau họng dùng cho trẻ em và người lớn.</li></ul><h3>Dược lực học</h3><p>Chưa có báo cáo.</p><h3>Dược động học</h3><p>Chưa có báo cáo.</p>",
+  "ingredients_html": [
+    {
+      "id": 24115,
+      "ingredientId": 17600,
+      "shortDescription": "1.2mg",
+      "name": "Dichlorobenzyl alcohol",
+      "isPrimary": false,
+      "slug": "thanh-phan/dichlorobenzyl-alcohol"
+    },
+    {
+      "id": 24116,
+      "ingredientId": 8959,
+      "shortDescription": "0.6mg",
+      "name": "Amylmetacresol",
+      "isPrimary": false,
+      "slug": "thanh-phan/amylmetacresol"
+    }
+  ],
+  "stock_qty": 0
+}

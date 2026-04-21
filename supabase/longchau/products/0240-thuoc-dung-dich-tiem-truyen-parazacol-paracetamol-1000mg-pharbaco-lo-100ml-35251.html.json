@@ -1,0 +1,44 @@
+{
+  "id": "00501104",
+  "slug": "thuoc/dung-dich-tiem-truyen-parazacol-paracetamol-1000mg-pharbaco-lo-100ml-35251.html",
+  "title": "Thuốc tiêm truyền Parazacol 1000 Pharbaco điều trị sốt, đau ở mức độ nhẹ và vừa (100ml)",
+  "short_title": "PARAZACOL PARACETAMOL 1000MG PHARBACO 100ML ",
+  "brand": {
+    "name": "Pharbaco",
+    "slug": "thuong-hieu/pharbaco",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-ho-hap/thuoc-tri-ho-cam",
+    "name": "Thuốc trị ho cảm",
+    "parent_slug": "thuoc/thuoc-ho-hap"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Lọ",
+  "pack_note": "Lọ x 100ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/parazcol_41f4e6306a.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/parazcol_41f4e6306a.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch tiêm truyền",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Parazacol là sản phẩm của Công ty Cổ phần Dược phẩm Trung ương 1, có thành phần chính là Paracetamol. Đây là thuốc được sử dụng để điều trị cho bệnh nhân bị sốt do mọi nguyên nhân, bệnh nhân đau ở mức độ nhẹ và vừa, đau sau khi phẫu thuật.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Parazacol được chỉ định dùng trong các trường hợp sau:</p><ul><li>Điều trị cho bệnh nhân bị sốt do mọi nguyên nhân.</li><li>Bệnh nhân đau ở mức độ nhẹ và vừa, đau sau khi phẫu thuật.</li></ul><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 58651,
+      "ingredientId": 31537,
+      "shortDescription": "1000mg",
+      "name": "Paracetamol",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

@@ -1,0 +1,44 @@
+{
+  "id": "00040457",
+  "slug": "thuoc/padolac-tab-5-mg-kyung-10-x10.html",
+  "title": "Thuốc Padolac tab 5mg Kyung Dong điều trị triệu chứng đường tiêu hóa (10 vỉ x 10 viên)",
+  "short_title": "PADOLAC TAB 5MG KYUNG 10X10",
+  "brand": {
+    "name": "Kyung Dong",
+    "slug": "thuong-hieu/kyung-dong",
+    "country": "Hàn Quốc"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tieu-hoa",
+    "name": "Thuốc tiêu hoá",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 4100,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00040457_1458e7e372.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00040457_1458e7e372.jpg"
+  ],
+  "origin_label": "Hàn Quốc",
+  "country": "Hàn Quốc",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Padolac Tab là sản phẩm của Kyung Dong Pharm - Hàn Quốc, có thành phần chính là Mosapride. Đây là thuốc được sử dụng để điều trị triệu chứng đường tiêu hóa (như ợ nóng, buồn nôn, nôn) do viêm dạ dày mạn tính; hỗ trợ trong thụt tháo ruột sạch hoàn toàn trước khi thực hiện chụp X-quang.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc Padolac Tab được chỉ định dùng trong các trường hợp sau:</p><ul><li>Điều trị triệu chứng đường tiêu hóa (như ợ nóng, buồn nôn, nôn) do viêm dạ dày mạn tính.</li><li>Hỗ trợ trong thụt tháo ruột sạch hoàn toàn trước khi thực hiện chụp X-quang. Thử nghiệm lâm sàng chỉ mới được nghiên cứu khi sử dụng phối hợp mosaprid citrat với thuốc gây thụt tháo đường ruột NIFLEC (có chứa natri clorid, kali clorid, natri bicarbonat và natri sulfat).</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 42438,
+      "ingredientId": 28047,
+      "shortDescription": "5mg",
+      "name": "Mosapride",
+      "isPrimary": false,
+      "slug": "thanh-phan/mosapride"
+    }
+  ],
+  "stock_qty": 0
+}

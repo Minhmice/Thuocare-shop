@@ -1,0 +1,44 @@
+{
+  "id": "00012404",
+  "slug": "thuoc/davibest-1104.html",
+  "title": "Thuốc Davibest 50mg Davipharm làm giảm triệu chứng của tất cả các dạng trầm cảm (30 viên)",
+  "short_title": "DAVIBEST 50 DAVI 3X10",
+  "brand": {
+    "name": "Davipharm",
+    "slug": "thuong-hieu/davipharm",
+    "country": ""
+  },
+  "category": {
+    "slug": "thuoc/thuoc-than-kinh/thuoc-chong-tram-cam",
+    "name": "Thuốc chống trầm cảm",
+    "parent_slug": "thuoc/thuoc-than-kinh"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/z7090268514959_3f4e9632724403d2cb439273f66fdc81_3cd236328e.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/z7090268514959_3f4e9632724403d2cb439273f66fdc81_3cd236328e.jpg"
+  ],
+  "origin_label": "",
+  "country": "",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p><strong>Davibest</strong> chứa hoạt chất trazodon được sản xuất bởi công ty CP dược phẩm Đạt Vi Phú. Thuốc thuộc nhóm chống trầm cảm mạnh sử dụng trong điều trị các triệu chứng của tất cả các dạng trầm cảm bao gồm trầm cảm kèm lo âu.</p>\n\n<p>Thuốc được bào chế dưới dạng viên nén dài, bao phim màu đỏ, một mặt dập logo, mặt kia dập gạch ngang.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p><strong>Thuốc Davibest</strong> được chỉ định trong các trường hợp điều trị làm giảm triệu chứng của tất cả các dạng <a href=\"https://nhathuoclongchau.com.vn/benh/tram-cam-79.html\">trầm cảm</a>, bao gồm tình trạng lo âu đi kèm.</p>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Trazodon là một chất chống trầm cảm mạnh. Thuốc cũng có hoạt tính giảm lo âu. Trazodon hydroclorid là dẫn xuất của trazolopyridin không liên quan hóa học đến thuốc chống trầm cảm 3 vòng, 4 vòng và các nhóm thuốc chống trầm cảm khác. Thuốc ảnh hưởng không đáng kể đến cơ chế tái hấp thu noradrenalin.</p>\n\n<p>Mặc dù chưa rõ cơ chế tác dụng của trazodon hydroclorid, tác dụng chống trầm cảm của thuốc có thể liên quan đến sự kích thích noradrenergic không bởi cơ chế ngăn chặn hấp thu. Tác dụng giảm lo âu của thuốc có thể do ức chế serotonin trung ương.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p><em>Hấp thu</em></p>\n\n<p>Trazodon được hấp thu nhanh và gần như hoàn toàn từ đường tiêu hóa. Cmax trong huyết tương đạt được trong khoảng 1 giờ sau khi uống trazodon hydroclorid lúc đói và 2 giờ nếu uống thuốc với thức ăn. </p>\n\n<p><em>Phân bố</em></p>\n\n<p>Sự phân bố của trazodon ở mô và dịch ở người chưa được xác định. Trazodon qua hàng rào máu não ở động vật và nồng độ của thuốc trong não cao hơn trong huyết tương trong vòng 8 giờ đầu sau khi uống. Trazodon gắn kết với protein huyết tương 85 - 95%.</p>\n\n<p><em>Chuyển hóa</em></p>\n\n<p>Trazodon được chuyển hóa nhiều ở gan. Con đường chuyển hóa của trazodone bao gồm n - oxy hóa và hydroxyl hóa. Chất chuyển hóa m - clorophenylpiperazin có hoạt tính. </p>\n\n<p><em>Thải trừ</em></p>\n\n<p>Trazodon thải trừ qua nước tiểu hầu như toàn bộ dưới dạng chất chuyển hóa, tự do hoặc liên hợp. Sự thải trừ trazodon bao gồm 2 giai đoạn với thời gian bán thải cuối từ 5 đến 9 giờ trazodon tiết qua sữa mẹ.</p>",
+  "ingredients_html": [
+    {
+      "id": 36799,
+      "ingredientId": 39140,
+      "shortDescription": "50mg",
+      "name": "Trazodone",
+      "isPrimary": false,
+      "slug": "thanh-phan/trazodone"
+    }
+  ],
+  "stock_qty": 0
+}

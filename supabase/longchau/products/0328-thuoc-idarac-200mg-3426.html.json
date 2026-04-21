@@ -1,0 +1,39 @@
+{
+  "id": "00003904",
+  "slug": "thuoc/idarac-200mg-3426.html",
+  "title": "Thuốc Idarac 200mg Roussel điều trị các chứng đau mức độ nhẹ đến trung bình (2 vỉ x 10 viên)",
+  "short_title": "IDARAC 200 2X10",
+  "brand": {
+    "name": "Roussel",
+    "slug": "thuong-hieu/roussel",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem/thuoc-giam-dau-khang-viem",
+    "name": "Thuốc giảm đau kháng viêm",
+    "parent_slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00003904_idarac_200mg_5778_6059_large_f2519bf35c.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003904_idarac_200mg_5778_6059_large_f2519bf35c.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003904_idarac_200mg_1627548912_ac22c88e3c.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003904_idarac_200mg_9029_6059_large_8fc7825484.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003904_idarac_200mg_7103_6059_large_f92ec08905.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003904_idarac_200mg_5899_6059_large_3b4cc19864.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén",
+  "trust_label": null,
+  "short_description": "<p>Idarac 200 mg là sản phẩm của Công ty Roussel (Việt Nam), có thành phần chính là Floctafenine, được dùng để điều trị các chứng đau nhức cấp và mạn ở người lớn.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p>Idarac được chỉ định điều trị các chứng đau mức độ nhẹ đến trung bình.</p>\n\n<h3>Dược lực học</h3>\n\n<p>Thuốc có tác dụng giảm đau đơn thuần không hạ sốt và kháng viêm, thuộc nhóm nonsteroidal anti-inflammatory drugs (NSAIDs).</p>\n\n<h3>Dược động học</h3>\n\n<p>Thuốc được hấp thu nhanh qua đường uống. Nồng độ thuốc trong huyết tương đạt mức tối đa 1 giờ đến 2 giờ sau khi uống thuốc. Thời gian bán hủy khoảng 8 giờ.</p>\n\n<p>Trong gan, phần lớn floctafenin được chuyển hóa thành acid floctafenic.</p>\n\n<p>Floctafenin và các chất chuyển hóa của nó được thải trừ 60% qua đường mật và 40% qua đường tiểu dưới dạng liên hợp glucuronid.</p>\n\n<p>Floctafenin qua được nhau thai và vào sữa mẹ.</p>",
+  "ingredients_html": "<p><meta charset=\"utf-8\" /></p>\r\n\r\n<ul>\r\n\t<li aria-level=\"1\" dir=\"ltr\">\r\n\t<p dir=\"ltr\" role=\"presentation\">Hoạt chất: <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/floctafenine\">Floctafenin</a> 200mg</p>\r\n\t</li>\r\n\t<li aria-level=\"1\" dir=\"ltr\">\r\n\t<p dir=\"ltr\" role=\"presentation\">T&aacute; dược: Tinh bột ng&ocirc;, natri docusat, povidon K30, magnesi stearat.</p>\r\n\t</li>\r\n\t<li aria-level=\"1\" dir=\"ltr\">\r\n\t<p dir=\"ltr\" role=\"presentation\">Loại thuốc: Thuốc chống vi&ecirc;m kh&ocirc;ng steroid</p>\r\n\t</li>\r\n\t<li aria-level=\"1\" dir=\"ltr\">\r\n\t<p dir=\"ltr\" role=\"presentation\">Dạng đi&ecirc;̀u ch&ecirc;́ v&agrave; h&agrave;m lượng: Vi&ecirc;n n&eacute;n, 200mg</p>\r\n\t</li>\r\n</ul>",
+  "stock_qty": 0
+}

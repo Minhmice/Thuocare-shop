@@ -1,0 +1,56 @@
+{
+  "id": "00004900",
+  "slug": "thuoc/metrogyl-denta-20g-3024.html",
+  "title": "Gel bôi nha khoa Metrogyl Denta Unique Pharma điều trị các bệnh nha chu mãn tính (20g)",
+  "short_title": "METROGYL DENTA 20G",
+  "brand": {
+    "name": "Unique Pharma",
+    "slug": "thuong-hieu/unique-pharma",
+    "country": "Ấn Độ"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-da-lieu/thuoc-boi-ngoai-da",
+    "name": "Thuốc bôi ngoài da",
+    "parent_slug": "thuoc/thuoc-da-lieu"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Tuýp",
+  "pack_note": "Tuýp x 20g",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004900_metrogyl_denta_20g_5154_5b05_large_dcbc1b38ac.JPG",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004900_metrogyl_denta_20g_5154_5b05_large_dcbc1b38ac.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004900_metrogyl_denta_20g_8415_5b05_large_32bc6a2e86.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004900_metrogyl_denta_20g_2660_5b05_large_51bf9be0da.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004900_metrogyl_denta_20g_4006_5b05_large_4cd7e8905a.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004900_metrogyl_denta_20g_9358_5b05_large_e90e33f408.JPG"
+  ],
+  "origin_label": "Ấn Độ",
+  "country": "Ấn Độ",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Nhũ tương (Gel)",
+  "trust_label": null,
+  "short_description": "<p><strong>Metrogyl Denta</strong> của <i>công ty Unique Pharmaceutical&nbsp;Labs</i>, thành phần chính là <i>metronidazole benzoate BP</i>. Thuốc được dùng trong điều trị các bệnh nha chu mãn tính để hỗ trợ cho các điều trị truyền thống.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p><strong>Thuốc Metrogyl Denta</strong> được chỉ định dùng điều trị các bệnh nha chu mãn tính để hỗ trợ cho các điều trị truyền thống.</p><h3>Dược lực học</h3><p>Metronidazole là một chất kháng khuẩn thuộc nhóm inidazole có tác dụng chống lại nhiều loại vi khuẩn kỵ khí, bao gồm cả các vi khuẩn chủ yếu trong hệ vi khuẩn chí ở vùng dưới lợi trong bệnh viêm nha chu ở người lớn. Metronidazol có tác dụng diệt khuẩn chống lại Bacteroides spp., Fusobacterium, Wolinella, Spirochetes và các vi khuẩn kỵ khí bắt buộc khác, nhưng không ảnh hưởng đến các vi khuẩn hiếu khí.</p><p>Có một số vi khuẩn lên men kỵ khí như Actinobacillus actinomycetemcolmitans nhạy cảm với nồng độ metrotidazole đạt được sau khi bôi&nbsp;Metrogyl Denta. Sự xuất hiện kháng metronidazole hiếm khi được báo cáo, và chỉ với các liều cao sau khi dùng kéo dài. Metronidazole không làm ảnh hướng đến các vi sinh vật hội sinh.</p><h3>Dược động học</h3><p>Chưa có các nghiên cứu đặc hiệu về dược động học với metronidazole gel.</p><p>Với viên nén, thời gian bán huỷ sau khi dùng một liều đơn là 6 - 7 giờ.</p><p>Metronidazole ít liên kết với protein huyết tương. Nó dễ thấm vào các mô và có thể tích phân bố biểu kiến lớn tương đương với sự phân bố khoảng 70 - 95% khối lượng cơ thể.</p><p>Metronidazole bị thải trừ ở người chủ yếu qua chuyển hoá do bị oxi hoá chuỗi bên, hydroxyl hoá hoặc liên hợp. Sau 24 giờ, lượng các chất chuyển hoá phát hiện được trong nước tiểu chiếm 35 - 65% liều dùng.</p>",
+  "ingredients_html": [
+    {
+      "id": 32716,
+      "ingredientId": 27535,
+      "shortDescription": "10mg",
+      "name": "Metronidazole",
+      "isPrimary": false,
+      "slug": "thanh-phan/metronidazole"
+    },
+    {
+      "id": 32717,
+      "ingredientId": 14421,
+      "shortDescription": "0.25%",
+      "name": "Chlorhexidine",
+      "isPrimary": false,
+      "slug": "thanh-phan/chlorhexidine"
+    }
+  ],
+  "stock_qty": 0
+}

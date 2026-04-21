@@ -1,0 +1,44 @@
+{
+  "id": "00046286",
+  "slug": "thuoc/xaravix-15-mg-dhg-pharma-1-x14.html",
+  "title": "Thuốc Xaravix 15MG Dhg Pharma ngăn ngừa huyết khối, giảm nguy cơ đột quỵ (1 vỉ x 14 viên)",
+  "short_title": "XARAVIX 15MG DHG PHARMA 1X14",
+  "brand": {
+    "name": "Dhg",
+    "slug": "thuong-hieu/dhg",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tri-tieu-duong",
+    "name": "Thuốc trị tiểu đường",
+    "parent_slug": "thuoc"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "14 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/Xaravix_15_c68f63211f.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/Xaravix_15_c68f63211f.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Xaravix 15 là thuốc chống đông máu hoạt động bằng cách ức chế trực tiếp yếu tố Xa. Sản phẩm được chỉ định để phòng ngừa đột quỵ, thuyên tắc mạch toàn thân ở bệnh nhân rung nhĩ và điều trị huyết khối tĩnh mạch sâu (DVT), thuyên tắc phổi (PE).</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Phòng ngừa thuyên tắc huyết khối tĩnh mạch (VTE) ở bệnh nhân người lớn được phẫu thuật thay thế khớp háng hoặc khớp gối.</p><p>Điều trị và dự phòng tái phát huyết khối tĩnh mạch sâu (DVT) và thuyên tắc phổi (PE) ở người lớn.</p><p>Phòng ngừa đột quỵ và thuyên tắc mạch toàn thân ở các bệnh nhân bị rung nhĩ không do bệnh lý van tim có một hoặc nhiều yếu tố nguy cơ như: suy tim sung huyết, tăng huyết áp, ≥ 75 tuổi, đái tháo đường, tiền sử đột quỵ hoặc cơn thiếu máu não thoáng qua.</p><h3>Dược lực học</h3><p>Mã ATC: B01AF01.</p><p>Rivaroxaban là một chất ức chế trực tiếp chọn lọc cao đối với yếu tố Xa có tác dụng qua đường uống. Sự ức chế yếu tố Xa làm gián đoạn con đường nội sinh và ngoại sinh của quá trình đông máu, từ đó ức chế hình thành thrombin và phát triển của huyết khối. Rivaroxaban đã được chứng minh không ức chế thrombin (yếu tố II hoạt hóa) và không có tác dụng trên tiểu cầu.</p><h3>Dược động học</h3><p>Rivaroxaban được hấp thu nhanh, với nồng độ tối đa (Cmax) sau 2 - 4 giờ uống thuốc. Rivaroxaban hấp thu hầu như hoàn toàn qua đường uống và sinh khả dụng đường uống cao (80 - 100%) với viên 2,5 mg và 10 mg, bất kể uống thuốc ở tình trạng đói hay no. Việc sử dụng thuốc cùng với thức ăn không làm ảnh hưởng đến AUC hoặc Cmax của rivaroxaban ở liều 2,5 mg và 10 mg. Dược động học của rivaroxaban xấp xỉ tuyến tính lên đến khoảng 15 mg x 1 lần/ ngày. Ở liều cao hơn rivaroxaban thể hiện sự hấp thu hạn chế với sinh khả dụng giảm và tốc độ hấp thu giảm khi tăng liều. Điều này thể hiện rõ hơn ở trạng thái đói so với trạng thái no.</p>",
+  "ingredients_html": [
+    {
+      "id": 65598,
+      "ingredientId": 34929,
+      "shortDescription": "15mg",
+      "name": "Rivaroxaban",
+      "isPrimary": false,
+      "slug": "thanh-phan/rivaroxaban"
+    }
+  ],
+  "stock_qty": 0
+}

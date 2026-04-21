@@ -1,0 +1,44 @@
+{
+  "id": "00501127",
+  "slug": "thuoc/atsotine-400mg-korea-prime-3x10-35268.html",
+  "title": "Thuốc Atsotine 400mg Korea Prime Pharm điều trị phục hồi não sau đột quỵ (3 vỉ x 10 viên)",
+  "short_title": "ATSOTINE 400MG KOREA PRIME 3X10",
+  "brand": {
+    "name": "Korea Prime Pharma",
+    "slug": "thuong-hieu/korea-prime-pharma",
+    "country": "Hàn Quốc"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap",
+    "name": "Thuốc tim mạch huyết áp",
+    "parent_slug": "thuoc/thuoc-tim-mach-and-mau"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/atsotine_8fd9a38b30.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/atsotine_8fd9a38b30.jpg"
+  ],
+  "origin_label": "Hàn Quốc",
+  "country": "Hàn Quốc",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang mềm",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Atsotine điều trị phục hồi não sau đột quỵ, hỗ trợ chức năng của não, hỗ trợ tăng cường trí nhớ.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc <a href=\"https://nhathuoclongchau.com.vn/thuoc/atsotine-400mg-korea-prime-3x10-35268.html\">Atsotine</a> chỉ định điều trị trong các trường hợp sau:</p><ul><li>Phục hồi não sau <a href=\"https://nhathuoclongchau.com.vn/benh/dot-quy-680.html\">đột quỵ</a>.</li><li>Hỗ trợ chức năng của não.</li><li>Hỗ trợ <a href=\"https://nhathuoclongchau.com.vn/bai-viet/12-cach-giup-tang-cuong-tri-nho-don-gian-ma-ban-thuong-bo-qua.html\">tăng cường trí nhớ</a>.</li></ul><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 34059,
+      "ingredientId": 14584,
+      "shortDescription": "400mg",
+      "name": "Cholin alfoscerat",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

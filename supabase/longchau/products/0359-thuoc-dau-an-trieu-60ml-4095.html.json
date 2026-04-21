@@ -1,0 +1,89 @@
+{
+  "id": "00002226",
+  "slug": "thuoc/dau-an-trieu-60ml-4095.html",
+  "title": "Cồn xoa bóp An Triệu điều trị phong thấp, tê bại, đau lưng, nhức mỏi gân xương (60ml)",
+  "short_title": "CỒN XOA BÓP AN TRIỆU 60ML",
+  "brand": {
+    "name": "An Triệu",
+    "slug": "thuong-hieu/an-trieu",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/mieng-dan-cao-xoa-dau/dau-nong-xoa-bop",
+    "name": "Dầu nóng xoa bóp",
+    "parent_slug": "thuoc/mieng-dan-cao-xoa-dau"
+  },
+  "price_amount": 22000,
+  "compare_at_amount": 0,
+  "unit": "Chai",
+  "pack_note": "Chai x 60ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002226_dau_an_trieu_60ml_4576_5ba3_large_55722a4590.JPG",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002226_dau_an_trieu_60ml_4576_5ba3_large_55722a4590.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002226_dau_an_trieu_60ml_1619354902_adf7263316.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002226_dau_an_trieu_60ml_5265_5ba3_large_b61ae3399b.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002226_dau_an_trieu_60ml_5689_5ba3_large_78449fb8ea.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002226_dau_an_trieu_60ml_8686_5ba3_large_a657c00672.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002226_dau_an_trieu_60ml_5808_5ba3_large_aa7373bdf0.JPG"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch",
+  "trust_label": null,
+  "short_description": "<p>Xuất xứ từ bài thuốc xoa bóp gia truyền đã được Lương y Vũ Trọng Vĩnh kế thừa, ứng dụng và được Bộ Y tế cấp giấy phép lưu hành từ năm 1996. Chế phẩm màu nâu, mùi cồn và tinh dầu.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p>Thuốc Cồn Xoa Bóp An Triệu 60ml được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Té ngã, sưng, bong gân.</li>\n\t<li>Đau bụng, lạnh bụng, đầy hơi <a href=\"https://nhathuoclongchau.com.vn/benh/kho-tieu-578.html\">khó tiêu</a>.</li>\n\t<li>Tay chân tê, lạnh.</li>\n\t<li><a href=\"https://nhathuoclongchau.com.vn/benh/nhuc-dau-24.html\">Nhức đầu</a>, nghẹt mũi.</li>\n</ul>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Không có thông tin.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Không có thông tin.</p>",
+  "ingredients_html": [
+    {
+      "id": 20901,
+      "ingredientId": 18014,
+      "shortDescription": "4.5g",
+      "name": "Đinh hương",
+      "isPrimary": false,
+      "slug": "thanh-phan/dinh-huong"
+    },
+    {
+      "id": 20902,
+      "ingredientId": 10043,
+      "shortDescription": "0.9g",
+      "name": "Bạc hà",
+      "isPrimary": false,
+      "slug": "thanh-phan/bac-ha"
+    },
+    {
+      "id": 20903,
+      "ingredientId": 16566,
+      "shortDescription": "2.7g",
+      "name": "Đại hồi",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 20904,
+      "ingredientId": 34069,
+      "shortDescription": "3.6g",
+      "name": "Quế",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 20905,
+      "ingredientId": 29807,
+      "shortDescription": "2.34g",
+      "name": "Nhũ hương",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 20906,
+      "ingredientId": 22844,
+      "shortDescription": "1.8g",
+      "name": "Huyết Giác",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

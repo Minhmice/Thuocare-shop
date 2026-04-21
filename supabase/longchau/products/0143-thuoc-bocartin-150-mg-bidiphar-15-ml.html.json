@@ -1,0 +1,44 @@
+{
+  "id": "00501982",
+  "slug": "thuoc/bocartin-150-mg-bidiphar-15-ml.html",
+  "title": "Dung dịch Bocartin 150 Bidiphar điều trị ung thư buồng trứng (15ml)",
+  "short_title": "BOCARTIN 150MG BIDIPHAR 15ML",
+  "brand": {
+    "name": "Bidiphar",
+    "slug": "thuong-hieu/bidiphar",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-dieu-tri-ung-thu/thuoc-chong-ung-thu",
+    "name": "Thuốc chống ung thư",
+    "parent_slug": "thuoc/thuoc-dieu-tri-ung-thu"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp x 15ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/bocartin_14cf66b268.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/bocartin_14cf66b268.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch tiêm",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Bocartin 50 là sản phẩm của Bidiphar, có thành phần chính là Carboplatin. Đây là thuốc được sử dụng để điều trị ung thư buồng trứng, ung thư phổi, ung thư đầu và cổ, u Wilms, u não, u nguyên bảo thần kinh, ung thư tinh hoàn, ung thư bàng quang, u nguyên bào võng mạc tiến triển và tái phát ở trẻ em.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc Bocartin 50 được chỉ định dùng trong các trường hợp sau:</p><ul><li>Ung thư buồng trứng (từ giai đoạn Ic đến IV, sau phẫu thuật, tái phát, di căn sau điều trị).</li><li>Ung thư phổi (cả ung thư phổi tế bào nhỏ, cả ung thư phổi không tế bào nhỏ).</li><li>Ung thư đầu và cổ.</li><li>U Wilms, u não, u nguyên bảo thần kinh.</li><li>Ung thư tinh hoàn, ung thư bàng quang, u nguyên bào võng mạc tiến triển và tái phát ở trẻ em.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 36834,
+      "ingredientId": 13055,
+      "shortDescription": "150mg",
+      "name": "Carboplatin",
+      "isPrimary": false,
+      "slug": "thanh-phan/carboplatin"
+    }
+  ],
+  "stock_qty": 0
+}

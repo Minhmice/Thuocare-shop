@@ -1,0 +1,44 @@
+{
+  "id": "00047769",
+  "slug": "thuoc/eylea-40-mg-ml-bayer.html",
+  "title": "Thuốc Eylea 40mg/ml Bayer điều trị phù hoàng điểm ở bệnh nhân tiểu đường hoặc tắc tĩnh mạch võng mạc",
+  "short_title": "EYLEA 40MG/ML BAYER",
+  "brand": {
+    "name": "Bayer",
+    "slug": "thuong-hieu/bayer",
+    "country": "Đức"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-dieu-tri-ung-thu/thuoc-chong-ung-thu",
+    "name": "Thuốc chống ung thư",
+    "parent_slug": "thuoc/thuoc-dieu-tri-ung-thu"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/eye_709a0dfeb2.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/eye_709a0dfeb2.jpg"
+  ],
+  "origin_label": "Đức",
+  "country": "Đức",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch tiêm nội nhãn",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Eylea là sản phẩm của Regeneron Pharmaceuticals Inc, có thành phần chính là Aflibercept. Đây là thuốc được sử dụng cho bệnh nhân thoái hóa điểm vàng do tuổi tác, điều trị phù hoàng điểm ở bệnh nhân tiểu đường hoặc tắc tĩnh mạch võng mạc và trong một số trường hợp cận thị nặng.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc Eylea được chỉ định dùng trong các trường hợp sau:</p><ul><li dir=\"ltr\">Dùng cho bệnh nhân thoái hóa điểm vàng do tuổi tác (thể ướt).&nbsp;</li><li dir=\"ltr\">Thuốc cũng được sử dụng để điều trị phù hoàng điểm ở bệnh nhân tiểu đường hoặc tắc tĩnh mạch võng mạc và trong một số trường hợp cận thị nặng.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 69543,
+      "ingredientId": 7895,
+      "shortDescription": "40mg",
+      "name": "Aflibercept",
+      "isPrimary": true,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

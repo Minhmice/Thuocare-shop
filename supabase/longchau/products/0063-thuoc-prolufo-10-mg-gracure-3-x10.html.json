@@ -1,0 +1,44 @@
+{
+  "id": "00040534",
+  "slug": "thuoc/prolufo-10-mg-gracure-3-x10.html",
+  "title": "Thuốc Prolufo 10mg Gracure điều trị các triệu chứng do phì đại tuyến tiền liệt (3 vỉ x 10 viên)",
+  "short_title": "PROLUFO 10MG GRACURE 3X10",
+  "brand": {
+    "name": "Gracure",
+    "slug": "thuong-hieu/gracure",
+    "country": "Ấn Độ"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-tri-benh-tuyen-tien-liet",
+    "name": "Thuốc trị bệnh tuyến tiền liệt",
+    "parent_slug": "thuoc/thuoc-tiet-nieu-sinh-duc"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 3 Vỉ x 10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00040534_fa54d9e738.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00040534_fa54d9e738.jpg"
+  ],
+  "origin_label": "Ấn Độ",
+  "country": "Ấn Độ",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim giải phóng chậm",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Prolufo là sản phẩm của Gracure Pharmaceuticals LTD, có thành phần chính là Alfuzosin. Đây là thuốc được sử dụng để điều trị các triệu chứng do phì đại tuyến tiền liệt lành tính.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc Prolufo được chỉ định dùng trong các trường hợp sau:</p><ul><li dir=\"ltr\">Điều trị các triệu chứng do phì đại tuyến tiền liệt lành tính.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 59345,
+      "ingredientId": 8129,
+      "shortDescription": "10mg",
+      "name": "Alfuzosin",
+      "isPrimary": true,
+      "slug": "thanh-phan/alfuzosin"
+    }
+  ],
+  "stock_qty": 0
+}

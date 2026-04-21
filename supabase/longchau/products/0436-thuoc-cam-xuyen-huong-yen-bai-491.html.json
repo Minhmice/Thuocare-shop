@@ -1,0 +1,85 @@
+{
+  "id": "00001539",
+  "slug": "thuoc/cam-xuyen-huong-yen-bai-491.html",
+  "title": "Thuốc cốm Cảm Xuyên Hương Yên Bái điều trị cảm cúm, cảm lạnh (20 gói x 2g)",
+  "short_title": "CẢM XUYÊN HƯƠNG BABY 20 GÓI",
+  "brand": {
+    "name": "Yên Bái",
+    "slug": "thuong-hieu/yen-bai",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-ho-hap/thuoc-tri-ho-cam",
+    "name": "Thuốc trị ho cảm",
+    "parent_slug": "thuoc/thuoc-ho-hap"
+  },
+  "price_amount": 68000,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 20 Gói x 2g",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/cam_xuyen_huong_96503b8545.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/cam_xuyen_huong_96503b8545.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/cu_moi_985afca011_b1e8295b88.png"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang cứng",
+  "trust_label": null,
+  "short_description": "<p><a href=\"https://nhathuoclongchau.com.vn/thuoc/cam-xuyen-huong-10x10-yen-bai-nguoi-lon-17476.html\">Cốm Cảm Xuyên Hương Yên Bái</a> điều trị các trường hợp cảm cúm, cảm lạnh, nhức đầu, hắt hơi, sổ mũi do cảm lạnh.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Cảm Xuyên Hương Yên Bái được chỉ định dùng trong các trường hợp sau:</p><ul><li>Ðiều trị các trường hợp cảm cúm, cảm lạnh, <a href=\"https://nhathuoclongchau.com.vn/benh/nhuc-dau-24.html\">nhức đầu</a>, hắt hơi, sổ mũi do <a href=\"https://nhathuoclongchau.com.vn/benh/cam-lanh-583.html\">cảm lạnh</a>.</li></ul><h3>Dược lực học</h3><p>Chưa có báo cáo.</p><h3>Dược động học</h3><p>Chưa có báo cáo.</p>",
+  "ingredients_html": [
+    {
+      "id": 26470,
+      "ingredientId": 34074,
+      "shortDescription": "6mg",
+      "name": "Quế chi",
+      "isPrimary": false,
+      "slug": "thanh-phan/que-chi"
+    },
+    {
+      "id": 26471,
+      "ingredientId": 22798,
+      "shortDescription": "132mg",
+      "name": "Hương phụ",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 26472,
+      "ingredientId": 10072,
+      "shortDescription": "165mg",
+      "name": "Bạch chỉ",
+      "isPrimary": false,
+      "slug": "thanh-phan/bach-chi"
+    },
+    {
+      "id": 26473,
+      "ingredientId": 40801,
+      "shortDescription": "132mg",
+      "name": "Xuyên khung",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 26474,
+      "ingredientId": 36109,
+      "shortDescription": "15mg",
+      "name": "Sinh khương",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 26475,
+      "ingredientId": 12476,
+      "shortDescription": "25mg",
+      "name": "Cam Thảo Bắc",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

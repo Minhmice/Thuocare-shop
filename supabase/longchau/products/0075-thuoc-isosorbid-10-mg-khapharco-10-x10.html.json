@@ -1,0 +1,44 @@
+{
+  "id": "00038394",
+  "slug": "thuoc/isosorbid-10-mg-khapharco-10-x10.html",
+  "title": "Thuốc Isosorbid 10mg Khapharco phòng và điều trị cơn đau thắt ngực, suy tim sung huyết (10 vỉ x 10 viên)",
+  "short_title": "ISOSORBID 10MG KHAPHARCO 10X10",
+  "brand": {
+    "name": "Khapharco",
+    "slug": "thuong-hieu/khapharco",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap",
+    "name": "Thuốc tim mạch huyết áp",
+    "parent_slug": "thuoc/thuoc-tim-mach-and-mau"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00038394_26ad7f16cd.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00038394_26ad7f16cd.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Isosorbid là sản phẩm của Công ty Cổ phần Dược phẩm Khánh Hoà dùng trong phòng và điều trị cơn đau thắt ngực, suy tim sung huyết.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Isosorbid dùng trong phòng và điều trị cơn đau thắt ngực, suy tim sung huyết.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 18987,
+      "ingredientId": 24193,
+      "shortDescription": "10mg",
+      "name": "Isosorbide",
+      "isPrimary": false,
+      "slug": "thanh-phan/isosorbide"
+    }
+  ],
+  "stock_qty": 0
+}

@@ -1,0 +1,52 @@
+{
+  "id": "00039004",
+  "slug": "thuoc/preclint-farmalabor-hop-2-chai-45-ml.html",
+  "title": "Thuốc Preclint Farmalabor làm sạch ruột trước khi phẫu thuật ruột kết, kiểm tra X-quang hoặc nội soi (2 chai x 45ml)",
+  "short_title": "PRECLINT FARMALABOR HỘP 2 CHAI 45ML",
+  "brand": {
+    "name": "Farmalabor Produtos",
+    "slug": "thuong-hieu/farmalabor-produtos",
+    "country": "Bồ Đào Nha"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat",
+    "name": "Thuốc tiêu hoá & gan mật",
+    "parent_slug": "thuoc"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Chai",
+  "pack_note": "2 Chai x 45ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00039004_253a4afeb0.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00039004_253a4afeb0.jpg"
+  ],
+  "origin_label": "Bồ Đào Nha",
+  "country": "Bồ Đào Nha",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch uống",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Preclint là sản phẩm của Farmalabor, có thành phần chính là Disodium phosphate, Monosodium dihydrogen monophosphate. Đây là thuốc được sử dụng để làm sạch ruột trước khi phẫu thuật ruột kết, kiểm tra X-quang hoặc nội soi.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p><a href=\"https://nhathuoclongchau.com.vn/thuoc/preclint-farmalabor-hop-2-chai-45-ml.html\">Thuốc Preclint</a> được chỉ định dùng trong các trường hợp sau:</p><ul><li>Preclint là thuốc làm sạch ruột trước khi phẫu thuật ruột kết, kiểm tra X-quang hoặc nội soi.</li></ul><h3>Dược lực học</h3><p>Dung dịch phosphat hoạt động như một <a href=\"https://nhathuoclongchau.com.vn/thuoc/thuoc-tieu-hoa-and-gan-mat\">thuốc nhuận tràng</a>. Đây là những chất được sử dụng để làm sạch ruột trước khi phẫu thuật đại tràng, X-quang, nội soi đại tràng.</p><p>Hoạt động của các muối nhuận tràng là kết quả từ việc tăng thẩm thấu các ion phosphat lên ruột non. Vì chúng được hấp thu kém, các ion lấy nước vào trong lòng ruột, làm tăng khối lượng của nó và gián tiếp kích thích sự chuyển động của nhu động.</p><p>Muối nhuận tràng dùng uống hoạt động chủ yếu trong ruột non, được dùng như một chất thụt thúc đẩy sự bài tiết của đại tràng.</p><p>Sau khi uống 2 liều dung dịch phosphat cho các đối tượng chuẩn bị nội soi, tác động khởi phát được quan sát trung bình là 1,7 giờ (0,5-13 giờ) liều đầu tiên, và 0,7 giờ (0,25-4 giờ) sau liều thứ 2. Trong nghiên cứu này, thời gian tác dụng là 4,6 và 2,9 giờ tương ứng sau liều thứ nhất và liều thứ 2.</p><p>Khi quan sát tính hiệu quả và an toàn lâm sàng của dung dịch uống Natri phosphat, cho thấy tính hiệu quả và khả năng dung nạp của thuốc trong việc làm sạch ruột trước khi <a href=\"https://nhathuoclongchau.com.vn/bai-viet/tim-hieu-quy-trinh-noi-soi-dai-trang.html\">nội soi đại tràng</a>, phẫu thuật, các phương thức đại trực tràng khác nhìn chung là tương đương hoặc lớn hơn so với dùng Polyethylen glycol PEG), hoặc các thuốc khác.</p><h3>Dược động học</h3><p><strong>Hấp thu</strong></p><p>Khoảng 70% lượng phosphat tiêu thụ trong chế độ ăn được hấp thu bởi người và chuột.</p><p>Nghiên cứu in vitro ở ruột non của chuột chứng minh rằng sự hấp thu chủ yếu ở tá tràng và hỗng tràng.</p><p><strong>Phân bố</strong></p><p>Phosphat được tìm thấy trong huyết tương, dịch ngoại bào, màng tế bào, chất lỏng bên trong tế bào, collagen và mô xương.</p><p><strong>Thải trừ</strong></p><p>Sau khi hấp thu, phosphat được bài tiết nhanh chóng, trên 90% lượng phosphat huyết tương được lọc bởi thận, trong đó 80% được tái hấp thu tích cực.</p><p>Sự bài tiết phosphat tăng theo số lượng tương ứng, vì tỉ lệ tái hấp thu của nó đạt giới hạn tối đa.</p>",
+  "ingredients_html": [
+    {
+      "id": 55350,
+      "ingredientId": 43839,
+      "shortDescription": "240mg",
+      "name": "Dinatri phosphat dodecahydrat",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 55351,
+      "ingredientId": 43840,
+      "shortDescription": "542mg",
+      "name": "Mononatri phosphat dihydrat",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

@@ -1,0 +1,50 @@
+{
+  "id": "00033626",
+  "slug": "thuoc/danospan-danapha-60ml-33720.html",
+  "title": "Dung dịch Danospan Danapha điều trị viêm đường hô hấp cấp tính có kèm ho (60ml)",
+  "short_title": "DANOSPAN DANAPHA 60ML",
+  "brand": {
+    "name": "Danapha",
+    "slug": "thuong-hieu/danapha",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-ho-hap/siro-tri-ho-cam",
+    "name": "Siro trị ho cảm",
+    "parent_slug": "thuoc/thuoc-ho-hap"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp x 60ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00033626_danospan_danapha_60ml_1110_6232_large_4a268271ea.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00033626_danospan_danapha_60ml_1110_6232_large_4a268271ea.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00033626_danospan_danapha_60ml_1647503586_7b84f4790d.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00033626_danospan_danapha_60ml_3826_6232_large_99cd5d6b30.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00033626_danospan_danapha_60ml_5346_6232_large_0774df4e77.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00033626_danospan_danapha_60ml_1082_6232_large_41bb52e681.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00033626_danospan_danapha_60ml_6399_6232_large_22cb808923.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00033626_danospan_danapha_60ml_7324_6232_large_1ae567512f.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Siro",
+  "trust_label": null,
+  "short_description": "<p>Siro ho Danospan là sản phẩm của Công ty Cổ phần Dược Danapha có thành phần chính là cao khô lá thường xuân dùng điều trị viêm đường hô hấp cấp tính có kèm ho, điều trị triệu chứng trong bệnh lý viêm phế quản mạn tính.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p>Siro ho Danospan dùng điều trị viêm đường hô hấp cấp tính có kèm ho, điều trị triệu chứng trong bệnh lý viêm phế quản mạn tính.</p>\n\n<h3>Dược lực học</h3>\n\n<p>Saponin trong cao là thường xuân (gồm alpha healerin và hecleracoside C) có tác dụng chống co thắt và tan đờm theo cơ chế qua trung gian niêm mạc dạ dày, kết quả nhận được trong kích thích phản thân của các tuyến dịch nhầy phế quản thông qua các Cơ quan của hệ thống thần kinh đối giao cảm.</p>\n\n<h3>Dược động học</h3>\n\n<p>Chưa có thông tin.</p>",
+  "ingredients_html": [
+    {
+      "id": 29550,
+      "ingredientId": 12750,
+      "shortDescription": "0.7",
+      "name": "Cao lá thường xuân",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

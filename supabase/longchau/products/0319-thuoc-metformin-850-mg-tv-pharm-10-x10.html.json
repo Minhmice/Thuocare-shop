@@ -1,0 +1,48 @@
+{
+  "id": "00041202",
+  "slug": "thuoc/metformin-850-mg-tv-pharm-10-x10.html",
+  "title": "Thuốc Metformin 850mg TV.Pharm điều trị bệnh đái tháo đường (10 vỉ x 10 viên)",
+  "short_title": "METFORMIN 850MG TV.PHARM 10X10",
+  "brand": {
+    "name": "Tv.Pharm",
+    "slug": "thuong-hieu/tvpharm",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tri-tieu-duong",
+    "name": "Thuốc trị tiểu đường",
+    "parent_slug": "thuoc"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/metformin850_be70d61928.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/metformin850_be70d61928.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/metformin1_13130ba25b.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/metformin2_e9c71e6021.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/metformin3_d4992dff00.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/metformin4_7b7b3aafe4.png"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Metformin 850 mg của Công ty cổ phần Dược phẩm TV.Pharm, thuốc có thành phần chính là Metformin HCl. Đây là thuốc được dùng để điều trị bệnh đái tháo đường không phụ thuộc insulin (tuýp II).</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Metformin 850 mg được chỉ định dùng trong các trường hợp sau:</p><ul><li>Điều trị bệnh <a href=\"https://nhathuoclongchau.com.vn/benh/tieu-duong-khong-phu-thuoc-insulin.html\">đái tháo đường không phụ thuộc insulin</a> (typ II): Đơn trị liệu, khi không thể điều trị tăng glucose huyết bằng chế độ ăn đơn thuần.</li><li>Có thể dùng metformin đồng thời với một sulfonylure khi chế độ ăn và khi dùng metformin hoặc sulfonylure đơn thuần không có hiệu quả kiểm soát glucose huyết một cách đầy đủ.</li></ul><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 58975,
+      "ingredientId": 41740,
+      "shortDescription": "850mg",
+      "name": "Metformin HCl",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

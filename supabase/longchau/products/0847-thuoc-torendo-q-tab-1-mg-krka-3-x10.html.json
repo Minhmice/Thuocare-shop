@@ -1,0 +1,44 @@
+{
+  "id": "00041541",
+  "slug": "thuoc/torendo-q-tab-1-mg-krka-3-x10.html",
+  "title": "Thuốc Torendo Q-Tab 1mg Krka điều trị trầm cảm, tâm thần phân liệt cấp và mãn tính (3 vỉ x 10 viên)",
+  "short_title": "TORENDO Q-TAB 1MG KRKA 3X10",
+  "brand": {
+    "name": "Krka",
+    "slug": "thuong-hieu/krka",
+    "country": "Slovenia"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-than-kinh/thuoc-than-kinh",
+    "name": "Thuốc thần kinh",
+    "parent_slug": "thuoc/thuoc-than-kinh"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00041541_8645c1edc9.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00041541_8645c1edc9.jpg"
+  ],
+  "origin_label": "Slovenia",
+  "country": "Slovenia",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén tan trong miệng",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Torendo Q-Tab là sản phẩm của KRKA, có thành phần chính là Risperidona. Đây là thuốc được sử dụng để điều trị tâm thần phân liệt cấp và mãn tính; các triệu chứng về tình cảm như trầm cảm, cảm giác có tội,...; điều trị hưng cảm liên quan đến rối loạn lưỡng cực; điều trị các rối loạn hành vi ở bệnh nhân sa sút trí tuệ; điều trị tự kỷ ở trẻ em và thanh thiếu niên.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc Torendo Q-Tab được chỉ định dùng trong các trường hợp sau:</p><ul><li>Tâm thần phân liệt cấp và mãn tính.</li><li>Các triệu chứng về tình cảm: Trầm cảm, cảm giác có tội, lo âu đi kèm với tâm thần phân liệt.</li><li>Điều trị hưng cảm liên quan đến rối loạn lưỡng cực.</li><li>Điều trị các rối loạn hành vi ở bệnh nhân sa sút trí tuệ.</li><li>Điều trị tự kỷ ở trẻ em và thanh thiếu niên.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 59847,
+      "ingredientId": 34915,
+      "shortDescription": "1mg",
+      "name": "Risperidona",
+      "isPrimary": true,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

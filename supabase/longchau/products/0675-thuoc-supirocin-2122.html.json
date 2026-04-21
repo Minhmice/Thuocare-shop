@@ -1,0 +1,44 @@
+{
+  "id": "00007087",
+  "slug": "thuoc/supirocin-2122.html",
+  "title": "Thuốc mỡ Supirocin Ointment Glenmark điều trị tại chỗ các bệnh nhiễm khuẩn da (5g)",
+  "short_title": "SUPIROCIN OINTMENT 5G",
+  "brand": {
+    "name": "Glenmark",
+    "slug": "thuong-hieu/glenmark",
+    "country": "Ấn Độ"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-da-lieu/thuoc-boi-ngoai-da",
+    "name": "Thuốc bôi ngoài da",
+    "parent_slug": "thuoc/thuoc-da-lieu"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Tuýp",
+  "pack_note": "Tuýp x 5g",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/supirocin_5gm_9c942a9af1.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/supirocin_5gm_9c942a9af1.jpg"
+  ],
+  "origin_label": "Ấn Độ",
+  "country": "Ấn Độ",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Thuốc mỡ",
+  "trust_label": null,
+  "short_description": "<p><strong>Supirocin</strong> là sản phẩm thuốc của <em>Công ty Glenmark Pharmaceuticals Ltd (Ấn Độ)</em>, với thành phần hoạt chất là <strong><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/mupirocin\">Mupirocin</a></strong>. Đây là một loại kháng sinh được chỉ định để điều trị tại chỗ các bệnh nhiễm khuẩn da nguyên phát và thứ phát gây ra bởi các vi khuẩn nhạy cảm và dự phòng nhiễm khuẩn vị trí rút ống catheter và dự phòng nhiễm khuẩn sau phẫu thuật da.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p><strong>Thuốc Supirocin</strong> được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Điều trị tại chỗ các bệnh nhiễm khuẩn da nguyên phát và thứ phát gây ra bởi các vi khuẩn nhạy cảm như: Chốc lở, các vết thương nhiễm khuẩn thứ phát, vết bỏng, viêm mô tế bào, vết loét chân mạn tính, loét tĩnh mạch rỉ dịch...</li>\n\t<li>Chỉ định dự phòng nhiễm khuẩn vị trí rút ống catheter và dự phòng nhiễm khuẩn sau phẫu thuật da.</li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p><em>Mupirocin</em> (axit pseudomonic; axit pseudomonic A) là một kháng sinh được sản xuất bởi lên men chìm <em>Pseudomonas fluorescens</em> và có cấu trúc khác biệt với các kháng sinh khác. Các chất khác tạo ra bởi <em>Pseudomonas fluorescens</em> như axit pseudomonic B, C và D cũng đã được khảo sát về hoạt tính kháng khuẩn nhưng mupirocin có hoạt tính kháng khuẩn mạnh nhất.</p>\n\n<p>Cơ chế tác dụng đặc biệt của mupirocin, khác với các kháng sinh khác, là nó gắn kết đặc hiệu và đảo ngược được với enzym isoleucyl transfer-RNA synthetase của vi khuẩn dẫn đến ngưng tổng hợp protein và ức chế tổng hợp RNA. Nhờ cơ chế tác dụng này, tốc độ xuất hiện tụ cầu kháng mupirocin trong các nghiên cứu in vitro là thấp, và không có kháng chéo với các kháng sinh dùng ngoài da khác.</p>\n\n<p>Mupirocin có tác dụng chống lại các chủng <em>Staphylococcus aureus</em> đa kháng và tụ cầu coagulase âm tính, bao gồm các chủng kháng với penicillin, methicillin, neomycin, erythromycin, axit fusidic, lincomycin, chloramphenicol, tetracyclin và gentamicin.</p>\n\n<h3>Dược động học</h3>\n\n<p>Sinh khả dụng của mupirocin dùng tại chỗ là rất thấp (0.24%). Tính thấm của mupirocin tăng lên khi băng kín hoặc khi bôi thuốc vào vùng da bị thương tổn. 72 giờ sau khi dùng thuốc có đánh dấu phóng xạ, đã thấy có hoạt độ phóng xạ đo được trong biểu bì các bệnh nhân này.</p>\n\n<p>Mupirocin bị chuyển hóa chậm ở da thành chất chuyển hóa không hoạt tính, axit monic. Chỉ 2.7% mupirocin bị chuyển hóa sau 48 giờ trong chất đồng chất da người. Chỉ một lượng rất nhỏ thuốc được hấp thu và chuyển hóa, đường thải trừ chính là qua thận (chiếm 56% đến 90% tổng lượng thải trừ).</p>",
+  "ingredients_html": [
+    {
+      "id": 34004,
+      "ingredientId": 28190,
+      "shortDescription": "2%",
+      "name": "Mupirocin",
+      "isPrimary": false,
+      "slug": "thanh-phan/mupirocin"
+    }
+  ],
+  "stock_qty": 0
+}

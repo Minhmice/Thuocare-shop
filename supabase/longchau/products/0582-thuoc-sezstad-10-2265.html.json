@@ -1,0 +1,44 @@
+{
+  "id": "00006681",
+  "slug": "thuoc/sezstad-10-2265.html",
+  "title": "Thuốc Sezstad 10 Stella điều trị tăng cholesterol máu nguyên phát (3 vỉ x 10 viên)",
+  "short_title": "SEZSTAD 10 STELLA 3X10",
+  "brand": {
+    "name": "Stella Pharm",
+    "slug": "thuong-hieu/stella-pharm",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tri-mo-mau",
+    "name": "Thuốc trị mỡ máu",
+    "parent_slug": "thuoc/thuoc-tim-mach-and-mau"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/sezstad_10_88bed4a105.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/sezstad_10_88bed4a105.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén",
+  "trust_label": null,
+  "short_description": "<p><strong>Sezstad 10</strong> của <em>Công ty TNHH LD Stellapharm</em> - Chi nhánh 1, thành phần chính là ezetimibe. Sezstad 10 có tác dụng điều trị tăng cholesterol máu nguyên phát; điều trị tăng cholesterol máu đồng hợp tử có tính gia đình (HoFH); tăng sitosterol máu đồng hợp tử (phytosterol máu).</p>\n\n<p>Sezstad 10 được bào chế dạng viên nén màu trắng đến trắng ngà, hình oval, hai mặt khum, trơn; đóng gói theo quy cách vỉ 10 viên, hộp 1 vỉ, 3 vỉ hoặc 6 vỉ.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p><em>Ðiều trị tăng cholesterol máu nguyên phát:</em></p>\n\n<ul>\n\t<li>Đơn trị liệu: Điều trị hỗ trợ với chế độ ăn kiêng ở những bệnh nhân tăng cholesterol máu nguyên phát (dị hợp có và không có tính gia đình) không phù hợp hoặc không dung nạp với thuốc nhóm statin.</li>\n\t<li>Điều trị phối hợp với chất ức chế enzym khử HMG — CoA (nhóm statin): Điều trị hỗ trợ với chế độ ăn kiêng ở những bệnh nhân tăng cholesterol máu nguyên phát (dị hợp có và không có tính gia đình) không được kiểm soát tốt với đơn trị liệu thuốc nhóm statin.</li>\n</ul>\n\n<p><em>Điều trị tăng cholesterol máu đồng hợp tử có tính gia đình (HoFH):</em></p>\n\n<p>Dùng kết hợp với thuốc nhóm statin: Điều trị hỗ trợ với chế độ ăn kiêng ở những bệnh nhân tăng cholesterol máu đồng hợp tử có tính gia đình.</p>\n\n<p><em>Tăng sitosterol máu đồng hợp tử (phytosterol máu):</em></p>\n\n<p>Điều trị hỗ trợ với chế độ ăn kiêng ở những bệnh nhân tăng sitosterol máu đồng hợp tử có tính gia đình. </p>\n\n<h3>Dược lực học</h3>\n\n<p>Ezetimibe là chất ức chế hấp thu cholesterol làm hạ lipid huyết, có cấu trúc hóa học và tác dụng dược lý khác với các thuốc hạ Iipid khác hiện có. Sau khi hấp thu, thuốc định vị tại vi nhung mao ruột non và ngăn cản sự hấp thu cholesterol, làm giảm vận chuyển cholesterol từ ruột vào gan dẫn đến giảm lượng cholesterol dự trữ ở gan và gan sẽ tăng thu nhận cholesterol từ hệ tuần hoàn theo cơ chế bù trừ, kết quả là tăng thanh thải cholesterol từ hệ tuần hoàn.</p>\n\n<h3>Dược động học</h3>\n\n<p><em>Hấp thu:</em></p>\n\n<p>Ezetimibe hấp thu nhanh sau khi uống.</p>\n\n<p><em>Phân bố: </em></p>\n\n<p>Cả ezetimibe và glucuronid gắn với protein huyết tương trên 90%. </p>\n\n<p><em>Chuyển hóa:</em></p>\n\n<p>Tại ruột non và gan, ezetimibe chuyển hóa thành chất chuyển hóa glucuronid có hoạt tính. </p>\n\n<p><em>Thải trừ:</em></p>\n\n<p>Ezetimibe thải trừ chủ yếu trong phân qua đường mật và trải qua chu trình gan ruột. Sau khi uống, khoảng 78% được bài tiết qua phân dưới dạng ezetimibe, khoảng 11% bài tiết qua nước tiểu chủ yếu dưới dạng glucuronid. Thời gian bán thải của ezetimibe và glucuronid khoảng 22 giờ.</p>",
+  "ingredients_html": [
+    {
+      "id": 23261,
+      "ingredientId": 19939,
+      "shortDescription": "10mg",
+      "name": "Ezetimibe",
+      "isPrimary": false,
+      "slug": "thanh-phan/ezetimibe"
+    }
+  ],
+  "stock_qty": 0
+}

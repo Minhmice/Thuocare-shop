@@ -1,0 +1,60 @@
+{
+  "id": "00501124",
+  "slug": "thuoc/palkids-apimed-hop-20-ong-35266.html",
+  "title": "Dung dịch uống Palkids 5ml Apimed suy nhược cơ thể, sút cân, chán ăn, mệt mỏi (20 ống)",
+  "short_title": "PALKIDS APIMED 20 ỐNG X 5ML",
+  "brand": {
+    "name": "Apimed",
+    "slug": "thuong-hieu/apimed",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-tang-cuong-suc-de-khang",
+    "name": "Thuốc tăng cường sức đề kháng",
+    "parent_slug": "thuoc/thuoc-bo-and-vitamin"
+  },
+  "price_amount": 224480,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 20 Ống x 5ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/palkids_b7f6e99139.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/palkids_b7f6e99139.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch uống",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Palkids là sản phẩm của Công Ty Cổ Phần Dược Apimed, có thành phần chính là Acid Ascorbic, Lysin HCl, Calcium carbonat. Đây là thuốc được sử dụng trong những trường hợp đang gặp các vấn đề sau: Suy nhược chức năng thường là các rối loạn tổng trạng: Suy nhược cơ thể, sút cân, chán ăn, mệt mỏi, lao lực, thời kỳ dưỡng bệnh,…</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Palkids được chỉ định dùng trong các trường hợp sau:</p><ul><li>Gặp các vấn đề suy nhược chức năng thường là các rối loạn tổng trạng: Suy nhược cơ thể, sút cân, chán ăn, mệt mỏi, lao lực, thời kỳ dưỡng bệnh,…</li></ul><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 58649,
+      "ingredientId": 7418,
+      "shortDescription": "72.4mg",
+      "name": "Acid Ascorbic",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 58650,
+      "ingredientId": 41856,
+      "shortDescription": "28.33mg",
+      "name": "Lysin HCl",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 59390,
+      "ingredientId": 41855,
+      "shortDescription": "12.8mg",
+      "name": "Calcium carbonat",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

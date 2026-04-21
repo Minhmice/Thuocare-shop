@@ -1,0 +1,47 @@
+{
+  "id": "00006372",
+  "slug": "thuoc/riampicin-300mg-2402.html",
+  "title": "Thuốc Rifampicin 300mg Mekophar điều trị lao, phong (10 vỉ x 10 viên)",
+  "short_title": "RIFAMPICIN 300 MKP 10X10",
+  "brand": {
+    "name": "Mekophar",
+    "slug": "thuong-hieu/mekophar",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-khang-sinh-khang-nam/thuoc-khang-lao",
+    "name": "Thuốc kháng lao",
+    "parent_slug": "thuoc/thuoc-khang-sinh-khang-nam"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006372_riampicin_300mg_2312_60f5_large_a1b40b42cc.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006372_riampicin_300mg_2312_60f5_large_a1b40b42cc.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006372_riampicin_300mg_1229_60f5_large_e4709e1c9f.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006372_riampicin_300mg_4122_60f5_large_509ef603ca.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006372_riampicin_300mg_8743_60f5_large_fb46b846c2.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Rifampicin 300 mg được sản xuất bởi Công ty Cổ phần Hóa – Dược phẩm Mekophar, với thành phần chính Rifampicin, được dùng để điều trị lao, phong, dự phòng viêm não do Heamophilus influenzae, Neisseria meningitidis và điều trị bệnh do Brucella.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p>Thuốc Rifampicin 300 mg được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Ðiều trị các thể lao, phong và các nhiễm khuẩn nặng do vi khuẩn gram (+) và (-) nhạy cảm.</li>\n\t<li>Dự phòng viêm màng não do Heamophilus influenzae, Neisseria meningitidis.</li>\n\t<li>Điều trị bệnh do Brucella.</li>\n</ul>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/rifampicin\">Rifampicin</a> là kháng sinh bán tổng hợp thuộc họ rifamycin, có hoạt tính diệt khuẩn chống lại các chủng Mycobacterium và vi khuẩn gram dương.</p>\n\n<p>Rifampicin cũng chống lại vi khuẩn gram âm ở nồng độ cao hơn.</p>\n\n<p>Cơ chế tác động của rifampicin là ngăn cản sinh tổng hợp acid nucleic vi khuẩn bằng cách ức chế RNA polymerase thông qua tạo phức bền vững thuốc–enzyme. </p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Rifampicin được hấp thu nhanh qua đường tiêu hoá, thức ăn làm chậm và giảm hấp thu thuốc.</p>\n\n<p>Rifampicin được phân bố rộng rãi vào các mô và dịch cơ thể, chuyển hoá ở gan và thải trừ qua mật, phân và nước tiểu.</p>",
+  "ingredients_html": [
+    {
+      "id": 41570,
+      "ingredientId": 34860,
+      "shortDescription": "",
+      "name": "Rifampicin",
+      "isPrimary": false,
+      "slug": "thanh-phan/rifampicin"
+    }
+  ],
+  "stock_qty": 0
+}

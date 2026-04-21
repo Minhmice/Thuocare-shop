@@ -1,0 +1,55 @@
+{
+  "id": "00004361",
+  "slug": "thuoc/lepatis-80mg-3273.html",
+  "title": "Viên nang mềm Lepatis Phil Inter hỗ trợ điều trị rối loạn chức năng gan (20 vỉ x 5 viên)",
+  "short_title": "LEPATIS 80 PHIL 20X5",
+  "brand": {
+    "name": "Phil",
+    "slug": "thuong-hieu/phil",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-benh-gan",
+    "name": "Thuốc trị bệnh gan",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 3599,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "5 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004361_lepatis_80mg_5877_60a4_large_e9f66d1f60.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004361_lepatis_80mg_5877_60a4_large_e9f66d1f60.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004361_lepatis_80mg_8925_60a4_large_20696b0615.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004361_lepatis_80mg_3143_60a4_large_486d339859.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004361_lepatis_80mg_8977_60a4_large_e32010cf38.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang mềm",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Lepatis 80 mg của Công ty TNHH Phil Inter Pharma (Việt Nam), có thành phần chính gồm&nbsp;L-Ornithin L-Aspartat 80 mg,&nbsp;DL-Alpha tocopheryl 50 mg. Thuốc&nbsp;có tác dụng hỗ trợ điều trị một số bệnh lý ở gan như <a href=\"https://nhathuoclongchau.com.vn/benh/viem-gan-man-146.html\">viêm gan mạn tính</a>, viêm gan do rượu. Điều trị các rối loạn khởi phát trong tiền <a href=\"https://nhathuoclongchau.com.vn/benh/hon-me-gan-120.html\">hôn mê gan</a>, hôn mê gan. Các tình trạng tăng amoniac huyết trong các bệnh gan: Viêm gan cấp và mạn tính, xơ gan, gan nhiễm mỡ, bệnh não gan.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p><strong>Thuốc Lepatis</strong> được dùng hỗ trợ điều trị trong <strong><a href=\"https://nhathuoclongchau.com.vn/bai-viet/tinh-trang-suy-giam-chuc-nang-gan-va-nhung-dieu-can-biet-47797.html\">rối loạn chức năng gan</a></strong>, bảo vệ và giải độc gan. Giảm cholesterol máu, chống oxy hóa.</p>\n\n<h3>Dược lực học</h3>\n\n<p>L-ornithin L-aspartat (LOLA) là dạng muối bền của hai amino acid ornithin và aspartic acid, được chỉ định trong các bệnh gan cấp và mạn tính, như xơ gan, gan nhiễm mỡ, viêm gan, kết hợp với tăng amoniac máu, đặc biệt là trong các biến chứng về thần kinh (bệnh não gan). LOLA kích thích tổng hợp vòng urê và glutamin, đóng vai trò quan trọng trong cơ chế giải độc amoniac. Hiện vẫn còn nhiều quan điểm chưa thống nhất về tác dụng hạ amoniac máu của LOLA . </p>\n\n<p><strong><a href=\"https://nhathuoclongchau.com.vn/bai-viet/vitamin-e-co-nhung-cong-dung-nao-voi-co-the-46239.html\">Vitamin E</a></strong> là thuật ngữ chỉ một số các hợp chất thiên nhiên và tổng hợp, chất quan trọng nhất là các tocopherol, trong đó alphatocopherol có hoạt tính nhất và được phân bố rộng rãi trong tự nhiên.</p>\n\n<h3>Dược động học</h3>\n\n<p><em>Hấp thu</em></p>\n\n<p>Vitamin E hấp thu được qua niêm mạc ruột. Giống như các vitamin tan trong dầu khác, sự hấp thu của vitamin E cần phải có acid mật làm chất nhũ hoá.</p>\n\n<p><em>Phân bố</em></p>\n\n<p>Thuốc vào máu qua vi thể dưỡng chất trong bạch huyết, rồi được phân bố rộng rãi vào tất cả các mô và tích lại ở mô mỡ.</p>\n\n<p><em>Chuyển hoá</em></p>\n\n<p>Vitamin E chuyển hoá một ít qua gan thành các glucuronid của acid tocopheronic và gamma - lacton của acid này.</p>\n\n<p><em>Thải trừ</em></p>\n\n<p>Vitamin E thải trừ một ít qua nước tiểu, còn hầu hết liều dùng phải thải trừ chậm vào mật. Vitamin E vào sữa, nhưng rất ít qua nhau thai.</p>",
+  "ingredients_html": [
+    {
+      "id": 22082,
+      "ingredientId": 25890,
+      "shortDescription": "80mg",
+      "name": "L-ornithine-L-aspartate",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 22083,
+      "ingredientId": 38871,
+      "shortDescription": "50mg",
+      "name": "Tocopheryl acetate",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

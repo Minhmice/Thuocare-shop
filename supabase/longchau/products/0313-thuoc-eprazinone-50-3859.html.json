@@ -1,0 +1,51 @@
+{
+  "id": "00002828",
+  "slug": "thuoc/eprazinone-50-3859.html",
+  "title": "Thuốc Eprazinone 50mg Mebiphar điều trị viêm phế quản, suy hô hấp mạn tính (30 viên)",
+  "short_title": "EPRAZINONE 50 MBP 3X10",
+  "brand": {
+    "name": "Mebiphar",
+    "slug": "thuong-hieu/mebiphar",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-ho-hap/thuoc-tri-ho-cam",
+    "name": "Thuốc trị ho cảm",
+    "parent_slug": "thuoc/thuoc-ho-hap"
+  },
+  "price_amount": 820,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_5775_82e60ac30c.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_5775_82e60ac30c.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/eprazinone_39f7e9a0f2.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_5776_d491df8ad0.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_5777_c9d5864448.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_5778_180ba98bef.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_5779_73abcc71de.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_5781_dc03ff6f10.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_5782_9844786779.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Eprazinone 50 mg của công ty CP Dược phẩm và sinh học y tế (Mebiphar Việt Nam), có thành phần chính eprazinon dihydroclorid, đây là thuốc dùng để làm loãng và long đờm, điều trị các chứng viêm phế quản, suy hô hấp mãn tính, viêm mũi, ho, cúm, hen phế quản.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p>Thuốc Eprazinone 50 mg được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li><a href=\"https://nhathuoclongchau.com.vn/benh/viem-phe-quan-cap-tinh-611.html\">Viêm phế quản</a>.</li>\n\t<li><a href=\"https://nhathuoclongchau.com.vn/benh/suy-ho-hap-man-170.html\">Suy hô hấp mạn tính</a>.</li>\n\t<li><a href=\"https://nhathuoclongchau.com.vn/benh/viem-mui-472.html\">Viêm mũi</a>.</li>\n\t<li>Ho, cúm.</li>\n\t<li><a href=\"https://nhathuoclongchau.com.vn/benh/con-hen-phe-quan-111.html\">Hen phế quản</a>.</li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p>Làm loãng và long đờm. Làm dễ thở hơn nhờ tác động giải co thắt phế quản.</p>\n\n<h3>Dược động học</h3>\n\n<p>Người lớn, hàm lượng cao nhất trong huyết tương đạt được sau 1 giờ.</p>\n\n<p>Thuốc được chuyển hóa chủ yếu qua gan. Thời gian bán hủy thải trừ khoảng 6 giờ.</p>",
+  "ingredients_html": [
+    {
+      "id": 21231,
+      "ingredientId": 19327,
+      "shortDescription": "50mg",
+      "name": "Eprazinone",
+      "isPrimary": false,
+      "slug": "thanh-phan/eprazinone"
+    }
+  ],
+  "stock_qty": 0
+}

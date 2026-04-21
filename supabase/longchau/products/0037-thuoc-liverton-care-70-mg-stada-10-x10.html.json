@@ -1,0 +1,51 @@
+{
+  "id": "00049209",
+  "slug": "thuoc/liverton-care-70-mg-stada-10-x10.html",
+  "title": "Thuốc Liverton Care 70mg Stada hỗ trợ điều trị viêm gan mạn tính, có tác dụng lợi mật (10 vỉ x 10 viên)",
+  "short_title": "LIVERTON CARE 70MG STADA 10X10",
+  "brand": {
+    "name": "Stada",
+    "slug": "thuong-hieu/stada",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-benh-gan",
+    "name": "Thuốc trị bệnh gan",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 1670,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_05561_721877c929.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_05561_721877c929.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_05562_5826fa9ad6.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_05563_64c1fbf6c9.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_05564_b4395e0e70.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_05565_28c606492c.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_05566_0ed476ef68.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_05568_dc3e5651f0.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/Livertoncare_7991ff5c58.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Liverton Care có thành phần chính là Silymarin, được sử dụng để hỗ trợ điều trị viêm gan mạn tính, có tác dụng lợi mật, chống oxy hóa, ức chế xơ hóa gan và bảo vệ tế bào gan.</p>",
+  "description_html": "<h3>Giới thiệu thuốc Liverton Care</h3><ul><li><strong>Chỉ định:</strong> Thuốc Liverton Care được chỉ định để hỗ trợ điều trị viêm gan mạn tính, có tác dụng lợi mật, chống oxy hóa, ức chế xơ hóa gan và bảo vệ tế bào gan.</li><li><strong>Cách dùng:</strong> Thuốc dùng đường uống sau bữa ăn.</li><li><strong>Đối tượng sử dụng:</strong> Người mắc viêm gan mạn tính hoặc người có chức năng gan suy giảm, cần hỗ trợ bảo vệ tế bào gan, tăng cường lợi mật, chống oxy hóa và hạn chế tiến triển xơ hóa gan.</li><li><strong>Lưu ý khi sử dụng:</strong> Thuốc này chứa lactose, bệnh nhân có vấn đề di truyền hiếm gặp về không dung nạp galactose, thiếu enzym Lapp lactase hoặc kém hấp thu glucose- galactose không nên dùng thuốc này.</li><li><strong>Chống chỉ định:</strong> Người mẫn cảm với bất kỳ thành phần nào của thuốc và bệnh nhân mắc bệnh não do gan, vàng da tắc mật hoặc xơ gan do mật nguyên phát.</li></ul>",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc <a href=\"https://nhathuoclongchau.com.vn/thuoc/liverton-care-70-mg-stada-10-x10.html\">Liverton Care</a> hỗ trợ điều trị <a href=\"https://nhathuoclongchau.com.vn/benh/viem-gan-man-146.html\">viêm gan mạn tính</a>, có tác dụng lợi mật, chống oxy hóa, ức chế xơ hóa gan và bảo vệ tế bào gan.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 71065,
+      "ingredientId": 36065,
+      "shortDescription": "70mg",
+      "name": "Silymarin",
+      "isPrimary": true,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

@@ -1,0 +1,52 @@
+{
+  "id": "00045047",
+  "slug": "thuoc/curam-625-mg-sandoz-10-x8-1.html",
+  "title": "Thuốc Curam 625mg Sandoz điều trị nhiễm khuẩn (10 vỉ x 8 viên)",
+  "short_title": "CURAM 625MG SANDOZ 10X8",
+  "brand": {
+    "name": "Sandoz",
+    "slug": "thuong-hieu/sandoz",
+    "country": "Thụy Sĩ"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-khang-sinh-khang-nam/thuoc-khang-sinh",
+    "name": "Thuốc kháng sinh",
+    "parent_slug": "thuoc/thuoc-khang-sinh-khang-nam"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "8 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00045047_32b4346681.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00045047_32b4346681.jpg"
+  ],
+  "origin_label": "Thụy Sĩ",
+  "country": "Thụy Sĩ",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Curam 625 mg là sản phẩm của Công ty Sandoz với thành phần chính là Acid clavulanic, Amoxicillin. Thuốc Curam 625 mg có tác dụng điều trị nhiễm khuẩn.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p dir=\"ltr\">Curam 625 mg được sử dụng cho người lớn và trẻ em để điều trị các nhiễm khuẩn như:</p><ul><li dir=\"ltr\">Viêm xoang cấp do vi khuẩn (đã được chẩn đoán xác định).</li><li dir=\"ltr\">Viêm tai giữa cấp.</li><li dir=\"ltr\">Đợt cấp của viêm phế quản mạn (đã được chẩn đoán xác định).</li><li dir=\"ltr\">Viêm phổi mắc phải cộng đồng.</li><li dir=\"ltr\">Viêm bàng quang.</li><li dir=\"ltr\">Viêm thận-bể thận.</li><li dir=\"ltr\">Nhiễm khuẩn da và mô mềm đặc biệt là viêm mô tế bào, vết động vật cắn, áp xe răng nặng kèm viêm mô tế bào lan rộng.</li><li dir=\"ltr\">Nhiễm khuẩn xương và khớp, đặc biệt là viêm tủy xương.</li></ul><p dir=\"ltr\">Việc sử dụng nên được cân nhắc theo các hướng dẫn chính thức về sử dụng thích hợp thuốc kháng sinh.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 51212,
+      "ingredientId": 8913,
+      "shortDescription": "500mg",
+      "name": "Amoxicillin",
+      "isPrimary": false,
+      "slug": "thanh-phan/amoxicillin"
+    },
+    {
+      "id": 51213,
+      "ingredientId": 15060,
+      "shortDescription": "125mg",
+      "name": "Clavulanic acid",
+      "isPrimary": false,
+      "slug": "thanh-phan/clavulanic-acid"
+    }
+  ],
+  "stock_qty": 0
+}

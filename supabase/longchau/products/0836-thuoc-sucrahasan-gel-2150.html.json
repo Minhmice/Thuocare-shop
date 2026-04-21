@@ -1,0 +1,44 @@
+{
+  "id": "00007040",
+  "slug": "thuoc/sucrahasan-gel-2150.html",
+  "title": "Hỗn dịch uống Sucrahasan Gel Hasan điều trị loét dạ dày, tá tràng (30 gói x 5ml)",
+  "short_title": "SUCRAHASAN GEL 1G 30 GÓI",
+  "brand": {
+    "name": "Hasan",
+    "slug": "thuong-hieu/hasan",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-da-day",
+    "name": "Thuốc dạ dày",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 3300,
+  "compare_at_amount": 0,
+  "unit": "Gói",
+  "pack_note": "30 Gói x 5ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007040_sucrahasan_gel_8581_60a4_large_9fd5adfbbe.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007040_sucrahasan_gel_8581_60a4_large_9fd5adfbbe.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Hỗn dịch uống",
+  "trust_label": null,
+  "short_description": "<p><strong>Thuốc Sucrahasan Gel</strong> là sản phẩm của <em>Công ty TNHH Liên doanh Hasan - Dermapharm</em>, với thành phần chính là <strong><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/sucralfate\">sucralfat</a></strong>. Sucrahasan Gel được dùng để điều trị loét dạ dày tá tràng, viêm dạ dày mạn tính, loét lành tính, phòng tái phát loét tá tràng, phòng loét do stress, điều trị bệnh trào ngược dạ dày thực quản.</p>\n\n<p>Sucrahasan Gel bào chế dạng hỗn dịch uống, quy cách đóng gói hộp 30 gói, gói 5ml.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p><strong>Thuốc Sucrahasan Gel</strong> được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Ðiều trị loét dạ dày tá tràng, viêm dạ dày mạn tính, loét lành tính, phòng tái phát loét tá tràng, phòng loét do stress. </li>\n\t<li>Điều trị <strong><a href=\"https://nhathuoclongchau.com.vn/benh/trao-nguoc-da-day-135.html\">bệnh trào ngược dạ dày thực quản</a></strong>.</li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p><em>Sucralfat</em> là thuốc bảo vệ niêm mạc dạ dày chứa nhôm. Cơ chế tác dụng là tạo phức hợp với các chất như albumin và fibrinogen từ dịch rỉ, kết dính với ổ loét thành một hàng rào ngăn cản tác dụng của acid, pepsin và mật.</p>\n\n<p>Ngoài ra sucralfat còn ức chế hoạt động của pepsin, gắn với muối mật, làm tăng sản xuất prostaglandin E, và dịch nhầy dạ dày.</p>\n\n<h3>Dược động học</h3>\n\n<p>Có tới 5% disacarid và dưới 0,02% nhôm được hấp thu vào cơ thể sau khi uống một liều sucralfat. Phần lớn thuốc được đào thải ra phân, chỉ có một lượng nhỏ sulfat disacarid thải ra nước tiểu.</p>",
+  "ingredients_html": [
+    {
+      "id": 46877,
+      "ingredientId": 36992,
+      "shortDescription": "1g",
+      "name": "Sucralfat",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

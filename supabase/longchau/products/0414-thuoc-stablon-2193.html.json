@@ -1,0 +1,49 @@
+{
+  "id": "00006874",
+  "slug": "thuoc/stablon-2193.html",
+  "title": "Thuốc Stablon Servier điều trị trạng thái trầm cảm (2 vỉ x 15 viên)",
+  "short_title": "STABLON 12.5 LES 2X15",
+  "brand": {
+    "name": "Servier",
+    "slug": "thuong-hieu/servier",
+    "country": "Pháp"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-than-kinh/thuoc-chong-tram-cam",
+    "name": "Thuốc chống trầm cảm",
+    "parent_slug": "thuoc/thuoc-than-kinh"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "15 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006874_stablon_8814_5b75_large_593e857007.JPG",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006874_stablon_8814_5b75_large_593e857007.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006874_stablon_9884_5b75_large_fb23823a85.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/00006874_stablon_7478_5b75_large_c33ea72584.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006874_stablon_1518_5b75_large_c48b96d103.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/00006874_stablon_6459_5b75_large_4c3aa771e6.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006874_stablon_5089_5b75_large_3dc3157093.JPG"
+  ],
+  "origin_label": "Pháp",
+  "country": "Pháp",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên bao",
+  "trust_label": null,
+  "short_description": "<p><strong>Stablon</strong> là sản phẩm thuốc của <em>công ty Les Laboratoires Servier Industrie (Pháp)</em> với thành phần hoạt chất là <strong><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/tianeptine\">Tianeptine</a></strong> được chỉ định trong điều trị trạng thái trầm cảm nhẹ, vừa và nặng.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p><strong>Thuốc Stablon</strong> được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Chỉ định điều trị trong các trạng thái <strong><a href=\"https://nhathuoclongchau.com.vn/benh/tram-cam-79.html\">trầm cảm</a></strong> nhẹ, vừa và nặng.</li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p>Tianeptine là thuốc chống trầm cảm. </p>\n\n<p>Trên động vật, tianeptine có các đặc tính sau:</p>\n\n<ul>\n\t<li>Làm tăng hoạt tính tự phát của tế bào tháp ở hồi hải mã và làm cho chức năng này được hồi phục nhanh sau khi bị ức chế.</li>\n\t<li>Làm tăng tốc độ thu hồi <strong><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/serotonin\">serotonine</a></strong> của các tế bào thần kinh ở vỏ não và ở hồi hải mã.</li>\n</ul>\n\n<p>Trên người, tianeptine mang những đặc trưng sau:</p>\n\n<ul>\n\t<li>Tác động tốt trên những bệnh nhân có những than phiền về cơ thể, nhất là những than phiền về các rối loạn tiêu hoá có nguyên nhân do sự lo âu và các rối loạn khí sắc.</li>\n</ul>\n\n<p>Mặt khác, tianeptine không ảnh hưởng lên:</p>\n\n<ul>\n\t<li>Giấc ngủ và sự tỉnh táo.</li>\n\t<li>Hệ cholinergic (không có những biểu hiện kiểu kháng cholinergic).</li>\n</ul>\n\n<h3>Dược động học</h3>\n\n<p>Hấp thu nhanh và hoàn toàn qua đường tiêu hoá.</p>\n\n<p>Phân bố nhanh và việc phân bố có liên quan đến khả năng gắn kết cao với protein (vào khoảng 94%). Chuyển hoá mạnh ở gan qua tiến trình oxy hoá ở vị trí bêta và loại gốc methyl ở nitơ.</p>\n\n<p>Tianeptine có thời gian bán thải ngắn khoảng 2 giờ 30 phút, bài tiết chủ yếu qua thận dưới dạng các chất chuyển hoá.</p>\n\n<p>Ở người lớn tuổi: Các nghiên cứu dược động học được thực hiện ở người già trên 70 tuổi và điều trị dài hạn cho thấy thời gian bán thải tăng thêm 1 giờ.</p>\n\n<p>Ở bệnh nhân suy gan: Các nghiên cứu cho thấy rượu có ảnh hưởng không đáng kể lên các thông số dược động học của bệnh nhân bị nghiện rượu kinh niên, ngay cả khi có kèm <strong><a href=\"https://nhathuoclongchau.com.vn/benh/xo-gan-415.html\">xơ gan</a></strong>.</p>\n\n<p>Ở bệnh nhân suy thận: Các nghiên cứu cho thấy thời gian bán thải dài thêm 1 giờ.</p>",
+  "ingredients_html": [
+    {
+      "id": 23338,
+      "ingredientId": 38494,
+      "shortDescription": "12.5mg",
+      "name": "Tianeptine",
+      "isPrimary": false,
+      "slug": "thanh-phan/tianeptine"
+    }
+  ],
+  "stock_qty": 0
+}

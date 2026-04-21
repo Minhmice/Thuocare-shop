@@ -1,0 +1,112 @@
+{
+  "id": "00007283",
+  "slug": "thuoc/thanh-nhiet-tieu-doc-f-460.html",
+  "title": "Thuốc Thanh Nhiệt Tiêu Độc-F điều trị mẩn ngứa, mày đay (40 viên)",
+  "short_title": "THANH NHIỆT TIÊU ĐỘC-F FITO 40V",
+  "brand": {
+    "name": "Fito",
+    "slug": "thuong-hieu/fito",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-benh-gan",
+    "name": "Thuốc trị bệnh gan",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 55000,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 40 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/7283_thanh_nhiet_tieu_doc_f_2968_599f_large_b70c417665.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/7283_thanh_nhiet_tieu_doc_f_2968_599f_large_b70c417665.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007283_thanh_nhiet_tieu_doc_f_1629013389_5ce81a7e34.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/7283_thanh_nhiet_tieu_doc_f_7586_599f_large_e8d1929e7a.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/7283_thanh_nhiet_tieu_doc_f_9955_599f_large_a54d6100a0.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007283_thanh_nhiet_tieu_doc_f_3532_6118_large_92cb20f5af.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang cứng",
+  "trust_label": null,
+  "short_description": "<p><strong>Thuốc Thanh nhiệt tiêu độc - F</strong> là sản phẩm của <em>Công ty Dược phẩm Fito Pharma</em>, với thành phần chiết xuất từ các loại thảo dược. Thuốc Thanh nhiệt tiêu độc – F dùng để thanh nhiệt giải độc cơ thể.</p>\n\n<p>Thuốc Thanh nhiệt tiêu độc - F bào chế dạng viên nang cứng số 0, hai đầu màu xanh lá, bên trong chứa bột thuốc màu nâu xám, mùi thơm dược liệu, vị hơi đắng. Quy cách đóng gói hộp 1 chai 40 viên nang hoặc hộp 10 vỉ x 10 viên nang, kèm theo toa hướng dẫn sử dụng.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p><strong>Thuốc Thanh nhiệt tiêu độc - F</strong> được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Thanh nhiệt, giải độc.</li>\n\t<li>Ðiều trị mẩn ngứa, nổi <strong><a href=\"https://nhathuoclongchau.com.vn/benh/me-day-527.html\">mề đay</a></strong>, nám da.</li>\n\t<li>Mụn nhọt, đinh râu, hay bị sưng viêm nướu răng, lở mồm mép.</li>\n\t<li>Thanh nhiệt tiêu độc, trị chứng cơ thể nóng bứt rút, tiểu ít và gắt, nước tiểu sậm màu.</li>\n\t<li>Hỗ trợ điều trị bệnh viêm da và các bệnh lý da liễu khác như nấm, <strong><a href=\"https://nhathuoclongchau.com.vn/benh/cham-516.html\">chàm</a></strong>...</li>\n\t<li>Dùng tốt cho người bệnh viêm gan. Người có thân nhiệt nóng do thường sử dụng rượu bia.</li>\n</ul>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Chưa có báo cáo.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Chưa có báo cáo.</p>",
+  "ingredients_html": [
+    {
+      "id": 26592,
+      "ingredientId": 24677,
+      "shortDescription": "500mg",
+      "name": "Kinh giới",
+      "isPrimary": false,
+      "slug": "thanh-phan/kinh-gioi"
+    },
+    {
+      "id": 26593,
+      "ingredientId": 35334,
+      "shortDescription": "500mg",
+      "name": "Sài đất",
+      "isPrimary": false,
+      "slug": "thanh-phan/sai-dat"
+    },
+    {
+      "id": 26594,
+      "ingredientId": 38387,
+      "shortDescription": "500mg",
+      "name": "Thương nhĩ tử",
+      "isPrimary": false,
+      "slug": "thanh-phan/thuong-nhi-tu"
+    },
+    {
+      "id": 26595,
+      "ingredientId": 32396,
+      "shortDescription": "375mg",
+      "name": "Phòng phong",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 26596,
+      "ingredientId": 16564,
+      "shortDescription": "375mg",
+      "name": "Đại hoàng",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 26597,
+      "ingredientId": 38300,
+      "shortDescription": "375mg",
+      "name": "Thổ phục linh",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 26598,
+      "ingredientId": 22441,
+      "shortDescription": "125mg",
+      "name": "Hoàng liên",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 26599,
+      "ingredientId": 24654,
+      "shortDescription": "120mg",
+      "name": "Kim ngân hoa",
+      "isPrimary": false,
+      "slug": "thanh-phan/kim-ngan-hoa"
+    },
+    {
+      "id": 26600,
+      "ingredientId": 10072,
+      "shortDescription": "75mg",
+      "name": "Bạch chỉ",
+      "isPrimary": false,
+      "slug": "thanh-phan/bach-chi"
+    }
+  ],
+  "stock_qty": 0
+}

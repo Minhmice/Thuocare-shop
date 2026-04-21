@@ -1,0 +1,44 @@
+{
+  "id": "00042150",
+  "slug": "thuoc/glonacin-3-m-i-u-2-x5.html",
+  "title": "Thuốc Glonacin 3 M.I.U Glomed điều trị nhiễm khuẩn do các vi khuẩn nhạy cảm với spiramycin (2 vỉ x 5 viên)",
+  "short_title": "GLONACIN 3 M.I.U 2X5",
+  "brand": {
+    "name": "Glomed",
+    "slug": "thuong-hieu/glomed",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-than-kinh/thuoc-than-kinh",
+    "name": "Thuốc thần kinh",
+    "parent_slug": "thuoc/thuoc-than-kinh"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "5 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00042150_c474663a71.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00042150_c474663a71.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Glonacin 3.0 M.I.U là sản phẩm của Glomed, có thành phần chính là Spiramycin. Đây là thuốc được sử dụng để điều trị nhiễm khuẩn do các vi khuẩn nhạy cảm với spiramycin trong các trường hợp nhiễm khuẩn đường hô hấp, da và các nhiễm khuẩn sinh dục không phải do lậu cầu; điều trị dự phòng viêm màng não cầu khuẩn khi có chống chỉ định với rifampicin; phòng ngừa nhiễm Toxoplasma trong thời kỳ mang thai; điều trị dự phòng tái phát sốt thấp khớp ở người bệnh dị ứng với penicilin.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc Glonacin 3.0 M.I.U được chỉ định dùng trong các trường hợp sau:</p><ul><li>Điều trị nhiễm khuẩn do các vi khuẩn nhạy cảm với spiramycin trong các trường hợp nhiễm khuẩn đường hô hấp, da và các nhiễm khuẩn sinh dục không phải do lậu cầu.</li><li>Điều trị dự phòng viêm màng não cầu khuẩn khi có chống chỉ định với rifampicin.</li><li>Phòng ngừa nhiễm Toxoplasma trong thời kỳ mang thai.</li><li>Điều trị dự phòng tái phát sốt thấp khớp ở người bệnh dị ứng với penicilin.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 59637,
+      "ingredientId": 36693,
+      "shortDescription": "3ui",
+      "name": "Spiramycin",
+      "isPrimary": true,
+      "slug": "thanh-phan/spiramycin"
+    }
+  ],
+  "stock_qty": 0
+}

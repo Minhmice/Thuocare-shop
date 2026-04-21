@@ -1,0 +1,44 @@
+{
+  "id": "00503409",
+  "slug": "thuoc/micospray-20mg-cpc1hn-15ml-37730.html",
+  "title": "Thuốc Micospray 20mg/ml CPC1HN điều trị nấm bàn chân, nấm da đùi (15ml)",
+  "short_title": "MICOSPRAY 20MG CPC1HN 15ML",
+  "brand": {
+    "name": "CPC1HN",
+    "slug": "thuong-hieu/cpc1hn",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-da-lieu/thuoc-boi-ngoai-da",
+    "name": "Thuốc bôi ngoài da",
+    "parent_slug": "thuoc/thuoc-da-lieu"
+  },
+  "price_amount": 110000,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp x 15ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00503409_1c2195cebf.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00503409_1c2195cebf.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Nhũ tương",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Micospray là sản phẩm của CPC1HN, có thành phần chính là Miconazol nitrat. Đây là thuốc được sử dụng để điều trị nấm bàn chân (nấm da pedis), nấm da đùi và nấm da Corporis (nấm ngoài da).</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc Micospray được chỉ định dùng trong các trường hợp sau:</p><ul><li dir=\"ltr\">Điều trị nấm bàn chân (nấm da pedis), nấm da đùi và nấm da Corporis (nấm ngoài da).</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 45909,
+      "ingredientId": 27596,
+      "shortDescription": "0.3g",
+      "name": "Miconazol nitrat",
+      "isPrimary": false,
+      "slug": "thanh-phan/miconazol-nitrat"
+    }
+  ],
+  "stock_qty": 0
+}

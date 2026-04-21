@@ -1,0 +1,44 @@
+{
+  "id": "00007721",
+  "slug": "thuoc/uruso-100mg-1867.html",
+  "title": "Thuốc Uruso Tab. 100mg Daewoong điều trị sỏi mật (10 vỉ x 10 viên)",
+  "short_title": "URUSO 100 DAEWOONG 10X10",
+  "brand": {
+    "name": "Daewoong",
+    "slug": "thuong-hieu/daewoong",
+    "country": "Hàn Quốc"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-benh-gan",
+    "name": "Thuốc trị bệnh gan",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007721_uruso_100mg_9847_6124_large_53a53935fe.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007721_uruso_100mg_9847_6124_large_53a53935fe.jpg"
+  ],
+  "origin_label": "Hàn Quốc",
+  "country": "Hàn Quốc",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén",
+  "trust_label": null,
+  "short_description": "<p><strong>Uruso 100mg</strong> được sản xuất bởi <em>Công ty Daewoong</em>, với thành phần chính <em>acid ursodeoxycholic</em>, là thuốc dùng để điều trị sỏi mật giàu cholesterol khi túi mật còn chức năng và cải thiện chức năng gan trong xơ gan mật nguyên phát.</p>\n\n<p>Thuốc có dạng viên nén hình tròn, màu trắng, một mặt có khắc số “100”, mặt còn lại có khắc chữ “DW” và vạch phân liều.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p><strong>Thuốc Uruso 100mg</strong> được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Điều trị <strong><a href=\"https://nhathuoclongchau.com.vn/benh/soi-mat-241.html\">sỏi mật</a></strong> giàu cholesterol khi túi mật còn chức năng.</li>\n\t<li>Cải thiện chức năng gan trong <strong><a href=\"https://nhathuoclongchau.com.vn/benh/xo-gan-415.html\">xơ gan</a></strong> mật nguyên phát.</li>\n</ul>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Sau khi uống, acid ursodeoxycholic được cô đặc và dự trữ trong túi mật. Acid ursodeoxycholic làm giảm bão hòa cholesterol nhờ ức chế tổng hợp và bài tiết cholesterol ở gan, đồng thời ức chế tái hấp thu cholesterol vào ruột. Tác dụng giảm bão hòa cholesterol cho phép hòa tan từ từ sỏi cholesterol.</p>\n\n<p>Ngoài ra, acid ursodeoxycholic làm tăng lưu lượng mật, giúp cải thiện tình trạng ứ mật. Acid ursodeoxycholic giúp bảo vệ tế bào gan khỏi tác dụng gây độc gan của các acid mật không tan trong nước (như acid lithocholic, acid deoxycholic, acid chenodeoxycholic) nhờ ức chế cạnh tranh hấp thu vào ruột.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p><em>Phân bố</em></p>\n\n<p>Sau khi uống, acid ursodeoxycholic vào máu và được chuyển trực tiếp đến gan, chỉ một lượng nhỏ lưu thông trong vòng tuần hoàn.</p>\n\n<p><em>Chuyển hóa</em></p>\n\n<p>Acid ursodeoxycholic nhanh chóng hấp thu vào gan và gắn kết với glycine hoặc taurine rồi đi vào mật. Một tỷ lệ nhỏ acid ursodeoxycholic chịu sự chuyển hóa do vi khuẩn trong chu trình gan – ruột.</p>\n\n<p><em>Thải trừ</em></p>\n\n<p>Acid ursodeoxycholic được đào thải chủ yếu qua phân.</p>",
+  "ingredients_html": [
+    {
+      "id": 23672,
+      "ingredientId": 41894,
+      "shortDescription": "100mg",
+      "name": "Acid ursodeoxycholic",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

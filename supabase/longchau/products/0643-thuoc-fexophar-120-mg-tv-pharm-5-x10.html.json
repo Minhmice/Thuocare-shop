@@ -1,0 +1,52 @@
+{
+  "id": "00040637",
+  "slug": "thuoc/fexophar-120-mg-tv-pharm-5-x10.html",
+  "title": "Thuốc Fexophar 120mg TV.Pharm điều trị triệu chứng viêm mũi dị ứng, sổ mũi, hắt hơi, dị ứng da (5 vỉ x 10 viên)",
+  "short_title": "FEXOPHAR 120MG TV.PHARM 5X10",
+  "brand": {
+    "name": "Tv.Pharm",
+    "slug": "thuong-hieu/tvpharm",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-di-ung/thuoc-chong-di-ung",
+    "name": "Thuốc chống dị ứng",
+    "parent_slug": "thuoc/thuoc-di-ung"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09867_9f89b8b27f.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09867_9f89b8b27f.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09868_ac07e238b9.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09869_cf138e2ccf.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09870_0b0b2a9673.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09871_edd2bd32c1.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09874_c4630195e4.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09875_912d507927.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/fexophar_120mg_1_1849ebf597.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/fexophar_120mg_2_2dcaff1071.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Fexophar là sản phẩm của Công ty Cổ phần Dược phẩm TV.Pharm có thành phần chính là Fexofenadin hydroclorid. Thuốc dùng điều trị các triệu chứng viêm mũi dị ứng: Sổ mũi, hắt hơi, viêm họng (ngứa và đỏ cổ họng); dị ứng da, nổi mày đay.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Fexophar chỉ định điều trị trong các trường hợp sau:</p><ul><li>Điều trị các triệu chứng <a href=\"https://nhathuoclongchau.com.vn/benh/viem-mui-di-ung-473.html\">viêm mũi dị ứng</a>: Sổ mũi, hắt hơi, <a href=\"https://nhathuoclongchau.com.vn/benh/viem-hong-468.html\">viêm họng</a> (ngứa và đỏ cổ họng).</li><li>Dị ứng da, <a href=\"https://nhathuoclongchau.com.vn/benh/me-day-527.html\">nổi mày đay</a>.</li></ul><h3>Dược lực học</h3><p>Nhóm dược lý: Kháng histamin thế hệ 2, đối kháng thụ thể H1.</p><p><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/fexofenadine\">Fexofenadine</a> có tác dụng kháng histamin chọn lọc trên thụ thể H1. Không có tác dụng kháng cholinergic hay adrenergic.</p><h3>Dược động học</h3><p><i>Hấp thu: </i>Thuốc hấp thu nhanh sau khi uống, đạt nồng độ tối đa trong máu sau 2 - 3 giờ.</p><p><i>Phân bố:</i> Thuốc liên kết với protein huyết tương khoảng 60 - 70%.</p><p><i>Chuyển hóa: </i>Khoảng 5% Fexofenadine bị chuyển hóa trong cơ thể.</p><p><i>Thải trừ:</i> Thời gian bán thải trừ của thuốc là 14,4 giờ, thuốc chủ yếu đào thải qua phân 80%, qua nước tiểu 11%.</p>",
+  "ingredients_html": [
+    {
+      "id": 58231,
+      "ingredientId": 41680,
+      "shortDescription": "120mg",
+      "name": "Fexofenadin Hydroclorid",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

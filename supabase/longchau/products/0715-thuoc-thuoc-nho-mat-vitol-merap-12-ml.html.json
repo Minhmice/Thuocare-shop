@@ -1,0 +1,54 @@
+{
+  "id": "A042300000160",
+  "slug": "thuoc/thuoc-nho-mat-vitol-merap-12-ml.html",
+  "title": "Thuốc nhỏ mắt Vitol 12ml Merap dùng cho các tình trạng khô mắt",
+  "short_title": "THUỐC NHỎ MẮT VITOL MERAP 12ML",
+  "brand": {
+    "name": "Merap",
+    "slug": "thuong-hieu/merap",
+    "country": ""
+  },
+  "category": {
+    "slug": "thuoc/thuoc-mat-tai-mui-hong/thuoc-nho-mat",
+    "name": "Thuốc nhỏ mắt",
+    "parent_slug": "thuoc/thuoc-mat-tai-mui-hong"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp x 12ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03398_626948c404.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03398_626948c404.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03393_09095fb2e3.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03394_8750d769a0.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03395_e8b2dbacf4.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03396_c856c722ae.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03397_3e7764263d.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03399_b33bb6b04c.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03400_cd558815a6.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03401_176689b837.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/Vitol_1_6b08c40d6e.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/Vitol_2_31cc89c2e5.jpg"
+  ],
+  "origin_label": "",
+  "country": "",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch nhỏ mắt",
+  "trust_label": null,
+  "short_description": "<p>Thuốc nhỏ mắt Vitol là sản phẩm của Merap, có thành phần chính là Natri hyaluronat. Đây là thuốc được sử dụng cho các tình trạng khô mắt.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc nhỏ mắt Vitol được chỉ định dùng trong các trường hợp sau:</p><ul><li dir=\"ltr\">Dùng cho các tình trạng khô mắt.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p><strong>Nhóm dược lý trị liệu: Nước mắt nhân tạo và các chế phẩm cân bằng khác.</strong></p><p><strong>Mã ATC: S01XA20</strong></p><p>Acid hyaluronic là một glycosaminoglycan gồm D-glucuronic acid và N-acetyl-D-glucosamin disaccharid. Natri hyaluronat gồm một chuỗi các nhóm muối natri của acid hyaluronic. Acid hyaluronic có tự nhiên trong cơ thể người, được phân bố ở ngoại bào của các mô trong cơ thể, có trong nước mắt, hoạt dịch, da và dây rốn. Natri hyaluronat có tác dụng bảo vệ tế bào màng mắt và các cấu trúc khác của mắt, thúc đẩy quá trình lành biểu mô màng sừng bị tổn thương.</p><p>Dung dịch natri hyaluronat nhỏ mắt có độ nhớt dính cao có tác dụng tạo màng phim nước mắt nhân tạo, làm ẩm và êm dịu mắt, giúp giác mạc không bị khô.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Do trong lương phân tử cao của polyme, thâm nhập vào giác mạc và kết mạc dự kiến sẽ thấp.</p>",
+  "ingredients_html": [
+    {
+      "id": 52240,
+      "ingredientId": 29261,
+      "shortDescription": "0.18% w/v",
+      "name": "Natri hyaluronat",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

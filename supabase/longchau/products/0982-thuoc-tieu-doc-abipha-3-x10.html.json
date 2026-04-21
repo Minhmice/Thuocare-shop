@@ -1,0 +1,60 @@
+{
+  "id": "00047548",
+  "slug": "thuoc/tieu-doc-abipha-3-x10.html",
+  "title": "Thuốc tiêu độc Abipha điều trị nóng trong, miệng lưỡi lở loét, dị ứng, suy giảm chức năng gan (3 vỉ x 10 viên)",
+  "short_title": "TIÊU ĐỘC ABIPHA 3X10",
+  "brand": {
+    "name": "Abipha",
+    "slug": "thuong-hieu/abipha",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-benh-gan",
+    "name": "Thuốc trị bệnh gan",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 6000,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_tieu_doc_5c5ec5b4aa.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_tieu_doc_5c5ec5b4aa.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Thuốc tiêu độc Abipha là sản phẩm của Công ty Cổ phần Dược phẩm Quốc tế Abipha, có thành phần chính là Xích thược, Hoàng liên, Cao khô hỗn hợp dược liệu. Đây là thuốc được sử dụng cho các trường hợp nóng trong, miệng lưỡi lở loét, chảy máu cam, rôm sẩy, mẩn ngứa, dị ứng, nổi mày đay, suy giảm chức năng gan, đau đầu, mắt đỏ, đau bụng.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc tiêu độc Abipha được chỉ định dùng trong các trường hợp sau:</p><ul><li dir=\"ltr\">Nóng trong, miệng lưỡi lở loét, chảy máu cam, rôm sẩy, mẩn ngứa, dị ứng, nổi mày đay, suy giảm chức năng gan, đau đầu, mắt đỏ, đau bụng.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 69202,
+      "ingredientId": 40744,
+      "shortDescription": "213mg",
+      "name": "Xích thược",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 69203,
+      "ingredientId": 22441,
+      "shortDescription": "85mg",
+      "name": "Hoàng liên",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 69204,
+      "ingredientId": 42322,
+      "shortDescription": "72mg",
+      "name": "Cao khô hỗn hợp dược liệu",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

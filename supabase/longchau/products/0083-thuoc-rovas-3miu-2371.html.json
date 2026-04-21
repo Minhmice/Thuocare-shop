@@ -1,0 +1,44 @@
+{
+  "id": "00006441",
+  "slug": "thuoc/rovas-3miu-2371.html",
+  "title": "Thuốc Rovas 3M DHG điều trị nhiễm khuẩn đường hô hấp, da (2 vỉ x 5 viên)",
+  "short_title": "ROVAS 3MIU DHG 2X5",
+  "brand": {
+    "name": "Dhg",
+    "slug": "thuong-hieu/dhg",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-khang-sinh-khang-nam/thuoc-khang-sinh",
+    "name": "Thuốc kháng sinh",
+    "parent_slug": "thuoc/thuoc-khang-sinh-khang-nam"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "5 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006441_rovas_3miu_8026_6093_large_86cc8906e9.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006441_rovas_3miu_8026_6093_large_86cc8906e9.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Rovas là sản phẩm của công ty cổ phần Dược Hậu Giang, có thành phần chính là spiramycin với hàm lượng 3.000.000 IU. Thuốc được chỉ định trong điều trị những trường hợp sau: Nhiễm khuẩn ở đường hô hấp, da và sinh dục do các vi khuẩn nhạy cảm với thuốc (thuốc lựa chọn thứ hai); dự phòng viêm màng não do Meningococcus, khi có chống chỉ định với rifampicin; dự phòng chứng nhiễm Toxoplasma bẩm sinh trong thời kỳ mang thai; phòng ngừa viêm thấp khớp cấp tái phát ở người bệnh dị ứng với penicilin.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p>Thuốc Rovas được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/spiramycin\">Spiramycin</a> được coi là thuốc lựa chọn thứ hai để điều trị những trường hợp nhiễm khuẩn ở đường hô hấp, da và sinh dục do các vi khuẩn nhạy cảm với thuốc. </li>\n\t<li>Điều trị dự phòng viêm màng não do Meningococcus, khi có chống chỉ định với rifampicin. </li>\n\t<li>Dự phòng chứng nhiễm Toxoplasmabẩm sinh trong thời kỳ mang thai.</li>\n\t<li>Phòng ngừa viêm thấp khớp cấp tái phát ở người bệnh dị ứng với penicilin. </li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p>Spiramycin là kháng sinh nhóm macrolid.</p>\n\n<p>Ở các nồng độ trong huyết thanh, thuốc có tác dụng kìm khuẩn nhưng khi đạt nồng độ ở mô thuốc có thể diệt khuẩn. Cơ chế tác động của spiramycin là tác dụng lên các tiểu đơn vị 50S của ribosom vi khuẩn và ngăn cản vi khuẩn tổng hợp protein. Spiramycin có tác dụng kháng các chủng gram dương, các chủng Coccus như Staphylococcus, Pneumococcus, Meningococcus...</p>\n\n<h3>Dược động học</h3>\n\n<p><em>Hấp thu</em></p>\n\n<p>Spiramycin được hấp thu không hoàn toàn ở đường tiêu hóa. Thuốc uống được hấp thu khoảng 20 - 50% liều sử dụng. Nồng độ đỉnh trong huyết tương đạt được trong vòng 2 - 4 giờ sau khi uống. Nồng độ đỉnh trong máu sau liều đơn có thể duy trì được 4 đến 6 giờ. Uống spiramycin khi có thức ăn trong dạ dày làm giảm nhiều đến sinh khả dụng của thuốc. Thức ăn làm giảm khoảng 70% nồng độ tối đa của thuốc trong huyết thanh và làm cho thời gian đạt đỉnh chậm 2 giờ.</p>\n\n<p><em>Phân bố</em></p>\n\n<p>Spiramycin phân bố rộng khắp cơ thể. Thuốc đạt nồng độ cao trong phổi, amidan, phế quản và các xoang. Spiramycin ít thâm nhập vào dịch não tủy. </p>\n\n<p><em>Thải trừ</em></p>\n\n<p>Thời gian bán thải trung bình là 5 - 8 giờ. Thuốc thải trừ chủ yếu ở mật. Sau 36 giờ chỉ có khoảng 2% tổng liều uống tìm thấy trong nước tiểu.</p>",
+  "ingredients_html": [
+    {
+      "id": 42870,
+      "ingredientId": 36693,
+      "shortDescription": "3.000.000iu",
+      "name": "Spiramycin",
+      "isPrimary": false,
+      "slug": "thanh-phan/spiramycin"
+    }
+  ],
+  "stock_qty": 0
+}

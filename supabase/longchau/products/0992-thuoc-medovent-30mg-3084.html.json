@@ -1,0 +1,49 @@
+{
+  "id": "00004773",
+  "slug": "thuoc/medovent-30mg-3084.html",
+  "title": "Viên nén Medovent 30mg Medochemie điều trị bệnh phế quản phổi cấp, mạn tính (10 vỉ x 10 viên)",
+  "short_title": "MEDOVENT 30MG",
+  "brand": {
+    "name": "Medochemie",
+    "slug": "thuong-hieu/medochemie",
+    "country": "Bắc Síp"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-ho-hap/thuoc-tri-ho-cam",
+    "name": "Thuốc trị ho cảm",
+    "parent_slug": "thuoc/thuoc-ho-hap"
+  },
+  "price_amount": 1800,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004773_medovent_30mg_5294_5b39_large_fa2690651c.JPG",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004773_medovent_30mg_5294_5b39_large_fa2690651c.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004773_medovent_30mg_1628789092_b825b7b589.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004773_medovent_30mg_5268_5b39_large_956c73e099.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004773_medovent_30mg_8912_5b39_large_aeb165235e.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/00004773_medovent_30mg_6171_5b39_large_03a2156f18.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004773_medovent_30mg_2066_6115_large_0dbe6f1071.jpg"
+  ],
+  "origin_label": "Bắc Síp",
+  "country": "Bắc Síp",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Medovent 30mg là sản phẩm của Công ty Medochemie, với thành phần chính ambroxol hydroclorid. Đây là thuốc được dùng điều trị các bệnh cấp và mạn tính ở đường hô hấp có kèm tăng tiết dịch phế quản không bình thường, đặc biệt trong đợt cấp của viêm phế quản mạn, hen phế quản, viêm phế quản dạng hen.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3><p>Thuốc Medovent 30mg được chỉ định dùng trong điều trị triệu chứng trong các bệnh phế quản - phổi cấp và mạn tính liên quan đến sự tiết chất nhầy bất thường hoặc sự tăng độ đặc của chất nhầy trong viêm phế quản, phổi.</p><h3><strong>Dược lực học</strong></h3><p>Ambroxol là thuốc điều hòa sự bài tiết chất nhầy loại làm tan đàm, có tác động trên pha gel của chất nhầy bằng cách cắt đứt cầu nối disulfure của các glycoprotein và như thế làm cho sự long đàm được dễ dàng.</p><h3><strong>Dược động học</strong></h3><p>Ambroxol hấp thu nhanh và gần như hoàn toàn với liều điều trị. Nồng độ tối đa trong huyết tương đạt được trong vòng 0.5 - 3 giờ sau khi dùng thuốc.</p><p>Thuốc liên kết với protein huyết tương xấp xỉ 90%.</p><p>Ambroxol khuếch tán nhanh từ máu đến mô với nồng độ thuốc cao nhất trong phổi. Thời gian bán thải từ 7 - 12 giờ.</p><p>Khoảng 30% liều uống được thải qua vòng hấp thu đầu tiên. Ambroxol được chuyển hóa chủ yếu ở gan. Tổng lượng bài tiết qua thận xấp xỉ 90%.</p>",
+  "ingredients_html": [
+    {
+      "id": 22275,
+      "ingredientId": 8697,
+      "shortDescription": "30mg",
+      "name": "Ambroxol",
+      "isPrimary": false,
+      "slug": "thanh-phan/ambroxol"
+    }
+  ],
+  "stock_qty": 0
+}

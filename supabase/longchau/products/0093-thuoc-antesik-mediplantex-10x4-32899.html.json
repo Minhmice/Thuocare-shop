@@ -1,0 +1,44 @@
+{
+  "id": "00032776",
+  "slug": "thuoc/antesik-mediplantex-10x4-32899.html",
+  "title": "Thuốc Antesik Mediplantex điều trị viêm đại tràng, chữa ỉa chảy, lỵ, rối loạn tiêu hóa (10 vỉ x 4 viên)",
+  "short_title": "ANTESIK MEDIPLANTEX 10X4",
+  "brand": {
+    "name": "Mediplantex",
+    "slug": "thuong-hieu/mediplantex",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-tieu-chay",
+    "name": "Thuốc trị tiêu chảy",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 2750,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "4 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00032776_antesik_mediplantex_10x4_7426_6195_large_d998c42f40.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00032776_antesik_mediplantex_10x4_7426_6195_large_d998c42f40.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang cứng",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Antesik Mediplantex là sản phẩm của&nbsp;Công ty Cổ phần Dược trung ương Mediplantex có thành phần chính là&nbsp;Berberin Clorid,&nbsp;bột rễ mộc hương được chỉ định trong điều trị viêm đại tràng, chữa ỉa chảy, lỵ, rối loạn tiêu hóa.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc <a href=\"https://nhathuoclongchau.com.vn/thuoc/antesik-mediplantex-10x4-32899.html\">Antesik</a> Mediplantex dùng trong các trường hợp sau:</p><ul><li>Điều trị <a href=\"https://nhathuoclongchau.com.vn/benh/viem-dai-trang-1309.html\">viêm đại tràng</a>.</li><li>Chữa ỉa chảy, lỵ, <a href=\"https://nhathuoclongchau.com.vn/benh/roi-loan-tieu-hoa-210.html\">rối loạn tiêu hóa</a>.</li></ul><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 67492,
+      "ingredientId": 10692,
+      "shortDescription": "50mg",
+      "name": "Berberin Clorid",
+      "isPrimary": true,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

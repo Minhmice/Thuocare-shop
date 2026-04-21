@@ -1,0 +1,44 @@
+{
+  "id": "00501719",
+  "slug": "thuoc/-35860.html",
+  "title": "Thuốc Macetux 200 Hasan điều trị rối loạn tiết dịch phế quản (30 gói x 1g)",
+  "short_title": "MACETUX 200MG HASAN 30 GÓI X 1G",
+  "brand": {
+    "name": "Hasan",
+    "slug": "thuong-hieu/hasan",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-ho-hap/thuoc-tri-ho-cam",
+    "name": "Thuốc trị ho cảm",
+    "parent_slug": "thuoc/thuoc-ho-hap"
+  },
+  "price_amount": 1200,
+  "compare_at_amount": 0,
+  "unit": "Gói",
+  "pack_note": "30 Gói x 1g",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/macetux_8abea9bef3.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/macetux_8abea9bef3.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Cốm pha dung dịch uống",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Macetux 200 là sản phẩm của Hasan, có thành phần chính là Acetylcysteine. Đây là thuốc được sử dụng để điều trị rối loạn tiết dịch phế quản, đặc biệt trong các rối loạn phế quản cấp tính: Viêm phế quản cấp và đợt cấp của bệnh phổi mạn tính.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc Macetux 200 được chỉ định dùng trong các trường hợp sau:</p><ul><li>Điều trị rối loạn tiết dịch phế quản, đặc biệt trong các rối loạn phế quản cấp tính: Viêm phế quản cấp và đợt cấp của bệnh phổi mạn tính.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 36073,
+      "ingredientId": 7376,
+      "shortDescription": "200mg",
+      "name": "Acetylcysteine",
+      "isPrimary": false,
+      "slug": "thanh-phan/acetylcysteine"
+    }
+  ],
+  "stock_qty": 0
+}

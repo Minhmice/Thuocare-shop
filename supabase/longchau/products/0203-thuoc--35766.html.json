@@ -1,0 +1,44 @@
+{
+  "id": "00501625",
+  "slug": "thuoc/-35766.html",
+  "title": "Thuốc Axitan 40mg Actavis điều trị trào ngược dạ dày - thực quản (3 vỉ x 10 viên)",
+  "short_title": "AXITAN 40MG ENTERIC COATED TABLETS 3X10",
+  "brand": {
+    "name": "Actavis",
+    "slug": "thuong-hieu/actavis",
+    "country": "Hoa Kỳ"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-da-day",
+    "name": "Thuốc dạ dày",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/axitan_97755935f1.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/axitan_97755935f1.jpg"
+  ],
+  "origin_label": "Hoa Kỳ",
+  "country": "Hoa Kỳ",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao tan trong ruột",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Axitan 40mg là sản phẩm của BALKANPHARMA, có thành phần chính là Pantoprazol. Đây là thuốc được sử dụng để điều trị trào ngược dạ dày - thực quản, kết hợp với các liệu pháp kháng sinh phù hợp để diệt Helicobacter Pylori ở bệnh nhân loét liên quan đến H. Pylori, loét dạ dày - tá tràng, ội chứnhg Zollinger Ellision và các tình trạng tăng tiết bệnh lý khác.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc Axitan 40mg được chỉ định dùng trong các trường hợp sau:</p><p dir=\"ltr\"><i>Người lớn và trẻ em từ 12 tuổi trở lên:</i></p><ul><li>Trào ngược dạ dày - thực quản.</li></ul><p><i>Người lớn:</i></p><ul><li>Kết hợp với các liệu pháp kháng sinh phù hợp để diệt Helicobacter Pylori ở bệnh nhân loét liên quan đến H. Pylori.</li><li>Loét dạ dày - tá tràng.</li><li>Hội chứng Zollinger Ellision và các tình trạng tăng tiết bệnh lý khác.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 67540,
+      "ingredientId": 31504,
+      "shortDescription": "40mg",
+      "name": "Pantoprazol",
+      "isPrimary": true,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

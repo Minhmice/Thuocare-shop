@@ -1,0 +1,53 @@
+{
+  "id": "00501774",
+  "slug": "thuoc/levocozate-5mg-standard-chem-hop-10-vi-x-10-vien-35941.html",
+  "title": "Thuốc Levocozate 5mg dùng trong điều trị viêm mũi dị ứng theo mùa, dị ứng kinh niên, nổi mề đay tự phát (10 vỉ x 10 viên)",
+  "short_title": "LEVOCOZATE 5MG STANDARD CHEM 10X10",
+  "brand": {
+    "name": "Standard Chem & Pharm",
+    "slug": "thuong-hieu/standard-chem-pharm",
+    "country": "Đài Loan"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-di-ung/thuoc-chong-di-ung",
+    "name": "Thuốc chống dị ứng",
+    "parent_slug": "thuoc/thuoc-di-ung"
+  },
+  "price_amount": 3200,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/1_99c2dcfeb5.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/1_99c2dcfeb5.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/2_06d0c0f819.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/3_847311ab66.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/4_7054c08dd3.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/6_b923f5b507.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/7_e4ed8af827.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/8_a112aa1144.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/9_acfca04ee3.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/levocozate_5mg_1_0e9e4d33cf.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/levocozate_5mg_2_2d6b274a12.jpg"
+  ],
+  "origin_label": "Đài Loan",
+  "country": "Đài Loan",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Levocozate dùng trong điều trị viêm mũi dị ứng theo mùa, viêm mũi dị ứng kinh niên (xảy ra suốt năm do các dị ứng như vật nuôi, bụi), nổi mề đay tự phát kinh niên (nổi mẩn ngứa liên tục mà không biết rõ nguyên nhân).</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Levocozate chỉ định điều trị trong các trường hợp sau:</p><ul><li><a href=\"https://nhathuoclongchau.com.vn/benh/viem-mui-di-ung-473.html\">Viêm mũi dị ứng</a> theo mùa.</li><li>Viêm mũi dị ứng kinh niên (xảy ra suốt năm do các dị ứng như vật nuôi, bụi).</li><li><a href=\"https://nhathuoclongchau.com.vn/benh/me-day-527.html\">Nổi mề đay</a> tự phát kinh niên (nổi mẩn ngứa liên tục mà không biết rõ nguyên nhân).</li></ul><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 62342,
+      "ingredientId": 42177,
+      "shortDescription": "5mg",
+      "name": "Levocetirizin dihydroclorid",
+      "isPrimary": true,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

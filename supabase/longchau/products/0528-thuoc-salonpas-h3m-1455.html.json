@@ -1,0 +1,52 @@
+{
+  "id": "00009914",
+  "slug": "thuoc/salonpas-h3m-1455.html",
+  "title": "Cao dán giảm đau Salonpas Pain Relief Patch dùng trong các cơn đau vai, đau cổ (7cm x 10 cm - 3 miếng)",
+  "short_title": "SALONPAS PAIN RELIEF 3 MIẾNG",
+  "brand": {
+    "name": "Hisamitsu",
+    "slug": "thuong-hieu/hisamitsu",
+    "country": "Nhật Bản"
+  },
+  "category": {
+    "slug": "thuoc/mieng-dan-cao-xoa-dau/mieng-dan-giam-dau",
+    "name": "Miếng dán giảm đau",
+    "parent_slug": "thuoc/mieng-dan-cao-xoa-dau"
+  },
+  "price_amount": 30000,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 3 Miếng",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00009914_salonpas_h3m_7198_6098_large_7011309497.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00009914_salonpas_h3m_7198_6098_large_7011309497.jpg"
+  ],
+  "origin_label": "Nhật Bản",
+  "country": "Nhật Bản",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Miếng dán",
+  "trust_label": null,
+  "short_description": "<p>Salonpas® Pain Relief Patch của công ty TNHH dược phẩm Hisamitsu Việt Nam, thành phần chính methyl salicylate, ℓ - menthol, là thuốc dùng giảm đau, kháng viêm trong các cơn đau liên quan đến: Đau cổ, đau vai, đau khớp, viêm khớp, đau lưng, căng cơ, bầm tím, bong gân.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p>Thuốc Salonpas® Pain Relief Patch được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>\n\t<p>Đau cổ.</p>\n\t</li>\n\t<li>\n\t<p>Đau vai. </p>\n\t</li>\n\t<li>\n\t<p>Đau khớp. </p>\n\t</li>\n\t<li>\n\t<p><strong><a href=\"https://nhathuoclongchau.com.vn/benh/viem-khop-253.html\">Viêm khớp</a></strong>. </p>\n\t</li>\n\t<li>\n\t<p>Đau lưng. </p>\n\t</li>\n\t<li>\n\t<p>Căng cơ. </p>\n\t</li>\n\t<li>\n\t<p>Bầm tím. </p>\n\t</li>\n\t<li>\n\t<p>Bong gân.</p>\n\t</li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p>Nhiều tác động kích thích dây chuyền được chỉ định rõ trong tác dụng giảm đau. Thuốc kháng viêm dạng Non - steroidal (NSAIDs).</p>\n\n<h3>Dược động học</h3>\n\n<p>Hấp thu qua da.</p>",
+  "ingredients_html": [
+    {
+      "id": 24185,
+      "ingredientId": 27306,
+      "shortDescription": "10%",
+      "name": "Methyl Salicylat",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 24186,
+      "ingredientId": 26940,
+      "shortDescription": "3%",
+      "name": "Menthol",
+      "isPrimary": false,
+      "slug": "thanh-phan/menthol"
+    }
+  ],
+  "stock_qty": 0
+}

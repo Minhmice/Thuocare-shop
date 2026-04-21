@@ -1,0 +1,108 @@
+{
+  "id": "00007313",
+  "slug": "thuoc/thong-xoang-tan-ho-tro-dieu-tri-viem-xoang-252.html",
+  "title": "Thuốc Thông Xoang Tán Nam Dược điều trị viêm xoang mãn tính (50 viên)",
+  "short_title": "THÔNG XOANG TÁN ND 50V",
+  "brand": {
+    "name": "Nam Dược",
+    "slug": "thuong-hieu/nam-duoc",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-mat-tai-mui-hong/thuoc-tri-viem-xoang",
+    "name": "Thuốc trị viêm xoang",
+    "parent_slug": "thuoc/thuoc-mat-tai-mui-hong"
+  },
+  "price_amount": 125000,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 50 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6737_7094894b19.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6737_7094894b19.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6732_2d07ffbca8.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6733_35bec3f9ce.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6734_2dca2ecdfa.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6735_99a4bbbd41.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6736_ac111aa1ed.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6738_959a2fa1f4.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6742_a7f9e8911f.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/thong_xoang_tan_5ed398eb69.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang cứng",
+  "trust_label": null,
+  "short_description": "<p><a href=\"https://nhathuoclongchau.com.vn/thuoc/thong-xoang-tan-ho-tro-dieu-tri-viem-xoang-252.html\"><strong>Thông xoang tán</strong></a><strong> Nam Dược</strong> là sản phẩm của <i>Công ty TNHH Nam Dược</i> có thành phần chính bạch chỉ (radix angelicae dahuricae), tân di (flos magnoliae), cảo bản (rhizoma et radix ligustici), phòng phong (radix saposhnikoviae), tế tân (herba asari), thăng ma (rhizoma cimicifugae), xuyên khung (rhizoma ligustici wallichii), cam thảo (radix glycyrrhizae)&nbsp;là thuốc điều trị viêm mũi dị ứng, viêm mũi dị ứng do thời thay đổi, viêm xoang cấp và mãn tính, ngăn ngừa tái phát viêm xoang.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3><p><strong>Thuốc Thông xoang tán Nam Dược</strong> được chỉ định dùng trong trường hợp sau:</p><p>Điều trị viêm mũi, <a href=\"https://nhathuoclongchau.com.vn/benh/viem-xoang-man-tinh-481.html\">viêm xoang mãn tính</a> và ngăn ngừa tái phát.</p><p>Dùng cho bệnh nhân bị viêm xoang cấp và mãn tính, viêm mũi dị ứng có các biểu hiện:</p><p>Đau nhức ê ẩm vùng đầu, trán, hoặc vùng mặt.</p><p>Ngạt, tắc mũi, chảy nước mũi lúc đầu dịch loãng sau đặc và có màu vàng hoặc xanh.</p><p>Ho từng cơn và khạc nhổ ra đờm có màu.</p><p>Dùng cho người đang điều trị <a href=\"https://nhathuoclongchau.com.vn/benh/viem-mui-di-ung-473.html\">viêm mũi dị ứng</a> do thời tiết thay đổi.</p>",
+  "ingredients_html": [
+    {
+      "id": 48160,
+      "ingredientId": 38062,
+      "shortDescription": "200mg",
+      "name": "Thăng ma",
+      "isPrimary": false,
+      "slug": "thanh-phan/thang-ma"
+    },
+    {
+      "id": 48161,
+      "ingredientId": 32396,
+      "shortDescription": "200mg",
+      "name": "Phòng phong",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 48162,
+      "ingredientId": 12643,
+      "shortDescription": "200mg",
+      "name": "Cảo bản",
+      "isPrimary": false,
+      "slug": "thanh-phan/cao-ban"
+    },
+    {
+      "id": 48163,
+      "ingredientId": 40801,
+      "shortDescription": "100mg",
+      "name": "Xuyên khung",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 48164,
+      "ingredientId": 10072,
+      "shortDescription": "300mg",
+      "name": "Bạch chỉ",
+      "isPrimary": false,
+      "slug": "thanh-phan/bach-chi"
+    },
+    {
+      "id": 48165,
+      "ingredientId": 37619,
+      "shortDescription": "200mg",
+      "name": "Tế tân",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 48166,
+      "ingredientId": 37438,
+      "shortDescription": "200mg",
+      "name": "Tân di",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 48167,
+      "ingredientId": 12473,
+      "shortDescription": "100mg",
+      "name": "Cam thảo",
+      "isPrimary": false,
+      "slug": "thanh-phan/cam-thao"
+    }
+  ],
+  "stock_qty": 0
+}

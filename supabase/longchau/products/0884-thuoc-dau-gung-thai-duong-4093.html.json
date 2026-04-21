@@ -1,0 +1,108 @@
+{
+  "id": "00002233",
+  "slug": "thuoc/dau-gung-thai-duong-4093.html",
+  "title": "Dầu gừng Thái Dương điều trị đau đầu, đau lưng, đau dây thần kinh vai gáy (24ml)",
+  "short_title": "DẦU GỪNG TD 24ML",
+  "brand": {
+    "name": "Sao Thái Dương",
+    "slug": "thuong-hieu/sao-thai-duong",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/mieng-dan-cao-xoa-dau/dau-nong-xoa-bop",
+    "name": "Dầu nóng xoa bóp",
+    "parent_slug": "thuoc/mieng-dan-cao-xoa-dau"
+  },
+  "price_amount": 80000,
+  "compare_at_amount": 0,
+  "unit": "Chai",
+  "pack_note": "Chai x 24ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07690_1bb40ff95c.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07690_1bb40ff95c.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07685_e47d152295.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07684_a1600a20be.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07686_5ba3104ab1.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07687_b9e76dfb18.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07688_5afe961b28.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07689_91f3de6e76.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07691_43b6707508.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/dau_mu_u_thai_duong_24_ml_4794747473.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dạng dầu",
+  "trust_label": null,
+  "short_description": "<p>Dầu gừng Thái Dương là sản phẩm của Công ty Sao Thái Dương Việt Nam. Thành phần chính là dịch chiết gừng, menthol và methyl salicylate. Sản phẩm được sử dụng cho các trường hợp đau đầu, đau lưng, đau dây thần kinh, đau vai gáy, đau nhức do phong thấp, lòng bàn chân, bàn tay lạnh giá, tê, mỏi; cảm cúm, ngạt mũi, sổ mũi, đau bụng lạnh, buồn nôn do cảm gió, cảm lạnh, say tàu xe, ngứa do muỗi đốt, côn trùng cắn.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc dầu gừng Thái Dương được chỉ định dùng trong các trường hợp sau:</p><ul><li>Đau đầu, đau lưng, đau dây thần kinh, đau vai gáy, đau nhức do phong thấp, lòng bàn chân, bàn tay lạnh giá, tê, mỏi.</li><li>Cảm cúm, ngạt mũi, sổ mũi, đau bụng lạnh, buồn nôn do cảm gió, cảm lạnh, say tàu xe, ngứa do muỗi đốt, côn trùng cắn.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 40442,
+      "ingredientId": 21825,
+      "shortDescription": "12g",
+      "name": "Gừng",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 40443,
+      "ingredientId": 38658,
+      "shortDescription": "0.96ml",
+      "name": "Tinh dầu bạc hà",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 40444,
+      "ingredientId": 27307,
+      "shortDescription": "4.8g",
+      "name": "Methyl salicylate",
+      "isPrimary": false,
+      "slug": "thanh-phan/methyl-salicylate"
+    },
+    {
+      "id": 40445,
+      "ingredientId": 25837,
+      "shortDescription": "0.48ml",
+      "name": "Long não",
+      "isPrimary": false,
+      "slug": "thanh-phan/long-nao"
+    },
+    {
+      "id": 40446,
+      "ingredientId": 38695,
+      "shortDescription": "0.48ml",
+      "name": "Tinh dầu quế",
+      "isPrimary": false,
+      "slug": "thanh-phan/tinh-dau-que"
+    },
+    {
+      "id": 40447,
+      "ingredientId": 38684,
+      "shortDescription": "0.24ml",
+      "name": "Tinh dầu hương nhu",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 40448,
+      "ingredientId": 26940,
+      "shortDescription": "6.96g",
+      "name": "Menthol",
+      "isPrimary": false,
+      "slug": "thanh-phan/menthol"
+    },
+    {
+      "id": 40449,
+      "ingredientId": 38709,
+      "shortDescription": "0.96ml",
+      "name": "Tinh dầu tràm",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

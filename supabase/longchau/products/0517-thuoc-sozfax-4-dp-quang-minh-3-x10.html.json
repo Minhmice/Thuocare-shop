@@ -1,0 +1,44 @@
+{
+  "id": "00040025",
+  "slug": "thuoc/sozfax-4-dp-quang-minh-3-x10.html",
+  "title": "Thuốc Sozfax4 Quang Minh sử dụng trong trường hợp viêm xương khớp và viêm khớp dạng thấp (3 vỉ x 10 viên)",
+  "short_title": "SOZFAX 4 DP QUANG MINH 3X10",
+  "brand": {
+    "name": "Quang Minh",
+    "slug": "thuong-hieu/quang-minh",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem/thuoc-giam-dau-khang-viem",
+    "name": "Thuốc giảm đau kháng viêm",
+    "parent_slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00040025_7eec87bb62.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00040025_7eec87bb62.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Sozfax 4 là sản phẩm của Công ty Cổ phần Thương mại Dược phẩm Quang Minh, có thành phần chính là. Đây là thuốc được sử dụng trong trường hợp bệnh nhân bị đau và viêm ở trong bệnh viêm xương khớp và viêm khớp dạng thấp; trường hợp bị đau thắt lưng, viêm cột sống khớp cứng và viêm khớp ở dạng gout.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc Sozfax 4 được chỉ định dùng trong các trường hợp sau:</p><ul><li>Bệnh nhân bị đau và viêm ở trong bệnh viêm xương khớp và viêm khớp dạng thấp.</li><li>Trường hợp bị đau thắt lưng, viêm cột sống khớp cứng và viêm khớp ở dạng gout.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 60477,
+      "ingredientId": 25891,
+      "shortDescription": "4mg",
+      "name": "Lornoxicam",
+      "isPrimary": true,
+      "slug": "thanh-phan/lornoxicam"
+    }
+  ],
+  "stock_qty": 0
+}

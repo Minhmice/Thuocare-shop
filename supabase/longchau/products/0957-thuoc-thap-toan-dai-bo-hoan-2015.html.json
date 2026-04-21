@@ -1,0 +1,121 @@
+{
+  "id": "00007287",
+  "slug": "thuoc/thap-toan-dai-bo-hoan-2015.html",
+  "title": "Thuốc Thập Toàn Đại Bổ Traphaco bổ khí huyết điều trị các chứng khí huyết hư, đánh trống ngực (1 vỉ x 10 viên)",
+  "short_title": "HOÀN THẬP TOÀN ĐẠI BỔ 1X10",
+  "brand": {
+    "name": "Traphaco",
+    "slug": "thuong-hieu/traphaco",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-noi-tiet-to",
+    "name": "Thuốc nội tiết tố",
+    "parent_slug": "thuoc/thuoc-tiet-nieu-sinh-duc"
+  },
+  "price_amount": 55000,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 1 Vỉ x 10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007287_thap_toan_dai_bo_hoan_1753_5b7f_large_d068b4b021.JPG",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007287_thap_toan_dai_bo_hoan_1753_5b7f_large_d068b4b021.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007287_thap_toan_dai_bo_hoan_5788_5b7f_large_e2c0d265bb.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007287_thap_toan_dai_bo_hoan_3006_5b7f_large_e864fe8181.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007287_thap_toan_dai_bo_hoan_5443_5b7f_large_035006cdbe.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007287_thap_toan_dai_bo_hoan_8158_5b7f_large_2df94f17cd.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007287_thap_toan_dai_bo_hoan_9475_5b7f_large_d22919f3b7.JPG"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang mềm",
+  "trust_label": null,
+  "short_description": "<p><strong>Thập toàn đại bổ hoàn</strong> của <em>Công ty Cổ phần Công nghệ cao Traphaco</em>, thành phần chính là bột thập toàn đại bổ (5,1g), là thuốc ổn bổ khí huyết điều trị các chứng khí huyết hư, đánh trống ngực, kinh nguyệt ra nhiều.</p>\n\n<p>Thập toàn đại bổ hoàn được bào chế dưới dạng viên hoàn mềm 10 g, quy cách đóng gói gồm 1 vỉ 10 viên.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p><strong>Thuốc thập toàn đại bổ hoàn</strong> được chỉ định dùng trong trường hợp sau:</p>\n\n<ul>\n\t<li>Ðiều trị khí và huyết đều hư, sắc mặt trắng xanh, hơi thở ngắn, đánh trống ngực, <strong><a href=\"https://nhathuoclongchau.com.vn/benh/hoa-mat-chong-mat-14.html\">chóng mặt</a></strong>, dễ ra mồ hôi, sức yếu, mệt mỏi, tay chân không ấm, kinh nguyệt ra nhiều.</li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p>Chưa có báo cáo.</p>\n\n<h3>Dược động học</h3>\n\n<p>Chưa có báo cáo.</p>",
+  "ingredients_html": [
+    {
+      "id": 23491,
+      "ingredientId": 34076,
+      "shortDescription": "0.24g",
+      "name": "Quế nhục",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 23492,
+      "ingredientId": 22437,
+      "shortDescription": "0.45g",
+      "name": "Hoàng kỳ",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 23493,
+      "ingredientId": 10131,
+      "shortDescription": "0.6g",
+      "name": "Bạch thược",
+      "isPrimary": false,
+      "slug": "thanh-phan/bach-thuoc"
+    },
+    {
+      "id": 23494,
+      "ingredientId": 38361,
+      "shortDescription": "1g",
+      "name": "Thục địa",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 23495,
+      "ingredientId": 40801,
+      "shortDescription": "0.3g",
+      "name": "Xuyên khung",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 23496,
+      "ingredientId": 10112,
+      "shortDescription": "0.65g",
+      "name": "Bạch linh",
+      "isPrimary": false,
+      "slug": "thanh-phan/bach-linh"
+    },
+    {
+      "id": 23497,
+      "ingredientId": 16671,
+      "shortDescription": "1g",
+      "name": "Đảng Sâm",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 23498,
+      "ingredientId": 18784,
+      "shortDescription": "0.6g",
+      "name": "Đương quy",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 23499,
+      "ingredientId": 10138,
+      "shortDescription": "0.65g",
+      "name": "Bạch truật",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 23500,
+      "ingredientId": 12473,
+      "shortDescription": "0.12g",
+      "name": "Cam thảo",
+      "isPrimary": false,
+      "slug": "thanh-phan/cam-thao"
+    }
+  ],
+  "stock_qty": 0
+}

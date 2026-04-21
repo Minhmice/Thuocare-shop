@@ -1,0 +1,46 @@
+{
+  "id": "00007134",
+  "slug": "thuoc/tacroz-forte-2090.html",
+  "title": "Thuốc mỡ Tacroz Forte 0.1% Glenmark điều trị viêm da dị ứng (10g)",
+  "short_title": "TACROZ FORTE 0.1% 10G",
+  "brand": {
+    "name": "Glenmark",
+    "slug": "thuong-hieu/glenmark",
+    "country": "Ấn Độ"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-da-lieu/thuoc-boi-ngoai-da",
+    "name": "Thuốc bôi ngoài da",
+    "parent_slug": "thuoc/thuoc-da-lieu"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Tuýp",
+  "pack_note": "Tuýp x 10g",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/tacroz_0_8f1822496f.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/tacroz_0_8f1822496f.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007134_tacroz_forte_1630405920_ad95a0baa2.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007134_tacroz_forte_4453_612e_large_c5cc95ce0f.jpg"
+  ],
+  "origin_label": "Ấn Độ",
+  "country": "Ấn Độ",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Thuốc mỡ",
+  "trust_label": null,
+  "short_description": "<p><strong>Thuốc Tacroz Forte</strong> do <i>công ty Glenmark Pharm., Ltd</i> – Ấn Độ&nbsp;nghiên cứu và sản xuất, có hoạt chất chính là <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/tacrolimus\"><strong>tacrolimus</strong></a> được sử dụng ngoài da để điều trị viêm da dị ứng ở những bệnh nhân không đáp ứng tốt với hoặc không nên sử dụng các loại thuốc chữa viêm da dị ứng khác. Bệnh viêm da dị còn gọi là chàm là một tình trạng dị ứng gây ra đỏ da, kích ứng và ngứa.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3><p><strong>Thuốc Tacroz Forte</strong> được chỉ định dùng trong các trường hợp sau:</p><ul><li>Ðiều trị đợt bùng phát: Người lớn và thanh thiếu niên (16 tuổi trở lên): Thuốc mỡ tacrolimus 0,1% được chỉ định để điều trị <a href=\"https://nhathuoclongchau.com.vn/benh/viem-da-co-dia-535.html\"><strong>viêm da cơ địa</strong></a> vừa đến nặng ở người lớn đáp ứng không đầy đủ hoặc không dung nạp các liệu pháp điều tri truyền thống như corticosteroid dùng tại chỗ.&nbsp;</li><li>Điều trị duy trì: Điều trị viêm da cơ địa vừa đến nặng để phòng đợt bùng phát và kéo dài khoảng thời gian không có đợt bùng phát ở bệnh nhân có tần suất phát bệnh cao (ví dụ xảy ra 4 lần hoặc nhiều hơn mỗi năm) có đáp ứng ban đầu với tối đa 6 tuần điều trị thuốc mở tacrolimus 2 lần mỗi ngày (sạch thương tổn, hầu như sạch hoặc chỉ còn thương tổn nhẹ).</li></ul><h3><strong>Dược lực học</strong></h3><p>Cơ chế hoạt động của <i>tacrolimus</i> trong viêm da dị ứng chưa được hiểu đầy đủ. Trong khi những điều sau đây đã được quan sát, ý nghĩa lâm sàng của những quan sát này trong bệnh viêm da dị ứng vẫn chưa được biết đến.</p><p>Thông qua liên kết của nó với một miễn dịch tế bào chất cụ thể (FKBP12), tacrolimus ức chế các con đường dẫn truyền tín hiệu phụ thuộc canxi trong tế bào T, do đó ngăn chặn sự phiên mã và tổng hợp IL - 2, IL - 3, IL - 4, IL - 5 và các tế bào khác như dưới dạng GM - CSF, TNF - α và IFN - γ.</p><h3><strong>Dược động học</strong></h3><p><i>Hấp thu</i></p><p>Tacrolimus hấp thu ít hoặc không hấp thu vào máu sau khi bôi ngoài da liều đơn hay lặp lại thuốc mỡ tacrolimus.</p><p><i>Phân bố</i></p><p>Sau khi bôi thuốc mỡ tacrolimus tại chỗ, tacrolimus được đưa vào da một cách chọn lọc với sự khuếch tán tối thiểu vào hệ tuần hoàn.</p><p><i>Chuyển hóa</i></p><p>Sự chuyển hóa của tacrolimus qua da người không được phát hiện. Tacrolimus có sẵn trong hệ thống được chuyển hóa nhiều ở gan qua CYP3A4.</p><p><i>Thải trừ</i></p><p>Sau khi bôi thuốc mỡ nhiều lần, thời gian bán hủy trung bình của tacrolimus được ước tính là 75 giờ đối với người lớn và 65 giờ đối với trẻ em.</p>",
+  "ingredients_html": [
+    {
+      "id": 23438,
+      "ingredientId": 37347,
+      "shortDescription": "0.1%",
+      "name": "Tacrolimus",
+      "isPrimary": false,
+      "slug": "thanh-phan/tacrolimus"
+    }
+  ],
+  "stock_qty": 0
+}

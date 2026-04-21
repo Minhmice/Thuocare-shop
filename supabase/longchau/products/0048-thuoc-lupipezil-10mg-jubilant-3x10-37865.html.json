@@ -1,0 +1,44 @@
+{
+  "id": "00503550",
+  "slug": "thuoc/lupipezil-10mg-jubilant-3x10-37865.html",
+  "title": "Thuốc Lupipezil 10mg Jubilant điều trị triệu chứng giảm trí nhớ (3 vỉ x 10 viên)",
+  "short_title": "LUPIPEZIL 10MG JUBILANT 3X10",
+  "brand": {
+    "name": "JUBILANT",
+    "slug": "thuong-hieu/jubilant",
+    "country": "Ấn Độ"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-than-kinh/thuoc-than-kinh",
+    "name": "Thuốc thần kinh",
+    "parent_slug": "thuoc/thuoc-than-kinh"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/lupi_f65b588eec.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/lupi_f65b588eec.jpg"
+  ],
+  "origin_label": "Ấn Độ",
+  "country": "Ấn Độ",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Lupipezil là sản phẩm của Jubilant Life Sciences Ltd (Ấn Độ) chứa hoạt chất Donepezil hydrocholiride dùng trong điều trị triệu chứng giảm trí nhớ ở mức độ nhẹ hoặc vừa trong bệnh Alzheimer.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Lupipezil chỉ định dùng trong điều trị triệu chững giảm trí nhớ ở mức độ nhẹ hoặc vừa trong bệnh Alzheimer.</p><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 48035,
+      "ingredientId": 18473,
+      "shortDescription": "10mg",
+      "name": "Donepezil",
+      "isPrimary": false,
+      "slug": "thanh-phan/donepezil"
+    }
+  ],
+  "stock_qty": 0
+}

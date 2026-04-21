@@ -1,0 +1,44 @@
+{
+  "id": "00044230",
+  "slug": "thuoc/lovastatin-dwp-10-mg-wealpha-6-x10.html",
+  "title": "Thuốc Lovastatin Dwp 10mg Wealphar hỗ trợ điều trị tăng cholesterol máu tiên phát (6 vỉ x 10 viên)",
+  "short_title": "LOVASTATIN DWP 10MG WEALPHA 6X10",
+  "brand": {
+    "name": "Wealphar",
+    "slug": "thuong-hieu/wealphar",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tri-mo-mau",
+    "name": "Thuốc trị mỡ máu",
+    "parent_slug": "thuoc/thuoc-tim-mach-and-mau"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/lovastatin_75f2c84eef.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/lovastatin_75f2c84eef.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Lovastatin DWP 10 là sản phẩm của Công ty Cổ phần Dược phẩm Wealphar, có thành phần chính là Lovastatin. Đây là thuốc được sử dụng để kết hợp với các biện pháp ăn uống trong điều trị tăng cholesterol máu tiên phát, dự phòng các biến cố trên tim mạch, điều trị xơ vữa động mạch.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc Lovastatin DWP 10 được chỉ định dùng trong các trường hợp sau:</p><ul><li>Điều trị bằng lovastatin nên là một thành phần của sự can thiệp nhiều yếu tố nguy cơ ở người mắc chứng rối loạn lipid máu có nguy cơ mắc bệnh &nbsp;mạch máu xơ vữa động mạch.</li><li>Dự phòng tiên phát bệnh tim mạch vành: Người không có bệnh tim mạch có triệu chứng, giá trị trung bình cholesterol toàn phần và LDL-C tăng vừa và HDL-C thấp, lovastatin được chỉ định để giảm nguy cơ :Nhồi máu cơ tim, đau thắt ngực không ổn định, thủ tục tái tưới máu mạch vành</li><li>Bệnh tim mạch vành: Lovastatin được chỉ định để làm chậm sự tiến triển của xơ vữa động mạch vành ở bệnh nhân mắc bệnh tim mạch vành như là một phần của chiến lược điều trị để giảm cholesterol toàn phần và LDL- xuống mức mục tiêu.</li><li>Tăng cholesterol máu: Điều trị bằng các chất biến đổi lipid nên là một thành phần của sự can thiệp nhiều yếu tố nguy cơ ở người có nguy cơ mắc bệnh mạch máu xơ vữa động mạch do tăng cholesterol máu. Lovastatin được chỉ định như là một biện pháp bổ sung cho chế độ ăn kiêng để giảm nồng độ cholesterol toàn phần và LDL-C ở bệnh nhân bị tăng cholesterol máu nguyên phát.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 65273,
+      "ingredientId": 25907,
+      "shortDescription": "10mg",
+      "name": "Lovastatin",
+      "isPrimary": true,
+      "slug": "thanh-phan/lovastatin"
+    }
+  ],
+  "stock_qty": 0
+}

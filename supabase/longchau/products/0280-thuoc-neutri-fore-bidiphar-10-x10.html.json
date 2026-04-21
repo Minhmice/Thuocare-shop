@@ -1,0 +1,60 @@
+{
+  "id": "00045103",
+  "slug": "thuoc/neutri-fore-bidiphar-10-x10.html",
+  "title": "Thuốc Neutri Fore Bidiphar bổ sung một số loại vitamin nhóm B (10 vỉ x 10 viên)",
+  "short_title": "NEUTRI FORE BIDIPHAR 10X10",
+  "brand": {
+    "name": "Bidiphar",
+    "slug": "thuong-hieu/bidiphar",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+    "name": "Thuốc bổ",
+    "parent_slug": "thuoc/thuoc-bo-and-vitamin"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00045103_NEUTRI_FORE_BIDIPHAR_10_X10_0881714c34.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00045103_NEUTRI_FORE_BIDIPHAR_10_X10_0881714c34.png"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Neutri Fore là sản phẩm của Công ty Cổ phần Dược - Thiết bị y tế Bidiphar chứa hoạt chất vitamin B1, vitamin B6, vitamin B12 giúp bổ sung một số loại vitamin nhóm B giúp cải thiện chức năng của hệ thống thần kinh và tăng cường sức khỏe.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Neutri Fore giúp bổ sung một số loại vitamin nhóm B giúp cải thiện chức năng của hệ thống thần kinh và tăng cường sức khỏe.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 17019,
+      "ingredientId": 42283,
+      "shortDescription": "250mg",
+      "name": "Thiamin mononitrat",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 17020,
+      "ingredientId": 42319,
+      "shortDescription": "250mg",
+      "name": "Pyridoxin HCl",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 17021,
+      "ingredientId": 16264,
+      "shortDescription": "1000mcg",
+      "name": "Cyanocobalamin",
+      "isPrimary": false,
+      "slug": "thanh-phan/cyanocobalamin"
+    }
+  ],
+  "stock_qty": 0
+}

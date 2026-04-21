@@ -1,0 +1,48 @@
+{
+  "id": "00011287",
+  "slug": "thuoc/suncurmin-1124.html",
+  "title": "Thuốc Suncurmin Sao Thái Dương điều trị viêm loét dạ dày, hành tá tràng (2 vỉ x 6 viên)",
+  "short_title": "SUNCURMIN TD 2X6",
+  "brand": {
+    "name": "Sao Thái Dương",
+    "slug": "thuong-hieu/sao-thai-duong",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-da-day",
+    "name": "Thuốc dạ dày",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 2 Vỉ x 6 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00011287_suncurmin_7824_5b48_large_6f51df1ebd.JPG",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00011287_suncurmin_7824_5b48_large_6f51df1ebd.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00011287_suncurmin_1619612716_717a05546a.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00011287_suncurmin_9838_5b48_large_1566a905b8.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00011287_suncurmin_3046_5b48_large_a67c2a89c2.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00011287_suncurmin_9568_5b48_large_16d3e58637.JPG"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang cứng",
+  "trust_label": null,
+  "short_description": "<p>Suncurmin của công ty Cổ Phần Sao Thái Dương, thành phần chính curcuminoid (tinh chất nghệ vàng), thuốc được sử dụng để điều trị viêm loét dạ dày, hành tá tràng, ợ hơi, ợ chua, bụng đầy trướng, đau tức thượng vị.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p>Thuốc Suncurmin được chỉ định để điều trị viêm <a href=\"https://nhathuoclongchau.com.vn/benh/loet-da-day-ta-trang-580.html\">loét dạ dày</a>, hành tá tràng, ợ hơi, ợ chua, bụng đầy trướng, đau tức thượng vị.</p>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Chưa có báo cáo.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Chưa có báo cáo.</p>",
+  "ingredients_html": [
+    {
+      "id": 24528,
+      "ingredientId": 41938,
+      "shortDescription": "150mg",
+      "name": "Bột curcumin",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

@@ -1,0 +1,47 @@
+{
+  "id": "00005899",
+  "slug": "thuoc/phileo-5ml-2622.html",
+  "title": "Thuốc nhỏ mắt Phileo SamChunDang điều trị viêm mí mắt, viêm bờ mi (5ml)",
+  "short_title": "PHILEO 5ML",
+  "brand": {
+    "name": "Samchundang Pharm",
+    "slug": "thuong-hieu/samchundang-pharm",
+    "country": "Hàn Quốc"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-mat-tai-mui-hong/thuoc-nho-mat",
+    "name": "Thuốc nhỏ mắt",
+    "parent_slug": "thuoc/thuoc-mat-tai-mui-hong"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Chai",
+  "pack_note": "Chai x 5ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005899_phileo_5ml_7837_60a7_large_7c6f787758.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005899_phileo_5ml_7837_60a7_large_7c6f787758.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005899_phileo_5ml_9683_60a7_large_76c962c692.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005899_phileo_5ml_8305_60a7_large_7cfe46eca5.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005899_phileo_5ml_8369_60a7_large_a55e41a9a8.jpg"
+  ],
+  "origin_label": "Hàn Quốc",
+  "country": "Hàn Quốc",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch",
+  "trust_label": null,
+  "short_description": "<p>Thuốc nhỏ mắt Phileo là sản phẩm của Samchundang Pharm Co., Ltd có thành phần chính là Levofloxacin có tác dụng điều trị viêm mí mắt, viêm bờ mi, viêm tuyến lệ, viêm kết mạc, viêm giác mạc, loét giác mạc, sát khuẩn trong khi mổ mắt.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p>Thuốc nhỏ mắt Phileo có tác dụng điều trị viêm mí mắt, viêm bờ mi, viêm tuyến lệ, viêm kết mạc, viêm giác mạc, loét giác mạc, sát khuẩn trong khi mổ mắt.</p>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Levofloxacin là đồng phân L-isomer của Ofloxacin, một kháng sinh nhóm quinolone và có hoạt lực mạnh gấp 2 lần Ofloxacin. Cơ chế tác dụng của Levofloxacin là do ức chế topoisomerase IV và DNA gynase (cả hai đều là topoisomerase II) là các enzyme cần thiết cho quá trình nhân lên, sao chép, sửa chữa, và tái tổ hợp DNA của vi khuẩn.</p>\n\n<p>Trên in vitro, Levofloxacin có phổ tác dụng rộng đối với các chủng vi khuẩn Gram dương và Gram âm và nồng độ thuốc có tác dụng diệt khuẩn tương đương hoặc cao hơn chút ít so với nồng độ ức chế vi khuẩn.</p>\n\n<p>Trong cả in vitro và nhiễm khuẫn lâm sàng, Levofloxacin có tác dụng đối với hầu hết các chủng vi khuẩn.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Nồng độ trung bình của Levofloxacin trong nước mắt dao động trong khoảng từ 34,9-221,2 microgram/ml sau 60 phút nhỏ thuốc. Nồng độ trung bình của Levofloxacin trong nước mắt đo được sau 4 giờ nhỏ thuốc là 17,0microgram/ml và sau 6 giờ là 6,64microgram/ml.</p>",
+  "ingredients_html": [
+    {
+      "id": 22844,
+      "ingredientId": 25406,
+      "shortDescription": "25mg",
+      "name": "Levofloxacin",
+      "isPrimary": false,
+      "slug": "thanh-phan/levofloxacin"
+    }
+  ],
+  "stock_qty": 0
+}

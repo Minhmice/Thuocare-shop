@@ -1,0 +1,53 @@
+{
+  "id": "00050102",
+  "slug": "thuoc/irbesartan-150-mg-khapharco-10-x10.html",
+  "title": "Thuốc Irbesartan 150mg điều trị tăng huyết áp, bệnh thận do tiểu đường (10 vỉ 10 viên)",
+  "short_title": "IRBESARTAN 150MG KHAPHARCO 10X10",
+  "brand": {
+    "name": "Khapharco",
+    "slug": "thuong-hieu/khapharco",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap",
+    "name": "Thuốc tim mạch huyết áp",
+    "parent_slug": "thuoc/thuoc-tim-mach-and-mau"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03053_722fdd37ce.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03053_722fdd37ce.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03054_26d4df1648.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03055_327f0e055a.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03056_b936372d7b.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03057_907f628649.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03058_2b7518a899.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03059_3d2bdad6b9.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03060_2370f0a4d4.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/irbesartan_1_08d44c2a01.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/irbesartan_2_e324b673ec.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Irbesartan là sản phẩm của Công ty Cổ phần Dược phẩm Khánh Hòa, có thành phần chính là Irbesartan. Đây là thuốc được sử dụng để điều trị tăng huyết áp nguyên phát ở người lớn, điều trị bệnh thận ở những bệnh nhân tăng huyết áp và đái tháo đường tuýp 2 như một phần của liệu pháp điều trị tăng huyết áp.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc <a href=\"https://nhathuoclongchau.com.vn/thuoc/irbesartan-150-mg-khapharco-10-x10.html\">Irbesartan</a> được chỉ định dùng trong các trường hợp sau:</p><ul><li>Điều trị tăng huyết áp nguyên phát ở người lớn.</li><li>Điều trị bệnh thận ở những bệnh nhân <a href=\"https://nhathuoclongchau.com.vn/benh/tang-huyet-ap.html\">tăng huyết áp</a> và <a href=\"https://nhathuoclongchau.com.vn/benh/tieu-duong-tuyp-2.html\">đái tháo đường tuýp 2</a> như một phần của liệu pháp điều trị tăng huyết áp.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 72349,
+      "ingredientId": 23981,
+      "shortDescription": "150mg",
+      "name": "Irbesartan",
+      "isPrimary": true,
+      "slug": "thanh-phan/irbesartan"
+    }
+  ],
+  "stock_qty": 0
+}

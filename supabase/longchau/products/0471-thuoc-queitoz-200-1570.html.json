@@ -1,0 +1,50 @@
+{
+  "id": "00009548",
+  "slug": "thuoc/queitoz-200-1570.html",
+  "title": "Thuốc Queitoz-200 Davipharm điều trị tâm thần phân liệt (4 vỉ x 7 viên)",
+  "short_title": "QUEITOZ 200 DAVIPHARM 4X7",
+  "brand": {
+    "name": "Davipharm",
+    "slug": "thuong-hieu/davipharm",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-than-kinh/thuoc-than-kinh",
+    "name": "Thuốc thần kinh",
+    "parent_slug": "thuoc/thuoc-than-kinh"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "7 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00009548_queitoz_200_1729_5b6a_large_69ed3af350.JPG",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00009548_queitoz_200_1729_5b6a_large_69ed3af350.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00009548_queitoz_200_1628926490_eb1634cd14.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00009548_queitoz_200_5786_5b6a_large_bcd3777e56.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00009548_queitoz_200_5969_5b6a_large_d290e6e697.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00009548_queitoz_200_9815_5b6a_large_6cf2185c51.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00009548_queitoz_200_9858_5b6a_large_1d72767f40.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00009548_queitoz_200_9859_6117_large_3d5e40f594.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén",
+  "trust_label": null,
+  "short_description": "<p><strong>Queitoz - 200</strong> là sản phẩm của <em>Công ty cổ phần dược phẩm Đạt Vi Phú (Davipharm)</em>, thành phần chính là quetiapin fumarat, là thuốc sử dụng để điều trị tâm thần phân liệt và rối loạn lưỡng cực.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p>Thuốc Queitoz - 200 được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>\n\t<p>Điều trị <a href=\"https://nhathuoclongchau.com.vn/benh/tam-than-phan-liet-43.html\">tâm thần phân liệt</a>.</p>\n\t</li>\n\t<li>\n\t<p>Ðiều trị <a href=\"https://nhathuoclongchau.com.vn/benh/roi-loan-cam-xuc-luong-cuc-69.html\">rối loạn lưỡng cực</a>.</p>\n\t</li>\n</ul>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/quetiapine\">Quetiapin</a> là thuốc chống loạn thần không điển hình. Quetiapin và chất chuyển hóa có hoạt tính trong huyết tương, N - desalkyl quetiapin, có tác động trên nhiều loại thụ thể dẫn truyền thần kinh. Quetiapin và N - desalkyl quetiapin có ái lực với thụ thể serotonin (5HT2) ở não và với thụ thể dopamin D1 và D2. Chính tính chọn lọc với thụ thể serotonin (5HT2) ở não cao hơn với thụ thể dopamin D2 được tin là góp phần vào đặc tính chống loạn thần trên lâm sàng và ít nguy cơ tác dụng không mong muốn trên hệ ngoại tháp của Quetiapin.</p>\n\n<p>Ngoài ra, N - desalkyl quetiapin có ái lực cao với chất vận chuyển norepinephrin (NET). Quetiapin và N - desalkyl quetiapin cũng có ái lực cao với thụ thể histaminergic và adrenergic alpha 1, có ái lực thấp hơn với thụ thể adrenergic alpha 2 và serotonin 5HT1A. Quetiapin có ái lực không đáng kể với các thụ thể cholinergic muscarinic hay benzodiazepin.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Quetiapin được hấp thu tốt và chuyển hóa hoàn toàn sau khi uống. Sinh khả dụng của quetiapin không bị ảnh hưởng đáng kể bởi thức ăn. Quetiapin gắn kết khoảng 83% với protein huyết tương. Nồng độ tối đa ở trạng thái ổn định của chất chuyển hóa có hoạt tính N - desalkyl quetiapin bằng 35% nồng độ này của quetiapin. Thời gian bán thải của quetiapin và N - desalkyl quetiapin theo thứ tự khoảng 7 và 12 giờ. Quetiapin và chất chuyển hóa của nó được đào thải qua phân (20%) và nước tiểu (73%).</p>",
+  "ingredients_html": [
+    {
+      "id": 36797,
+      "ingredientId": 34113,
+      "shortDescription": "200mg",
+      "name": "Quetiapine",
+      "isPrimary": false,
+      "slug": "thanh-phan/quetiapine"
+    }
+  ],
+  "stock_qty": 0
+}

@@ -1,0 +1,52 @@
+{
+  "id": "00501125",
+  "slug": "thuoc/thuoc-dieu-tri-viem-loet-da-day-dotioco-duoc-pham-239-hop-30-goi-x-10g-35272.html",
+  "title": "Thuốc Dotioco 23-9 Pharmaceutical điều trị loét dạ dày, tá tràng (30 gói)",
+  "short_title": "DOTIOCO DƯỢC PHẨM 23/9 30 GÓI",
+  "brand": {
+    "name": "23-9 Pharmaceutical",
+    "slug": "thuong-hieu/23-9-pharmaceutical",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-da-day",
+    "name": "Thuốc dạ dày",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 120000,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 30 Gói",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/dotioco_03712ee2dd.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/dotioco_03712ee2dd.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Hỗn dịch uống",
+  "trust_label": null,
+  "short_description": "<p>Dotioco là sản phẩm của Công ty Cổ phần 23 Tháng 9, thành phần chính Nhôm oxyd và Magnesi hydroxid, là thuốc dùng để điều trị loét dạ dày, tá tràng do tăng acid dạ dày; làm dịu các triệu chứng gặp phải khi acid dạ dày tăng như ợ nóng, ợ chua, đầy bụng, khó tiêu; phòng và điều trị vết loét và chảy máu dạ dày-tá tràng gây ra bởi stress; cải thiện tình trạng trào ngược dạ dày-thực quản; phòng ngừa biến chứng xuất huyết tiêu hóa do loét dạ dày-tá tràng.&nbsp;</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc Dotioco được chỉ định dùng trong các trường hợp sau:</p><ul><li>Điều trị loét dạ dày, tá tràng do tăng acid dạ dày.</li><li>Làm dịu các triệu chứng gặp phải khi acid dạ dày tăng như: Ợ nóng, ợ chua, đầy bụng, khó tiêu,...</li><li>Phòng và điều trị vết loét và chảy máu dạ dày-tá tràng gây ra bởi stress.</li><li>Cải thiện tình trạng trào ngược dạ dày-thực quản.</li><li>Phòng ngừa biến chứng xuất huyết tiêu hóa do loét dạ dày-tá tràng.&nbsp;</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 65305,
+      "ingredientId": 29804,
+      "shortDescription": "200mg",
+      "name": "Nhôm oxyd",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 65306,
+      "ingredientId": 26293,
+      "shortDescription": "400mg",
+      "name": "Magnesi hydroxid",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

@@ -1,0 +1,46 @@
+{
+  "id": "00006232",
+  "slug": "thuoc/quinin-sulfat-250mg-2472.html",
+  "title": "Thuốc Quinine Sulphate 250mg Mekophar điều trị sốt rét (180 viên)",
+  "short_title": "QUININE SULPHATE 250 MKP 180V",
+  "brand": {
+    "name": "Mekophar",
+    "slug": "thuong-hieu/mekophar",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-khang-sinh-khang-nam/thuoc-tri-sot-ret",
+    "name": "Thuốc trị sốt rét",
+    "parent_slug": "thuoc/thuoc-khang-sinh-khang-nam"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "180 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006232_d11693f658.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006232_d11693f658.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006232_quinin_sulfat_250mg_1627298240_8da6c4510e.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006232_quinin_sulfat_250mg_7790_60fe_large_71c5cbef9d.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Quinin Sulfat 250 mg của công ty Cổ phần Hoá - Dược phẩm Mekophar, thành phần chính chứa quinin sulfat, là thuốc dùng để trị sốt rét.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p>Thuốc Quinin Sulfat 250 mg được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Ðiều trị sốt rét không biến chứng do P. falciparum.</li>\n\t<li>Sốt rét không biến chứng do P. vivax kháng <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/chloroquine\">cloroquin</a>.</li>\n\t<li>Sốt rét không biến chứng chưa xác nhận được loại ký sinh trùng sốt rét hoặc hỗn hợp.</li>\n</ul>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Quinin có tác dụng chủ yếu diệt nhanh thể phân liệt của Plasmodium falciparum, P. vivax, P. ovale, P. malariae, ít tác dụng lên thể thoa trùng và thể tiền hồng cầu. Thuốc có tác dụng diệt thể giao tử của P. vivax, P. malariae, không có tác dụng diệt thể giao tử của P. falciparum. Do đó không dùng quinin để phòng bệnh.</p>\n\n<p>Quinin độc, tác dụng kém hơn cloroquin trong phòng và điều trị sốt rét nhưng có giá trị đặc biệt để điều trị sốt rét nặng và sốt rét ác tính do P. falciparum kháng cloroquin hoặc do các chủng đa kháng gây ra. </p>\n\n<p>Quinin cũng có thể bị kháng đặc biệt đối với P. falciparum, trong điều trị phải dùng phối hợp với một thuốc diệt thể phân liệt ở máu có tác dụng chậm hơn như sulfadoxin hoặc tetracyclin. </p>\n\n<p>Cơ chế tác dụng của quinin trên ký sinh trùng sốt rét là ngăn cản tổng hợp acid nucleic hoặc giảm chức năng của tiêu thể. Quinin làm giảm hấp thụ oxy và chuyển hóa carbohydrat, xen vào chuỗi ADN, làm gián đoạn quá trình nhân rộng và phiên mã của ký sinh trùng.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Khi uống muối quinin, ở người lớn khỏe mạnh, 76 - 88% thuốc được hấp thu và đạt nồng độ tối đa trong máu sau 1 - 3 giờ. Sự hấp thu thuốc ít bị ảnh hưởng bởi thức ăn nhưng bị chậm bởi các thuốc chống acid chứa nhôm và/hoặc magnesi. </p>\n\n<p>Ở người sốt rét, hấp thu thuốc cao hơn so với người khỏe mạnh, có thể do sốt rét làm suy giảm chức năng gan dẫn đến giảm độ thanh thải toàn bộ cơ thể và giảm thể tích phân bố của thuốc. Hệ số thanh thải giảm nhiều hơn thể tích phân bố nên thời gian bán hủy tăng khoảng 11 - 18 giờ.</p>\n\n<p>Quinin dễ khuếch tán vào các mô của thai nhi, chuyển hóa nhiều ở gan.</p>\n\n<p>Quinin sulfat được chuyển hóa thành 4 chất chính, trong đó, 3-hydroxyquinin là chất chuyển hóa chính có hoạt tính kém hơn quinin sulfat.</p>\n\n<p>Quinin bài tiết chủ yếu qua thận với tỷ lệ từ &lt; 5 - 20% ở dạng không biến đổi. Tăng bài tiết khi nước tiểu acid. Một phần quinin bài tiết vào dịch mật, nước bọt và sữa.</p>",
+  "ingredients_html": [
+    {
+      "id": 23040,
+      "ingredientId": 41963,
+      "shortDescription": "250mg",
+      "name": "Quinin sulfat",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

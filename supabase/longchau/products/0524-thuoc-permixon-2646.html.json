@@ -1,0 +1,49 @@
+{
+  "id": "00005843",
+  "slug": "thuoc/permixon-2646.html",
+  "title": "Thuốc Permixon 160mg Piere Fabre điều trị phì đại lành tính của tuyến tiền liệt (4 vỉ x 15 viên)",
+  "short_title": "PERMIXON 160MG 4X15",
+  "brand": {
+    "name": "Pierre Fabre",
+    "slug": "thuong-hieu/pierre-fabre",
+    "country": "Pháp"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-tri-benh-tuyen-tien-liet",
+    "name": "Thuốc trị bệnh tuyến tiền liệt",
+    "parent_slug": "thuoc/thuoc-tiet-nieu-sinh-duc"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "15 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005843_permixon_8486_5bbc_large_71bc4df45c.JPG",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005843_permixon_8486_5bbc_large_71bc4df45c.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005843_permixon_1625652991_31063414f5.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005843_permixon_3625_5bbc_large_8ed36b2fd5.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005843_permixon_8832_5bbc_large_fd0a5a490d.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005843_permixon_9741_5bbc_large_00a36ebf37.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005843_permixon_1296_5bbc_large_a69b406c41.JPG"
+  ],
+  "origin_label": "Pháp",
+  "country": "Pháp",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang cứng",
+  "trust_label": null,
+  "short_description": "<p><strong>Thuốc Permixon 160mg</strong> được sản xuất bởi <i>Piere Fabre Madicament Production (Pháp)</i>, thành phần chính là Phần chiết lipid-sterol của cây Serenoa repens 160mg (chiết xuất dầu từ quả của Serenoa repens (Baltram) Small, tỷ lệ thuốc/chất chiết xuất 7 – 11:1, dung môi chiết xuất: Hexane), là thuốc được dùng để điều trị những rối loạn tiểu tiện có mức độ trung bình liên quan đến phì đại lành tính của tuyến tiền liệt ở người lớn.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p><strong>Thuốc Permixon 160mg</strong> được chỉ định dùng điều trị những rối loạn tiểu tiện có mức độ trung bình liên quan đến phì đại lành tính của tuyến tiền liệt ở người lớn.</p>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Thí nghiệm trên động vật hoặc trong ống nghiệm với tế bào tuyến tiền liệt cho thấy là phần chiết lipid-sterol của cây Serenoa repens:</p>\n\n<ul>\n\t<li>\n\t<p>Thể hiện tính ức chế 5-α-reducase (type 1 và 2), enzyme biến đổi testosterone thành chất chuyển hóa có hoạt tính của nó, dihydrotestosterone.</p>\n\t</li>\n\t<li>\n\t<p>Ức chế sự hình thành prostaglandins và các leukotriene (chứng minh trên tế bào đa nhân).</p>\n\t</li>\n\t<li>\n\t<p>Kìm hãm sự tăng sinh của các tế bào từ tuyến tiền liệt phì đại lành tính khi tế bào này được kích thích bởi các yếu tố sinh trưởng.</p>\n\t</li>\n</ul>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Không thể khảo sát đặc tính dược động học của các thuốc dạng này trong cơ thể vì không thể định lượng nồng độ trong máu của các thành phần các chất chiết xuất từ thực vật.</p>",
+  "ingredients_html": [
+    {
+      "id": 22785,
+      "ingredientId": 41960,
+      "shortDescription": "160mg",
+      "name": "Phần chiết lipid-sterol của cây Serenoa repens",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

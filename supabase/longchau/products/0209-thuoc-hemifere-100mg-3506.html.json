@@ -1,0 +1,58 @@
+{
+  "id": "00003679",
+  "slug": "thuoc/hemifere-100mg-3506.html",
+  "title": "Viên nhai Hemifere 100mg phòng và điều trị bệnh thiếu máu do thiếu sắt và acid folic (3 vỉ x 10 viên)",
+  "short_title": "HEMIFERE",
+  "brand": {
+    "name": "Schazoo SPL",
+    "slug": "thuong-hieu/schazoo-spl",
+    "country": "Pakistan"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+    "name": "Thuốc bổ",
+    "parent_slug": "thuoc/thuoc-bo-and-vitamin"
+  },
+  "price_amount": 4733,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00003679_hemifere_100mg_5277_5b39_large_f0b1294ead.JPG",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003679_hemifere_100mg_5277_5b39_large_f0b1294ead.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003679_hemifere_100mg_1628703042_fb3f22d172.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003679_hemifere_100mg_3459_5b39_large_7ebee13b79.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003679_hemifere_100mg_9720_5b39_large_feebf72591.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003679_hemifere_100mg_4956_5b39_large_4eb64aaf73.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003679_hemifere_100mg_9850_6114_large_3e7f1fa5d1.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003679_hemifere_100mg_9087_6114_large_3d099b648b.jpg"
+  ],
+  "origin_label": "Pakistan",
+  "country": "Pakistan",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nhai",
+  "trust_label": null,
+  "short_description": "<p>Hemifere của nhà sản xuất The Schazoo Pharmaceutical Laboratories (Pvt.) Limited, thuốc có thành phần chính phức hợp sắt (III) Hydroxide Polymaltose, Acid folic.</p>\n\n<p>Đây là thuốc dùng để điều trị và dự phòng các loại thiếu máu do thiếu sắt, cần bổ sung sắt, các trường hợp tăng nhu cầu tạo máu: Phụ nữ mang thai, cho con bú, thiếu dinh dưỡng, sau khi mổ, giai đoạn hồi phục sau bệnh nặng.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p>Thuốc Hemifere được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>\n\t<p>Phòng và điều trị bệnh <strong><a href=\"https://nhathuoclongchau.com.vn/benh/thieu-mau-267.html\">thiếu máu</a></strong> do thiếu sắt và Acid folic.</p>\n\t</li>\n\t<li>\n\t<p>Điều trị tình trạng thiếu sắt và Acid folic ở phụ nữ có thai, cho con bú khi thức ăn không cung cấp đủ.</p>\n\t</li>\n\t<li>\n\t<p>Cơ thể kém hấp thu sắt: Cắt đoạn dạ dày, viêm teo niêm mạc dạ dày, <strong><a href=\"https://nhathuoclongchau.com.vn/benh/viem-ruot-404.html\">viêm ruột</a></strong> mãn tính.</p>\n\t</li>\n\t<li>\n\t<p>Chứng xanh lướt ở thiếu nữ và phụ nữ trong thời kỳ kinh nguyệt.</p>\n\t</li>\n</ul>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Acid folic là vitamin thuộc nhóm B ( vitamin B9).</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p><em>Hấp thu</em></p>\n\n<p>Acid folic trong tự nhiên tồn tại dưới dạng Polyglutamate vào cơ thể được thuỷ phân nhờ Carboxypeptidase, bị khử nhờ DHF Reductase ở niêm mạc ruột và Methyl hoá tạo MDHF, chất này được hấp thu vào máu.</p>\n\n<p><em>Phân bố</em></p>\n\n<p>Thuốc phân bố nhanh vào các mô trong cơ thể vào được dịch não tuỷ, nhau thai và sữa mẹ. Thuốc được tích trữ chủ yếu ở gan và tập trung tích cực trong dịch não tuỷ.</p>\n\n<p><em>Thải trừ</em></p>\n\n<p>Thuốc thải trừ qua nước tiểu.</p>",
+  "ingredients_html": [
+    {
+      "id": 21714,
+      "ingredientId": 20052,
+      "shortDescription": "100mg",
+      "name": "Fe(III)",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 21715,
+      "ingredientId": 7428,
+      "shortDescription": "350mcg",
+      "name": "Acid folic",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

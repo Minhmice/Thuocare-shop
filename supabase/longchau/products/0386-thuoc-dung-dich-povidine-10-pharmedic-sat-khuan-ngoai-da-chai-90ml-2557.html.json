@@ -1,0 +1,51 @@
+{
+  "id": "00006053",
+  "slug": "thuoc/dung-dich-povidine-10-pharmedic-sat-khuan-ngoai-da-chai-90ml-2557.html",
+  "title": "Dung dịch sát khuẩn Povidine 10% Pharmedic ngăn ngừa nhiễm khuẩn ở vết cắt, vết trầy (90ml)",
+  "short_title": "POVIDINE PMD 90ML",
+  "brand": {
+    "name": "Pharmedic",
+    "slug": "thuong-hieu/pharmedic",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-da-lieu/thuoc-sat-khuan",
+    "name": "Thuốc sát khuẩn",
+    "parent_slug": "thuoc/thuoc-da-lieu"
+  },
+  "price_amount": 18000,
+  "compare_at_amount": 0,
+  "unit": "Chai",
+  "pack_note": "Chai x 90ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006053_povidine_90ml_9615_6103_large_8ea940a455.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006053_povidine_90ml_9615_6103_large_8ea940a455.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006053_povidine_90ml_1619525867_db60acc7fb.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006053_povidine_90ml_5558_6088_large_546cd858e5.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006053_povidine_90ml_4026_6103_large_60777548c7.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006053_povidine_90ml_5985_6103_large_0b98ae0bc7.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006053_povidine_90ml_2952_6103_large_6577c67972.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006053_povidine_90ml_1514_6103_large_de853fb2da.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006053_povidine_90ml_2319_6103_large_1f999f926d.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch dùng ngoài",
+  "trust_label": null,
+  "short_description": "<p><a href=\"https://nhathuoclongchau.com.vn/thuoc/povidine-8ml-2558.html\">Dung dịch Povidine 10%</a> của Công ty Cổ phần Dược phẩm Dược liệu Pharmedic, thành phần chính povidon iod, là thuốc sát khuẩn để giúp ngăn ngừa nhiễm khuẩn ở vết cắt, vết trầy và vết bỏng nhỏ, sát khuẩn da trước khi phẫu thuật và giúp giảm các vi khuẩn có khả năng gây nhiễm trùng da.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3><p><strong>Thuốc Povidine 90ml</strong> được chỉ định dùng trong các trường hợp sau:</p><ul><li>Sát khuẩn để giúp ngăn ngừa nhiễm khuẩn ở vết cắt, vết trầy và vết bỏng nhỏ.</li><li>Sát khuẩn da trước khi phẫu thuật.</li><li>Giúp giảm các vi khuẩn có khả năng gây nhiễm trùng da.</li></ul><h3><strong>Dược lực học</strong></h3><p>Povidon iod là phức hợp của iod với <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/povidone\"><strong>Povidon</strong></a>. Povidon được dùng làm chất mang iod. Dung dịch povidon - iod được giải phóng iod dần dần, do đó kéo dài tác dụng sát khuẩn diệt khuẩn, nấm, virus, động vật đơn bào, kén và bào tử.</p><h3><strong>Dược động học</strong></h3><p>lod thấm được qua da và thải qua nước tiểu. Hấp thu toàn thân phụ thuộc vào vùng và tình trạng sử dụng thuốc (diện rộng, da, niêm mạc, vết thương, các khoang trong cơ thể). Khi dùng làm dung dịch rửa các khoang trong cơ thể, toàn bộ phức hợp cao phân tử povidon iod cũng có thể được cơ thể hấp thu. Phức hợp này không chuyển hóa hoặc đào thải qua thận. Thuốc được hệ liên võng nội mô lọc giữ.</p>",
+  "ingredients_html": [
+    {
+      "id": 46868,
+      "ingredientId": 33304,
+      "shortDescription": "10%",
+      "name": "Povidone-iodine",
+      "isPrimary": false,
+      "slug": "thanh-phan/povidone-iodine"
+    }
+  ],
+  "stock_qty": 0
+}

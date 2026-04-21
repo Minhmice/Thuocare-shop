@@ -1,0 +1,44 @@
+{
+  "id": "00502571",
+  "slug": "thuoc/canesten-cream-1-bayer-5g-36824.html",
+  "title": "Kem bôi Canesten Cream 1% Bayer trị nấm da, nấm men, nấm mốc (5g)",
+  "short_title": "CANESTEN CREAM 1% BAYER 5G",
+  "brand": {
+    "name": "Bayer",
+    "slug": "thuong-hieu/bayer",
+    "country": "Đức"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-da-lieu/thuoc-boi-ngoai-da",
+    "name": "Thuốc bôi ngoài da",
+    "parent_slug": "thuoc/thuoc-da-lieu"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp x 5g",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/canesten_5fg_9cca05fdd9.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/canesten_5fg_9cca05fdd9.jpg"
+  ],
+  "origin_label": "Đức",
+  "country": "Đức",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Kem",
+  "trust_label": null,
+  "short_description": "<p>Canesten Cream là sản phẩm của Encube Ethicals Private Ltd chứa thành phần chính là Clotrimazole dùng điều trị các bệnh nhiễm nấm ngoài da do nấm da, nấm men, nấm mốc, và nấm khác (ví dụ nấm kẽ chân, nấm da tay, nấm da thân mình, nấm bẹn, lang ben) và erythrasma (bệnh nấm do crynebacterium minutissimium), viêm môi âm hộ và các vùng xung quanh do nấm ở nữ, viêm qui đầu và da đầu dương vật gây ra bởi nấm men ở nam (viêm âm hộ do nấm và viêm qui đầu do nấm).</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p>Canesten Cream dùng điều trị trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Bệnh nhiễm nấm ngoài da do nấm da, nấm men, nấm mốc, và nấm khác (ví dụ nấm kẽ chân, nấm da tay, nấm da thân mình, nấm bẹn, lang ben) và erythrasma (bệnh nấm do crynebacterium minutissimium).</li>\n\t<li>Viêm môi âm hộ và các vùng xung quanh do nấm ở nữ, viêm qui đầu và da đầu dương vật gây ra bởi nấm men ở nam (viêm âm hộ do nấm và viêm qui đầu do nấm).</li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p>Chưa có dữ liệu.</p>\n\n<h3>Dược động học</h3>\n\n<p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 44947,
+      "ingredientId": 15237,
+      "shortDescription": "10mg",
+      "name": "Clotrimazol",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

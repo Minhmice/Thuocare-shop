@@ -1,0 +1,47 @@
+{
+  "id": "00004737",
+  "slug": "thuoc/mebsyn-135mg-3105.html",
+  "title": "Thuốc Mebsyn 135mg Synmedic điều trị hội chứng ruột kích thích (10 vỉ x 10 viên)",
+  "short_title": "MEBSYN 135 SMD 10X10",
+  "brand": {
+    "name": "Synmedic",
+    "slug": "thuong-hieu/synmedic",
+    "country": "Ấn Độ"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tieu-hoa",
+    "name": "Thuốc tiêu hoá",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004737_mebsyn_135mg_3817_5b27_large_ee0c516aa3.JPG",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004737_mebsyn_135mg_3817_5b27_large_ee0c516aa3.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004737_mebsyn_135mg_8778_5b27_large_0f0c6ae119.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004737_mebsyn_135mg_1159_5b27_large_6e9df5fb2d.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004737_mebsyn_135mg_1039_5b27_large_282844cfab.JPG"
+  ],
+  "origin_label": "Ấn Độ",
+  "country": "Ấn Độ",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Mebsyn là sản phẩm của Công ty Synmedic (Ấn Độ), với thành phần chính mebeverine HCl. Đây là một loại thuốc được dùng để điều trị các tình trạng sau: Hội chứng ruột kích thích và các tình trạng như: Kích thích đại tràng mãn tính, táo bón do co thắt, viêm niêm mạc đại tràng, viêm đại tràng do co thắt với các triệu chứng đau bụng, căng cơ, tiêu chảy dai dẳng có hoặc kèm táo bón xen kẽ, đầy bụng; co thắt dạ dày ruột thứ phát do bệnh lý.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p>Thuốc Mebsyn được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Hội chứng ruột kích thích và các tình trạng kích thích đại tràng mãn tính, rối loạn nhu động ruột ở trạng thái kích thích với các triệu chứng: Đau cứng bụng, tiêu chảy kéo dài, táo bón xen kẽ và đầy bụng.</li>\n\t<li>Hội chứng kích thích ruột thứ phát do bệnh lý thực thể ở đường tiêu hóa.</li>\n</ul>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Mebeverine hydrochloride thuộc nhóm thuốc chống co thắt cơ trơn. Nhóm thuốc này tác dụng trực tiếp lên các cơ trơn trong ruột gây giãn cơ.</p>\n\n<p>Mebeverine cũng là một chất ức chế sự bổ sung canxi dự trữ. Do đó, mebeverine có cơ chế tác động kép làm bình thường sự vận động của ruột non.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Mebeverine được hấp thu nhanh và hoàn toàn sau khi uống dưới dạng viên hoặc hỗn dịch. Mebeverine không được bài xuất mà được chuyển hóa hoàn toàn. Bước đầu tiên trong quá trình chuyển hóa là sự thủy phân, tạo thành acid veratric và alcol mebeverine. Cả acid veratric và alcol mebeverine được bài xuất qua nước tiểu, alcol mebeverine bài xuất một phần dưới dạng acid carboxylic tương ứng và một phần dưới dạng acid carboxylic demethyl hóa.</p>",
+  "ingredients_html": [
+    {
+      "id": 22257,
+      "ingredientId": 26761,
+      "shortDescription": "135mg",
+      "name": "Mebeverine",
+      "isPrimary": false,
+      "slug": "thanh-phan/mebeverine"
+    }
+  ],
+  "stock_qty": 0
+}

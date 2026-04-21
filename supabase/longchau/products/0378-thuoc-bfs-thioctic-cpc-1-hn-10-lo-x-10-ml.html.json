@@ -1,0 +1,44 @@
+{
+  "id": "A042300000234",
+  "slug": "thuoc/bfs-thioctic-cpc-1-hn-10-lo-x-10-ml.html",
+  "title": "Thuốc BFS-Thioctic 10ml CPC1HN điều trị triệu chứng dị cảm trong bệnh đa thần kinh đái tháo đường (10 lọ)",
+  "short_title": "BFS-THIOCTIC CPC1HN 10 LỌ X 10ML",
+  "brand": {
+    "name": "CPC1HN",
+    "slug": "thuong-hieu/cpc1hn",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tiem-chich-and-dich-truyen/thuoc-tiem-chich",
+    "name": "Thuốc tiêm chích",
+    "parent_slug": "thuoc/thuoc-tiem-chich-and-dich-truyen"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 10 Lọ x 10ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/bfs_73b7857f3b.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/bfs_73b7857f3b.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch tiêm truyền",
+  "trust_label": null,
+  "short_description": "<p>Thuốc BFS-Thioctic là sản phẩm của Công ty Cổ phần Dược phẩm CPC1 Hà Nội, có thành phần chính là Thioctic acid. Đây là thuốc được sử dụng trong các trường hợp dị cảm trong bệnh đa thần kinh đái tháo đường, bổ sung khi nhu cầu acid thioctic tăng (trong thời gian lao động nặng), hội chứng Leigh (viêm não hoại tử bán cấp), ngộ độc (do Streptomycin, Kanamycin), và tiếng ồn (do nghề nghiệp).</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc BFS-Thioctic được chỉ định dùng trong các trường hợp sau:</p><ul><li>Dị cảm trong bệnh đa thần kinh đái tháo đường.</li><li>Bổ sung khi nhu cầu acid thioctic tăng (trong thời gian lao động nặng).</li><li>Hội chứng Leigh (viêm não hoại tử bán cấp).</li><li>Ngộ độc (do Streptomycin, Kanamycin), và tiếng ồn (do nghề nghiệp).</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 54327,
+      "ingredientId": 38246,
+      "shortDescription": "300mg",
+      "name": "Thioctic acid",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

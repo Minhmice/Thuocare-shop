@@ -1,0 +1,46 @@
+{
+  "id": "00007502",
+  "slug": "thuoc/transamin-250mg5ml-1942.html",
+  "title": "Thuốc Transamin Olic điều trị bệnh bạch cầu, thiếu máu bất sản (10 vỉ x 10 viên)",
+  "short_title": "TRANSAMIN 250 10X10",
+  "brand": {
+    "name": "Olic",
+    "slug": "thuong-hieu/olic",
+    "country": "Thái Lan"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-cam-mau",
+    "name": "Thuốc cầm máu",
+    "parent_slug": "thuoc/thuoc-tim-mach-and-mau"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007502_transamin_250mg_10x10_2206_d459_large_ca2e7f7fba.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007502_transamin_250mg_10x10_2206_d459_large_ca2e7f7fba.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007502_transamin_250mg5ml_1630740365_5a32098864.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007502_transamin_250mg5ml_2642_6133_large_2588abbfc4.jpg"
+  ],
+  "origin_label": "Thái Lan",
+  "country": "Thái Lan",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang cứng",
+  "trust_label": null,
+  "short_description": "<p><strong> Viên nang Transamin</strong> được sản xuất bởi <em>Olic Thái Lan</em> có tác dụng cầm máu trong một số trường hợp. </p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p><strong>Thuốc Transamin</strong> được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Ðiều trị xu hướng chảy máu do tăng tiêu fibrin toàn thân trong những trường hợp sau: Bệnh bạch cầu, thiếu máu bất sản, ban xuất huyết, chảy máu bất thường trong hoặc sau phẫu thuật.</li>\n\t<li>Ðiều trị chảy máu bất thường do tăng tiêu fibrin tại chỗ trong những trường hợp sau: Chảy máu phổi, chảy máu cam, chảy máu âm đạo, chảy máu thận, chảy máu bất thường trong hoặc sau phẫu thuật tuyến tiền liệt.</li>\n</ul>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p><em>Tác dụng kháng plasmin:</em></p>\n\n<p>Acid tranexamic gắn mạnh vào vị trí liên kết lysin (LBS), vị trí có ái lực với fibrin của plasmin và plasminogen, và ức chế sự liên kết của plasmin và plasminogen vào fibrin. Do đó, sự phân hủy bởi plasmin bị ức chế mạnh. Với sự có mặt của các kháng plasmin như α2 - macroglobulin, trong huyết tương, tác dụng kháng tiêu fibrin của acid tranexamic còn được tăng cường thêm.</p>\n\n<p><em>Tác dụng cầm máu:</em></p>\n\n<p>Plasmin tăng quá mức gây ra ức chế kết tụ tiểu cầu, sự phân hủy của các tác nhân đông máu, v.v..., nhưng ngay cả một sự tăng nhẹ cũng làm cho sự thoái hóa đặc hiệu của fibrin xảy ra trước. Do đó, trong những trường hợp chảy máu bình thường, sự có mặt của acid tranexamic tạo ra sự cầm máu bằng cách loại bỏ sự phân hủy fibrin đó.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p><em>Hấp thu</em></p>\n\n<p>Nồng độ trong máu với liều 250 mg và 500 mg acid tranexamic được cho qua đường miệng cho những người lớn khỏe mạnh, đạt nồng độ cao nhất là 3,9 g/ml (cho liều 250 mg) và 6,0 pg/ml (cho liều 500 mg) 2 - 3 giờ sau khi uống. Thời gian bán hủy sinh học lần lượt là 3,1 giờ và 3,3 giờ. </p>\n\n<p><em>Thải trừ</em></p>\n\n<p>Khi cho 500 mg acid tranexamic qua đường miệng cho những người lớn khỏe mạnh, mức độ thải trừ qua đường tiểu tiện là 30 - 52% 24 giờ sau khi uống thuốc.</p>",
+  "ingredients_html": [
+    {
+      "id": 33874,
+      "ingredientId": 42384,
+      "shortDescription": "250mg",
+      "name": "Acid Tranexamic",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

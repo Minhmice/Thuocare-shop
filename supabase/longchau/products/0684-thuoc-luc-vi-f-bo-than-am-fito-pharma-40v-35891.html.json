@@ -1,0 +1,52 @@
+{
+  "id": "00501745",
+  "slug": "thuoc/luc-vi-f-bo-than-am-fito-pharma-40v-35891.html",
+  "title": "Thuốc Lục Vị F Bổ thận âm Fito điều trị thận âm suy tổn, chóng mặt, ù tai (40 viên)",
+  "short_title": "LỤC VỊ F BỔ THẬN ÂM FITO PHARMA 40V",
+  "brand": {
+    "name": "Fito",
+    "slug": "thuong-hieu/fito",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-tri-benh-than",
+    "name": "Thuốc trị bệnh thận",
+    "parent_slug": "thuoc/thuoc-tiet-nieu-sinh-duc"
+  },
+  "price_amount": 70000,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 40 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/668_a9012bb5da.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/668_a9012bb5da.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang cứng",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Lục vị F Bổ thận âm<o:p></o:p> là sản phẩm của Công ty TNHH dược phẩm Fito Pharma, thành phần chính chứa cao khô dược liệu (Thục địa, Hoài sơn, Sơn thù, Trạch tả, Phục linh, Mẫu đơn bì, Hoài sơn, Sơn thù, Mẫu đơn bì), là thuốc dùng để điều trị thận âm suy tổn, <a href=\"https://nhathuoclongchau.com.vn/benh/chong-mat-763.html\">chóng mặt</a>, ù tai, thắt lưng đầu gối mỏi yếu, cốt chưng triều nhiệt (nóng trong xương), mồ hôi trộm, di tinh, tiêu khát.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thận âm suy tổn, chóng mặt, ù tai, thắt lưng đầu gối mỏi yếu, cốt chưng triều nhiệt (nóng trong xương), mồ hôi trộm, di tinh, tiêu khát.&nbsp;</p><h3 dir=\"ltr\">Dược lực học</h3><p>Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 44271,
+      "ingredientId": 11616,
+      "shortDescription": "",
+      "name": "Bột mịn dược liệu",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 44272,
+      "ingredientId": 12703,
+      "shortDescription": "248mg",
+      "name": "cao hỗn hợp dược liệu",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

@@ -1,0 +1,49 @@
+{
+  "id": "00004110",
+  "slug": "thuoc/ketoconazol-5g-3358.html",
+  "title": "Kem bôi da Ketoconazole 2% Mekophar điều trị nấm ở da và niêm mạc (5g) ",
+  "short_title": "KETOCONAZOLE 2% MEKOPHAR 5G",
+  "brand": {
+    "name": "Mekophar",
+    "slug": "thuong-hieu/mekophar",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-da-lieu/thuoc-boi-ngoai-da",
+    "name": "Thuốc bôi ngoài da",
+    "parent_slug": "thuoc/thuoc-da-lieu"
+  },
+  "price_amount": 6000,
+  "compare_at_amount": 0,
+  "unit": "Tuýp",
+  "pack_note": "Tuýp x 5g",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004110_ketoconazol_5g_5079_6065_large_a9534e6eab.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004110_ketoconazol_5g_5079_6065_large_a9534e6eab.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004110_ketoconazol_5g_1618735103_ebbc00a752.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004110_ketoconazol_5g_7364_6065_large_075cc3dea8.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004110_ketoconazol_5g_4627_6065_large_13b3e3b605.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004110_ketoconazol_5g_2389_6065_large_8f1c11bff9.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004110_ketoconazol_5g_8460_6065_large_960d2638b4.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Kem",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Ketoconazole 2% được sản xuất bởi Công ty Cổ phần Hóa dược phẩm Mekophar, có thành phần chính là Ketoconazole, được dùng để điều trị triệu chứng ở bệnh nhân nấm ở da và niêm mạc do nấm da toàn thân, nấm da đùi, nấm loang (<i>tinea versicolor</i>).</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Ketoconazole 2% được chỉ định dùng trong các trường hợp sau:</p><p>Điều trị <a href=\"https://nhathuoclongchau.com.vn/benh/benh-nam-da-1160.html\">nấm ở da</a> và niêm mạc do nấm da toàn thân, nấm da đùi, nấm loang (tinea versicolor).</p><h3>Dược lực học</h3><p><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/ketoconazole\">Ketoconazole</a> có hoạt tính kháng nấm mạnh đối với các vi nấm ngoài da như chủng<i> Epidermophyton floccosum, Trichophyton, Microsporum</i> và đối với các nấm men, đặc biệt nổi bật trên chủng nấm <i>Pityrosporum</i>, Ketoconazole có tác dụng ức chế sinh tổng hợp ergosterol làm thay đổi tính thấm và chức năng của màng tế bào nấm.</p><h3>Dược động học</h3><p>Sau khi bôi kem Ketoconazole 2% trên da, không tạo ra được một nồng độ có thể phát hiện trong huyết tương.</p>",
+  "ingredients_html": [
+    {
+      "id": 21945,
+      "ingredientId": 24524,
+      "shortDescription": "0.1g",
+      "name": "Ketoconazole",
+      "isPrimary": false,
+      "slug": "thanh-phan/ketoconazole"
+    }
+  ],
+  "stock_qty": 0
+}

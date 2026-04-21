@@ -1,0 +1,45 @@
+{
+  "id": "00006119",
+  "slug": "thuoc/profertil-2517.html",
+  "title": "Thuốc Profertil Kalbe điều trị chứng vô sinh ở phụ nữ vô kinh (1 vỉ x 10 viên)f",
+  "short_title": "PROFERTIL",
+  "brand": {
+    "name": "KALBE",
+    "slug": "thuong-hieu/kalbe",
+    "country": "Indonesia"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-noi-tiet-to",
+    "name": "Thuốc nội tiết tố",
+    "parent_slug": "thuoc/thuoc-tiet-nieu-sinh-duc"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006119_3e7f65c8ed.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006119_3e7f65c8ed.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006119_profertil_1628331630_d9e8e36ec1.jpg"
+  ],
+  "origin_label": "Indonesia",
+  "country": "Indonesia",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén",
+  "trust_label": null,
+  "short_description": "<p><strong>Thuốc Profertil</strong> là sản phẩm của <em>Kalbe Farma</em>, với thành phần chính <em>Clomiphene citrate</em>, là thuốc dùng để điều trị chứng vô sinh ở phụ nữ vô kinh, hội chứng Stein–Leventhal hay chứng chảy máu tử cung chức năng do có rồi loạn về rụng trứng.</p>\n\n<p>Thuốc còn được dùng để kích thích sản sinh tinh trùng ở nam giới mắc chứng vô sinh do suy giảm tinh trùng.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p><strong>Thuốc Profertil</strong> được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Ðiều trị chứng <strong><a href=\"https://nhathuoclongchau.com.vn/benh/vo-sinh-508.html\">vô sinh</a></strong> ở phụ nữ vô kinh, hội chứng Stein-Leventhal hay chứng chảy máu tử cung chức năng do có rối loạn về rụng trứng.</li>\n\t<li>Dùng để kích thích sản sinh tinh trùng ở nam giới mắc chứng vô sinh do suy giảm tinh trùng.</li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p>Profertil có chứa hoạt chất là clomiphene citrate có công thức hoá học là 2-[p-(2-cloro-1,2-diphenylvinyl) phenoxy] triethylamine dihydro citrate.</p>\n\n<p>Clomiphene citrate là chất có tác dụng đặc hiệu lên hệ thống cơ quan sinh sản ở cả nam và nữ.</p>\n\n<p>Clomiphene citrate có cả tác dụng giống estrogen và kháng estrogen.</p>\n\n<p>Các thử nghiệm lâm sàng với clomiphene citrate cho thấy nó có tác dụng kích thích rụng trứng ở phụ nữ và kích thích sản sinh tinh trùng ở nam giới.</p>\n\n<p>Tác dụng kích thích rụng trứng của Profertil là do khả năng làm tăng nồng độ của FSH và LH trong huyết thanh bằng cách ngăn cản quá trình ức chế bài tiết các chất này bởi estrogen hoặc androgen.</p>\n\n<p>Chưa ghi nhận tác động của Profertil lên tác dụng progesterol hay androgenic. Chính điều này có lợi cho việc điều trị vô sinh ở phụ nữ suy giảm rụng trứng hoặc nam giới suy giảm tinh trùng.</p>\n\n<h3>Dược động học</h3>\n\n<p>Hấp thuKhi uống, <strong><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/clomifene\">clomiphene</a></strong> được hấp thu ở đường tiêu hoá.</p>\n\n<p>Phân bố: Chưa có dữ liệu về thể tích phân bố và tỷ lệ gắn kết của clomiphene với protein huyết tương.</p>\n\n<p>Chuyển hoá: Thuốc được chuyển hoá qua gan, được bài tiết chậm từ gan vào đường mật và đi vào vòng tuần hoàn gan–ruột.</p>\n\n<p>Thải trừ: Clomiphene được thải trừ chủ yếu qua phân, với 51% liều uống và 37% liều tiêm tĩnh mạch được đào thải trong vòng 5 ngày. Thuốc vẫn còn được tiếp tục đào thải 6 tuần sau khi dùng. Thời gian bán thải của clomiphene là 5–7 ngày.</p>",
+  "ingredients_html": [
+    {
+      "id": 22987,
+      "ingredientId": 41962,
+      "shortDescription": "50mg",
+      "name": "Clomiphene citrate",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

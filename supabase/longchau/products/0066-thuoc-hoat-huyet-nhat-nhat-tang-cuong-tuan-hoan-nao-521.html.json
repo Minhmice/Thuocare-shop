@@ -1,0 +1,93 @@
+{
+  "id": "00003793",
+  "slug": "thuoc/hoat-huyet-nhat-nhat-tang-cuong-tuan-hoan-nao-521.html",
+  "title": "Thuốc Hoạt Huyết Nhất Nhất giúp hoạt huyết, trị thiếu năng tuần hoàn (3 vỉ x 10 viên)",
+  "short_title": "HOẠT HUYẾT NHẤT NHẤT 3X10",
+  "brand": {
+    "name": "Nhất Nhất",
+    "slug": "thuong-hieu/nhat-nhat",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tang-cuong-tuan-hoan-nao",
+    "name": "Thuốc tăng cường tuần hoàn não",
+    "parent_slug": "thuoc/thuoc-tim-mach-and-mau"
+  },
+  "price_amount": 135000,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 3 Vỉ x 10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_2171_e9dd12712d.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_2171_e9dd12712d.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_2173_94f1796d9f.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_2172_5dd067d428.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_2174_3a21cbaba7.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_2175_323e6d7fe3.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_2177_7bdbb4dae7.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_2178_1b4f7798fe.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_2179_7d994fdddf.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/hoa_ut_huye_e_uet_nha_e_uet_nha_e_uet_1_5fa1e2266b.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/hoa_ut_huye_e_uet_nha_e_uet_nha_e_uet_2_d79ccd23d0.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén",
+  "trust_label": null,
+  "short_description": "<p><a href=\"https://nhathuoclongchau.com.vn/thuoc/hoat-huyet-nhat-nhat-tang-cuong-tuan-hoan-nao-521.html\">Hoạt Huyết Nhất Nhất</a> - Tăng Cường Tuần Hoàn Não của Công ty TNHH Dược Phẩm Nhất Nhất, thành phần chính đương quy, ích mẫu, ngưu tất, thục địa, xích thược, xuyên khung, Hoạt Huyết Nhất Nhất là thuốc bổ huyết, hoạt huyết được sử dụng để điều trị các chứng huyết hư, ứ trệ; phòng ngừa và điều trị thiểu năng tuần hoàn não (mệt mỏi, đau đầu, chóng mặt, mất thăng bằng, hoa mắt, mất ngủ, suy giảm trí nhớ, suy nhược thần kinh), thiểu năng tuần hoàn ngoại vi (đau mỏi vai gáy, tê cứng cổ, đau cách hồi, đau cơ, tê bì chân tay) thể huyết ứ; hỗ trợ phòng ngừa và điều trị xơ vữa động mạch, bệnh mạch vành, nghẽn mạch, tai&nbsp;biến mạch máu não.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Hoạt Huyết Nhất Nhất&nbsp;được chỉ định dùng trong các trường hợp sau:</p><ul><li>Ðiều trị các chứng huyết hư, ứ trệ.</li><li>Phòng ngừa và điều trị <a href=\"https://nhathuoclongchau.com.vn/bai-viet/phong-tranh-thieu-nang-tuan-hoan-nao-khong-bao-gio-la-som-57014.html\">thiểu năng tuần hoàn não</a> (mệt mỏi, đau đầu, chóng mặt, mất thăng bằng, hoa mắt, mất ngủ, suy giảm trí nhớ, suy nhược thần kinh), thiểu năng tuần hoàn ngoại vi (đau mỏi vai gáy, tê cứng cổ, đau cách hồi, đau cơ, tê bì chân tay) thể huyết ứ.</li><li>Hỗ trợ phòng ngừa và điều trị <a href=\"https://nhathuoclongchau.com.vn/benh/xo-vua-dong-mach-429.html\">xơ vữa động mạch</a>, bệnh mạch vành, nghẽn mạch, tai biến mạch máu não.</li></ul><h3>Dược lực học</h3><p>Thuốc có tác dụng bổ huyết, hoạt huyết.</p><h3>Dược động học</h3><p>Chưa có báo cáo.</p>",
+  "ingredients_html": [
+    {
+      "id": 33567,
+      "ingredientId": 40744,
+      "shortDescription": "750mg",
+      "name": "Xích thược",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 33568,
+      "ingredientId": 40801,
+      "shortDescription": "750mg",
+      "name": "Xuyên khung",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 33569,
+      "ingredientId": 38361,
+      "shortDescription": "1500mg",
+      "name": "Thục địa",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 33570,
+      "ingredientId": 29714,
+      "shortDescription": "1500mg",
+      "name": "Ngưu tất (Rễ)",
+      "isPrimary": false,
+      "slug": "thanh-phan/nguu-tat"
+    },
+    {
+      "id": 33571,
+      "ingredientId": 18784,
+      "shortDescription": "1500mg",
+      "name": "Đương quy",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 33572,
+      "ingredientId": 23210,
+      "shortDescription": "1500mg",
+      "name": "Ích mẫu",
+      "isPrimary": false,
+      "slug": "thanh-phan/ich-mau"
+    }
+  ],
+  "stock_qty": 0
+}

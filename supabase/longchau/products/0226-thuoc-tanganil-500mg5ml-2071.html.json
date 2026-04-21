@@ -1,0 +1,50 @@
+{
+  "id": "00007165",
+  "slug": "thuoc/tanganil-500mg5ml-2071.html",
+  "title": "Thuốc Tanganil 500mg Pierre Fabre điều trị cơn chóng mặt (3 vỉ x 10 viên)",
+  "short_title": "TANGANIL 500MG PIERRE FABRE 3X10",
+  "brand": {
+    "name": "Pierre Fabre",
+    "slug": "thuong-hieu/pierre-fabre",
+    "country": "Pháp"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tang-cuong-tuan-hoan-nao",
+    "name": "Thuốc tăng cường tuần hoàn não",
+    "parent_slug": "thuoc/thuoc-tim-mach-and-mau"
+  },
+  "price_amount": 4800,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007165_tanganil_500mg5ml_3027_62a7_large_c8fd57a3f0.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007165_tanganil_500mg5ml_3027_62a7_large_c8fd57a3f0.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007165_tanganil_500mg5ml_1625307182_d5a7c89540.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007165_tanganil_500mg5ml_7485_62a7_large_d0999ffbf7.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007165_tanganil_500mg5ml_8774_62a7_large_e67a32a219.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007165_tanganil_500mg5ml_4929_62a7_large_fd75d037fc.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007165_tanganil_500mg5ml_2912_62a7_large_16eabe9169.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007165_tanganil_500mg5ml_6955_62a7_large_1dcfd90b7e.jpg"
+  ],
+  "origin_label": "Pháp",
+  "country": "Pháp",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén",
+  "trust_label": null,
+  "short_description": "<p>Tanganil 500 mg là sản phẩm của Công ty Pierre Fabre Medicament (Pháp), thành phần chính là acetylleucine. Thuốc dùng để điều trị cơn chóng mặt.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Tanganil 500mg trị bệnh gì? Thuốc Tanganil 500mg được chỉ định trong điều trị cơn <a href=\"https://nhathuoclongchau.com.vn/benh/chong-mat-763.html\">chóng mặt</a>.</p><h3>Dược lực học</h3><p>Nhóm trị liệu: Thuốc điều trị chóng mặt.</p><p>Mã ATC: N07CA04.</p><p>Thuốc điều trị chóng mặt chưa rõ cơ chế tác động.</p><h3>Dược động học</h3><p>Sau khi uống, acetylleucine đạt nồng độ tối đa trong huyết tương sau khi uống khoảng 2 giờ.</p>",
+  "ingredients_html": [
+    {
+      "id": 23451,
+      "ingredientId": 7392,
+      "shortDescription": "500mg",
+      "name": "Acetylleucine",
+      "isPrimary": false,
+      "slug": "thanh-phan/acetylleucine"
+    }
+  ],
+  "stock_qty": 0
+}

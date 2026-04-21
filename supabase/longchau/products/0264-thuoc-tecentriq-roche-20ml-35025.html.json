@@ -1,0 +1,44 @@
+{
+  "id": "00500869",
+  "slug": "thuoc/tecentriq-roche-20ml-35025.html",
+  "title": "Thuốc Tecentriq 1200mg Roche điều trị ung thư phổi, ung thư biểu mô tế bào gan (20ml)",
+  "short_title": "TECENTRIQ 1200MG ROCHE 20ML",
+  "brand": {
+    "name": "Roche",
+    "slug": "thuong-hieu/roche",
+    "country": "Thụy Sĩ"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-dieu-tri-ung-thu/thuoc-dieu-tri-ung-thu",
+    "name": "Thuốc điều trị ung thư",
+    "parent_slug": "thuoc/thuoc-dieu-tri-ung-thu"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp x 20ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/32_ee5e33f6d4.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/32_ee5e33f6d4.png"
+  ],
+  "origin_label": "Thụy Sĩ",
+  "country": "Thụy Sĩ",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch đậm đặc để pha dung dịch tiêm truyền",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Tecentriq là sản phẩm của Công ty Roche Products Limited có thành phần chính là Atezolizumab, là dung dịch đậm đặc để pha dung dịch tiêm truyền. Thuốc được dùng để điều trị cho những bệnh nhân mắc ung thư phổi không tế bào nhỏ di căn, ung thư biểu mô tế bào gan, ung thư vú bộ ba âm tính,...</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p dir=\"ltr\">Thuốc Tecentriq 1200mg/20ml được chỉ định trong những trường hợp sau:</p><ul><li dir=\"ltr\">Ung thư phổi không phải tế bào nhỏ (NSCLC).</li><li dir=\"ltr\">Ung thư biểu mô tế bào gan (HCC).</li><li dir=\"ltr\">Ung thư phổi không phải tế bào nhỏ đã di căn.</li><li dir=\"ltr\">Ung thư phổi tế bào nhỏ.</li><li dir=\"ltr\">Ung thư vú bộ ba âm tính.</li><li dir=\"ltr\">Ung thư biểu mô tiết niệu.</li></ul><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 33725,
+      "ingredientId": 9695,
+      "shortDescription": "1200mg",
+      "name": "Atezolizumab",
+      "isPrimary": false,
+      "slug": "thanh-phan/atezolizumab"
+    }
+  ],
+  "stock_qty": 0
+}

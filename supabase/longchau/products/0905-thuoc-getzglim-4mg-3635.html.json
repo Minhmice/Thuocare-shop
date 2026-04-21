@@ -1,0 +1,48 @@
+{
+  "id": "00003316",
+  "slug": "thuoc/getzglim-4mg-3635.html",
+  "title": "Thuốc Getzglim 4mg Getz điều trị đái tháo đường típ 2 (2 vỉ x 10 viên)",
+  "short_title": "GETZGLIM 4 GETZ 2X10",
+  "brand": {
+    "name": "Getz",
+    "slug": "thuong-hieu/getz",
+    "country": "Pakistan"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tri-tieu-duong",
+    "name": "Thuốc trị tiểu đường",
+    "parent_slug": "thuoc"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00003316_getzglim_4mg_8147_5b6e_large_80df87cf55.JPG",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003316_getzglim_4mg_8147_5b6e_large_80df87cf55.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003316_getzglim_4mg_1628330665_923266c2b0.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/00003316_getzglim_4mg_3761_5b6e_large_b8976c3f75.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003316_getzglim_4mg_5245_5b6e_large_c6afe0793b.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003316_getzglim_4mg_4518_5b6e_large_69658586de.JPG"
+  ],
+  "origin_label": "Pakistan",
+  "country": "Pakistan",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén",
+  "trust_label": null,
+  "short_description": "<p>Getzglim® 4 mg là sản phẩm của Công ty Getz Pharma (PVT), với thành phần chính là glimepiride. Getzglim® 4 mg có tác dụng điều trị đái tháo đường type 2.</p>\n\n<p>Getzglim® 4 mg được bào chế dạng viên nén, đóng gói theo quy cách 2 vỉ x 10 viên/hộp.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p>Ðiều trị <a href=\"https://nhathuoclongchau.com.vn/benh/benh-tieu-duong-289.html\">đái tháo đường</a> type 2 đồng thời kết hợp chế độ ăn kiêng và tập thể dục ở:</p>\n\n<ul>\n\t<li>\n\t<p>Bệnh nhân không thể kiểm soát được đường huyết chỉ bằng chế độ ăn kiêng và tập thể dục.</p>\n\t</li>\n\t<li>\n\t<p>Phối hợp với <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/metformin\">metformin</a> khi chế độ ăn kiêng, tập thể dục hay liệu pháp chỉ dùng một mình Getzglim hay metformin không soát được đường huyết.</p>\n\t</li>\n\t<li>\n\t<p>Phối hợp với insulin để làm giảm đường huyết khi chế độ ăn kiêng, luyện tập thể dục kết hợp với thuốc hạ đường huyết uống không thể kiểm soát được đường huyết.</p>\n\t</li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p>Cơ chế làm giảm đường huyết của <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/glimepiride\">glimepiride</a> chủ yếu là do sự kích thích tiết insulin từ tế bào beta của tuyến tụy.</p>\n\n<p>Ngoài ra, tác dụng ngoài tuyến tụy cũng đóng vai trò quan trọng trong hoạt động của glimepiride.</p>\n\n<p>Tuy nhiên, như các sulfonylurea khác, cơ chế tác động của glimepiride làm hạ đường huyết khi dùng thời gian dài chưa được nghiên cứu rõ ràng.</p>\n\n<h3>Dược động học</h3>\n\n<p><em>Hấp thu</em></p>\n\n<p>Glimepiride được hấp thu hoàn toàn qua đường tiêu hoá. Sinh khả dụng khoảng 100%. Nồng độ đỉnh trong huyết tương đạt được sau khoảng 2 - 3 giờ.</p>\n\n<p><em>Phân bố</em></p>\n\n<p>Hơn 99% thuốc gắn kết với protein trong huyết tương.</p>\n\n<p><em>Chuyển hóa</em></p>\n\n<p>Thuốc được chuyển hoá tạo thành 2 dẫn chất chính: Dẫn chất hydroxyl và carboxy. Thời gian bán thải sau khi dùng đa liều khoảng 5 giờ.</p>\n\n<p><em>Thải trừ</em></p>\n\n<p>Khoảng 60% liều dùng được đào thải qua nước tiểu và 40% qua phân.</p>",
+  "ingredients_html": [
+    {
+      "id": 21545,
+      "ingredientId": 21317,
+      "shortDescription": "4mg",
+      "name": "Glimepiride",
+      "isPrimary": false,
+      "slug": "thanh-phan/glimepiride"
+    }
+  ],
+  "stock_qty": 0
+}

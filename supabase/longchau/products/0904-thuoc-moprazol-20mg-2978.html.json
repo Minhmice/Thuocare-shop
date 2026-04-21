@@ -1,0 +1,44 @@
+{
+  "id": "00005007",
+  "slug": "thuoc/moprazol-20mg-2978.html",
+  "title": "Viên nang cứng Moprazol 20mg Imexpharm điều trị viêm loét dạ dày (10 vỉ x 10 viên)",
+  "short_title": "MOPRAZOL 20 IMEX 10X10",
+  "brand": {
+    "name": "Imexpharm",
+    "slug": "thuong-hieu/imexpharm",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-da-day",
+    "name": "Thuốc dạ dày",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005007_moprazol_20mg_5689_6255_large_2b9e2f497c.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005007_moprazol_20mg_5689_6255_large_2b9e2f497c.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang cứng chứa vi hạt bao tan trong ruột",
+  "trust_label": null,
+  "short_description": "<p><strong>pms-Moprazol®</strong> được sản xuất bởi <i>Công ty Cổ phần Dược phẩm Imexpharm</i>, thành phần chính là <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/omeprazole\"><strong>Omeprazol</strong></a>, là thuốc được chỉ định trong viêm thực quản trào ngược; loét dạ dày - tá tràng; hội chứng Zollinger – Ellison.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p><strong>Thuốc pms-Moprazol®</strong> được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li><strong><a href=\"https://nhathuoclongchau.com.vn/benh/viem-thuc-quan-408.html\">Viêm thực quản trào ngược</a></strong>.</li>\n\t<li>Loét dạ dày - tá tràng.</li>\n\t<li>Hội chứng Zollinger - Ellison.</li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p><strong>Omeprazol</strong> thuộc nhóm các hợp chất chống tiết, có tác dụng ngăn tiết acid dạ dày bằng cách ức chế có hồi phục hệ thống enzym H+/K+ ATPase ở tế bào viền của dạ dày.</p>\n\n<p>Tác dụng nhanh, kéo dài nhưng hồi phục được. Omeparazol không có tác dụng lên receptor acetylcholin hay receptor histamin. Đạt tác dụng tối đa sau khi uống thuốc 4 ngày.</p>\n\n<h3>Dược động học</h3>\n\n<p><strong>Omeprazol</strong> được hấp thu hoàn toàn Ở ruột non sau khi uống từ 3 giờ đến 6 giờ. Khả dụng sinh học khoảng 60%. Thức ăn không ảnh hưởng lên sự hấp thu thuốc ở ruột. Sự hấp thu omeprazol phụ thuộc vào liều uống.</p>\n\n<p>Thuốc có thể tự làm tăng hấp thu và khả dụng sinh học của nó do ức chế dạ dày bài tiết acid. Thuốc gắn nhiều với protein huyết tương (khoảng 95%) và được phân bố ở các mô, đặc biệt là tế bào viền ở dạ dày, khả dụng sinh học của liều uống đầu tiên khoảng 35%, nhưng sẽ tăng lên khoảng 60% khi uống tiếp theo mỗi ngày một liều.</p>\n\n<p>Tuy thời gian bán thải ngắn (khoảng 40 phút), nhưng tác dụng ức chế bài tiết acid lại kéo dài, nên có thể dùng mỗi ngày chỉ 1 lần.</p>\n\n<p>Omeprazol hầu như được chuyển hóa hoàn toàn tại gan, đào thải nhanh chóng, chủ yếu qua nước tiểu (80%), phần còn lại quá phân. Các chất chuyển hóa đều không có hoạt tính, nhưng lại tương tác nhiều thuốc khác nhau do tác dụng ức chế các enzym của cytochrom P450 của tế bào gan.</p>\n\n<p>Dược động học của thuốc không bị thay đổi có ý nghĩa ở người cao tuổi hay người bệnh bị suy chức năng thận. Ở người bị suy chức năng gan, khả dụng sinh học của thuốc tăng nhanh và độ thanh thải thuốc giảm, nhưng không có tích tụ thuốc và các chất chuyển hoá của thuốc trong cơ thể.</p>",
+  "ingredients_html": [
+    {
+      "id": 22389,
+      "ingredientId": 30863,
+      "shortDescription": "20mg",
+      "name": "Omeprazol",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

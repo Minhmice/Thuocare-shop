@@ -1,0 +1,44 @@
+{
+  "id": "00040746",
+  "slug": "thuoc/agosys-25-mg-chemipharma-3-x10.html",
+  "title": "Thuốc Agosys 25mg Chemipharma điều trị các cơn trầm cảm lớn (3 vỉ x 10 viên)",
+  "short_title": "AGOSYS 25MG CHEMIPHARMA 3X10",
+  "brand": {
+    "name": "CHEMIPHARMA",
+    "slug": "thuong-hieu/chemipharma",
+    "country": ""
+  },
+  "category": {
+    "slug": "thuoc/thuoc-than-kinh/thuoc-than-kinh",
+    "name": "Thuốc thần kinh",
+    "parent_slug": "thuoc/thuoc-than-kinh"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09754_365152a12b.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09754_365152a12b.jpg"
+  ],
+  "origin_label": "",
+  "country": "",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Agosys 25mg là sản phẩm của&nbsp;Precise Chemipharma Pvt Ltd,&nbsp;thành phần chính Agomelatine,&nbsp;là thuốc dùng để điều trị các cơn trầm cảm lớn ở người lớn.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc Agosys 25mg được chỉ định dùng trong điều trị các cơn trầm cảm lớn ở người lớn.</p><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 58398,
+      "ingredientId": 7940,
+      "shortDescription": "25mg",
+      "name": "Agomelatine",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

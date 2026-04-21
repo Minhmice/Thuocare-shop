@@ -1,0 +1,48 @@
+{
+  "id": "00006370",
+  "slug": "thuoc/rifampicin-150mg-2403.html",
+  "title": "Thuốc Rifampicin 150mg Mekophar điều trị lao, phong (250 viên)",
+  "short_title": "RIFAMPICIN 150 MKP 250V",
+  "brand": {
+    "name": "Mekophar",
+    "slug": "thuong-hieu/mekophar",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-khang-sinh-khang-nam/thuoc-khang-lao",
+    "name": "Thuốc kháng lao",
+    "parent_slug": "thuoc/thuoc-khang-sinh-khang-nam"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "250 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006370_rifampicin_150mg_7499_5b75_large_3f2b828bb8.JPG",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006370_rifampicin_150mg_7499_5b75_large_3f2b828bb8.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006370_rifampicin_150mg_4214_5b75_large_c3a217d7e9.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006370_rifampicin_150mg_5292_5b75_large_2d265224cb.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006370_rifampicin_150mg_3448_5b75_large_0186dc7da5.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006370_rifampicin_150mg_6264_5b75_large_30ce8dede9.JPG"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang",
+  "trust_label": null,
+  "short_description": "<p><strong>Rifampicin</strong> của <em>Công ty cổ phần hoá dược phẩm Mekophar</em>, thành phần chính là <strong><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/rifampicin\">rifampicin</a></strong>, là thuốc được sử dụng để điều trị bệnh lao, bệnh phong, nhiễm khuẩn gram âm, gram dương, bệnh brucella và dự phòng viêm màng não..</p>\n\n<p>Rifampicin được bào chế dưới dạng viên nang, mỗi viên chứa rifampicin 150 mg. Thuốc được đóng gói theo quy cách: Hộp 10 vỉ x 10 viên nang hoặc hộp 1 chai 250 viên.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p><strong>Thuốc Rifampicin</strong> được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Điều trị các thể lao, phong và các nhiễm khuẩn nặng do vi khuẩn gram dương và gram âm chịu tác dụng.</li>\n\t<li>Dự phòng viêm màng não do heamophilus influenzae, neisseria meningitidis.</li>\n\t<li>Bệnh do brucella.</li>\n</ul>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p><strong>Rifampicin</strong> là kháng sinh bán tổng hợp thuộc họ rifamycin, có hoạt tính diệt khuẩn chống lại các chủng mycobacteriumvà vi khuẩn gram dương.</p>\n\n<p>Rifampicin cũng chống lại vi khuẩn gram âm ở nồng độ cao hơn.</p>\n\n<p>Cơ chế tác động là ngăn cản sinh tổng hợp acid nucleic vi khuẩn bằng cách ức chế RNA – polymerase.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Chưa có thông tin.</p>",
+  "ingredients_html": [
+    {
+      "id": 23107,
+      "ingredientId": 34860,
+      "shortDescription": "150mg",
+      "name": "Rifampicin",
+      "isPrimary": false,
+      "slug": "thanh-phan/rifampicin"
+    }
+  ],
+  "stock_qty": 0
+}

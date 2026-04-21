@@ -1,0 +1,47 @@
+{
+  "id": "00007383",
+  "slug": "thuoc/tirokoon-1981.html",
+  "title": "Thuốc Tirokoon 100mg Hutecs điều trị co thắt dạ dày ruột (10 vỉ x 10 viên)",
+  "short_title": "TIROKOON",
+  "brand": {
+    "name": "Hutecs",
+    "slug": "thuong-hieu/hutecs",
+    "country": "Hàn Quốc"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tieu-hoa",
+    "name": "Thuốc tiêu hoá",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007383_tirokoon_5852_5b24_large_f039cdd800.JPG",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007383_tirokoon_5852_5b24_large_f039cdd800.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007383_tirokoon_1810_5b24_large_498bbb2f50.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007383_tirokoon_7237_5b24_large_0f14da495c.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007383_tirokoon_8492_5b24_large_566c2c6db3.JPG"
+  ],
+  "origin_label": "Hàn Quốc",
+  "country": "Hàn Quốc",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Tirokoon là sản phẩm của Công ty Hutecs Korea Pharmaceutical Co., Ltd (Hàn Quốc), có thành phần hoạt chất là Tiropramid. Thuốc được chỉ định trong điều trị các trường hợp co thắt dạ dày ruột, hội chứng kích thích; cơn đau quặn mật và các trường hợp co thắt đường mật như sỏi túi mật, viêm túi mật, viêm đường mật; cơn đau quặn thận và các trường hợp co thắt đường niệu sinh dục như sỏi thận, sỏi niệu quản, viêm bể thận, viêm bàng quang; các cơn co thắt tử cung như thống kinh, dọa sẩy thai, cơn co cứng tử cung.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p>Thuốc Tirokoon được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Chỉ định điều trị các trường hợp co thắt dạ dày ruột, hội chứng kích thích.</li>\n\t<li>Chỉ định điều trị cơn đau quặn mật và các trường hợp co thắt đường mật như sỏi túi mật, viêm túi mật, viêm đường mật.</li>\n\t<li>Chỉ định điều trị cơn đau quặn thận và các trường hợp co thắt đường niệu sinh dục như sỏi thận, sỏi niệu quản, viêm bể thận, viêm bàng quang.</li>\n\t<li>Chỉ định điều trị các cơn co thắt tử cung như thống kinh, dọa sẩy thai, cơn co cứng tử cung.</li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p>Tiropramid có tác dụng chống co thắt trên cơ trơn của đường tiêu hóa, đường tiết niệu và hệ sinh dục. Thuốc ít có tác dụng trên cơ trơn mạch máu.</p>\n\n<p>Cơ chế chống co thắt cơ trơn của tiropramid: Tiropramid làm tăng nồng độ cAMP nội bào bởi vì thuốc hoạt hóa sự tổng hợp cAMP. Nồng độ cAMP tăng dẫn tới làm giãn cơ trơn và ngăn cản dòng calci đi qua màng. Tiropramid cô lập calci trong xoang của các bào quan nội bào do kích thích sự gắn kết của ion Ca++ vào hệ lưới cơ tương. Tiropramid cũng ức chế hấp thu và giải phóng ion Ca++.</p>\n\n<p>Trái ngược với papaverin, tiropramid không phải là chất ức chế men phosphodiesterase. Do đó, cơ chế tác động của tiropramid hoàn toàn khác với cơ chế tác động của papaverin lên cơ trơn. Tiropramid có ái lực rất thấp đối với calmodulin. Tác dụng chống co thắt cơ trơn của tiropramid không phụ thuộc vào calmodulin.</p>\n\n<h3>Dược động học</h3>\n\n<p>Sau liều uống, nồng độ tiropramid trong huyết tương được tìm thấy sau khoảng 18 - 27 phút. Nồng độ đỉnh đạt được trong khoảng 1-1,7 giờ và thời gian bán thải khoảng 2,34 - 2,61 giờ. Tiropramid và một vài chất chuyển hóa của nó có thể phát hiện được trong nước tiểu bằng phương pháp sắc ký lỏng trong vòng 24 giờ sau khi uống.</p>",
+  "ingredients_html": [
+    {
+      "id": 23532,
+      "ingredientId": 38768,
+      "shortDescription": "100mg",
+      "name": "Tiropramide",
+      "isPrimary": false,
+      "slug": "thanh-phan/tiropramide"
+    }
+  ],
+  "stock_qty": 0
+}

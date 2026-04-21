@@ -1,0 +1,49 @@
+{
+  "id": "00006005",
+  "slug": "thuoc/plotex-25-2579.html",
+  "title": "Thuốc Plotex 25mg Union Korea Pharm điều trị bệnh tâm thần phân liệt (10 vỉ x 10 viên)",
+  "short_title": "PLOTEX",
+  "brand": {
+    "name": "Union Korea Pharm",
+    "slug": "thuong-hieu/union-korea-pharm",
+    "country": "Hàn Quốc"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-than-kinh/thuoc-than-kinh",
+    "name": "Thuốc thần kinh",
+    "parent_slug": "thuoc/thuoc-than-kinh"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006005_plotex_25_4499_60fa_large_ca8f0dda87.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006005_plotex_25_4499_60fa_large_ca8f0dda87.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006005_plotex_25_2460_60fa_large_0413764c9d.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006005_plotex_25_4550_60fa_large_a652b2d173.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006005_plotex_25_7429_60fa_large_620c2e104a.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006005_plotex_25_7006_60fa_large_dc7e476eef.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006005_plotex_25_5449_60fa_large_a48fd7b6be.jpg"
+  ],
+  "origin_label": "Hàn Quốc",
+  "country": "Hàn Quốc",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén",
+  "trust_label": null,
+  "short_description": "<p>Plotex 25 có thành phần chính levosulpiride, do công ty Union Korea Pharm sản xuất, được dùng để điều trị bệnh tâm thần phân liệt.</p>\n\n<p>Viên nén tròn màu trắng.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p><strong>Thuốc </strong><a href=\"https://nhathuoclongchau.com.vn/thuoc/plotex-25-2579.html\"><strong>Plotex</strong></a><strong> 25mg</strong> được chỉ định dùng trong các trường hợp sau:</p><p>Ðiều trị bệnh <a href=\"https://nhathuoclongchau.com.vn/benh/tam-than-phan-liet-43.html\">tâm thần phân liệt</a>.</p><h3>Dược lực học</h3><p>Levosulpiride là một benzamide thay thế, có tác động đối kháng dopamin cả ở trung ương và ngoại biên. Nó là một tác nhân an thần không điển hình và là một tác nhân làm tăng nhu động đường tiêu hóa.</p><h3>Dược động học</h3><p>Sau khi dùng đường uống, sinh khả dụng của thuốc khoảng 30%. Nồng độ đỉnh huyết tương đạt được khoảng 3 giờ sau khi uống. Thời gian bán huỷ huyết tương khoảng 9,7 giờ. Thuốc được bài tiết chủ yếu qua thận vào nước tiểu.</p>",
+  "ingredients_html": [
+    {
+      "id": 22918,
+      "ingredientId": 25453,
+      "shortDescription": "25mg",
+      "name": "Levosulpiride",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

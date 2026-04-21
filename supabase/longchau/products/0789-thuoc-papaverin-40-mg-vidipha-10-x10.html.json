@@ -1,0 +1,44 @@
+{
+  "id": "00042365",
+  "slug": "thuoc/papaverin-40-mg-vidipha-10-x10.html",
+  "title": "Thuốc Papaverin 40mg Vidipha điều trị đau bụng, cơn đau quặn mật, thận (10 vỉ x 10 viên)",
+  "short_title": "PAPAVERIN 40MG VIDIPHA 10X10",
+  "brand": {
+    "name": "Vidipha",
+    "slug": "thuong-hieu/vidipha",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-tieu-chay",
+    "name": "Thuốc trị tiêu chảy",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00042365_9e25bf006a.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00042365_9e25bf006a.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Papaverin là sản phẩm của Vidipha, có thành phần chính là Papaverin HCl. Đây là thuốc được sử dụng để điều trị đau bụng do tăng nhu động ruột, dạ dày, cơn đau quặn thận, cơn đau quặn mật.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc Papaverin được chỉ định dùng trong các trường hợp sau:</p><ul><li>Đau bụng do tăng nhu động ruột, dạ dày.</li><li>Cơn đau quặn thận.</li><li>Cơn đau quặn mật.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 59875,
+      "ingredientId": 41953,
+      "shortDescription": "40mg",
+      "name": "Papaverin HCl",
+      "isPrimary": true,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

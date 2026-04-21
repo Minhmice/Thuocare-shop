@@ -1,0 +1,44 @@
+{
+  "id": "00502909",
+  "slug": "thuoc/vinphacine-250-amikacin-250-mg2ml-vinphaco-hop-1-vi-x-10-ong-37218.html",
+  "title": "Dung dịch tiêm Vinphacine 250 Vinphaco điều trị nhiễm khuẩn đường hô hấp, đường tiết niệu (1 vỉ x 10 ống)",
+  "short_title": "VINPHACINE 250 VINPHACO 1X10",
+  "brand": {
+    "name": "Vĩnh Phúc",
+    "slug": "thuong-hieu/vinh-phuc",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tiem-chich-and-dich-truyen/thuoc-tiem-chich",
+    "name": "Thuốc tiêm chích",
+    "parent_slug": "thuoc/thuoc-tiem-chich-and-dich-truyen"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Ống",
+  "pack_note": "10 Ống",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/image_1024_0c04b7552d.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/image_1024_0c04b7552d.png"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch tiêm",
+  "trust_label": null,
+  "short_description": "<p>Dung dịch tiêm Vinphacine 250 là sản phẩm của Vinphaco chứa hoạt chất Amikacin 250mg/2ml. Đây là thuốc dùng điều trị nhiễm khuẩn đường hô hấp, đường tiết niệu, ổ bụng và nhiễm trùng phụ khoa, nhiễm trùng máu, nhiễm trùng xương và khớp và nhiễm trùng da và cấu trúc da.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Dung dịch tiêm Vinphacine 250 chỉ định điều trị nhiễm khuẩn đường hô hấp, đường tiết niệu, ổ bụng và nhiễm trùng phụ khoa, nhiễm trùng máu, nhiễm trùng xương và khớp và nhiễm trùng da và cấu trúc da.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 67629,
+      "ingredientId": 8764,
+      "shortDescription": "250mg",
+      "name": "Amikacin",
+      "isPrimary": true,
+      "slug": "thanh-phan/amikacin"
+    }
+  ],
+  "stock_qty": 0
+}

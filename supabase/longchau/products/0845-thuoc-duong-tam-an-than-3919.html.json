@@ -1,0 +1,100 @@
+{
+  "id": "00002650",
+  "slug": "thuoc/duong-tam-an-than-3919.html",
+  "title": "Thuốc Dưỡng Tâm An Thần Danapha điều trị mất ngủ do lo âu, làm việc quá sức (100 viên)",
+  "short_title": "DƯỠNG TÂM AN THẦN DNP 100V",
+  "brand": {
+    "name": "Danapha",
+    "slug": "thuong-hieu/danapha",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-than-kinh/thuoc-an-than",
+    "name": "Thuốc an thần",
+    "parent_slug": "thuoc/thuoc-than-kinh"
+  },
+  "price_amount": 75000,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 100 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/dtat_dnp_11b6e2db00.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/dtat_dnp_11b6e2db00.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên bao đường",
+  "trust_label": null,
+  "short_description": "<p>Thuốc dưỡng tâm an thần là sản phẩm của Công ty Cổ phần dược Danapha, với các thành phần thảo dược thiên nhiên là loại thuốc được dùng để để dưỡng tâm, an thần, thông huyết, thanh nhiệt, bổ huyết, bổ tỳ vị, bổ phế thận.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3><p>Thuốc <a href=\"https://nhathuoclongchau.com.vn/thuoc/duong-tam-an-than-3919.html\">Dưỡng Tâm An Thần</a> được chỉ định dùng trong các trường hợp sau:</p><ul><li><a href=\"https://nhathuoclongchau.com.vn/benh/mat-ngu-846.html\">Mất ngủ</a> do <a href=\"https://nhathuoclongchau.com.vn/benh/lo-au-18.html\">lo âu</a>, làm việc quá sức, tim đập hồi hộp.</li><li>Tâm thần bất an, giảm trí nhớ, <a href=\"https://nhathuoclongchau.com.vn/benh/suy-nhuoc-co-the-701.html\">suy nhược cơ thể</a>, ăn không ngon.</li></ul><h3><strong>Dược lực học</strong></h3><ul><li>Bá tử nhân: Để dưỡng tâm, an thần.</li><li>Liên nhục và Liên tâm: Để dưỡng tâm, thanh nhiệt, an thần.</li><li>Lá vông: Để an thần, thông huyết.</li><li>Toan táo nhân: Để dưỡng tâm, an thần.</li><li>Long nhãn: Để bổ huyết, bổ tâm tỷ, an thần định trí.</li><li>Hoài sơn: Để bổ tỷ vị, bổ phế thận.</li><li>Lá dâu: Để lương huyết, thanh nhiệt ở thượng tiêu, giúp an thần.</li></ul><h3><strong>Dược động học</strong></h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 21147,
+      "ingredientId": 25840,
+      "shortDescription": "91.25mg",
+      "name": "Long nhãn",
+      "isPrimary": false,
+      "slug": "thanh-phan/long-nhan"
+    },
+    {
+      "id": 21148,
+      "ingredientId": 24878,
+      "shortDescription": "91.25mg",
+      "name": "Lá vông",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 21149,
+      "ingredientId": 24831,
+      "shortDescription": "91.25mg",
+      "name": "Lá dâu",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 21150,
+      "ingredientId": 21886,
+      "shortDescription": "91.25mg",
+      "name": "Hắc táo nhân",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 21151,
+      "ingredientId": 10035,
+      "shortDescription": "91.25mg",
+      "name": "Bá tử nhân",
+      "isPrimary": false,
+      "slug": "thanh-phan/ba-tu-nhan"
+    },
+    {
+      "id": 21152,
+      "ingredientId": 25542,
+      "shortDescription": "200mg",
+      "name": "Liên tâm",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 21153,
+      "ingredientId": 25540,
+      "shortDescription": "175mg",
+      "name": "Liên Nhục",
+      "isPrimary": false,
+      "slug": "thanh-phan/lien-nhuc"
+    },
+    {
+      "id": 21154,
+      "ingredientId": 22414,
+      "shortDescription": "183mg",
+      "name": "Hoài Sơn",
+      "isPrimary": false,
+      "slug": "thanh-phan/hoai-son"
+    }
+  ],
+  "stock_qty": 0
+}

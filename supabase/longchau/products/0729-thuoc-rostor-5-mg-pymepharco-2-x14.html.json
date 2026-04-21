@@ -1,0 +1,44 @@
+{
+  "id": "00502266",
+  "slug": "thuoc/rostor-5-mg-pymepharco-2-x14.html",
+  "title": "Thuốc Rostor 5mg Pymepharco điều trị tăng cholesterol máu nguyên phát hoặc rối loạn lipid máu hỗn hợp (2 vỉ x 14 viên)",
+  "short_title": "ROSTOR 5MG PYMEPHARCO 2X14",
+  "brand": {
+    "name": "Pymepharco",
+    "slug": "thuong-hieu/pymepharco",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tri-mo-mau",
+    "name": "Thuốc trị mỡ máu",
+    "parent_slug": "thuoc/thuoc-tim-mach-and-mau"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "14 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/rostor_5_4190b4989c.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/rostor_5_4190b4989c.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Rostor 5 là sản phẩm của Công ty cổ phần Pymepharco với thành phần chính là Rosuvastatin. Thuốc Rostor 5 được chỉ định điều trị tăng cholesterol máu nguyên phát hoặc rối loạn lipid máu hỗn hợp, tăng cholesterol máu gia đình kiểu đồng hợp tử.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><ul><li>Tăng cholesterol máu nguyên phát (loại lia kể cả thăng cholesterol máu gia đình kiểu dị hợp tử) hoặc rối loạn lipid máu hỗn hợp (loại llB).</li><li>Tăng cholesterol máu gia đình kiểu đồng hợp tử.</li></ul><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 37966,
+      "ingredientId": 35056,
+      "shortDescription": "5mg",
+      "name": "Rosuvastatin",
+      "isPrimary": false,
+      "slug": "thanh-phan/rosuvastatin"
+    }
+  ],
+  "stock_qty": 0
+}

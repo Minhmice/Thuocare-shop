@@ -1,0 +1,44 @@
+{
+  "id": "00501094",
+  "slug": "thuoc/bexinclin-hataphar-tuyp-15g-35237.html",
+  "title": "Thuốc bôi da Bexinclin 15g Hataphar điều trị tình trạng mụn trứng cá",
+  "short_title": "BEXINCLIN HATAPHAR 15G",
+  "brand": {
+    "name": "Hà Tây",
+    "slug": "thuong-hieu/ha-tay",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-da-lieu/thuoc-boi-ngoai-da",
+    "name": "Thuốc bôi ngoài da",
+    "parent_slug": "thuoc/thuoc-da-lieu"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Tuýp",
+  "pack_note": "Tuýp x 15g",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00501094_BEXINCLIN_HATAPHAR_15_G_28afa1ab24.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00501094_BEXINCLIN_HATAPHAR_15_G_28afa1ab24.png"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Gel",
+  "trust_label": null,
+  "short_description": "<p>Thuốc bôi da Bexinclin là sản phẩm của Công ty cổ phần Dược phẩm Hà Tây - Hataphar với thành phần chính là Clindamycin. Thuốc bôi da Bexinclin có tác dụng điều trị tình trạng mụn trứng cá mức độ từ nhẹ đến vừa hoặc tổn thương viêm, đặc biệt là ở trẻ em từ 12 tuổi trở lên và người lớn.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Bexinclin được chỉ định dùng trong các trường hợp sau:</p><p>Điều trị tại chỗ bệnh mụn trứng cá thông thường mức độ nhẹ đến vừa, đặc biệt là các tổn thương viêm cho trẻ từ 12 tuổi trở lên và người lớn.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 67323,
+      "ingredientId": 15088,
+      "shortDescription": "10mg",
+      "name": "Clindamycin",
+      "isPrimary": true,
+      "slug": "thanh-phan/clindamycin"
+    }
+  ],
+  "stock_qty": 0
+}

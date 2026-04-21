@@ -1,0 +1,44 @@
+{
+  "id": "00043598",
+  "slug": "thuoc/erabru-500-mg-hataphar-2-x10.html",
+  "title": "Thuốc Erabru 500mg Hà Tây điều trị nhiễm khuẩn nhạy cảm với cefuroxim (2 vỉ x 10 viên)",
+  "short_title": "ERABRU 500MG HATAPHAR 2X10",
+  "brand": {
+    "name": "Hà Tây",
+    "slug": "thuong-hieu/ha-tay",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-khang-sinh-khang-nam/thuoc-khang-sinh",
+    "name": "Thuốc kháng sinh",
+    "parent_slug": "thuoc/thuoc-khang-sinh-khang-nam"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00043598_589a860ede.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00043598_589a860ede.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Erabru 500 là sản phẩm của Công ty Cổ phần Dược phẩm Hà Tây, có thành phần chính là Cefuroxim. Đây là thuốc được sử dụng để điều trị nhiễm khuẩn còn nhạy cảm với Cefuroxim như nhiễm khuẩn hô hấp trên - dưới, nhiễm khuẩn tiết niệu - sinh dục, viêm niệu đạo biến chứng không do lậu cầu, viêm cổ tử cung, điều trị và phòng ngừa Lyme, nhiễm khuẩn da - mô mềm.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc Erabru 500 được chỉ định dùng trong các trường hợp sau:</p><p>Điều trị nhiễm khuẩn còn nhạy cảm với Cefuroxim:</p><ul><li>Nhiễm khuẩn hô hấp trên - dưới: Viêm phế quản cấp và mạn, viêm phổi, viêm xoang tái phát, viêm họng…</li><li>Nhiễm khuẩn tiết niệu - sinh dục: Viêm niệu đạo, viêm bể thận, viêm bàng quang…</li><li>Viêm niệu đạo biến chứng không do lậu cầu, viêm cổ tử cung…</li><li>Điều trị Lyme (một bệnh lây truyền do xoắn khuẩn) kỳ sớm và phòng ngừa nó.</li><li>Nhiễm khuẩn da - mô mềm: Chốc lở, mủ da, nhọt…</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 61394,
+      "ingredientId": 13658,
+      "shortDescription": "500mg",
+      "name": "Cefuroxim",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

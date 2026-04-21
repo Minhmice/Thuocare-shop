@@ -1,0 +1,49 @@
+{
+  "id": "00006076",
+  "slug": "thuoc/prazopro-40-2542.html",
+  "title": "Thuốc Prazopro 40 TV.Pharm điều trị loét dạ dày - tá tràng lành tính (2 vỉ x 7 viên)",
+  "short_title": "PRAZO PRO 40 TVP 2X7",
+  "brand": {
+    "name": "Tv.Pharm",
+    "slug": "thuong-hieu/tvpharm",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-da-day",
+    "name": "Thuốc dạ dày",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "7 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006076_prazopro_40_9195_60f5_large_f2ba27861c.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006076_prazopro_40_9195_60f5_large_f2ba27861c.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006076_prazopro_40_4135_60f5_large_93551208a8.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006076_prazopro_40_4969_60f5_large_ecf16bb99b.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006076_prazopro_40_1858_60f5_large_eaa74ee36f.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006076_prazopro_40_2492_60f5_large_1b6be38a8d.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006076_prazopro_40_7705_60f5_large_ae958db633.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang cứng chứa hạt bao tan trong ruột",
+  "trust_label": null,
+  "short_description": "<p><strong>Prazopro 40</strong> có thành phần chính là <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/esomeprazole\"><strong>Esomeprazol</strong></a> (Dạng hạt Esomeprazol magnesi) được dùng để điều trị <a href=\"https://nhathuoclongchau.com.vn/benh/loet-da-day-ta-trang-580.html\"><strong>loét dạ dày</strong></a> - tá tràng lành tính, loét dạ dày tá tràng do dùng <a href=\"https://nhathuoclongchau.com.vn/thuoc/he-than-kinh-trung-uong/thuoc-khang-viem-khong-steroid\"><strong>thuốc chống viêm không steroid</strong></a>.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3><p><strong>Thuốc Prazopro 40</strong> được chỉ định dùng trong các trường hợp sau:</p><ul><li>Loét dạ dày - tá tràng lành tính.</li><li>Phòng và điều trị loét dạ dày&nbsp;tá tràng do dùng thuốc chống viêm không steroid.</li><li><a href=\"https://nhathuoclongchau.com.vn/bai-viet/hoi-chung-zollinger-ellison-la-gi-ban-can-biet-gi-ve-tinh-trang-nay-70804.html\"><strong>Hội chứng Zollinger-Ellison</strong></a>.</li><li>Bệnh <a href=\"https://nhathuoclongchau.com.vn/benh/trao-nguoc-da-day-135.html\"><strong>trào ngược dạ dày</strong></a> - thực quản: <a href=\"https://nhathuoclongchau.com.vn/benh/viem-thuc-quan-408.html\"><strong>Viêm thực quản</strong></a> trợt xước, loét hoặc thắt hẹp được xác định bằng nội soi.</li></ul><h3><strong>Dược lực học</strong></h3><p>Không tìm thấy dữ liệu.</p><h3><strong>Dược động học</strong></h3><p>Không tìm thấy dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 30482,
+      "ingredientId": 19460,
+      "shortDescription": "40mg",
+      "name": "Esomeprazol",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

@@ -1,0 +1,48 @@
+{
+  "id": "00002128",
+  "slug": "thuoc/crila-forte-ho-tro-dieu-tri-tuyen-tien-liet-780.html",
+  "title": "Thuốc Crila Forte Thiên Dược điều trị phì đại lành tính tuyến tiền liệt, u xơ tử cung (20 viên)",
+  "short_title": "CRILA FORTE 20V",
+  "brand": {
+    "name": "Thiên Dược",
+    "slug": "thuong-hieu/thien-duoc",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-tri-benh-tuyen-tien-liet",
+    "name": "Thuốc trị bệnh tuyến tiền liệt",
+    "parent_slug": "thuoc/thuoc-tiet-nieu-sinh-duc"
+  },
+  "price_amount": 109000,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 20 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002128_crila_forte_ho_tro_dieu_tri_tuyen_tien_liet_2142_5c68_large_06e14fae8f.JPG",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002128_crila_forte_ho_tro_dieu_tri_tuyen_tien_liet_2142_5c68_large_06e14fae8f.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002128_crila_forte_ho_tro_dieu_tri_tuyen_tien_liet_1625296614_cb0146354e.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002128_crila_forte_ho_tro_dieu_tri_tuyen_tien_liet_6488_5af9_large_0ed94fbe5b.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002128_crila_forte_ho_tro_dieu_tri_tuyen_tien_liet_1308_5af9_large_77a820ec8a.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002128_crila_forte_ho_tro_dieu_tri_tuyen_tien_liet_8030_5af9_large_6a4e152dc5.JPG"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang cứng",
+  "trust_label": null,
+  "short_description": "<p>CRILA Forte là sản phẩm được sản xuất bởi Công ty Cổ phần Dược phẩm Thiên Dược, với thành phần chính là cao khô Trinh nữ hoàng cung. Thuốc được dùng điều trị phì đại lành tính tuyến tiền liệt, u xơ tử cung.</p>\n\n<p>CRILA Forte được bào chế dưới dạng viên nang cứng, mỗi viên chứa cao khô Trinh nữ hoàng cung (500mg), tương đương 2.5mg alcaloid toàn phần. Thuốc được đóng gói với dạng hộp 1 chai x 20 viên nang cứng.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p>Thuốc CRILA Forte chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Điều trị phì đại lành tính tuyến tiền liệt. Giảm các triệu chứng của bệnh phì đại lành tính tuyến tiền liệt (<a href=\"https://nhathuoclongchau.com.vn/benh/tieu-rat-tieu-kho-1213.html\">đi tiểu khó</a>, đi tiểu nhiều lần vào ban đêm).</li>\n\t<li>Điểu trị <a href=\"https://nhathuoclongchau.com.vn/benh/u-xo-tu-cung-375.html\">u xơ tử cung</a>.</li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p>Không có thông tin.</p>\n\n<h3>Dược động học</h3>\n\n<p>Không có thông tin.</p>",
+  "ingredients_html": [
+    {
+      "id": 25525,
+      "ingredientId": 42341,
+      "shortDescription": "500mg",
+      "name": "Cao khô trinh nữ hoàng cung",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

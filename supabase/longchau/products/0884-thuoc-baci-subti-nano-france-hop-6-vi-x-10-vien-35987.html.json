@@ -1,0 +1,44 @@
+{
+  "id": "00501846",
+  "slug": "thuoc/baci-subti-nano-france-hop-6-vi-x-10-vien-35987.html",
+  "title": "Men vi sinh Baci-subti Biopharco hỗ trợ điều trị tiêu chảy, viêm ruột, rối loạn tiêu hóa (6 vỉ x 10 viên)",
+  "short_title": "BACI-SUBTI BIOPHARCO 6X10",
+  "brand": {
+    "name": "Biopharco",
+    "slug": "thuong-hieu/biopharco",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tieu-hoa",
+    "name": "Thuốc tiêu hoá",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 3217,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/29_dc6c6c5e05.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/29_dc6c6c5e05.png"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang cứng",
+  "trust_label": null,
+  "short_description": "<p>Men vi sinh Baci-subti hỗ trợ điều trị rối loạn tiêu hóa do loạn khuẩn đường ruột hoặc dùng thuốc kháng tinh kéo dài như phân sống, đầy bụng, khó tiêu... Trẻ em đi ngoài phân sống. Bệnh nhân viêm ruột cấp và mãn tính, tiêu chảy, táo bón.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p><a href=\"https://nhathuoclongchau.com.vn/thuoc/baci-subti-nano-france-hop-6-vi-x-10-vien-35987.html\">Men vi sinh Baci-subti</a> hỗ trợ điều trị trong các trường hợp sau:</p><ul><li><a href=\"https://nhathuoclongchau.com.vn/benh/roi-loan-tieu-hoa-210.html\">Rối loạn tiêu hóa</a> do loạn khuẩn đường ruột hoặc dùng thuốc kháng tinh kéo dài như phân sống, đầy bụng, khó tiêu...</li><li>Trẻ em đi ngoài phân sống.</li><li><a href=\"https://nhathuoclongchau.com.vn/benh/viem-ruot-404.html\">Viêm ruột</a> cấp và mãn tính, tiêu chảy, táo bón.</li></ul><h3>Dược lực học</h3><p><i>Bacillus subtilis R0179</i> tồn tại trong thuốc ở trạng thái bào tử, nhờ vậy khi uống vào dạ dày nó không bị axit cũng như các men tiêu hóa ở dịch vị phá hủy. Ở ruột, bào tử nảy mầm và phát triển thành thể hoạt động, gần vào thành ruột, phát triển và chống lại vi khuẩn gây bệnh qua cơ chế sau:</p><p><i>Bacillus subtilis R0179</i> tổng hợp nhiều chất có hoạt tính sinh học có lợi cho cơ thể như các enzym thủy phân, các vitamin, axit amin... Chúng cung cấp ngay cho cơ thể một số men cần thiết, làm cho tiêu hóa trở lại bình thường trong khi hệ vi khuẩn ở ruột chưa lập lại trạng thái cân bằng.</p><p>Cạnh tranh sinh tồn và ức chế các vi khuẩn gây bệnh đường ruột.</p><p>Tiết các kháng sinh ức chế hoặc tiêu diệt vi khuẩn gây bệnh, tác dụng lên cả vi khuẩn gram (-), gram (+) và nấm gây bệnh.</p><p>Ở thành bào tử, <i>Bacillus subtilis R0179</i> có enzym giống như lysozyme có khả năng dung giải trực tiếp một số vi khuẩn gây bệnh như: <i>E.coli, Stephylococcus...</i></p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 57861,
+      "ingredientId": 10166,
+      "shortDescription": "108cfu",
+      "name": "Bacillus subtilis",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

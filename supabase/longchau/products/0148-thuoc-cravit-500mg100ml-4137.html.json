@@ -1,0 +1,44 @@
+{
+  "id": "00002121",
+  "slug": "thuoc/cravit-500mg100ml-4137.html",
+  "title": "Dung dịch tiêm truyền Cravit 500mg Santen điều trị viêm xoang cấp, viêm phổi, nhiễm trùng đường niệu (100ml)",
+  "short_title": "CRAVIT 500MG/100ML",
+  "brand": {
+    "name": "Santen",
+    "slug": "thuong-hieu/santen",
+    "country": "Nhật Bản"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tiem-chich-and-dich-truyen/thuoc-tiem-chich",
+    "name": "Thuốc tiêm chích",
+    "parent_slug": "thuoc/thuoc-tiem-chich-and-dich-truyen"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Chai",
+  "pack_note": "Chai x 100ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/cravit_iv_161d628c5d.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/cravit_iv_161d628c5d.jpg"
+  ],
+  "origin_label": "Nhật Bản",
+  "country": "Nhật Bản",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch tiêm truyền",
+  "trust_label": null,
+  "short_description": "<p>Dung dịch tiêm truyền Cravit 500mg/100ml là sản phẩm của Jin Yang Pharm Co., Ltd, thành phần chính là Levofloxacine. Dung dịch tiêm truyền Cravit 500mg/100ml có tác dụng điều trị viêm xoang cấp, viêm phổi mắc phải cộng đồng, nhiễm trùng ổ bụng, vùng chậu, nhiễm trùng đường niệu không biến chứng, nhiễm trùng đường niệu có biến chứng kể cả viêm đài bể thận cấp.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Dung dịch tiêm truyền Cravit 500mg/100ml điều trị nhiễm trùng nhẹ, trung bình &amp; nặng ở người lớn &gt; 18 tuổi như: Viêm xoang cấp, đợt cấp viêm phế quản mãn, viêm phổi, viêm phổi mắc phải trong cộng đồng, nhiễm trùng da và cấu trúc da, nhiễm trùng đường tiết niệu có và không có biến chứng, viêm thận - bể thận cấp tính.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 48192,
+      "ingredientId": 25406,
+      "shortDescription": "500mg",
+      "name": "Levofloxacin",
+      "isPrimary": false,
+      "slug": "thanh-phan/levofloxacin"
+    }
+  ],
+  "stock_qty": 0
+}

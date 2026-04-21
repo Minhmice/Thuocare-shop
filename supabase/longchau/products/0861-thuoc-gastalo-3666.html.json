@@ -1,0 +1,49 @@
+{
+  "id": "00003266",
+  "slug": "thuoc/gastalo-3666.html",
+  "title": "Thuốc Gastalo Phil điều trị tăng Ammoniac huyết trong bệnh gan cấp và mãn tính (10 vỉ x 10 viên)",
+  "short_title": "GASTALO PHIL 10X10",
+  "brand": {
+    "name": "Phil",
+    "slug": "thuong-hieu/phil",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-benh-gan",
+    "name": "Thuốc trị bệnh gan",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00003266_gastalo_3538_5bc6_large_4d91c4c6e4.JPG",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003266_gastalo_3538_5bc6_large_4d91c4c6e4.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003266_gastalo_1628330583_2a8b0b15ce.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003266_gastalo_3552_5bc6_large_5a64862e5d.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003266_gastalo_5079_5bc6_large_132029e5e9.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003266_gastalo_3954_5bc6_large_1cdd1060e5.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003266_gastalo_8826_5bc6_large_3b95276196.JPG"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang mềm",
+  "trust_label": null,
+  "short_description": "<p>Gastalo của Công ty TNHH Phil Pharma, thành phần chính L-Ornithin L- Aspartat 500mg, là thuốc dùng để điều trị các bệnh lý ở gan, đặc biệt thuốc được dùng để điều trị hôn mê gan và giai đoạn tiền hôn mê gan.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p>Thuốc L-Ornithin L- Aspartat 500mg được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Tăng Ammoniac huyết trong bệnh gan cấp và mãn tính (xơ gan, <a href=\"https://nhathuoclongchau.com.vn/benh/gan-nhiem-mo-464.html\">gan nhiễm mỡ</a>, viêm gan siêu vi, viêm gan do thuốc, hóa chất, rượu...); đặc biệt trong điều trị các rối loạn khởi phát tiền hôn mê gan, hôn mê gan và bệnh não gan; các biểu hiện ngứa, chán ăn, mệt mỏi, suy nhược, nổi <a href=\"https://nhathuoclongchau.com.vn/benh/me-day-527.html\">mề đay</a> do suy tế bào gan.</li>\n</ul>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/ornithine\">Ornithine</a> L- Aspartate giúp tăng cường tổng hợp urê, chuyển Amoniac độc hại thành urê nhằm giải độc bằng cách làm giảm nồng độ Amoniac trong gan và não.</p>\n\n<p>Vài thử nghiệm lâm sàng có đối chứng báo cáo hiệu quả làm giảm Amoniac huyết bằng cách làm tăng quá trình tổng hợp urê. Tuy nhiên, hiện vẫn còn nhiều quan điểm chưa thống nhất về tác dụng hạ Amoniac huyết của L-Ornithin L-Aspartat.</p>\n\n<p>L-ornithin-L-aspartat kích thích quá trình khử độc Amoniac bằng cách làm tăng quá trình tổng hợp urê trong chu trình urê, thêm vào đó nó còn loại trừ Amoniac ngoài gan từ các mô, do vậy có tác dụng giải độc, bảo vệ tế bào gan.</p>\n\n<p>Ngoài ra, L-ornithin-L-aspartat còn tạo ra năng lượng dưới dạng ATP, từ đó cải thiện cân bằng năng lượng của gan bệnh.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>L-ornithin-L-aspartat cung cấp hai chất nền quan trọng cho cả sự tổng hợp urê và Glutamine. Sau khi uống, L-ornithin-L-aspartat phân ly thành L-ornithin và Acid L-aspartic, hai chất sau đó được hấp thu tại ruột non bằng vận chuyển chủ động thông qua bờ bàn chải của biểu mô ruột non, sự hấp thu đó phụ thuộc Gradien nồng độ Ion natri. Sinh khả dụng đường uống của L-ornithin-L-aspartat là 82,2 ± 28%. Ornithine có thể qua hàng rào máu não.</p>",
+  "ingredients_html": [
+    {
+      "id": 42996,
+      "ingredientId": 25890,
+      "shortDescription": "500mg",
+      "name": "L-ornithine-L-aspartate",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

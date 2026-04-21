@@ -1,0 +1,52 @@
+{
+  "id": "00048212",
+  "slug": "thuoc/amburol-7-5-mg-meyer-bpc-70-ml.html",
+  "title": "Thuốc Amburol 7.5mg Meyer-BPC điều trị các bệnh hô hấp cấp tính và mạn tính (70ml)",
+  "short_title": "AMBUROL 7.5MG 70ML",
+  "brand": {
+    "name": "MEYER-BPC",
+    "slug": "thuong-hieu/meyer-bpc",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-ho-hap/siro-tri-ho-cam",
+    "name": "Siro trị ho cảm",
+    "parent_slug": "thuoc/thuoc-ho-hap"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp x 70ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/Amburol_1f5665402b.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/Amburol_1f5665402b.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Siro",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Amburol điều trị các bệnh hô hấp cấp tính và mạn tính có liên quan đến chứng co thắt phế quản, thay đổi sự tạo thành chất nhầy và sự vận chuyển chất nhầy bị suy giảm. Đặc biệt là viêm phế quản co thắt, viêm phế quản khí phế thũng và hen phế quản.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Amburol điều trị các bệnh hô hấp cấp tính và mạn tính có liên quan đến chứng co thắt phế quản, thay đổi sự tạo thành chất nhầy và sự vận chuyển chất nhầy bị suy giảm. Đặc biệt là viêm phế quản co thắt, viêm phế quản khí phế thũng và hen phế quản.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 69929,
+      "ingredientId": 8700,
+      "shortDescription": "7.5mg",
+      "name": "Ambroxol hydroclorid",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 69930,
+      "ingredientId": 43523,
+      "shortDescription": "0.005mg",
+      "name": "Clenbuterol hydroclorid",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

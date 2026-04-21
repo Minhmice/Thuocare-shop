@@ -1,0 +1,44 @@
+{
+  "id": "00500770",
+  "slug": "thuoc/fabamox-1000dt-vien-trung-uong-1-3-vi-x-7-34895.html",
+  "title": "Thuốc Fabamox 1000DT Trung Ương 1 điều trị viêm xoang cấp tính, viêm tai giữa cấp tính (3 vỉ x 7 viên)",
+  "short_title": "FABAMOX 1000DT VIÊN TRUNG ƯƠNG 1 3X7",
+  "brand": {
+    "name": "Tw1",
+    "slug": "thuong-hieu/tw1",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-mat-tai-mui-hong/thuoc-tri-viem-xoang",
+    "name": "Thuốc trị viêm xoang",
+    "parent_slug": "thuoc/thuoc-mat-tai-mui-hong"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 3 Vỉ x 7 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_khang_sinh_fabamox_1000dt_3_vi_x_7_vien_dff2578939.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_khang_sinh_fabamox_1000dt_3_vi_x_7_vien_dff2578939.png"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén phân tán",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Fabamox 1000DT là sản phẩm của Công ty Cổ phần Dược phẩm Trung Ương I - Pharbaco chứa hoạt chất Amoxicilin điều trị các bệnh nhiễm trùng: Viêm xoang cấp tính, viêm tai giữa cấp tính, viêm amidan, viêm họng cấp tính.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p><a href=\"https://nhathuoclongchau.com.vn/thuoc/fabamox-1000dt-vien-trung-uong-1-3-vi-x-7-34895.html\">Thuốc Fabamox 1000DT</a> điều trị các bệnh nhiễm trùng: <a href=\"https://nhathuoclongchau.com.vn/benh/viem-xoang-479.html\">Viêm xoang</a> cấp tính, viêm tai giữa cấp tính, <a href=\"https://nhathuoclongchau.com.vn/benh/viem-amidan-467.html\">viêm amidan</a>, viêm họng cấp tính.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 57442,
+      "ingredientId": 41860,
+      "shortDescription": "1000mg",
+      "name": "Amoxicilin",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

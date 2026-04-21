@@ -1,0 +1,46 @@
+{
+  "id": "00048047",
+  "slug": "thuoc/erleada-60-mg-janssen-120-v.html",
+  "title": "Thuốc Erleada 60mg Janssen điều trị các bệnh lý về ung thư tuyến tiền liệt (120 viên)",
+  "short_title": "ERLEADA 60MG JANSSEN 120V",
+  "brand": {
+    "name": "Janssen",
+    "slug": "thuong-hieu/janssen",
+    "country": "Hoa Kỳ"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-dieu-tri-ung-thu/thuoc-chong-ung-thu",
+    "name": "Thuốc chống ung thư",
+    "parent_slug": "thuoc/thuoc-dieu-tri-ung-thu"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 120 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/1_3327168f0b.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/1_3327168f0b.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/2_e27f992399.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/3_76d02430cd.jpg"
+  ],
+  "origin_label": "Hoa Kỳ",
+  "country": "Hoa Kỳ",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Erleada là sản phẩm của Janssen Cilag S.p.a có chứa thành phần chính là Apalutamide được chỉ định để điều trị các bệnh lý về ung thư tuyến tiền liệt.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Erleada chỉ định điều trị trong các trường hợp sau: các bệnh lý về ung thư tuyến tiền liệt.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 69796,
+      "ingredientId": 9268,
+      "shortDescription": "60mg",
+      "name": "Apalutamide",
+      "isPrimary": true,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

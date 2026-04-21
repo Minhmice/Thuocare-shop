@@ -1,0 +1,60 @@
+{
+  "id": "00009948",
+  "slug": "thuoc/siro-ho-methorphan-1439.html",
+  "title": "Siro ho Methorphan Traphaco dùng trong ho khan, ho do dị ứng, ho do cảm cúm (60ml)",
+  "short_title": "METHORPHAN 60ML",
+  "brand": {
+    "name": "Traphaco",
+    "slug": "thuong-hieu/traphaco",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-ho-hap/siro-tri-ho-cam",
+    "name": "Siro trị ho cảm",
+    "parent_slug": "thuoc/thuoc-ho-hap"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Chai",
+  "pack_note": "Chai x 60ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00009948_siro_ho_methorphan_5387_6098_large_98e2176555.jpeg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00009948_siro_ho_methorphan_5387_6098_large_98e2176555.jpeg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Siro",
+  "trust_label": null,
+  "short_description": "<p>Siro ho Methorphan được sản xuất bởi công ty Traphaco, với thành phần chính dextromethorphan, <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/chlorphenamine\">chlorpheniramine</a> và guaifenesin, được chỉ định dùng trong các trường hợp ho khan, ho do dị ứng, ho do cảm cúm và ho có đàm trong viêm phổi, viêm phế quản.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p>Thuốc Siro ho Methorphan được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Ðiều trị ho khan, ho do dị ứng, ho do cảm <a href=\"https://nhathuoclongchau.com.vn/benh/cum-434.html\">cúm</a>.</li>\n\t<li>Ðiều trị ho có đàm trong <a href=\"https://nhathuoclongchau.com.vn/benh/viem-phoi-180.html\">viêm phổi</a>, viêm phế quản.</li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p>Methorphan là thuốc trị ho với ba tác động: Cắt cơn ho - long đàm - chống dị ứng do sự phối hợp giữa hoạt chất trị ho không gây nghiện với hoạt chất long đàm và hoạt chất kháng histamine dùng để điều trị triệu chứng của đường hô hấp trên.</p>\n\n<p>Methorphan trị ho do có tác dụng lên trung tâm ho ở hành não, có tác dụng tương đương với codeine nhưng không gây nghiện, ít gây tác dụng phụ ở đường tiêu hóa hơn, hiệu quả tác dụng kéo dài hơn (6 – 8 giờ/1 liều uống một lần).</p>\n\n<p>Methorphan làm loãng sự nhày dính của đàm và các dịch tiết khác của phế quản khiến việc tống xuất chúng được dễ dàng hơn, thuận lợi cho việc rút ngắn điều trị ho, đồng thời làm dịu đường hô hấp đang bị kích ứng.</p>\n\n<p>Methorphan có tác dụng kháng histamine do tác động lên thụ thể H1 ngoại biên, chống lại sự co thắt của phế quản và có tác dụng làm êm dịu nên rất có ích với ho dị ứng.</p>\n\n<p>Methorphan chứa chất phụ natri benzoate cũng có tác dụng kích thích sự bài tiết dịch ở phế quản nên hỗ trợ tốt cho điều trị ho.</p>\n\n<h3>Dược động học</h3>\n\n<p>Chưa có thông tin.</p>",
+  "ingredients_html": [
+    {
+      "id": 24205,
+      "ingredientId": 14498,
+      "shortDescription": "16.02mg",
+      "name": "Chlorphenamine",
+      "isPrimary": false,
+      "slug": "thanh-phan/chlorphenamine"
+    },
+    {
+      "id": 24206,
+      "ingredientId": 17337,
+      "shortDescription": "60mg",
+      "name": "Dextromethorphan",
+      "isPrimary": false,
+      "slug": "thanh-phan/dextromethorphan"
+    },
+    {
+      "id": 24207,
+      "ingredientId": 21754,
+      "shortDescription": "120mg",
+      "name": "Guaifenesin",
+      "isPrimary": false,
+      "slug": "thanh-phan/guaifenesin"
+    }
+  ],
+  "stock_qty": 0
+}

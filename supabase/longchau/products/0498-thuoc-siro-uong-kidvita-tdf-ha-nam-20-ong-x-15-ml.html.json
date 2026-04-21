@@ -1,0 +1,108 @@
+{
+  "id": "00041544",
+  "slug": "thuoc/siro-uong-kidvita-tdf-ha-nam-20-ong-x-15-ml.html",
+  "title": "Siro uống KIDVita-TDF bổ sung acid amin, vitamin, khoáng chất và tăng sức đề kháng (20 ống x 15ml)",
+  "short_title": "SIRO UỐNG KIDVITA-TDF HÀ NAM 20 ỐNG X 15ML",
+  "brand": {
+    "name": "Hà Nam",
+    "slug": "thuong-hieu/ha-nam",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-bo-and-vitamin/siro-bo",
+    "name": "Siro bổ",
+    "parent_slug": "thuoc/thuoc-bo-and-vitamin"
+  },
+  "price_amount": 396000,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 20 Ống x 15ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/12_0bda274203.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/12_0bda274203.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Siro",
+  "trust_label": null,
+  "short_description": "<p>Thuốc KIDvita - TDF của Công ty Cổ phần Dược VTYT Hà Nam, có thành phần chính là L-Lysin HCL, Thiamin hydrochloride, Riboflavin natri phosphate, Pyridoxine hydrochloride, Cholecalciferol, d-α-tocopheryl acetat, Niacinamide, Dexpanthenol, Calcium. Đây là thuốc dùng để bổ acid amin, vitamin và khoáng chất; hỗ trợ tăng cường sức khỏe, tăng sức đề kháng của cơ thể; đóng vai trò trong sự hình thành và phát triển chiều cao, trí tuệ của trẻ nhỏ một cách toàn diện.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc KIDvita - TDF được chỉ định dùng trong các trường hợp sau:</p><ul><li>Bổ sung acid amin, vitamin và khoáng chất mà cơ thể thiếu hụt do khẩu phần ăn không cung cấp đủ.</li><li>Hỗ trợ tăng cường sức khỏe, tăng sức đề kháng của cơ thể.</li><li>Đóng vai trò trong sự hình thành và phát triển chiều cao, trí tuệ của trẻ nhỏ một cách toàn diện.</li></ul><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 56989,
+      "ingredientId": 25720,
+      "shortDescription": "300mg",
+      "name": "L-Lysin HCL",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 56990,
+      "ingredientId": 38159,
+      "shortDescription": "3mg",
+      "name": "Thiamin hydrochloride",
+      "isPrimary": false,
+      "slug": "thanh-phan/thiamin-hydrochloride"
+    },
+    {
+      "id": 56991,
+      "ingredientId": 34757,
+      "shortDescription": "3.5mg",
+      "name": "Riboflavin natri phosphate",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 56992,
+      "ingredientId": 33935,
+      "shortDescription": "6mg",
+      "name": "Pyridoxine hydrochloride",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 56993,
+      "ingredientId": 14553,
+      "shortDescription": "400iu",
+      "name": "Cholecalciferol",
+      "isPrimary": false,
+      "slug": "thanh-phan/cholecalciferol"
+    },
+    {
+      "id": 56994,
+      "ingredientId": 18831,
+      "shortDescription": "15mg",
+      "name": "d-α-tocopheryl acetat",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 56995,
+      "ingredientId": 29865,
+      "shortDescription": "20mg",
+      "name": "Niacinamide",
+      "isPrimary": false,
+      "slug": "thanh-phan/niacinamide"
+    },
+    {
+      "id": 56996,
+      "ingredientId": 17318,
+      "shortDescription": "10mg",
+      "name": "Dexpanthenol",
+      "isPrimary": false,
+      "slug": "thanh-phan/dexpanthenol"
+    },
+    {
+      "id": 56997,
+      "ingredientId": 12326,
+      "shortDescription": "130mg",
+      "name": "Calcium",
+      "isPrimary": false,
+      "slug": "thanh-phan/calcium"
+    }
+  ],
+  "stock_qty": 0
+}

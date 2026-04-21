@@ -1,0 +1,124 @@
+{
+  "id": "00007569",
+  "slug": "thuoc/tu-am-bo-than-hoan-bo-than-am-nhuan-phe-376.html",
+  "title": "Thuốc Tư Âm Bổ Thận Hoàn Đại Hồng Phúc bổ thận âm, nhuận phế (10 vỉ x 2 viên)",
+  "short_title": "TƯ ÂM BỔ THẬN HOÀN 10X2",
+  "brand": {
+    "name": "Hồng Phúc",
+    "slug": "thuong-hieu/hong-phuc",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+    "name": "Thuốc bổ",
+    "parent_slug": "thuoc/thuoc-bo-and-vitamin"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 10 Vỉ x 2 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6744_149b202d56.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6744_149b202d56.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6745_d6eeaedea4.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6746_c68ca9e22b.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6747_deed2ab29d.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6748_cb5ba1250a.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6749_024521f282.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6750_14d8128ccc.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6752_28c5ebd86e.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6753_fe4bcb1df0.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Hoàn mềm",
+  "trust_label": null,
+  "short_description": "<p>Tư âm bổ thận hoàn là sản phẩm của Công ty TNHH y học cổ truyền Đại Hồng Phúc có thành phần chính là các vị thảo mộc dược liệu tự nhiên như: Mẫu đơn, Thục địa, Sơn thù, Củ mài, Trạch tả, Phục linh, Mạch môn, Thạch hộc, Đỗ trọng, Ngưu tất, Mật ong với công dụng bổ thận, nhuận phế, sinh tân dịch.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p>Thuốc Tư âm bổ thận được chỉ định điều trị triệu chứng thận âm hư hoả vượng:</p>\n\n<ul>\n\t<li><strong><a href=\"https://nhathuoclongchau.com.vn/benh/cao-huyet-ap-225.html\">Tăng huyết áp</a></strong>, người mệt mỏi, khô khát, đổ mồ hôi trộm, <strong><a href=\"https://nhathuoclongchau.com.vn/benh/nhuc-dau-24.html\">nhức đầu</a></strong>, <strong><a href=\"https://nhathuoclongchau.com.vn/benh/hoa-mat-chong-mat-14.html\">chóng mặt, hoa mắt</a></strong>, ít ngủ hay mê.</li>\n\t<li>Đau lưng, mỏi gối, di mộng tinh, tiểu gắt, tiểu đêm nhiều lần, di hoạt tinh, đại tiện táo kiết hoặc ra máu.</li>\n</ul>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Chưa có báo cáo.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Chưa có báo cáo.</p>",
+  "ingredients_html": [
+    {
+      "id": 26928,
+      "ingredientId": 26652,
+      "shortDescription": "400mg",
+      "name": "Mẫu đơn",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 26929,
+      "ingredientId": 16053,
+      "shortDescription": "500mg",
+      "name": "Củ Mài Dại",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 26930,
+      "ingredientId": 36514,
+      "shortDescription": "500mg",
+      "name": "Sơn thù",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 26931,
+      "ingredientId": 38361,
+      "shortDescription": "1000mg",
+      "name": "Thục địa",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 26932,
+      "ingredientId": 26251,
+      "shortDescription": "400mg",
+      "name": "Mạch môn",
+      "isPrimary": false,
+      "slug": "thanh-phan/mach-mon"
+    },
+    {
+      "id": 26933,
+      "ingredientId": 39013,
+      "shortDescription": "400mg",
+      "name": "Trạch tả",
+      "isPrimary": false,
+      "slug": "thanh-phan/trach-ta"
+    },
+    {
+      "id": 26934,
+      "ingredientId": 32516,
+      "shortDescription": "400mg",
+      "name": "Phục Linh",
+      "isPrimary": false,
+      "slug": "thanh-phan/phuc-linh"
+    },
+    {
+      "id": 26935,
+      "ingredientId": 38018,
+      "shortDescription": "300mg",
+      "name": "Thạch hộc",
+      "isPrimary": false,
+      "slug": "thanh-phan/thach-hoc"
+    },
+    {
+      "id": 26936,
+      "ingredientId": 18363,
+      "shortDescription": "300mg",
+      "name": "Đỗ trọng",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 26937,
+      "ingredientId": 29714,
+      "shortDescription": "300mg",
+      "name": "Ngưu tất (Rễ)",
+      "isPrimary": false,
+      "slug": "thanh-phan/nguu-tat"
+    }
+  ],
+  "stock_qty": 0
+}

@@ -1,0 +1,44 @@
+{
+  "id": "00038562",
+  "slug": "thuoc/domperidone-10-mg-stella-10-x10.html",
+  "title": "Thuốc Domperidone 10 Stella điều trị triệu chứng nôn và buồn nôn (10 vỉ x 10 viên)",
+  "short_title": "DOMPERIDONE 10MG STELLA 10X10",
+  "brand": {
+    "name": "Stella Pharm",
+    "slug": "thuong-hieu/stella-pharm",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tieu-hoa",
+    "name": "Thuốc tiêu hoá",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/domperidone_10_adbfaecf24.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/domperidone_10_adbfaecf24.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Domperidone là sản phẩm của Stellpharm dùng điều trị triệu chứng nôn và buồn nôn.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Domperidone dùng điều trị triệu chứng nôn và buồn nôn.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 53998,
+      "ingredientId": 18452,
+      "shortDescription": "10mg",
+      "name": "Domperidone",
+      "isPrimary": false,
+      "slug": "thanh-phan/domperidone"
+    }
+  ],
+  "stock_qty": 0
+}

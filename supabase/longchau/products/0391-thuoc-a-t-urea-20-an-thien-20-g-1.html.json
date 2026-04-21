@@ -1,0 +1,44 @@
+{
+  "id": "00038364",
+  "slug": "thuoc/a-t-urea-20-an-thien-20-g-1.html",
+  "title": "Kem bôi da A.T Urea 20% An Thiên điều trị nứt nẻ tay chân, bệnh vảy cá (20g)",
+  "short_title": "A.T UREA 20% AN THIÊN 20G",
+  "brand": {
+    "name": "An Thiên",
+    "slug": "thuong-hieu/an-thien",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-da-lieu/thuoc-boi-ngoai-da",
+    "name": "Thuốc bôi ngoài da",
+    "parent_slug": "thuoc/thuoc-da-lieu"
+  },
+  "price_amount": 50000,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp x 20g",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/508_00bb544bbe.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/508_00bb544bbe.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Kem",
+  "trust_label": null,
+  "short_description": "<p>Kem bôi da A.T Urea 20% là sản phẩm của Công ty Cổ phần Dược phẩm An Thiên chứa hoạt chất Urea dùng điều trị nứt nẻ tay chân, bệnh vảy cá, dị ứng da, chàm dị ứng.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Kem bôi da A.T Urea 20% dùng điều trị nứt nẻ tay chân, bệnh vảy cá, dị ứng da, chàm dị ứng.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 53861,
+      "ingredientId": 39848,
+      "shortDescription": "20%",
+      "name": "Urea",
+      "isPrimary": false,
+      "slug": "thanh-phan/urea"
+    }
+  ],
+  "stock_qty": 0
+}

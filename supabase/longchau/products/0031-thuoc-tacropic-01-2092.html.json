@@ -1,0 +1,51 @@
+{
+  "id": "00007132",
+  "slug": "thuoc/tacropic-01-2092.html",
+  "title": "Thuốc mỡ Tacropic Tacrolimus 0,1% Davipharm điều trị chàm thể tạng (10g)",
+  "short_title": "TACROPIC 0.1% DAVI 10G",
+  "brand": {
+    "name": "Davipharm",
+    "slug": "thuong-hieu/davipharm",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-da-lieu/thuoc-boi-ngoai-da",
+    "name": "Thuốc bôi ngoài da",
+    "parent_slug": "thuoc/thuoc-da-lieu"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Tuýp",
+  "pack_note": "Tuýp x 10g",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6661_4b8a780a82.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6661_4b8a780a82.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6663_1_a8e6cc5bab.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6655_ca7eaa8009.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6656_42ddf4ef90.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6657_0f83f9bd0c.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6658_0d1c9f1fc8.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6659_d4259f5faa.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6662_4b061ab672.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Thuốc mỡ",
+  "trust_label": null,
+  "short_description": "<p><strong>Tacropic</strong> là sản phẩm của <i>Công ty TNHH Dược phẩm&nbsp;Đạt Vi Phú</i>, có thành phần chính là <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/tacrolimus\"><strong>tacrolimus</strong></a>. Thuốc được dùng để điều trị chàm thể tạng.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p><strong>Tacropic</strong> được chỉ định dùng cho các trường hợp:</p>\n\n<ul>\n\t<li>Ðiều trị <strong><a href=\"https://nhathuoclongchau.com.vn/bai-viet/cham-the-tang-la-gi-nguyen-nhan-va-cach-dieu-tri-cham-the-tang-55575.html\">chàm thể tạng</a></strong>.</li>\n\t<li>Thuốc mỡ tacrolimus nên dùng cho bệnh nhân không đáp ứng hoặc không dung nạp với các điều trị thông thường.</li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p>Cơ chế tác dụng chính xác của tacrolimus ở chàm thể tạng chưa được biết. </p>\n\n<p>Tacrolimus cho thấy có ức chế calcineurin và tiếp đó là đường truyền tính trạng chính phụ thuộc calci trên việc sao chép và tổng hợp các cytokin như Interleukin (IL-2, IL-3, IL-4, IL-5 và các bào phân như GM-CSF, TNF-α và IFN-γ) mà tham gia sớm vào sự hoạt hóa tế bào T. Ý nghĩa lâm sàng của các tác động này ở chàm thể tạng chưa được biết.</p>\n\n<h3>Dược động học</h3>\n\n<p><em>Hấp thu</em></p>\n\n<p>Hầu hết những bệnh nhân chàm thể tạng (người lớn hoặc trẻ em) được điều trị bằng thuốc mỡ tacrolimus đơn liều hoặc lặp lại (0,03 - 0,3%) có nồng độ trong máu &lt; 2 ng/ml.</p>",
+  "ingredients_html": [
+    {
+      "id": 23436,
+      "ingredientId": 37347,
+      "shortDescription": "0.1%",
+      "name": "Tacrolimus",
+      "isPrimary": false,
+      "slug": "thanh-phan/tacrolimus"
+    }
+  ],
+  "stock_qty": 0
+}

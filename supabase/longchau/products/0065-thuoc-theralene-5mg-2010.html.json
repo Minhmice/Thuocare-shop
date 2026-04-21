@@ -1,0 +1,48 @@
+{
+  "id": "00007295",
+  "slug": "thuoc/theralene-5mg-2010.html",
+  "title": "Thuốc Theralene Sanofi hỗ trợ điều trị các triệu chứng viêm mũi dị ứng, mày đay (40 viên)",
+  "short_title": "THERALENE 5 SNF 2X20",
+  "brand": {
+    "name": "Sanofi",
+    "slug": "thuong-hieu/sanofi",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-di-ung/thuoc-chong-di-ung",
+    "name": "Thuốc chống dị ứng",
+    "parent_slug": "thuoc/thuoc-di-ung"
+  },
+  "price_amount": 500,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "20 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007295_theralene_5mg_9378_5bf7_large_34ea82f4c9.JPG",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007295_theralene_5mg_9378_5bf7_large_34ea82f4c9.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007295_theralene_5mg_1619505583_9146b10628.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007295_theralene_5mg_8453_5bf7_large_de38876b9b.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007295_theralene_5mg_7606_5bf7_large_afe7284273.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007295_theralene_5mg_7927_6087_large_ad2ff75483.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Theralene 5 do CÔNG TY CỔ PHẦN SANOFI VIỆT NAM sản xuất có hoạt chất là Alimemazin có tác dụng điều trị trong trường hợp thỉnh thoảng mất ngủ (ví dụ khi đi xa) và/hoặc thoáng qua (ví dụ khi có một biến cố cảm xúc), điều trị triệu chứng đối với các biểu hiện dị ứng và để giảm ho khan và ho do kích ứng, đặc biệt là khi ho về chiều hoặc về đêm.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc <a href=\"https://nhathuoclongchau.com.vn/thuoc/theralene-5mg-2010.html\">Theralene</a> 5 được chỉ định dùng trong các trường hợp sau:</p><p>Điều trị trong trường hợp thỉnh thoảng mất ngủ (ví dụ khi đi xa) và/hoặc thoáng qua (ví dụ khi có một biến cố cảm xúc).</p><p>Điều trị triệu chứng đối với các biểu hiện dị ứng như:</p><p><a href=\"https://nhathuoclongchau.com.vn/benh/viem-mui-472.html\">Viêm mũi</a> (ví dụ: Viêm mũi theo mùa, viêm mũi không theo mùa...);</p><p>Viêm kết mạc (viêm mắt);</p><p>Nổi <a href=\"https://nhathuoclongchau.com.vn/benh/me-day-527.html\">mề đay</a>.</p><p>Để giảm ho khan và ho do kích ứng, đặc biệt là khi ho về chiều hoặc về đêm.</p><h3>Dược lực học</h3><p><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/alimemazine\">Alimemazin</a>: Một phenothiazin có chuỗi bên thuộc dây béo và được đặc trưng bởi:</p><p>Một tác dụng an thần rõ rệt ở liều thường dùng do tác dụng histaminergic và adrenolytic trung ương.</p><p>Một tác dụng kháng cholinergic gây nên các tác dụng phụ ngoại biên.</p><p>Một tác dụng adrenolytic ngoại biên có thể có các ảnh hưởng đến huyết động (nguy cơ hạ huyết áp thế đứng).</p><p>Thông qua cơ chế đối kháng cạnh tranh có thể đảo ngược được ở những mức độ khác nhau, tất cả thuốc kháng histamin đều có chung khả năng đối kháng với các tác dụng của histamin, đặc biệt trên da, phế quản, ruột và mạch máu.</p><h3>Dược động học</h3><p>Không có thông tin về dược động học của alimemazin nhưng các đặc điểm chung của tất cả các kháng histamin và đặc biệt là phenothiazin, có thể kể ra là:</p><p><i>Hấp thu:</i> Độ sinh khả dụng thường không cao.</p><p><i>Phân bố:</i> Thể tích phân bố lớn nhờ tính tan trong mỡ.</p><p><i>Chuyển hóa:</i> Có khả năng chuyển hoá mạnh mẽ trong một vài trường hợp với sự hình thành nhiều chất chuyển hóa do đó giải thích vì sao một lượng nhỏ thuốc được tìm thấy trong nước tiểu dưới dạng không biến đổi.</p><p><i>Thải trừ:</i> Thời gian bán hủy thay đổi nhưng thường dài, nên thích hợp dùng thuốc mỗi ngày một lần.</p>",
+  "ingredients_html": [
+    {
+      "id": 37811,
+      "ingredientId": 8150,
+      "shortDescription": "5mg",
+      "name": "Alimemazine",
+      "isPrimary": false,
+      "slug": "thanh-phan/alimemazine"
+    }
+  ],
+  "stock_qty": 0
+}

@@ -1,0 +1,44 @@
+{
+  "id": "00503044",
+  "slug": "thuoc/at-desloratadin-25mg-an-thien-hop-1-chai-x-60ml-37336.html",
+  "title": "Dung dịch uống A.T Desloratadin 2.5mg An Thiên giảm viêm mũi dị ứng, ngứa, nổi mày đay mạn tính (60ml)",
+  "short_title": "A.T DESLORATADIN 2.5MG AN THIÊN 60ML",
+  "brand": {
+    "name": "An Thiên",
+    "slug": "thuong-hieu/an-thien",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-di-ung/thuoc-chong-di-ung",
+    "name": "Thuốc chống dị ứng",
+    "parent_slug": "thuoc/thuoc-di-ung"
+  },
+  "price_amount": 28000,
+  "compare_at_amount": 0,
+  "unit": "Chai",
+  "pack_note": "Chai x 60ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DESLORATADINE_60_ML_fb0af90450.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DESLORATADINE_60_ML_fb0af90450.png"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch uống",
+  "trust_label": null,
+  "short_description": "<p>Dung dịch uống A.T Desloratadin là sản phẩm của Công ty Cổ phần Dược phẩm An Thiên với thành phần chính là Desloratadin. Dung dịch uống A.T Desloratadin có tác dụng làm giảm triệu chứng trong các bệnh: Viêm mũi dị ứng, ngứa, nổi mề đay mạn tính.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Làm giảm triệu chứng trong các bệnh: Viêm mũi dị ứng, ngứa, nổi mề đay mạn tính.</p><h3>Dược lực học</h3><p dir=\"ltr\">Nhóm dược lý: Thuốc kháng histamin H1.</p><p dir=\"ltr\">Mã ATC: R06AX27.</p><p dir=\"ltr\">Desloratadine là một thụ thể kháng histamin ba vòng có tác dụng kéo dài với hoạt tính kháng thụ thể histamin H1 có tính lựa chọn cao. Cơ sở gắn kết thụ thể chỉ ra rằng ở nồng độ 2 - 3 ng/ml, desloratadine có tương tác đáng kể với thụ thể histamin H1 ở người. Trên in vitro, desloratadine ức chế giải phóng histamin tế bào ở người.</p><h3>Dược động học</h3><p dir=\"ltr\">Kết quả nghiên cứu phân bố bằng đồng vị phóng xạ trên chuột chỉ ra rằng desloratadine không đi qua hàng rào máu não.</p><p dir=\"ltr\">Theo đường uống, desloratadine 5 mg/lần/ngày, uống trong vòng 10 ngày, thời gian trung bình để đạt được nồng độ huyết tương đỉnh xấp xỉ gần 3 giờ sau khi uống. Thức ăn và nước ép trái cây không làm ảnh hưởng đến sinh khả dụng của desloratadine.</p><p dir=\"ltr\">Desloratadine chuyển hoá thành 3 - hydroxy desloratadine, một chất chuyển hoá hoạt tính và sau trở thành glucuronidase. Các enzyme đảm bảo cho việc hình thành 3 - hydroxy desloratadine chưa được xác định. Desloratadine và 3 - hydroxy desloratadine gắn kết với protein huyết tương xấp xỉ 82% - 87% và 85% - 89%. Sự gắn kết của desloratadine và 3 - hydroxy desloratadine không thay đổi ở bệnh nhân suy thận.</p><p dir=\"ltr\">Thời gian bán thải của desloratadine là 27 giờ. Giá trị Cmax (nồng độ đỉnh huyết tương) và AUC (diện tích dưới đường cong) tăng lên khi dùng liều đơn từ 5 - 20mg. Tăng tích lũy đạt được sau khi uống 14 ngày phù hợp với thời gian bán thải và liều dùng thường xuyên. Nghiên cứu ở người cho thấy khoảng 87% liều dùng desloratadine được tìm thấy trong nước tiểu và phân dưới dạng các chất chuyển hoá.</p><p dir=\"ltr\">Trong các nghiên cứu về nốt phồng ở da người với liều đơn và liều lặp lại 5mg desloratadine chỉ ra rằng thuốc ức chế kháng histamin một cách hiệu quả sau 1 giờ và kéo dài 24 giờ.</p>",
+  "ingredients_html": [
+    {
+      "id": 56479,
+      "ingredientId": 17208,
+      "shortDescription": "2.5mg",
+      "name": "Desloratadine",
+      "isPrimary": false,
+      "slug": "thanh-phan/desloratadine"
+    }
+  ],
+  "stock_qty": 0
+}

@@ -1,0 +1,52 @@
+{
+  "id": "00038311",
+  "slug": "thuoc/soliqua-solostar-sanofi-3-but-x-3-ml.html",
+  "title": "Bút tiêm Soliqua SoloStar Sanofi điều trị đái tháo đường (3 bút)",
+  "short_title": "SOLIQUA SOLOSTAR SANOFI 3 BÚT X 3ML",
+  "brand": {
+    "name": "Sanofi",
+    "slug": "thuong-hieu/sanofi",
+    "country": "Pháp"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tri-tieu-duong",
+    "name": "Thuốc trị tiểu đường",
+    "parent_slug": "thuoc"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 3 Cây x 1ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/505_f7ca37aca1.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/505_f7ca37aca1.jpg"
+  ],
+  "origin_label": "Pháp",
+  "country": "Pháp",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch tiêm trong bút tiêm nạp sẵn",
+  "trust_label": null,
+  "short_description": "<p>Bút tiêm Soliqua là sản phẩm của Sanofi chứa Insulin Glargine và Lixisenatide dùng cải thiện kiểm soát đường huyết ở người lớn mắc bệnh <a href=\"https://nhathuoclongchau.com.vn/benh/tieu-duong-tuyp-2.html\">đái tháo đường type 2</a>.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Bút tiêm Soliqua giúp cải thiện kiểm soát đường huyết ở người lớn mắc bệnh đái tháo đường type 2.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 57125,
+      "ingredientId": 23757,
+      "shortDescription": "100ui",
+      "name": "Insulin Glargine",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 57126,
+      "ingredientId": 25703,
+      "shortDescription": "50µg",
+      "name": "Lixisenatide",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

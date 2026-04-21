@@ -1,0 +1,44 @@
+{
+  "id": "00502194",
+  "slug": "thuoc/bufecol-ibuprofen-100mg5ml-hamedi-ha-nam-hop-20-ong-x-10ml-36441.html",
+  "title": "Hỗn dịch uống Bufecol 100mg/5ml Hà Nam giảm đau, hạ sốt, chống viêm (20 ống)",
+  "short_title": "BUFECOL IBUPROFEN 100MG/5ML HAMEDI HÀ NAM 20 ỐNG X 10ML",
+  "brand": {
+    "name": "Hà Nam",
+    "slug": "thuong-hieu/ha-nam",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-than-kinh/thuoc-than-kinh",
+    "name": "Thuốc thần kinh",
+    "parent_slug": "thuoc/thuoc-than-kinh"
+  },
+  "price_amount": 156000,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 20 Ống x 10ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/bufecol_03a9112eb9.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/bufecol_03a9112eb9.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Hỗn dịch",
+  "trust_label": null,
+  "short_description": "<p>Hỗn dịch uống Bufecol là sản phẩm của Công ty Cổ phần Dược Vật tư Y tế Hà Nam chứa hoạt chất chính Ibuprofen dùng giảm đau, hạ sốt, chống viêm trong các trường hợp viêm khớp dạng thấp.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Hỗn dịch uống <a href=\"https://nhathuoclongchau.com.vn/thuoc/bufecol-ibuprofen-100mg5ml-hamedi-ha-nam-hop-20-ong-x-10ml-36441.html\">Bufecol</a> chỉ định điều trị trong các trường hợp sau:</p><ul><li>Hạ sốt: <a href=\"https://nhathuoclongchau.com.vn/benh/cam-lanh-583.html\">Cảm lạnh</a>, cảm củm, sốt sau tiêm chủng .....</li><li>Giảm đau: Đau đầu, đau tai, đau răng, <a href=\"https://nhathuoclongchau.com.vn/benh/dau-lung-64.html\">đau lưng</a>, đau dây chằng, cơ bắp, đau do <a href=\"https://nhathuoclongchau.com.vn/benh/viem-khop-dang-thap-254.html\">viêm khớp dạng thấp</a> và các trường hợp đau nhẹ và vừa khác.</li><li>Chống viêm: Viêm khớp dạng thấp.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 52602,
+      "ingredientId": 23189,
+      "shortDescription": "100mg",
+      "name": "Ibuprofen",
+      "isPrimary": false,
+      "slug": "thanh-phan/ibuprofen"
+    }
+  ],
+  "stock_qty": 0
+}

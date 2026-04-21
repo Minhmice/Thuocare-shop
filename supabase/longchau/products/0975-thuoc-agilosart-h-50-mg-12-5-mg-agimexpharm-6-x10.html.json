@@ -1,0 +1,52 @@
+{
+  "id": "00050120",
+  "slug": "thuoc/agilosart-h-50-mg-12-5-mg-agimexpharm-6-x10.html",
+  "title": "Thuốc Agilosart-H 50/12.5 Agimexpharm điều trị tăng huyết áp ( 6 Vỉ X 10 Viên)",
+  "short_title": "AGILOSART-H 50MG/12.5MG AGIMEXPHARM 6X10",
+  "brand": {
+    "name": "Agimexpharm",
+    "slug": "thuong-hieu/agimexpharm",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap",
+    "name": "Thuốc tim mạch huyết áp",
+    "parent_slug": "thuoc/thuoc-tim-mach-and-mau"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/agilosart_40d16355ac.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/agilosart_40d16355ac.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Agilosart-H 50/12,5 dùng trong điều trị tăng huyết áp vô căn ở người lớn, đặc biệt các trường hợp không kiểm soát được huyết áp bằng liệu pháp dùng một thuốc.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Agilosart-H 50/12,5 dùng trong điều trị tăng huyết áp vô căn ở người lớn, đặc biệt các trường hợp không kiểm soát được huyết áp bằng liệu pháp dùng một thuốc.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 40424,
+      "ingredientId": 25899,
+      "shortDescription": "50mg",
+      "name": "Losartan kali",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 40425,
+      "ingredientId": 22905,
+      "shortDescription": "12.5mg",
+      "name": "Hydrochlorothiazide",
+      "isPrimary": false,
+      "slug": "thanh-phan/hydrochlorothiazide"
+    }
+  ],
+  "stock_qty": 0
+}

@@ -1,0 +1,49 @@
+{
+  "id": "00004475",
+  "slug": "thuoc/lisinopril-10-3212.html",
+  "title": "Viên nén Lisinopril Stella 10mg điều trị tăng huyết áp, suy tim sung huyết (10 vỉ x 10 viên)",
+  "short_title": "LISINOPRIL 10MG STELLA 10X10",
+  "brand": {
+    "name": "Stella Pharm",
+    "slug": "thuong-hieu/stella-pharm",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap",
+    "name": "Thuốc tim mạch huyết áp",
+    "parent_slug": "thuoc/thuoc-tim-mach-and-mau"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004475_lisinopril_10_8257_61df_large_5efd8a5c94.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004475_lisinopril_10_8257_61df_large_5efd8a5c94.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004475_lisinopril_10_1626419797_1738a6c10c.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004475_lisinopril_10_3750_61df_large_dff389ee6e.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004475_lisinopril_10_5821_61df_large_c0c97bdce7.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004475_lisinopril_10_9291_61df_large_a582af4841.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004475_lisinopril_10_7111_61df_large_3823b2aca2.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén",
+  "trust_label": null,
+  "short_description": "<p><strong>Lisinopril STELLA 10 mg</strong> là một sản phẩm của <i>Công ty TNHH LD Stellapharm</i> với thành phần chính là lisinopril. Thuốc được dùng trong điều trị tăng huyết áp, suy tim sung huyết, nhồi máu cơ tim cấp và bệnh thận đo đái tháo đường.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p><strong>Thuốc Lisinopril STELLA 10 mg</strong> được chỉ định dùng trong các trường hợp sau:</p><ul><li><i>Ðiều trị tăng huyết áp:</i> Lisinopril được dùng đơn trị hay phối hợp với các nhóm thuốc điều trị tăng huyết áp khác (như thuốc lợi tiểu).</li><li><i>Điều trị </i><a href=\"https://nhathuoclongchau.com.vn/benh/suy-tim-314.html\"><i><strong>suy tim</strong></i></a><i> sung huyết:</i> Lisinopril được dùng kết hợp với thuốc lợi tiểu và các glycosid tim trong điều trị suy tim sung huyết có triệu chứng đề kháng hoặc không được kiểm soát tốt bởi thuốc lợi tiểu và glycosid tim.</li><li><a href=\"https://nhathuoclongchau.com.vn/benh/nhoi-mau-co-tim-595.html\"><i><strong>Nhồi máu cơ tim</strong></i></a><i><strong> </strong>cấp:</i> Lisinopril được dùng phối hợp với thuốc làm tan huyết khối, aspirin, và/hoặc thuốc chẹn β-adrenergic để cải thiện sự sống còn trên những bệnh nhân nhồi máu cơ tim cấp có huyết động ổn định.</li><li><i>Điều trị bệnh thận do đái tháo đường.</i></li></ul><h3>Dược lực học</h3><p><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/lisinopril\"><strong>Lisinopril</strong></a> là thuốc ức chế enzym chuyển angiotensin (ACE). ACE là một peptidyl dipeptidase xúc tác phản ứng chuyển angiotensin I thành angiotensin II có tác dụng co mạch. Angiotensin II còn kích thích tiết aldosteron của vỏ thượng thận. Tác động có ích của lisinopril trên bệnh tăng huyết áp và suy tim chủ yếu do ức chế hệ thống renin - angiotensin - aldosteron. Việc ức chế ACE làm giảm angiotensin II trong huyết tương dẫn đến giảm hoạt tính co mạch và giảm tiết aldosteron.</p><h3>Dược động học</h3><p>Lisinopril hấp thu chậm và không hoàn toàn sau khi uống. Sự hấp thu rất khác nhau giữa các cá thể, khoảng từ 6 - 60%, trung bình khoảng 25% liều dùng được hấp thu. Lisinopril là một diacid có sẵn hoạt tính và không cần được chuyển hóa trong cơ thể. Nồng độ tối đa trong huyết tương đạt được sau khoảng 7 giờ. Lisinopril không liên kết đáng kể với protein huyết tương. Thuốc được thải trừ qua nước tiểu dưới dạng không biến đổi. Thời gian bán hủy tích lũy sau khi uống nhiều liều ở người bệnh có chức năng thận bình thường là 12 giờ. Lisinopril được loại bỏ bằng thẩm tách máu.</p>",
+  "ingredients_html": [
+    {
+      "id": 22140,
+      "ingredientId": 25667,
+      "shortDescription": "10mg",
+      "name": "Lisinopril",
+      "isPrimary": false,
+      "slug": "thanh-phan/lisinopril"
+    }
+  ],
+  "stock_qty": 0
+}

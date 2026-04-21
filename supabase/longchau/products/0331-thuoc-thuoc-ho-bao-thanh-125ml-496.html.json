@@ -1,0 +1,190 @@
+{
+  "id": "00007321",
+  "slug": "thuoc/thuoc-ho-bao-thanh-125ml-496.html",
+  "title": "Siro ho Bảo Thanh điều trị các chứng ho, viêm phổi (125ml)",
+  "short_title": "THUỐC HO BẢO THANH 125ML",
+  "brand": {
+    "name": "Hoa Linh",
+    "slug": "thuong-hieu/hoa-linh",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-ho-hap/siro-tri-ho-cam",
+    "name": "Siro trị ho cảm",
+    "parent_slug": "thuoc/thuoc-ho-hap"
+  },
+  "price_amount": 67000,
+  "compare_at_amount": 0,
+  "unit": "Chai",
+  "pack_note": "Chai x 125ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09075_a2549abf26.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09075_a2549abf26.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09067_04d4c6069e.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09068_55320e7a40.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09069_6bc77d50e0.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09070_1c0e37cc58.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09072_dcbc5f81d1.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09076_cc9f850bd4.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09077_6a065cb375.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09078_ef0153d581.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/bao_thanh_1_67298a872e.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/bao_thanh_2_30c220f553.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Siro",
+  "trust_label": null,
+  "short_description": "<p><a href=\"https://nhathuoclongchau.com.vn/thuoc/thuoc-ho-bao-thanh-125ml-496.html\">Thuốc ho Bảo Thanh</a> dùng giảm các chứng ho do cảm lạnh, nhiễm lạnh, ho gió, ho khan, ho có đờm, ho do dị ứng thời tiết. Người bị phế âm hư gây ho dai dẳng lâu ngày, miệng họng khô, cổ họng ngứa, nóng rát, khản tiếng. Hỗ trợ điều trị viêm phổi, viêm họng, viêm phế quản.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc ho Bảo Thanh 125ml được chỉ định dùng trong các trường hợp sau:</p><ul><li>Ðiều trị các chứng ho do <a href=\"https://nhathuoclongchau.com.vn/benh/cam-lanh-583.html\">cảm lạnh</a>, nhiễm lạnh, ho gió, ho khan, ho có đờm, ho do dị ứng thời tiết.</li><li>Người bị phế âm hư gây ho dai dẳng lâu ngày, miệng họng khô, cổ họng ngứa, nóng rát, khản tiếng.</li><li>Hỗ trợ điều trị <a href=\"https://nhathuoclongchau.com.vn/benh/viem-phoi-180.html\">viêm phổi</a>, viêm họng, viêm phế quản.</li></ul><h3>Dược lực học</h3><p>Công năng: Bổ phế, trừ ho, hóa đờm.</p><h3>Dược động học</h3><p>Chưa có báo cáo.</p>",
+  "ingredients_html": [
+    {
+      "id": 26453,
+      "ingredientId": 40794,
+      "shortDescription": "5g",
+      "name": "Xuyên bối mẫu",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 71066,
+      "ingredientId": 39705,
+      "shortDescription": "12.5g",
+      "name": "Tỳ bà diệp",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 71067,
+      "ingredientId": 35268,
+      "shortDescription": "2.5g",
+      "name": "Sa sâm",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 71068,
+      "ingredientId": 32516,
+      "shortDescription": "2.5g",
+      "name": "Phục Linh",
+      "isPrimary": false,
+      "slug": "thanh-phan/phuc-linh"
+    },
+    {
+      "id": 71069,
+      "ingredientId": 39051,
+      "shortDescription": "2.5g",
+      "name": "Trần bì",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 71070,
+      "ingredientId": 13188,
+      "shortDescription": "10g",
+      "name": "Cát cánh",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 71071,
+      "ingredientId": 43304,
+      "shortDescription": "2.5g",
+      "name": "Bán hạ",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 71072,
+      "ingredientId": 29693,
+      "shortDescription": "1.25g",
+      "name": "Ngũ vị tử",
+      "isPrimary": false,
+      "slug": "thanh-phan/ngu-vi-tu"
+    },
+    {
+      "id": 71073,
+      "ingredientId": 34019,
+      "shortDescription": "5g",
+      "name": "Qua lâu (Quả)",
+      "isPrimary": false,
+      "slug": "thanh-phan/qua-lau-qua"
+    },
+    {
+      "id": 71074,
+      "ingredientId": 40222,
+      "shortDescription": "2.5g",
+      "name": "Viễn chí",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 71075,
+      "ingredientId": 24574,
+      "shortDescription": "5g",
+      "name": "Khổ hạnh nhân",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 71076,
+      "ingredientId": 12535,
+      "shortDescription": "2.5g",
+      "name": "Can khương",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 71077,
+      "ingredientId": 27810,
+      "shortDescription": "12.5g",
+      "name": "Mơ muối",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 71078,
+      "ingredientId": 26251,
+      "shortDescription": "2.5g",
+      "name": "Mạch môn",
+      "isPrimary": false,
+      "slug": "thanh-phan/mach-mon"
+    },
+    {
+      "id": 71079,
+      "ingredientId": 38199,
+      "shortDescription": "1.25g",
+      "name": "Thiên môn đông",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 71080,
+      "ingredientId": 12473,
+      "shortDescription": "2.5g",
+      "name": "Cam thảo",
+      "isPrimary": false,
+      "slug": "thanh-phan/cam-thao"
+    },
+    {
+      "id": 71081,
+      "ingredientId": 38658,
+      "shortDescription": "17.5g",
+      "name": "Tinh dầu bạc hà",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 71082,
+      "ingredientId": 26615,
+      "shortDescription": "25g",
+      "name": "Mật ong",
+      "isPrimary": false,
+      "slug": "thanh-phan/mat-ong"
+    }
+  ],
+  "stock_qty": 0
+}

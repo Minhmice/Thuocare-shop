@@ -1,0 +1,44 @@
+{
+  "id": "00503747",
+  "slug": "thuoc/pecabine-500mg-normon-12x10-38104.html",
+  "title": "Thuốc Pecabine 500mg điều trị ung thư đại trực tràng di căn, ung thư dạ dày tiến triển (12 vỉ x 10 viên)",
+  "short_title": "PECABINE 500MG NORMON 12X10",
+  "brand": {
+    "name": "Normon",
+    "slug": "thuong-hieu/normon",
+    "country": "Tây Ban Nha"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-dieu-tri-ung-thu/thuoc-chong-ung-thu",
+    "name": "Thuốc chống ung thư",
+    "parent_slug": "thuoc/thuoc-dieu-tri-ung-thu"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 12 Vỉ x 10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/pecabine_1905438b97.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/pecabine_1905438b97.jpg"
+  ],
+  "origin_label": "Tây Ban Nha",
+  "country": "Tây Ban Nha",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Pecabine 500mg là một sản phẩm của Công ty Laboratorios Normon, S.A, thuốc có thành phần chính Capecitabine 500mg. Thuốc được dùng để điều trị hỗ trợ cho bệnh nhân ung thư sau phẫu thuật đại tràng. Thuốc còn dùng điều trị ung thư đại trực tràng di căn và được phối hợp để điều trị ung thư dạ dày tiến triển. Ngoài ra thuốc còn được sử dụng trong điều trị cho bệnh nhân ung thư vú.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc <a href=\"https://nhathuoclongchau.com.vn/thuoc/pecabine-500mg-normon-12x10-38104.html\"><strong>Pecabine 500mg</strong></a> được chỉ định dùng trong các trường hợp sau:</p><ul><li dir=\"ltr\">Điều trị bước một cho bệnh nhân <a href=\"https://nhathuoclongchau.com.vn/bai-viet/ung-thu-dai-trang-di-can-song-duoc-bao-lau.html\"><strong>ung thư đại trực tràng di căn</strong></a>.</li><li dir=\"ltr\">Điều trị hỗ trợ cho bệnh nhân <a href=\"https://nhathuoclongchau.com.vn/benh/ung-thu-dai-trang-449.html\"><strong>ung thư đại tràng</strong></a> giai đoạn III sau phẫu thuật</li><li dir=\"ltr\">Dùng trong đơn trị liệu cho bệnh nhân <a href=\"https://nhathuoclongchau.com.vn/benh/ung-thu-vu-328.html\"><strong>ung thư vú</strong></a> tiến triển sau khi thất bại hóa trị nhóm taxan và cả nhóm anthracyclin và/hoặc những ung thư khác mà không có chỉ định dùng anthracyclin.</li><li dir=\"ltr\">Phối hợp với Docetaxel điều trị cho bệnh nhân ung thư vú tiến triển sau thất bại với hóa trị.</li><li dir=\"ltr\">Phối hợp hợp chất platin trong điều trị bước một cho bệnh nhân <a href=\"https://nhathuoclongchau.com.vn/benh/ung-thu-da-day-448.html\"><strong>ung thư dạ dày</strong></a> tiến triển.</li></ul><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 50211,
+      "ingredientId": 12851,
+      "shortDescription": "500mg",
+      "name": "Capecitabin",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

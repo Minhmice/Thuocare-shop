@@ -1,0 +1,44 @@
+{
+  "id": "00010000",
+  "slug": "thuoc/olesom-100ml-1425.html",
+  "title": "Siro Olesom Gracure điều trị bệnh hô hấp cấp và mãn tính, viêm phế quản (100ml) ",
+  "short_title": "OLESOM GRACURE 100ML",
+  "brand": {
+    "name": "Gracure",
+    "slug": "thuong-hieu/gracure",
+    "country": "Ấn Độ"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-ho-hap/siro-tri-ho-cam",
+    "name": "Siro trị ho cảm",
+    "parent_slug": "thuoc/thuoc-ho-hap"
+  },
+  "price_amount": 53900,
+  "compare_at_amount": 0,
+  "unit": "Chai",
+  "pack_note": "Chai x 100ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/olesom_ffa9418982.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/olesom_ffa9418982.jpg"
+  ],
+  "origin_label": "Ấn Độ",
+  "country": "Ấn Độ",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Siro",
+  "trust_label": null,
+  "short_description": "<p>Siro Olesom là sản phẩm được sản xuất bởi Gracure Pharmaceuticals Ltd&nbsp;(Ấn Độ), thuốc có dược chất chính là ambroxol, thuốc được chỉ định trong điều trị các bệnh tắc nghẽn đường hô hấp cấp tính và mạn tính như hen phế quản và viêm phế quản, giãn phế quản do sản sinh quá nhiều nhầy và đờm. Tăng cường hòa tan dịch nhầy trong các bệnh viêm mũi họng.&nbsp;</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3><p>Thuốc <a href=\"https://nhathuoclongchau.com.vn/thuoc/olesom-100ml-1425.html\">Olesom</a> được chỉ định dùng trong các trường hợp sau:</p><p>Các bệnh tắc nghẽn đường hô hấp cấp tính và mạn tính như hen phế quản và viêm phế quản, giãn phế quản do sản sinh quá nhiều nhầy và đờm. Tăng cường hòa tan dịch nhầy trong các bệnh viêm mũi họng.&nbsp;</p><h3><strong>Dược lực học</strong></h3><p><strong>Nhóm điều trị: Long đờm, tiêu hủy chất nhầy.</strong></p><p><strong>Mã ATC: R05C B06.</strong></p><p>Ambroxol là một chất chuyển hóa của bromhexin, có tác dụng và công dụng tương tự như bromhexin. Ambroxol có tác dụng làm đờm lỏng hơn, ít quánh hơn nên dễ bị tống ra ngoài, vì vậy thuốc có tác dụng long đờm. Một vài tài liệu có nêu ambroxol cải thiện được triệu chứng và làm giảm số đợt cấp tính trong bệnh phổi tắc nghẽn mạn tính nặng. Kết quả nghiên cứu gần đây cho thấy ambroxol có tính chất kháng viêm và có hoạt tính của chất chống oxy hóa. Ngoài ra, ambroxol còn có tác dụng gây tê tại chỗ thông qua chẹn kênh natri ở màng tế bào. Ambroxol có thể kích thích tổng hợp và bài tiết chất diện hoạt phế nang. Thuốc đã được coi là một chất hoạt hóa chất diện hoạt phế nang. Tuy vậy, thuốc không có hiệu quả khi dùng cho người mẹ để phòng hội chứng suy hô hấp ở trẻ sơ sinh, nhưng thuốc có hiệu quả khiêm tốn khi điều trị sớm cho trẻ nhỏ phát bệnh.. Ambroxol cũng có tác dụng bài tiết acid uric qua nước tiêu, tác dụng này phụ thuộc vào liều. Liều tối thiểu có hiệu quả làm giảm acid uric huyết tương khoảng 250 - 500 mg/ngày chia làm 2 lần. Liều cao tới 1g vẫn dung nạp tốt.</p><h3><strong>Dược động học</strong></h3><p>Ambroxol hấp thu nhanh sau khi uống, thuốc khuếch tán nhanh từ máu đến mô với nồng độ thuốc cao nhất trong phổi. Sinh khả dụng khoảng 70%. Nồng độ tối đa trong huyết tương đạt được trong vòng 0,5 - 3 giờ sau khi dùng thuốc. Với liều điều trị, thuốc liên kết với protein huyết tương xấp xỉ 90%. Nửa đời trong huyết tương từ 7 - 12 giờ. Ambroxol được chuyển hóa chủ yếu ở gan. Thuốc bài tiết qua thận khoảng 83%.&nbsp;</p>",
+  "ingredients_html": [
+    {
+      "id": 51307,
+      "ingredientId": 8697,
+      "shortDescription": "30mg",
+      "name": "Ambroxol",
+      "isPrimary": false,
+      "slug": "thanh-phan/ambroxol"
+    }
+  ],
+  "stock_qty": 0
+}

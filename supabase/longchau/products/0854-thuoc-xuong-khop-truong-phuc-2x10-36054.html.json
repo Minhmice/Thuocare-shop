@@ -1,0 +1,162 @@
+{
+  "id": "00501891",
+  "slug": "thuoc/xuong-khop-truong-phuc-2x10-36054.html",
+  "title": "Thuốc Xương Khớp Trường Phúc điều trị các bệnh lý cơ xương khớp và đau dây thần kinh (2 vỉ x 10 viên)",
+  "short_title": "XƯƠNG KHỚP TRƯỜNG PHÚC 2X10",
+  "brand": {
+    "name": "TRƯỜNG PHÚC",
+    "slug": "thuong-hieu/truong-phuc",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/co-xuong-khop/thuoc-xuong-khop",
+    "name": "Thuốc xương khớp",
+    "parent_slug": "thuoc/co-xuong-khop"
+  },
+  "price_amount": 99000,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 2 Vỉ x 10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00501891_7317_631e_large_5ad83881d2.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00501891_7317_631e_large_5ad83881d2.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00501891_1662972373_065bc19272.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00501891_9762_631e_large_5f9759b7ba.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00501891_8101_631e_large_693d87df54.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00501891_1610_631e_large_70e651380f.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00501891_2716_631e_large_ffc4fee436.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00501891_4249_631e_large_f9fc78852e.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Xương khớp Trường Phúc là sản phẩm của Công ty TNHH Dược Thảo Hoàng Thành có thành phần chính là cao đặc hỗn hợp dược liệu bao gồm: Động hoạt, Tang ký sinh, Tần giao, Phòng phong, Tế tân, Quế chi, Ngưu tất, Đỗ trọng, Đương quy, Bạch thược, Cam thảo, Xuyên khung, Sinh địa, Đảng sâm, Bạch linh có công dụng ích can bổ thận, bổ khí huyết, khu phong tán hàn trừ thấp, thông kinh hoạt lạc; dùng trong các trường hợp: Can thận hư, phong hàn thấp gây đau nhức mỏi, thắt lưng, đầu gối, các chi dưới co duỗi khó khăn, cảm giác nặng nề.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p>Xương khớp Trường Phúc chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Can thận hư, phong hàn thấp gây đau nhức mỏi, thắt lưng, đầu gối, các chi dưới co duỗi khó khăn, cảm giác nặng nề.</li>\n\t<li>Giảm đau chống viêm trong các bệnh:\n\t<ul>\n\t\t<li>Đau khớp do viêm khớp mãn hay thoái hóa khớp: Viêm đa khớp, viêm khớp gối, viêm khớp háng, viêm khớp vai, viêm khớp bàn chân, bàn tay, viêm cột sống...</li>\n\t\t<li>Đau dây thần kinh: Đau dây thần kinh hông (tọa), đau dây thần kinh liên sườn...</li>\n\t\t<li>Đau xương, cơ do: <a href=\"https://nhathuoclongchau.com.vn/benh/gay-xuong-65.html\">Gãy xương</a>, teo cơ, <a href=\"https://nhathuoclongchau.com.vn/benh/loang-xuong-78.html\">loãng xương</a>.</li>\n\t</ul>\n\t</li>\n</ul>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Chưa có dữ liệu được báo cáo.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Chưa có dữ liệu được báo cáo.</p>",
+  "ingredients_html": [
+    {
+      "id": 37003,
+      "ingredientId": 32396,
+      "shortDescription": "400mg",
+      "name": "Phòng phong",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 37004,
+      "ingredientId": 18380,
+      "shortDescription": "600mg",
+      "name": "Độc hoạt",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 37005,
+      "ingredientId": 37469,
+      "shortDescription": "400mg",
+      "name": "Tang ký sinh",
+      "isPrimary": false,
+      "slug": "thanh-phan/tang-ky-sinh"
+    },
+    {
+      "id": 37006,
+      "ingredientId": 37441,
+      "shortDescription": "400mg",
+      "name": "Tần giao",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 37007,
+      "ingredientId": 37619,
+      "shortDescription": "400mg",
+      "name": "Tế tân",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 37008,
+      "ingredientId": 10112,
+      "shortDescription": "400mg",
+      "name": "Bạch linh",
+      "isPrimary": false,
+      "slug": "thanh-phan/bach-linh"
+    },
+    {
+      "id": 37009,
+      "ingredientId": 29714,
+      "shortDescription": "400mg",
+      "name": "Ngưu tất (Rễ)",
+      "isPrimary": false,
+      "slug": "thanh-phan/nguu-tat"
+    },
+    {
+      "id": 37010,
+      "ingredientId": 18363,
+      "shortDescription": "400mg",
+      "name": "Đỗ trọng",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 37011,
+      "ingredientId": 10131,
+      "shortDescription": "400mg",
+      "name": "Bạch thược",
+      "isPrimary": false,
+      "slug": "thanh-phan/bach-thuoc"
+    },
+    {
+      "id": 37012,
+      "ingredientId": 34074,
+      "shortDescription": "400mg",
+      "name": "Quế chi",
+      "isPrimary": false,
+      "slug": "thanh-phan/que-chi"
+    },
+    {
+      "id": 37013,
+      "ingredientId": 16671,
+      "shortDescription": "400mg",
+      "name": "Đảng Sâm",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 37014,
+      "ingredientId": 36107,
+      "shortDescription": "400mg",
+      "name": "Sinh Địa",
+      "isPrimary": false,
+      "slug": "thanh-phan/sinh-dia"
+    },
+    {
+      "id": 37015,
+      "ingredientId": 40801,
+      "shortDescription": "400mg",
+      "name": "Xuyên khung",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 37016,
+      "ingredientId": 18784,
+      "shortDescription": "400mg",
+      "name": "Đương quy",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 37017,
+      "ingredientId": 12473,
+      "shortDescription": "400mg",
+      "name": "Cam thảo",
+      "isPrimary": false,
+      "slug": "thanh-phan/cam-thao"
+    }
+  ],
+  "stock_qty": 0
+}

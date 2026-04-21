@@ -1,0 +1,49 @@
+{
+  "id": "00002196",
+  "slug": "thuoc/daivonex-30g-4107.html",
+  "title": "Thuốc mỡ Daivonex 30g LEO điều trị bệnh vẩy nến mảng",
+  "short_title": "DAIVONEX LEO 30G",
+  "brand": {
+    "name": "LEO",
+    "slug": "thuong-hieu/leo",
+    "country": "Đan Mạch"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-da-lieu/thuoc-boi-ngoai-da",
+    "name": "Thuốc bôi ngoài da",
+    "parent_slug": "thuoc/thuoc-da-lieu"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Tuýp",
+  "pack_note": "Tuýp x 30g",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002196_daivonex_30g_7375_6103_large_8914bc8354.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002196_daivonex_30g_7375_6103_large_8914bc8354.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002196_daivonex_30g_1630727971_9355403ad0.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002196_daivonex_30g_7280_6103_large_f4d7e1d3f5.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002196_daivonex_30g_1431_6103_large_08d5402404.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002196_daivonex_30g_6366_6103_large_554c173548.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002196_daivonex_30g_9052_6103_large_de5bc9853b.jpg"
+  ],
+  "origin_label": "Đan Mạch",
+  "country": "Đan Mạch",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Thuốc mỡ",
+  "trust_label": null,
+  "short_description": "<p>Daivonex là sản phẩm của nhà sản xuất LEO (Ireland), với thành phần chính calcipotriol. Đây là thuốc dùng để điều trị tại chỗ bệnh vẩy nến mảng (vẩy nến thông thường). Thuốc có thể được sử dụng kết hợp với acitretin, cyclosporin hoặc các corticosteroid tại chỗ.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p>Thuốc Daivonex được chỉ định dùng trong các trường hợp điều trị tại chỗ bệnh vẩy nến mảng (<a href=\"https://nhathuoclongchau.com.vn/benh/vay-nen-619.html\">vẩy nến</a> thông thường). Thuốc có thể được sử dụng kết hợp với <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/acitretin\">acitretin</a>, cyclosporin hoặc các corticosteroid tại chỗ.</p>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/calcipotriol\">Calcipotriol</a> là dẫn xuất của vitamin D. Dữ liệu In vitro cho thấy calcipotriol tạo ra sự khác nhau và ngăn chặn sự phát triển của tế bào sừng nhưng ít ảnh hưởng đến chuyển hóa canxi. Tác động này là cơ sở cho tác động của thuốc trong bệnh vẩy nến.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Hấp thu qua da thấp nhưng khi vào hệ tuần hoàn chung thì được chuyển hóa nhanh chóng thành các chất không có hoạt tính.</p>",
+  "ingredients_html": [
+    {
+      "id": 44720,
+      "ingredientId": 12309,
+      "shortDescription": "50mcg",
+      "name": "Calcipotriol",
+      "isPrimary": false,
+      "slug": "thanh-phan/calcipotriol"
+    }
+  ],
+  "stock_qty": 0
+}

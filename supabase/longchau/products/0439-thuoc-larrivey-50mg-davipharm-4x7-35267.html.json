@@ -1,0 +1,44 @@
+{
+  "id": "00501128",
+  "slug": "thuoc/larrivey-50mg-davipharm-4x7-35267.html",
+  "title": "Thuốc Larrivey 50mg Davipharm hỗ trợ điều trị ung thư tiền liệt tuyến (4 vỉ x 7 viên)",
+  "short_title": "LARRIVEY 50MG DAVIPHARM 4X7",
+  "brand": {
+    "name": "Davipharm",
+    "slug": "thuong-hieu/davipharm",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-dieu-tri-ung-thu/thuoc-chong-ung-thu",
+    "name": "Thuốc chống ung thư",
+    "parent_slug": "thuoc/thuoc-dieu-tri-ung-thu"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 4 Vỉ x 7 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/larrvey_3f1267530c.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/larrvey_3f1267530c.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén",
+  "trust_label": null,
+  "short_description": "<p>Larrivey 50mg là sản phẩm của Công ty Cổ phần Dược phẩm Đạt Vi Phú với thành phần chính là Bicalutamid. Larrivey 50mg có tác dụng là một loại thuốc kháng sinh thông dụng trong liệu trình điều trị ung thư tiền liệt tuyến hiệu quả.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p>Điều trị ung thư tiền liệt tuyến tiến triển phối hợp với các chất có cấu trúc tương tự hormone giải phóng lutien hóa (LHRH) hoặc phẫu thuật cắt bỏ tinh hoàn.&nbsp;&nbsp;</p><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Nhóm dược lý: Thuốc kháng androgen.</p><p dir=\"ltr\">Mã ATC: L02BB03.</p><p dir=\"ltr\">Bicalutamid là chất kháng androgen thuộc nhóm không steroid, không có các hoạt tính nội tiết khác. Bicalutamid gắn kết với các thụ thể androgen mà không có biểu hiện hoạt hóa gen và vì thế ức chế sự kích thích androgen. Sự thoái triển của các khối u ở tuyến tiền liệt là do sự ức chế này. Trên lâm sàng, ngưng dùng thuốc Bicalutamid có thể dẫn đến hội chứng cai thuốc kháng<br>androgen ở một số bệnh nhân. Bicalutamid là một đồng phân racemic có hoạt tính kháng androgen, hoạt tính này hầu như chỉ có ở đồng phân đối hình (R).</p><h3 dir=\"ltr\">Dược động học</h3><p><i>Hấp thu</i></p><p>Bicalutamid hấp thu tốt sau khi uống. Thức ăn không ảnh hưởng đến sinh khả dụng của thuốc.</p><p><i>Phân bố</i></p><p>Bicalutamid gắn kết mạnh với protein (đồng phân racemic 96%, R-bicalutamid &gt; 99%) và được chuyển hoá mạnh (qua sự oxy hoá và glucoronyl hoá): Các chất chuyển hóa được đào thải qua thận và mật với tỉ lệ tương đương nhau.</p><p><i>Chuyển hóa và thải trừ</i></p><p>Đồng phân đối quang (S) bị đào thải nhanh hơn so với đồng phân đối quang (R), đồng phân đối quang (R) có thời gian bán thải trong huyết tương khoảng 1 tuần.</p><p>Với liều Bicalutamid dùng hằng ngày, đồng phân đối quang (R) tích lũy trong huyết tương gấp khoảng 10 lần do có thời gian bán thải dài, điều này thích hợp cho việc dùng liều duy nhất trong ngày.</p><p>Nồng độ của đồng phân đối quang (R) trong huyết tương ở trạng thái ổn định là khoảng 9 mcg/ml khi dùng liều 50 mg Bicalutamid mỗi ngày. Ở trạng thái ổn định, đồng phân đối quang (R) có hoạt tính chính chiếm 99% tổng các đồng phân đối quang trong huyết tương.</p><p>Trong thử nghiệm lâm sàng nồng độ trung bình của R-bicalutamid trong tỉnh dịch của nam giới dùng thuốc là 4,9 ug/ mL. Lượng bicalutamid có thể chuyển sang bạn tình nữ khi quan hệ tình dục thấp và theo ngoại suy có thể xấp xỉ 0,3 ng/ kg. Lượng thuốc này thấp hơn lượng cần thiết để cảm ứng thay đổi khả năng sinh sản ở động vật thử nghiệm.</p><p>Đối tượng đặc biệt</p><p>Tuổi tác, suy thận hay suy gan nhẹ hoặc vừa không ảnh hưởng đến dược động học của đồng phân đối quang (R). Ở các bệnh nhân suy gan nặng, đồng phân đối quang (R) thải trừ ra khỏi huyết tương chậm hơn.</p>",
+  "ingredients_html": [
+    {
+      "id": 46253,
+      "ingredientId": 10956,
+      "shortDescription": "50mg",
+      "name": "Bicalutamide",
+      "isPrimary": false,
+      "slug": "thanh-phan/bicalutamide"
+    }
+  ],
+  "stock_qty": 0
+}

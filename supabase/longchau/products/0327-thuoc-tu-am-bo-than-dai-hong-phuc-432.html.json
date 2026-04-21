@@ -1,0 +1,127 @@
+{
+  "id": "00007570",
+  "slug": "thuoc/tu-am-bo-than-dai-hong-phuc-432.html",
+  "title": "Thuốc Tư Âm Bổ Thận Đại Hồng Phúc cường âm, tráng dương, sinh tân dịch (80 viên)",
+  "short_title": "TƯ ÂM BỔ THẬN VIÊN NANG 80V",
+  "brand": {
+    "name": "Hồng Phúc",
+    "slug": "thuong-hieu/hong-phuc",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-tri-benh-than",
+    "name": "Thuốc trị bệnh thận",
+    "parent_slug": "thuoc/thuoc-tiet-nieu-sinh-duc"
+  },
+  "price_amount": 95000,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 80 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007570_tu_am_bo_than_dai_hong_phuc_3102_5b1e_large_474a748024.JPG",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007570_tu_am_bo_than_dai_hong_phuc_3102_5b1e_large_474a748024.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007570_tu_am_bo_than_dai_hong_phuc_1629017229_b77be5bfc3.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007570_tu_am_bo_than_dai_hong_phuc_6244_5b1e_large_db51f1287d.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007570_tu_am_bo_than_dai_hong_phuc_6506_5b1e_large_7e8c5ab8ab.JPG"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang cứng",
+  "trust_label": null,
+  "short_description": "<p><strong>Tư âm bổ thận</strong> là sản phẩm của <em>Công ty TNHH Y học Cổ truyền Đại Hồng Phúc</em> có thành phần chính bao gồm thục địa, sơn thù, củ mài, mẫu đơn bì, mạch môn, trạch tả, phục linh, thạch hộc, đỗ trọng, ngưu tất, lộc nhung tác dụng bổ thận, giúp ổn định huyết áp và đường huyết. Ngoài ra còn có tác dụng điều hòa chức năng thận, phục hồi thần kinh suy nhược, đau lưng, mỏi gối, sinh lý yếu, tiểu đêm và mất ngủ…</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p style=\"text-align:justify;\"><strong>Tư âm bổ thận Đại Hồng Phúc</strong> dùng để hỗ trợ điều trị và dự phòng giảm các triệu chứng như: </p>\n\n<ul>\n\t<li style=\"text-align:justify;\">Dùng điều hòa chức năng thận, phục hồi <strong><a href=\"https://nhathuoclongchau.com.vn/bai-viet/suy-nhuoc-than-kinh-nguyen-nhan-va-cach-dieu-tri-hieu-qua-47429.html\">thần kinh suy nhược</a></strong>, đau lưng, mỏi gối, <strong><a href=\"https://nhathuoclongchau.com.vn/benh/yeu-sinh-ly-277.html\">sinh lý yếu</a></strong>, tiểu đêm nhiều lần và mất ngủ.</li>\n\t<li style=\"text-align:justify;\">Tác dụng bổ thận giúp ổn định huyết áp và đường huyết. Dùng kết hợp với thuốc tây hạ huyết áp, hạ đường huyết để điều trị cho người đang bệnh.</li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p style=\"text-align:justify;\">Chưa có dữ liệu.</p>\n\n<h3>Dược động học</h3>\n\n<p style=\"text-align:justify;\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 26688,
+      "ingredientId": 16053,
+      "shortDescription": "0.12",
+      "name": "Củ Mài Dại",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 26689,
+      "ingredientId": 36514,
+      "shortDescription": "0.12",
+      "name": "Sơn thù",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 26690,
+      "ingredientId": 38361,
+      "shortDescription": "0.25",
+      "name": "Thục địa",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 26691,
+      "ingredientId": 26653,
+      "shortDescription": "0.11",
+      "name": "Mẫu đơn bì (Vỏ rễ)",
+      "isPrimary": false,
+      "slug": "thanh-phan/mau-don-bi"
+    },
+    {
+      "id": 26692,
+      "ingredientId": 26251,
+      "shortDescription": "0.11",
+      "name": "Mạch môn",
+      "isPrimary": false,
+      "slug": "thanh-phan/mach-mon"
+    },
+    {
+      "id": 26693,
+      "ingredientId": 39013,
+      "shortDescription": "0.11",
+      "name": "Trạch tả",
+      "isPrimary": false,
+      "slug": "thanh-phan/trach-ta"
+    },
+    {
+      "id": 26694,
+      "ingredientId": 32516,
+      "shortDescription": "0.11",
+      "name": "Phục Linh",
+      "isPrimary": false,
+      "slug": "thanh-phan/phuc-linh"
+    },
+    {
+      "id": 26695,
+      "ingredientId": 38018,
+      "shortDescription": "0.09",
+      "name": "Thạch hộc",
+      "isPrimary": false,
+      "slug": "thanh-phan/thach-hoc"
+    },
+    {
+      "id": 26696,
+      "ingredientId": 18363,
+      "shortDescription": "0.09",
+      "name": "Đỗ trọng",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 26697,
+      "ingredientId": 29714,
+      "shortDescription": "0.09",
+      "name": "Ngưu tất (Rễ)",
+      "isPrimary": false,
+      "slug": "thanh-phan/nguu-tat"
+    },
+    {
+      "id": 26698,
+      "ingredientId": 25791,
+      "shortDescription": "0.02",
+      "name": "Lộc Nhung",
+      "isPrimary": false,
+      "slug": "thanh-phan/loc-nhung"
+    }
+  ],
+  "stock_qty": 0
+}

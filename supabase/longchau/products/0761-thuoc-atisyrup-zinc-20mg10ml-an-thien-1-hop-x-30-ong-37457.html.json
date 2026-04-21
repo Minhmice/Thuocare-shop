@@ -1,0 +1,44 @@
+{
+  "id": "00503161",
+  "slug": "thuoc/atisyrup-zinc-20mg10ml-an-thien-1-hop-x-30-ong-37457.html",
+  "title": "Siro Atisyrup Zinc 20mg/10ml An Thiên điều trị thiếu kẽm (30 ống x 10ml)",
+  "short_title": "ATISYRUP ZINC 20MG/10ML AN THIÊN 1 HỘP X 30 ỐNG",
+  "brand": {
+    "name": "An Thiên",
+    "slug": "thuong-hieu/an-thien",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+    "name": "Thuốc bổ",
+    "parent_slug": "thuoc/thuoc-bo-and-vitamin"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 30 Ống x 10ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/20_b3a1ee95fc.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/20_b3a1ee95fc.png"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch uống",
+  "trust_label": null,
+  "short_description": "<p>Siro Atisyrup Zinc 20mg/10ml là sản phẩm của Công ty Cổ phần Dược phẩm An Thiên có chứa hoạt chất kẽm nguyên tố dùng điều trị thiếu kẽm ở người lớn và trẻ em.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Siro Atisyrup Zinc 20mg/10ml là sản phẩm của Công ty Cổ phần Dược phẩm An Thiên có chứa hoạt chất kẽm nguyên tố dùng điều trị <a href=\"https://nhathuoclongchau.com.vn/bai-viet/bo-sung-kem-cho-nguoi-lon-thieu-kem-the-nao-48671.html\">thiếu kẽm ở người lớn và trẻ em</a>.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 53465,
+      "ingredientId": 24482,
+      "shortDescription": "10mg",
+      "name": "Kẽm",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

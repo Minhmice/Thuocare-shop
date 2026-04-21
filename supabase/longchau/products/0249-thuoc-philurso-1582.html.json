@@ -1,0 +1,61 @@
+{
+  "id": "00008554",
+  "slug": "thuoc/philurso-1582.html",
+  "title": "Viên nang mềm Philurso Phil Inter Pharma điều trị bệnh gan mật (12 vỉ x 5 viên)\t",
+  "short_title": "PHILURSO 50 PHIL 12X5",
+  "brand": {
+    "name": "Phil",
+    "slug": "thuong-hieu/phil",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-benh-gan",
+    "name": "Thuốc trị bệnh gan",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "5 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00008554_philurso_5862_6184_large_d42a5b23c8.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00008554_philurso_5862_6184_large_d42a5b23c8.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00008554_philurso_1626442684_9fcff23ab2.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang mềm",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Philurso<sup>®</sup> là sản phẩm được sản xuất bởi Công ty TNHH Phil Inter Pharma. Thuốc có dược chất chính gồm: Acid ursodeoxycholic, Thiamin nitrat, Riboflavin, được dùng trong hỗ trợ điều trị bệnh gan mật.</p>\n\n<p>Thuốc Philurso<sup>®</sup> được bào chế dưới dạng viên nang mềm hình thuôn, một mặt màu xanh lá sẫm, một mặt màu xanh lá nhạt, bên trong chứa dịch thuốc màu vàng cam.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p>Thuốc Philurso<sup>®</sup> được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Hỗ trợ điều trị các bệnh gan mạn tính: <a href=\"https://nhathuoclongchau.com.vn/benh/gan-nhiem-mo-464.html\">Gan nhiễm mỡ</a>, viêm gan siêu vi, <a href=\"https://nhathuoclongchau.com.vn/benh/xo-gan-415.html\">xơ gan</a>.</li>\n\t<li>Hỗ trợ điều trị và ngăn ngừa cholesterol trong máu, sỏi mật.</li>\n</ul>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Acid ursodeoxycholic là một acid một tự nhiên, hiện diện với lựợng nhỏ trong mật người. Acid ursodeoxycholic ức chế gan tổng hợp và bài tiết cholesterol, đồng thời ức chế hấp thu cholesterol ở ruột.</p>\n\n<p>Thiamin là cocnzym chuyển hóa carbonhydrat làm nhiệm vụ khử carboxyl của các alpha cetoacid như pyruvat và alpha-cetoglutarat và trong việc sử dụng pentose trong chu trình hexaose monophosphat.</p>\n\n<p>Riboflavin được biến đổi thành 2 coenzym là flavin mononucleotid (FMN) và flavin mononucleotid (FMN) và flavin adenin dinucleotide (FMN), là các dạng coenzym hoạt động cần cho sự hô hấp của mô. Riboflavin cũng cần cho sự hoạt hóa pyridoxin, chuyển hóa tryptophan thành niacin, và liên quan đen sự toàn vẹn của hồng cầu.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Acid ursodeoxycholic được hấp thu từ đường tiêu hóa và trải qua chu trình gan - ruột.</p>\n\n<p>Một phần thuốc được liên hợp tại gan trước khi được tiết vào mật. Nhờ tác dụng của vi khuẩn ở ruột, dạng tự do và dạng liên hợp trải qua quá trình 7α-dehydroxyl hóa thành acid lithocholic, một phần thụốc được thải trừ trực tiếp qua phân. Phần còn lại được hấp thu, phần lớn được liên hợp hóa và sulphat hóa tại gan trước khi thải trừ vào phân.</p>\n\n<p>Thiamin hấp thu dễ dàng qua đường tiêu hóa sau khi uống và được phân bố rộng rãi hầu hết khắp các mô trong cơ thể. Thiamin được dự trữ trong cơ thể với lượng không đáng kể, lượng đưa vào vượt qua nhu cầu của cơ thể sẽ được thải trừ qua nước tiểu dưới dạng không đổi hoặc dưới dạng chuyển hóa.</p>\n\n<p>Riboflavin được hấp thu nhanh chóng qua đường tiêu hóa, được phân bố khắp các mô nhưng ít được dự trữ trong cơ thể. Lượng đưa vào vượt quá nhu cầu cơ thể sẽ được đào thải dưới dạng không đổi trong nước tiểu. Riboflavin còn được thải theo phân.</p>",
+  "ingredients_html": [
+    {
+      "id": 24008,
+      "ingredientId": 39916,
+      "shortDescription": "50mg",
+      "name": "Ursodeoxycholic acid",
+      "isPrimary": false,
+      "slug": "thanh-phan/ursodeoxycholic-acid"
+    },
+    {
+      "id": 24009,
+      "ingredientId": 40316,
+      "shortDescription": "10mg",
+      "name": "Vitamin B1",
+      "isPrimary": false,
+      "slug": "thanh-phan/vitamin-b1"
+    },
+    {
+      "id": 24010,
+      "ingredientId": 40324,
+      "shortDescription": "5mg",
+      "name": "Vitamin B2",
+      "isPrimary": false,
+      "slug": "thanh-phan/vitamin-b2"
+    }
+  ],
+  "stock_qty": 0
+}

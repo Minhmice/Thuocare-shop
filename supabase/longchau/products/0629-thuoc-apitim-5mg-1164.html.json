@@ -1,0 +1,55 @@
+{
+  "id": "00011026",
+  "slug": "thuoc/apitim-5mg-1164.html",
+  "title": "Thuốc Apitim 5 DHG điều trị tăng huyết áp (3 vỉ x 10 viên)",
+  "short_title": "APITIM 5 DHG 3X10",
+  "brand": {
+    "name": "Dhg",
+    "slug": "thuong-hieu/dhg",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap",
+    "name": "Thuốc tim mạch huyết áp",
+    "parent_slug": "thuoc/thuoc-tim-mach-and-mau"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1648_00905b17ae.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1648_00905b17ae.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1650_5891097ab6.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1649_3068dd061b.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1651_606df83a20.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1652_2a029c488b.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1653_74a7d0be0a.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1654_1820cdddb5.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1655_ebfc2bccb2.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/apitim_5_9086f7c4d2.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/aptim_5_2_4128b76c06.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/aptim_5_3_64aed9e253.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/apitim_5_4_f5c69d7aff.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang cứng",
+  "trust_label": null,
+  "short_description": "<p>Apitim 5 dạng viên nang của Công ty Dược phẩm Hậu Giang (DHG). Thuốc Apitim có thành phần chính là Amlodipine dùng điều trị tăng huyết áp (ở người bệnh có những biến chứng chuyển hóa như đái tháo đường) và điều trị dự phòng ở người bệnh đau thắt ngực ổn định, thiếu máu cơ tim.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3><p><a href=\"https://nhathuoclongchau.com.vn/thuoc/apitim-5mg-1164.html\">Apitim 5</a> điều trị tăng huyết áp, đặc biệt ở người bệnh có những biến chứng chuyển hóa như đái tháo đường.</p><p>Điều trị dự phòng đau thắt ngực ổn định.</p><h3><strong>Dược lực học</strong></h3><p>Apitim 5mg với thành phần hoạt chất <a href=\"https://nhathuoclongchau.com.vn/thuoc/thuoc-amlodipin-5mg-domesco-dieu-tri-tang-huyet-ap-hop-3-vi-x-10-vien-4747.html\">Amlodipin</a> là một chất đối kháng Calci thuộc nhóm Dihydropyridin. Thuốc ức chế dòng Calci đi qua màng vào tế bào cơ tim và cơ trơn của thành mạch máu bằng cách ngăn chặn những kênh calci chậm của màng tế bào. Nhờ tác dụng của thuốc mà trương lực cơ trơn của các mạch máu giảm, qua đó làm giảm sức kháng ngoại biên kéo theo hạ huyết áp.</p><p>Apitim 5mg chống đau thắt ngực chủ yếu là do giãn các tiểu động mạch ngoại biên và giảm hậu tải tim. Sự tiêu thụ năng lượng và nhu cầu oxy của cơ tim giảm vì thuốc không gây phản xạ nhịp tim nhanh. Amlodipin làm giãn mạch vành (động mạch và tiểu mạch) ở vùng bình thường lẫn vùng thiếu máu dẫn đến làm tăng cung cấp oxy cho cơ tim.</p><h3><strong>Dược động học</strong></h3><p>Sinh khả dụng của Amlodipin khi uống khoảng 60 - 80% và không bị ảnh hưởng bởi thức ăn. Thời gian bán thải từ 30 - 40 giờ. Nồng độ ổn định trong huyết tương đạt được 7 - 8 ngày sau khi uống thuốc mỗi ngày 1 lần. Thuốc chuyển hóa chủ yếu qua gan. Các chất chuyển hóa mất hoạt tính và bài tiết qua nước tiểu. Ở người suy gan cần giảm liều hoặc kéo dài thời gian giữa các liều dùng.</p>",
+  "ingredients_html": [
+    {
+      "id": 30490,
+      "ingredientId": 8862,
+      "shortDescription": "5mg",
+      "name": "Amlodipine",
+      "isPrimary": false,
+      "slug": "thanh-phan/amlodipine"
+    }
+  ],
+  "stock_qty": 0
+}

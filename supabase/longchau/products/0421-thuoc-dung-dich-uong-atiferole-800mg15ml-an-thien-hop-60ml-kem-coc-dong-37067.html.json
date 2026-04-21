@@ -1,0 +1,44 @@
+{
+  "id": "00502768",
+  "slug": "thuoc/dung-dich-uong-atiferole-800mg15ml-an-thien-hop-60ml-kem-coc-dong-37067.html",
+  "title": "Dung dịch uống Atiferole An Thiên điều trị thiếu sắt và thiếu máu do thiếu sắt (60ml)",
+  "short_title": "ATIFEROLE 800MG/15ML AN THIÊN",
+  "brand": {
+    "name": "An Thiên",
+    "slug": "thuong-hieu/an-thien",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tri-thieu-mau",
+    "name": "Thuốc trị thiếu máu",
+    "parent_slug": "thuoc/thuoc-tim-mach-and-mau"
+  },
+  "price_amount": 83000,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp x 60ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/Atifrrole_60ml_bb8cf836fd.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/Atifrrole_60ml_bb8cf836fd.png"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch uống",
+  "trust_label": null,
+  "short_description": "<p>Dung dịch uống Atiferole là sản phẩm của Công ty Cổ phần Dược phẩm An Thiên chứa hoạt chất sắt protein succinylate dùng điều trị thiếu sắt và thiếu máu do thiếu sắt.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Dung dịch uống Atiferole chỉ định điều trị thiếu sắt và thiếu máu do thiếu sắt.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 49293,
+      "ingredientId": 41930,
+      "shortDescription": "800mg",
+      "name": "Sắt protein succinylate",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

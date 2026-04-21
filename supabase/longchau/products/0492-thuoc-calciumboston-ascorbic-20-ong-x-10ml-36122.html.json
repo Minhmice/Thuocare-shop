@@ -1,0 +1,60 @@
+{
+  "id": "00501962",
+  "slug": "thuoc/calciumboston-ascorbic-20-ong-x-10ml-36122.html",
+  "title": "Dung dịch uống Calciumboston Ascorbic Boston điều trị thiếu vitamin C và Vitamin PP (4 vỉ x 5 ống)",
+  "short_title": "CALCIUMBOSTON ASCORBIC 20 ỐNG X 10ML",
+  "brand": {
+    "name": "Boston",
+    "slug": "thuong-hieu/boston",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+    "name": "Thuốc bổ",
+    "parent_slug": "thuoc/thuoc-bo-and-vitamin"
+  },
+  "price_amount": 180000,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 4 Vỉ x 5 Ống",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00501962_calciumboston_ascorbic_20_ong_x_10ml_4529_63bd_large_b45b9f8dc1.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00501962_calciumboston_ascorbic_20_ong_x_10ml_4529_63bd_large_b45b9f8dc1.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch uống",
+  "trust_label": null,
+  "short_description": "<p>Calcium Boston Ascorbic là sản phẩm của Bostonpharma có thành phần chính Calci glucoheptonat, Vitamin C và Vitamin PP dùng điều trị các tình trạng thiếu vitamin C và Vitamin PP. Tình trạng thiếu calci và trong giai đoạn tăng nhu cầu calci: Trẻ em trong giai đoạn tăng trưởng, phụ nữ có thai và cho con bú, người cao tuổi.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p>Thuốc Calcium Boston Ascorbic chỉ định điều trị trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Điều trị các tình trạng thiếu vitamin C và Vitamin PP.</li>\n\t<li>Tình trạng thiếu calci và trong giai đoạn tăng nhu cầu calci: Trẻ em trong giai đoạn tăng trưởng, phụ nữ có thai và cho con bú, người cao tuổi.</li>\n</ul>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Chưa có dữ liệu.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 2428,
+      "ingredientId": 12271,
+      "shortDescription": "110mg",
+      "name": "Calci glucoheptonat",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 2429,
+      "ingredientId": 40393,
+      "shortDescription": "5mg",
+      "name": "Vitamin PP",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 2430,
+      "ingredientId": 40349,
+      "shortDescription": "10mg",
+      "name": "Vitamin C",
+      "isPrimary": false,
+      "slug": "thanh-phan/vitamin-c"
+    }
+  ],
+  "stock_qty": 0
+}

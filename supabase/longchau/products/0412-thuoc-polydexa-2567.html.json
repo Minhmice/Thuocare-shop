@@ -1,0 +1,65 @@
+{
+  "id": "00006034",
+  "slug": "thuoc/polydexa-2567.html",
+  "title": "Thuốc Polydexa Bouchara điều trị viêm tai ngoài (10.5ml)",
+  "short_title": "POLYDEXA BOUCHARA 10.5ML",
+  "brand": {
+    "name": "Bouchara",
+    "slug": "thuong-hieu/bouchara",
+    "country": "Pháp"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-mat-tai-mui-hong/thuoc-tai-mui-hong",
+    "name": "Thuốc tai mũi họng",
+    "parent_slug": "thuoc/thuoc-mat-tai-mui-hong"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Chai",
+  "pack_note": "Chai x 10.5ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03549_746d48a383.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03549_746d48a383.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03543_3eedfa4e2f.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03540_f347ca86a4.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03541_cb838ef21c.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03542_9f79a79dbd.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03543_3eedfa4e2f.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03544_bf62284148.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03545_5a69672a01.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03546_805e2a21a5.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03549_746d48a383.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03550_62022c6308.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03553_4cd1d9fc1b.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/polydexa_1_07ed46227e.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/polydexa_2_20cfcb3c4d.jpg"
+  ],
+  "origin_label": "Pháp",
+  "country": "Pháp",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch nhỏ tai",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Polydexa được chỉ định dùng điều trị tại chỗ viêm tai ngoài do nhiễm khuẩn (đặc biệt chàm nhiễm khuẩn ống tai ngoài) với màng nhĩ còn nguyên.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Polydexa được chỉ định dùng điều trị tại chỗ viêm tai ngoài do nhiễm khuẩn (đặc biệt chàm nhiễm khuẩn ống tai ngoài) với màng nhĩ còn nguyên.</p><p>Không dùng thuốc này khi màng nhĩ bị thủng (do nguy cơ độc tai).</p><p>Cần tuân thủ hướng dẫn chính thức liên quan đến việc sử dụng hợp lý thuốc kháng sinh.</p><h3>Dược lực học</h3><p>Chưa có báo cáo.</p><h3>Dược động học</h3><p>Chưa có báo cáo.</p>",
+  "ingredients_html": [
+    {
+      "id": 22934,
+      "ingredientId": 29513,
+      "shortDescription": "1g",
+      "name": "Neomycin",
+      "isPrimary": false,
+      "slug": "thanh-phan/neomycin"
+    },
+    {
+      "id": 22935,
+      "ingredientId": 17269,
+      "shortDescription": "0.1g",
+      "name": "Dexamethasone",
+      "isPrimary": false,
+      "slug": "thanh-phan/dexamethasone"
+    }
+  ],
+  "stock_qty": 0
+}

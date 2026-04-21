@@ -1,0 +1,44 @@
+{
+  "id": "00040815",
+  "slug": "thuoc/dung-dich-nho-mat-vo-trung-ofxacin-0-3-dk-pharma-5-ml.html",
+  "title": "Thuốc nhỏ mắt Ofxacin 0.3% DK Pharma điều trị các nhiễm trùng ở phần ngoài mắt (5ml)",
+  "short_title": "DUNG DỊCH NHỎ MẮT VÔ TRÙNG OFXACIN 0.3% DK PHARMA 5ML",
+  "brand": {
+    "name": "DK Pharma",
+    "slug": "thuong-hieu/dk-pharma",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-mat-tai-mui-hong/thuoc-nho-mat",
+    "name": "Thuốc nhỏ mắt",
+    "parent_slug": "thuoc/thuoc-mat-tai-mui-hong"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Lọ",
+  "pack_note": "Lọ x 5ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00040815_6ff303f63a.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00040815_6ff303f63a.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch nhỏ mắt",
+  "trust_label": null,
+  "short_description": "<p>Thuốc nhỏ mắt Ofxacin 0.3% là sản phẩm của Công ty Cổ phần Dược Khoa, có thành phần chính là Ofloxacin. Đây là thuốc được sử dụng để điều trị nhiễm trùng ở phần ngoài mắt (viêm kết mạc, viêm giác mạc) hoặc những bộ phận phụ (viêm mi mắt, viêm túi lệ) do những chủng vi khuẩn nhạy cảm với Ofloxacin.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc nhỏ mắt Ofxacin 0.3% được chỉ định dùng trong các trường hợp sau:</p><ul><li dir=\"ltr\">Điều trị các nhiễm trùng ở phần ngoài mắt (viêm kết mạc, viêm giác mạc) hoặc những bộ phận phụ (viêm mi mắt, viêm túi lệ) do những chủng vi khuẩn nhạy cảm với ofloxacin.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 59598,
+      "ingredientId": 30701,
+      "shortDescription": "3mg",
+      "name": "Ofloxacin",
+      "isPrimary": true,
+      "slug": "thanh-phan/ofloxacin"
+    }
+  ],
+  "stock_qty": 0
+}

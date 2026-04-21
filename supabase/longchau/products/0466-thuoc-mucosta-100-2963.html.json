@@ -1,0 +1,48 @@
+{
+  "id": "00005037",
+  "slug": "thuoc/mucosta-100-2963.html",
+  "title": "Viên nén Mucosta tablets 100mg Otsuka điều trị loét dạ dày, viêm niêm mạc dạ dày (10 vỉ x 10 viên) ",
+  "short_title": "MUCOSTA 100 KOREA OTSUKA 10X10",
+  "brand": {
+    "name": "Otsuka",
+    "slug": "thuong-hieu/otsuka",
+    "country": "Hàn Quốc"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-da-day",
+    "name": "Thuốc dạ dày",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005037_mucosta_100_1282_5b88_large_007ed42e96.JPG",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005037_mucosta_100_1282_5b88_large_007ed42e96.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005037_mucosta_100_7071_5b88_large_6f5dbfaaa6.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005037_mucosta_100_7119_5b88_large_d297de0091.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005037_mucosta_100_8159_5b88_large_0124721e9f.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005037_mucosta_100_9242_5b88_large_af864cf3a6.JPG"
+  ],
+  "origin_label": "Hàn Quốc",
+  "country": "Hàn Quốc",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Mucosta 100mg sản xuất bởi Công ty Dược phẩm Korea Otsuka, với hoạt chất là rebamipide, được sử dụng trong điều trị loét dạ dày và các tổn thương niêm mạc dạ dày.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3><p>Thuốc Mucosta 100mg được chỉ định dùng trong các trường hợp sau:</p><ul><li>Ðiều trị <a href=\"https://nhathuoclongchau.com.vn/benh/loet-da-day-ta-trang-580.html\"><strong>loét dạ dày</strong></a>.</li><li>Điều trị các thương tổn niêm mạc dạ dày (ăn mòn, chảy máu, đỏ và phù nề) trong các tình trạng sau đây: <a href=\"https://nhathuoclongchau.com.vn/benh/viem-da-day-137.html\">Viêm dạ dày</a> cấp và đợt cấp của viêm dạ dày mạn.</li></ul><h3><strong>Dược lực học</strong></h3><p><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/rebamipide\"><strong>Rebamipide</strong></a> ngăn chặn sự tổn thương niêm mạc dạ dày, tác dụng làm tăng prostaglandin, bảo vệ tế bào dạ dày, làm tăng dịch nhầy, làm tăng lưu lượng máu vào niêm mạc, tác dụng trên hàng rào niêm mạc, tác dụng lên sự tiết kiềm ở dạ dày, tác dụng lên các gốc oxy, tác dụng lên sự thâm nhiễm tế bào viêm ở niêm mạc dạ dày, tác dụng lên sự phóng thích cytokine (interleukin - 8) gây viêm ở niêm mạc dạ dày.</p><h3><strong>Dược động học</strong></h3><p><i>Hấp thu</i></p><p>Tốc độ hấp thu rebamipide sau khi ăn chậm hơn so với trước khi ăn khi dùng đường uống ở liều 150 mg. Tuy nhiên, thức ăn không ảnh hưởng đến sinh khả dụng của thuốc ở người.</p><p><i>Phân bố</i></p><p>98,4 – 98,6% thuốc liên kết với protein huyết tương.</p><p><i>Chuyển hoá</i></p><p>Rebamipide chủ yếu được bài tiết trong nước tiểu dưới dạng thuốc không đổi. Một chất chuyển hoá có một nhóm hydroxyl ở vị trí thứ 8 đã được tìm thấy trong nước tiểu. Tuy nhiên, sự bài tiết của chất chuyển hoá này chỉ là 0,03% của liều đã dùng. Enzyme liên quan đến sự hình thành chất chuyển hoá này là cytochrome P450 CYP3A4.</p><p><i>Thải trừ</i></p><p>10% liều dùng được thải trừ qua nước tiểu.</p>",
+  "ingredients_html": [
+    {
+      "id": 44610,
+      "ingredientId": 34455,
+      "shortDescription": "100mg",
+      "name": "Rebamipide",
+      "isPrimary": false,
+      "slug": "thanh-phan/rebamipide"
+    }
+  ],
+  "stock_qty": 0
+}

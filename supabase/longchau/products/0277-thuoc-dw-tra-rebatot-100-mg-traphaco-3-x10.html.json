@@ -1,0 +1,49 @@
+{
+  "id": "00038567",
+  "slug": "thuoc/dw-tra-rebatot-100-mg-traphaco-3-x10.html",
+  "title": "Thuốc Rebamipid 100mg Traphaco điều trị loét dạ dày (3 vỉ x 10 viên)",
+  "short_title": "DW-TRA REBATOT 100MG TRAPHACO 3X10 ",
+  "brand": {
+    "name": "Traphaco",
+    "slug": "thuong-hieu/traphaco",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-da-day",
+    "name": "Thuốc dạ dày",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_rebatot_100mg_3x10_traphaco_00038567_1_91906e637a.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_rebatot_100mg_3x10_traphaco_00038567_1_91906e637a.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_rebatot_100mg_3x10_traphaco_00038567_2_506daa9793.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_rebatot_100mg_3x10_traphaco_00038567_3_572fad033f.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_rebatot_100mg_3x10_traphaco_00038567_4_cc7aa00b0c.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_rebatot_100mg_3x10_traphaco_00038567_5_a07aea54b6.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_rebatot_100mg_3x10_traphaco_00038567_6_3ec3c61492.png"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Thuốc DW-TRA RebaTot có thành phần chính là Rebamipide, đây là thuốc được sử dụng để điều trị loét dạ dày, điều trị các thương tổn niêm mạc dạ dày (ăn mòn, chảy máu, đỏ, phù nề) trong viêm dạ dày cấp và đợt cấp của viêm dạ dày man.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc DW-TRA RebaTot được chỉ định dùng trong các trường hợp sau:</p><p>Loét dạ dày. Điều trị các thương tổn niêm mạc dạ dày (ăn mòn, chảy máu, đỏ, phù nề) trong viêm dạ dày cấp và đợt cấp của viêm dạ dày mạn.</p><h3 dir=\"ltr\">Dược lực học</h3><p><strong>Mã ATC: A02BX14</strong></p><p><strong>Nhóm dược lý: Các loại thuốc khác điều trị viêm loét dạ dày - tá tràng và trào ngược dạ dày - thực quản.</strong></p><p>Rebamipid làm tăng tổng hợp prostaglandin (một yếu tố góp phần bảo vệ màng niêm mạc dạ dày), tăng tổng hợp glycoprotein màng nhầy trên bề mặt màng niêm mạc dạ dày, hoạt hoa yếu tố tăng sản biểu bì và thụ thể của nó. Thuốc còn được cho là có tác dụng dọn các gốc tự do, làm giảm hoạt tính bạch cầu trung tính và giảm sản sinh các cytokin gây viêm (ví dụ: Interleukin 8). Các phát hiện này cho phép xác định tính hiệu quả của rebamipid trên các chức năng sinh lý của lớp màng nhầy dạ dày.</p><h3 dir=\"ltr\">Dược động học</h3><p>Sau khi dùng thuốc bằng đường uống, xác định được các thông số dược động học: Diện tích dưới đường cong về thời gian và nồng độ thuốc trong huyết tương từ 0 - 24 giờ (AUC<sub>0-&gt;24 giờ</sub> = 873,55 µg/L.giờ), nồng độ đỉnh tối đa (C<sub>max</sub> = 216,19 µg/L), thời gian đạt nồng độ đỉnh tối đa (t<sub>max</sub> = 2,4 giờ) và thời gian bán thải của thuốc (t½= 1,94 giờ).</p>",
+  "ingredients_html": [
+    {
+      "id": 53999,
+      "ingredientId": 34455,
+      "shortDescription": "100mg",
+      "name": "Rebamipide",
+      "isPrimary": false,
+      "slug": "thanh-phan/rebamipide"
+    }
+  ],
+  "stock_qty": 0
+}

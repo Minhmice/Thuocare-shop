@@ -1,0 +1,44 @@
+{
+  "id": "00502637",
+  "slug": "thuoc/mongor-spm-20v-36898.html",
+  "title": "Viên sủi Mongor S.P.M giảm triệu chứng của thoái hóa khớp gối nhẹ và trung bình (20 viên)",
+  "short_title": "MONGOR S.P.M 20V",
+  "brand": {
+    "name": "S.P.M",
+    "slug": "thuong-hieu/spm",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/co-xuong-khop/thuoc-xuong-khop",
+    "name": "Thuốc xương khớp",
+    "parent_slug": "thuoc/co-xuong-khop"
+  },
+  "price_amount": 6000,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "20 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/image_1024_b81c87f43d.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/image_1024_b81c87f43d.png"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên sủi",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Mongor là sản phẩm của S.P.M, có thành phần chính là Glucosamine Sulfate. Đây là thuốc được sử dụng để giảm triệu chứng của thoái hóa khớp gối nhẹ và trung bình.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc <a href=\"https://nhathuoclongchau.com.vn/thuoc/mongor-spm-20v-36898.html\">Mongor</a> được chỉ định dùng trong các trường hợp sau:</p><ul><li dir=\"ltr\">Giảm triệu chứng của <a href=\"https://nhathuoclongchau.com.vn/benh/thoai-hoa-khop-goi-90.html\">thoái hóa khớp gối</a> nhẹ và trung bình.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 41131,
+      "ingredientId": 21364,
+      "shortDescription": "1000mg",
+      "name": "Glucosamine Sulfate",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

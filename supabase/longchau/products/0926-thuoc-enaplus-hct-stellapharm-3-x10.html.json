@@ -1,0 +1,52 @@
+{
+  "id": "00500431",
+  "slug": "thuoc/enaplus-hct-stellapharm-3-x10.html",
+  "title": "Thuốc Enaplus HCT Stellapharm điều trị tăng huyết áp nhẹ đến vừa (3 vỉ x 10 viên)",
+  "short_title": "ENAPLUS HCT 10/12.5 STELLAPHARM 3X10",
+  "brand": {
+    "name": "Stella Pharm",
+    "slug": "thuong-hieu/stella-pharm",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap",
+    "name": "Thuốc tim mạch huyết áp",
+    "parent_slug": "thuoc/thuoc-tim-mach-and-mau"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 3 Vỉ x 10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00500431_91dc8113cb.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00500431_91dc8113cb.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Enaplus HCT 10/12.5 là sản phẩm của Dược phẩm Liên doanh Stellapharm - Việt Nam với thành phần chính là Enalapril maleate, Hydrochlorothiazide. Thuốc Enaplus HCT 10/12.5 được chỉ định trong điều trị tăng huyết áp nhẹ đến vừa ở những bệnh nhân đã được ổn định huyết áp khi sử dụng các thành phần riêng lẻ với cùng tỉ lệ.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Điều trị tăng huyết áp nhẹ đến vừa ở những bệnh nhân đã được ổn định huyết áp khi sử dụng các thành phần riêng lẻ với cùng tỉ lệ.</p><h3>Dược lực học</h3><p><i><strong>Enalapril maleate</strong></i></p><p>Enzym chuyển angiotensin (ACE) là một peptidyl dipeptidase xúc tác quá trình chuyển đổi angiotensin I thành angiotensin II có tác dụng co mạch.</p><p>Enalapril làm hạ huyết áp chủ yếu thông qua ức chế hệ renin-angiotensin-aldosterone, hệ thống đóng vai trò chủ yếu trong sự điều hòa huyết áp cơ thể. Enalapril hạ huyết áp ngay cả trên bệnh nhân tăng huyết áp có renin thấp.</p><p><i><strong>Enalapril maleate – Hydrochlorothiazide</strong></i></p><p>Hydrochlorothiazide là thuốc lợi tiểu và hạ huyết áp làm tăng hoạt tính của renin huyết tương. Enalapril có khả năng hạ huyết áp trên cả bệnh nhân tăng huyết áp có renin thấp, sử dụng đồng thời enalapril với hydrochlorothiazide trên những bệnh nhân này dẫn tới hạ huyết áp mạnh hơn.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 53887,
+      "ingredientId": 19120,
+      "shortDescription": "10mg",
+      "name": "Enalapril",
+      "isPrimary": false,
+      "slug": "thanh-phan/enalapril"
+    },
+    {
+      "id": 53888,
+      "ingredientId": 22909,
+      "shortDescription": "12.5mg",
+      "name": "Hydroclorothiazid",
+      "isPrimary": false,
+      "slug": "thanh-phan/hydroclorothiazid"
+    }
+  ],
+  "stock_qty": 0
+}

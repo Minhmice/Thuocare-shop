@@ -1,0 +1,44 @@
+{
+  "id": "00503150",
+  "slug": "thuoc/ostagi-70-agimexpharm-1x2-37444.html",
+  "title": "Thuốc Ostagi 70 Agimexpharm điều trị loãng xương ở phụ nữ sau mãn kinh (1 vỉ x 2 viên)",
+  "short_title": "OSTAGI 70 AGIMEXPHARM 1X2",
+  "brand": {
+    "name": "Agimexpharm",
+    "slug": "thuong-hieu/agimexpharm",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/co-xuong-khop/thuoc-xuong-khop",
+    "name": "Thuốc xương khớp",
+    "parent_slug": "thuoc/co-xuong-khop"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "2 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/ostagi_b833f95b13.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/ostagi_b833f95b13.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Ostagi 70 là sản phẩm của Công ty Cổ phần Dược phẩm Agimexpharm chứa hoạt chất Alendronat mononatri trihydrat dùng trong điều trị loãng xương ở phụ nữ sau mãn kinh, làm giảm nguy cơ gãy xương cột sống và hông.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Ostagi 70 chỉ định điều trị loãng xương ở phụ nữ sau mãn kinh, làm giảm nguy cơ gãy xương cột sống và hông.</p><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 44328,
+      "ingredientId": 8104,
+      "shortDescription": "70mg",
+      "name": "Alendronic acid",
+      "isPrimary": false,
+      "slug": "thanh-phan/alendronic-acid"
+    }
+  ],
+  "stock_qty": 0
+}

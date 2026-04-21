@@ -1,0 +1,44 @@
+{
+  "id": "00033578",
+  "slug": "thuoc/livernin-dh-hop-20-ong-x-5ml-33664.html",
+  "title": "Dung dịch uống Livernin-DH 500mg/5ml Hà Tây hỗ trợ điều trị bệnh gan, rối loạn tiêu hóa (20 ống x 5ml)",
+  "short_title": "LIVERNIN-DH HỘP 20 ỐNG X 5ML",
+  "brand": {
+    "name": "Dược Hà Tây",
+    "slug": "thuong-hieu/duoc-ha-tay",
+    "country": ""
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-benh-gan",
+    "name": "Thuốc trị bệnh gan",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 20 Ống x 5ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/livernin_DH_3892824e46.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/livernin_DH_3892824e46.jpg"
+  ],
+  "origin_label": "",
+  "country": "",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch uống",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Livernin của Công ty Cổ phần Dược phẩm Hà Tây. Đây là thuốc dùng để hỗ trợ điều trị rối loạn tiêu hóa; hỗ trợ điều trị suy nhược chức năng; điều trị tăng amoniac máu bẩm sinh do thiếu hụt chu kỳ urê, bệnh gan cấp và mãn tính; điều trị các rối loạn khởi phát tiền hôn mê gan, hôn mê gan và bệnh não gan; các biểu hiện ngứa, chán ăn, mệt mỏi, suy nhược, nổi mề đay do suy tế bào gan.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Livernin được chỉ định dùng trong các trường hợp sau:</p><ul><li>Hỗ trợ điều trị rối loạn tiêu hóa.&nbsp;</li><li>Hỗ trợ điều trị suy nhược chức năng.</li><li>Điều trị tăng amoniac máu bẩm sinh do thiếu hụt chu kỳ urê, bệnh gan cấp và mãn tính (xơ gan, gan nhiễm mỡ, viêm gan siêu vi, viêm gan do thuốc, hóa chất, rượu...); đặc biệt trong điều trị các rối loạn khởi phát tiền hôn mê gan, hôn mê gan và bệnh não gan; các biểu hiện ngứa, chán ăn, mệt mỏi, suy nhược, nổi mề đay do suy tế bào gan.</li></ul><h3>Dược lực học</h3><p><strong>Nhóm dược lý: </strong>Thuốc lợi mật, phục hồi suy nhược, giảm amoniac máu.</p><p>Trong trường hợp thiếu hụt di truyền tổng hợp urê, arginin giúp giải độc và loại bỏ amoniac dưới dạng citrullin hoặc acid argino- succinic.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 55669,
+      "ingredientId": 9425,
+      "shortDescription": "500mg",
+      "name": "Arginin hydroclorid",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

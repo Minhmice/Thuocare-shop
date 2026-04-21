@@ -1,0 +1,136 @@
+{
+  "id": "00001367",
+  "slug": "thuoc/cao-long-bo-ty-duong-cot-393.html",
+  "title": "Cao lỏng Bổ Tỳ Dưỡng Cốt Thái Dương hỗ trợ điều trị chán ăn, đầy bụng, bổ sung canxi cho trẻ còi xương (100ml)",
+  "short_title": "BỔ TỲ DƯỠNG CỐT TD 100ML",
+  "brand": {
+    "name": "Sao Thái Dương",
+    "slug": "thuong-hieu/sao-thai-duong",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/co-xuong-khop/thuoc-xuong-khop",
+    "name": "Thuốc xương khớp",
+    "parent_slug": "thuoc/co-xuong-khop"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Chai",
+  "pack_note": "Chai x 100ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00001367_cao_long_bo_ty_duong_cot_5639_5b59_large_b0aa9e9971.JPG",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00001367_cao_long_bo_ty_duong_cot_5639_5b59_large_b0aa9e9971.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00001367_cao_long_bo_ty_duong_cot_9781_5b59_large_b88f70284b.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00001367_cao_long_bo_ty_duong_cot_7389_5b59_large_54f7a63c89.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00001367_cao_long_bo_ty_duong_cot_2747_5b59_large_0b964b3e6f.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00001367_cao_long_bo_ty_duong_cot_4484_5b59_large_6486974d7c.JPG"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch uống",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Cao lỏng Bổ tỳ dưỡng cốt Thái Dương của Công ty Cổ phần Sao Thái Dương, thành phần chính là bạch truật, y dĩ, cam thảo, mạch nha, liên nhục, sơn trà, đảng sâm, thần khúc, phục linh, phấn hoa, hoài sơn, cao xương hỗn hợp. Cao lỏng Bổ tỳ dưỡng cốt Thái Dương có tác dụng kích thích tiêu hóa, tạo cảm giác mau đói, thèm ăn, ăn khỏe. Bổ sung canxi hữu cơ, giúp phát triển tế bào xương.</p>\n\n<p>Cao lỏng Bổ tỳ dưỡng cốt Thái Dương được bào chế dưới dạng cao lỏng, đóng gói theo quy cách: Hộp 1 chai 100ml.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3><p>Thuốc Cao lỏng Bổ tỳ dưỡng cốt Thái Dương được chỉ định dùng trong các trường hợp sau:</p><ul><li>Trẻ em lười ăn, ăn không ngon miệng, chậm lớn, còi xương, đầy bụng, <a href=\"https://nhathuoclongchau.com.vn/benh/kho-tieu-578.html\">khó tiêu</a>, suy dinh dưỡng.</li><li>Trẻ nhỏ đang trong thời kỳ tăng trưởng và phát triển chiều cao.</li><li>Người lớn đầy bụng, khó tiêu, chán ăn, suy nhược cơ thể, ốm yếu lâu ngày.</li></ul><h3><strong>Dược lực học</strong></h3><p>Cao lỏng Bổ tỳ dưỡng cốt Thái Dương kích thích tiêu hóa, tạo cảm giác mau đói, thèm ăn, ăn khỏe, bổ sung canxi hữu cơ và giúp phát triển tế bào xương.</p><h3><strong>Dược động học</strong></h3><p>Chưa có thông tin.</p>",
+  "ingredients_html": [
+    {
+      "id": 26840,
+      "ingredientId": 40836,
+      "shortDescription": "12",
+      "name": "Ý Dĩ",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 26841,
+      "ingredientId": 26253,
+      "shortDescription": "12",
+      "name": "Mạch Nha",
+      "isPrimary": false,
+      "slug": "thanh-phan/mach-nha"
+    },
+    {
+      "id": 26842,
+      "ingredientId": 25540,
+      "shortDescription": "8",
+      "name": "Liên Nhục",
+      "isPrimary": false,
+      "slug": "thanh-phan/lien-nhuc"
+    },
+    {
+      "id": 26843,
+      "ingredientId": 36521,
+      "shortDescription": "4",
+      "name": "Sơn Tra",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 26844,
+      "ingredientId": 16671,
+      "shortDescription": "8",
+      "name": "Đảng Sâm",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 26845,
+      "ingredientId": 38053,
+      "shortDescription": "12",
+      "name": "Thần Khúc",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 26846,
+      "ingredientId": 32516,
+      "shortDescription": "12",
+      "name": "Phục Linh",
+      "isPrimary": false,
+      "slug": "thanh-phan/phuc-linh"
+    },
+    {
+      "id": 26847,
+      "ingredientId": 32156,
+      "shortDescription": "4",
+      "name": "Phấn Hoa",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 26848,
+      "ingredientId": 22414,
+      "shortDescription": "8",
+      "name": "Hoài Sơn",
+      "isPrimary": false,
+      "slug": "thanh-phan/hoai-son"
+    },
+    {
+      "id": 26849,
+      "ingredientId": 12836,
+      "shortDescription": "3",
+      "name": "Cao xương hỗn hợp",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 26850,
+      "ingredientId": 10138,
+      "shortDescription": "",
+      "name": "Bạch truật",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 26851,
+      "ingredientId": 12473,
+      "shortDescription": "",
+      "name": "Cam thảo",
+      "isPrimary": false,
+      "slug": "thanh-phan/cam-thao"
+    }
+  ],
+  "stock_qty": 0
+}

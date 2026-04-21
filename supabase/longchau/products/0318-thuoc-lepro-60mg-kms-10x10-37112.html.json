@@ -1,0 +1,44 @@
+{
+  "id": "00502800",
+  "slug": "thuoc/lepro-60mg-kms-10x10-37112.html",
+  "title": "Thuốc Lepro Tablet 60mg KMS Pharm điều trị ho do các bệnh đường hô hấp (10 vỉ x 10 viên)",
+  "short_title": "LEPRO 60MG KMS 10X10",
+  "brand": {
+    "name": "KMS Pharm",
+    "slug": "thuong-hieu/kms-pharm",
+    "country": "Hàn Quốc"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-ho-hap/thuoc-tri-ho-cam",
+    "name": "Thuốc trị ho cảm",
+    "parent_slug": "thuoc/thuoc-ho-hap"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00502800_3f041afaab.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00502800_3f041afaab.jpg"
+  ],
+  "origin_label": "Hàn Quốc",
+  "country": "Hàn Quốc",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén",
+  "trust_label": null,
+  "short_description": "<p>Lepro Tab là sản phẩm của KMS Pharm. Co., Ltd. Thành phần chính là Levodropropizin. Thuốc được chỉ định điều trị ho do các bệnh đường hô hấp.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Điều trị ho do các bệnh đường hô hấp.</p><h3>Dược lực học</h3><p>Levodropropizine là một thuốc giảm ho có tác dụng ngoại vi trong ho khan. Thuốc ảnh hưởng rất ít đến hệ thống thần kinh trung ương so với những thuốc chống ho có tác dụng lên trung ương thần kinh như codein.</p><h3>Dược động học</h3><p>Thuốc được hấp thu nhanh chóng và phân bố trên toàn cơ thể sau khi uống. Thời gian bán huỷ từ 1 giờ đến 2 giờ. Liên kết với protein huyết tương: 11-14%. Thuốc được thải trừ khoảng 83% qua nước tiểu trong vòng 96 giờ.</p>",
+  "ingredients_html": [
+    {
+      "id": 42572,
+      "ingredientId": 25404,
+      "shortDescription": "60mg",
+      "name": "Levodropropizine",
+      "isPrimary": false,
+      "slug": "thanh-phan/levodropropizine"
+    }
+  ],
+  "stock_qty": 0
+}

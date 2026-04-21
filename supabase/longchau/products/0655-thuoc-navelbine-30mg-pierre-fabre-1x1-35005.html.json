@@ -1,0 +1,44 @@
+{
+  "id": "00500891",
+  "slug": "thuoc/navelbine-30mg-pierre-fabre-1x1-35005.html",
+  "title": "Thuốc Navelbine 30mg Pierre Fabre điều trị ung thư phổi, ung thư vú (1 vỉ x 1 viên)",
+  "short_title": "NAVELBINE 30MG PIERRE FABRE 1X1",
+  "brand": {
+    "name": "Pierre Fabre",
+    "slug": "thuong-hieu/pierre-fabre",
+    "country": "Pháp"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-dieu-tri-ung-thu/thuoc-chong-ung-thu",
+    "name": "Thuốc chống ung thư",
+    "parent_slug": "thuoc/thuoc-dieu-tri-ung-thu"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 1 Vỉ x 1 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/3_ebfbb5f8b4.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/3_ebfbb5f8b4.png"
+  ],
+  "origin_label": "Pháp",
+  "country": "Pháp",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang mềm",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Navelbine 30mg là sản phẩm của Công ty Pierre Fabre Medicament production, thành phần chính chứa Vinorelbine ditartrate, là thuốc dùng để điều trị đầu tiên của ung thư phổi không phải tế bào nhỏ giai đoạn 3 hoặc 4, điều trị ung thư vú tiến triển giai đoạn 3 và 4 tái phát sau hoặc điều trị bằng phác đồ có chứa anthracycline.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p>Thuốc Navelbine 30mg được chỉ định để điều trị hóa trị liệu đơn chất trong các trường hợp sau:</p><ul><li>Bệnh nhân mắc bệnh ung thư phổi tế bào nhỏ, thuốc được sử dụng trong giai đoạn di căn hoặc được sử dụng trước khi mổ.</li><li>Bệnh nhân mắc bệnh ung thư vú có di căn.</li><li>Thuốc được dùng dưới sự chỉ định của bác sĩ, bạn không nên tự ý dùng thuốc hay thay đổi liều lượng. Mọi thay đổi đều phải được chỉ ra bởi bác sĩ.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 33401,
+      "ingredientId": 40269,
+      "shortDescription": "30mg",
+      "name": "Vinorelbine",
+      "isPrimary": false,
+      "slug": "thanh-phan/vinorelbine"
+    }
+  ],
+  "stock_qty": 0
+}

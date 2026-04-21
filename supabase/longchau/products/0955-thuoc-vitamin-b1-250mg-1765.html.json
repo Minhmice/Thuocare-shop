@@ -1,0 +1,51 @@
+{
+  "id": "00008009",
+  "slug": "thuoc/vitamin-b1-250mg-1765.html",
+  "title": "Thuốc Vitamin B1 250mg Mekophar điều trị tình trạng thiếu Vitamin B (10 vỉ x 10 viên)",
+  "short_title": "VITAMIN B1 250 MKP 10X10",
+  "brand": {
+    "name": "Mekophar",
+    "slug": "thuong-hieu/mekophar",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+    "name": "Thuốc bổ",
+    "parent_slug": "thuoc/thuoc-bo-and-vitamin"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_2695_e170220951.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_2695_e170220951.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/vitaminb1_84f856b42e.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_2696_ac9f9eab58.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_2697_47dc747a69.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_2698_54d5f8e3a6.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_2699_c8e6f05f17.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_2700_dd7d0777f2.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_2701_2291114d5d.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao đường",
+  "trust_label": null,
+  "short_description": "<p>Vitamin B1 250 mg là sản phẩm của Công ty Cổ phần Hóa Dược Phẩm Mekophar, thành phần chính là vitamin B1, được dùng để điều trị tình trạng thiếu vitamin B1 nặng, rối loạn chuyển hóa do thiếu enzym có tính di truyền có đáp ứng với thiamin.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p>Thuốc Vitamin B1 được chỉ định dùng trong các trường hợp sau:</p>\n\n<p><em>Ðiều trị tình trạng <strong>thiếu vitamin B1</strong>, nặng, rối loạn chuyển hóa do thiếu enzym có tính di truyền có đáp ứng với thiamin.</em></p>\n\n<h3>Dược lực học</h3>\n\n<p>Thiamin (vitamin B1) là một vitamin tan trong nước, thuộc nhóm B. Thiamin kết hợp với adenosin triphosphat trong gan, thận và bạch cầu tạo thành thiamin diphosphat (thiamin pyrophosphat) có hoạt tính sinh lý. Thiamin diphosphat là coenzym chuyển hóa carbohydrat, làm nhiệm vụ khử carboxyl của các alpha-cetoacid như pyruvat và alpha-cetoglutarat, và trong việc sử dụng pentose trong chu trình hexose monophosphat.</p>\n\n<p>Lượng vitamin B1, ăn vào hàng ngày cần 0,9 - 1,5mg cho nam và 0,8 - 1,1mg cho nữ khỏe mạnh. Nhu cầu vitamin B1, có liên quan trực tiếp với lượng dùng carbohydrat và tốc độ chuyển hóa. Khi thiếu hụt vitamin B, sự oxy hóa các alpha-cetoacid bị ảnh hưởng, làm cho nồng độ pyruvat trong máu tăng lên và tiếp tục biến đổi thành acid lactic, giúp chẩn đoán tình trạng thiếu thiamin.</p>\n\n<h3>Dược động học</h3>\n\n<p>Sự hấp thu vitamin B1 trong ăn uống hàng ngày qua đường tiêu hóa là do sự vận chuyển tích cực không phụ thuộc Na+. Ở người lớn, khoảng 1mg vitamin B1 bị chuyển hóa hoàn toàn mỗi ngày trong các mô, và đây chính là lượng tối thiểu cần hàng ngày.</p>\n\n<p>Khi hấp thu ở mức thấp này, có rất ít hoặc không thấy vitamin B1 thải trừ qua nước tiểu. Khi hấp thu vượt quá nhu cầu tối thiểu, sau khi bão hòa ở các mô, lượng vitamin B1 thừa sẽ được thải trừ qua nước tiểu dưới dạng phân tử vitamin B1 nguyên vẹn. Khi hấp thu vitamin B1 tăng lên hơn nữa, thải trừ dưới dạng vitamin B1 chưa chuyển hóa sẽ tăng hơn.</p>",
+  "ingredients_html": [
+    {
+      "id": 23802,
+      "ingredientId": 38161,
+      "shortDescription": "250mg",
+      "name": "Thiamin nitrate",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

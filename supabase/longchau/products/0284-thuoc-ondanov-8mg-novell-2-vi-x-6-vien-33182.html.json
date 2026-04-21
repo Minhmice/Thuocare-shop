@@ -1,0 +1,44 @@
+{
+  "id": "00033065",
+  "slug": "thuoc/ondanov-8mg-novell-2-vi-x-6-vien-33182.html",
+  "title": "Thuốc Ondanov 8mg Novell Pharma kiểm soát buồn nôn và nôn do hóa trị (2 vỉ x 6 viên)",
+  "short_title": "ONDANOV 8MG NOVELL 2X6",
+  "brand": {
+    "name": "Novell Pharma",
+    "slug": "thuong-hieu/novell-pharma",
+    "country": "Ai Cập"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tieu-hoa",
+    "name": "Thuốc tiêu hoá",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 2 Vỉ x 6 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00033065_ONDANOV_8_MG_NOVELL_2_X6_bfa8a90d4c.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00033065_ONDANOV_8_MG_NOVELL_2_X6_bfa8a90d4c.png"
+  ],
+  "origin_label": "Ai Cập",
+  "country": "Ai Cập",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Ondanov 8mg là sản phẩm của PT. Novell Pharmaceutical Laboratories với thành phần chính là Ondansetron (dưới dạng ondansetron hydroclorid dihydrat). Thuốc Ondanov 8mg có tác dụng kiểm soát buồn nôn và nôn do hóa trị, xạ trị hoặc sau mổ.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Ondanov 8mg thuộc nhóm thuốc chống nôn, được chỉ định trong các trường hợp:</p><p><strong>Đối với người lớn</strong></p><p>Ondansetron được chỉ định để kiểm soát buồn nôn và nôn do hóa trị và xạ trị gây độc tế bào, và để phòng ngừa và điều trị buồn nôn và nôn sau phẫu thuật (PONV).</p><p><strong>Đối với trẻ em</strong></p><p>Ondansetron được chỉ định để kiểm soát buồn nôn và nôn do hóa trị liệu (CINV) ở trẻ em từ 6 tháng tuổi trở lên, và để phòng ngừa và điều trị PONV ở trẻ em từ 1 tháng tuổi trở lên.</p><p>Lưu ý: Không có nghiên cứu nào được tiến hành về việc sử dụng Ondansetron đường uống trong phòng ngừa và điều trị PONV ở trẻ em từ 1 tháng tuổi trở lên, việc sử dụng bằng cách tiêm tĩnh mạch được khuyến cáo cho mục đích này.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 57308,
+      "ingredientId": 30892,
+      "shortDescription": "8mg",
+      "name": "Ondansetron",
+      "isPrimary": false,
+      "slug": "thanh-phan/ondansetron"
+    }
+  ],
+  "stock_qty": 0
+}

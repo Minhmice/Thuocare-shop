@@ -1,0 +1,104 @@
+{
+  "id": "00010334",
+  "slug": "thuoc/sang-mat-traphaco-863.html",
+  "title": "Thuốc Sáng Mắt Traphaco điều trị mờ mắt, nhức mắt (3 vỉ x 10 viên)",
+  "short_title": "SÁNG MẮT TRAPHACO 3X10",
+  "brand": {
+    "name": "Traphaco",
+    "slug": "thuong-hieu/traphaco",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+    "name": "Thuốc bổ",
+    "parent_slug": "thuoc/thuoc-bo-and-vitamin"
+  },
+  "price_amount": 62000,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 3 Vỉ x 10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00010334_sang_mat_traphaco_9856_5b0f_large_6bd13f2496.JPG",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00010334_sang_mat_traphaco_9856_5b0f_large_6bd13f2496.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00010334_sang_mat_traphaco_8741_5b0f_large_5eafef5de1.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00010334_sang_mat_traphaco_3471_5b0f_large_b741f360ac.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00010334_sang_mat_traphaco_7944_5b0f_large_b6efa0be8d.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00010334_sang_mat_traphaco_4381_5b0f_large_a34663cf03.JPG"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang mềm",
+  "trust_label": null,
+  "short_description": "<p>Viên sáng mắt Traphaco là sản phẩm của Công ty Cổ phần Traphaco, thành phần chính là bột đương qui và hỗn hợp cao khô dược liệu, là thuốc dùng để điều trị <strong>các bệnh về mắt do can thận âm hư, huyết hư</strong>.</p>",
+  "description_html": "<p><strong>Giới thiệu thuốc Viên sáng mắt Traphaco:</strong></p><ul><li><strong>Chỉ định: </strong>Dùng để điều trị các bệnh về mắt do can thận âm hư, huyết hư.</li><li><strong>Cách dùng: </strong>Dùng đường uống.</li><li><strong>Đối tượng sử dụng: </strong>Người lớn và trẻ em mắc các bệnh về mắt do can thận âm hư, huyết hư.</li><li><strong>Lưu ý khi sử dụng: </strong>Thời gian sử dụng 4 - 6 tuần hoặc lâu hơn tùy tình trạng bệnh. Tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</li><li><strong>Chống chỉ định:</strong> Người mẫn cảm với bất kỳ thành phần nào của thuốc.</li></ul>",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc viên sáng mắt Traphaco được chỉ định dùng trong các bệnh về mắt do can thận âm hư, huyết hư như:</p><ul><li>Mờ mắt, nhức mắt, <a href=\"https://nhathuoclongchau.com.vn/benh/kho-mat-548.html\">khô mắt</a>, chói mắt khi ra nắng.</li><li>Các trường hợp mắt đỏ nóng, xung huyết, hỗ trợ trong điều trị viêm võng mạc và viêm tuyến lệ.</li><li>Thị lực giảm.</li><li>Đau đầu chóng mặt, nóng đỉnh đầu, ban chẩn, dị ứng, mẩn ngứa (đặc biệt vùng đầu, mặt).</li></ul><h3>Dược lực học</h3><p>Chưa có báo cáo.</p><h3>Dược động học</h3><p>Chưa có báo cáo.</p>",
+  "ingredients_html": [
+    {
+      "id": 25191,
+      "ingredientId": 21859,
+      "shortDescription": "50mg",
+      "name": "Hạ khô thảo",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 25192,
+      "ingredientId": 18784,
+      "shortDescription": "160mg",
+      "name": "Đương quy",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 25193,
+      "ingredientId": 38102,
+      "shortDescription": "286mg",
+      "name": "Thảo quyết minh",
+      "isPrimary": false,
+      "slug": "thanh-phan/thao-quyet-minh"
+    },
+    {
+      "id": 25194,
+      "ingredientId": 21866,
+      "shortDescription": "221mg",
+      "name": "Hà thủ ô đỏ",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 25195,
+      "ingredientId": 16076,
+      "shortDescription": "112mg",
+      "name": "Cúc hoa",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 25196,
+      "ingredientId": 39013,
+      "shortDescription": "206mg",
+      "name": "Trạch tả",
+      "isPrimary": false,
+      "slug": "thanh-phan/trach-ta"
+    },
+    {
+      "id": 25197,
+      "ingredientId": 22414,
+      "shortDescription": "247mg",
+      "name": "Hoài Sơn",
+      "isPrimary": false,
+      "slug": "thanh-phan/hoai-son"
+    },
+    {
+      "id": 25198,
+      "ingredientId": 38361,
+      "shortDescription": "206mg",
+      "name": "Thục địa",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

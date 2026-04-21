@@ -1,0 +1,44 @@
+{
+  "id": "00044482",
+  "slug": "thuoc/venutel-50-mg-davipharm-2-x7.html",
+  "title": "Thuốc Venutel 50mg Davipharm điều trị cho bệnh nhân ung thư, u ác tính (2 vỉ x 7 viên)",
+  "short_title": "VENUTEL 50MG DAVIPHARM 2X7",
+  "brand": {
+    "name": "Davipharm",
+    "slug": "thuong-hieu/davipharm",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-dieu-tri-ung-thu/thuoc-dieu-tri-ung-thu",
+    "name": "Thuốc điều trị ung thư",
+    "parent_slug": "thuoc/thuoc-dieu-tri-ung-thu"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 2 Vỉ x 7 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/venutel_3502f35f56.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/venutel_3502f35f56.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang cứng",
+  "trust_label": null,
+  "short_description": "<p>Venutel 50mg là sản phẩm của Davipharm - Công ty Cổ phần Dược phẩm Đạt Vi Phú với thành phần chính là Temozolomid. Thuốc Venutel 50mg được sử dụng điều trị cho bệnh nhân ung thư, u ác tính.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Venutel 50mg được chỉ định trong các trường hợp sau:</p><p>Bệnh nhân mắc u nguyên bào xốp đa dạng.</p><p>Bệnh nhân bị u sắc tố ác tính đã di căn</p><p>Bệnh nhân mắc u thần kinh đệm ác tính hồi quy và tiến triển.</p><p>Bệnh nhân trên 3 tuổi mắc u thần kinh đệm ác tính hồi quy và tiến triển.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 62693,
+      "ingredientId": 37749,
+      "shortDescription": "50mg",
+      "name": "Temozolomid",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

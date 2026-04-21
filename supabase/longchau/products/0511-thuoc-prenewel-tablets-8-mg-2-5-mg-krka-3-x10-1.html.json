@@ -1,0 +1,44 @@
+{
+  "id": "00045504",
+  "slug": "thuoc/prenewel-tablets-8-mg-2-5-mg-krka-3-x10-1.html",
+  "title": "Thuốc Prenewel Tablety 8mg/2,5mg Krka điều trị tăng huyết áp (3 vỉ x 10 viên)",
+  "short_title": "PRENEWEL TABLETS 8MG/2.5MG KRKA 3X10",
+  "brand": {
+    "name": "Krka",
+    "slug": "thuong-hieu/krka",
+    "country": "Slovenia"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap",
+    "name": "Thuốc tim mạch huyết áp",
+    "parent_slug": "thuoc/thuoc-tim-mach-and-mau"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/prenewel_3fc9d1dc3a.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/prenewel_3fc9d1dc3a.jpg"
+  ],
+  "origin_label": "Slovenia",
+  "country": "Slovenia",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Prenewel là sản phẩm của Krkam, có thành phần chính là Perindopril tert-butylamine, Indapamide. Đây là thuốc được sử dụng để điều trị tăng huyết áp ở bệnh nhân không được kiểm soát huyết áp đầy đủ bằng cách dùng riêng lẻ perindopril.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc Prenewel được chỉ định dùng trong các trường hợp sau:</p><ul><li dir=\"ltr\">Điều trị tăng huyết áp ở bệnh nhân không được kiểm soát huyết áp đầy đủ bằng cách dùng riêng lẻ perindopril.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 52219,
+      "ingredientId": 38077,
+      "shortDescription": "8mg",
+      "name": "Thành phần khác",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

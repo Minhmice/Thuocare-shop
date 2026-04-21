@@ -1,0 +1,44 @@
+{
+  "id": "00003535",
+  "slug": "thuoc/grafort-3g-3556.html",
+  "title": "Hỗn dịch Grafort Daewoong điều trị đau do viêm thực quản, dạ dày, ruột (20 gói)",
+  "short_title": "GRAFORT 3G DAEWOONG 20 GÓI",
+  "brand": {
+    "name": "Daewoong",
+    "slug": "thuong-hieu/daewoong",
+    "country": "Hàn Quốc"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-tieu-chay",
+    "name": "Thuốc trị tiêu chảy",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 10000,
+  "compare_at_amount": 0,
+  "unit": "Gói",
+  "pack_note": "20 Gói",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00003535_a7ef086e0f.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003535_a7ef086e0f.jpg"
+  ],
+  "origin_label": "Hàn Quốc",
+  "country": "Hàn Quốc",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Hỗn dịch",
+  "trust_label": null,
+  "short_description": "<p style=\"text-align:justify;\">Thuốc Grafort là sản phẩm của Công ty Daewoong có thành phần chính là Dioctahedral smectite, đây là thuốc được sử dụng trong điều trị các triệu chứng đau có liên quan đến các bệnh viêm thực quản, dạ dày và ruột. Tiêu chảy cấp và mạn tính sau khi đã bù đủ nước và điện giải.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3><p><a href=\"https://nhathuoclongchau.com.vn/thuoc/grafort-3g-3556.html\">Thuốc Grafort </a>được chỉ định dùng trong các trường hợp sau:</p><p>Điều trị các triệu chứng đau có liên quan đến các bệnh <a href=\"https://nhathuoclongchau.com.vn/benh/viem-thuc-quan-408.html\">viêm thực quản</a>, dạ dày và ruột.</p><p><a href=\"https://nhathuoclongchau.com.vn/benh/tieu-chay-133.html\">Tiêu chảy</a> cấp và mạn tính sau khi đã bù đủ nước và điện giải.</p><h3><strong>Dược lực học</strong></h3><p>Với cấu trúc từng lớp và độ nhầy cao, Grafort có khả năng bao phủ niêm mạc tiêu hóa rất lớn. Grafort tương tác với glycoprotein của chất nhầy làm tăng sức chịu đựng của lớp gel dính trên niêm mạc bị tấn công. Nhờ tác động trên hàng rào niêm mạc tiêu hóa và khả năng gắn kết cao nên Grafort bảo vệ được niêm mạc tiêu hóa. Grafort không cản quang, không nhuộm màu phân và với liều lượng thông dụng, Grafort không làm thay đổi thời gian vận chuyển sinh lý của ruột.</p><h3><strong>Dược động học</strong></h3><p>Grafort không được hấp thu và được đào thải qua phân.</p>",
+  "ingredients_html": [
+    {
+      "id": 42890,
+      "ingredientId": 42030,
+      "shortDescription": "3g",
+      "name": "Dioctahedral smectite",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

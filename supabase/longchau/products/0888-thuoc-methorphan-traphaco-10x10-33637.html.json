@@ -1,0 +1,60 @@
+{
+  "id": "00033531",
+  "slug": "thuoc/methorphan-traphaco-10x10-33637.html",
+  "title": "Thuốc Methorphan Traphaco ho khan, ho có đờm, ho do dị ứng, cảm lạnh, viêm họng (10 vỉ x 10 viên)",
+  "short_title": "METHORPHAN TRAPHACO 10X10",
+  "brand": {
+    "name": "Traphaco",
+    "slug": "thuong-hieu/traphaco",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-ho-hap/thuoc-tri-ho-cam",
+    "name": "Thuốc trị ho cảm",
+    "parent_slug": "thuoc/thuoc-ho-hap"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/methopharn_8e8ebb5181.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/methopharn_8e8ebb5181.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "",
+  "description_html": "<p>Thuốc ho Methorphan chỉ định trong các trường hợp ho khan, ho do dị ứng, ho do cảm lạnh, cúm, viêm họng, ho có đờm trong viêm phổi, viêm phế quản, viêm thanh quản, ho do hút thuốc lá.</p>",
+  "usage_html": "",
+  "ingredients_html": [
+    {
+      "id": 67108,
+      "ingredientId": 17338,
+      "shortDescription": "10mg",
+      "name": "Dextromethorphan hydrobromid",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 67109,
+      "ingredientId": 25879,
+      "shortDescription": "2.5mg",
+      "name": "Loratadin",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 67110,
+      "ingredientId": 21754,
+      "shortDescription": "100mg",
+      "name": "Guaifenesin",
+      "isPrimary": false,
+      "slug": "thanh-phan/guaifenesin"
+    }
+  ],
+  "stock_qty": 0
+}

@@ -1,0 +1,55 @@
+{
+  "id": "00004806",
+  "slug": "thuoc/meko-coramin-1625-3065.html",
+  "title": "Viên ngậm Meko Coramin Mekophar điều trị suy hô hấp, suy tuần hoàn (5 vỉ x 4 viên)",
+  "short_title": "MEKO CORAMIN 1625 MKP 5X4",
+  "brand": {
+    "name": "Mekophar",
+    "slug": "thuong-hieu/mekophar",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap",
+    "name": "Thuốc tim mạch huyết áp",
+    "parent_slug": "thuoc/thuoc-tim-mach-and-mau"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "4 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004806_meko_coramin_1625_1229_5b56_large_b1faf06177.JPG",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004806_meko_coramin_1625_1229_5b56_large_b1faf06177.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/1_bf480fca8a.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004806_meko_coramin_1625_8650_5b56_large_103aadbda8.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004806_meko_coramin_1625_9107_5b56_large_9276f8b8c5.JPG"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên ngậm",
+  "trust_label": null,
+  "short_description": "<p><strong>Meko Coramin 125</strong> được sản xuất bởi <em>Công ty Cổ phần Hóa–Dược phẩm Mekophar,</em> với thành phần chính Nikethamide, là thuốc dùng để điều trị suy hô hấp, suy tuần hoàn.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p><strong>Thuốc Meko Coramin 125</strong> được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Điều trị <strong><a href=\"https://nhathuoclongchau.com.vn/bai-viet/suy-ho-hap-la-gi-cau-hoi-cu-nhung-khong-phai-ai-cung-biet-dap-an-54126.html\">suy hô hấp</a></strong>.</li>\n\t<li>Điều trị suy tuần hoàn.</li>\n</ul>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p><em>Nikethamide</em> trước đây được sử dụng như một chất kích thích hô hấp nhưng việc sử dụng cho chỉ định này không còn được khuyến khích vì liều hiệu quả gần với những nguy cơ gây độc (đặc biệt là co giật).</p>\n\n<p>Kích thích trung khu hô hấp và cơ tim.</p>\n\n<p>Cơ chế tác dụng: Nikethamide kích thích TKTW ưu tiên trên hành tuỷ, đặc biệt trên trung tâm hô hấp và tuần hoàn, làm tăng nhịp thở, tăng độ nhạy cảm CO2 của trung tâm hô hấp, tăng sức co bóp cơ tim, tăng nhịp tim, tăng nhẹ huyết áp.</p>\n\n<p>Nikethamide ở liều cao kích thích toàn bộ thần kinh trung ương gây các cơn co giật rung.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Sau khi uống, thuốc được hấp thu nhanh chóng. Với liều 250 mg, sau 15–30 phút đã đạt được nồng độ trong huyết tương từ 0,6–3 mcg/ml.</p>",
+  "ingredients_html": [
+    {
+      "id": 22288,
+      "ingredientId": 29941,
+      "shortDescription": "125mg",
+      "name": "Nikethamid",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 22289,
+      "ingredientId": 21370,
+      "shortDescription": "1500mg",
+      "name": "Glucose",
+      "isPrimary": false,
+      "slug": "thanh-phan/glucose"
+    }
+  ],
+  "stock_qty": 0
+}

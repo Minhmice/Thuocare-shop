@@ -1,0 +1,52 @@
+{
+  "id": "00044014",
+  "slug": "thuoc/atipiracetam-plus-an-thien-10-x10.html",
+  "title": "Thuốc Atipiracetam Plus An Thiên hỗ trợ cải thiện trí nhớ và các tổn thương trên não (10 vỉ x 10 viên)",
+  "short_title": "ATIPIRACETAM PLUS AN THIÊN 10X10",
+  "brand": {
+    "name": "An Thiên",
+    "slug": "thuong-hieu/an-thien",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-than-kinh/thuoc-than-kinh",
+    "name": "Thuốc thần kinh",
+    "parent_slug": "thuoc/thuoc-than-kinh"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00044014_8f162cc0c3.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00044014_8f162cc0c3.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang cứng",
+  "trust_label": null,
+  "short_description": "<p>Atipiracetam plus là sản phẩm của Công ty Cổ phần Dược phẩm An Thiên với các hoạt chất là Piracetam và Cinnarizin. Atipiracetam plus là thuốc có tác dụng hỗ trợ cải thiện trí nhớ và các tổn thương trên não. Thuốc được sử dụng nhiều trong đơn điều trị các vấn đề về suy giảm thần kinh hay đau nửa đầu.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Atipiracetam plus được chỉ định dùng trong các trường hợp:</p><ul><li>Bệnh nhân mắc suy mạch não mạn tính và có tiềm tàng do xơ động mạch. Bệnh nhân mắc tăng huyết áp động mạch.</li><li>Người bệnh đột quỵ &amp; sau đột quỵ do thiếu máu cục bộ ở não bị loạn trương lực mạch máu.</li><li>Người mắc bệnh não do hội chứng tâm thần-thực thể với rối loạn trí nhớ cũng như chức năng nhận thức khác hoặc rối loạn xúc cảm-ý muốn.</li><li>Người mắc bệnh lý mê đạo (chóng mặt, ù tai, buồn nôn, nôn, rung giật nhãn cầu).</li><li>Người mắc hội chứng Ménière.</li><li>Dùng trong dự phòng đau yếu về vận động và đau nửa đầu.</li></ul><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 62125,
+      "ingredientId": 32725,
+      "shortDescription": "400mg",
+      "name": "Piracetam",
+      "isPrimary": false,
+      "slug": "thanh-phan/piracetam"
+    },
+    {
+      "id": 62126,
+      "ingredientId": 42486,
+      "shortDescription": "25mg",
+      "name": "Cinnarizin",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

@@ -1,0 +1,45 @@
+{
+  "id": "00049147",
+  "slug": "thuoc/bavencio-200-mg-merck-10-ml.html",
+  "title": "Thuốc Bavencio 200mg Merck điều trị ung thư biểu mô tế bào Merkel di căn (10ml)",
+  "short_title": "BAVENCIO 200MG MERCK 10ML",
+  "brand": {
+    "name": "Merck",
+    "slug": "thuong-hieu/merck",
+    "country": "Đức"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-dieu-tri-ung-thu/thuoc-dieu-tri-ung-thu",
+    "name": "Thuốc điều trị ung thư",
+    "parent_slug": "thuoc/thuoc-dieu-tri-ung-thu"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp x 10ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/z6677956267703_7c1112d093da6fd4b97579b0a5314706_11bfb6ff2f.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/z6677956267703_7c1112d093da6fd4b97579b0a5314706_11bfb6ff2f.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/z6677956267608_ee4da02f7567cdbeb855ecf5bb1faad3_5706fe862e.jpg"
+  ],
+  "origin_label": "Đức",
+  "country": "Đức",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch đậm đặc để pha dung dịch tiêm truyền",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Bavencio dùng tiêm truyền tĩnh mạch chỉ định trong điều trị ung thư biểu mô tế bào Merkel di căn.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Bavencio dùng tiêm truyền tĩnh mạch chỉ định trong điều trị <a href=\"https://nhathuoclongchau.com.vn/bai-viet/ung-thu-bieu-mo-te-bao-merkel-nguyen-nhan-va-cach-dieu-tri.html\">ung thư biểu mô tế bào Merkel</a> di căn.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 70905,
+      "ingredientId": 9846,
+      "shortDescription": "200mg",
+      "name": "Avelumab",
+      "isPrimary": true,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

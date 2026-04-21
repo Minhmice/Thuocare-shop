@@ -1,0 +1,44 @@
+{
+  "id": "00039401",
+  "slug": "thuoc/amerisen-enlie-3-x10.html",
+  "title": "Thuốc Amerisen 40mg Enlie điều trị hội chứng đại tràng kích thích (3 vỉ x 10 viên)",
+  "short_title": "AMERISEN ENLIE 3X10",
+  "brand": {
+    "name": "Enlie",
+    "slug": "thuong-hieu/enlie",
+    "country": ""
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tieu-hoa",
+    "name": "Thuốc tiêu hoá",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00039401_1d58e33587.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00039401_1d58e33587.jpg"
+  ],
+  "origin_label": "",
+  "country": "",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Amerisen 40mg là sản phẩm của Công Ty CP Dược Enlie, thành phần chính Otilonium bromid, là thuốc dùng để điều trị hội chứng đại tràng kích thích.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc Amerisen 40mg được chỉ định sử dụng cho bệnh nhân mắc hội chứng đại tràng kích thích.</p><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 56470,
+      "ingredientId": 31069,
+      "shortDescription": "40mg",
+      "name": "Otilonium Bromide",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

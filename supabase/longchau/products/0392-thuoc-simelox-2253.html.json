@@ -1,0 +1,63 @@
+{
+  "id": "00006721",
+  "slug": "thuoc/simelox-2253.html",
+  "title": "Thuốc Simelox Pharmedic điều trị rối loạn tiêu hóa (10 gói x 10g)",
+  "short_title": "SIMELOX PMD 10 GÓI X 10G",
+  "brand": {
+    "name": "Pharmedic",
+    "slug": "thuong-hieu/pharmedic",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tieu-hoa",
+    "name": "Thuốc tiêu hoá",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 2700,
+  "compare_at_amount": 0,
+  "unit": "Gói",
+  "pack_note": "10 Gói x 10g",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006721_simelox_8816_5b43_large_362cb583a9.JPG",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006721_simelox_8816_5b43_large_362cb583a9.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006721_simelox_4604_5b43_large_d1aca2ca3c.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006721_simelox_5055_5b43_large_136771b532.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/simelox_fc3435fed4.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Hỗn dịch uống",
+  "trust_label": null,
+  "short_description": "<p><strong>Simelox</strong> là sản phẩm thuốc của <em>Công ty Cổ phần Dược phẩm Dược liệu Pharmedic</em>, với thành phần chính nhôm hydroxyd, magnesi hydroxyd, simethicon. Simelox được sử dụng để điều trị triệu chứng rối loạn tiêu hóa do thừa acid dạ dày gây ra như khó tiêu, loét dạ dày - tá tràng, viêm dạ dày; triệu chứng đầy hơi, khó chịu ở bụng, đau ở vùng thượng vị, ợ chua; triệu chứng trào ngược dạ dày - thực quản.</p>\n\n<p>Simelox bào chế dạng hỗn dịch, quy cách đóng gói là hộp 10 gói, mỗi gói 10g.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p><strong>Thuốc Simelox</strong> được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Ðiều trị triệu chứng <strong><a href=\"https://nhathuoclongchau.com.vn/benh/roi-loan-tieu-hoa-210.html\">rối loạn tiêu hóa</a></strong> do thừa acid dạ dày gây ra như khó tiêu, loét dạ dày - tá tràng, viêm dạ dày; </li>\n\t<li>Điều trị triệu chứng đầy hơi, khó chịu ở bụng, đau ở vùng thượng vị, ợ chua; </li>\n\t<li>Điều trị  triệu chứng <strong><a href=\"https://nhathuoclongchau.com.vn/benh/trao-nguoc-da-day-135.html\">trào ngược dạ dày - thực quản</a></strong>.</li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p>Các antacid chứa nhôm và magnesi có khả năng trung hòa acid dịch vị, bảo vệ niêm mạc dạ dày, tá tràng.</p>\n\n<p>Simethicon là chất tác động bề mặt giúp phá bọt trong dạ dày nhằm chống đầy hơi, trị chướng bụng.</p>\n\n<h3>Dược động học</h3>\n\n<p>Nhôm hydroxyd tan chậm trong dạ dày và phản ứng với acid hydrocloric ở dạ dày tạo thành nhóm clorid và nước. Khoảng 17 - 30 % lượng nhôm clorid vừa tạo ra được hấp thu và sau đó được thải trừ qua thận. Ở ruột non, nhôm clorid chuyển nhanh thành muối nhóm kiềm không tan, kém hấp thu.</p>\n\n<p>Magnesi hydroxyd phản ứng với acid hydrocioric ở dạ dày tạo thành magnesi clorid và nước. Khoảng 15 - 30 % lượng magnesiclorid vừa tạo ra được hấp thu và sau đó được thải trừ qua thận. Còn lượng magnesi hydroxyd nào mà chưa chuyển hoá thành magnesi clorid thì có thể chuyển hoá ở ruột non và được hấp thu không đáng kể.</p>",
+  "ingredients_html": [
+    {
+      "id": 23267,
+      "ingredientId": 36074,
+      "shortDescription": "40mg",
+      "name": "Simethicone",
+      "isPrimary": false,
+      "slug": "thanh-phan/simethicone"
+    },
+    {
+      "id": 23268,
+      "ingredientId": 26346,
+      "shortDescription": "400mg",
+      "name": "Magnesium hydroxide",
+      "isPrimary": false,
+      "slug": "thanh-phan/magnesium-hydroxide"
+    },
+    {
+      "id": 70845,
+      "ingredientId": 29800,
+      "shortDescription": "400mg",
+      "name": "Nhôm hydroxyd",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

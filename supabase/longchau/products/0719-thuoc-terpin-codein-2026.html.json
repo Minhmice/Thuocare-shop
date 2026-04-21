@@ -1,0 +1,66 @@
+{
+  "id": "00007260",
+  "slug": "thuoc/terpin-codein-2026.html",
+  "title": "Thuốc Terpin Mekong Mekophar giảm ho, long đàm (2 vỉ x 25 viên)",
+  "short_title": "TERPIN MEKONG MKP 2X25",
+  "brand": {
+    "name": "Mekophar",
+    "slug": "thuong-hieu/mekophar",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-ho-hap/thuoc-tri-ho-cam",
+    "name": "Thuốc trị ho cảm",
+    "parent_slug": "thuoc/thuoc-ho-hap"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "25 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007260_terpin_codein_mekophar_2330_5b18_large_31461f6b72.JPG",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007260_terpin_codein_mekophar_2330_5b18_large_31461f6b72.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007260_terpin_codein_1629013110_3b958f7023.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007260_terpin_codein_mekophar_3088_5b18_large_58b6c3bbf8.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007260_terpin_codein_mekophar_5163_5b18_large_29b77cc540.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007260_terpin_codein_mekophar_3941_5b18_large_c0326f1e53.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007260_terpin_codein_mekophar_2775_5b18_large_6c991d909a.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007260_terpin_codein_mekophar_7331_5b18_large_67b4f27b8f.JPG"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao đường",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Terpin - Codein là sản phẩm của  Hóa - Dược phẩm Mekophar, thành phần chính là Terpin hydrate và Codein, là thuốc được dùng để giảm ho, long đàm và điều trị các rối loạn tiết dịch phế quản trong các bệnh phế quản - phổi.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p>Thuốc Terpin - Codein được chỉ định dùng trong trường hợp sau:</p>\n\n<ul>\n\t<li>Giảm ho, long đàm. Dùng trong các trường hợp ho do cảm lạnh, viêm thanh khí quản, viêm phế quản, viêm họng…</li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p>Codeine, dẫn xuất của opiate, là tác nhân chống ho chủ vận. Codeine ức chế phản xạ ho bằng cách tác động trực tiếp lên trung tâm ho ở hành não, làm khô đường hô hấp và tăng độ nhớt của dịch tiết phế quản.</p>\n\n<p>Terpin có tác dụng làm tăng trực tiếp sự tiết dịch của phế quản và được sử dụng làm chất long đàm.</p>\n\n<h3>Dược động học</h3>\n\n<p>Chưa có thông tin.</p>",
+  "ingredients_html": [
+    {
+      "id": 32160,
+      "ingredientId": 37834,
+      "shortDescription": "100mg",
+      "name": "Terpin hydrate",
+      "isPrimary": false,
+      "slug": "thanh-phan/terpin-hydrate"
+    },
+    {
+      "id": 32161,
+      "ingredientId": 42489,
+      "shortDescription": "5mg",
+      "name": "Dextromethorphan HBr",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 32162,
+      "ingredientId": 29238,
+      "shortDescription": "150mg",
+      "name": "Natri benzoat",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

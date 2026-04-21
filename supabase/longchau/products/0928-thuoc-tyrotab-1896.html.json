@@ -1,0 +1,60 @@
+{
+  "id": "00007595",
+  "slug": "thuoc/tyrotab-1896.html",
+  "title": "Viên ngậm sát trùng Tyrotab Pharmedic điều trị viêm họng, viêm amidan (10 vỉ x 8 viên)",
+  "short_title": "TYROTAB 10X8",
+  "brand": {
+    "name": "Pharmedic",
+    "slug": "thuong-hieu/pharmedic",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-ho-hap/vien-ngam-tri-ho-viem-hong",
+    "name": "Viên ngậm trị ho, viêm họng",
+    "parent_slug": "thuoc/thuoc-ho-hap"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Vỉ",
+  "pack_note": "10 Vỉ x 8 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1587_b6671aa793.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1587_b6671aa793.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1589_762f9a19fa.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1588_2c7cf847a0.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1592_fa4062c15b.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1590_3d7a43ec9d.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1591_9e23d5cea1.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1593_83743c0941.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1594_23aceff4a2.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00016778_tyrotab_1x10_pharmedic_vien_ngam_sat_trung_1619608906_5777686e33.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén ngậm",
+  "trust_label": null,
+  "short_description": "<p>Tyrotab của công ty Cổ Phần Dược Phẩm Dược Liệu Pharmedic, thành phần chính tyrothricin, tetracain hydroclorid, là thuốc dùng để điều trị tại chỗ các bệnh ở họng (viêm họng, viêm amidan, bệnh viêm Vincent) và các bệnh ở miệng (viêm miệng, viêm lưỡi, viêm lợi, viêm quanh răng).</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p>Thuốc Tyrotab được chỉ định dùng điều trị tại chỗ trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Các bệnh ở họng: <strong><a href=\"https://nhathuoclongchau.com.vn/benh/viem-hong-468.html\">Viêm họng</a></strong>, viêm amidan, bệnh viêm Vincent.</li>\n\t<li>Các bệnh ở miệng: Viêm miệng, viêm lưỡi, viêm lợi, viêm quanh răng.</li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p>Diệt khuẩn chủ yếu là những mầm bệnh ở miệng và họng, nhất là đối với các cầu khuẩn gram (+) và các trực khuẩn gram (-) do tác dụng của tyrothricin.</p>\n\n<p><strong><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/tetracaine\">Tetracain</a></strong> là một este của acid para-aminobenzoic, giúp giảm đau do tác dụng gây tê tại chỗ.</p>\n\n<h3>Dược động học</h3>\n\n<p><em>Hấp thu</em></p>\n\n<p>Viên ngậm Tyrotab tác dụng tại chỗ ở miệng và họng, chỉ một lượng nhỏ thuốc được hấp thu qua các mô miệng.</p>\n\n<p><em>Phân bố, chuyển hóa, thải trừ</em></p>\n\n<p>Chưa có báo cáo.</p>",
+  "ingredients_html": [
+    {
+      "id": 23644,
+      "ingredientId": 39739,
+      "shortDescription": "1mg",
+      "name": "Tyrothricin",
+      "isPrimary": false,
+      "slug": "thanh-phan/tyrothricin"
+    },
+    {
+      "id": 23645,
+      "ingredientId": 42735,
+      "shortDescription": "0.1mg",
+      "name": "Tetracain hydroclorid",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

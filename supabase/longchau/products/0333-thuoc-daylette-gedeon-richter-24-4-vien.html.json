@@ -1,0 +1,52 @@
+{
+  "id": "00039199",
+  "slug": "thuoc/daylette-gedeon-richter-24-4-vien.html",
+  "title": "Thuốc Daylette Gedeon Richter PLC chỉ định để tránh thai (1 vỉ x 28 viên)",
+  "short_title": "DAYLETTE GEDEON RICHTER 24+4 VIÊN",
+  "brand": {
+    "name": "Gedeon",
+    "slug": "thuong-hieu/gedeon",
+    "country": "Hungary"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-tranh-thai",
+    "name": "Thuốc tránh thai",
+    "parent_slug": "thuoc/thuoc-tiet-nieu-sinh-duc"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "28 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/daylette_c563d9dfd1.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/daylette_c563d9dfd1.jpg"
+  ],
+  "origin_label": "Hungary",
+  "country": "Hungary",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Daylette là sản phẩm của Gedeon Richter Plc. chứa hoạt chất Drospirenone và Ethinylestradiol được chỉ định để tránh thai.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Daylette được chỉ định để tránh thai.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 55900,
+      "ingredientId": 18636,
+      "shortDescription": "3mg",
+      "name": "Drospirenone",
+      "isPrimary": false,
+      "slug": "thanh-phan/drospirenone"
+    },
+    {
+      "id": 55901,
+      "ingredientId": 19608,
+      "shortDescription": "0.02mg",
+      "name": "Ethinylestradiol",
+      "isPrimary": false,
+      "slug": "thanh-phan/ethinylestradiol"
+    }
+  ],
+  "stock_qty": 0
+}

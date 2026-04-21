@@ -1,0 +1,44 @@
+{
+  "id": "00500930",
+  "slug": "thuoc/canpaxel-250mg-bidiphar-4167ml-35046.html",
+  "title": "Dung dịch tiêm Canpaxel 250mg Điều trị ung thư buồng trứng Hộp 41.67ml",
+  "short_title": "CANPAXEL 250MG BIDIPHAR 41.67ML",
+  "brand": {
+    "name": "Bidiphar",
+    "slug": "thuong-hieu/bidiphar",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-dieu-tri-ung-thu/thuoc-chong-ung-thu",
+    "name": "Thuốc chống ung thư",
+    "parent_slug": "thuoc/thuoc-dieu-tri-ung-thu"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp x 41.67ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/610_876b222443.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/610_876b222443.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch tiêm",
+  "trust_label": null,
+  "short_description": "<p>Canpaxel 250 là dung dịch tiêm chứa dược chất Paclitaxel dùng trong một số trường hợp điều trị <a href=\"https://nhathuoclongchau.com.vn/benh/ung-thu-buo-ng-tru-ng-380.html\">ung thư buồng trứng</a> và <a href=\"https://nhathuoclongchau.com.vn/benh/ung-thu-vu-328.html\">ung thư vú</a> theo chỉ định của bác sĩ.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Dung dịch tiêm Canpaxel 250 chỉ định điều trị trong các trường hợp sau:</p><p><i>Ung thư buồng trứng:</i></p><p>Canpaxel® là lựa chọn hàng đầu phối hợp với cisplatin trong điều trị ung thư buồng trứng giai đoạn tiến triển hoặc bướu tồn lưu (&gt; 1cm) sau phẫu thuật mổ ổ bụng đầu tiên.</p><p>Canpaxel®là thuốc lựa chọn hàng thứ hai trong điều trị ung thư buồng trứng đã di căn sau khi thất bại với điều trị cơ bản bằng liệu pháp có cisplatin.</p><p><i>Ung thư vú:</i></p><p>Canpaxel® được chỉ định điều trị hỗ trợ carcinoma vú có hạch theo sau liệu pháp anthracylin và <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/cyclophosphamide\">cyclophosphamid</a> (AC). Điều trị hỗ trợ bằng Canpaxel® được xem như là một sự lựa chọn để kéo dài liệu pháp AC.</p><p>Canpaxel® được chỉ định điều trị khởi đầu ung thư vú lan rộng tại chỗ hoặc phối hợp với anthracyclin ở những bệnh nhân thích hợp, hoặc phối hợp với <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/trastuzumab\">trastuzumab</a> trên những bệnh nhân có HER-2 tăng quá mức ở độ 3 như đã được xác định bởi hóa mô miễn dịch và trên những bệnh nhân không thích hợp với liệu pháp anthracyclin.</p><p>Nếu dùng riêng lẻ Canpaxel® được chỉ định trong điều trị ung thư vú di căn trên những bệnh nhân đã thất bại hoặc không được chỉ định điều trị bằng liệu pháp chuẩn có anthracyclin.</p><p>Ung thư phổi không phải tế bào nhỏ giai đoạn tiến triển: Canpaxel® phối hợp với cisplatin trong chỉ định điều trị ung thư phổi không phải tế bào nhỏ (NSCLC) trên các bệnh nhân không còn khả năng phẫu trị và xạ trị.</p><p>Sacom Kaposi liên quan AIDS: Canpaxel® được chỉ định điều trị các bệnh nhân Sacom Kaposi liên quan AIDS lan rộng (KS) mà trước đó thất bại với liệu pháp anthracyclin liposomal.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 33378,
+      "ingredientId": 31346,
+      "shortDescription": "250mg",
+      "name": "Paclitaxel",
+      "isPrimary": false,
+      "slug": "thanh-phan/paclitaxel"
+    }
+  ],
+  "stock_qty": 0
+}

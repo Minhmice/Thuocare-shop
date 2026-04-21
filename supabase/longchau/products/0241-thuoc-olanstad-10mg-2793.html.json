@@ -1,0 +1,44 @@
+{
+  "id": "00005505",
+  "slug": "thuoc/olanstad-10mg-2793.html",
+  "title": "Viên nén Olanstad 10 Stella điều trị bệnh tâm thần phân liệt (3 vỉ x 10 viên)",
+  "short_title": "OLANSTAD 10 STELLA 3X10",
+  "brand": {
+    "name": "Stella Pharm",
+    "slug": "thuong-hieu/stella-pharm",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-than-kinh/thuoc-than-kinh",
+    "name": "Thuốc thần kinh",
+    "parent_slug": "thuoc/thuoc-than-kinh"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/olanstad_10_a7415fb2bb.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/olanstad_10_a7415fb2bb.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p><strong>Thuốc Olanstad 10</strong> có tác dụng điều trị bệnh tâm thần phân liệt và điều trị chứng hưng cảm vừa đến nặng có liên quan đến rối loạn lưỡng cực.</p><p>Olanstad 10 có dạng bào chế viên nén tròn, bao phim màu trắng, một mặt khắc vạch, một mặt trơn.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p><strong>Thuốc Olanstad 10</strong> được chỉ định trong các trường hợp:<b> </b></p>\n\n<p>Thuốc Olanstad 10 được chỉ định dùng trong để điều trị bệnh <strong><a href=\"https://nhathuoclongchau.com.vn/benh/tam-than-phan-liet-43.html\">tâm thần phân liệt</a></strong> và điều trị chứng hưng cảm vừa đến nặng có liên quan đến rối loạn lưỡng cực.</p>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p><strong><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/olanzapine\">Olanzapin</a></strong> là một thuốc trị chứng loạn tâm thần không điển hình thuộc nhóm thienobenzodiazepin. Thuốc có ái lực với thụ thể của <strong><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/serotonin\">serotonin</a></strong>, muscarin, <strong><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/histamine\">histamin</a></strong> H1 và α1 - adrenergic cũng như với các thụ thể khác nhau của dopamin.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p><em>Hấp thu</em></p>\n\n<p>Olanzapin được hấp thu tốt qua đường tiêu hóa sau khi uống, nhưng chịu sự chuyển hóa lần đầu đáng kể. Nồng độ đỉnh của thuốc trong huyết tương đạt được khoảng 5 - 8 giờ sau khi uống thuốc. </p>\n\n<p><em>Phân bố</em></p>\n\n<p>Khoảng 93% olanzapin gắn kết với protein huyết tương. Olanzapin phân bố vào sữa mẹ.</p>\n\n<p><em>Chuyển hoá </em></p>\n\n<p>Thuốc được chuyển hóa mạnh ở gan chủ yếu bằng sự glucuronid hóa trực tiếp và sự oxy hóa gián tiếp qua cytochrom P450 isoenzym CYP1A2 và mức độ kém hơn qua CYP2D6. Hai chất chuyển hóa chính là 10 - N - glucuronid và 4’ - N - desmethyl olanzapin không có hoạt tính. </p>\n\n<p><em>Thải trừ </em></p>\n\n<p>Khoảng 57% liều dùng được bài tiết vào nước tiểu chủ yếu dưới dạng các chất chuyển hóa và 30% xuất hiện trong phân. Thời gian bán thải trong huyết tương dao động trong khoảng 30 - 38 giờ, thời gian bán thải có khuynh hướng kéo dài ở bệnh nhân nữ hơn bệnh nhân nam.</p>",
+  "ingredients_html": [
+    {
+      "id": 22610,
+      "ingredientId": 30751,
+      "shortDescription": "10mg",
+      "name": "Olanzapine",
+      "isPrimary": false,
+      "slug": "thanh-phan/olanzapine"
+    }
+  ],
+  "stock_qty": 0
+}

@@ -1,0 +1,96 @@
+{
+  "id": "00006353",
+  "slug": "thuoc/rheumapain-f-ho-tro-dieu-tri-viem-da-khop-dang-thap-453.html",
+  "title": "Thuốc Rheumapain-f Fito điều trị phong thấp, đau nhức (40 viên)",
+  "short_title": "RHEUMAPAIN-F FITO 40V",
+  "brand": {
+    "name": "Fito",
+    "slug": "thuong-hieu/fito",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-bo-and-vitamin/bo-xuong-khop",
+    "name": "Bổ xương khớp",
+    "parent_slug": "thuoc/thuoc-bo-and-vitamin"
+  },
+  "price_amount": 62000,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 40 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006353_rheumapain_f_ho_tro_dieu_tri_viem_da_khop_dang_thap_5545_5b1e_large_16a82b4f4a.JPG",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006353_rheumapain_f_ho_tro_dieu_tri_viem_da_khop_dang_thap_5545_5b1e_large_16a82b4f4a.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006353_rheumapain_f_ho_tro_dieu_tri_viem_da_khop_dang_thap_4107_5b1e_large_d7660fc033.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006353_rheumapain_f_ho_tro_dieu_tri_viem_da_khop_dang_thap_3416_5b1e_large_f8aed910c0.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006353_rheumapain_f_ho_tro_dieu_tri_viem_da_khop_dang_thap_5051_5b1e_large_77ba1b9e58.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006353_rheumapain_f_ho_tro_dieu_tri_viem_da_khop_dang_thap_8556_5b1e_large_b5f16ef096.JPG"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang cứng",
+  "trust_label": null,
+  "short_description": "<p><strong>Thuốc Rheumapain-f </strong>là sản phẩm của <em>Công ty TNHH Dược phẩm FITO Pharma (Việt Nam)</em>. Thuốc được chỉ định trong giảm đau xương khớp dạng thấp.</p>\n\n<p>Thuốc Rheumapain-f được bào chế dưới dạng viên nang cứng, và được đóng gói theo quy cách hộp 1 chai x 40 viên nang cứng.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p><strong>Thuốc Rheumapain-F</strong> được chỉ định dùng để điều trị trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Viêm khớp mạn.</li>\n\t<li>Các chứng phong thấp đau nhức, chân tay tê mỏi, đau lưng mỏi gối.</li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p>Rheumapain-F giúp tán phong, thông kinh lạc, hoạt huyết, trừ thấp.</p>\n\n<h3>Dược động học</h3>\n\n<p>Chưa có thông tin.</p>",
+  "ingredients_html": [
+    {
+      "id": 26617,
+      "ingredientId": 22860,
+      "shortDescription": "760mg",
+      "name": "Hy thiêm",
+      "isPrimary": false,
+      "slug": "thanh-phan/hy-thiem"
+    },
+    {
+      "id": 26618,
+      "ingredientId": 38387,
+      "shortDescription": "400mg",
+      "name": "Thương nhĩ tử",
+      "isPrimary": false,
+      "slug": "thanh-phan/thuong-nhi-tu"
+    },
+    {
+      "id": 26619,
+      "ingredientId": 16876,
+      "shortDescription": "400mg",
+      "name": "Dây đau xương",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 26620,
+      "ingredientId": 38300,
+      "shortDescription": "320mg",
+      "name": "Thổ phục linh",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 26621,
+      "ingredientId": 21866,
+      "shortDescription": "320mg",
+      "name": "Hà thủ ô đỏ",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 26622,
+      "ingredientId": 38203,
+      "shortDescription": "300mg",
+      "name": "Thiên niên kiện",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 26623,
+      "ingredientId": 22844,
+      "shortDescription": "300mg",
+      "name": "Huyết Giác",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

@@ -1,0 +1,44 @@
+{
+  "id": "00501546",
+  "slug": "thuoc/a-t-fexofenadin-60-mg-10-ml-an-thien-30-ong-x-10-ml.html",
+  "title": "Thuốc A.T fexofenadin 60mg/10ml An Thiên điều trị triệu chứng viêm mũi dị ứng theo mùa (30 ống x 10ml)",
+  "short_title": "A.T FEXOFENADIN 60MG/10ML AN THIÊN 30 ỐNG X 10ML",
+  "brand": {
+    "name": "An Thiên",
+    "slug": "thuong-hieu/an-thien",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-di-ung/thuoc-chong-di-ung",
+    "name": "Thuốc chống dị ứng",
+    "parent_slug": "thuoc/thuoc-di-ung"
+  },
+  "price_amount": 14350,
+  "compare_at_amount": 0,
+  "unit": "Ống",
+  "pack_note": "30 Ống x 10ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/Anh_Default_chua_co_hinh_that_1_8938fe5b92.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/Anh_Default_chua_co_hinh_that_1_8938fe5b92.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Hỗn dịch",
+  "trust_label": null,
+  "short_description": "<p>Thuốc A.T Fexofenadin 60mg/10ml là sản phẩm của An Thiên, có thành phần chính là Fexofenadine. Đây là thuốc được sử dụng để điều trị triệu chứng trong viêm mũi dị ứng theo mùa, mày đay mạn tính vô căn.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc A.T Fexofenadin 60mg/10ml được chỉ định dùng trong các trường hợp sau:</p><ul><li dir=\"ltr\">Điều trị triệu chứng trong viêm mũi dị ứng theo mùa, mày đay mạn tính vô căn ở người lớn và trẻ em trên 6 tuổi.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 35369,
+      "ingredientId": 20246,
+      "shortDescription": "60mg",
+      "name": "Fexofenadine",
+      "isPrimary": false,
+      "slug": "thanh-phan/fexofenadine"
+    }
+  ],
+  "stock_qty": 0
+}

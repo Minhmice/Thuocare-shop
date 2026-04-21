@@ -1,0 +1,44 @@
+{
+  "id": "00501563",
+  "slug": "thuoc/-35709.html",
+  "title": "Thuốc Dronagi 35 Agimexpharm điều trị và ngăn ngừa bệnh loãng xương (1 vỉ x 4 viên)",
+  "short_title": "DRONAGI 35 AGIMEXPHARM 1X4",
+  "brand": {
+    "name": "Agimexpharm",
+    "slug": "thuong-hieu/agimexpharm",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/co-xuong-khop/thuoc-xuong-khop",
+    "name": "Thuốc xương khớp",
+    "parent_slug": "thuoc/co-xuong-khop"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "4 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/34_c7c73ddb17.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/34_c7c73ddb17.png"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Dronagi giúp điều trị và ngăn ngừa bệnh loãng xương ở phụ nữ sau mãn kinh. Đề phòng gãy xương ở phụ nữ sau mãn kinh bị loãng xương, điều trị loãng xương ở nam giới.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p><a href=\"https://nhathuoclongchau.com.vn/thuoc/-35709.html\">Thuốc Dronagi</a> dùng trong các trường hợp sau:</p><ul><li>Điều trị và ngăn ngừa <a href=\"https://nhathuoclongchau.com.vn/benh/loang-xuong-78.html\">bệnh loãng xương</a> ở phụ nữ sau mãn kinh.</li><li>Đề phòng <a href=\"https://nhathuoclongchau.com.vn/benh/gay-xuong-65.html\">gãy xương</a> ở phụ nữ sau mãn kinh bị loãng xương, điều trị loãng xương ở nam giới.</li></ul><h3>Dược lực học</h3><p><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/risedronate\">Risedronat</a> thuộc nhóm thuốc không steroid gọi là bisphosphonat, được dùng để điều trị các bệnh xương.</p><p>Risedronat tác động trực tiếp trên bộ xương, và do đó giúp xương ít khả năng bị gãy.</p><p>Risedronat kết hợp với <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/hydroxyapatite\">hydroxyapatit</a> trong xương và tác động như một tác nhân chống hủy xương.</p><p>Ở cấp độ tế bào, risedronat ức chế các hủy cốt bào. Bình thường, hủy cốt bào dính vào bề mặt xương, nhưng cho thấy bằng chứng giảm hoạt động hủy xương (ví dụ không có bờ gợn sóng).</p><p>Xét nghiệm hình thái mô học trên chuột, chó và chuột lang cho thấy điều trị risedronat làm giảm chu chuyển xương (tần suất hoạt động, tức tỉ lệ các vị trí tái cấu trúc xương được kích hoạt) và sự hủy xương ở các vị trí tái cấu trúc.</p><p>Trong các nghiên cứu dược lực học và nghiên cứu lâm sàng, thấy giảm các dấu ấn sinh hóa của chu chuyển xương trong vòng 1 tháng và đạt mức tối đa trong 3 - 6 tháng.</p><h3>Dược động học</h3><p><i>Hấp thu:</i> Sau khi uống, thuốc được hấp thu tương đối nhanh (t max khoảng 1 giờ) và độc lập với liều dùng. Sinh khả dụng trung bình khi uống thuốc viên là 0,63% và giảm đi khi risedronat natri được uống chung với thức ăn. Sinh khả dụng ở nam và nữ tương tự nhau.</p><p><i>Phân bố:</i> Thể tích phân bố ở trạng thái ổn định nồng độ trên người là 6,3 lít/kg. Khoảng 24% lượng thuốc gắn với protein huyết tương.</p><p><i>Chuyển hóa: </i>Không có bằng chứng chuyển hóa toàn thân đối với risedronat natri.</p><p><i>Thải trừ: </i>Khoảng một nửa liều đã hấp thu được bài tiết trong nước tiểu trong vòng 24 giờ. Thuốc không hấp thu được thải trừ dưới dạng không thay đổi trong phân.</p>",
+  "ingredients_html": [
+    {
+      "id": 40507,
+      "ingredientId": 34912,
+      "shortDescription": "35mg",
+      "name": "Risedronate",
+      "isPrimary": false,
+      "slug": "thanh-phan/risedronate"
+    }
+  ],
+  "stock_qty": 0
+}

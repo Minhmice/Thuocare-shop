@@ -1,0 +1,58 @@
+{
+  "id": "00345828",
+  "slug": "thuoc/befabrol-15mg-bepharco-20-goi-x-5ml-33977.html",
+  "title": "Siro Befabrol 15mg Bepharco tiêu chất nhầy đường hô hấp (20 gói x 5ml)",
+  "short_title": "BEFABROL 15 BEPHARCO 20 GÓI",
+  "brand": {
+    "name": "Bepharco",
+    "slug": "thuong-hieu/bephaco",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-ho-hap/siro-tri-ho-cam",
+    "name": "Siro trị ho cảm",
+    "parent_slug": "thuoc/thuoc-ho-hap"
+  },
+  "price_amount": 2750,
+  "compare_at_amount": 0,
+  "unit": "Gói",
+  "pack_note": "2 Gói x 5ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00345828_befabrol_15mg_bepharco_20_goi_x_5ml_9293_625e_large_b58bcedbb6.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00345828_befabrol_15mg_bepharco_20_goi_x_5ml_9293_625e_large_b58bcedbb6.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00345828_befabrol_15mg_bepharco_20_goi_x_5ml_1650360107_2222906f78.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00345828_befabrol_15mg_bepharco_20_goi_x_5ml_7590_625e_large_e03875bb80.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00345828_befabrol_15mg_bepharco_20_goi_x_5ml_6611_625e_large_883f8390e2.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00345828_befabrol_15mg_bepharco_20_goi_x_5ml_5943_625e_large_b8c7505646.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00345828_befabrol_15mg_bepharco_20_goi_x_5ml_1440_625e_large_bf997cd8a8.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00345828_befabrol_15mg_bepharco_20_goi_x_5ml_4971_625e_large_cee8bfc79f.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Siro",
+  "trust_label": null,
+  "short_description": "<p>Siro Befabrol là sản phẩm của Công ty Cổ phần Dược phẩm Bến Tre có thành phần chính là Ambroxol HCl có tác dụng tiêu chất nhầy đường hô hấp, dùng trong các trường hợp: Các bệnh cấp và mạn tính ở đường hô hấp có kèm tăng tiết dịch phế quản không bình thường, đặc biệt trong đợt cấp của viêm phế quản mạn, hen phế quản, viêm phế quản dạng hen.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p><a href=\"https://nhathuoclongchau.com.vn/thuoc/befabrol-15mg-bepharco-20-goi-x-5ml-33977.html\">Siro Befabrol </a>có tác dụng tiêu chất nhầy đường hô hấp, dùng trong các trường hợp:</p>\n\n<ul>\n\t<li>Các bệnh cấp và mạn tính ở đường hô hấp có kèm tăng tiết dịch phế quản không bình thường.</li>\n\t<li>Đặc biệt trong đợt cấp của viêm phế quản mạn, <a href=\"https://nhathuoclongchau.com.vn/benh/hen-phe-quan-160.html\">hen phế quản</a>, viêm phế quản dạng hen.</li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p>Nhóm dược lý trị liệu: Thuốc long đàm.</p>\n\n<p><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/ambroxol\">Ambroxol</a> là thuốc điều hòa sự bài tiết chất nhầy loại làm tan đàm, tác dụng trên pha gel của chất nhầy bằng cách cắt đứt cầu nối disulfure của các glycoprotein và như thế làm cho sự long đàm được dễ dàng.</p>\n\n<h3>Dược động học</h3>\n\n<p>Ambroxol được hấp thu tốt qua đường tiêu hóa và đạt nồng độ tối đa trong huyết tương trong vòng 0,5 - 3 giờ sau khi uống thuốc.</p>\n\n<p>Sinh khả dụng của thuốc vào khoảng 70%. Thuốc có thể tích phân bố cao chứng tỏ rằng có sự khuếch tán ngoại mạch đáng kể.</p>\n\n<p>Thời gian bán hủy khoảng 7,5 giờ. Thuốc chủ yếu được đào thải qua nước tiểu với 2 chất chuyển hóa chính dưới dạng kết hợp glucuronic. Sự đào thải của hoạt chất và các chất chuyển hóa chủ yếu diễn ra ở thận.</p>",
+  "ingredients_html": [
+    {
+      "id": 30114,
+      "ingredientId": 37331,
+      "shortDescription": "5ml",
+      "name": "Tá dược vừa đủ",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 30115,
+      "ingredientId": 8700,
+      "shortDescription": "15mg",
+      "name": "Ambroxol hydroclorid",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

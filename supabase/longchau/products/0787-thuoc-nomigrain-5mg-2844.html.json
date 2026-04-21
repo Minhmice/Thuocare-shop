@@ -1,0 +1,46 @@
+{
+  "id": "00005352",
+  "slug": "thuoc/nomigrain-5mg-2844.html",
+  "title": "Thuốc Nomigrain 5mg Torrent điều trị đau nửa đầu (5 vỉ x 20 viên)",
+  "short_title": "NOMIGRAIN 5 5X20",
+  "brand": {
+    "name": "Torrent",
+    "slug": "thuong-hieu/torrent",
+    "country": "Ấn Độ"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem/thuoc-tri-dau-nua-dau",
+    "name": "Thuốc trị đau nửa đầu",
+    "parent_slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "20 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005352_nomigrain_5mg_5x20_7367_5b03_large_c1a51c8562.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005352_nomigrain_5mg_5x20_7367_5b03_large_c1a51c8562.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005352_nomigrain_5mg_1619596280_d86bc03b7f.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005352_nomigrain_5mg_8653_6089_large_e9812f898b.jpg"
+  ],
+  "origin_label": "Ấn Độ",
+  "country": "Ấn Độ",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang cứng",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Nomigrain là sản phẩm được sản xuất bởi Torrent Pharmaceuticals Ltd., với dược chất chính là flunarizine. Đây là thuốc được dùng để điều trị đau nửa đầu.</p>\n\n<p style=\"text-align:justify;\">Thuốc Nomigrain được bào chế dưới dạng viên nang, đóng gói theo quy cách hộp 5 vỉ x 20 viên.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p>Thuốc Nomigrain được chỉ định dùng trong các trường hợp sau:</p>\n\n<p>Điều trị dự phòng cơn <a href=\"https://nhathuoclongchau.com.vn/benh/dau-nua-dau-12.html\">đau nửa đầu</a> trong trường hợp các biện pháp điều trị khác không có hiệu quả hoặc kém dung nạp.</p>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Nomigrain được cho là ức chế dòng calcium đi vào tế bào trong các trường hợp calcium đi vào tế bào quá nhiều và gây tổn thương cho tế bào do quá tải calcium. Do đó thuốc được xếp vào loại chất ức chế quá tải calcium.</p>\n\n<p>Nomigrain cũng ức chế sự co cơ trơn do sự đi vào của calcium ngoại bào. Nomigrain làm giảm độ cứng của màng hồng cầu do quá tải calcium và cũng làm giảm tác dụng của thiếu oxy trong tế bào não. Normigrain cũng cho thấy tác dụng làm ức chế tiền đình cũng như các tính chất kháng histamine và chống co giật.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Nồng độ đỉnh trong huyết tương của Nomigrain xuất hiện 2 đến 4 giờ sau khi uống. Nomigrain được phân bố rộng rãi vào mô. Nó được chuyển hoá rộng rãi bởi sự N - dealkyl oxi hoá, hydroxy hoá nhân thơm và liên hợp glucuronic và được đào thải trong mật. Thời gian bán huỷ kết thúc của Nomigrain vào khoảng 18 ngày ở người khoẻ mạnh.</p>",
+  "ingredients_html": [
+    {
+      "id": 22557,
+      "ingredientId": 20436,
+      "shortDescription": "5mg",
+      "name": "Flunarizine",
+      "isPrimary": false,
+      "slug": "thanh-phan/flunarizine"
+    }
+  ],
+  "stock_qty": 0
+}

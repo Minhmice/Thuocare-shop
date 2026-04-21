@@ -1,0 +1,68 @@
+{
+  "id": "00007746",
+  "slug": "thuoc/v-rohto-for-kids-thuoc-nho-mat-cho-tre-em-1855.html",
+  "title": "Thuốc nhỏ mắt V.Rohto For Kids giảm mỏi mắt, đỏ mát, ngứa mắt (13ml)",
+  "short_title": "V.ROHTO KIDS 13ML",
+  "brand": {
+    "name": "V.ROHTO",
+    "slug": "thuong-hieu/v-rohto",
+    "country": "Nhật Bản"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-mat-tai-mui-hong/thuoc-nho-mat",
+    "name": "Thuốc nhỏ mắt",
+    "parent_slug": "thuoc/thuoc-mat-tai-mui-hong"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Chai",
+  "pack_note": "Chai x 13ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/VR_Kids_OTC_2026_cc79c6962e.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/VR_Kids_OTC_2026_cc79c6962e.png"
+  ],
+  "origin_label": "Nhật Bản",
+  "country": "Nhật Bản",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch nhỏ mắt",
+  "trust_label": null,
+  "short_description": "<p>Thuốc V. Rohto for Kids được sản xuất bởi Công ty TNHH Rohto - Mentholatum (Việt Nam); có thành phần chính là Aminoethylsulfonic acid, Ɛ-Aminocaproic acid, Chlorpheniramine maleate, Potassium L-Aspartate; là thuốc được dùng cho trẻ em từ 4 tháng đến 15 tuổi trong các trường hợp: Mỏi mắt, sung huyết kết mạc, ngăn ngừa các bệnh mắt (do bơi lội, bụi, mồ hôi), viêm mắt do tia cực tím hay các nguồn sáng khác (thí dụ như mù tuyết), viêm bờ mi, ngứa mắt và mờ mắt (do dịch nhầy quá nhiều).</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc V.Rohto for Kids được chỉ định dùng trong các trường hợp sau: Mỏi mắt, sung huyết kết mạc, ngăn ngừa các bệnh mắt (do bơi lội, bụi, mồ hôi), viêm mắt do tia cực tím hay các nguồn sáng khác (thí dụ như mù tuyết), viêm bờ mi, ngứa mắt và mờ mắt (do dịch nhầy quá nhiều).</p><h3>Dược lực học</h3><p>Chưa có thông tin.</p><h3>Dược động học</h3><p>Chưa có thông tin.</p>",
+  "ingredients_html": [
+    {
+      "id": 33985,
+      "ingredientId": 8804,
+      "shortDescription": "130mg",
+      "name": "Aminoethylsulfonic acid",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 33986,
+      "ingredientId": 8799,
+      "shortDescription": "130mg",
+      "name": "Aminocaproic Acid",
+      "isPrimary": false,
+      "slug": "thanh-phan/aminocaproic-acid"
+    },
+    {
+      "id": 33987,
+      "ingredientId": 15215,
+      "shortDescription": "1,3mg",
+      "name": "Clorpheniramin maleat",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 33988,
+      "ingredientId": 41327,
+      "shortDescription": "26mg",
+      "name": "Potassium L-Aspartate",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

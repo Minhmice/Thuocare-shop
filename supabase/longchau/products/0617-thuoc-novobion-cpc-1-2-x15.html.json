@@ -1,0 +1,60 @@
+{
+  "id": "00039833",
+  "slug": "thuoc/novobion-cpc-1-2-x15.html",
+  "title": "Thuốc Novobion CPC1HN điều trị rối loạn thần kinh ngoại vi (2 vỉ x 15 viên)",
+  "short_title": "NOVOBION CPC1 2X15",
+  "brand": {
+    "name": "CPC1HN",
+    "slug": "thuong-hieu/cpc1hn",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+    "name": "Thuốc bổ",
+    "parent_slug": "thuoc/thuoc-bo-and-vitamin"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "15 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00039833_1a6379345a.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00039833_1a6379345a.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang mềm",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Novobion có là sản phẩm của Công ty Cổ phần Dược phẩm CPC1 Hà Nội, có thành phần chính là vitamin B1, vitamin B6, vitamin B12. Đây là thuốc được sử dụng để điều trị rối loạn thần kinh ngoại vi: Viêm đa dây thần kinh, đau dây thần kinh, đau thần kinh tọa, vai - cánh tay, đau lưng - thắt lưng, đau thần kinh liên sườn, đau dây thần kinh sinh ba, tê các đầu chi, giảm đau trong đau dây thần kinh, bệnh thần kinh trong đái tháo đường, do thuốc, do nghiện rượu, điều trị hỗ trợ trong đau khớp, các rối loạn do thiếu hụt vitamin B1, B6, B12 (bệnh Beri-Beri, viêm dây thần kinh ngoại vi, thiếu máu nguyên bào sắt, chứng co giật ở trẻ em do thiếu pyridoxin…).</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc Novobion được chỉ định dùng trong các trường hợp sau:</p><p dir=\"ltr\">Rối loạn thần kinh ngoại vi: Viêm đa dây thần kinh, đau dây thần kinh, đau thần kinh tọa, vai - cánh tay, đau lưng - thắt lưng, đau thần kinh liên sườn, đau dây thần kinh sinh ba, tê các đầu chi, giảm đau trong đau dây thần kinh, bệnh thần kinh trong đái tháo đường, do thuốc, do nghiện rượu, điều trị hỗ trợ trong đau khớp, các rối loạn do thiếu hụt vitamin B1, B6, B12 (bệnh Beri - Beri, viêm dây thần kinh ngoại vi, thiếu máu nguyên bào sắt, chứng co giật ở trẻ em do thiếu pyridoxin…).</p><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 61808,
+      "ingredientId": 40316,
+      "shortDescription": "100mg",
+      "name": "Vitamin B1",
+      "isPrimary": false,
+      "slug": "thanh-phan/vitamin-b1"
+    },
+    {
+      "id": 61809,
+      "ingredientId": 40333,
+      "shortDescription": "200mg",
+      "name": "Vitamin B6",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 61810,
+      "ingredientId": 40318,
+      "shortDescription": "200mcg",
+      "name": "Vitamin B12",
+      "isPrimary": false,
+      "slug": "thanh-phan/vitamin-b12"
+    }
+  ],
+  "stock_qty": 0
+}

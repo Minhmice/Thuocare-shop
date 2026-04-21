@@ -1,0 +1,44 @@
+{
+  "id": "00040215",
+  "slug": "thuoc/celecoxib-200-mg-khapharco-500-v.html",
+  "title": "Thuốc Celecoxib 200mg Khapharco điều trị triệu chứng thoái hóa khớp và viêm khớp dạng thấp (500 viên)",
+  "short_title": "CELECOXIB 200MG KHAPHARCO 500V",
+  "brand": {
+    "name": "Khapharco",
+    "slug": "thuong-hieu/khapharco",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem/thuoc-giam-dau-khang-viem",
+    "name": "Thuốc giảm đau kháng viêm",
+    "parent_slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 500 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00040215_5b21c50f5c.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00040215_5b21c50f5c.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang cứng",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Celecoxib là sản phẩm của Khapharco, có thành phần chính là Celecoxib. Đây là thuốc được sử dụng để điều trị triệu chứng của thoái hóa khớp (OA) và viêm khớp dạng thấp (RA); giảm nhẹ các dấu hiệu và triệu chứng của viêm cột sống dính khớp; điều trị ngắn hạn đau cấp tính ở người lớn, bao gồm đau do phẫu thuật, chấn thương mô mềm, cơ vân; điều trị đau bụng kinh nguyên phát.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc Celecoxib được chỉ định dùng trong các trường hợp sau:</p><ul><li>Điều trị triệu chứng của thoái hóa khớp (OA) và viêm khớp dạng thấp (RA).</li><li>Giảm nhẹ các dấu hiệu và triệu chứng của viêm cột sống dính khớp.</li><li>Điều trị ngắn hạn đau cấp tính ở người lớn, bao gồm đau do phẫu thuật, chấn thương mô mềm, cơ vân.</li><li>Điều trị đau bụng kinh nguyên phát.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 57798,
+      "ingredientId": 13665,
+      "shortDescription": "200mg",
+      "name": "Celecoxib",
+      "isPrimary": false,
+      "slug": "thanh-phan/celecoxib"
+    }
+  ],
+  "stock_qty": 0
+}

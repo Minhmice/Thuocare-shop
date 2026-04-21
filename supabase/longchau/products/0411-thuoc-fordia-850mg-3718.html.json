@@ -1,0 +1,44 @@
+{
+  "id": "00003143",
+  "slug": "thuoc/fordia-850mg-3718.html",
+  "title": "Thuốc Fordia 850mg United điều trị đái tháo đường típ 2 (10 vỉ x 10 viên)",
+  "short_title": "FORDIA 850 UNITED 10X10",
+  "brand": {
+    "name": "United",
+    "slug": "thuong-hieu/united",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tri-tieu-duong",
+    "name": "Thuốc trị tiểu đường",
+    "parent_slug": "thuoc"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00003143_e4815ff8c0.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003143_e4815ff8c0.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Fordia 850 mg được sản xuất bởi công ty TNHH United International Pharma, có thành phần chính là metformin, được chỉ định để điều trị đái tháo đường type 2 (không phụ thuộc insulin) khi chế độ ăn và tập thể dục không kiểm soát được glucose huyết.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p>Thuốc Fordia 850 mg được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Ðiều trị <a href=\"https://nhathuoclongchau.com.vn/benh/benh-tieu-duong-289.html\">đái tháo đường</a> type 2 ở người lớn, đặc biệt ở bệnh nhân quá cân, khi chế độ ăn uống kết hợp tập luyện không kiểm soát được đường huyết.</li>\n\t<li>Có thể dùng Fordia 850 mg riêng rẽ hoặc kết hợp với các thuốc điều trị đái tháo đường dạng uống khác, hoặc với insulin.</li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/metformin\">Metformin hydrochloride</a> là thuốc điều trị tăng đường huyết dạng uống nhóm biguanide để điều trị bệnh đái tháo đường type 2. Thuốc cải thiện sự dung nạp glucose ở các bệnh nhân đái tháo đường type 2 và hạ thấp glucose trong huyết tương lúc bình thường và sau khi ăn. Metformin HCl làm giảm sự sản xuất glucose ở gan và cải thiện độ nhạy cảm của insulin bằng cách gia tăng hấp thu và tiêu thụ glucose ở ngoại vi.</p>\n\n<p>Metformin HCl tác động có lợi lên thành phần các lipid trong huyết thanh ở những bệnh nhân đái tháo đường type 2. Thuốc làm giảm nồng độ trung bình trong huyết thanh lúc bụng đói của triglyceride, cholesterol toàn phần, và cholesterol tỷ trọng thấp mà không có tác dụng bất lợi trên các nồng độ lipid khác. Hoạt động phân hủy fibrin tăng và sự kết tập tiểu cầu giảm được ghi nhận ở những bệnh nhân đái tháo đường sau khi điều trị với metformin HCl.</p>\n\n<h3>Dược động học</h3>\n\n<p>Sinh khả dụng của metformin HCl vào khoảng 50 - 60% khi sử dụng lúc bụng đói. Thức ăn làm giảm lượng hấp thu và làm chậm không đáng kể tốc độ hấp thu của metformin HCl. Thuốc ít kết hợp với protein huyết tương. Có khả năng theo thời gian, thuốc sẽ phân tán vào các hồng cầu. Nồng độ ổn định trong huyết tương đạt được sau 24 - 48 giờ và thường &lt; 1 mcg/ml. Sau khi uống, khoảng 90% lượng metformin HCl hấp thu vào sẽ được thải trừ qua thận trong vòng 24 giờ đầu tiên. Thời gian bán thải của metformin HCl là 6,2 giờ.</p>",
+  "ingredients_html": [
+    {
+      "id": 44174,
+      "ingredientId": 27124,
+      "shortDescription": "850mg",
+      "name": "Metformin",
+      "isPrimary": false,
+      "slug": "thanh-phan/metformin"
+    }
+  ],
+  "stock_qty": 0
+}

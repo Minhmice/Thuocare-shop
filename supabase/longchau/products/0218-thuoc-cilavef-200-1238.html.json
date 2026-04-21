@@ -1,0 +1,35 @@
+{
+  "id": "00010584",
+  "slug": "thuoc/cilavef-200-1238.html",
+  "title": "Thuốc Cilavef Schazoo SPL điều trị viêm xương khớp mãn tính, viêm khớp dạng thấp (2 vỉ x 10 viên)",
+  "short_title": "CILAVEF",
+  "brand": {
+    "name": "Schazoo SPL",
+    "slug": "thuong-hieu/schazoo-spl",
+    "country": "Pakistan"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem/thuoc-giam-dau-khang-viem",
+    "name": "Thuốc giảm đau kháng viêm",
+    "parent_slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00010584_cilavef_200_7294_60ad_large_81591ea781.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00010584_cilavef_200_7294_60ad_large_81591ea781.jpg"
+  ],
+  "origin_label": "Pakistan",
+  "country": "Pakistan",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang cứng",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Cilavef 200 giảm dấu hiệu &amp; triệu chứng viêm xương khớp mãn tính, viêm khớp dạng thấp ở người lớn; kiểm soát các chứng đau cấp ở người lớn, kể cả đau răng; điều trị đau bụng kinh tiên phát.</p>",
+  "description_html": "",
+  "usage_html": "<ul>\n\t<li>\n\t<p>Giảm dấu hiệu &amp; triệu chứng viêm xương khớp mãn tính, viêm khớp dạng thấp ở người lớn.</p>\n\t</li>\n\t<li>\n\t<p>Kiểm soát các chứng đau cấp ở người lớn, kể cả đau răng.</p>\n\t</li>\n\t<li>\n\t<p>Điều trị đau bụng kinh tiên phát</p>\n\t</li>\n</ul>",
+  "ingredients_html": "<p><meta charset=\"utf-8\" /></p>\r\n\r\n<ul>\r\n\t<li dir=\"ltr\">\r\n\t<p dir=\"ltr\">Dược chất ch&iacute;nh: &nbsp;Celecoxib</p>\r\n\t</li>\r\n\t<li dir=\"ltr\">\r\n\t<p dir=\"ltr\">Loại thuốc: Thuốc giảm đau, hạ sốt, Nh&oacute;m chống vi&ecirc;m kh&ocirc;ng Steroid, Thuốc điều trị G&uacute;t v&agrave; c&aacute;c bệnh xương khớp</p>\r\n\t</li>\r\n\t<li dir=\"ltr\">\r\n\t<p dir=\"ltr\">Dạng thuốc, h&agrave;m lượng: Vi&ecirc;n nang cứng 200mg.</p>\r\n\t</li>\r\n</ul>",
+  "stock_qty": 0
+}

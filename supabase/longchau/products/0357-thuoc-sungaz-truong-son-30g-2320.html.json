@@ -1,0 +1,52 @@
+{
+  "id": "00006550",
+  "slug": "thuoc/sungaz-truong-son-30g-2320.html",
+  "title": "Kem xoa bóp Sungaz Trường Sơn điều trị phong thấp lâu năm (30g)",
+  "short_title": "SUNGAZ 30G",
+  "brand": {
+    "name": "Trường Sơn",
+    "slug": "thuong-hieu/truong-son",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-da-lieu/thuoc-boi-ngoai-da",
+    "name": "Thuốc bôi ngoài da",
+    "parent_slug": "thuoc/thuoc-da-lieu"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Tuýp",
+  "pack_note": "Tuýp x 30g",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006550_sungaz_truong_son_30g_3006_6363_large_567b9d7fcf.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006550_sungaz_truong_son_30g_3006_6363_large_567b9d7fcf.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dạng kem",
+  "trust_label": null,
+  "short_description": "<p><strong>Sungaz</strong> là sản phẩm của <em>Công ty cổ phần Đông Nam dược Trường Sơn (Việt Nam)</em>, thành phần chính bao gồm methyl salicylate, menthol và camphor. Thuốc dùng để điều trị phong thấp lâu năm, xương khớp đau nhức, cơ bắp nhức mỏi, đau bụng, nhức đầu, tê thấp tay chân, côn trùng cắn, đau lưng, đau thần kinh tọa, toàn thân đau nhức... Ngoài ra, Sungaz còn có tác dụng làm tăng lưu thông khí huyết.</p>\n\n<p>Sungaz được bào chế dưới dạng kem bôi ngoài da, đóng gói theo quy cách: hộp 1 tuýp chứa 30 g hoặc 65 g kem bôi.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p><strong>Thuốc Sungaz</strong> được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Ðiều trị phong thấp lâu năm, xương khớp đau nhức, cơ bắp nhức mỏi, đau bụng, <strong><a href=\"https://nhathuoclongchau.com.vn/benh/nhuc-dau-24.html\">nhức đầu</a></strong>, tê thấp tay chân, côn trùng cắn, đau lưng, <strong><a href=\"https://nhathuoclongchau.com.vn/benh/dau-than-kinh-toa-13.html\">đau thần kinh tọa</a></strong>, toàn thân đau nhức do chơi thể thao và lao động quá độ.</li>\n\t<li>Làm tăng lưu thông khí huyết.</li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p>Chưa có báo cáo.</p>\n\n<h3>Dược động học</h3>\n\n<p>Chưa có báo cáo.</p>",
+  "ingredients_html": [
+    {
+      "id": 23198,
+      "ingredientId": 27307,
+      "shortDescription": "",
+      "name": "Methyl salicylate",
+      "isPrimary": false,
+      "slug": "thanh-phan/methyl-salicylate"
+    },
+    {
+      "id": 23199,
+      "ingredientId": 12512,
+      "shortDescription": "",
+      "name": "Camphor",
+      "isPrimary": false,
+      "slug": "thanh-phan/camphor"
+    }
+  ],
+  "stock_qty": 0
+}

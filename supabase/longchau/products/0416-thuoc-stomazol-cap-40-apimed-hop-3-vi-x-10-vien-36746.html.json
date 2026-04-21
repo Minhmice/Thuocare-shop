@@ -1,0 +1,44 @@
+{
+  "id": "00502500",
+  "slug": "thuoc/stomazol-cap-40-apimed-hop-3-vi-x-10-vien-36746.html",
+  "title": "Thuốc Stomazol - Cap 40 Apimed điều trị viêm thực quản, trào ngược dạ dày, thực quản (3 vỉ x 10 viên)",
+  "short_title": "STOMAZOL-CAP 40 APIMED 3X10",
+  "brand": {
+    "name": "Apimed",
+    "slug": "thuong-hieu/apimed",
+    "country": ""
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-da-day",
+    "name": "Thuốc dạ dày",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/14_03e030bd6c.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/14_03e030bd6c.png"
+  ],
+  "origin_label": "",
+  "country": "",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang cứng",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Stomazol - Cap 40 dùng trong điều trị viêm thực quản, trào ngược dạ dày - thực quản. Kết hợp với kháng sinh để diệt trừ và phòng ngừa tái phát loét do Helicobacter pylori, điều trị hội chứng Zollinger – Ellison.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p><a href=\"https://nhathuoclongchau.com.vn/thuoc/stomazol-cap-40-apimed-hop-3-vi-x-10-vien-36746.html\">Thuốc Stomazol - Cap 40</a> dùng trong điều trị <a href=\"https://nhathuoclongchau.com.vn/benh/viem-thuc-quan-408.html\">viêm thực quản</a>, trào ngược dạ dày - thực quản. Kết hợp với kháng sinh để diệt trừ và phòng ngừa tái phát loét do Helicobacter pylori, điều trị hội chứng Zollinger – Ellison.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 60234,
+      "ingredientId": 19460,
+      "shortDescription": "40mg",
+      "name": "Esomeprazol",
+      "isPrimary": true,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

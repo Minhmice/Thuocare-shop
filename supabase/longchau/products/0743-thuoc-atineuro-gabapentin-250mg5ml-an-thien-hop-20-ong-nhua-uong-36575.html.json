@@ -1,0 +1,44 @@
+{
+  "id": "00502352",
+  "slug": "thuoc/atineuro-gabapentin-250mg5ml-an-thien-hop-20-ong-nhua-uong-36575.html",
+  "title": "Thuốc AtiNeuro Gabapentin 250mg/5ml An Thiên điều trị động kinh cục bộ (20 ống)",
+  "short_title": "ATINEURO 250MG/5ML AN THIÊN 20 ỐNG",
+  "brand": {
+    "name": "An Thiên",
+    "slug": "thuong-hieu/an-thien",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-than-kinh/thuoc-than-kinh",
+    "name": "Thuốc thần kinh",
+    "parent_slug": "thuoc/thuoc-than-kinh"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 20 Ống",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/atineuro_039e07f8f2.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/atineuro_039e07f8f2.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch uống",
+  "trust_label": null,
+  "short_description": "<p>Thuốc AtiNeuro là sản phẩm của Công ty Cổ phần Dược phẩm An Thiên, có thành phần chính là Gabapentin. Đây là thuốc được sử dụng để điều trị động kinh cục bộ có/không kèm cơn toàn thể thứ phát, người lớn trên 18 tuổi bị đau dây thần kinh do bệnh Zona, đau dây thần kinh trong bệnh đái tháo đường,...&nbsp;</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc AtiNeuro được chỉ định dùng trong các trường hợp sau:</p><ul><li>Động kinh cục bộ có/không kèm cơn toàn thể thứ phát (chỉ dùng ở trẻ trên 3 tuổi và người lớn).</li><li>Người lớn trên 18 tuổi bị đau dây thần kinh do bệnh Zona, đau dây thần kinh trong bệnh đái tháo đường,...&nbsp;</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 67243,
+      "ingredientId": 20846,
+      "shortDescription": "250mg",
+      "name": "Gabapentin",
+      "isPrimary": true,
+      "slug": "thanh-phan/gabapentin"
+    }
+  ],
+  "stock_qty": 0
+}

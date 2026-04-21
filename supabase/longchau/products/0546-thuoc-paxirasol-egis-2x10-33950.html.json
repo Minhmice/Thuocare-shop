@@ -1,0 +1,44 @@
+{
+  "id": "00033853",
+  "slug": "thuoc/paxirasol-egis-2x10-33950.html",
+  "title": "Thuốc Paxirasol Egis hỗ trợ làm tan chất nhầy trong bệnh lý hô hấp (20 viên)",
+  "short_title": "PAXIRASOL EGIS 2X10",
+  "brand": {
+    "name": "Egis Pharma",
+    "slug": "thuong-hieu/egis-pharma",
+    "country": "Hungary"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-ho-hap/thuoc-tri-ho-cam",
+    "name": "Thuốc trị ho cảm",
+    "parent_slug": "thuoc/thuoc-ho-hap"
+  },
+  "price_amount": 1050,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/paxirasol_1b963756e6.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/paxirasol_1b963756e6.jpg"
+  ],
+  "origin_label": "Hungary",
+  "country": "Hungary",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Paxirasol là sản phẩm của Egis Pharmaceuticals (Hungary) có thành phần chính là Bromhexine hydrochloride dùng điều trị các bệnh đường hô hấp có tắc nghẽn cấp tính hay mạn tính, như hen phế quản, viêm phế quản, dãn phế quản có kèm theo tiết chất nhầy bệnh lý đặc và đàm. Giúp làm tan chất nhầy trong các bệnh viêm ở mũi - họng.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p>Thuốc Paxirasol chỉ định dùng điều trị trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Các bệnh đường hô hấp có tắc nghẽn cấp tính hay mạn tính, như hen phế quản, viêm phế quản, dãn phế quản có kèm theo tiết chất nhầy bệnh lý đặc và đàm.</li>\n\t<li>Giúp làm tan chất nhầy trong các bệnh viêm ở mũi - họng.</li>\n</ul>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Bromhexine làm tăng sản xuất lysosome lẫn hoạt tính của men thủy phân tại các tế bào tiết chất nhầy, nhờ đó các sợi mucopolisaccharid có tính axít của chất tiết phế quản dễ bị tan rã hơn. Việc hoạt hóa đồng thời các tuyến thanh dịch làm sản xuất chất tiết ít nhầy hơn. Trong các bệnh viêm đường hô hấp, bromhexine làm tăng sản xuất chất diện hoạt và đã chứng minh là thuốc cũng làm tăng sự thanh thải bởi các lông ở niêm mạc.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p><em>Hấp thu</em></p>\n\n<p>Bromhexine được hấp thu tốt từ đường tiêu hóa và đạt nồng độ tối đa trong huyết tương trong vòng khoảng 1 giờ sau khi uống.</p>\n\n<p><em>Phân bố</em></p>\n\n<p>Bromhexine gắn nhiều vào protein huyết tương. Theo các nghiên cứu ở động vật, bromhexine đi xuyên qua nhau thai cũng như được thải vào sữa mẹ.</p>\n\n<p><em>Chuyển hóa</em></p>\n\n<p>Hoạt chất được chuyển hóa tại gan (chất chuyển là ambroxol).</p>\n\n<p><em>Thải trừ</em></p>\n\n<p>Bromhexine được thải qua nước tiểu chủ yếu dưới dạng các chất chuyển hóa (85-90%). Thời gian bán hủy của hromhexine vào khoảng 6,5 giờ.</p>\n\n<p><em>Suy thận</em></p>\n\n<p>Thời gian bán hủy của bromhexine kéo dài hơn trong suy thận nặng, do đó phải giảm liều hay khoảng cách uống thuốc phải dài ra.</p>",
+  "ingredients_html": [
+    {
+      "id": 42285,
+      "ingredientId": 11841,
+      "shortDescription": "8mg",
+      "name": "Bromhexine",
+      "isPrimary": false,
+      "slug": "thanh-phan/bromhexine"
+    }
+  ],
+  "stock_qty": 0
+}

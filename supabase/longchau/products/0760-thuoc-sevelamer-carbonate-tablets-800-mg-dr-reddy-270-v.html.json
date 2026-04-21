@@ -1,0 +1,44 @@
+{
+  "id": "00046346",
+  "slug": "thuoc/sevelamer-carbonate-tablets-800-mg-dr-reddy-270-v.html",
+  "title": "Thuốc Sevelamer Carbonate Tablets 800mg Dr. Reddy's kiểm soát tình trạng tăng phosphat huyết (270 viên)",
+  "short_title": "SEVELAMER CARBONATE TABLETS 800MG DR. REDDY 270V",
+  "brand": {
+    "name": "Dr. Reddy",
+    "slug": "thuong-hieu/dr-reddy",
+    "country": "Ấn Độ"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-giai-doc-khu-doc-va-ho-tro-cai-nghien/cap-cuu-giai-doc",
+    "name": "Cấp cứu giải độc",
+    "parent_slug": "thuoc/thuoc-giai-doc-khu-doc-va-ho-tro-cai-nghien"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 270 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/sevelamer_a0233ee6f6.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/sevelamer_a0233ee6f6.jpg"
+  ],
+  "origin_label": "Ấn Độ",
+  "country": "Ấn Độ",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Sevelamer Carbonate Tablets 800mg là sản phẩm của Dr. Reddy’s Laboratories Ltd (Ấn Độ) có hoạt chất chính là Sevelamer carbonate. Đây là thuốc kê đơn dùng kiểm soát tình trạng tăng phosphat huyết ở bệnh nhân trưởng thành được thẩm tách máu hoặc thẩm phân phúc mạc.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Sevelamer Carbonate Tablets 800mg là thuốc kê đơn dùng kiểm soát tình trạng tăng phosphat huyết ở bệnh nhân trưởng thành được thẩm tách máu hoặc thẩm phân phúc mạc.</p><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 69689,
+      "ingredientId": 43486,
+      "shortDescription": "800mg",
+      "name": "Sevelamer carbonate",
+      "isPrimary": true,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

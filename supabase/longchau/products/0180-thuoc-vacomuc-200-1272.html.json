@@ -1,0 +1,44 @@
+{
+  "id": "00010457",
+  "slug": "thuoc/vacomuc-200-1272.html",
+  "title": "Thuốc cốm Vacomuc 200 Vacopharm làm thuốc tiêu chất nhầy (200 gói)",
+  "short_title": "VACOMUC 200 100 GÓI",
+  "brand": {
+    "name": "Vacopharm",
+    "slug": "thuong-hieu/vacopharm",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-ho-hap/thuoc-tri-ho-cam",
+    "name": "Thuốc trị ho cảm",
+    "parent_slug": "thuoc/thuoc-ho-hap"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Gói",
+  "pack_note": "100 Gói",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00010457_vacomuc_200_8470_609c_large_9d18f63cbb.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00010457_vacomuc_200_8470_609c_large_9d18f63cbb.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Thuốc cốm",
+  "trust_label": null,
+  "short_description": "<p>Vacomuc 200 của Công ty CP Dược Vacopharm, thành phần chính là acetylcystein. Thuốc có tác dụng làm thuốc tiêu chất nhầy.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p>Thuốc Vacomuc 200 được chỉ định trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Vacomuc 200 được sử dụng làm thuốc tiêu chất nhầy trong bệnh nhầy nhớt (mucoviscidosis) (xơ nang tuyến tụy), bệnh lý hô hấp có đờm nhầy quánh như trong viêm phế quản cấp và mạn, và làm sạch thường quy trong mở khí quản.</li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p>Acetylcystein là dẫn chất N-acetyl của L-cystein, một amino-acid tự nhiên. Acetylcystein được dùng làm thuốc tiêu chất nhầy và thuốc giải độc khi quá liều paracetamol. Thuốc làm giảm độ quánh của đờm ở phổi có mủ hoặc không bằng cách tách đôi cầu nối disulfua trong mucoprotein và tạo thuận lợi để tống đờm ra ngoài bằng ho, dẫn lưu tư thế hoặc bằng phương pháp cơ học. </p>\n\n<p>Acetylcystein dùng để bảo vệ chống gây độc cho gan do quá liều paracetamol, bằng cách duy trì hoặc khôi phục nồng độ glutathion của gan là chất cần thiết để làm bất hoạt chất chuyển hóa trung gian của paracetamol gây độc cho gan.</p>\n\n<h3>Dược động học</h3>\n\n<p><em>Hấp thu</em></p>\n\n<p>Sau khi uống, Acetylcystein được hấp thu nhanh ở đường tiêu hóa.</p>\n\n<p><em>Chuyển hóa</em></p>\n\n<p>Acetylcystein bị gan khử acetyl thành cystein và sau đó được chuyển hóa. Nồng độ đỉnh trong huyết tương đạt được từ 0,5 đến 1 giờ sau khi uống. Khả dụng sinh học khi uống thấp và có thể do chuyển hóa trong thành ruột và chuyển hóa bước đầu trong gan. </p>\n\n<p><em>Thải trừ</em></p>\n\n<p>Độ thanh thải thận có thể chiếm 30% độ thanh thải toàn thân.</p>",
+  "ingredients_html": [
+    {
+      "id": 24363,
+      "ingredientId": 7376,
+      "shortDescription": "200mg",
+      "name": "Acetylcysteine",
+      "isPrimary": false,
+      "slug": "thanh-phan/acetylcysteine"
+    }
+  ],
+  "stock_qty": 0
+}

@@ -1,0 +1,44 @@
+{
+  "id": "00503412",
+  "slug": "thuoc/destor-5mg-axon-10x10-37727.html",
+  "title": "Thuốc Destor 5mg Axon giảm các triệu chứng viêm mũi dị ứng, mày đay mạn tính tự phát (10 vỉ x 10 viên)",
+  "short_title": "DESTOR 5MG AXON 10X10",
+  "brand": {
+    "name": "Axon",
+    "slug": "thuong-hieu/axon",
+    "country": "Ấn Độ"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-di-ung/thuoc-chong-di-ung",
+    "name": "Thuốc chống dị ứng",
+    "parent_slug": "thuoc/thuoc-di-ung"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00503412_4c803c9d4b.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00503412_4c803c9d4b.jpg"
+  ],
+  "origin_label": "Ấn Độ",
+  "country": "Ấn Độ",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p class=\"drugtitle\" id=\"ten-thuoc\" itemprop=\"name\">Destor là sản phẩm của Axon Drugs Private., Ltd với thành phần chính là Desloratadin. Thuốc Destor có tác dụng giảm các triệu chứng viêm mũi dị ứng, mày đay mạn tính tự phát.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Giảm các triệu chứng viêm mũi dị ứng theo mùa, viêm mũi dị ứng quanh năm như hắt hơi, sổ mũi, ngứa, nghẹt mũi, kèm kích ứng mắt, chảy nước mắt và đỏ mắt, ngứa họng và ho.</p><p>Giảm các triệu chứng mày đay mạn tính tự phát.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 45922,
+      "ingredientId": 17208,
+      "shortDescription": "5mg",
+      "name": "Desloratadine",
+      "isPrimary": false,
+      "slug": "thanh-phan/desloratadine"
+    }
+  ],
+  "stock_qty": 0
+}

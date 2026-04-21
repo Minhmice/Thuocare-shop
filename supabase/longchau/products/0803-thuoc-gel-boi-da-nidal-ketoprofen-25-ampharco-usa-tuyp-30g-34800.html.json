@@ -1,0 +1,44 @@
+{
+  "id": "00500678",
+  "slug": "thuoc/gel-boi-da-nidal-ketoprofen-25-ampharco-usa-tuyp-30g-34800.html",
+  "title": "Gel bôi da Nidal Ampharco kháng viêm và giảm đau xương khớp (30g)",
+  "short_title": "GEL BÔI DA NIDAL KETOPROFEN 2.5% AMPHARCO U.S.A TUÝP 30G",
+  "brand": {
+    "name": "Ampharco",
+    "slug": "thuong-hieu/ampharco",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-da-lieu/thuoc-boi-ngoai-da",
+    "name": "Thuốc bôi ngoài da",
+    "parent_slug": "thuoc/thuoc-da-lieu"
+  },
+  "price_amount": 30000,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 1 Tuýp x 30g",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/851_9d0684f4ff.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/851_9d0684f4ff.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Nhũ tương (Gel)",
+  "trust_label": null,
+  "short_description": "<p>Gel bôi Nidal là sản phẩm của Công ty Cổ phần Dược phẩm Ampharco U.S.A, thành phần chính là Ketoprofen. Gel bôi Nidal có tác dụng kháng viêm và giảm đau, được dùng thoa trên da tại chỗ trong điều trị đau cấp tính và mạn tính do bệnh thấp khớp, chấn thương, cũng như đau hậu phẫu bao gồm thoái hóa khớp, viêm gân cơ, bong gân, dây chằng và phù nề.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc kháng viêm và giảm đau, được dùng thoa trên da tại chỗ trong điều trị đau cấp tính và mạn tính do bệnh thấp khớp, chấn thương, cũng như đau hậu phẫu bao gồm thoái hóa khớp, viêm gân cơ, bong gân, dây chằng và phù nề.</p><h3>Dược lực học</h3><p>Nidal gel chứa ketoprofen, một dẫn chất của acid phenyl propionic, không thuộc nhóm steroid với tính chất kháng viêm và giảm đau.</p><p>Ketoprofen ức chế tổng hợp prostaglandin và sự ngưng tập tiểu cầu.</p><h3>Dược động học</h3><p>Thuốc dạng gel dùng ngoài da.</p><p>Nồng độ trong mô và trong huyết tương của ketoprofen đã được do trên 24 bệnh nhân trải qua phẫu thuật khớp gối. Sau khi dùng lặp lại ketoprofen gel thoa ngoài da, nồng độ trong huyết tương thấp hơn 60 lần (9-39 ng/g) so với nồng độ đạt được trong huyết tương khi uống liều đơn ketoprofen (490-3300 ng/g). Nồng độ trong mô tại vùng bôi thuốc khi dùng gel bôi da cũng trong cùng khoảng nồng độ khi dùng đường uống, mặc dù mức độ thay đổi nồng độ của dạng gel cao hơn đáng kể giữa các cá thể.</p><p>Khả dụng sinh học của ketoprofen sau khi bôi ngoài da ước tính đạt được khoảng 5% so với dùng đường uống dựa trên các dữ liệu bài tiết qua nước tiểu.</p><p>Khoảng 99% thuốc gắn kết với protein trong huyết tương.</p><p>Ketoprofen bài tiết qua thận chủ yếu dưới dạng chất liên hợp glucuronid.</p>",
+  "ingredients_html": [
+    {
+      "id": 53682,
+      "ingredientId": 24529,
+      "shortDescription": "375mg",
+      "name": "Ketoprofen",
+      "isPrimary": false,
+      "slug": "thanh-phan/ketoprofen"
+    }
+  ],
+  "stock_qty": 0
+}

@@ -1,0 +1,44 @@
+{
+  "id": "00502862",
+  "slug": "thuoc/thuoc-toganin-500mg-truong-tho-12x5-37164.html",
+  "title": "Thuốc Toganin 500 Trường Thọ Pharma điều trị tăng amoniac máu, rối loạn khó tiêu (12 vỉ x 5 viên)",
+  "short_title": "TOGANIN 500MG TRƯỜNG THỌ 12X5",
+  "brand": {
+    "name": "Trường Thọ Pharma",
+    "slug": "thuong-hieu/truong-tho-pharma",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat",
+    "name": "Thuốc tiêu hoá & gan mật",
+    "parent_slug": "thuoc"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 12 Vỉ x 5 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00502862_c86fa4b9ff.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00502862_c86fa4b9ff.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang mềm",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Toganin là sản phẩm của Công ty Cổ phần Dược phẩm Trường Thọ, có thành phần chính là Arginin hydroclorid. Đây là thuốc dùng để điều trị tăng amoniac máu ở bệnh nhân thiếu carbamylphosphate synthetase, thiếu ornithine carbamyl transferase, bị citrulin máu, arginosuccinic niệu; điều trị hỗ trợ các rối loạn khó tiêu, bổ sung dinh dưỡng cho người bị rối loạn chu trình urê.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Toganin được chỉ định dùng trong các trường hợp sau:</p><ul><li>Điều trị duy trì tăng amoniac máu ở bệnh nhân thiếu carbamylphosphate synthetase, thiếu ornithine carbamyl transferase.</li><li>Điều trị duy trì cho bệnh nhân tăng amoniac máu bị citrulin máu, arginosuccinic niệu.</li><li>Điều trị hỗ trợ các rối loạn khó tiêu.</li><li>Bổ sung dinh dưỡng cho người bị rối loạn chu trình urê như tăng amoniac máu tuýp I và II, tăng citrulin máu, arginosuccinic niệu và thiếu men N-acetyl glutamate synthetase.</li></ul><h3>Dược lực học</h3><p><strong>Nhóm dược lý và mã ATC: B05XB01.</strong></p><p>Arginin, như các acid amin dibasic khác, kích thích tuyến yên giải phóng hormon tăng trưởng và prolactin, tuyến tụy giải phóng glucagon và insulin.</p><p>Arginin là một acid amin chủ yếu trong chu trình ure ở bệnh nhân bị thiếu hụt enzym N-acetylglutamate synthase (NAGS), carbamyl phosphat synthetase (CPS), omithin transcarbamylase (OTC), argininosuceinat synthase (ASS), hoặc argininosuccinat lyase (ASL).</p><p>Dùng arginin hydroclorid ở bệnh nhân có các rối loạn này làm hồi phục nồng độ arginin huyết, giúp ngăn chặn sự dị hóa protein. Truyền tĩnh mạch một lượng lớn cho bệnh nhân bị thiếu hụt ASS hoặc ASL có tác dụng đẩy mạnh sự hợp nhất amoniac vào citrullin và areininosuceinat. Các sản phẩm trung gian này của chu trình urê ít độc và dễ bài tiết trong nước tiểu hơn amoniac và cung cấp một chuỗi các phản ứng hóa sinh để thải trừ chất thải nitơ.</p><p>Arginin làm tăng nồng độ glucose huyết. Tác dụng này có thể là trực tiếp. Sự phân hủy glycogen và sự tân tạo glucose cũng có thể qua trung gian arginin kích thích giải phóng glucagon.</p><p>Nồng độ gastrin trong huyết thanh được nâng cao bởi arginin. Thuốc ức chế cạnh tranh sự hấp thu lại của ống thận và vì thế làm tăng sự bài tiết protein trong nước tiểu gồm albumin, chuỗi nhẹ immunoglobulin và beta2 microglobulin.</p><h3>Dược động học</h3><p>Arginin hydroclorid hấp thu tốt qua đường tiêu hóa. Nồng độ đỉnh trong huyết tương đạt được sau khoảng 2 giờ. Sinh khả dụng tuyệt đối 70%.</p><p>Sau khi truyền tĩnh mạch, nồng độ đỉnh của arginin đạt được ở 20 - 30 phút sau khi bắt đầu truyền.</p><p>Arginin hydroclorid được kết hợp với nhiều quá trình phản ứng sinh hóa. Thuốc chuyển hóa mạnh ở gan, tạo thành ornithine ure qua sự thủy phân nhóm guanidin dưới sự xúc tác của arginase. Arginin được lọc ở ống thận và được hấp thu lại gần như hoàn toàn ở ống thận.</p><p>Nửa đời thải trừ: 1,2 - 2 giờ.</p>",
+  "ingredients_html": [
+    {
+      "id": 47280,
+      "ingredientId": 9425,
+      "shortDescription": "500mg",
+      "name": "Arginin hydroclorid",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

@@ -1,0 +1,44 @@
+{
+  "id": "00050685",
+  "slug": "thuoc/canpaxel-100-mg-bidiphar-16-7-ml-1.html",
+  "title": "Dung dịch tiêm Canpaxel 100mg Điều trị ung thư buồng trứng, ung thư vú Hộp 16.7ml",
+  "short_title": "CANPAXEL 100MG BIDIPHAR 16.7ML",
+  "brand": {
+    "name": "Bidiphar",
+    "slug": "thuong-hieu/bidiphar",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-dieu-tri-ung-thu/thuoc-chong-ung-thu",
+    "name": "Thuốc chống ung thư",
+    "parent_slug": "thuoc/thuoc-dieu-tri-ung-thu"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp x 16.7ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/canpaxel_100_1651313640_4160fbf083.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/canpaxel_100_1651313640_4160fbf083.png"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch tiêm",
+  "trust_label": null,
+  "short_description": "<p>Dung dịch tiêm Canpaxel 100 dùng trong điều trị ung thư buồng trứng di căn khi các biện pháp điều trị thông thường bằng các anthracyclin và platin đã thất bại hay bị chống chỉ định. Paclitaxel được sử dụng kết hợp với doxorubicin trong điều trị bổ trợ là phác đồ được lựa chọn hàng đầu trong điều trị ung thư vú di căn. Điều trị ung thư vú di căn khi liệu pháp thông thường với các anthracyclin đã thất bại hoặc ung thư vú tái phát trong thời gian 6 tháng sau điều trị bổ trợ. Điều trị ung thư phổi không tế bào nhỏ, ung thư Kaposi liên quan đến AIDS.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Dung dịch tiêm Canpaxel 100 chỉ định điều trị trong các trường hợp sau:</p><ul><li>Điều trị ung thư buồng trứng di căn khi các biện pháp điều trị thông thường bằng các anthracyclin và platin đã thất bại hay bị chống chỉ định.</li><li>Paclitaxel được sử dụng kết hợp với doxorubicin trong điều trị bổ trợ là phác đồ được lựa chọn hàng đầu trong điều trị ung thư vú di căn. Điều trị ung thư vú di căn khi liệu pháp thông thường với các anthracyclin đã thất bại hoặc ung thư vú tái phát trong thời gian 6 tháng sau điều trị bổ trợ.</li><li>Điều trị ung thư phổi không tế bào nhỏ, ung thư Kaposi liên quan đến AIDS.</li></ul><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 73042,
+      "ingredientId": 31346,
+      "shortDescription": "100mg",
+      "name": "Paclitaxel",
+      "isPrimary": false,
+      "slug": "thanh-phan/paclitaxel"
+    }
+  ],
+  "stock_qty": 0
+}

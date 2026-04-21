@@ -1,0 +1,52 @@
+{
+  "id": "00048773",
+  "slug": "thuoc/otrera-0-1-an-thien-10-ml.html",
+  "title": "Dung dịch xịt mũi Otrera 0.1% An Thiên giảm nghẹt mũi và sung huyết mũi (10ml)",
+  "short_title": "OTRERA 0.1% AN THIÊN 10ML",
+  "brand": {
+    "name": "An Thiên",
+    "slug": "thuong-hieu/an-thien",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-mat-tai-mui-hong/thuoc-tai-mui-hong",
+    "name": "Thuốc tai mũi họng",
+    "parent_slug": "thuoc/thuoc-mat-tai-mui-hong"
+  },
+  "price_amount": 25000,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp x 10ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_04551_acec3fe400.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_04551_acec3fe400.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_04546_7d1add0874.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_04547_bc609f7367.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_04548_4db7c408a1.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_04549_7bbe52e2e0.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_04550_ffb9465bf1.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_04552_674ff562da.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/otrera_1_14bcd3a6de.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_20250409_0009_ea5cb588e0.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch xịt mũi",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Otrera 0,1% là sản phẩm của Công ty Cổ phần Dược phẩm An Thiên, có thành phần chính là Xylometazoline hydrochloride. Đây là thuốc được sử dụng cho các trường hợp nghẹt mũi, sung huyết mũi do viêm mũi cấp hoặc mạn tính, viêm xoang, cảm lạnh, cảm mạo, dị ứng đường hô hấp trên; hỗ trợ điều trị sung huyết mũi họng trong viêm tai giữa.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\"><a href=\"https://nhathuoclongchau.com.vn/thuoc/otrera-0-1-an-thien-10-ml.html\">Thuốc Otrera 0,1%</a> được chỉ định dùng trong các trường hợp sau:</p><ul><li><a href=\"https://nhathuoclongchau.com.vn/benh/nghet-mui-855.html\">Nghẹt mũi</a>, sung huyết mũi do viêm mũi cấp hoặc mạn tính, viêm xoang, cảm lạnh, cảm mạo, dị ứng đường hô hấp trên.</li><li>Hỗ trợ điều trị sung huyết mũi họng trong viêm tai giữa.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p><strong>Nhóm dược lý: Thuốc thông mũi dùng tại chỗ, cường giao cảm.</strong></p><p><strong>Mã ATC: R01AA07.</strong></p><p>Xylometazoline thuộc nhóm cường giao cảm tác dụng trên các thụ thể alpha-adrenergic ở niêm mạc mũi. Khi được sử dụng trong mũi, nó làm co mạch máu ở mũi, qua đó làm giảm phù nề ở niêm mạc mũi và các vùng xung quanh cũng liên quan đến tăng bởi tiếng làm giảm các triệu chứng chất và tạo điều kiện thải các dịch tiết tắc nghẽn. Điều này giúp cho việc thở qua mũi được dễ dàng trong các trường hợp nghẹt mũi.</p><p>Tác dụng của xylometazoline bắt đầu trong vòng vài phút và kéo dài tới 10 giờ.</p><p>Xylometazoline dung nạp tốt, ngay cả ở bệnh nhân có niêm mạc mũi nhạy cảm, và không làm ảnh hưởng đến chức năng của lông chuyển ở niêm mạc.</p><p>Các nghiên cứu in vitro đã chỉ ra rằng, xylometazoline làm giảm hoạt động truyền nhiễm của các rhinovirus liên quan đến bệnh cảm lạnh thông thường ở người.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Dung dịch xylometazoline hydrochloride dùng qua đường mũi đôi khi có thể được hấp thu và có tác dụng toàn thân.</p>",
+  "ingredients_html": [
+    {
+      "id": 70421,
+      "ingredientId": 42307,
+      "shortDescription": "0.1%",
+      "name": "Xylometazoline hydrochloride",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

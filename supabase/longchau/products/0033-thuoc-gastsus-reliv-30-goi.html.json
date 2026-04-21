@@ -1,0 +1,60 @@
+{
+  "id": "00047130",
+  "slug": "thuoc/gastsus-reliv-30-goi.html",
+  "title": "Thuốc Gastsus Reliv giảm triệu chứng ăn không tiêu, ợ nóng, đau bụng (30 gói)",
+  "short_title": "GASTSUS RELIV 30 GÓI",
+  "brand": {
+    "name": "Reliv",
+    "slug": "thuong-hieu/reliv",
+    "country": "Ấn Độ"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tieu-hoa",
+    "name": "Thuốc tiêu hoá",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Gói",
+  "pack_note": "30 Gói",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/gastsu_2_920d259b49.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/gastsu_2_920d259b49.jpg"
+  ],
+  "origin_label": "Ấn Độ",
+  "country": "Ấn Độ",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Hỗn dịch uống",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Gastsus là sản phẩm của Công ty Cổ phần Dược phẩm Reliv có chứa thành phần chính là Oxetacain, Nhôm hydroxyd, Magnesi hydroxid được chỉ định để điều trị làm giảm triệu chứng trong các trường hợp ăn không tiêu, ợ nóng, đau bụng liên quan đến loét đường tiêu hóa, viêm dạ dày, viêm thực quản. Thuốc đặc biệt làm giảm hữu hiệu các triệu chứng của cơn kích ứng thực quản cho các bệnh nhân không đáp ứng với thuốc kháng acid đơn thuần.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Gastsus chỉ định điều trị trong các trường hợp sau: làm giảm triệu chứng trong các trường hợp ăn không tiêu, ợ nóng, đau bụng liên quan đến loét đường tiêu hóa, viêm dạ dày, viêm thực quản. Thuốc đặc biệt làm giảm hữu hiệu các triệu chứng của cơn kích ứng thực quản cho các bệnh nhân không đáp ứng với thuốc kháng acid đơn thuần.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 67883,
+      "ingredientId": 42321,
+      "shortDescription": "20mg",
+      "name": "Oxetacain",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 67884,
+      "ingredientId": 29800,
+      "shortDescription": "582mg",
+      "name": "Nhôm hydroxyd",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 67885,
+      "ingredientId": 26293,
+      "shortDescription": "196mg",
+      "name": "Magnesi hydroxid",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

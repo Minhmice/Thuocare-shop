@@ -1,0 +1,62 @@
+{
+  "id": "00007919",
+  "slug": "thuoc/viegan-b-ho-tro-dieu-tri-viem-gan-901.html",
+  "title": "Thuốc Viegan-B Foripharm điều trị hạ men gan, viêm gan (3 vỉ x 15 viên) ",
+  "short_title": "VIEGAN-B FORIPHARM 3X15",
+  "brand": {
+    "name": "Foripharm",
+    "slug": "thuong-hieu/foripharm",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-benh-gan",
+    "name": "Thuốc trị bệnh gan",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 3 Vỉ x 15 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/7919_viegan_b_ho_tro_dieu_tri_viem_gan_1110_59a9_large_ded3409381.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/7919_viegan_b_ho_tro_dieu_tri_viem_gan_1110_59a9_large_ded3409381.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007919_viegan_b_ho_tro_dieu_tri_viem_gan_1629019995_509f6d298e.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007919_viegan_b_ho_tro_dieu_tri_viem_gan_6800_6118_large_54566bb7eb.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao đường",
+  "trust_label": null,
+  "short_description": "<p><strong>Thuốc Viegan – B</strong> của <em>Công ty cổ phần dược phẩm Trung Ương 3</em>, chứa dược chất chính là cao đặc <strong><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/diep-ha-chau\">Diệp hạ châu</a></strong>, cao đặc Nhân trần, cao đặc Cỏ nhọ nồi, được dùng trong các trường hợp để hạ men gan, tăng cường chức năng gan và hỗ trợ điều trị viêm gan cấp và mãn tính, đặc biệt viêm gan siêu vi B.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p><strong>Thuốc Viegan - B</strong> được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Hạ men gan, tăng cường chức năng gan. </li>\n\t<li>Hỗ trợ điều trị <strong><a href=\"https://nhathuoclongchau.com.vn/benh/viem-gan-cap-145.html\">viêm gan cấp</a></strong> và mãn tính, đặc biệt viêm gan siêu vi B<em>.</em></li>\n</ul>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Chưa ghi nhận.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Chưa ghi nhận.</p>",
+  "ingredients_html": [
+    {
+      "id": 25065,
+      "ingredientId": 17681,
+      "shortDescription": "100mg",
+      "name": "Diệp hạ châu",
+      "isPrimary": false,
+      "slug": "thanh-phan/diep-ha-chau"
+    },
+    {
+      "id": 25066,
+      "ingredientId": 29763,
+      "shortDescription": "50mg",
+      "name": "Nhân trần",
+      "isPrimary": false,
+      "slug": "thanh-phan/nhan-tran"
+    },
+    {
+      "id": 25067,
+      "ingredientId": 15333,
+      "shortDescription": "0.35g",
+      "name": "Cỏ nhọ nồi",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

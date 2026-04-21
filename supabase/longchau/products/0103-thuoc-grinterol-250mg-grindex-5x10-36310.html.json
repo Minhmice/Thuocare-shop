@@ -1,0 +1,44 @@
+{
+  "id": "00502100",
+  "slug": "thuoc/grinterol-250mg-grindex-5x10-36310.html",
+  "title": "Thuốc Grinterol 250mg Grindex cải thiện chức năng gan ở bệnh nhân viêm gan mãn tính (5 vỉ x 10 viên)",
+  "short_title": "GRINTEROL 250MG GRINDEX 5X10",
+  "brand": {
+    "name": "Grindex",
+    "slug": "thuong-hieu/grindex",
+    "country": "Latvia"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-benh-gan",
+    "name": "Thuốc trị bệnh gan",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00502100_2aa84ffe36.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00502100_2aa84ffe36.jpg"
+  ],
+  "origin_label": "Latvia",
+  "country": "Latvia",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang cứng",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Grinterol là sản phẩm của AS Grindeks chứa hoạt chất Ursodeoxycholic acid dùng cải thiện chức năng gan ở bệnh nhân viêm gan mãn tính.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Grinterol dùng cải thiện chức năng gan ở bệnh nhân viêm gan mãn tính.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 37158,
+      "ingredientId": 39916,
+      "shortDescription": "250mg",
+      "name": "Ursodeoxycholic acid",
+      "isPrimary": false,
+      "slug": "thanh-phan/ursodeoxycholic-acid"
+    }
+  ],
+  "stock_qty": 0
+}

@@ -1,0 +1,87 @@
+{
+  "id": "00005859",
+  "slug": "thuoc/pharcotinex-2639.html",
+  "title": "Thuốc Pharcotinex Pharco điều trị các rối loạn thận, tiết niệu (5 vỉ x 12 viên)",
+  "short_title": "PHARCOTINEX",
+  "brand": {
+    "name": "Pharco",
+    "slug": "thuong-hieu/pharco",
+    "country": "Ai Cập"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-tri-benh-than",
+    "name": "Thuốc trị bệnh thận",
+    "parent_slug": "thuoc/thuoc-tiet-nieu-sinh-duc"
+  },
+  "price_amount": 4100,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "12 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005859_pharcotinex_1996_5b30_large_ca6913c3be.JPG",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005859_pharcotinex_1996_5b30_large_ca6913c3be.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005859_pharcotinex_6899_5b30_large_6d11a05db3.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005859_pharcotinex_8973_5b30_large_5277da9a27.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005859_pharcotinex_9971_5b30_large_298875d464.JPG"
+  ],
+  "origin_label": "Ai Cập",
+  "country": "Ai Cập",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang mềm",
+  "trust_label": null,
+  "short_description": "<p><strong>Pharcotinex</strong> được sản xuất bởi <i>Pharco Pharmaceuticals</i> – Ai cập, thành phần chính là pinene (α + β), camphene, fenchone, borneol, anethole, cineol, là thuốc không dùng theo đơn, được chỉ định điều trị các rối loạn thận và tiết niệu, đau do viêm và co thắt đường tiết niệu kết hợp với sỏi niệu, để hòa tan và tống xuất sỏi đường niệu.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p><strong>Thuốc Pharcotinex</strong> được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Các rối loạn thận và tiết niệu.</li>\n\t<li>Đau do viêm và co thắt đường tiết niệu kết hợp với sỏi niệu.</li>\n\t<li>Để hòa tan và tống xuất sỏi đường niệu.</li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p>Terpin kết hợp trong Pharcotinex có tác động xung huyết và lợi tiểu: Cineol làm giãn mạch gây nên xung huyết thận và làm tăng máu tưới thận, dễ dàng sản sinh nước tiểu, anethole có tác dụng lợi niệu.</p>\n\n<p>Một số liên kết terpin trong Pharcotinex được thài trừ ra khỏi cơ thể trong nước tiểu dưới dạng glucuronid là chất ổn định keo đường niệu làm tăng độ hòa tan muối calcium và làm tan vỡ sỏi đường niệu.</p>\n\n<p>Camphene và anethole, borneol trong Pharcotinex có tác dụng chống co thắt trực tiếp trên toàn bộ hệ thống cơ trơn, camphene có tác dụng giảm đau, giúp làm dễ bài xuất sỏi và làm giảm co thắt gây nên cơn đau quặn thận và bàng quang.</p>\n\n<p>Anethole và fenchone đã được báo cáo kìm khuẩn <em>Aerobacter aerogenes, Bacillus subtilis, E. coli, Proteus vulgaris, Pseudomonas aeruginosa, Staph. albus, Staph. Aureus, Anethole</em> và <em>Fenchone</em> kháng khuẩn <em>in vitro</em> chống lại <em>E. coli, Strep, Pyogenes, Staph. aureus</em> ở bệnh nhân nhiễm khuẩn đường tiết niệu.</p>\n\n<p>Ngoài ra, tác động chống viêm của borneol, pinene và fenchone trên màng nhầy thận làm giảm đau, chống viêm. Phân giải lipid làm tiêu hủy các phần hữu cơ trong sỏi niệu.</p>\n\n<h3>Dược động học</h3>\n\n<p>Chưa có thông tin.</p>",
+  "ingredients_html": [
+    {
+      "id": 45064,
+      "ingredientId": 11456,
+      "shortDescription": "10mg",
+      "name": "Borneol",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 45065,
+      "ingredientId": 9026,
+      "shortDescription": "4mg",
+      "name": "Anethole trithione",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 45066,
+      "ingredientId": 14839,
+      "shortDescription": "3mg",
+      "name": "cineol",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 45067,
+      "ingredientId": 32644,
+      "shortDescription": "17mg",
+      "name": "Pinene",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 45068,
+      "ingredientId": 12511,
+      "shortDescription": "5mg",
+      "name": "Camphene",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 45069,
+      "ingredientId": 26948,
+      "shortDescription": "6mg",
+      "name": "Menthone",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

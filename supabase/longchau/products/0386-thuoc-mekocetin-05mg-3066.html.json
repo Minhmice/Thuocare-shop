@@ -1,0 +1,49 @@
+{
+  "id": "00004804",
+  "slug": "thuoc/mekocetin-05mg-3066.html",
+  "title": "Thuốc Mekocetin 0.5mg Mekophar điều trị thấp khớp, bệnh collagen, bệnh ngoài da, dị ứng (5 vỉ x 20 viên) ",
+  "short_title": "MEKOCETIN 0.5 MKP 5X20",
+  "brand": {
+    "name": "Mekophar",
+    "slug": "thuong-hieu/mekophar",
+    "country": ""
+  },
+  "category": {
+    "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem/thuoc-khang-viem",
+    "name": "Thuốc kháng viêm",
+    "parent_slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "20 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004804_mekocetin_05mg_9825_5bce_large_3583f1d2b9.JPG",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004804_mekocetin_05mg_9825_5bce_large_3583f1d2b9.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004804_mekocetin_05mg_1630733758_bf751f30fb.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/1_f67f90948a.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004804_mekocetin_05mg_8640_5bce_large_e6fb35fad9.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004804_mekocetin_05mg_2242_5bce_large_d65c92ada5.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004804_mekocetin_05mg_6671_5bce_large_ceb5d380c0.JPG"
+  ],
+  "origin_label": "",
+  "country": "",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén",
+  "trust_label": null,
+  "short_description": "<p><strong>Thuốc Mekocetin 0.5mg</strong> của <i>Công ty Mekophar</i>, thành phần chính <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/betamethasone\"><strong>betamethasone</strong></a> 0.5mg là một loại thuốc được dùng để điều trị các bệnh như thấp khớp, bệnh collagen, bệnh ngoài da, dị ứng, bệnh nội tiết, bệnh ở mắt, hô hấp, máu, ung thư và nhiều bệnh khác có đáp ứng với liệu pháp corticosteroid.</p>",
+  "description_html": "",
+  "usage_html": "<h3><b>Chỉ định</b></h3>\n\n<p><strong>Thuốc Mekocetin 0.5mg</strong> được chỉ định dùng trong điều trị các bệnh như <strong><a href=\"https://nhathuoclongchau.com.vn/benh/thap-khop-88.html\">thấp khớp</a></strong>, bệnh collagen, bệnh ngoài da, dị ứng, bệnh nội tiết, bệnh ở mắt, hô hấp, máu, ung thư và nhiều bệnh khác có đáp ứng với liệu pháp corticosteroid.</p>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Betamethasone là một corticosteroid tổng hợp có tác dụng kháng viêm, chống thấp khớp và kháng dị ứng. Do có ít tác dụng mineralocorticoid nên betamethasone rất phù hợp trong những trường hợp bệnh lý bất lợi khi giữ nước.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Betamethasone là một glucocorticoid có tác dụng kéo dài, dễ được hấp thu qua đường tiêu hóa, phân bố nhanh vào các mô trong cơ thể, được chuyển hóa chủ yếu ở gan và bài xuất vào nước tiểu. Thuốc qua nhau thai và có thể bài xuất vào sữa mẹ với lượng nhỏ.</p>",
+  "ingredients_html": [
+    {
+      "id": 22287,
+      "ingredientId": 10838,
+      "shortDescription": "0.5mg",
+      "name": "Betamethasone",
+      "isPrimary": false,
+      "slug": "thanh-phan/betamethasone"
+    }
+  ],
+  "stock_qty": 0
+}

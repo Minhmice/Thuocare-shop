@@ -1,0 +1,47 @@
+{
+  "id": "00501500",
+  "slug": "thuoc/neupogen-30mu05ml-amgen-35658.html",
+  "title": "Thuốc Neupogen 30MU/0.5ml Amgen điều trị sốt do giảm bạch cầu đa nhân trung tính trên bệnh nhân hóa trị",
+  "short_title": "NEUPOGEN 30MU/0.5ML AMGEN ",
+  "brand": {
+    "name": "AMGEN",
+    "slug": "thuong-hieu/amgen",
+    "country": "Mỹ"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tiem-chich-and-dich-truyen/thuoc-tiem-chich",
+    "name": "Thuốc tiêm chích",
+    "parent_slug": "thuoc/thuoc-tiem-chich-and-dich-truyen"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/z6786601444377_9060632a3b715b6912636519a7dbe4b1_b97cab4974.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/z6786601444377_9060632a3b715b6912636519a7dbe4b1_b97cab4974.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/z6786601428478_00bc7a2495f05acb811bfcf38e1d18d9_6fdae7f5c3.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/z6786601434067_1474134905777a571eeeaea172be53c4_70818b5704.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/z6786601447448_170389fa56ee9e5cdea5349bc7000453_0525da3e22.jpg"
+  ],
+  "origin_label": "Mỹ",
+  "country": "Mỹ",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch để tiêm trong bơm tiêm đóng sẵn",
+  "trust_label": null,
+  "short_description": "<p>Dung dịch tiêm Neupogen 30MU/0.5ml là sản phẩm của Amgen chứa hoạt chất Filgrastim dùng dự phòng và điều trị sốt do giảm bạch cầu đa nhân trung tính trên bệnh nhân hóa trị.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Dung dịch tiêm Neupogen 30MU/0.5ml dùng dự phòng và điều trị sốt do giảm bạch cầu đa nhân trung tính trên bệnh nhân hóa trị.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 35316,
+      "ingredientId": 20288,
+      "shortDescription": "30mcg",
+      "name": "Filgrastim",
+      "isPrimary": false,
+      "slug": "thanh-phan/filgrastim"
+    }
+  ],
+  "stock_qty": 0
+}

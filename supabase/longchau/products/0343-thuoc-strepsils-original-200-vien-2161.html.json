@@ -1,0 +1,53 @@
+{
+  "id": "00006921",
+  "slug": "thuoc/strepsils-original-200-vien-2161.html",
+  "title": "Viên ngậm Strepsils Original Reckitt Benckiser điều trị viêm họng (100 gói x 2 viên)",
+  "short_title": "STREPSILS ORIGINAL 100X2 - KẸO",
+  "brand": {
+    "name": "Reckitt Benckiser",
+    "slug": "thuong-hieu/reckitt-benckiser",
+    "country": "Anh"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-ho-hap/vien-ngam-tri-ho-viem-hong",
+    "name": "Viên ngậm trị ho, viêm họng",
+    "parent_slug": "thuoc/thuoc-ho-hap"
+  },
+  "price_amount": 4400,
+  "compare_at_amount": 0,
+  "unit": "Gói",
+  "pack_note": "100 Gói x 2 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006921_3ad1a98686.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006921_3ad1a98686.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006921_strepsils_original_200_vien_1626105081_d36817a1f7.jpg"
+  ],
+  "origin_label": "Anh",
+  "country": "Anh",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên ngậm",
+  "trust_label": null,
+  "short_description": "<p><strong>Strepsils Original</strong> của Reckitt Benckiser Healthcare Manufacturing (Thailand) Ltd là viên ngậm chứa 2,4 - Dichlorobenzyl alcohol (Dybenal) 1,2 mg và Amylmetacresol 0,6 mg. Viên ngậm có tính <strong>kháng khuẩn</strong>, được sử dụng trong <strong>điều trị viêm họng, làm giảm đau họng</strong> dùng cho <strong>trẻ em và người lớn</strong>.</p>",
+  "description_html": "<h3>Giới thiệu viên ngậm Strepsils Original Reckitt Benckiser</h3><ul><li><strong>Thành phần hoạt chất: </strong>2,4 - Dichlorobenzyl alcohol 1.2mg; Amylmetacresol 0.6mg.</li><li><strong>Chỉ định:</strong> Làm giảm đau họng ở trẻ em và người lớn.</li><li><strong>Cách dùng:</strong> Ngậm 1 viên để tan chậm trong miệng cách khoảng 2 đến 3 giờ. Không dùng quá liều đã chỉ định.</li><li><strong>Chống chỉ định: </strong>Chống chỉ định trong trường hợp quá mẫn cảm với bất kỳ thành phần nào của thuốc.</li><li><strong>Lưu ý khi sử dụng: </strong>Cần thận trọng và điều chỉnh liều ở bệnh nhân suy gan hoặc suy thận nhằm hạn chế nguy cơ độc tính và các tác dụng không mong muốn. Trẻ nhỏ có thể bị nghẹt thở do viên ngậm.</li></ul>",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3><p><a href=\"https://nhathuoclongchau.com.vn/thuoc/strepsils-original-24-vien-2158.html\"><strong>Strepsils</strong></a> chứa 2 hoạt chất là 2,4 – dichlorobenzyl alcohol (dybenal) và amylmetacresol có tính kháng khuẩn sử dụng trong điều trị <a href=\"https://nhathuoclongchau.com.vn/benh/viem-hong-468.html\"><strong>viêm họng</strong></a>. Viên ngậm Đây là viên ngậm kháng khuẩn,&nbsp;được chỉ định dùng để làm giảm đau họng, dùng cho trẻ em và người lớn.</p><h3><strong>Dược lực học</strong></h3><p>Các nghiên cứu <i>in vitro</i> cho thấy dichlorobenzyl alcohol kết hợp với amylmetacresol cho thấy khả năng diệt một số loại virus liên quan đến cảm lạnh thông thường, được quan sát thấy giảm lượng virus sau khi dùng thuốc. Trong các thử nghiệm lâm sàng, việc sử dụng viên ngậm Strepsils Original đã được chứng minh là làm giảm đau họng, giảm khó nuốt 5 phút sau khi ngậm. Hiệu ứng này có thể kéo dài thậm chí trong 2 giờ. Hiệu quả giảm đau đã được chứng minh là đạt đến trạng thái ổn định sau 45 phút.</p><h3><strong>Dược động học</strong></h3><p><i>Hấp thu</i></p><p>Dichlorobenzyl alcohol được hấp thu gần như ngay lập tức và đạt nồng độ cao nhất sau 3 - 4 phút. Nồng độ trong nước bọt chiếm khoảng 50% liều dùng sau 120 phút.</p><p>Amylmetacresol cũng được hấp thu nhanh chóng.</p><p><i>Phân bố</i></p><p>Chưa có nghiên cứu đầy đủ.</p><p><i>Chuyển hóa</i></p><p>Dichlorobenzyl alcohol được chuyển hóa ở gan để tạo thành acid hippuric.</p><p><i>Thải trừ</i></p><p>Strepsils được bài tiết qua nước tiểu.</p>",
+  "ingredients_html": [
+    {
+      "id": 45530,
+      "ingredientId": 17600,
+      "shortDescription": "1.2mg",
+      "name": "Dichlorobenzyl alcohol",
+      "isPrimary": false,
+      "slug": "thanh-phan/dichlorobenzyl-alcohol"
+    },
+    {
+      "id": 45531,
+      "ingredientId": 8959,
+      "shortDescription": "0.6mg",
+      "name": "Amylmetacresol",
+      "isPrimary": false,
+      "slug": "thanh-phan/amylmetacresol"
+    }
+  ],
+  "stock_qty": 0
+}

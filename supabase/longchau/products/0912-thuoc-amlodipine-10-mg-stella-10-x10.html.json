@@ -1,0 +1,44 @@
+{
+  "id": "00046910",
+  "slug": "thuoc/amlodipine-10-mg-stella-10-x10.html",
+  "title": "Thuốc Amlodipine Stella 10mg điều trị tăng huyết áp, đau thắt ngực ổn định mạn tính (10 vỉ x 10 viên)",
+  "short_title": "AMLODIPINE 10MG STELLA 10X10",
+  "brand": {
+    "name": "Stella Pharm",
+    "slug": "thuong-hieu/stella-pharm",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap",
+    "name": "Thuốc tim mạch huyết áp",
+    "parent_slug": "thuoc/thuoc-tim-mach-and-mau"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/amlo_461bbbeba2.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/amlo_461bbbeba2.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Amlodipine Stella 10mg là sản phẩm của Công ty TNHH Liên doanh Stella Pharm chứa hoạt chất Amlodipine dùng trong điều trị tăng huyết áp, đau thắt ngực ổn định mạn tính, đau thắt ngực thể co thắt (đau thắt ngực kiểu Prinzmetal).</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Amlodipine Stella 10mg chỉ định điều trị trong các trường hợp:</p><ul><li>Tăng huyết áp.</li><li>Đau thắt ngực ổn định mạn tính.</li><li>Đau thắt ngực thể co thắt (đau thắt ngực kiểu Prinzmetal).</li></ul><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 57089,
+      "ingredientId": 8862,
+      "shortDescription": "10mg",
+      "name": "Amlodipine",
+      "isPrimary": false,
+      "slug": "thanh-phan/amlodipine"
+    }
+  ],
+  "stock_qty": 0
+}

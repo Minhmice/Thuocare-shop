@@ -1,0 +1,55 @@
+{
+  "id": "00005050",
+  "slug": "thuoc/mutecium-m-2959.html",
+  "title": "Thuốc bột uống Mutecium-M Mekophar điều trị ăn không tiêu, đầy hơi, chướng bụng (30 gói x 1g)",
+  "short_title": "MUTECIUM-TN MEKOPHAR 30 GÓI",
+  "brand": {
+    "name": "Mekophar",
+    "slug": "thuong-hieu/mekophar",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tieu-hoa",
+    "name": "Thuốc tiêu hoá",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Gói",
+  "pack_note": "30 Gói x 1g",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005050_mutecium_m_3661_6093_large_8089eeba7c.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005050_mutecium_m_3661_6093_large_8089eeba7c.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005050_mutecium_m_5527_6093_large_b2002d43d0.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005050_mutecium_m_9193_6093_large_b8afaf7b03.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005050_mutecium_m_9150_6093_large_c69d5dee49.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dạng bột",
+  "trust_label": null,
+  "short_description": "<p><strong>Thuốc Mutecium - M</strong> được sản xuất bởi <em>công ty cổ phần Hoá - Dược phẩm Mekophar</em>, với thành phần chính <strong><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/domperidone\">domperidone</a></strong>, là thuốc dùng để điều trị chứng buồn nôn, nôn, cảm giác chướng và nặng vùng thượng vị, khó tiêu sau bữa ăn do thức ăn chậm xuống ruột.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p><strong>Thuốc Mutecium - M</strong> được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Điều trị chứng buồn nôn, nôn, cảm giác chướng và nặng vùng thượng vị, <strong><a href=\"https://nhathuoclongchau.com.vn/benh/kho-tieu-578.html\">khó tiêu</a></strong> sau bữa ăn do thức ăn chậm xuống ruột.</li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p><strong>Domperidone</strong> là một chất đối kháng dopamine có tác dụng kích thích nhu động đường tiêu hóa và chống nôn. Domperidone có tính đồng vận phó giao cảm và đối kháng thụ thể dopamine với tác dụng trực tiếp lên vùng hoạt hóa thụ thể. Ngoài ra domperidone còn có tác dụng đối kháng thụ thể serotonine (5 - HT3) và được sử dụng làm thuốc chống nôn trong điều trị ngắn hạn buồn nôn, nôn do các nguồn gốc khác nhau.</p>\n\n<p><strong><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/simethicone\">Simethicone</a></strong> có công dụng giảm đầy hơn và khó chịu ở bụng do ứ hơi bất thường trong ống tiêu hóa như trong chứng khó tiêu và bệnh trào ngược dạ dày - thực quản.</p>\n\n<h3>Dược động học</h3>\n\n<p>Chưa có thông tin.</p>",
+  "ingredients_html": [
+    {
+      "id": 22432,
+      "ingredientId": 18452,
+      "shortDescription": "2.5mg",
+      "name": "Domperidone",
+      "isPrimary": false,
+      "slug": "thanh-phan/domperidone"
+    },
+    {
+      "id": 22433,
+      "ingredientId": 36074,
+      "shortDescription": "50mg",
+      "name": "Simethicone",
+      "isPrimary": false,
+      "slug": "thanh-phan/simethicone"
+    }
+  ],
+  "stock_qty": 0
+}

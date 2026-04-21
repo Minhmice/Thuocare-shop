@@ -1,0 +1,44 @@
+{
+  "id": "00501860",
+  "slug": "thuoc/photomit-500-mg-10-ml-20-ong-x-10-ml.html",
+  "title": "Thuốc Photomit 500mg/10ml điều trị và ngăn ngừa tình trạng thiếu calci (20 ống x 10ml)",
+  "short_title": "PHOTOMIT 500MG/10ML 20 ỐNG X 10ML",
+  "brand": {
+    "name": "CHO-A",
+    "slug": "thuong-hieu/cho-a",
+    "country": "Hàn Quốc"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+    "name": "Thuốc bổ",
+    "parent_slug": "thuoc/thuoc-bo-and-vitamin"
+  },
+  "price_amount": 13500,
+  "compare_at_amount": 0,
+  "unit": "Ống",
+  "pack_note": "10 Ống x 10ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00501860_345744dc32.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00501860_345744dc32.jpg"
+  ],
+  "origin_label": "Hàn Quốc",
+  "country": "Hàn Quốc",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch uống",
+  "trust_label": null,
+  "short_description": "<p>Photomit 500mg/10ml là sản phẩm của Cho-A Pharm Co., Ltd., với thành phần chính là Calci lactat. Thuốc được sử dụng để điều trị và ngăn ngừa tình trạng thiếu calci gây ra nhiều bệnh lí như tetany, loãng xương, còi xương; dùng Photomit 500mg/10ml cho đối tượng có nhu cầu calci cao như phụ nữ có thai, phụ nữ cho con bú và trẻ em đang trong giai đoạn phát triển.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Ngăn ngừa và điều trị tình trạng thiếu Calci như loãng xương, tetany, còi xương.</p><p>Cung cấp Calci cho phụ nữ có thai, phụ nữ đang cho con bú và trẻ em.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 36390,
+      "ingredientId": 12277,
+      "shortDescription": "500mg",
+      "name": "Calci lactat",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

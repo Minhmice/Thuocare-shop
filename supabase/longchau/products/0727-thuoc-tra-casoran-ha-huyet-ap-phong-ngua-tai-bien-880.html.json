@@ -1,0 +1,80 @@
+{
+  "id": "00007458",
+  "slug": "thuoc/tra-casoran-ha-huyet-ap-phong-ngua-tai-bien-880.html",
+  "title": "Thuốc Casoran Traphaco hỗ trợ hạ huyết áp(10 gói x 3g)",
+  "short_title": "TRÀ CASORAN 10 GÓI",
+  "brand": {
+    "name": "Traphaco",
+    "slug": "thuong-hieu/traphaco",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+    "name": "Thuốc bổ",
+    "parent_slug": "thuoc/thuoc-bo-and-vitamin"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 10 Gói x 3g",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007458_tra_casoran_ha_huyet_ap_phong_ngua_tai_bien_5248_5b0f_large_a6a919b213.JPG",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007458_tra_casoran_ha_huyet_ap_phong_ngua_tai_bien_5248_5b0f_large_a6a919b213.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007458_tra_casoran_ha_huyet_ap_phong_ngua_tai_bien_7913_5b0f_large_94ddc6b9df.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007458_tra_casoran_ha_huyet_ap_phong_ngua_tai_bien_4923_5b0f_large_b5b95007ee.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007458_tra_casoran_ha_huyet_ap_phong_ngua_tai_bien_5500_5b0f_large_b43e77b7e8.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007458_tra_casoran_ha_huyet_ap_phong_ngua_tai_bien_1335_5b0f_large_da1b2fa118.JPG"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Cốm",
+  "trust_label": null,
+  "short_description": "<p>Trà Casoran - Hạ Huyết Áp, Phòng Ngừa Tai Biến được sản xuất bởi Công ty Cổ phần Traphaco, với thành phần từ dược liệu như hoa hòe, dừa cạn, cúc hoa… có tác dụng hạ huyết áp, an thần, lợi tiểu, thanh nhiệt. Tăng sức đàn hồi, bền vững thành mạch, giảm xung huyết, chống xơ vữa động mạch, chống chóng mặt, nhức đầu, mất ngủ.</p>\n\n<p>Trà Casoran được bào chế dưới dạng cốm. Hộp 10 gói x 3 g.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p>Trà Casoran được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>\n\t<p><a href=\"https://nhathuoclongchau.com.vn/benh/cao-huyet-ap-225.html\">Tăng huyết áp</a> thể vừa và nhẹ.</p>\n\t</li>\n\t<li>\n\t<p>Tăng huyết áp dẫn đến <a href=\"https://nhathuoclongchau.com.vn/benh/nhuc-dau-24.html\">đau đầu</a>, hoa mắt, chóng mặt, mất ngủ, tê mỏi đầu chi.</p>\n\t</li>\n\t<li>\n\t<p>Phòng ngừa và phối hợp điều trị tai biến mạch máu não.</p>\n\t</li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p><em>Hoa hoè</em></p>\n\n<p>Có tác dụng thanh nhiệt lương huyết, chỉ huyết. Thành phần Rutin trong hoa hòe có tác dụng bảo vệ thành mạch, tăng sức bền của thành mạch. Hoa hòe thường được dùng cho bệnh nhân cao huyết áp mà mao mạch dễ bị vỡ, đứt, để đề phòng đứt mạch máu não, xuất huyết thận, xuất huyết phổi không rõ nguyên nhân.</p>\n\n<p><em>Dừa cạn</em></p>\n\n<p>Có chứa các alcaloid có tác dụng hạ huyết áp, lợi tiểu; giảm bạch cầu trong bệnh Hodgkin.</p>\n\n<p><em>Cúc hoa</em></p>\n\n<p>Có tác dụng phát tán phong thấp, thanh can, giáng hoả, giải độc, sáng mắt, hạ huyết áp. </p>\n\n<p><em>Tâm sen</em></p>\n\n<p>Có tác dụng thanh tâm hoả, dưỡng tâm, an thần.</p>\n\n<h3>Dược động học</h3>\n\n<p>Chưa có báo cáo.</p>",
+  "ingredients_html": [
+    {
+      "id": 25112,
+      "ingredientId": 15325,
+      "shortDescription": "",
+      "name": "Cỏ ngọt",
+      "isPrimary": false,
+      "slug": "thanh-phan/co-ngot"
+    },
+    {
+      "id": 25113,
+      "ingredientId": 37412,
+      "shortDescription": "",
+      "name": "Tâm sen",
+      "isPrimary": false,
+      "slug": "thanh-phan/tam-sen"
+    },
+    {
+      "id": 25114,
+      "ingredientId": 16076,
+      "shortDescription": "",
+      "name": "Cúc hoa",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 25115,
+      "ingredientId": 18711,
+      "shortDescription": "",
+      "name": "Dừa cạn",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 25116,
+      "ingredientId": 22375,
+      "shortDescription": "",
+      "name": "Hoa Hòe",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

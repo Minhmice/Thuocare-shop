@@ -1,0 +1,55 @@
+{
+  "id": "00049162",
+  "slug": "thuoc/mercilon-organon-1-x21.html",
+  "title": "Thuốc Mercilon Organon hỗ trợ tránh thai (1 vỉ x 21 viên)",
+  "short_title": "MERCILON ORGANON 1X21",
+  "brand": {
+    "name": "Organon",
+    "slug": "thuong-hieu/organon",
+    "country": "Hoa Kỳ"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-tranh-thai",
+    "name": "Thuốc tránh thai",
+    "parent_slug": "thuoc/thuoc-tiet-nieu-sinh-duc"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 1 Vỉ x 21 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/494822143_688262720637731_4813701115373160987_n_caf3c639d0.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/494822143_688262720637731_4813701115373160987_n_caf3c639d0.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/496514799_1279430607113308_1238545830546128013_n_145bf61c0a.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/494570672_1149297093904899_1378196667673141828_n_1ba6f91cda.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/496515044_1364227418143574_5927879064031663001_n_b945c32faa.jpg"
+  ],
+  "origin_label": "Hoa Kỳ",
+  "country": "Hoa Kỳ",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Mercilon là sản phẩm hỗ trợ tránh thai.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Mercilon là sản phẩm hỗ trợ tránh thai.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 71004,
+      "ingredientId": 17224,
+      "shortDescription": "0.15mg",
+      "name": "Desogestrel",
+      "isPrimary": false,
+      "slug": "thanh-phan/desogestrel"
+    },
+    {
+      "id": 71005,
+      "ingredientId": 19608,
+      "shortDescription": "0.02mg",
+      "name": "Ethinylestradiol",
+      "isPrimary": false,
+      "slug": "thanh-phan/ethinylestradiol"
+    }
+  ],
+  "stock_qty": 0
+}

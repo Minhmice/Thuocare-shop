@@ -1,0 +1,80 @@
+{
+  "id": "00007742",
+  "slug": "thuoc/rohto-antibacterial-1858.html",
+  "title": "Thuốc nhỏ mắt Rohto Antibacterial điều trị lẹo mắt, viêm kết mạc, viêm mi mắt (13ml)",
+  "short_title": "V.ROHTO ANTIBACTERIAL 13ML",
+  "brand": {
+    "name": "V.ROHTO",
+    "slug": "thuong-hieu/v-rohto",
+    "country": "Nhật Bản"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-mat-tai-mui-hong/thuoc-nho-mat",
+    "name": "Thuốc nhỏ mắt",
+    "parent_slug": "thuoc/thuoc-mat-tai-mui-hong"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Chai",
+  "pack_note": "Chai x 13ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_4599_24baad80e4.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_4599_24baad80e4.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_4604_f28d21d0d4.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_4605_b32e6c24ac.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_4606_dcee06b537.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_4607_bdad8bb0d3.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_4608_f79e9be2a4.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_4609_7d2bd82b9f.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_4610_873253c034.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_4600_b376c268f4.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_4602_1456fb052c.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_4603_f5fbb42600.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/rohto_antibacterial_1_6cd1344ebf.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/rohto_antibacterial_2_c0d0b31ea9.jpg"
+  ],
+  "origin_label": "Nhật Bản",
+  "country": "Nhật Bản",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch",
+  "trust_label": null,
+  "short_description": "<p>Thuốc nhỏ mắt Rohto Antibacterial của Công ty TNHH Rohto - Mentholatum (Việt Nam) có thành phần hoạt chất Sodium Sulfamethoxazole, ε-Aminocaproic Acid, Chlorpheniramine, Dipotassium Glycyrrhizinate với công dụng điều trị lẹo mắt, viêm kết mạc, viêm mi mắt và ngứa mắt.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p>Thuốc Rohto Antibacterial được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Ðiều trị <a href=\"https://nhathuoclongchau.com.vn/benh/chap-va-leo-543.html\">lẹo mắt</a>, viêm kết mạc, viêm mi mắt và ngứa mắt.</li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p>Chưa có báo cáo.</p>\n\n<h3>Dược động học</h3>\n\n<p>Chưa có báo cáo.</p>",
+  "ingredients_html": [
+    {
+      "id": 23681,
+      "ingredientId": 8799,
+      "shortDescription": "260mg",
+      "name": "Aminocaproic Acid",
+      "isPrimary": false,
+      "slug": "thanh-phan/aminocaproic-acid"
+    },
+    {
+      "id": 23682,
+      "ingredientId": 36400,
+      "shortDescription": "520mg",
+      "name": "Sodium Sulfamethoxazole",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 23683,
+      "ingredientId": 18130,
+      "shortDescription": "13mg",
+      "name": "Dipotassium Glycyrrhizinate",
+      "isPrimary": false,
+      "slug": "thanh-phan/dipotassium-glycyrrhizinate"
+    },
+    {
+      "id": 23684,
+      "ingredientId": 14505,
+      "shortDescription": "2.6mg",
+      "name": "Chlorpheniramine Maleate",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

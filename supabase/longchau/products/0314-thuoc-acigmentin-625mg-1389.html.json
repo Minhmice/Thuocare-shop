@@ -1,0 +1,52 @@
+{
+  "id": "00010113",
+  "slug": "thuoc/acigmentin-625mg-1389.html",
+  "title": "Thuốc Acigmentin 625 Minh Hải điều trị nhiễm khuẩn nặng đường hô hấp trên (2 vỉ x 7 viên)",
+  "short_title": "ACIGMENTIN 625 MH 2X7",
+  "brand": {
+    "name": "Minh Hải",
+    "slug": "thuong-hieu/minh-hai",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-khang-sinh-khang-nam/thuoc-khang-sinh",
+    "name": "Thuốc kháng sinh",
+    "parent_slug": "thuoc/thuoc-khang-sinh-khang-nam"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "7 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00010113_acigmentin_625mg_4451_609c_large_4538c24273.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00010113_acigmentin_625mg_4451_609c_large_4538c24273.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Acigmentin 625 của Công ty Cổ phần Dược Minh Hải. Thuốc có thành phần chính là amoxicilin, acid clavulanic. Đây là thuốc được sử dụng để điều trị nhiễm khuẩn nặng đường hô hấp trên, đường hô hấp dưới, nhiễm khuẩn nặng đường tiết niệu - sinh dục, nhiễm khuẩn da và mô mềm, nhiễm khuẩn xương và khớp, nhiễm khuẩn nha khoa và các nhiễm khuẩn khác như nhiễm khuẩn do nạo thai, nhiễm khuẩn máu sản khoa, nhiễm khuẩn trong ổ bụng.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3><p>Thuốc Acigmentin 625mg được chỉ định dùng trong các trường hợp sau:</p><ul><li>Nhiễm khuẩn nặng đường hô hấp trên: Viêm amidan, viêm xoang, viêm tai giữa.</li><li>Nhiễm khuẩn đường hô hấp dưới: Viêm phế quản cấp và mạn, viêm phổi – phế quản.</li><li>Nhiễm khuẩn nặng đường tiết niệu - sinh dục: Viêm bàng quang, viêm niệu đạo, viêm bể thận (nhiễm khuẩn đường sinh dục nữ).</li><li>Nhiễm khuẩn da và mô mềm: Mụn nhọt, áp xe, nhiễm khuẩn vết thương.</li><li>Nhiễm khuẩn xương và khớp: Viêm tuỷ xương.</li><li>Nhiễm khuẩn nha khoa: Áp xe ổ răng.</li><li>Nhiễm khuẩn khác: Nhiễm khuẩn do nạo thai, nhiễm khuẩn máu sản khoa, nhiễm khuẩn trong ổ bụng.</li></ul><h3><strong>Dược lực học</strong></h3><p>Amoxicillin là một kháng sinh bán tổng hợp thuộc họ beta - lactam có phổ diệt khuẩn rộng đối với nhiều vi khuẩn gram dương và gram âm do ức chế tổng hợp thành tế bào vi khuẩn. Nhưng vì amoxicilin dễ bị phá hủy bởi beta - lactamase, do đó amoxicillin không có tác dụng đối với những chủng vi khuẩn sản sinh ra các enzym này.</p><p>Acid clavulanic có cấu trúc beta - lactam gần giống với penicilin có khả năng ức chế beta - lactamase do phần lớn các vi khuẩn gram âm và <i>Staphylococcus </i>sinh ra. Đặc biệt, acid clavulanic có tác dụng ức chế mạnh các beta - lactamase truyền qua plasmid gây kháng các penicilin và các cephalosporin.</p><p>Sự kết hợp acid clavulanic và amoxicillin giúp cho amoxicillin không bị beta - lactamase phá huỷ, đồng thời mở rộng thêm phổ kháng khuẩn của amoxicillin một cách hiệu quả đối với nhiều vi khuẩn thông thường, đã kháng lại amoxicillin, kháng các penicilin khác và các cephalosporin.</p><h3><strong>Dược động học</strong></h3><p>Amoxicillin và acid clavulanic đều hấp thu dễ dàng qua đường uống. Đạt nồng độ tối đa trong huyết thanh sau 1 - 2 giờ. Sự hấp thu của thuốc không bị ảnh hưởng bởi thức ăn và tốt nhất là uống ngay trước bữa ăn. Sinh khả dụng đường uống của amoxicillin là 90% và của acid clavulanic là 75%. Thời gian bán thải của amoxicillin trong huyết thanh là 1 đến 2 giờ và của acid clavulanic là khoảng 1 giờ. 55 - 70% amoxicillin và 30 - 40% acid clavulanic được thải qua nước tiểu dưới dạng hoạt động. Probenecid kéo dài thời gian đào thải của amoxicillin nhưng không ảnh hưởng đến sự đào thải của acid clavulanic.</p>",
+  "ingredients_html": [
+    {
+      "id": 24249,
+      "ingredientId": 8913,
+      "shortDescription": "500mg",
+      "name": "Amoxicillin",
+      "isPrimary": false,
+      "slug": "thanh-phan/amoxicillin"
+    },
+    {
+      "id": 24250,
+      "ingredientId": 15060,
+      "shortDescription": "125mg",
+      "name": "Clavulanic acid",
+      "isPrimary": false,
+      "slug": "thanh-phan/clavulanic-acid"
+    }
+  ],
+  "stock_qty": 0
+}

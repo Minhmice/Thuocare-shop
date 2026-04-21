@@ -1,0 +1,44 @@
+{
+  "id": "00501149",
+  "slug": "thuoc/kem-boi-da-pusadine-tuyp-5g-medipharco-35301.html",
+  "title": "Kem bôi da Pusadine 5g Medipharco điều trị nhiễm trùng da, hăm kẽ, chốc lở",
+  "short_title": "PUSADINE MEDIPHARCO 5G",
+  "brand": {
+    "name": "Medipharco",
+    "slug": "thuong-hieu/medipharco",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-da-lieu/thuoc-boi-ngoai-da",
+    "name": "Thuốc bôi ngoài da",
+    "parent_slug": "thuoc/thuoc-da-lieu"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Tuýp",
+  "pack_note": "Tuýp x 5g",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/pusadine_3d9f1ac957.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/pusadine_3d9f1ac957.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Kem",
+  "trust_label": null,
+  "short_description": "<p>Kem bôi da Pusadine là sản phẩm của Công ty cổ phần LD dược phẩm Medipharco với thành phần chính là Acid fusidic. Kem bôi da Pusadine có tác dụng điều trị nhiễm trùng da như hăm kẽ, chốc lở do các vi khuẩn nhạy cảm với Acid Fusidic.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Ðiều trị các nhiễm trùng da do nhiễm Staphylococcus hay Streptococcus &amp; các bệnh nhiễm khuẩn khác nhạy cảm với fucidic acid như: Chốc, viêm nang lông, nhọt, nhọt độc, viêm tuyến mồ hôi, viêm quanh móng.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 67250,
+      "ingredientId": 7431,
+      "shortDescription": "100mg",
+      "name": "Acid fusidic",
+      "isPrimary": true,
+      "slug": "thanh-phan/acid-fusidic"
+    }
+  ],
+  "stock_qty": 0
+}

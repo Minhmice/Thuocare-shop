@@ -1,0 +1,60 @@
+{
+  "id": "00040071",
+  "slug": "thuoc/darleucin-pharbaco-30-goi-x-4-67-g.html",
+  "title": "Thuốc Darleucin Pharbaco cải thiện tình trạng albumin huyết giảm ở bệnh nhân xơ gan (30 gói x 4.67g)",
+  "short_title": "DARLEUCIN PHARBACO 30 GÓI X 4.67G",
+  "brand": {
+    "name": "Pharbaco",
+    "slug": "thuong-hieu/pharbaco",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-gan-mat",
+    "name": "Thuốc gan mật",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 30 Gói x 4.67g",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00040071_d05db6beeb.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00040071_d05db6beeb.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Cốm",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Darleucin là sản phẩm của Pharbaco, có thành phần chính là L-Isoleucine, L-Leucin, L-Valine. Đây là thuốc được sử dụng để cải thiện tình trạng albumin huyết giảm ở bệnh nhân xơ gan mất bù có hàm lượng albumin máu nhỏ hơn hoặc bằng 3,5g/dL, mặc dù được đáp ứng chế độ ăn uống đầy đủ.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc Darleucin được chỉ định dùng trong các trường hợp sau:</p><ul><li dir=\"ltr\">Cải thiện tình trạng albumin huyết giảm ở bệnh nhân xơ gan mất bù có hàm lượng albumin máu nhỏ hơn hoặc bằng 3,5g/dL, mặc dù được đáp ứng chế độ ăn uống đầy đủ.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 59545,
+      "ingredientId": 25671,
+      "shortDescription": "952mg",
+      "name": "L-Isoleucine",
+      "isPrimary": false,
+      "slug": "thanh-phan/l-isoleucine"
+    },
+    {
+      "id": 59546,
+      "ingredientId": 25711,
+      "shortDescription": "1904mg",
+      "name": "L-Leucin",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 59547,
+      "ingredientId": 26088,
+      "shortDescription": "1144mg",
+      "name": "L-Valine",
+      "isPrimary": false,
+      "slug": "thanh-phan/l-valine"
+    }
+  ],
+  "stock_qty": 0
+}

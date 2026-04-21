@@ -1,0 +1,44 @@
+{
+  "id": "00043168",
+  "slug": "thuoc/betad-tuyp-15-g.html",
+  "title": "Kem bôi ngoài da Betad S Kant chỉ định cho viêm da khu trú, liken phẳng, vẩy nến (15g)",
+  "short_title": "BETAD TUÝP 15G",
+  "brand": {
+    "name": "S Kant",
+    "slug": "thuong-hieu/s-kant",
+    "country": ""
+  },
+  "category": {
+    "slug": "thuoc/thuoc-da-lieu/thuoc-boi-ngoai-da",
+    "name": "Thuốc bôi ngoài da",
+    "parent_slug": "thuoc/thuoc-da-lieu"
+  },
+  "price_amount": 29000,
+  "compare_at_amount": 0,
+  "unit": "Tuýp",
+  "pack_note": "Tuýp x 15g",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00043168_6a088bfe73.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00043168_6a088bfe73.jpg"
+  ],
+  "origin_label": "",
+  "country": "",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Kem bôi da",
+  "trust_label": null,
+  "short_description": "<p>Kem bôi ngoài da Betad là sản phẩm của S Kant Healthcare Limited, có thành phần chính là Betamethason. Đây là thuốc được sử dụng để điều trị triệu chứng trong các trường hợp viêm da khu trú, Liken phẳng, vẩy nến, lupus ban đỏ dạng đĩa, viêm da tiếp xúc, viêm da tróc vảy, hội chứng Stevens johnson.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Kem bôi ngoài da Betad được chỉ định dùng trong các trường hợp sau:</p><ul><li dir=\"ltr\">Viêm da khu trú;</li><li dir=\"ltr\">Liken phẳng;</li><li dir=\"ltr\">Vẩy nến;</li><li dir=\"ltr\">Lupus ban đỏ dạng đĩa;</li><li dir=\"ltr\">Viêm da tiếp xúc;</li><li dir=\"ltr\">Viêm da tróc vảy;</li><li dir=\"ltr\">Hội chứng Stevens johnson.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 62094,
+      "ingredientId": 41896,
+      "shortDescription": "0.05% w/w",
+      "name": "Betamethason",
+      "isPrimary": true,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

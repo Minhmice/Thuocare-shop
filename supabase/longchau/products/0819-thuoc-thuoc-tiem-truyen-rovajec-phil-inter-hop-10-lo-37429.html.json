@@ -1,0 +1,44 @@
+{
+  "id": "00503130",
+  "slug": "thuoc/thuoc-tiem-truyen-rovajec-phil-inter-hop-10-lo-37429.html",
+  "title": "Thuốc pha tiêm Rovajec Phil Inter điều trị nhiễm trùng hô hấp, nhiễm trùng máu, thận - tiết niệu (10 lọ)",
+  "short_title": "THUỐC TIÊM TRUYỀN ROVAJEC PHIL INTER HỘP 10 LỌ ",
+  "brand": {
+    "name": "Phil Inter",
+    "slug": "thuong-hieu/phil-inter",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tiem-chich-and-dich-truyen/thuoc-tiem-chich",
+    "name": "Thuốc tiêm chích",
+    "parent_slug": "thuoc/thuoc-tiem-chich-and-dich-truyen"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 10 Lọ",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/8_849d47ea60.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/8_849d47ea60.png"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Bột pha tiêm",
+  "trust_label": null,
+  "short_description": "<p>Thuốc pha tiêm Rovajec dùng trong điều trị các nhiễm khuẩn nặng do các vi khuẩn nhạy cảm với Ceftriaxone. Nhiễm trùng tai - mũi - họng, hô hấp, nhiễm trùng máu, thận - tiết niệu sinh dục, viêm màng não mủ. Dự phòng nhiễm khuẩn trong các phẫu thuật, nội soi can thiệp (như phẫu thuật âm đạo hoặc ổ bụng).</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc pha tiêm Rovajec dùng trong điều trị các nhiễm khuẩn nặng do các vi khuẩn nhạy cảm với Ceftriaxone. Nhiễm trùng tai - mũi - họng, hô hấp, nhiễm trùng máu, thận - tiết niệu sinh dục, viêm màng não mủ. Dự phòng nhiễm khuẩn trong các phẫu thuật, nội soi can thiệp (như phẫu thuật âm đạo hoặc ổ bụng).</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 55347,
+      "ingredientId": 13655,
+      "shortDescription": "1g",
+      "name": "Ceftriaxona",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

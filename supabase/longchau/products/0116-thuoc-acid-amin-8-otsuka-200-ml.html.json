@@ -1,0 +1,164 @@
+{
+  "id": "00039159",
+  "slug": "thuoc/acid-amin-8-otsuka-200-ml.html",
+  "title": "Dung dịch tiêm truyền tĩnh mạch Acid Amin 8% Otsuka điều trị bệnh lý não do gan ở bệnh nhân suy gan mãn tính (200ml)",
+  "short_title": "ACID AMIN 8% OTSUKA 200ML",
+  "brand": {
+    "name": "Otsuka",
+    "slug": "thuong-hieu/otsuka",
+    "country": "Hàn Quốc"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tiem-chich-and-dich-truyen/dich-truyen",
+    "name": "Dịch truyền",
+    "parent_slug": "thuoc/thuoc-tiem-chich-and-dich-truyen"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Chai",
+  "pack_note": "Chai x 200ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/935_00039159_0c4b01ae90.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/935_00039159_0c4b01ae90.jpg"
+  ],
+  "origin_label": "Hàn Quốc",
+  "country": "Hàn Quốc",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch",
+  "trust_label": null,
+  "short_description": "<p>Aminoleban là sản phẩm của Công ty CP Otsuka OPV, thành phần chính là L-Arginin HCl, L-Histidin.HCl.H2O, L-Methionin, L-Phenylalanin. Thuốc là dung dịch tiêm truyền tĩnh mạch có tác dụng điều trị bệnh lý não do gan ở bệnh nhân suy gan mãn tính.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Điều trị bệnh lý não do gan ở bệnh nhân suy gan mãn tính.&nbsp;</p><h3>Dược lực học</h3><p>Khi truyền tĩnh mạch Aminoleban cho các bệnh nhân não gan do bệnh gan mãn tính, làm cải thiện nhanh phân độ hôn mê (Chỉ số đánh giá sự rối loạn của ý thức) và giảm nhanh nồng độ amoniac trong máu.</p><p>Aminoleban làm cải thiện chức năng tâm thần kinh, được đánh giá bằng hoạt động viết, vẽ, run rẩy, thử nghiệm nối số, định hướng và tính toán cũng như kết quả điện não đồ.</p><p>Hiệu quả của Aminoleban trên bệnh lý não gan trong các nghiên cứu lâm sàng được tổng kết trong bảng dưới đây:</p><figure class=\"table\"><table class=\"ck-table-resized\"><colgroup><col style=\"width:50%;\"><col style=\"width:50%;\"></colgroup><thead><tr><th>Hoàn cảnh lâm sàng</th><th>Tỉ lệ cải thiện*</th></tr></thead><tbody><tr><td>Bệnh não do xơ gan</td><td>73,3% (198/270)</td></tr><tr><td>Bệnh não do ung thư tế bào gan HCC</td><td>62,2% (56/90)</td></tr><tr><td>Bệnh não do nguyên nhân khác</td><td>62,5% (5/8)</td></tr><tr><td>Tổng cộng</td><td>70,4% (259/368)</td></tr></tbody></table></figure><p>*Cải thiện có ý nghĩa hoặc giải quyết hoàn toàn sự rối loạn ý thức hoặc cải thiện phân độ hôn mê.</p><h3>Dược động học</h3><p>Các acid amin đánh dấu bằng Carbon trên công thức của Aminoleban được phân bố dễ dàng trong cơ thể sau khi truyền tĩnh mạch cho chuột. Sau 6 giờ, 50 - 70% acid amin được được phân bố trong các phân đoạn protein của huyết tương, tỉ lệ acid amin phân nhánh so với acid amin toàn phần đạt cao nhất trong não. Trong vòng 72 giờ sau khi truyền, sự thải trừ của thuốc là 5,9% trong nước tiểu, 2,6% trong phân và 41,7% trong khí thở ra.</p>",
+  "ingredients_html": [
+    {
+      "id": 55753,
+      "ingredientId": 25071,
+      "shortDescription": "1.46g",
+      "name": "L-Arginine HCL",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 55754,
+      "ingredientId": 25495,
+      "shortDescription": "0.64g",
+      "name": "L-Histidine",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 55755,
+      "ingredientId": 25730,
+      "shortDescription": "0.2g",
+      "name": "L-Methionine",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 55756,
+      "ingredientId": 25926,
+      "shortDescription": "0.2g",
+      "name": "L-Phenylalanine",
+      "isPrimary": false,
+      "slug": "thanh-phan/l-phenylalanine"
+    },
+    {
+      "id": 55757,
+      "ingredientId": 25975,
+      "shortDescription": "0.9g",
+      "name": "L-Threonine",
+      "isPrimary": false,
+      "slug": "thanh-phan/l-threonine"
+    },
+    {
+      "id": 55758,
+      "ingredientId": 26088,
+      "shortDescription": "1.68g",
+      "name": "L-Valine",
+      "isPrimary": false,
+      "slug": "thanh-phan/l-valine"
+    },
+    {
+      "id": 55759,
+      "ingredientId": 21483,
+      "shortDescription": "1.8g",
+      "name": "Glycine",
+      "isPrimary": false,
+      "slug": "thanh-phan/glycine"
+    },
+    {
+      "id": 55760,
+      "ingredientId": 25721,
+      "shortDescription": "1.52g",
+      "name": "L-Lysine",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 55761,
+      "ingredientId": 25980,
+      "shortDescription": "0.14g",
+      "name": "L-Tryptophan",
+      "isPrimary": false,
+      "slug": "thanh-phan/l-tryptophan"
+    },
+    {
+      "id": 55762,
+      "ingredientId": 25712,
+      "shortDescription": "2.2g",
+      "name": "L-Leucine",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 55763,
+      "ingredientId": 25671,
+      "shortDescription": "1.8g",
+      "name": "L-Isoleucine",
+      "isPrimary": false,
+      "slug": "thanh-phan/l-isoleucine"
+    },
+    {
+      "id": 55764,
+      "ingredientId": 25933,
+      "shortDescription": "1.6g",
+      "name": "L-Proline",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 55765,
+      "ingredientId": 25951,
+      "shortDescription": "1g",
+      "name": "L-Serine",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 55766,
+      "ingredientId": 24964,
+      "shortDescription": "1.5g",
+      "name": "L-Alanine",
+      "isPrimary": false,
+      "slug": "thanh-phan/l-alanine"
+    },
+    {
+      "id": 55767,
+      "ingredientId": 25225,
+      "shortDescription": "0.08g",
+      "name": "L-Cysteine",
+      "isPrimary": false,
+      "slug": "thanh-phan/l-cysteine"
+    },
+    {
+      "id": 55768,
+      "ingredientId": 29241,
+      "shortDescription": "0.06g",
+      "name": "Natri bisulfite",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

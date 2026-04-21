@@ -1,0 +1,44 @@
+{
+  "id": "00501941",
+  "slug": "thuoc/thuoc-ferion-pharmaceuticals-hop-10-chai-36093.html",
+  "title": "Dung dịch uống Ferion Gracure điều trị tình trạng thiếu sắt và thiếu máu do thiếu sắt (10 chai x 15ml)",
+  "short_title": "THUỐC FERION PHARMACEUTICALS GRACURE 10 CHAI",
+  "brand": {
+    "name": "Gracure",
+    "slug": "thuong-hieu/gracure",
+    "country": "Ấn Độ"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tri-thieu-mau",
+    "name": "Thuốc trị thiếu máu",
+    "parent_slug": "thuoc/thuoc-tim-mach-and-mau"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 10 Chai x 15ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/2_45ea0670b7.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/2_45ea0670b7.png"
+  ],
+  "origin_label": "Ấn Độ",
+  "country": "Ấn Độ",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch uống",
+  "trust_label": null,
+  "short_description": "<p>Dung dịch uống Ferion là sản phẩm của Gracure Pharmaceuticals Ltd. dùng trong điều trị tình trạng thiếu sắt và thiếu máu do thiếu sắt, ở người lớn và trẻ em, do dung nạp hoặc hấp thu sắt kém, do mất máu mạn tính hoặc trong các trường hợp có nhu cầu tăng như phụ nữ mang thai hoặc cho con bú.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p><a href=\"https://nhathuoclongchau.com.vn/thuoc/thuoc-ferion-pharmaceuticals-hop-10-chai-36093.html\">Dung dịch uống Ferion</a> là sản phẩm của Gracure Pharmaceuticals Ltd. dùng trong điều trị tình trạng thiếu sắt và <a href=\"https://nhathuoclongchau.com.vn/benh/thieu-mau-thieu-sat-561.html\">thiếu máu do thiếu sắt</a>, ở người lớn và trẻ em, do dung nạp hoặc hấp thu sắt kém, do mất máu mạn tính hoặc trong các trường hợp có nhu cầu tăng như phụ nữ mang thai hoặc cho con bú.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 57818,
+      "ingredientId": 24010,
+      "shortDescription": "40mg",
+      "name": "Iron protein succinylate",
+      "isPrimary": false,
+      "slug": "thanh-phan/iron-protein-succinylate"
+    }
+  ],
+  "stock_qty": 0
+}

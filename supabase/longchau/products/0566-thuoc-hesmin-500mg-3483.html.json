@@ -1,0 +1,57 @@
+{
+  "id": "00003740",
+  "slug": "thuoc/hesmin-500mg-3483.html",
+  "title": "Thuốc Hesmin 500mg Glomed điều trị các triệu chứng và dấu hiệu của suy tĩnh mạch và bệnh trĩ (10 vỉ x 10 viên)",
+  "short_title": "HESMIN 500MG ABBOTT 10X10",
+  "brand": {
+    "name": "Abbott",
+    "slug": "thuong-hieu/abbott",
+    "country": "Hoa Kỳ"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tri-tri-suy-gian-tinh-mach",
+    "name": "Thuốc trị trĩ, suy giãn tĩnh mạch",
+    "parent_slug": "thuoc/thuoc-tim-mach-and-mau"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00003740_hesmin_500mg_9064_5bda_large_4fbd393012.JPG",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003740_hesmin_500mg_9064_5bda_large_4fbd393012.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003740_hesmin_500mg_6917_5bda_large_b6222c5e67.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003740_hesmin_500mg_2628_5bda_large_1f3c7045ff.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003740_hesmin_500mg_2012_5bda_large_087e10c7bc.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003740_hesmin_500mg_8112_5bda_large_82e65d4db8.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003740_hesmin_500mg_9007_5bda_large_cc582f3c77.JPG"
+  ],
+  "origin_label": "Hoa Kỳ",
+  "country": "Hoa Kỳ",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Hesmin 500 mg được sản xuất bởi Công ty TNHH Dược phẩm Glomed, với thành phần chính <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/diosmin\">Diosmin</a> và Hesperidin, là thuốc dùng để điều trị các triệu chứng và dấu hiệu của suy tĩnh mạch–mạch bạch huyết vô căn mạn tính ở chi dưới, điều trị các triệu chứng của cơn trĩ cấp và bệnh trĩ mạn tính.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3><p>Thuốc Hesmin 500 mg được chỉ định dùng trong các trường hợp sau:</p><ul><li>Điều trị các triệu chứng và dấu hiệu của suy tĩnh mạch – mạch bạch huyết vô căn mạn tính ở chi dưới như nặng ở chân, đau chân, phù chân, chuột rút về đêm và chồn chân.</li><li>Điều trị các triệu chứng của cơn trĩ cấp và bệnh trĩ mạn tính.</li></ul><h3><strong>Dược lực học</strong></h3><p>Diosmin và hesperidin là các hợp chất flavonoid có tác dụng làm tăng trương lực tĩnh mạch và bảo vệ mạch. Khi phối hợp 2 thành phần này với nhau, thuốc làm kéo dài tác dụng co mạch của noradrenaline trên thành tĩnh mạch.</p><p>Thuốc tác dụng trên hệ thống mạch máu trở về tim bằng cách:</p><p>Làm giảm trương lực và sự ứ trệ của tĩnh mạch.</p><p>Trong vi tuần hoàn, thuốc làm giảm tính thấm mao mạch và tăng sức bền mao mạch.</p><h3><strong>Dược động học</strong></h3><p>Ở người, sau khi uống chất có chứa diosmin được đánh dấu bởi Carbon 14, cho thấy:</p><p>Thuốc được chuyển hóa mạnh mẽ với sự hiện diện của những acid phenol khác nhau trong nước tiểu.</p><p>Bài tiết chủ yếu qua phân, phần còn lại (khoảng 14% liều dùng) được bài tiết trong nước tiểu.</p><p>Thời gian bán thải của thuốc khoảng 11 giờ.</p>",
+  "ingredients_html": [
+    {
+      "id": 33088,
+      "ingredientId": 18065,
+      "shortDescription": "450mg",
+      "name": "Diosmin",
+      "isPrimary": false,
+      "slug": "thanh-phan/diosmin"
+    },
+    {
+      "id": 33089,
+      "ingredientId": 22170,
+      "shortDescription": "50mg",
+      "name": "Hesperidin",
+      "isPrimary": false,
+      "slug": "thanh-phan/hesperidin"
+    }
+  ],
+  "stock_qty": 0
+}

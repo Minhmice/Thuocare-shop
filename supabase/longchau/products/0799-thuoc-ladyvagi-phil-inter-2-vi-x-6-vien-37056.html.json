@@ -1,0 +1,60 @@
+{
+  "id": "00502741",
+  "slug": "thuoc/ladyvagi-phil-inter-2-vi-x-6-vien-37056.html",
+  "title": "Viên đặt âm đạo Ladyvagi Phil Inter điều trị tại chỗ viêm âm đạo (2 vỉ x 6 viên)",
+  "short_title": "LADYVAGI PHIL INTER 2X6",
+  "brand": {
+    "name": "Phil Inter",
+    "slug": "thuong-hieu/phil-inter",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-dat-am-dao",
+    "name": "Thuốc đặt âm đạo",
+    "parent_slug": "thuoc/thuoc-tiet-nieu-sinh-duc"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 2 Vỉ x 6 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/LADYVAGI_PHIL_INTER_2_X6_511fa8a462.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/LADYVAGI_PHIL_INTER_2_X6_511fa8a462.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên đặt",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Ladyvagi là sản phẩm của Pill Inter Pharma, có thành phần chính là Neomycin sulfat, Nystatin, Polymycin B sulfate. Đây là thuốc được sử dụng để điều trị tại chỗ viêm âm đạo do các vi khuẩn nhạy cảm và viêm âm đạo không đặc hiệu.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc Ladyvagi được chỉ định dùng trong các trường hợp sau:</p><ul><li>Điều trị tại chỗ viêm âm đạo do các vi khuẩn nhạy cảm và viêm âm đạo không đặc hiệu.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p><strong>Nhóm dược lý: Kháng khuẩn và sát trùng dùng trong phụ khoa.</strong></p><p><strong>Mã ATC: G01AA51.</strong></p><p>Neomycin là kháng sinh nhóm aminoglycosid có tác dụng diệt khuẩn qua ức chế quá trình sinh tổng hợp protein của vi khuẩn, bằng cách gắn với tiểu đơn vị 30S của ribosom vi khuẩn nhạy cảm. Neomycin chủ yếu dùng tại chỗ để điều trị nhiễm khuẩn ở da, tai, mắt do tụ cầu khuẩn và các vi khuẩn nhạy cảm khác.</p><p>Nystatin là một polyen, kháng sinh chống nấm được chiết xuất từ dịch nuôi cấy nấm Streptomyces noursei. Nystatin có tác dụng kìm hãm hoặc diệt nấm tùy thuộc vào nồng độ và độ nhạy cảm của nấm, không tác động đến vi khuẩn chí bình thường trên cơ thể. Nhạy cảm nhất là các nấm men và có tác dụng rất tốt trên Candida albicans. Nystatin dung nạp tốt ngay cả khi điều trị lâu dài và không gây kháng thuốc.</p><p>Polymyxin B có tác dụng diệt khuẩn. Thuốc gắn vào phospholipid làm thay đổi tính thấm và thay đổi cấu trúc màng bào tương vi khuẩn, gây rò rỉ các thành phần bên trong.</p><p>Polymyxin B có tác dụng trên đa số các vi khuẩn Gram âm, trừ Proteus spp.. Polymyxin B được dùng tại chỗ, thường phối hợp với các thuốc khác để điều trị nhiễm khuẩn da, mắt, tai và một số nhiễm khuẩn khác do vi khuẩn nhạy cảm.</p><h3 dir=\"ltr\">Dược động học</h3><p>Neomycin hấp thu kém qua đường tiêu hóa (3%), khoảng 97% liều uống được bài tiết dưới dạng không đổi qua phân. Hấp thu thuốc có thể tăng lên khi niêm mạc bị viêm hoặc tổn thương.</p><p>Khi được hấp thu, thuốc sẽ thải trừ nhanh qua thận dưới dạng hoạt tính. Thời gian bán thải của thuốc khoảng 2 - 3 giờ.</p><p>Khoảng 0 - 30% thuốc gắn với protein, thể tích phân bố 0,36 lít/kg.</p><p>Nystatin hấp thu kém qua đường tiêu hóa, không được hấp thu qua da hay niêm mạc khi dùng tại chỗ, thải trừ chủ yếu qua phân dưới dạng chưa chuyển hóa.</p><p>Polymyxin B sulfat hấp thu tốt qua phúc mạc; không hấp thu qua đường tiêu hóa; không hấp thu đáng kể qua niêm mạc và da nguyên vẹn hoặc bị tróc lớp phủ ngoài như trong trường hợp bị bỏng nặng.</p>",
+  "ingredients_html": [
+    {
+      "id": 57159,
+      "ingredientId": 29517,
+      "shortDescription": "35000iu",
+      "name": "Neomycin sulfat",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 57160,
+      "ingredientId": 30459,
+      "shortDescription": "100000iu",
+      "name": "Nystatin",
+      "isPrimary": false,
+      "slug": "thanh-phan/nystatin"
+    },
+    {
+      "id": 57161,
+      "ingredientId": 33079,
+      "shortDescription": "35000iu",
+      "name": "Polymycin B sulfate",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

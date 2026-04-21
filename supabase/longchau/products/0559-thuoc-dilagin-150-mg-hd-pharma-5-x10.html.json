@@ -1,0 +1,60 @@
+{
+  "id": "00049254",
+  "slug": "thuoc/dilagin-150-mg-hd-pharma-5-x10.html",
+  "title": "Thuốc Dilagin 150mg Hd Pharma phòng và điều trị suy giảm trí nhớ, thiểu năng tuần hoàn não (5 vỉ x 10 viên)",
+  "short_title": "DILAGIN 150MG HD PHARMA 5X10",
+  "brand": {
+    "name": "Hdpharma",
+    "slug": "thuong-hieu/hdpharma",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tang-cuong-tuan-hoan-nao",
+    "name": "Thuốc tăng cường tuần hoàn não",
+    "parent_slug": "thuoc/thuoc-tim-mach-and-mau"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09593_1ecee00006.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09593_1ecee00006.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09594_af33779387.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09595_f3f57c8711.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09596_b27426c840.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09597_5817e36cf9.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09598_e4cfd65324.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09599_0bf2592032.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09600_cf9fb25299.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/dilagin_41ca9d65cb.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Dilagin là sản phẩm của Công ty Cổ phần Dược Vật tư Y tế Hải Dương, có thành phần chính là Cao đặc đinh lăng, Cao khô lá Bạch quả. Đây là thuốc được sử dụng để phòng và điều trị suy giảm trí nhớ, thiểu năng tuần hoàn não, hội chứng tiền đình, suy tuần hoàn não, giảm chức năng não bộ, người làm việc trí óc căng thẳng bị đau đầu, hoa mắt, chóng mặt, mệt mỏi.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc Dilagin được chỉ định để phòng và điều trị các trường hợp sau:</p><ul><li>Suy giảm trí nhớ, thiểu năng tuần hoàn não, hội chứng tiền đình.&nbsp;</li><li>Suy tuần hoàn não có các biểu hiện sau: Đau đầu, chóng mặt, mất ngủ, mất thăng bằng.</li><li>Giảm chức năng não bộ: Giảm trí nhớ, suy nhược thần kinh.</li><li>Người làm việc trí óc căng thẳng bị đau đầu, hoa mắt, chóng mặt, mệt mỏi.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 71187,
+      "ingredientId": 41853,
+      "shortDescription": "150mg",
+      "name": "Cao đặc đinh lăng",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 71188,
+      "ingredientId": 41471,
+      "shortDescription": "30mg",
+      "name": "Cao khô lá Bạch quả",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

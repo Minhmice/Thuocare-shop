@@ -1,0 +1,47 @@
+{
+  "id": "00002127",
+  "slug": "thuoc/crila-ho-tro-dieu-tri-u-xo-tu-cung-379.html",
+  "title": "Thuốc Crila Thiên Dược điều trị phì đại lành tính tuyến tiền liệt, u xơ tử cung (4 chai x 40 viên)",
+  "short_title": "CRILA (HỘP 4 CHAI X 40V)",
+  "brand": {
+    "name": "Thiên Dược",
+    "slug": "thuong-hieu/thien-duoc",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-tri-benh-tuyen-tien-liet",
+    "name": "Thuốc trị bệnh tuyến tiền liệt",
+    "parent_slug": "thuoc/thuoc-tiet-nieu-sinh-duc"
+  },
+  "price_amount": 380000,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 4 Hộp lẻ x 40 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002127_crila_ho_tro_dieu_tri_u_xo_tu_cung_7601_5c0f_large_cf7cf5ee8d.JPG",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002127_crila_ho_tro_dieu_tri_u_xo_tu_cung_7601_5c0f_large_cf7cf5ee8d.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002127_crila_ho_tro_dieu_tri_u_xo_tu_cung_1625797057_f173d15ea2.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002127_crila_ho_tro_dieu_tri_u_xo_tu_cung_9165_5b48_large_aa7337fd68.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002127_crila_ho_tro_dieu_tri_u_xo_tu_cung_4498_5b48_large_887459febe.JPG"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang cứng",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Crila là sản phẩm của công ty cổ phần dược phẩm Thiên Dược, có chứa hoạt chất chính là cao khô trinh nữ Crila (<em>Crinum latifolium L.</em>) 250 mg tương đương 1,25 mg alcaloid toàn phần. Thuốc được chỉ định trong các trường hợp điều trị bệnh <a href=\"https://nhathuoclongchau.com.vn/benh/u-xo-tu-cung-375.html\">u xơ tử cung</a> và phì đại lành tính tuyến tiền liệt. </p>\n\n<p>Thuốc được bào chế dưới dạng viên nang cứng, một đầu màu xanh lá cây đậm, một đầu màu xanh nhạt, bột thuốc màu nâu đậm, có mùi, vị đặc trưng.</p>\n\n<p>Hiện nay, công ty cổ phần Dược phẩm Thiên Dược là công ty đầu tiên ở Việt Nam có vùng trồng dược liệu Trinh nữ hoàng cung đạt GACP - WHO. Do đó, dược liệu Trinh nữ Crila của công ty (Trinh nữ hoàng cung) đạt hàm lượng hoạt chất sinh học cao và ổn định. </p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p><a href=\"https://nhathuoclongchau.com.vn/thuoc/crila-ho-tro-dieu-tri-u-xo-tu-cung-379.html\">Thuốc Crila</a> được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Điều trị phì đại lành tính tuyến tiền liệt: Giảm các triệu chứng của bệnh phì đại lành tính tuyến tiền liệt (đi tiểu khó, đi tiểu nhiều lần vào ban đêm).</li>\n\t<li>Điều trị <a href=\"https://nhathuoclongchau.com.vn/benh/u-xo-tu-cung-375.html\">u xơ tử cung</a>.</li>\n</ul>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Không có thông tin.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Không có thông tin.</p>",
+  "ingredients_html": [
+    {
+      "id": 38770,
+      "ingredientId": 42340,
+      "shortDescription": "250mg",
+      "name": "Cao khô Trinh nữ Crila",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

@@ -1,0 +1,48 @@
+{
+  "id": "00007215",
+  "slug": "thuoc/tebonin-120-mg-2053.html",
+  "title": "Thuốc Tebonin 120mg Dr. Willmar Schwabe điều trị rối loạn tuần hoàn máu não (2 vỉ x 15 viên)",
+  "short_title": "TEBONIN 120 2X15",
+  "brand": {
+    "name": "Dr. Willmar Schwabe",
+    "slug": "thuong-hieu/dr-willmar-schwabe",
+    "country": "Đức"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tang-cuong-tuan-hoan-nao",
+    "name": "Thuốc tăng cường tuần hoàn não",
+    "parent_slug": "thuoc/thuoc-tim-mach-and-mau"
+  },
+  "price_amount": 12000,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "15 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007215_tebonin_120_mg_2973_5af9_large_35206a2594.JPG",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007215_tebonin_120_mg_2973_5af9_large_35206a2594.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007215_tebonin_120_mg_1627358255_5b18743c47.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007215_tebonin_120_mg_8102_5af9_large_e6027acbeb.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/00007215_tebonin_120_mg_3928_5af9_large_1b0bfd4736.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007215_tebonin_120_mg_9157_5af9_large_b43fe2fd6a.JPG"
+  ],
+  "origin_label": "Đức",
+  "country": "Đức",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Tebonin 120mg của Dr. Willmar Schwabe GmbH &amp; Co. KG có hoạt chất chính là cao khô từ lá Ginkgo biloba 120mg. Thuốc được chỉ định điều trị các trường hợp rối loạn tuần hoàn máu não và ngoại biên.</p><p>Tebonin 120mg được bào chế dưới dạng viên nén bao phim. Quy cách đóng gói là hộp 2 vỉ x 15 viên hoặc hộp 1 vỉ x 20 viên.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3><p>Thuốc Tebonin 120mg được chỉ định dùng trong điều trị rối loạn tuần hoàn máu não và ngoại biên:</p><p>Suy tuần hoàn não cấp và mạn tính, giảm chú ý tập trung, giảm trí nhớ, mất trí do xơ cứng mạch máu não và các tình trạng xảy ra sau đột quỵ.&nbsp;</p><p>Rối loạn tuần hoàn máu và thần kinh ở tai: <a href=\"https://nhathuoclongchau.com.vn/benh/u-tai-572.html\">Ù tai</a>, chóng mặt.</p><p>Rối loạn tuần hoàn máu và thần kinh ở mắt: Bệnh võng mạc do tiểu đường, thoái hóa hoàng điểm ở tuổi già.</p><p>Rối loạn tuần hoàn máu ngoại biên và thần kinh: Các bệnh tắc nghẽn động mạch ngoại biên, khập khiễng cách hồi, tê cóng chân tay.</p><p>Lưu ý: Trước khi khởi đầu trị liệu với cao Ginkgo, cần xác định rõ là các triệu chứng bệnh lý mắc phải này không dựa trên một bệnh sẵn có cần đến trị liệu đặc hiệu.</p><p>Chóng mặt và ù tai thường xảy ra luôn cần được bác sĩ tìm hiểu để làm sáng tỏ. Trong trường hợp đột ngột suy giảm thính giác hoặc bị điếc, cần đến khám bác sĩ ngay.</p><h3><strong>Dược lực học</strong></h3><p>Cao chiết xuất EGb 761 đã chuẩn lượng này làm điều hòa các rối loạn về cân bằng năng lượng của những tế bào thần kinh ở não và bảo vệ những tế bào này khỏi tác hại do giảm oxy – máu gây ra. Điều này cải thiện khả năng hoạt động của các tế bào thần kinh, dẫn tới khả năng tập trung được tăng cường, tâm trạng được cân bằng hơn, dung nạp với stress được tăng lên, và trí nhớ được tốt hơn.</p><p>Cao chiết xuất EGb 761 đã chuẩn lượng cũng cải thiện các tính chất huyết động học của máu và gia tăng mức lưu lượng tuần hoàn, đặc biệt trong vùng của vi tuần hoàn. Nó giúp cải thiện sự cung cấp máu và oxy cũng như những chất năng lượng quan trọng đến mô ở não.</p><h3><strong>Dược động học</strong></h3><p>Không có báo cáo.</p>",
+  "ingredients_html": [
+    {
+      "id": 23463,
+      "ingredientId": 21246,
+      "shortDescription": "120mg",
+      "name": "Ginkgo biloba",
+      "isPrimary": false,
+      "slug": "thanh-phan/ginkgo-biloba"
+    }
+  ],
+  "stock_qty": 0
+}

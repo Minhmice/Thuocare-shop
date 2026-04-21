@@ -1,0 +1,44 @@
+{
+  "id": "00502868",
+  "slug": "thuoc/thuoc-brometic-2mg10ml-cpc1-hop-4-vi-x-5-ong-37169.html",
+  "title": "Thuốc Brometic 2mg/10ml làm loãng đờm trong các bệnh phế quản phổi cấp và mạn tính (4 vỉ x 5 ống)",
+  "short_title": "BROMETIC 2MG/10ML CPC1 4 VỈ X 5 ỐNG",
+  "brand": {
+    "name": "CPC1HN",
+    "slug": "thuong-hieu/cpc1hn",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem/thuoc-giam-dau-khang-viem",
+    "name": "Thuốc giảm đau kháng viêm",
+    "parent_slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem"
+  },
+  "price_amount": 5000,
+  "compare_at_amount": 0,
+  "unit": "Ống",
+  "pack_note": "5 Ống",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00502868_5b2d455b4b.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00502868_5b2d455b4b.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch uống",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Brometic là sản phẩm của Công ty Cổ phần Dược phẩm CPC1 Hà Nội, có thành phần chính là Bromhexin hydroclorid. Đây là thuốc được sử dụng để làm loãng đờm trong các bệnh phế quản phổi cấp và mạn tính có kèm theo sự tiết chất nhầy bất thường và sự vận chuyển chất nhầy bị suy yếu.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc Brometic được chỉ định dùng trong các trường hợp sau:</p><ul><li>Làm loãng đờm trong các bệnh phế quản phổi cấp và mạn tính có kèm theo sự tiết chất nhầy bất thường và sự vận chuyển chất nhầy bị suy yếu.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 61162,
+      "ingredientId": 11839,
+      "shortDescription": "2mg",
+      "name": "Bromhexin hydroclorid",
+      "isPrimary": true,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

@@ -1,0 +1,66 @@
+{
+  "id": "00050548",
+  "slug": "thuoc/hoastex-s-opc-30-goi-x-5-ml.html",
+  "title": "Siro HoAstex-S OPC điều trị ho, giảm ho trong viêm họng, viêm phế quản (30 gói x 5ml)",
+  "short_title": "HOASTEX-S OPC 30 GÓI X 5ML",
+  "brand": {
+    "name": "Opc",
+    "slug": "thuong-hieu/opc",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-ho-hap/siro-tri-ho-cam",
+    "name": "Siro trị ho cảm",
+    "parent_slug": "thuoc/thuoc-ho-hap"
+  },
+  "price_amount": 3400,
+  "compare_at_amount": 0,
+  "unit": "Gói",
+  "pack_note": "30 Gói x 5ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00012_267ff6eb5a.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00012_267ff6eb5a.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00006_6152ff154b.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00008_c0f9e9a644.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00009_c8657c86df.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00015_6e90ce8203.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00016_c43a9b2da7.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/hoastex_3d664295c8.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Siro",
+  "trust_label": null,
+  "short_description": "<p>Siro HoAstex-S với thành phần chiết xuất từ các dược liệu tự nhiên, sản phẩm giúp trị ho. Giảm ho trong viêm họng, viêm phế quản, viêm khí quản (viêm đường hô hấp).</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Siro HoAstex-S chỉ định trong các trường hợp sau:</p><ul><li>Trị ho.</li><li>Giảm ho trong viêm họng, viêm phế quản, viêm khí quản (viêm đường hô hấp).</li></ul><h3>Dược lực học</h3><p>Chỉ khái, hóa đàm.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 72785,
+      "ingredientId": 22731,
+      "shortDescription": "2.5g",
+      "name": "Húng chanh",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 72786,
+      "ingredientId": 30398,
+      "shortDescription": "0.625g",
+      "name": "Núc nác",
+      "isPrimary": false,
+      "slug": "thanh-phan/nuc-nac"
+    },
+    {
+      "id": 72787,
+      "ingredientId": 38659,
+      "shortDescription": "6.64mg",
+      "name": "Tinh dầu bạch đàn",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

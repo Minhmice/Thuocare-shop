@@ -1,0 +1,44 @@
+{
+  "id": "00503067",
+  "slug": "thuoc/silymarin-70mg-vcp-4x15-37366.html",
+  "title": "Thuốc Silymarin 70mg VCP hỗ trợ điều trị bệnh viêm gan mãn tính, xơ gan (4 vỉ x 15 viên)",
+  "short_title": "SILYMARIN 70MG VCP 4X15",
+  "brand": {
+    "name": "Vcp",
+    "slug": "thuong-hieu/vcp",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-benh-gan",
+    "name": "Thuốc trị bệnh gan",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "15 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/silymarin_75248d3d9c.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/silymarin_75248d3d9c.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Silymarin 70mg là sản phẩm của Công ty Cổ phần Dược phẩm VCP chứa thành phần chính là cao khô Silybum marianum giúp hỗ trợ điều trị bệnh viêm gan mãn tính, xơ gan và tổn thương gan do nhiễm độc. Không dùng thuốc trong điều trị nhiễm độc cấp tính.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Silymarin 70mg chỉ định hỗ trợ điều trị bệnh viêm gan mãn tính, xơ gan và tổn thương gan do nhiễm độc. Không dùng thuốc trong điều trị nhiễm độc cấp tính.</p><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 43858,
+      "ingredientId": 12734,
+      "shortDescription": "156mg",
+      "name": "Cao khô Silybum marianum",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

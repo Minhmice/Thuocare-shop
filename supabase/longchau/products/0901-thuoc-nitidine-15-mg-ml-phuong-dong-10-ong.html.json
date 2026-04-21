@@ -1,0 +1,44 @@
+{
+  "id": "00049194",
+  "slug": "thuoc/nitidine-15-mg-ml-phuong-dong-10-ong.html",
+  "title": "Thuốc Nitidine 15mg/ml Phương Đông điều trị loét tá tràng (10 ống)",
+  "short_title": "NITIDINE 15MG/ML PHƯƠNG ĐÔNG 10 ỐNG",
+  "brand": {
+    "name": "Phương Đông",
+    "slug": "thuong-hieu/phuong-dong",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-da-day",
+    "name": "Thuốc dạ dày",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Ống",
+  "pack_note": "10 Ống",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/nitidine_696f9a8d58.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/nitidine_696f9a8d58.png"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch uống",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Nitidine dùng trong điều trị loét tá tràng tiến triển, điều trị duy trì loét tá tràng với liều thấp để giảm tái phát sau khi vết loét đã liền. Loét dạ dày lành tính tiến triển, bao gồm cả loét do sang chấn tâm lý (stress) hay do thuốc chống viêm không steroid. Bệnh trào ngược dạ dày - thực quản. Hội chứng tăng tiết acid dịch vị Zollinger-Ellison. Làm giảm các triệu chứng rối loạn tiêu hóa do thừa acid dịch vị (nóng rát, khó tiêu, ợ chua).</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Nitidine chỉ định điều trị trong các trường hợp sau:</p><ul><li>Loét tá tràng tiến triển.</li><li>Điều trị duy trì loét tá tràng với liều thấp để giảm tái phát sau khi vết loét đã liền.</li><li>Loét dạ dày lành tính tiến triển, bao gồm cả loét do sang chấn tâm lý (stress) hay do thuốc chống viêm không steroid.</li><li>Bệnh trào ngược dạ dày - thực quản.</li><li>Hội chứng tăng tiết acid dịch vị Zollinger-Ellison.</li><li>Làm giảm các triệu chứng rối loạn tiêu hóa do thừa acid dịch vị (nóng rát, khó tiêu, ợ chua).</li></ul><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 71032,
+      "ingredientId": 30084,
+      "shortDescription": "15mg",
+      "name": "Nizatidine",
+      "isPrimary": true,
+      "slug": "thanh-phan/nizatidine"
+    }
+  ],
+  "stock_qty": 0
+}

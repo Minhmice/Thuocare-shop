@@ -1,0 +1,49 @@
+{
+  "id": "00033767",
+  "slug": "thuoc/nasolspray-mekophar-70ml-33850.html",
+  "title": "Thuốc xịt mũi Nasolspray Mekophar làm sạch và thông mũi, họng (70ml)",
+  "short_title": "NASOLSPRAY MEKOPHAR 70ML",
+  "brand": {
+    "name": "Mekophar",
+    "slug": "thuong-hieu/mekophar",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-mat-tai-mui-hong/thuoc-xit-mui",
+    "name": "Thuốc xịt mũi",
+    "parent_slug": "thuoc/thuoc-mat-tai-mui-hong"
+  },
+  "price_amount": 30000,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp x 70ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00033767_nasolspray_mekophar_70ml_6394_624f_large_258b43add1.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00033767_nasolspray_mekophar_70ml_6394_624f_large_258b43add1.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00033767_nasolspray_mekophar_70ml_1649390860_8491346fb1.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00033767_nasolspray_mekophar_70ml_6341_624f_large_da26efbb81.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00033767_nasolspray_mekophar_70ml_3476_624f_large_70415e39f9.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00033767_nasolspray_mekophar_70ml_1504_624f_large_30b33b4423.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00033767_nasolspray_mekophar_70ml_5733_624f_large_4bbad8540d.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch vệ sinh mũi",
+  "trust_label": null,
+  "short_description": "<p>Thuốc xịt mũi Nasolspray là sản phẩm của Công ty Cổ phần Hóa dược phẩm Mekophar có thành phần chính natri clorid giúp làm sạch và thông mũi, họng, loại bỏ tất cả bụi bẩn, các vảy trong mũi, loãng dịch nhày đóng nghẹt trong mũi, giúp mũi thông thoáng, sát khuẩn nhẹ, ngăn ngừa được các bệnh viêm nhiễm như viêm mũi dị ứng, ngạt mũi, sổ mũi, viêm xoang, ho, ngứa họng, viêm họng.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p>Thuốc xịt mũi Nasolspray chỉ định làm sạch và thông mũi, họng, loại bỏ tất cả bụi bẩn, các vảy trong mũi, loãng dịch nhày đóng nghẹt trong mũi để dễ đào thải ra ngoài, giúp mũi thông thoáng, sát khuẩn nhẹ,... nên ngăn ngừa được các bệnh viêm nhiễm như viêm mũi dị ứng, ngạt mũi, sổ mũi, <a href=\"https://nhathuoclongchau.com.vn/benh/viem-xoang-479.html\">viêm xoang</a>, ho, ngứa họng, <a href=\"https://nhathuoclongchau.com.vn/benh/viem-hong-468.html\">viêm họng</a>.</p>\n\n<h3>Dược lực học</h3>\n\n<p>Chưa có dữ liệu.</p>\n\n<h3>Dược động học</h3>\n\n<p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 33154,
+      "ingredientId": 41403,
+      "shortDescription": "450mg",
+      "name": "natri chlorid",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

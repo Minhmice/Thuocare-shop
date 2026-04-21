@@ -1,0 +1,81 @@
+{
+  "id": "00002960",
+  "slug": "thuoc/vien-ha-thu-o-extracap-445.html",
+  "title": "Viên Hà Thủ Ô Extracap OPC điều trị nam giới tinh tủy kém, thần kinh suy nhược (5 vỉ x 10 viên)",
+  "short_title": "EXTRACAP OPC 5X10 - HTÔ",
+  "brand": {
+    "name": "Opc",
+    "slug": "thuong-hieu/opc",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+    "name": "Thuốc bổ",
+    "parent_slug": "thuoc/thuoc-bo-and-vitamin"
+  },
+  "price_amount": 68000,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 5 Vỉ x 10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002960_vien_ha_thu_o_extracap_4433_5b48_large_b711c3445e.JPG",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002960_vien_ha_thu_o_extracap_4433_5b48_large_b711c3445e.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002960_vien_ha_thu_o_extracap_1627396871_dab2858dcf.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002960_vien_ha_thu_o_extracap_6700_5b48_large_48ad2b8c14.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002960_vien_ha_thu_o_extracap_9222_5b48_large_d2400a5047.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002960_vien_ha_thu_o_extracap_3870_5b48_large_0626aefe65.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002960_vien_ha_thu_o_extracap_2056_5b48_large_1c156feac3.JPG"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang cứng",
+  "trust_label": null,
+  "short_description": "<p>Viên Hà Thủ Ô Extracap là sản phẩm của Công ty cổ phần dược phẩm OPC, thành phần chính là Hà thủ ô đỏ. Viên Hà Thủ Ô Extracap được sử dụng trong trường hợp nam giới tinh tủy kém, thần kinh suy nhược, các trường hợp khô và rụng tóc, tóc bạc sớm, suy nhược cơ thể giảm tuổi thọ.</p>\n\n<p>Viên Hà Thủ Ô Extracap được bào chế dưới dạng viên nang cứng, hộp 5 vỉ bấm x 10 viên.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p>Thuốc Viên Hà Thủ Ô Extracap được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Nam giới tinh tủy kém, <a href=\"https://nhathuoclongchau.com.vn/benh/suy-nhuoc-than-kinh-35.html\">thần kinh suy nhược</a>.</li>\n\t<li>Dùng trong các trường hợp khô và <a href=\"https://nhathuoclongchau.com.vn/benh/rung-toc-532.html\">rụng tóc</a>, tóc bạc sớm, suy nhược cơ thể giảm tuổi thọ.</li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p>Hà thủ ô đỏ có tác dụng bổ can thận, bổ huyết, ích tinh tủy, hòa khí huyết, mạnh gân xương; điều chỉnh rối loạn lipid máu, giúp ngăn ngừa tình trạng <a href=\"https://nhathuoclongchau.com.vn/benh/xo-vua-dong-mach-429.html\">xơ vữa động mạch</a>, bảo vệ tế bào gan, thúc đẩy quá trình sản sinh hồng cầu, nâng cao khả năng miễn dịch, cải thiện hoạt động của hệ thống nội tiết, đặc biệt là tuyến thượng thận và giáp trạng... </p>\n\n<p>Dùng lâu có lợi cho việc sinh con, kéo dài tuổi thọ, làm râu tóc dày khỏe và đen bóng. Bên cạnh đó, dược liệu còn chứa lecithin nên có thể dùng trong suy nhược thần kinh và bệnh về thần kinh, giúp sinh huyết dịch, bổ tim, cải thiện chuyển hóa chung.</p>\n\n<h3>Dược động học</h3>\n\n<p>Không có báo cáo.</p>",
+  "ingredients_html": [
+    {
+      "id": 26651,
+      "ingredientId": 40434,
+      "shortDescription": "",
+      "name": "Vỏ nang cứng",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 26652,
+      "ingredientId": 11664,
+      "shortDescription": "",
+      "name": "Bột talc",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 26653,
+      "ingredientId": 26299,
+      "shortDescription": "",
+      "name": "Magnesi stearat",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 26654,
+      "ingredientId": 11527,
+      "shortDescription": "",
+      "name": "Bột cellulose",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 26655,
+      "ingredientId": 21866,
+      "shortDescription": "2g",
+      "name": "Hà thủ ô đỏ",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

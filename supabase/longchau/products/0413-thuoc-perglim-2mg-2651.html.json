@@ -1,0 +1,48 @@
+{
+  "id": "00005830",
+  "slug": "thuoc/perglim-2mg-2651.html",
+  "title": "Viên nén Perglim 2 MEGA We care điều trị đái tháo đường típ 2 (3 vỉ x 10 viên)",
+  "short_title": "PERGLIM 2MG",
+  "brand": {
+    "name": "MEGA We care",
+    "slug": "thuong-hieu/mega-we-care",
+    "country": "Thái Lan"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tri-tieu-duong",
+    "name": "Thuốc trị tiểu đường",
+    "parent_slug": "thuoc"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005830_perglim_2mg_3_10_vien_9871_5b23_large_20234dba7c.JPG",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005830_perglim_2mg_3_10_vien_9871_5b23_large_20234dba7c.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005830_perglim_2mg_3_10_vien_3890_5b23_large_eb1f93033f.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005830_perglim_2mg_3_10_vien_2854_5b23_large_d78e7cd717.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005830_perglim_2mg_3_10_vien_5221_5b23_large_b1d7872f44.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005830_perglim_2mg_3_10_vien_5858_5b23_large_ace4b0e230.JPG"
+  ],
+  "origin_label": "Thái Lan",
+  "country": "Thái Lan",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Perglim 2 của công ty Inventia Healthcare Pvt. Ltd, có chứa glimepiride 2 mg với công dụng điều trị đái tháo đường không phụ thuộc insulin (đái tháo đường typ 2) ở người lớn, khi không kiểm soát được glucose huyết bằng chế độ ăn, luyện tập thể lực và giảm cân.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Perglim 2 mg được chỉ định dùng trong các trường hợp sau:</p><ul><li>Điều trị đái tháo đường (<a href=\"https://nhathuoclongchau.com.vn/benh/benh-tieu-duong-289.html\">tiểu đường</a>) không phụ thuộc insulin (<a href=\"https://nhathuoclongchau.com.vn/benh/tieu-duong-tuyp-2.html\">tiểu đường tuýp 2</a>) ở người lớn, khi không kiểm soát được glucose huyết bằng chế độ ăn, luyện tập thể lực và giảm cân.</li></ul><h3>Dược lực học</h3><p>Cơ chế tác dụng chính của glimepirid là kích thích phóng thích Insulin từ những tế bào chức năng của tuyến tuy. Thêm vào đó, những tác dụng bên ngoài tuyến tụy cũng góp phần quan trọng tạo nên tác dụng hạ đường huyết của glimepirid.</p><p>Sử dụng glimepirid có thể làm tăng tính nhạy cảm của các mô ngoại biên đối với insulin.</p><p>Tuy nhiên, cũng như với các sulphonylurea khác, cơ chế tạo nên tác dụng hạ đường huyết khi sử dụng glimepirid lâu dài chưa được biết rõ. Tác động hạ đường huyết nhẹ xuất hiện khi sử dụng liều uống 0,5 - 0,6 mg ở người khỏe mạnh. Thời gian đạt tác động tối đa là khoảng 2 - 3 giờ. Tác động hạ đường huyết duy trì trong vòng 24 giờ trên tất cả các nhóm điều trị.</p><h3>Dược động học</h3><p>Sau khi uống, glimepirid được hấp thu 100% qua đường tiêu hóa. Sự hấp thu đạt mức đáng kể sau 1 giờ và đạt nồng độ đỉnh sau 2 đến 3 giờ.</p><p>Khi sử dụng glimepirid trong bữa ăn, thời gian đạt nồng độ đỉnh tăng nhẹ và AUC giảm nhẹ. Khi dùng đường tiêm tĩnh mạch ở người bình thường, thể tích phân bố đạt 8,8 L. Độ thanh thải tổng cộng là 47,8 ml/phút. Tỷ lệ gắn kết với protein hơn 99,5%.</p><p>Khi dùng bằng đường uống hoặc tiêm tĩnh mạch, glimepirid được chuyển hóa hoàn toàn bởi quá trình sinh chuyển hóa oxy hóa. Khi sử dụng glimepirid đánh dấu phóng xạ bằng đường uống, khoảng 60% lượng đánh dấu được tìm thấy trong nước tiểu sau 7 ngày. Khoảng 40% được tìm thấy trong phân. Không tìm thấy dạng ban đầu trong cả nước tiểu và phân.</p>",
+  "ingredients_html": [
+    {
+      "id": 22780,
+      "ingredientId": 21317,
+      "shortDescription": "2mg",
+      "name": "Glimepiride",
+      "isPrimary": false,
+      "slug": "thanh-phan/glimepiride"
+    }
+  ],
+  "stock_qty": 0
+}

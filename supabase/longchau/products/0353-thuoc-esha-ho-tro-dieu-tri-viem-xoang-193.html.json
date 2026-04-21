@@ -1,0 +1,105 @@
+{
+  "id": "00002854",
+  "slug": "thuoc/esha-ho-tro-dieu-tri-viem-xoang-193.html",
+  "title": "Thuốc Esha điều trị chứng nghẹt mũi, viêm mũi dị ứng, viêm xoang cấp và mạn tính (50 viên)",
+  "short_title": "ESHA PLANTEX 50V",
+  "brand": {
+    "name": "Mediplantex",
+    "slug": "thuong-hieu/mediplantex",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-mat-tai-mui-hong/thuoc-tai-mui-hong",
+    "name": "Thuốc tai mũi họng",
+    "parent_slug": "thuoc/thuoc-mat-tai-mui-hong"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 50 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002854_esha_ho_tro_dieu_tri_viem_xoang_9110_5b7f_large_4679efe763.JPG",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002854_esha_ho_tro_dieu_tri_viem_xoang_9110_5b7f_large_4679efe763.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002854_esha_ho_tro_dieu_tri_viem_xoang_1627399337_a82517f90c.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002854_esha_ho_tro_dieu_tri_viem_xoang_8765_5b7f_large_31b912b2f9.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002854_esha_ho_tro_dieu_tri_viem_xoang_4674_5b7f_large_fac96fca5c.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002854_esha_ho_tro_dieu_tri_viem_xoang_8915_5b7f_large_e5f376dcaf.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002854_esha_ho_tro_dieu_tri_viem_xoang_2311_5b7f_large_c7084f0387.JPG"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang cứng",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Esha của Công ty CP Dược Trung Ương Mediplantex, thành phần chính là Bạch chỉ, Thương nhĩ tử, Hoàng kỳ, Phòng phong, Tân di hoa, Bạc hà, Bạch truật, Kim ngân hoa, là thuốc dùng để điều trị các chứng nghẹt mũi, viêm mũi dị ứng, viêm xoang cấp và mạn tính.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p>Thuốc Esha được chỉ định dùng trong trường hợp sau:</p>\n\n<p><em>Các chứng <a href=\"https://nhathuoclongchau.com.vn/benh/nghet-mui-855.html\">nghẹt mũi</a>, viêm mũi dị ứng, <a href=\"https://nhathuoclongchau.com.vn/benh/viem-xoang-479.html\">viêm xoang</a> cấp và mạn tính.</em></p>\n\n<h3>Dược lực học</h3>\n\n<p>Esha là sự phối hợp của các vị thảo dược quý, trong đó: Bạc hà, Tân di, Phòng phong giúp phát tán phong hàn, tuyên thông phế khí. Kim ngân hoa, thương nhĩ tử là thuốc tiêu độc, thanh nhiệt cho cơ thể. Bạch truật, hoàng kỳ, bạch chỉ là thuốc bổ khí, cố biểu, bài trừ dịch ứ đọng, tăng sức đề kháng của cơ thể. Sự kết hợp nhuần nhuyễn các vị thuốc đông y thành phương thuốc trị viêm xoang, <a href=\"https://nhathuoclongchau.com.vn/benh/viem-mui-472.html\">viêm mũi</a> hiệu quả cao.</p>\n\n<h3>Dược động học</h3>\n\n<p>Chưa có thông tin.</p>",
+  "ingredients_html": [
+    {
+      "id": 27760,
+      "ingredientId": 10072,
+      "shortDescription": "320mg",
+      "name": "Bạch chỉ",
+      "isPrimary": false,
+      "slug": "thanh-phan/bach-chi"
+    },
+    {
+      "id": 27761,
+      "ingredientId": 24654,
+      "shortDescription": "250mg",
+      "name": "Kim ngân hoa",
+      "isPrimary": false,
+      "slug": "thanh-phan/kim-ngan-hoa"
+    },
+    {
+      "id": 27762,
+      "ingredientId": 10043,
+      "shortDescription": "120mg",
+      "name": "Bạc hà",
+      "isPrimary": false,
+      "slug": "thanh-phan/bac-ha"
+    },
+    {
+      "id": 27763,
+      "ingredientId": 37439,
+      "shortDescription": "350mg",
+      "name": "Tân di hoa",
+      "isPrimary": false,
+      "slug": "thanh-phan/tan-di-hoa"
+    },
+    {
+      "id": 27764,
+      "ingredientId": 32396,
+      "shortDescription": "250mg",
+      "name": "Phòng phong",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 27765,
+      "ingredientId": 22437,
+      "shortDescription": "620mg",
+      "name": "Hoàng kỳ",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 27766,
+      "ingredientId": 38387,
+      "shortDescription": "500mg",
+      "name": "Thương nhĩ tử",
+      "isPrimary": false,
+      "slug": "thanh-phan/thuong-nhi-tu"
+    },
+    {
+      "id": 27767,
+      "ingredientId": 10138,
+      "shortDescription": "",
+      "name": "Bạch truật",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

@@ -1,0 +1,44 @@
+{
+  "id": "00503778",
+  "slug": "thuoc/apidogrel-75mg-apimed-3x10-38073.html",
+  "title": "Thuốc Apidogrel 75 Apimed phòng ngừa các biến cố do huyết khối động mạch (3 vỉ x 10 viên)",
+  "short_title": "APIDOGREL 75MG APIMED 3X10",
+  "brand": {
+    "name": "Apimed",
+    "slug": "thuong-hieu/apimed",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-chong-dong-mau",
+    "name": "Thuốc chống đông máu",
+    "parent_slug": "thuoc/thuoc-tim-mach-and-mau"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/apidogrel_aafdde95b8.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/apidogrel_aafdde95b8.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Apidogrel 75 là sản phẩm của Apimed Pharma chứa hoạt chất Clopidogrel Sản Phẩm được chỉ định trong phòng ngừa các biến cố do huyết khối động mạch.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Apidogrel 75 được chỉ định trong phòng ngừa các biến cố do huyết khối động mạch ở:</p><p>Dự phòng bậc hai làm giảm nguy cơ tai biến tim mạch sau nhồi máu cơ tim, đột quỵ và bệnh lý động mạch ngoại biên. Clopidogrel được lựa chọn thay thế aspirin trong dự phòng các biến cố tim mạch, mạch não ở những bệnh nhân cần dự phòng bằng thuốc kháng tiểu cầu.</p><p>Điều trị hội chứng mạch vành cấp (đau thắt ngực không ổn định, nhồi máu cơ tim không có ST chênh lên và nhồi máu cơ tim có ST chênh lên).</p><p>Điều trị hội chứng đau thắt ngực ổn định mạn tính: Clopidogrel được sử dụng thay thế aspirin ở những bệnh nhân có đau thắt ngực ổn định mạn tính không thể dung nạp aspirin. Những bệnh nhân bệnh mạch vành có triệu chứng với nguy cơ cao dẫn tới biến cố tim mạch nên phối hợp aspirin với clopidogrel.</p><p>Các tình trạng vữa xơ động mạch và thiếu máu cơ tim khác: Clopidogrel được khuyến cáo sử dụng như một thuốc chống kết tập tiểu cầu thay thế hoặc phối hợp với aspirin trong dự phòng huyết khối ở bệnh nhân sau phẫu thuật bắc cầu mạch vành sử dụng tĩnh mạch hiển ghép nối.</p><p>Phối hợp với aspirin để dự phòng tái hẹp mạch sau can thiệp mạch qua da và đặt stent mạch vành.</p><p>Clopidogrel có thể được lựa chọn trong liệu pháp kháng tiểu cầu ở những bệnh nhân thay van tim nhân tạo mà không thể dùng aspirin hoặc dùng aspirin nhưng có biến chứng huyết khối.</p><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 50418,
+      "ingredientId": 15173,
+      "shortDescription": "75mg",
+      "name": "Clopidogrel",
+      "isPrimary": false,
+      "slug": "thanh-phan/clopidogrel"
+    }
+  ],
+  "stock_qty": 0
+}

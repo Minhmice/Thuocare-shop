@@ -1,0 +1,44 @@
+{
+  "id": "00011390",
+  "slug": "thuoc/ratidin-f-300-1107.html",
+  "title": "Thuốc Ratidin F Pharmedic điều trị loét dạ dày, tá tràng (3 vỉ x 10 viên)",
+  "short_title": "RATIDIN F 300 PMD 3X10",
+  "brand": {
+    "name": "Pharmedic",
+    "slug": "thuong-hieu/pharmedic",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-da-day",
+    "name": "Thuốc dạ dày",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00011390_ratidin_f_300_3x10_6807_7818_large_501c4a153c.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00011390_ratidin_f_300_3x10_6807_7818_large_501c4a153c.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Ratidin F của Công ty Cổ phần DPDL Pharmedic sản xuất. Thuốc có thành phần chính là ranitidin.</p>\n\n<p>Thuốc Ratidin F được dùng để điều trị loét tá tràng, loét dạ dày lành tính, loét sau phẫu thuật, viêm thực quản do trào ngược, hội chứng Zollinger - Ellison…</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3><p>Thuốc <a href=\"https://nhathuoclongchau.com.vn/thuoc/ratidin-f-300-1107.html\">Ratidin F</a> được chỉ định dùng trong các trường hợp sau:</p><p>Trị <a href=\"https://nhathuoclongchau.com.vn/bai-viet/benh-viem-loet-da-day-ta-trang-va-nhung-dieu-can-luu-y-48789.html\">loét tá tràng, loét dạ dày</a> lành tính, loét sau phẫu thuật.</p><p>Viêm thực quản do trào ngược.</p><p>Trị hội chứng Zollinger - Ellison.</p><p>Các trường hợp cần thiết giảm tiết dịch vị và giảm tiết acid.</p><h3><strong>Dược lực học</strong></h3><p><a href=\"https://nhathuoclongchau.com.vn/thuoc/ranitidin-300-2453.html\">Ranitidin</a> là thuốc đối kháng thụ thể H2 histamin, ức chế cạnh tranh với histamin ở thụ thể H2 của tế bào vách, làm giảm lượng acid dịch vị tiết ra cả ngày và đêm, cả trong tình trạng bị kích thích bởi thức ăn, insulin, amino acid, histamin hoặc pentagastrin.</p><h3><strong>Dược động học</strong></h3><p>Sinh khả dụng của ranitidin vào khoảng 50%. Sau khi uống ranitidin hấp thu nhanh từ đường tiêu hóa, nồng độ đỉnh trong huyết tương đạt được 2 - 3 giờ sau khi uống. Sự hấp thu không bị giảm đáng kể bởi thức ăn và các <a href=\"https://nhathuoclongchau.com.vn/thuoc/he-tieu-hoa-and-gan-mat/thuoc-khang-acid-chong-trao-nguoc-and-chong-loet\">thuốc kháng acid</a>. Ranitidin được thải trừ chủ yếu qua nước tiểu, còn lại được thải qua phân. Thời gian bán thải khoảng 2 - 3 giờ. Khoảng 35% liều uống thải trừ ở thận dưới dạng không đổi trong 24 giờ.</p>",
+  "ingredients_html": [
+    {
+      "id": 24557,
+      "ingredientId": 34321,
+      "shortDescription": "300mg",
+      "name": "Ranitidine",
+      "isPrimary": false,
+      "slug": "thanh-phan/ranitidine"
+    }
+  ],
+  "stock_qty": 0
+}

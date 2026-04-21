@@ -1,0 +1,44 @@
+{
+  "id": "00503762",
+  "slug": "thuoc/statinagi-20-mg-agimexpharm-6-x10.html",
+  "title": "Thuốc Statinagi 20 Agimexpharm điều trị tăng cholesterol máu (6 vỉ x 10 viên)",
+  "short_title": "STATINAGI 20MG AGIMEXPHARM 6X10",
+  "brand": {
+    "name": "Agimexpharm",
+    "slug": "thuong-hieu/agimexpharm",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap",
+    "name": "Thuốc tim mạch huyết áp",
+    "parent_slug": "thuoc/thuoc-tim-mach-and-mau"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/stati_f6d839e626.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/stati_f6d839e626.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Statinagi® 20 là sản phẩm của Công ty Cổ phần Dược phẩm Agimexpharm chứa hoạt chất Atorvastatin calci dùng trong điều trị tăng cholesterol máu, hỗ trợ dự phòng tiền phát biến cố mạch vành, xơ vữa động mạch. Statinagi cũng được chỉ định để giảm cholesterol toàn phần và cholesterol LDL ở người bệnh tăng cholesterol máu gia đình đồng hợp tử, bổ trợ cho các cách điều trị hạ lipid khác.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Statinagi® 20 chỉ định điều trị trong các trường hợp sau:</p><ul><li>Tăng cholesterol máu: Statinagi được chỉ định bổ trợ cho liệu pháp ăn uống trong điều trị tăng &nbsp;cholesterol máu tiên phát (typ IIa), rối loạn lipid máu hỗn hợp (typ IIb), tăng triglycerid máu (typ IV).</li><li>Hỗ trợ dự phòng tiền phát biến cố mạch vành ở những bệnh nhân có nhiều yếu tố nguy cơ cao nhưng chưa có biểu hiện triệu chứng trên lâm sàng.</li><li>Xơ vữa động mạch: ở người bệnh tăng cholesterol máu có biểu hiện lâm sàng về bệnh mạch vành, kể cả nhồi máu cơ tim trước đó, dùng Statinagi nhằm làm chậm tiến triển xơ vữa mạch vành và giảm nguy cơ biến cố mạch vành cấp.</li><li>Statinagi cũng được chỉ định để giảm cholesterol toàn phần và cholesterol LDL ở người bệnh tăng cholesterol máu gia đình đồng hợp tử, bổ trợ cho các cách điều trị hạ lipid khác.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 50305,
+      "ingredientId": 9727,
+      "shortDescription": "20mg",
+      "name": "Atorvastatin",
+      "isPrimary": false,
+      "slug": "thanh-phan/atorvastatin"
+    }
+  ],
+  "stock_qty": 0
+}

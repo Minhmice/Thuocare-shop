@@ -1,0 +1,44 @@
+{
+  "id": "00502140",
+  "slug": "thuoc/lyapi-50mg-apimed-10x10-36367.html",
+  "title": "Thuốc Lyapi 50 Apimed điều trị đau thần kinh, động kinh và rối loạn lo âu toàn thể (10 vỉ x 10 viên)",
+  "short_title": "LYAPI 50MG APIMED 10X10",
+  "brand": {
+    "name": "Apimed",
+    "slug": "thuong-hieu/apimed",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/he-than-kinh-trung-uong/thuoc-tri-dau-do-benh-ly-than-kinh",
+    "name": "Thuốc trị đau do bệnh lý thần kinh",
+    "parent_slug": "thuoc/he-than-kinh-trung-uong"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/1_jxnj_84_4e19d2b9e0.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/1_jxnj_84_4e19d2b9e0.png"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang cứng",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Lyapi 50 là sản phẩm của Công ty Cổ phần dược Apimed chứa hoạt chất Pregabalin. Đây là thuốc dùng trong điều trị đau thần kinh, động kinh và rối loạn lo âu toàn thể.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Lyapi 50 chỉ định điều trị trong các trường hợp sau:&nbsp;</p><ul><li>Đau thần kinh: Lyapi 50 được chỉ định để điều trị đau thần kinh trung ương và ngoại biên ở người lớn.</li><li>Động kinh: Lyapi 50 được chỉ định điều trị bổ trợ các cơn động kinh một phần có hoặc không có toàn thể thứ phát ở người lớn.</li><li>Rối loạn lo âu toàn thể: Lyapi 50 được chỉ định để điều trị rối loạn lo âu toàn thể (GAD) ở người lớn.</li></ul><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 37325,
+      "ingredientId": 33412,
+      "shortDescription": "50mg",
+      "name": "Pregabalin",
+      "isPrimary": false,
+      "slug": "thanh-phan/pregabalin"
+    }
+  ],
+  "stock_qty": 0
+}

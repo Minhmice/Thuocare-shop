@@ -1,0 +1,50 @@
+{
+  "id": "00002248",
+  "slug": "thuoc/dau-khuynh-diep-opc-15ml-4085.html",
+  "title": "Dầu Khuynh Diệp OPC phòng và trị cảm cúm, sổ mũi, nghẹt mũi (15ml)",
+  "short_title": "DẦU KHUYNH DIỆP OPC 15ML",
+  "brand": {
+    "name": "Opc",
+    "slug": "thuong-hieu/opc",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/mieng-dan-cao-xoa-dau/dau-gio",
+    "name": "Dầu gió",
+    "parent_slug": "thuoc/mieng-dan-cao-xoa-dau"
+  },
+  "price_amount": 49000,
+  "compare_at_amount": 0,
+  "unit": "Chai",
+  "pack_note": "Chai x 15ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002248_dau_khuynh_diep_opc_15ml_3631_5ba3_large_6a8335ed62.JPG",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002248_dau_khuynh_diep_opc_15ml_3631_5ba3_large_6a8335ed62.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002248_dau_khuynh_diep_opc_15ml_1619516098_36c3b38ffe.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002248_dau_khuynh_diep_opc_15ml_4994_5ba3_large_3c5656b123.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002248_dau_khuynh_diep_opc_15ml_2537_5ba3_large_eac0b229ff.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002248_dau_khuynh_diep_opc_15ml_5192_5ba3_large_0b0e862aa5.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002248_dau_khuynh_diep_opc_15ml_9011_5ba3_large_4e5e065429.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002248_dau_khuynh_diep_opc_15ml_6441_5ba3_large_492a449bb5.JPG"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch",
+  "trust_label": null,
+  "short_description": "<p>Dầu Khuynh Diệp OPC của Công ty Cổ phần Dược phẩm OPC, hoạt chất chính là Eucalyptol, được dùng để phòng, trị cảm cúm, sổ mũi, nghẹt mũi, họ tức ngực, đau bụng, nhức mỏi, nhức đầu, chóng mặt, buồn nôn, côn trùng đốt, trật gân, sưng.</p>\n\n<p>Dầu Khuynh Diệp OPC được bào chế dưới dạng dầu xoa, chất lỏng màu xanh lá cây, mùi thơm đặc trưng. Hộp 1 chai 15 ml.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p>Dầu Khuynh Diệp OPC được chỉ định dùng trong các trường hợp sau:</p>\n\n<p>Phòng, trị cảm <strong><a href=\"https://nhathuoclongchau.com.vn/benh/cum-434.html\">cúm</a></strong>, sổ mũi, nghẹt mũi, ho tức ngực, đau bụng, nhức mỏi, <strong><a href=\"https://nhathuoclongchau.com.vn/benh/nhuc-dau-24.html\">nhức đầu</a></strong>, <strong><a href=\"https://nhathuoclongchau.com.vn/benh/hoa-mat-chong-mat-14.html\">chóng mặt</a></strong>, buồn nôn, côn trùng đốt, trật gân, sưng.</p>\n\n<h3>Dược lực học</h3>\n\n<p>Chưa có báo cáo.</p>\n\n<h3>Dược động học</h3>\n\n<p>Chưa có báo cáo.</p>",
+  "ingredients_html": [
+    {
+      "id": 20943,
+      "ingredientId": 19829,
+      "shortDescription": "12.44g",
+      "name": "Eucalyptol",
+      "isPrimary": false,
+      "slug": "thanh-phan/eucalyptol"
+    }
+  ],
+  "stock_qty": 0
+}

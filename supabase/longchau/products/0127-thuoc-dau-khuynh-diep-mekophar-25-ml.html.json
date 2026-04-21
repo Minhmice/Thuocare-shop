@@ -1,0 +1,52 @@
+{
+  "id": "00040213",
+  "slug": "thuoc/dau-khuynh-diep-mekophar-25-ml.html",
+  "title": "Dầu khuynh diệp Mekophar phòng và trị cảm cúm, sổ mũi, nghẹt mũi, ho tức ngực, đau bụng, đau đầu (25ml)",
+  "short_title": "DẦU KHUYNH DIỆP MEKOPHAR 25ML",
+  "brand": {
+    "name": "Mekophar",
+    "slug": "thuong-hieu/mekophar",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/mieng-dan-cao-xoa-dau/dau-gio",
+    "name": "Dầu gió",
+    "parent_slug": "thuoc/mieng-dan-cao-xoa-dau"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Chai",
+  "pack_note": "Chai x 25ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/834_7b78033ce1.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/834_7b78033ce1.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dạng dầu",
+  "trust_label": null,
+  "short_description": "<p dir=\"ltr\">Dầu khuynh diệp Mekophar là sản phẩm của Công ty cổ phần hoá dược phẩm Mekophar, thành phần chính chứa Eucalyptol và Camphor, là thuốc dùng để phòng và trị cảm cúm, sổ mũi, nghẹt mũi, ho tức ngực, đau bụng, nhức mỏi, nhức đầu, chóng mặt, buồn nôn, côn trùng đốt, bong gân, sưng.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p>Phòng và trị cảm cúm, sổ mũi, nghẹt mũi, ho tức ngực, đau bụng, nhức mỏi, nhức đầu, chóng mặt, buồn nôn, côn trùng đốt, bong gân, sưng.</p><h3 dir=\"ltr\">Dược lực học</h3><p>Chưa có báo cáo.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có báo cáo.</p>",
+  "ingredients_html": [
+    {
+      "id": 57795,
+      "ingredientId": 19829,
+      "shortDescription": "64.832g",
+      "name": "Eucalyptol",
+      "isPrimary": false,
+      "slug": "thanh-phan/eucalyptol"
+    },
+    {
+      "id": 57796,
+      "ingredientId": 12512,
+      "shortDescription": "18.748g",
+      "name": "Camphor",
+      "isPrimary": false,
+      "slug": "thanh-phan/camphor"
+    }
+  ],
+  "stock_qty": 0
+}

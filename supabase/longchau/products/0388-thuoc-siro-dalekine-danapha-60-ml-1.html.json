@@ -1,0 +1,44 @@
+{
+  "id": "00046075",
+  "slug": "thuoc/siro-dalekine-danapha-60-ml-1.html",
+  "title": "Siro Dalekine 60ml Danapha điều trị động kinh các thể, động kinh cơn nhỏ, động kinh cơn lớn",
+  "short_title": "SIRO DALEKINE DANAPHA 60ML",
+  "brand": {
+    "name": "Danapha",
+    "slug": "thuong-hieu/danapha",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-than-kinh/thuoc-than-kinh",
+    "name": "Thuốc thần kinh",
+    "parent_slug": "thuoc/thuoc-than-kinh"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp x 60ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00046075_43fe998ccd.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00046075_43fe998ccd.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Siro",
+  "trust_label": null,
+  "short_description": "<p>Siro Dalekine là sản phẩm của Công ty cổ phần Dược Danapha, thành phần chính Natri valproat, là thuốc dùng để điều trị động kinh các thể, động kinh cơn nhỏ, động kinh cơn lớn, động kinh cơn vắng ý thức, động kinh rung giật cơ và co cơ, động kinh cục bộ; điều trị và dự phòng hưng cảm trong rối loạn cảm xúc lưỡng cực (rối loạn hưng cảm - trầm cảm).</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Siro Dalekine được chỉ định dùng trong các trường hợp sau:</p><ul><li>Động kinh: Thuốc được chỉ định điều trị động kinh các thể, động kinh cơn nhỏ, động kinh cơn lớn, động kinh cơn vắng ý thức, động kinh rung giật cơ và co cơ, động kinh cục bộ. Thuốc có thể dùng đơn độc hoặc phụ trợ.</li><li>Hưng cảm: Điều trị và dự phòng hưng cảm trong rối loạn cảm xúc lưỡng cực (rối loạn hưng cảm - trầm cảm).</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 52706,
+      "ingredientId": 29286,
+      "shortDescription": "57.64mg",
+      "name": "Natri valproat",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

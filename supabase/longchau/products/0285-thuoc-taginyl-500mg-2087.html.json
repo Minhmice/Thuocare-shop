@@ -1,0 +1,52 @@
+{
+  "id": "00007139",
+  "slug": "thuoc/taginyl-500mg-2087.html",
+  "title": "Thuốc Taginyl 500mg Thành Nam điều trị triệu chứng cơn chóng mặt (2 vỉ x 10 viên)",
+  "short_title": "TAGINYL 500 2X10",
+  "brand": {
+    "name": "Thành Nam",
+    "slug": "thuong-hieu/thanh-nam",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tang-cuong-tuan-hoan-nao",
+    "name": "Thuốc tăng cường tuần hoàn não",
+    "parent_slug": "thuoc/thuoc-tim-mach-and-mau"
+  },
+  "price_amount": 700,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6505_0f47b3f635.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6505_0f47b3f635.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6506_39fda2555c.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6507_60c3f17fea.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6508_bd8737b7cc.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6509_e2e1a7fccc.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6510_3c3c60b9ff.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6511_bc18e04dfd.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/taginyl_1_707e334ddb.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/taginyl_2_eb26f330dd.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén",
+  "trust_label": null,
+  "short_description": "<p style=\"text-align:justify;\">Taginyl 500 mg là sản phẩm của Công ty Cổ phần Dược phẩm &amp; Dịch vụ Y tế Khánh Hội, có thành phần hoạt chất là N-Acetyl-DL-Leucin. Thuốc được chỉ định để điều trị triệu chứng các cơn chóng mặt.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p>Thuốc Taginyl 500 mg được chỉ định dùng để điều trị triệu chứng các cơn chóng mặt.</p>\n\n<h3>Dược lực học</h3>\n\n<p>Thuốc trị chóng mặt chưa rõ cơ chế hoạt động.</p>\n\n<p>Cơ chế giả thuyết được đề nghị là thuốc giúp hồi phục điện thế màng tế bào thông qua sự tương tác với phospholipid màng tại khu vực neuron tiền đình bị tổn thương, chủ yếu tại vùng đồi thị hoặc vỏ não thuỳ chẩm.</p>\n\n<h3>Dược động học</h3>\n\n<p>Sau khi uống, nồng độ đỉnh trong huyết tương đạt được sau khoảng 2 giờ.</p>",
+  "ingredients_html": [
+    {
+      "id": 23440,
+      "ingredientId": 28946,
+      "shortDescription": "500mg",
+      "name": "N-Acetyl-dl-leucin",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

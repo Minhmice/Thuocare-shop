@@ -1,0 +1,44 @@
+{
+  "id": "00038206",
+  "slug": "thuoc/hon-dich-uong-progoldkey-ha-nam-20-ong-x-5-ml-1.html",
+  "title": "Hỗn dịch uống Progoldkey Hà Nam làm tan sỏi mật giàu, dự phòng và điều trị sỏi mật (20 ống x 5ml)",
+  "short_title": "HỖN DỊCH UỐNG PROGOLDKEY HÀ NAM 20 ỐNG X 5ML",
+  "brand": {
+    "name": "Hà Nam",
+    "slug": "thuong-hieu/ha-nam",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat",
+    "name": "Thuốc tiêu hoá & gan mật",
+    "parent_slug": "thuoc"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 20 Ống x 5ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/17_93bd252baf.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/17_93bd252baf.png"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Hỗn dịch uống",
+  "trust_label": null,
+  "short_description": "<p>Hỗn dịch uống Progoldkey dùng làm tan sỏi mật giàu, dự phòng và điều trị sỏi mật.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Hỗn dịch uống Progoldkey dùng làm tan sỏi mật giàu, dự phòng và điều trị <a href=\"https://nhathuoclongchau.com.vn/benh/soi-mat-241.html\">sỏi mật</a>.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 58505,
+      "ingredientId": 39916,
+      "shortDescription": "250mg",
+      "name": "Ursodeoxycholic acid",
+      "isPrimary": false,
+      "slug": "thanh-phan/ursodeoxycholic-acid"
+    }
+  ],
+  "stock_qty": 0
+}

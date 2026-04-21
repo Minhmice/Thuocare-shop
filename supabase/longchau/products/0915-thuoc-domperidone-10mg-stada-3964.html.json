@@ -1,0 +1,44 @@
+{
+  "id": "00002537",
+  "slug": "thuoc/domperidone-10mg-stada-3964.html",
+  "title": "Thuốc Domperidon 10mg Stada điều trị triệu chứng nôn, buồn nôn (10 vỉ x 10 viên)",
+  "short_title": "DOMPERIDON 10 STADA 10X10",
+  "brand": {
+    "name": "Stada",
+    "slug": "thuong-hieu/stada",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tieu-hoa",
+    "name": "Thuốc tiêu hoá",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002537_domperidon_10mg_10x10_stada_3441_59d4_large_5caaeff176.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002537_domperidon_10mg_10x10_stada_3441_59d4_large_5caaeff176.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Domperidon của Công ty Stada Việt Nam, thành phần chính Domperidone, dùng cho để điều trị triệu chứng nôn và buồn nôn.</p>\n\n<p>Thuốc được bào chế dưới dạng viên nén bao phim 10mg. Viên nén dài, bao phim màu trắng, một mặt có khắc vạch, một mặt trơn. Hộp 10 vỉ x 10 viên.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3><p>Thuốc <a href=\"https://nhathuoclongchau.com.vn/thuoc/domperidone-10mg-stada-3964.html\">Domperidon</a> được chỉ định để điều trị triệu chứng <a href=\"https://nhathuoclongchau.com.vn/benh/non-873.html\">nôn</a> và buồn nôn.</p><h3><strong>Dược lực học</strong></h3><p>Domperidon là chất kháng dopamin với đặc tính chống nôn. Ở những người sử dụng domperidon, đặc biệt là người lớn, tác dung không mong muốn như hội chứng ngoại tháp rất hiếm gặp, nhưng domperidon thúc đẩy sự tiết prolactin tại tuyến yên.</p><p>Tác động chống nôn có thể do sự phối hợp tác động ngoại biên (vận động dạ dày) và tác động kháng thụ thể dopamin tại vùng cảm ứng hóa học CTZ nằm ở ngoài hàng rào máu não trong vùng postrema. Các nghiên cứu ở người cho thấy dùng domperidon đường uống làm tăng áp lực thực quản dưới, cải thiện nhu động hang vị tá tràng và gia tăng quá trình làm rỗng dạ dày. Thuốc không ảnh hưởng lên sự bài tiết của dạ dày.</p><h3><strong>Dược động học</strong></h3><p>Mặc dù hấp thu nhanh, sinh khả dụng toàn thân của domperidon chỉ đạt khoảng 15% ở người đói uống liều duy nhất, và tăng lên khi dùng domperidon sau bữa ăn. Sinh khả dụng thấp do thuốc bị chuyển hóa qua gan lần đầu và chuyển hóa ở ruột.</p><p>Hơn 90% domperidon gắn kết với protein huyết tương và có thời gian bán thải cuối cùng là 7.5 giờ. Thuốc chuyển hóa nhanh và nhiều qua gan. Con đường chuyển hóa chính là khử gốc alkyl ở vị trí N nhờ isoenzym CYP3A4 của cytochrom P450 và hydroxyl hóa nhân thơm nhờ CYP3A4, CYP1A2 và CYP2E1.</p><p>Khoảng 30% liều dùng đường uống được bài tiết qua nước tiểu trong vòng 24 giờ, hầu hết dưới dạng chất chuyển hóa; phần còn lại được thải trừ qua phân sau vài ngày và khoảng 10% ở dạng nguyên vẹn. Thuốc khó qua hàng rào máu não.</p><p>Một lượng nhỏ domperidon phân bố vào sữa mẹ, nồng độ đạt 10 – 50% trong huyết thanh của người mẹ.</p>",
+  "ingredients_html": [
+    {
+      "id": 21088,
+      "ingredientId": 18452,
+      "shortDescription": "10mg",
+      "name": "Domperidone",
+      "isPrimary": false,
+      "slug": "thanh-phan/domperidone"
+    }
+  ],
+  "stock_qty": 0
+}

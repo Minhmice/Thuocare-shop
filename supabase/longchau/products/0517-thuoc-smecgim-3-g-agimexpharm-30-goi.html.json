@@ -1,0 +1,44 @@
+{
+  "id": "00043771",
+  "slug": "thuoc/smecgim-3-g-agimexpharm-30-goi.html",
+  "title": "Thuốc Smecgim 3g Agimexpharm điều trị các triệu chứng trong tiêu chảy cấp và mạn tính (30 gói)",
+  "short_title": "SMECGIM 3G AGIMEXPHARM 30 GÓI",
+  "brand": {
+    "name": "Agimexpharm",
+    "slug": "thuong-hieu/agimexpharm",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-tieu-chay",
+    "name": "Thuốc trị tiêu chảy",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 1500,
+  "compare_at_amount": 0,
+  "unit": "Gói",
+  "pack_note": "30 Gói",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00043771_cf0d0a28b5.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00043771_cf0d0a28b5.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Bột pha hỗn dịch uống",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Smecgim là sản phẩm của Agimexpharm, có thành phần chính là Dioctahedral smectite. Đây là thuốc được sử dụng để điều trị triệu chứng đau của viêm thực quản - dạ dày - tá tràng và đại tràng; điều trị các triệu chứng trong tiêu chảy cấp và mạn tính ở trẻ em và người lớn, kết hợp với việc bổ sung nước và các chất điện giải đường uống.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc Smecgim được chỉ định dùng trong các trường hợp sau:</p><ul><li>Điều trị triệu chứng đau của viêm thực quản - dạ dày - tá tràng và đại tràng.</li><li>Điều trị các triệu chứng trong tiêu chảy cấp và mạn tính ở trẻ em và người lớn, kết hợp với việc bổ sung nước và các chất điện giải đường uống.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p>Dioctahedral smectit (diosmectit) là silicat nhôm và magnesi tự nhiên có cấu trúc từng lớp lá mỏng xếp song song với nhau và có độ quánh dẻo cao, nên có khả năng rất lớn bao phủ niêm mạc đường tiêu hóa.</p><p>Dioctahedral smectit tương tác với glycoprotein của niêm dịch bao phủ đường tiêu hóa nên làm tăng tác dụng bảo vệ lớp niêm mạc đường tiêu hóa khi bị các tác nhân lạ xâm hại.Thuốc có khả năng bám dính và hấp phụ cao tạo hàng rào bảo vệ niêm mạc tiêu hóa.</p><p>Thuốc có khả năng gắn vào độc tố vi khuẩn ở ruột, nhưng đồng thời cũng có khả năng gắn vào các thuốc khác làm chậm hấp thu hoặc làm mất tác dụng, đặc biệt tetracyclin và trimethoprim (là những kháng sinh đôi khi được chỉ định ở trẻ em bị tiêu chảy).</p><p>Dioctahedral smectit không cản quang, không làm phân biến màu và với liều thường dùng thuốc không làm thay đổi thời gian chuyển vận sinh lý các chất qua ruột.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Dioctahedral smectit không hấp thu vào máu qua đường tiêu hóa và bị thải trừ hoàn toàn theo phân.</p>",
+  "ingredients_html": [
+    {
+      "id": 61723,
+      "ingredientId": 42030,
+      "shortDescription": "3g",
+      "name": "Dioctahedral smectite",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

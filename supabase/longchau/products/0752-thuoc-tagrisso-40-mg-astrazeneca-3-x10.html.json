@@ -1,0 +1,44 @@
+{
+  "id": "00042391",
+  "slug": "thuoc/tagrisso-40-mg-astrazeneca-3-x10.html",
+  "title": "Thuốc Tagrisso 40mg Astra điều trị ung thư phổi (3 vỉ x 10 viên)",
+  "short_title": "TAGRISSO 40MG ASTRAZENECA 3X10",
+  "brand": {
+    "name": "Astra",
+    "slug": "thuong-hieu/astra",
+    "country": "Anh"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-dieu-tri-ung-thu/thuoc-dieu-tri-ung-thu",
+    "name": "Thuốc điều trị ung thư",
+    "parent_slug": "thuoc/thuoc-dieu-tri-ung-thu"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 3 Vỉ x 10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/847_bfba6c9699.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/847_bfba6c9699.jpg"
+  ],
+  "origin_label": "Anh",
+  "country": "Anh",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Tagrisso 40mg là sản phẩm của Công ty AstraZeneca, thành phần chính là Osimertinib. Thuốc được chỉ định trong điều trị cho bệnh nhân trưởng thành bị ung thư phổi không tế bào nhỏ di căn (NSCLC), bệnh nhân trưởng thành mắc NSCLC dương tính đột biến hoặc di căn EGFR T790M.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Tagrisso 40mg được chỉ định dùng trong các trường hợp sau:</p><p>Điều trị đầu tay cho bệnh nhân trưởng thành bị ung thư phổi không tế bào nhỏ di căn (NSCLC)</p><p>Điều trị cho bệnh nhân trưởng thành mắc NSCLC dương tính đột biến hoặc di căn EGFR T790M.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 59894,
+      "ingredientId": 31038,
+      "shortDescription": "40mg",
+      "name": "Osimertinib",
+      "isPrimary": false,
+      "slug": "thanh-phan/osimertinib"
+    }
+  ],
+  "stock_qty": 0
+}

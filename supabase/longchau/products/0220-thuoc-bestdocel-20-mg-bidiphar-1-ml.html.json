@@ -1,0 +1,44 @@
+{
+  "id": "00050695",
+  "slug": "thuoc/bestdocel-20-mg-bidiphar-1-ml.html",
+  "title": "Dung dịch pha truyền Bestdocel 20mg Điều trị ung thư vú, phổi Hộp 1ml",
+  "short_title": "BESTDOCEL 20MG BIDIPHAR 1ML",
+  "brand": {
+    "name": "Bidiphar",
+    "slug": "thuong-hieu/bidiphar",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-dieu-tri-ung-thu/thuoc-chong-ung-thu",
+    "name": "Thuốc chống ung thư",
+    "parent_slug": "thuoc/thuoc-dieu-tri-ung-thu"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp x 1ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/bestdocel_20mg_1ml_1651010050_5cb6e91519.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/bestdocel_20mg_1ml_1651010050_5cb6e91519.png"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch đậm đặc pha tiêm truyền",
+  "trust_label": null,
+  "short_description": "<p>Bestdocel 20 dùng trong điều trị ung thư vú, ung thư phổi không tế bào nhỏ, ung thư dạ dày, ung thư vùng đầu cổ.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Bestdocel 20 dùng trong điều trị ung thư vú, ung thư phổi không tế bào nhỏ, ung thư dạ dày, ung thư vùng đầu cổ.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 73052,
+      "ingredientId": 18383,
+      "shortDescription": "20mg",
+      "name": "Docetaxel",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

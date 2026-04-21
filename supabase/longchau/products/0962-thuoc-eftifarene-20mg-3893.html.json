@@ -1,0 +1,49 @@
+{
+  "id": "00002729",
+  "slug": "thuoc/eftifarene-20mg-3893.html",
+  "title": "Thuốc Eftifarene Dược 3-2 hỗ trợ điều trị đau thắt ngực ổn định (2 vỉ x 30 viên)",
+  "short_title": "EFTIFARENE 20 F.T 2X30",
+  "brand": {
+    "name": "Dược 3-2",
+    "slug": "thuong-hieu/duoc-3-2",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap",
+    "name": "Thuốc tim mạch huyết áp",
+    "parent_slug": "thuoc/thuoc-tim-mach-and-mau"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "30 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002729_1_dc899ece74.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002729_1_dc899ece74.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002729_eftifarene_20mg_1628328362_c9b8ac3dfc.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002729_2_60fcfe000e.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002729_3_948aa3e091.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002729_4_c557018bde.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002729_eftifarene_20mg_4875_610e_large_526cf77edf.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Eftifarene 20mg là sản phẩm của Dược phẩm 3/2, có thành phần chính là Trimetazidin, được cho người lớn trong liệu pháp bổ sung, hỗ trợ vào biện pháp trị liệu hiện có để điều trị triệu chứng ở bệnh nhân đau thắt ngực ổn định không được kiểm soát đầy đủ hoặc bệnh nhân không dung nạp với với các liệu pháp điều trị đau thắt ngực khác.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Eftifarene 20mg được chỉ định dùng trong các trường hợp sau:</p><p>Chỉ định cho người lớn trong liệu pháp bổ sung/hỗ trợ vào biện pháp trị liệu hiện có để điều trị triệu chứng ở bệnh nhân <a href=\"https://nhathuoclongchau.com.vn/benh/con-dau-that-nguc-228.html\">đau thắt ngực</a> ổn định không được kiểm soát đầy đủ hoặc bệnh nhân không dung nạp với với các liệu pháp điều trị đau thắt ngực khác.</p><h3>Dược lực học</h3><p><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/trimetazidine\">Trimetazidin</a> ức chế quá trình beta oxy hóa các acid béo bằng cách ức chế các enzym long-chain 3 ketoacyl-CoA thiolase ở tế bào <a href=\"https://nhathuoclongchau.com.vn/benh/thieu-mau-267.html\">thiếu máu</a> cục bộ, năng lượng thu được trong quá trình oxy hóa glucose cần tiêu thụ oxy ít hơn so với quá trình beta oxy hóa.</p><p>Việc thúc đẩy oxy hóa glucose sẽ giúp tối ưu các quá trình năng lượng tế bào, do đó duy trì được chuyển hóa năng lượng thích hợp trong thời gian thiếu máu.</p><p>Ở những bệnh nhân thiếu máu cục bộ, trimetazidin hoạt động như một chất chuyển hóa, giúp bảo tồn mức năng lượng phosphate cao nội bào trong tế bào cơ tim. Trimetazidin có tác dụng chống thiếu máu cục bộ nhưng không ảnh hưởng đến huyết động.</p><h3>Dược động học</h3><p>Trimetazidin khi uống được hấp thu rất nhanh và đạt nồng độ đỉnh trong huyết tương trước 2 giờ kể từ khi uống.</p><p>Nồng độ tối đa của thuốc trong huyết tương sau khi uống 1 liều duy nhất trimetazidin 20 mg, đạt khoảng 55 ng/ml.</p><p>Trạng thái cân bằng của thuốc trong máu đạt được vào khoảng từ 24 đến 36 giờ sau khi được nhắc lại 1 liều và rất ổn định trong thời gian điều trị.</p><p>Thể tích phân bố 4,8 lít/kg cho thấy mức độ khuếch tán tốt của thuốc đến các mô. Tỉ lệ gắn protein thấp, giá trị đo được in vitro là 16%.</p><p>Nửa đời thải trừ của trimetazidin là 6 giờ. Thuốc được đào thải chủ yếu qua nước tiểu dưới dạng chưa chuyển hóa.</p>",
+  "ingredients_html": [
+    {
+      "id": 21180,
+      "ingredientId": 39378,
+      "shortDescription": "20mg",
+      "name": "Trimetazidine",
+      "isPrimary": false,
+      "slug": "thanh-phan/trimetazidine"
+    }
+  ],
+  "stock_qty": 0
+}

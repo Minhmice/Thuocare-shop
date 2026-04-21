@@ -1,0 +1,53 @@
+{
+  "id": "00006107",
+  "slug": "thuoc/probio-1g-2523.html",
+  "title": "Thuốc cốm Probio IMP bổ sung vi khuẩn có ích ở ruột (14 gói x 1g)",
+  "short_title": "PROBIO IMP IMEXPHARM 14 GÓI X 1G",
+  "brand": {
+    "name": "Imexpharm",
+    "slug": "thuong-hieu/imexpharm",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tieu-hoa",
+    "name": "Thuốc tiêu hoá",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Gói",
+  "pack_note": "14 Gói x 1g",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1226_67a3c1e642.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1226_67a3c1e642.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1227_703b89daef.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1228_adc8197a34.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1229_b87377255c.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1230_7785c33ade.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1232_47951ca3cf.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1233_c18d404031.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1234_a8d7cdaa20.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/probio_1_8bb11c52bb.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/probio_2_df618522a9.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Cốm pha hỗn dịch uống",
+  "trust_label": null,
+  "short_description": "<p>Thuốc <a href=\"https://nhathuoclongchau.com.vn/thuoc/probio-1g-2523.html\"><strong>Probio</strong></a>&nbsp;có thành phần chính là Lactobacillus acidophilus để bổ sung vi khuẩn có ích ở ruột giúp điều trị các trường hợp rối loạn tiêu hoá.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3><p>Thuốc Probio IMP&nbsp;được chỉ định dùng trong các trường hợp sau:</p><ul><li>Bổ sung vi khuẩn có ích ở ruột: Giúp tiêu hoá thức ăn, hỗ trợ tiêu hoá Lactose (có nhiều trong sữa). Cân bằng hệ vi sinh đường ruột bị phá vỡ do rượu, stress, nhiễm trùng, sử dụng kháng sinh hoặc các thuốc hoá trị liệu.&nbsp;</li><li>Sự lên men bất thường ở ruột, <a href=\"https://nhathuoclongchau.com.vn/benh/roi-loan-tieu-hoa-210.html\">rối loạn tiêu hoá</a>.</li><li>Viêm ruột cấp tính hay mãn tính: Tiêu chảy, táo bón.&nbsp;</li></ul><h3><strong>Dược lực học</strong></h3><p>Trong ruột người có nhiều vi khuẩn thuộc nhiều loại tạo thành quần thể gọi là tạp khuẩn ruột.</p><p>Trong tạp khuẩn, ngoài vi khuẩn gây bệnh còn có các vi khuẩn có ích tạo nên sự cân bằng cho hệ vi sinh đường ruột. Nếu vì lý do nào đó: Rượu, stress, nhiễm trùng, sử dụng kháng sinh hay hoá trị liệu làm cho sự cân bằng trong hệ tạp khuẩn ruột bị phá vỡ, đồng thời có sự tăng sinh quá mức các vi khuẩn gây bệnh sẽ đưa đến các rối loạn như: Tiêu chảy, khó tiêu, trướng bụng ...&nbsp;</p><p>Probio với <a href=\"https://nhathuoclongchau.com.vn/bai-viet/lactobacillus-acidophilus-la-gi-co-loi-cho-suc-khoe-khong-58952.html\">Lactobacillus acidophilus</a> - một thành phần thường trực của nhóm vi khuẩn có ích sẽ giúp ngăn ngừa và điều trị các rối loạn trên để tạo thế cân bằng cho hệ vi khuẩn đường ruột.&nbsp;</p><h3><strong>Dược động học</strong></h3><p>Chưa có báo cáo.</p>",
+  "ingredients_html": [
+    {
+      "id": 32268,
+      "ingredientId": 24911,
+      "shortDescription": "100000000cfu",
+      "name": "Lactobacillus acidophilus",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

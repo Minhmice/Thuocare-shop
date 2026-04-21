@@ -1,0 +1,46 @@
+{
+  "id": "00003028",
+  "slug": "thuoc/ferlatum-15ml-3767.html",
+  "title": "Dung dịch Ferlatum Italfarmaco điều trị thiếu sắt (10 chai x 15ml)",
+  "short_title": "FERLATUM HỘP 10 LỌ 15ML",
+  "brand": {
+    "name": "Italfarmaco",
+    "slug": "thuong-hieu/italfarmaco",
+    "country": "Ý"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-bo-and-vitamin/siro-bo",
+    "name": "Siro bổ",
+    "parent_slug": "thuoc/thuoc-bo-and-vitamin"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Chai",
+  "pack_note": "10 Chai x 15ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/ferlatum_72c0faea5c.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/ferlatum_72c0faea5c.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/495076985_2669242400083148_4362909490182157707_n_8a0a6e6ba3.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/494690431_1229023515389091_3080164111321094180_n_b2005b356d.jpg"
+  ],
+  "origin_label": "Ý",
+  "country": "Ý",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch uống",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Ferlatum 15 ml là dược phẩm của công ty Italfarmaco S.A, chứa thành phần chính sắt, giúp điều trị tình trạng thiếu hụt sắt, thiếu máu do thiếu sắt, thiếu sắt thứ phát ở người trưởng thành trong các trường hợp mất máu mạn tính, phụ nữ mang thai và cho con bú.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Ferlatum 15 ml được chỉ định dùng:</p><p>Điều trị tình trạng thiếu hụt sắt tuyệt đối hoặc tương đối: <a href=\"https://nhathuoclongchau.com.vn/benh/thieu-mau-267.html\">Thiếu máu</a> do thiếu sắt tiềm ẩn hoặc có biểu hiệu, thiếu máu ở trẻ em và tuổi trưởng thành, thiếu máu thứ phát do chảy máu mạn tính, phụ nữ mang thai và cho con bú.</p><h3>Dược lực học</h3><p>Ferlatum thuộc nhóm chống thiếu máu có chứa ion sắt để điều trị thiếu sắt. Thuốc có chứa phức hợp sắt – protein trong đó chứa 5% + 0.2% Fe3+.</p><p>Nhờ vào đặc tính tan, sắt protein succinylate bị kết tủa trong môi trường acid dạ dày nên nguyên tử sắt được đảm bảo. Sau đó kết tủa tan trở lại trong môi trường pH kiềm ở tá tràng để sắt được hấp thu vào niêm mạc ruột còn những phân tử protein được tiêu hóa bởi men protease của dịch tụy.</p><h3>Dược động học</h3><p>Không thể thực hiện những nghiên cứu dược động học thông thường đối với những phức hợp của sắt bởi vì với phức hợp sắt protein succinylate, phân tử protein bị tiêu hóa bởi dịch dạ dày và sắt được hấp thu một lượng cần thiết cho cơ thể. Trong điều kiện bình thường, việc mất sắt rất ít xảy ra. Phần lớn sắt được đào thải qua kinh nguyệt và một lượng nhỏ được đào thải qua mật, mồ hôi và da chết.</p>",
+  "ingredients_html": [
+    {
+      "id": 21402,
+      "ingredientId": 42023,
+      "shortDescription": "40mg",
+      "name": "Sắt (III)",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

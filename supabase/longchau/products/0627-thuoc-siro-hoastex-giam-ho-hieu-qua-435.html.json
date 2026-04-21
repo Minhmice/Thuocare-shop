@@ -1,0 +1,61 @@
+{
+  "id": "00003786",
+  "slug": "thuoc/siro-hoastex-giam-ho-hieu-qua-435.html",
+  "title": "Siro HoAstex OPC điều trị ho, giảm ho trong viêm họng, viêm phế quản (90ml)",
+  "short_title": "HOASTEX OPC 90ML",
+  "brand": {
+    "name": "Opc",
+    "slug": "thuong-hieu/opc",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-ho-hap/siro-tri-ho-cam",
+    "name": "Siro trị ho cảm",
+    "parent_slug": "thuoc/thuoc-ho-hap"
+  },
+  "price_amount": 44000,
+  "compare_at_amount": 0,
+  "unit": "Chai",
+  "pack_note": "Chai x 90ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/hoastex_90ml_opc_00003786_1_5ea2ee508b.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/hoastex_90ml_opc_00003786_1_5ea2ee508b.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/cu_moi_hoastex_2bba4e99eb.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/hoastex_90ml_opc_00003786_5_c4b54100b8.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/hoastex_90ml_opc_00003786_2_02361e86ef.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/hoastex_90ml_opc_00003786_4_2b10d637be.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/hoastex_90ml_opc_00003786_3_0f84cc1511.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003786_siro_hoastex_giam_ho_hieu_qua_4948_60a3_large_06451f204c.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003786_siro_hoastex_giam_ho_hieu_qua_6777_60a3_large_9efd2d1de1.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003786_siro_hoastex_giam_ho_hieu_qua_8388_60a3_large_08fda92aab.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003786_siro_hoastex_giam_ho_hieu_qua_4117_60a3_large_ed606d42ff.JPG"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Siro",
+  "trust_label": null,
+  "short_description": "<p>Siro HoAstex được sử dụng để điều trị ho, giảm ho trong viêm họng, viêm phế quản, viêm khí quản.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc <a href=\"https://nhathuoclongchau.com.vn/thuoc/siro-hoastex-giam-ho-hieu-qua-435.html\">Siro Ho Astex</a> - Giảm Ho Hiệu Quả được chỉ định dùng trong các trường hợp sau:</p><ul><li>Trị ho.</li><li>Giảm ho trong viêm họng, viêm phế quản, viêm khí quản.</li></ul><h3>Dược lực học</h3><p>Siro Ho Astex - Giảm Ho Hiệu Quả có chứa các thành phần như sau.&nbsp;</p><p><i>Húng chanh:</i>&nbsp;Vị the cay, hơi chua, mùi thơm, tính ấm, có tác dụng lợi phế, trừ đàm, giải cảm, làm ra mồ hôi, thoái nhiệt, tiêu độc. Thành phần chứa chủ yếu là tinh dầu và các flavon có tác dụng ức chế mạnh sự phát triển của các vi khuẩn, đặc biệt là một số vi khuẩn gây bệnh ho như phế cầu khuẩn và tụ cầu khuẩn vàng. Thường dùng chữa cảm cúm, sốt, ho, viêm họng, viêm phế quản, hen, ho gà, khản tiếng.</p><p><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/nuc-nac\"><i>Núc nác</i></a><i>:</i>&nbsp;Vị đắng, tính mát, có tác dụng giải nhiệt, tiêu độc, sát trùng, lợi phế, giảm ho, giảm đau. Thành phần có chứa chủ yếu là các flavonoid có tính kháng khuẩn, kháng viêm, kháng dị ứng. Thường dùng chữa viêm họng, hen, ho khản tiếng.</p><p><i>Cineol</i>: Có tác dụng sát khuẩn, chữa ho, cảm <a href=\"https://nhathuoclongchau.com.vn/benh/cum-434.html\">cúm</a>, viêm nhiễm đường hô hấp.</p><h3>Dược động học</h3><p>Chưa có báo cáo.</p>",
+  "ingredients_html": [
+    {
+      "id": 26685,
+      "ingredientId": 14839,
+      "shortDescription": "0.08",
+      "name": "cineol",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 26686,
+      "ingredientId": 22731,
+      "shortDescription": "45.00",
+      "name": "Húng chanh",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

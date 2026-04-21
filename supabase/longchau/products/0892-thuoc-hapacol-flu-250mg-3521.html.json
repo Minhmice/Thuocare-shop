@@ -1,0 +1,52 @@
+{
+  "id": "00003637",
+  "slug": "thuoc/hapacol-flu-250mg-3521.html",
+  "title": "Cốm Hapacol 250 Flu DHG điều trị cảm sốt, sổ mũi (24 gói)",
+  "short_title": "HAPACOL FLU 250 DHG 24 GÓI",
+  "brand": {
+    "name": "Dhg",
+    "slug": "thuong-hieu/dhg",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem/thuoc-giam-dau-ha-sot",
+    "name": "Thuốc giảm đau hạ sốt",
+    "parent_slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem"
+  },
+  "price_amount": 2146,
+  "compare_at_amount": 0,
+  "unit": "Gói",
+  "pack_note": "24 Gói",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/hapacol_250flu_c6bb2a406f.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/hapacol_250flu_c6bb2a406f.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dạng bột",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Hapacol 250 Flu là thuốc giảm đau, hạ sốt và kháng viêm dành cho trẻ em của Công ty cổ phần Dược Hậu Giang DHG. Sự phối hợp của paracetamol và clorpheniramin(Chlorphenamine) trong Hapacol 250 Flu làm giảm nhanh các triệu chứng sốt, sổ mũi, nhức đầu.</p>\n\n<p>Thuốc được bào chế dưới dạng cốm sủi bọt, hòa tan trong nước trước khi uống có mùi thơm, vị ngọt, thích hợp dùng cho trẻ em, quy cách đóng gói hộp 24 gói x 1,5g.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc <a href=\"https://nhathuoclongchau.com.vn/thuoc/hapacol-flu-250mg-3521.html\">Hapacol 250 Flu</a> được chỉ định trong các trường hợp sau:</p><ul><li>Cảm sốt, nghẹt mũi, sổ mũi, chảy nước mũi, <a href=\"https://nhathuoclongchau.com.vn/benh/viem-mui-472.html\">viêm mũi</a>, viêm màng nhầy xuất tiết, viêm xoang.</li><li>Đau nhức như đau đầu, đau cơ bắp, xương khớp do cảm cúm hoặc do dị ứng với thời tiết.</li><li><a href=\"https://nhathuoclongchau.com.vn/benh/benh-di-ung-539.html\">Dị ứng</a>, mề đay, mẩn ngứa, viêm da tiếp xúc hay viêm mũi vận mạch do histamin.</li><li>Các bệnh nhiễm trùng đường hô hấp trên có biểu hiện sốt, <a href=\"https://nhathuoclongchau.com.vn/benh/nhuc-dau-24.html\">nhức đầu</a>, sổ mũi, ớn lạnh,….</li></ul><h3>Dược lực học</h3><p>Thuốc tác động lên trung tâm điều nhiệt ở vùng dưới đồi gây hạ nhiệt, tăng tỏa nhiệt do giãn mạch và tăng lưu lượng máu ngoại biên làm giảm thân nhiệt ở người bị sốt, nhưng hiếm khi làm giảm thân nhiệt bình thường và giảm đau bằng cách nâng ngưỡng chịu đau lên.</p><p><a href=\"https://nhathuoclongchau.com.vn/thuoc/clorpheniramin-4-200v-4228.html\">Clorpheniramin</a> maleat là thuốc kháng histamin do ức chế lên thụ thể H1, nhờ đó, làm giảm sự tiết nước mũi và chất nhầy ở đường hô hấp trên.</p><p>Sự phối hợp của Paracetamol và clorpheniramin trong Hapacol 250 Flu làm giảm nhanh các triệu chứng sốt, sổ mũi, nhức đầu. Đây là những triệu chứng thường xuất hiện khi bị cảm hoặc viêm mũi, viêm xoang.</p><h3>Dược động học</h3><p><i>Hấp thu:</i> Thuốc được hấp thu nhanh chóng và hầu như hoàn toàn qua hệ tiêu hóa.</p><p><i>Chuyển hoá và thải trừ:</i> Thuốc chuyển hóa ở gan và thải trừ qua thận. Thời gian bán thải là 1,25 - 3 giờ.</p>",
+  "ingredients_html": [
+    {
+      "id": 21684,
+      "ingredientId": 31537,
+      "shortDescription": "250mg",
+      "name": "Paracetamol",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 21685,
+      "ingredientId": 14504,
+      "shortDescription": "1mg",
+      "name": "Chlorpheniramine",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

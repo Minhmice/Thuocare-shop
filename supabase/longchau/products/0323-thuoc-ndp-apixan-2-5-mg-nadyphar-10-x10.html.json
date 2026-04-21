@@ -1,0 +1,54 @@
+{
+  "id": "00049512",
+  "slug": "thuoc/ndp-apixan-2-5-mg-nadyphar-10-x10.html",
+  "title": "NDP-Apixan 2.5mg Nadyphar phòng ngừa biến cố thuyên tắc huyết khối tĩnh mạch (10 vỉ x 10 viên)",
+  "short_title": "NDP-APIXAN 2.5MG NADYPHAR 10X10",
+  "brand": {
+    "name": "Nadyphar",
+    "slug": "thuong-hieu/nadyphar",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-chong-dong-mau",
+    "name": "Thuốc chống đông máu",
+    "parent_slug": "thuoc/thuoc-tim-mach-and-mau"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_01335_2f77c6dbcf.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_01335_2f77c6dbcf.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_01336_4b751ee37d.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_01337_bc2d115d96.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_01338_269aee174b.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_01339_ca8e27fb3c.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_01341_537d4e35e0.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_01342_5f82e77754.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/ndp_apixan_2_5_1_7b4c56eb74.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/ndp_apixan_2_5_2_961bd00a3e.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/ndp_apixan_2_5_3_6ae643c419.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/ndp_apixan_2_5_4_73e66be5c2.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Thuốc NDP - Apixan 2,5 dùng trong phòng ngừa biến cố thuyên tắc huyết khối tĩnh mạch (VTE) ở người lớn đã trải qua phẫu thuật thay thế khớp háng hoặc khớp gối theo chương trình. Phòng ngừa đột qụy và thuyên tắc mạch toàn thân ở người lớn bị rung nhĩ không do bệnh van tim (NVAF), có một hoặc nhiều yếu tố nguy cơ, như trước đó đã bị đột quỵ hoặc cơn thiếu máu não cục bộ thoáng qua (TIA); ≥ 75 tuổi; tăng huyết áp; đái tháo đường; suy tim (phân loại ≥ II, theo NYHA). Điều trị huyết khối tĩnh mạch sâu (DVT) và thuyên tắc phối (PE), và phòng ngừa tái phát huyết khối tĩnh mạch sâu và thuyên tắc phổi ở người lớn.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc NDP - Apixan 2,5 dùng trong phòng ngừa biến cố thuyên tắc huyết khối tĩnh mạch (VTE) ở người lớn đã trải qua phẫu thuật thay thế khớp háng hoặc khớp gối theo chương trình. Phòng ngừa đột qụy và thuyên tắc mạch toàn thân ở người lớn bị rung nhĩ không do bệnh van tim (NVAF), có một hoặc nhiều yếu tố nguy cơ, như trước đó đã bị đột quỵ hoặc cơn thiếu máu não cục bộ thoáng qua (TIA); ≥ 75 tuổi; tăng huyết áp; đái tháo đường; suy tim (phân loại ≥ II, theo NYHA). Điều trị huyết khối tĩnh mạch sâu (DVT) và thuyên tắc phối (PE), và phòng ngừa tái phát huyết khối tĩnh mạch sâu và thuyên tắc phổi ở người lớn.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 71668,
+      "ingredientId": 9290,
+      "shortDescription": "2.5mg",
+      "name": "Apixaban",
+      "isPrimary": true,
+      "slug": "thanh-phan/apixaban"
+    }
+  ],
+  "stock_qty": 0
+}

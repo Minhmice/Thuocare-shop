@@ -1,0 +1,44 @@
+{
+  "id": "00500744",
+  "slug": "thuoc/bidizem-60-bidiphar-3x10-34867.html",
+  "title": "Thuốc Bidizem 60 Bidiphar phòng ngừa và điều trị lâu dài cơn đau thắt ngực (3 vỉ x 10 viên)",
+  "short_title": "BIDIZEM 60 BIDIPHAR 3X10",
+  "brand": {
+    "name": "Bidiphar",
+    "slug": "thuong-hieu/bidiphar",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap",
+    "name": "Thuốc tim mạch huyết áp",
+    "parent_slug": "thuoc/thuoc-tim-mach-and-mau"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/470_afb50f6e06.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/470_afb50f6e06.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Bidizem 60 là sản phẩm của Công ty Cổ phần Dược - TTBYT Bình Định (Bidiphar) chứa hoạt chất Diltiazem hydroclorid dùng phòng ngừa và điều trị lâu dài <a href=\"https://nhathuoclongchau.com.vn/benh/con-dau-that-nguc-228.html\">cơn đau thắt ngực</a>.</p>",
+  "description_html": "",
+  "usage_html": "<h4>Chỉ định</h4><p>Thuốc Bidizem 60 chỉ định điều trị trong các trường hợp sau:</p><ul><li>Phòng ngừa và điều trị lâu dài cơn đau thắt ngực. Không chỉ định cho các cơn đau thắt ngực cấp tính.</li><li>Điều trị <a href=\"https://nhathuoclongchau.com.vn/benh/tang-huyet-ap.html\">tăng huyết áp</a> nhẹ đến trung bình.</li></ul><h3>Dược lực học</h3><p><strong>Nhóm dược lý: Thuốc đối kháng calci, trị đau thắt ngực và tăng huyết áp</strong></p><p><strong>Mã ATC: C05AE03</strong></p><p><i>Dược lý và cơ chế tác dụng:</i></p><p>Diltiazem làm giảm lượng calci đi qua kênh calci vào các tế bào cơ trơn mạch máu và tế bào cơ tim một cách có chọn lọc. Việc này làm giảm nồng độ calci nội bào là tác nhân kích hoạt protein co bóp. Hoạt động này của diltiazem dẫn đến sự giãn nở của động mạch vành gây ra sự gia tăng cung cấp oxy cho cơ tim. Nó làm giảm hoạt động tim bằng cách điều chỉnh nhịp tim và làm giảm kháng lực mạch máu, do đó làm giảm nhu cầu oxy.</p><p>Khi diltiazem được sử dụng đơn lẻ hoặc dùng chung với tác nhân chẹn beta thì tác dụng co thắt cơ tim giảm nhẹ được báo cáo ở bệnh nhân có chức năng thất bảo tồn.</p><h3>Dược động học</h3><p><i>Hấp thu: </i>Diltiazem được hấp thu nhanh chóng và gần như hoàn toàn qua đường tiêu hóa sau khi uống, nhưng bị chuyển hóa lần đầu qua gan mạnh.</p><p><i>Phân bố: </i>Sinh khả dụng được báo cáo khoảng 40% mặc dù có sự khác biệt đáng kể trong nồng độ huyết tương ở từng cá nhân.</p><p>Khoảng 80% diltiazem gắn kết với protein <a href=\"https://nhathuoclongchau.com.vn/bai-viet/huyet-tuong-la-gi-vai-tro-cua-huyet-tuong-doi-voi-co-the.html\">huyết tương</a>.</p><p><i>Chuyển hóa: </i>Diltiazem chuyển hóa nhanh ở gan, một trong những chất chuyển hóa, diltiazem desacetyl đã được báo cáo có 25 – 50% hoạt tính của thuốc gốc.</p><p><i>Thải trừ:</i> Thời gian bán thải được báo cáo khoảng 3 – 5 giờ.</p><p>Khoảng 2 – 4% liều được bài tiết qua nước tiểu ở dạng không đổi và phần còn lại thải ra dưới dạng các chất chuyển hóa trong mật và nước tiểu.</p>",
+  "ingredients_html": [
+    {
+      "id": 33057,
+      "ingredientId": 17906,
+      "shortDescription": "60mg",
+      "name": "Diltiazem hydroclorid",
+      "isPrimary": true,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

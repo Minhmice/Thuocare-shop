@@ -1,0 +1,44 @@
+{
+  "id": "00502974",
+  "slug": "thuoc/thuoc-stadmazol-500-stella-hop-1-vien-37274.html",
+  "title": "Viên đặt âm đạo Stadmazol 500 Stella điều trị viêm âm đạo (1 viên)",
+  "short_title": "STADMAZOL 500MG STELLA 1V",
+  "brand": {
+    "name": "Stella Pharm",
+    "slug": "thuong-hieu/stella-pharm",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-dat-am-dao",
+    "name": "Thuốc đặt âm đạo",
+    "parent_slug": "thuoc/thuoc-tiet-nieu-sinh-duc"
+  },
+  "price_amount": 30000,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 1 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00502974_b30b40b56d.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00502974_b30b40b56d.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén đặt âm đạo",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Stadmazol 500 được dùng điều trị viêm âm đạo do nấm (thường là Candida) và bội nhiễm bởi các vi khuẩn nhạy cảm với clotrimazole.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p><a href=\"https://nhathuoclongchau.com.vn/thuoc/thuoc-stadmazol-500-stella-hop-1-vien-37274.html\">Thuốc Stadmazol 500</a> được dùng điều trị trong các trường hợp <a href=\"https://nhathuoclongchau.com.vn/benh/viem-am-dao-504.html\">viêm âm đạo</a> do:</p><ul><li>Nấm (thường là Candida).</li><li>Bội nhiễm bởi các vi khuẩn nhạy cảm với <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/clotrimazole\">clotrimazole</a>.</li></ul><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 52334,
+      "ingredientId": 15237,
+      "shortDescription": "500mg",
+      "name": "Clotrimazol",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

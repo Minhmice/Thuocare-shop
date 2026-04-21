@@ -1,0 +1,52 @@
+{
+  "id": "00050511",
+  "slug": "thuoc/simeticone-normon-40-mg-normon-30-v.html",
+  "title": "Viên nhai Simeticone Normon 40mg chống đầy hơi và chướng bụng (Lọ 30V)",
+  "short_title": "SIMETICONE NORMON 40MG NORMON 30V",
+  "brand": {
+    "name": "Normon",
+    "slug": "thuong-hieu/normon",
+    "country": "Tây Ban Nha"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tieu-hoa",
+    "name": "Thuốc tiêu hoá",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 4000,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "30 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07738_fbc240268b.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07738_fbc240268b.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07736_7c18decb68.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07729_1ed0a3bb6b.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07734_efbcce0e6c.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07735_ed59d4b154.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07740_8d4c2e743c.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07743_b556a29cec.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/simeticone_1_e0fe50c50e.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/simeticone_2_38cb86c8b2.jpg"
+  ],
+  "origin_label": "Tây Ban Nha",
+  "country": "Tây Ban Nha",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén nhai",
+  "trust_label": null,
+  "short_description": "<p>Viên nhai Simeticone Normon 40mg giúp chống đầy hơi, làm giảm triệu chứng khó chịu do có quá nhiều khí trong đường tiêu hóa như căng đường tiêu hóa trên, cảm giác nặng, đây bụng, khó tiêu, giảm đau do đầy hơi sau mổ. Dùng trước khi nội soi dạ dày và trước khi chụp X quang để làm mất các bóng khí, tăng khả năng nhìn rõ.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Viên nhai Simeticone Normon 40mg chỉ định trong các trường hợp sau:</p><ul><li>Chống đầy hơi, làm giảm triệu chứng khó chịu do có quá nhiều khí trong đường tiêu hóa như căng đường tiêu hóa trên, cảm giác nặng, đây bụng, khó tiêu, giảm đau do đầy hơi sau mổ.</li><li>Dùng trước khi nội soi dạ dày và trước khi chụp X quang để làm mất các bóng khí, tăng khả năng nhìn rõ.</li></ul><h3>Dược lực học</h3><p>Nhóm thuốc: Thuốc chống đầy hơi.</p><p>Mã ATC: A03AX13.</p><p>Simeticone là chất có tính trơ, vì vậy đó không phải là chất có hoạt tính dược lý. Simeticone chỉ làm thay đổi sức căng bề mặt của các bong bóng khí, khiến chúng kết tụ lại.</p><h3>Dược động học</h3><p>Simeticone không được hấp thu qua đường tiêu hóa.</p>",
+  "ingredients_html": [
+    {
+      "id": 72751,
+      "ingredientId": 36076,
+      "shortDescription": "40",
+      "name": "Simeticone",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

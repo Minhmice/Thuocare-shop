@@ -1,0 +1,135 @@
+{
+  "id": "00005286",
+  "slug": "thuoc/nhiet-mieng-pv-238.html",
+  "title": "Thuốc Nhiệt Miệng PV điều trị viêm loét miệng lưỡi, miệng môi sưng đau  (100 viên)",
+  "short_title": "NHIỆT MIỆNG PV 100V",
+  "brand": {
+    "name": "Phúc Vinh",
+    "slug": "thuong-hieu/phuc-vinh",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-benh-gan",
+    "name": "Thuốc trị bệnh gan",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 100 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005286_nhiet_mieng_pv_7757_5b16_large_ba3ec6d12a.JPG",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005286_nhiet_mieng_pv_7757_5b16_large_ba3ec6d12a.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/7_9ae946fa1b.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005286_nhiet_mieng_pv_9546_5b16_large_b56cd44ed7.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005286_nhiet_mieng_pv_9282_5b16_large_11315f679f.JPG"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao đường",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Nhiệt miệng PV được sản xuất bởi Công ty Cổ phần dược Vĩnh Phúc, có thành phần chính từ dược liệu như: Hoàng bá, hoàng cầm, bạch thược,… Nhiệt miệng - Y học cổ truyền gọi là phong nhiệt nha cam do vị kinh có nhiệt, kết hợp với phong nhiệt. Ngoài ra bệnh có thể sinh ra khi mắc một số bệnh viêm nhiễm. Nhiệt miệng PV là bài thuốc dựa trên kinh nghiệm điều trị của y học cổ truyền đã được công bố của nhiều danh y trên các tài liệu giảng dạy trường đại học và Dược điển Trung Quốc. Bài thuốc sử dụng các vị thuốc có tác dụng sơ phong, thanh nhiệt, giải độc chống viêm, thúc đẩy tiêu sưng do đó rất hiệu quả trong việc điều trị các trường hợp viêm loét mồm - miệng - lưỡi, miệng môi sưng đau, đau nhức răng, sưng lợi, viêm họng, hôi miệng.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p>Thuốc Nhiệt miệng PV được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Điều trị các trường hợp viêm loét miệng lưỡi (nhiệt miệng), miệng môi sưng đau, đau nhức răng, chảy máu chân răng, sưng lợi, <a href=\"https://nhathuoclongchau.com.vn/benh/viem-hong-468.html\">viêm họng</a>, hôi miệng.</li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p>Thanh nhiệt, giải độc, chống viêm, tiêu sưng.</p>\n\n<h3>Dược động học</h3>\n\n<p>Chưa có báo cáo.</p>",
+  "ingredients_html": [
+    {
+      "id": 27560,
+      "ingredientId": 22840,
+      "shortDescription": "170mg",
+      "name": "Huyền sâm",
+      "isPrimary": false,
+      "slug": "thanh-phan/huyen-sam"
+    },
+    {
+      "id": 27561,
+      "ingredientId": 39175,
+      "shortDescription": "170mg",
+      "name": "Tri mẫu",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 27562,
+      "ingredientId": 37619,
+      "shortDescription": "170mg",
+      "name": "Tế tân",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 27563,
+      "ingredientId": 38016,
+      "shortDescription": "170mg",
+      "name": "Thạch Cao",
+      "isPrimary": false,
+      "slug": "thanh-phan/thach-cao"
+    },
+    {
+      "id": 27564,
+      "ingredientId": 22441,
+      "shortDescription": "170mg",
+      "name": "Hoàng liên",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 27565,
+      "ingredientId": 36107,
+      "shortDescription": "170mg",
+      "name": "Sinh Địa",
+      "isPrimary": false,
+      "slug": "thanh-phan/sinh-dia"
+    },
+    {
+      "id": 27566,
+      "ingredientId": 26653,
+      "shortDescription": "170mg",
+      "name": "Mẫu đơn bì (Vỏ rễ)",
+      "isPrimary": false,
+      "slug": "thanh-phan/mau-don-bi"
+    },
+    {
+      "id": 27567,
+      "ingredientId": 34020,
+      "shortDescription": "170mg",
+      "name": "Qua lâu nhân",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 27568,
+      "ingredientId": 22419,
+      "shortDescription": "430mg",
+      "name": "Hoàng bá",
+      "isPrimary": false,
+      "slug": "thanh-phan/hoang-ba"
+    },
+    {
+      "id": 27569,
+      "ingredientId": 22423,
+      "shortDescription": "430mg",
+      "name": "Hoàng cầm",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 27570,
+      "ingredientId": 10131,
+      "shortDescription": "170mg",
+      "name": "Bạch thược",
+      "isPrimary": false,
+      "slug": "thanh-phan/bach-thuoc"
+    },
+    {
+      "id": 27571,
+      "ingredientId": 12473,
+      "shortDescription": " ",
+      "name": "Cam thảo",
+      "isPrimary": false,
+      "slug": "thanh-phan/cam-thao"
+    }
+  ],
+  "stock_qty": 0
+}

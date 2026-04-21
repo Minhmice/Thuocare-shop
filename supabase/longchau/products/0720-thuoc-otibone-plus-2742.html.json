@@ -1,0 +1,64 @@
+{
+  "id": "00005653",
+  "slug": "thuoc/otibone-plus-2742.html",
+  "title": "Thuốc Otibone Plus Boston giảm các triệu chứng của thoái hóa khớp gối (3 vỉ x 10 viên)",
+  "short_title": "OTIBONE PLUS BOSTON 3X10",
+  "brand": {
+    "name": "Boston",
+    "slug": "thuong-hieu/boston",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/co-xuong-khop/thuoc-tri-thoai-hoa-khop",
+    "name": "Thuốc trị thoái hoá khớp",
+    "parent_slug": "thuoc/co-xuong-khop"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005653_otibone_plus_9848_5b56_large_561e9c8134.JPG",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005653_otibone_plus_9848_5b56_large_561e9c8134.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005653_otibone_plus_1125_5b56_large_02f72cad57.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005653_otibone_plus_6539_5b56_large_34763200ed.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005653_otibone_plus_7469_5b56_large_bce96a5264.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005653_otibone_plus_6237_5b56_large_15e6512f27.JPG"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Otibone Plus của Công ty Cổ phần Dược phẩm Boston Việt Nam, thành phần chính là Natri chondroitin sulfat, Glucosamin HCl, Methyl sulfonyl methan. Thuốc có tác dụng giảm các triệu chứng của thoái hóa khớp gối nhẹ và trung bình.</p>\n\n<p>Thuốc Otibone Plus được bào chế dạng viên nén bao phim, đóng gói theo quy cách hộp 3 vỉ x 10 viên bao phim, hộp 6 vỉ x 10 viên bao phim.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p>Thuốc Otibone Plus dùng điều trị giảm các triệu chứng của thoái hóa khớp gối nhẹ và trung bình.</p>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Glucosamin hỵdroclorid là một amino monosaccharid bổ sung cho lượng glucosamin tự nhiên có trong cơ thể, thúc đẩy quá trinh sinh tổng hợp sụn từ proteoglycan và collagen. Mặt khác, glucosamin còn kích thích sản xuất chất nhầy dịch khớp, làm tăng độ nhớt, tăng khả năng bôi trơn của dịch khớp. Vì thế, glucosamin không những làm giảm triệu chứng của thoái hoá khớp (đau, khó vận động) mà còn ngăn chặn quá trình thoái hoá khớp.</p>\n\n<p>Tác dụng chống viêm của chondroitin sulfat được cho là do ức chế tổng hợp các chất trung gian gây viêm như ức chế nitric oxide synthase, COX-2, microsome prostaglandin synthase 1 và prostaglandin E2.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Chưa có báo cáo.</p>",
+  "ingredients_html": [
+    {
+      "id": 22678,
+      "ingredientId": 21358,
+      "shortDescription": "500mg",
+      "name": "Glucosamine",
+      "isPrimary": false,
+      "slug": "thanh-phan/glucosamine"
+    },
+    {
+      "id": 22679,
+      "ingredientId": 14605,
+      "shortDescription": "400mg",
+      "name": "Chondroitin",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 22680,
+      "ingredientId": 28102,
+      "shortDescription": "167mg",
+      "name": "MSM",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

@@ -1,0 +1,44 @@
+{
+  "id": "00500988",
+  "slug": "thuoc/letarid-50-hop-5-vi-x-10-vien-hasan-dermapharm-35133.html",
+  "title": "Thuốc Letarid 50 Hasan điều trị trầm cảm nội sinh, trầm cảm phản ứng, rối loạn tâm thần (5 vỉ x 10 viên)",
+  "short_title": "LETARID 50 HASAN-DERMAPHARM 5X10",
+  "brand": {
+    "name": "Hasan",
+    "slug": "thuong-hieu/hasan",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-than-kinh/thuoc-than-kinh",
+    "name": "Thuốc thần kinh",
+    "parent_slug": "thuoc/thuoc-than-kinh"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/letarid_50_10284caeca.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/letarid_50_10284caeca.png"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Letarid 50 là sản phẩm của Công ty Hasan-Dermapharm, thành phần chính là Levosulpiride. Thuốc có tác dụng điều trị trầm cảm nội sinh và trầm cảm phản ứng, rối loạn tâm thần; tâm thần phân liệt cấp và mãn tính.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc <a href=\"https://nhathuoclongchau.com.vn/thuoc/letarid-50-hop-5-vi-x-10-vien-hasan-dermapharm-35133.html\">Letarid 50</a> được chỉ định dùng trong các trường hợp sau:</p><ul><li><a href=\"https://nhathuoclongchau.com.vn/bai-viet/tram-cam-noi-sinh-la-gi-vi-sao-mac-benh.html\">Trầm cảm nội sinh</a> và <a href=\"https://nhathuoclongchau.com.vn/benh/tram-cam-79.html\">trầm cảm</a> phản ứng.</li><li><a href=\"https://nhathuoclongchau.com.vn/bai-viet/dau-hieu-roi-loan-tam-than-va-cac-dang-roi-loan-tam-than-thuong-gap.html\">Rối loạn tâm thần</a>.</li><li><a href=\"https://nhathuoclongchau.com.vn/benh/tam-than-phan-liet-43.html\">Tâm thần phân liệt</a> cấp và mãn tính.</li></ul><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 49190,
+      "ingredientId": 25452,
+      "shortDescription": "50mg",
+      "name": "Levosulpirid",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

@@ -1,0 +1,44 @@
+{
+  "id": "00040042",
+  "slug": "thuoc/dapzin-10-micro-3-x10.html",
+  "title": "Thuốc Dapzin-10 Sohaco Micro điều trị đái tháo đường típ 2 (3 vỉ x 10 viên)",
+  "short_title": "DAPZIN-10 MICRO 3X10",
+  "brand": {
+    "name": "Micro",
+    "slug": "thuong-hieu/micro",
+    "country": "Ấn Độ"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tri-tieu-duong",
+    "name": "Thuốc trị tiểu đường",
+    "parent_slug": "thuoc"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00040042_072226b156.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00040042_072226b156.jpg"
+  ],
+  "origin_label": "Ấn Độ",
+  "country": "Ấn Độ",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Dapzin-10 là sản phẩm của Micro Labs Limited - Ấn Độ, có thành phần chính là Dapagliflozin. Đây là thuốc được sử dụng cho bệnh nhân mắc bệnh đái tháo đường tuýp 2 trên 18 tuổi; có thể sử dụng liều đơn trị liệu đối với những người có chế độ ăn kiêng và luyện tập không kiểm soát tốt lượng đường huyết và không thể dung nạp metformin hoặc người bệnh có thể kết hợp với các loại thuốc giúp làm giảm lượng đường huyết khác, kể cả insulin.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc Dapzin-10 được chỉ định dùng trong các trường hợp sau:</p><ul><li>Bệnh nhân mắc bệnh đái tháo đường tuýp 2 trên 18 tuổi.</li><li>Có thể sử dụng liều đơn trị liệu đối với những người có chế độ ăn kiêng và luyện tập không kiểm soát tốt lượng đường huyết và không thể dung nạp metformin hoặc người bệnh có thể kết hợp với các loại thuốc giúp làm giảm lượng đường huyết khác, kể cả insulin.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 59144,
+      "ingredientId": 16705,
+      "shortDescription": "10mg",
+      "name": "Dapagliflozin",
+      "isPrimary": true,
+      "slug": "thanh-phan/dapagliflozin"
+    }
+  ],
+  "stock_qty": 0
+}

@@ -1,0 +1,44 @@
+{
+  "id": "00044124",
+  "slug": "thuoc/pravastatin-dwp-30-mg-wealphar-6-x10.html",
+  "title": "Thuốc Pravastatin Dwp 30mg Wealphar hỗ trợ điều trị tăng cholesterol máu tiên phát  (6 vỉ x 10 viên)",
+  "short_title": "PRAVASTATIN DWP 30MG WEALPHAR 6X10",
+  "brand": {
+    "name": "Wealphar",
+    "slug": "thuong-hieu/wealphar",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tri-mo-mau",
+    "name": "Thuốc trị mỡ máu",
+    "parent_slug": "thuoc/thuoc-tim-mach-and-mau"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/pravastatin_51cd87f49e.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/pravastatin_51cd87f49e.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Pravastatin DWP 30 là sản phẩm của Công ty Cổ phần Dược phẩm Wealphar, có thành phần chính là Pravastatin natri. Đây là thuốc được sử dụng để bổ trợ cho chế độ ăn uống ở bệnh nhân tăng cholesterol máu tiên phát (typ IIa, IIb) khi các biện pháp không dùng thuốc như luyện tập và giảm cân không đạt hiệu quả. Trong dự phòng tiên phát, thuốc được sử dụng nhằm hỗ trợ chế độ ăn uống để giảm nguy cơ tử vong do bệnh tim mạch ở những bệnh nhân tăng cholesterol máu mức độ vừa hoặc nặng, chưa có biểu hiện lâm sàng nhưng thuộc nhóm nguy cơ cao. Ở dự phòng thứ phát, thuốc có vai trò kiểm soát các yếu tố nguy cơ tim mạch ở bệnh nhân có tiền sử nhồi máu cơ tim hoặc đau thắt ngực không ổn định, bất kể mức cholesterol bình thường hay tăng, nhằm giảm nguy cơ tử vong do bệnh tim mạch. Ngoài ra, thuốc còn được chỉ định để kiểm soát tăng lipid máu ở bệnh nhân đang sử dụng thuốc ức chế miễn dịch sau ghép cơ quan.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc Pravastatin DWP 30 được chỉ định dùng trong các trường hợp sau:</p><ul><li>Được chỉ định bổ trợ cho liệu pháp ăn uống khi đáp ứng với chế độ ăn và các điều trị không mang tính chất dược lý khác (như luyện tập, giảm cân) không hiệu quả ở người bệnh tăng cholesterol máu tiên phát (týp IIa, IIb).</li><li>Dự phòng tiên phát: Được chỉ định bổ trợ cho liệu pháp ăn uống để giảm nguy cơ tử vong do bệnh tim mạch ở bệnh nhân tăng cholesterol máu vừa hoặc nặng mà không có biểu hiện lâm sàng rõ rệt và có nguy cơ cao mắc bệnh tim mạch lần đầu.</li><li>Dự phòng thứ phát: Được chỉ định bổ trợ để khắc phục các yếu tố nguy cơ ở bệnh nhân có tiền sử nhồi máu cơ tim hoặc đau thắt ngực không ổn định với lượng cholesterol bình thường hoặc tăng nhằm giảm nguy cơ tử vong do bệnh tim mạch.</li><li>Sau cấy ghép: Giảm tăng lipid máu ở bệnh nhân đang sử dụng thuốc ức chế miễn dịch sau ghép cơ quan.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 65322,
+      "ingredientId": 33372,
+      "shortDescription": "30mg",
+      "name": "Pravastatin natri",
+      "isPrimary": true,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

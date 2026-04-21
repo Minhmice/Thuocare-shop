@@ -1,0 +1,53 @@
+{
+  "id": "00008451",
+  "slug": "thuoc/long-huyet-ph-tan-bam-tim-chua-lanh-vet-thuong-1590.html",
+  "title": "Thuốc Long Huyết P/H Phúc Hưng đặc trị tan bầm tím, mau lành vết thương (2 vỉ x 12 viên)",
+  "short_title": "LONG HUYẾT PH 2X12",
+  "brand": {
+    "name": "Phúc Hưng",
+    "slug": "thuong-hieu/phuc-hung",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+    "name": "Thuốc bổ",
+    "parent_slug": "thuoc/thuoc-bo-and-vitamin"
+  },
+  "price_amount": 47000,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 2 Vỉ x 12 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1039_fba416224d.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1039_fba416224d.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1040_cd10fc8f54.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1041_1c6b47809b.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1042_4f15c0e555.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1043_447079cd4b.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1044_22e476dc48.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1045_2897452ac9.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1046_6960fbd68a.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/longhuyetph1_e3bcaf1909.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/longhuyetph2_6d7bbc0fa6.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang cứng",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Long Huyết P/H của Công ty TNHH Đông dược Phúc Hưng, với thành phần chính cao khô huyết giác (Lignum Dracaenae cambodianae). Long Huyết là phần thân hóa gỗ màu đỏ của cây Dracaenae cambodianae già cỗi, sống hàng trăm năm trên các núi đá. Từ lâu nó đã được biết đến như là vị thuốc quý bí truyền của các võ sư, thầy thuốc dùng đặc trị nội, ngoại thương như: Giảm đau, cầm máu, giúp nhanh liền vết thương do dao kiếm, các chấn thương do va đập mạnh gây bầm dập, tụ máu, sưng đau...</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3><p>Thuốc đông dược <a href=\"https://nhathuoclongchau.com.vn/thuoc/long-huyet-ph-tan-bam-tim-chua-lanh-vet-thuong-1590.html\">Long Huyết P/H</a> dùng để điều trị rất hiệu quả các trường hợp:</p><ul><li>Sưng đau, bầm tím, bong gân, chấn thương do va đập, bị đòn, té ngã, tai nạn lao động, giao thông, luyện tập thể thao. Giúp giảm đau và làm tan nhanh các vết bầm tím.</li><li>Vết thương hở ngoài da như: Vết trầy xước, vết cắt sâu do dao kiếm, tai nạn gây ra. Giúp vị trí tổn thương mau khô - tiêu sưng, chống phù nề một cách hiệu quả, nhanh liền sẹo.</li><li><a href=\"https://nhathuoclongchau.com.vn/bai-viet/huong-dan-chi-tiet-cham-soc-vet-thuong-sau-mo-tai-nha-68584.html\">Vết thương do phẫu thuật</a>: Kết hợp sử dụng Long huyết P/H trong quá trình điều trị giúp nhanh phục hồi.</li><li>Trị mụn nhọt, vết loét lâu ngày không khỏi.</li></ul><h3><strong>Dược lực học</strong></h3><p>Chưa có báo cáo.</p><h3><strong>Dược động học</strong></h3><p>Chưa có báo cáo.</p>",
+  "ingredients_html": [
+    {
+      "id": 24003,
+      "ingredientId": 41973,
+      "shortDescription": "280mg",
+      "name": "Cao khô huyết giác",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

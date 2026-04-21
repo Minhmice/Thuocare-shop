@@ -1,0 +1,44 @@
+{
+  "id": "00039480",
+  "slug": "thuoc/mekopen-10-vi-x-10-vien.html",
+  "title": "Thuốc Mekopen Mekophar điều trị các nhiễm khuẩn do các vi khuẩn nhạy cảm (10 vỉ x 10 viên)",
+  "short_title": "MEKOPEN 1.000.000IU MEKOPHAR 10X10",
+  "brand": {
+    "name": "Mekophar",
+    "slug": "thuong-hieu/mekophar",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-khang-sinh-khang-nam/thuoc-khang-sinh",
+    "name": "Thuốc kháng sinh",
+    "parent_slug": "thuoc/thuoc-khang-sinh-khang-nam"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00039480_e02b9c60eb.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00039480_e02b9c60eb.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Mekopen là sản phẩm của Mekophar, có thành phần chính là Penicillin V. Đây là thuốc được sử dụng để điều trị các nhiễm khuẩn do các vi khuẩn nhạy cảm như nhiễm khuẩn đường hô hấp trên, viêm họng - amidan, viêm tai giữa; nhiễm khuẩn ở miệng, họng; viêm phổi thể nhẹ do Pneumococcus; nhiễm khuẩn da, mô mềm; phòng thấp khớp cấp tái phát.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc Mekopen được chỉ định dùng trong các trường hợp sau:</p><p>Điều trị các nhiễm khuẩn do các vi khuẩn nhạy cảm:</p><ul><li>Nhiễm khuẩn đường hô hấp trên, viêm họng - amidan, viêm tai giữa.</li><li>Nhiễm khuẩn ở miệng, họng.</li><li>Viêm phổi thể nhẹ do Pneumococcus.</li><li>Nhiễm khuẩn da, mô mềm.</li><li>Phòng thấp khớp cấp tái phát.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p>Penicillin V là một penicillin bền vững với acid dịch vị, có tác dụng diệt khuẩn bằng cách ức chế sự tổng hợp thành tế bào vi khuẩn.</p><p>Penicillin V có tác dụng tốt trên các cầu khuẩn Gram dương thường gặp như các liên cầu tan huyết nhóm beta, các liên cầu viridansvà phế cầu. Penicillin cũng có tác dụng với Staphylococcus(ngoại trừ chủng sinh penicillinase).</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Penicillin V không bị mất tác dụng bởi acid dịch vị và được hấp thu tốt qua đường tiêu hóa sau khi uống. Thuốc được hấp thu nhanh khoảng 60% liều uống. Nửa đời huyết tương khoảng 30– 60 phút. Thuốc được chuyển hóa ở gan, một trong các chất chuyển hóa đã được xác định là acid peniciloic. Thuốc được bài tiết nhanh qua nước tiểu cả ở dạng không đổi và dạng chuyển hóa. Chỉ một lượng nhỏ bài tiết qua đường mật.</p>",
+  "ingredients_html": [
+    {
+      "id": 61906,
+      "ingredientId": 31871,
+      "shortDescription": "1.000.000iu",
+      "name": "Penicillin V",
+      "isPrimary": true,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

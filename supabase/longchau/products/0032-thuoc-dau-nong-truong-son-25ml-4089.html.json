@@ -1,0 +1,92 @@
+{
+  "id": "00002238",
+  "slug": "thuoc/dau-nong-truong-son-25ml-4089.html",
+  "title": "Dầu gió Trường Sơn 2.5ml điều trị cảm, ho, sổ mũi, trúng gió",
+  "short_title": "DẦU GIÓ TRƯỜNG SƠN 2.5ML",
+  "brand": {
+    "name": "Trường Sơn",
+    "slug": "thuong-hieu/truong-son",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/mieng-dan-cao-xoa-dau/dau-gio",
+    "name": "Dầu gió",
+    "parent_slug": "thuoc/mieng-dan-cao-xoa-dau"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Chai",
+  "pack_note": "Chai x 2.5ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002238_dau_nong_truong_son_25ml_8594_60ab_large_22a87db3be.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002238_dau_nong_truong_son_25ml_8594_60ab_large_22a87db3be.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch",
+  "trust_label": null,
+  "short_description": "<p>Dầu gió Trường Sơn là sản phẩm của Công ty Cổ phần Đông Nam Dược Trường Sơn, với thành phần chính là các chiết xuất tinh dầu. Dầu gió&nbsp;Trường Sơn được dùng để điều trị cảm, ho, sổ mũi, nhức đầu, say nắng, trúng gió, say đi tàu xe, buồn nôn, đau bụng, sưng viêm, nhức mỏi, muỗi chích, kiến cắn, tê thấp tay chân.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p>Dầu gió Trường Sơn được chỉ định dùng trong các trường hợp sau: Ðiều trị cảm, ho, sổ mũi, nhức đầu, say nắng, trúng gió, say đi tàu xe, buồn nôn, đau bụng, sưng viêm, nhức mỏi, muỗi chích, kiến cắn, tê thấp tay chân.</p>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Chưa có báo cáo.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Chưa có báo cáo.</p>",
+  "ingredients_html": [
+    {
+      "id": 20922,
+      "ingredientId": 19829,
+      "shortDescription": "",
+      "name": "Eucalyptol",
+      "isPrimary": false,
+      "slug": "thanh-phan/eucalyptol"
+    },
+    {
+      "id": 20923,
+      "ingredientId": 27307,
+      "shortDescription": "",
+      "name": "Methyl salicylate",
+      "isPrimary": false,
+      "slug": "thanh-phan/methyl-salicylate"
+    },
+    {
+      "id": 20924,
+      "ingredientId": 26940,
+      "shortDescription": "",
+      "name": "Menthol",
+      "isPrimary": false,
+      "slug": "thanh-phan/menthol"
+    },
+    {
+      "id": 20925,
+      "ingredientId": 25837,
+      "shortDescription": "",
+      "name": "Long não",
+      "isPrimary": false,
+      "slug": "thanh-phan/long-nao"
+    },
+    {
+      "id": 20926,
+      "ingredientId": 38658,
+      "shortDescription": "",
+      "name": "Tinh dầu bạc hà",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 20927,
+      "ingredientId": 38669,
+      "shortDescription": "",
+      "name": "Tinh dầu đinh hương",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 20928,
+      "ingredientId": 38689,
+      "shortDescription": "",
+      "name": "Tinh dầu lavender",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

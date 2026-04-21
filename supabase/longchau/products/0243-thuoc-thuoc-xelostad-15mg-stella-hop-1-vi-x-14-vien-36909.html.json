@@ -1,0 +1,44 @@
+{
+  "id": "00502649",
+  "slug": "thuoc/thuoc-xelostad-15mg-stella-hop-1-vi-x-14-vien-36909.html",
+  "title": "Thuốc Xelostad 15 Stella dự phòng đột quỵ, thuyên tắc mạch toàn thân (1 vỉ x 14 viên)",
+  "short_title": "XELOSTAD 15MG STELLA 1X14",
+  "brand": {
+    "name": "Stella Pharm",
+    "slug": "thuong-hieu/stella-pharm",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap",
+    "name": "Thuốc tim mạch huyết áp",
+    "parent_slug": "thuoc/thuoc-tim-mach-and-mau"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 1 Vỉ x 14 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/xelostad_15_3d585e68f7.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/xelostad_15_3d585e68f7.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Xelostad 15 là sản phẩm của Stella Pharm có chứa hoạt chất Rivaroxaban dùng trong dự phòng đột quỵ và thuyên tắc mạch toàn thân ở các bệnh nhân trưởng thành bị rung nhĩ không do bệnh lý van tim có từ 1 yếu tố nguy cơ trở lên như: <a href=\"https://nhathuoclongchau.com.vn/benh/suy-tim-314.html\">Suy tim</a>, <a href=\"https://nhathuoclongchau.com.vn/benh/tang-huyet-ap.html\">tăng huyết áp</a>, &nbsp;từ 75 tuổi trở lên, đái tháo đường, tiền sử <a href=\"https://nhathuoclongchau.com.vn/benh/dot-quy-680.html\">đột quỵ</a> hoặc cơn thiếu máu hoại tử cục bộ thoáng qua.</p><p>Điều trị và phòng ngừa tái phát huyết khối tĩnh mạch sâu (DVT) và thuyên tắc phổi (PE) ở người lớn.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Xelostad 15 chỉ định điều trị trong các trường hợp sau:</p><ul><li>Dự phòng đột quỵ và thuyên tắc mạch toàn thân ở các bệnh nhân trưởng thành bị rung nhĩ không do bệnh lý van tim có từ 1 yếu tố nguy cơ trở lên như: Suy tim, tăng huyết áp, &nbsp;từ 75 tuổi trở lên, đái tháo đường, tiền sử đột quỵ hoặc cơn thiếu máu hoại tử cục bộ thoáng qua.</li><li>Điều trị và phòng ngừa tái phát huyết khối tĩnh mạch sâu (DVT) và <a href=\"https://nhathuoclongchau.com.vn/benh/tac-dong-mach-phoi-171.html\">thuyên tắc phổi</a> (PE) ở người lớn.</li></ul><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><p>Dược động học</p><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 53411,
+      "ingredientId": 34929,
+      "shortDescription": "15mg",
+      "name": "Rivaroxaban",
+      "isPrimary": false,
+      "slug": "thanh-phan/rivaroxaban"
+    }
+  ],
+  "stock_qty": 0
+}

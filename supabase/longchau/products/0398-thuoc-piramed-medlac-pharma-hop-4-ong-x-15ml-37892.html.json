@@ -1,0 +1,44 @@
+{
+  "id": "00503579",
+  "slug": "thuoc/piramed-medlac-pharma-hop-4-ong-x-15ml-37892.html",
+  "title": "Thuốc Piramed 15ml Medlac Pharma điều trị triệu chứng chóng mặt (4 ống)",
+  "short_title": "PIRAMED MEDLAC PHARMA HỘP 4 ỐNG X 15ML",
+  "brand": {
+    "name": "Medlac Pharma",
+    "slug": "thuong-hieu/medlac-pharma",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-than-kinh/thuoc-than-kinh",
+    "name": "Thuốc thần kinh",
+    "parent_slug": "thuoc/thuoc-than-kinh"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 4 Ống",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00503579_f6363ca6aa.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00503579_f6363ca6aa.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Thuốc tiêm",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Piramed là sản phẩm của Medlac Pharma, có thành phần chính là Piracetam. Đây là thuốc được sử dụng để điều trị triệu chứng chóng mặt; chỉ định cho người cao tuổi để điều trị suy giảm trí nhớ, chóng mặt, kém tập trung, hoặc thiếu tỉnh táo, thay đổi khí sắc, rối loạn hành vi, kém chú ý đến bản thân, sa sút trí tuệ do nhồi máu não nhiều ổ; đột quỵ thiếu máu cục bộ cấp; điều trị nghiện rượu; điều trị bệnh thiếu máu hồng cầu hình liềm; điều trị hỗ trợ chứng khó đọc ở trẻ em; dùng bổ trợ trong điều trị giật rung cơ có nguồn gốc vỏ não.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc Piramed được chỉ định dùng trong các trường hợp sau:</p><ul><li>Điều trị triệu chứng chóng mặt.</li><li>Ở người cao tuổi: Suy giảm trí nhớ, chóng mặt, kém tập trung, hoặc thiếu tỉnh táo, thay đổi khí sắc, rối loạn hành vi, kém chú ý đến bản thân, sa sút trí tuệ do nhồi máu não nhiều ổ.</li><li>Đột quỵ thiếu máu cục bộ cấp (chỉ định này là kết quả của một thử nghiệm lâm sàng ngẫu nhiên, mù đôi, có đối chứng với placebo, đa trung tâm trên 927 người bệnh đột quỵ thiếu máu cục bộ cấp cho thấy có những tiến bộ về hành vi sau 12 tuần điều trị, nhất là ở những người bệnh lúc đầu có triệu chứng thần kinh suy yếu nặng mà được dùng thuốc trong vòng 7 giờ đầu tiên sau tại biến mạch máu não). Cần chú ý tuổi tác và mức độ nặng nhẹ lúc đầu của tai biến là các yếu tố quan trọng nhất để tiên lượng khả năng sống sót sau tai biến đột quỵ thiếu máu cục bộ cáp.</li><li>Điều trị nghiện rượu.</li><li>Điều trị bệnh thiếu máu hồng cầu hình liềm (piracetam có tác dụng ức chế và làm hồi phục hồng cầu liềm in vitro và có tác dụng tốt trên người bệnh bị thiếu máu hồng cầu liềm). Ở trẻ em điều trị hỗ trợ chứng khó đọc.</li><li>Dùng bổ trợ trong điều trị giật rung cơ có nguồn gốc vỏ não.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 53479,
+      "ingredientId": 32725,
+      "shortDescription": "3g",
+      "name": "Piracetam",
+      "isPrimary": false,
+      "slug": "thanh-phan/piracetam"
+    }
+  ],
+  "stock_qty": 0
+}

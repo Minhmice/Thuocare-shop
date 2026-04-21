@@ -1,0 +1,48 @@
+{
+  "id": "00033710",
+  "slug": "thuoc/carbo-usr-250mg-4x5-ong-5ml-33797.html",
+  "title": "Thuốc Carbo USR 250mg Medisun điều trị rối loạn đường hô hấp (4 vỉ x 5 ống)",
+  "short_title": "CARBO USR 250MG 4X5 ỐNG 5ML",
+  "brand": {
+    "name": "Medisun",
+    "slug": "thuong-hieu/medisun",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-ho-hap/thuoc-tri-ho-cam",
+    "name": "Thuốc trị ho cảm",
+    "parent_slug": "thuoc/thuoc-ho-hap"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Ống",
+  "pack_note": "5 Ống",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00033710_carbo_usr_250mg_4x5_ong_5ml_9587_6243_large_adde8ff5ca.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00033710_carbo_usr_250mg_4x5_ong_5ml_9587_6243_large_adde8ff5ca.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00033710_carbo_usr_250mg_4x5_ong_5ml_4399_6243_large_eb4966d055.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00033710_carbo_usr_250mg_4x5_ong_5ml_9618_6243_large_71a385ac40.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00033710_carbo_usr_250mg_4x5_ong_5ml_3634_6243_large_af71f303b8.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00033710_carbo_usr_250mg_4x5_ong_5ml_6764_6243_large_1f1c691b68.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch uống",
+  "trust_label": null,
+  "short_description": "<p>Carbo USR là sản phẩm của của Công ty Cổ phần Dược phẩm Medisun; chứa thành phần chính là carbocisteine. Carbo USR được dùng để điều trị rối loạn đường hô hấp.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p><a href=\"https://nhathuoclongchau.com.vn/thuoc/carbo-usr-250mg-4x5-ong-5ml-33797.html\">Carbo USR</a> chỉ định điều trị trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Điều trị các rối loạn về tăng tiết dịch nhiều đờm và nhầy nhớt trong các bệnh đường hô hấp như viêm phế quản, viêm mũi họng, <a href=\"https://nhathuoclongchau.com.vn/benh/hen-phe-quan-160.html\">hen phế quản</a>, tắc nghẽn đường hô hấp cấp và mạn.</li>\n\t<li>Điều trị hỗ trợ trong các bệnh viêm nhiễm đường hô hấp.</li>\n</ul>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Carbocistein (5-carboxymethyl L-cystein) đã cho thấy tác động đến tính chất và số lượng của chất nhầy glycoprotein được tiết ra ở đường hô hấp trên các mẫu động vật bình thường và viêm phế quản.</p>\n\n<p>Sự gia tăng acid: Tỷ lệ glycoprotein trung tính của chất nhầy và sự chuyển dạng của các tế bào huyết thanh thành các tế bào nhầy được biết như là đáp ứng ban đầu đối với sự kích thích và thường có sự tăng tiết theo sau đó. Các nghiên cứu ở người đã chứng tỏ rằng carbocistein làm giảm sự tăng sinh tế bào biểu mô đường hô hấp. Do vậy, carbocistein có thể giữ vai trò quan trọng trong điều trị các rối loạn đặc trưng bởi chất nhầy bất thường.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p><em>Hấp thu: </em>Carbocistein được hấp thu tốt và nhanh chóng sau khi sử dụng bằng đường uống.</p>\n\n<p><em>Phân bố: </em>Sau khi uống 1,5g Carbocistein, nồng độ trong huyết tương là 13 - 16mg/l đạt được trong 1 đến 2 giờ. Carbocistein thấm tốt vào mô phổi và niêm dịch đường hô hấp, và có tác động tại chỗ.</p>\n\n<p><em>Chuy</em>ể<em>n hóa: </em>Thời gian bán hủy trong huyết tương là 1,5 đến 2 giờ. Carbocistein được chuyển hóa qua các giai đoạn acetyl hóa, decarboxyl hóa và sulfoxide hóa.</p>\n\n<p><em>Thải trừ: </em>Phần lớn thuốc được bài tiết qua nước tiểu dưới dạng không đổi.</p>",
+  "ingredients_html": [
+    {
+      "id": 29722,
+      "ingredientId": 13011,
+      "shortDescription": "250mg",
+      "name": "Carbocisteine",
+      "isPrimary": false,
+      "slug": "thanh-phan/carbocisteine"
+    }
+  ],
+  "stock_qty": 0
+}

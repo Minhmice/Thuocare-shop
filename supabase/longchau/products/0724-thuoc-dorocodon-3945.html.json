@@ -1,0 +1,60 @@
+{
+  "id": "00002570",
+  "slug": "thuoc/dorocodon-3945.html",
+  "title": "Thuốc Dorocodon Domesco điều trị triệu chứng ho khan (2 vỉ x 10 viên)",
+  "short_title": "DOROCODON 100 DMC 2X10",
+  "brand": {
+    "name": "Domesco",
+    "slug": "thuong-hieu/domesco",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-ho-hap/thuoc-tri-ho-cam",
+    "name": "Thuốc trị ho cảm",
+    "parent_slug": "thuoc/thuoc-ho-hap"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002570_dorocodon_4717_62ce_large_3cff2f3d05.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002570_dorocodon_4717_62ce_large_3cff2f3d05.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao đường",
+  "trust_label": null,
+  "short_description": "<p style=\"text-align:justify;\">Dorocodon là sản phẩm của Công ty Cổ phần Xxuất nhập khẩu Y tế Domesco với thành phần chính là Codein camphosulfonat, Sulfogaiacol, cao mềm Grindelia, có tác dụng điều trị triệu chứng ho khan gây khó chịu mất ngủ.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p style=\"text-align:justify;\">Dorocodon có tác dụng điều trị triệu chứng <a href=\"https://nhathuoclongchau.com.vn/benh/ho-khan-646.html\">ho khan</a> gây khó chịu mất ngủ.</p>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p style=\"text-align:justify;\"><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/codeine\">Codein</a> là một dẫn chất của phenanthren, có tác dụng giảm ho do tác dụng trực tiếp lên trung tâm gây ho ở hành não; codein làm khô dịch tiết đường hô hấp và làm tăng độ quánh của dịch tiết phế quản. Codein không đủ hiệu lực để giảm ho nặng. Codein là thuốc giảm ho trong trường hợp họ khan làm mất ngủ.</p>\n\n<p style=\"text-align:justify;\">Sulfogaiacol: Làm lỏng các chất tiết ở niêm mạc đường hô hấp và có tác dụng long đàm.</p>\n\n<p style=\"text-align:justify;\">Cao mềm Grindelia: Dược liệu có tác dụng chống họ kèm cảm lạnh.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p style=\"text-align:justify;\"><strong>Codein</strong></p>\n\n<p style=\"text-align:justify;\">Codein được hấp thu tốt qua đường tiêu hóa. Sau khi uống, nồng độ tối đa trong máu đạt được sau 1 giờ. Codein bị chuyển hóa ở gan bởi khử methyl (tại vị trí O- và N-methyl trong phân tử) tạo thành morphin, norcodein và những chất chuyển hóa khác như normorphin và hydrocodon.</p>\n\n<p style=\"text-align:justify;\">Sự chuyển hóa thành morphin gián tiếp chịu tác dụng của cytochrom P450 isoenzym CYP2D6 và tác dụng này rất khác nhau do ảnh hưởng của cấu trúc gen.</p>\n\n<p style=\"text-align:justify;\">Codein và sản phẩm chuyển hóa của nó được thải trừ chủ yếu qua thận và vào nước tiểu dưới dạng liên hợp với acid glucuronic. Thời gian bán thải 3 - 4 giờ sau khi uống. Codein qua được nhau thai và phân bố vào sữa mẹ.</p>\n\n<p style=\"text-align:justify;\">Chưa có dữ liệu nghiên cứu về dược động học của sulfogaiacol và cao mềm Grindelia.</p>",
+  "ingredients_html": [
+    {
+      "id": 21121,
+      "ingredientId": 15496,
+      "shortDescription": "25mg",
+      "name": "Codeine camphosulfonate",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 21122,
+      "ingredientId": 37144,
+      "shortDescription": "100mg",
+      "name": "Sulfoguaiacol",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 21123,
+      "ingredientId": 21704,
+      "shortDescription": "20mg",
+      "name": "Grindelia",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

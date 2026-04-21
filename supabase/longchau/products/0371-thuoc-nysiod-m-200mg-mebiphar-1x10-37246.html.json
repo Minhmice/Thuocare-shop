@@ -1,0 +1,44 @@
+{
+  "id": "00502942",
+  "slug": "thuoc/nysiod-m-200mg-mebiphar-1x10-37246.html",
+  "title": "Viên đặt âm đạo Nysiod-M 200mg Mebiphar - Austrapharm điều trị nhiễm nấm Candida (1 vỉ x 10 viên)",
+  "short_title": "NYSIOD-M 200MG MEBIPHAR 1X10",
+  "brand": {
+    "name": "Mebiphar",
+    "slug": "thuong-hieu/mebiphar",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-dat-am-dao",
+    "name": "Thuốc đặt âm đạo",
+    "parent_slug": "thuoc/thuoc-tiet-nieu-sinh-duc"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00502942_NYSIOD_M_200_MG_MEBIPHAR_1_X10_b2e98ead1b.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00502942_NYSIOD_M_200_MG_MEBIPHAR_1_X10_b2e98ead1b.png"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang mềm đặt âm đạo",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Nysiod-M là sản phẩm của Công ty Liên doanh Dược phẩm Mebiphar - Austrapharm chứa hoạt chất Miconazol nitrat được dùng để điều trị các bệnh nhiễm nấm Candida âm hộ, âm đạo.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Viên nang mềm đặt âm đạo <a href=\"https://nhathuoclongchau.com.vn/thuoc/nysiod-m-200mg-mebiphar-1x10-37246.html\">Nysiod-M</a> được dùng để điều trị các bệnh <a href=\"https://nhathuoclongchau.com.vn/benh/nam-am-dao-488.html\">nhiễm nấm Candida âm hộ</a>, âm đạo.</p><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 46449,
+      "ingredientId": 27596,
+      "shortDescription": "200mg",
+      "name": "Miconazol nitrat",
+      "isPrimary": false,
+      "slug": "thanh-phan/miconazol-nitrat"
+    }
+  ],
+  "stock_qty": 0
+}

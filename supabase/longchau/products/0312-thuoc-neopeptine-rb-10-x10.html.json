@@ -1,0 +1,67 @@
+{
+  "id": "00005214",
+  "slug": "thuoc/neopeptine-rb-10-x10.html",
+  "title": "Men tiêu hóa Neopeptine Raptakos hỗ trợ điều trị đầy hơi, khó tiêu, biếng ăn (10 vỉ x 10 viên) ",
+  "short_title": "NEOPEPTINE RAPTAKOS",
+  "brand": {
+    "name": "Raptakos",
+    "slug": "thuong-hieu/raptakos",
+    "country": "Ấn Độ"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tieu-hoa",
+    "name": "Thuốc tiêu hoá",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 2350,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005214_neopeptine_230mg_3794_63db_large_be9330563d.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005214_neopeptine_230mg_3794_63db_large_be9330563d.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005214_neopeptine_230mg_1675320691_f965ef0ae4.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005214_neopeptine_230mg_3601_63db_large_03232c06b6.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005214_neopeptine_230mg_6144_63db_large_668cef5442.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005214_neopeptine_230mg_3233_63db_large_1980f34db4.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005214_neopeptine_230mg_4695_63db_large_2f7c3b2e9a.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005214_neopeptine_230mg_4466_63db_large_e727e74ff9.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005214_neopeptine_230mg_6292_63db_large_739ae5fd28.jpg"
+  ],
+  "origin_label": "Ấn Độ",
+  "country": "Ấn Độ",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang cứng",
+  "trust_label": null,
+  "short_description": "<p>Viên nang Neopeptine&nbsp;có các men tiêu hóa là alpha - amylase và papain giúp tiêu hóa thức ăn nhanh hơn và tác dụng chống bọt khí do simethicone giúp trị đầy hơi, khó tiêu do rối loạn men, biếng ăn, ăn không tiêu, tiêu hóa kém, bụng trướng hơi, tiêu phân sống.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Neopeptine&nbsp;được chỉ định dùng trong các trường hợp sau:</p><p>Ðiều trị đầy hơi, <a href=\"https://nhathuoclongchau.com.vn/benh/kho-tieu-578.html\"><strong>khó tiêu</strong></a> do rối loạn men, biếng ăn, ăn không tiêu, tiêu hóa kém, bụng trướng hơi, tiêu phân sống.</p><h3>Dược lực học</h3><p>Viên nang Neopeptine làm giảm khó chịu và cải thiện dinh dưỡng do tác dụng của các men tiêu hóa là alpha-amylase và papain giúp tiêu hóa thức ăn nhanh hơn và tác dụng chống bọt khí do simethicone giúp trị sình bụng. Hai loại men trên bền trong cả môi trường acid lẫn kiềm. Mỗi viên nang có khả năng tiêu hóa không dưới 80g tinh bột chín và cho ra 320 kcal.</p><h3>Dược động học</h3><p>Chưa có báo cáo.</p>",
+  "ingredients_html": [
+    {
+      "id": 22509,
+      "ingredientId": 36074,
+      "shortDescription": "30mg",
+      "name": "Simethicone",
+      "isPrimary": false,
+      "slug": "thanh-phan/simethicone"
+    },
+    {
+      "id": 22510,
+      "ingredientId": 31515,
+      "shortDescription": "100mg",
+      "name": "Papain",
+      "isPrimary": false,
+      "slug": "thanh-phan/papain"
+    },
+    {
+      "id": 63531,
+      "ingredientId": 8420,
+      "shortDescription": "100mg",
+      "name": "alpha-Amylase",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

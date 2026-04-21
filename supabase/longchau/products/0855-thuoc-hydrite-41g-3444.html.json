@@ -1,0 +1,68 @@
+{
+  "id": "00003852",
+  "slug": "thuoc/hydrite-41g-3444.html",
+  "title": "Bột bù muối nước bằng đường uống Hydrite điều trị mất nước do tiêu chảy (30 gói x 4.1g)",
+  "short_title": "HYDRITE 4.1G UNITED 30 GÓI",
+  "brand": {
+    "name": "United",
+    "slug": "thuong-hieu/united",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bu-dien-giai",
+    "name": "Thuốc bù điện giải",
+    "parent_slug": "thuoc/thuoc-bo-and-vitamin"
+  },
+  "price_amount": 2600,
+  "compare_at_amount": 0,
+  "unit": "Gói",
+  "pack_note": "30 Gói x 4.1g",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/bot_bu_muoi_nuoc_hydrite_30_goi_x_4_1g_00003852_2eed653b22.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/bot_bu_muoi_nuoc_hydrite_30_goi_x_4_1g_00003852_2eed653b22.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dạng bọt",
+  "trust_label": null,
+  "short_description": "<p>Hydrite 4.1g công ty TNHH United International Pharma, thành phần chính natri clorid, natri citrate, kali clorid, glucose khan. Đây là thuốc dùng để điều trị mất nước do tiêu chảy ở trẻ em và người lớn, dùng để thay thế nước và chất điện giải mất trong các bệnh tiêu chảy cấp, nôn mửa, sốt cao, hay tiêu hao do biến dưỡng như khi luyện tập nặng nhọc và chơi thể thao.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p>Thuốc Hydrite 4.1g được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Điều trị mất nước do <a href=\"https://nhathuoclongchau.com.vn/benh/tieu-chay-133.html\">tiêu chảy</a> ở trẻ em và người lớn.</li>\n\t<li>Dùng để thay thế nước và chất điện giải mất trong các bệnh tiêu chảy cấp, nôn mửa, sốt cao, hay tiêu hao do biến dưỡng như khi luyện tập nặng nhọc và chơi thể thao.</li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p>Chưa có báo cáo.</p>\n\n<h3>Dược động học</h3>\n\n<p>Chưa có báo cáo.</p>",
+  "ingredients_html": [
+    {
+      "id": 44120,
+      "ingredientId": 29252,
+      "shortDescription": "520mg",
+      "name": "Natri clorid",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 44121,
+      "ingredientId": 29251,
+      "shortDescription": "580mg",
+      "name": "Natri citrate khan",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 44122,
+      "ingredientId": 24401,
+      "shortDescription": "300mg",
+      "name": "Kali clorid",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 44123,
+      "ingredientId": 21370,
+      "shortDescription": "2.7g",
+      "name": "Glucose",
+      "isPrimary": false,
+      "slug": "thanh-phan/glucose"
+    }
+  ],
+  "stock_qty": 0
+}

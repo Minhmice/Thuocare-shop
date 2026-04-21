@@ -1,0 +1,44 @@
+{
+  "id": "00503839",
+  "slug": "thuoc/isotisun-10-medisun-3-x10.html",
+  "title": "Thuốc Isotisun 10 Medisun điều trị các dạng mụn trứng cá nặng (3 vỉ x 10 viên)",
+  "short_title": "ISOTISUN 10 MEDISUN 3X10",
+  "brand": {
+    "name": "Medisun",
+    "slug": "thuong-hieu/medisun",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-da-lieu/thuoc-tri-mun",
+    "name": "Thuốc trị mụn",
+    "parent_slug": "thuoc/thuoc-da-lieu"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/vo_isotisun10_de15d780ce.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/vo_isotisun10_de15d780ce.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang mềm",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Isotisun 10 là sản phẩm của Medisun, có thành phần chính là Isotretinoin. Đây là thuốc được sử dụng để điều trị các dạng mụn trứng cá nặng, mụn trứng cá không đáp ứng với điều trị trước đó, đặc biệt là mụn trứng cá dạng nang bọc.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc Isotisun 10 được chỉ định dùng trong các trường hợp sau:</p><ul><li dir=\"ltr\">Các dạng mụn trứng cá nặng, mụn trứng cá không đáp ứng với điều trị trước đó, đặc biệt là mụn trứng cá dạng nang bọc.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 51305,
+      "ingredientId": 24209,
+      "shortDescription": "10mg",
+      "name": "Isotretinoin",
+      "isPrimary": false,
+      "slug": "thanh-phan/isotretinoin"
+    }
+  ],
+  "stock_qty": 0
+}

@@ -1,0 +1,44 @@
+{
+  "id": "00502601",
+  "slug": "thuoc/ritaxaban-2-5-mg-150-cophavina-1-x14.html",
+  "title": "Thuốc Ritaxaban 2.5mg Cophavina ngăn ngừa tình trạng tắc nghẽn huyết khối tĩnh mạch (1 vỉ x 14 viên)",
+  "short_title": "RITAXABAN 2.5MG 150 COPHAVINA 1X14",
+  "brand": {
+    "name": "Cophavina",
+    "slug": "thuong-hieu/cophavina",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-chong-dong-mau",
+    "name": "Thuốc chống đông máu",
+    "parent_slug": "thuoc/thuoc-tim-mach-and-mau"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 1 Vỉ x 14 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00502601_775c72e274.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00502601_775c72e274.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Ritaxaban 2.5mg là sản phẩm của Công ty Cổ phần Armephaco với thành phần chính là Rivaroxaban. Thuốc Ritaxaban 2.5mg được chỉ định trong phòng ngừa thuyên tắc khối tĩnh mạch (VTE) ở bệnh nhân sau khi phẫu thuật thay thế khớp háng hoặc khớp gối,…</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Ritaxaban 2.5mg được sử dụng để ngăn ngừa tình trạng tắc nghẽn huyết khối tĩnh mạch sau ca phẫu thuật thay thế khớp gối hoặc khớp háng ở người lớn.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 59608,
+      "ingredientId": 34929,
+      "shortDescription": "2.5mg",
+      "name": "Rivaroxaban",
+      "isPrimary": false,
+      "slug": "thanh-phan/rivaroxaban"
+    }
+  ],
+  "stock_qty": 0
+}

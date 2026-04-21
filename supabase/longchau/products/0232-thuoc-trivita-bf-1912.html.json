@@ -1,0 +1,61 @@
+{
+  "id": "00007552",
+  "slug": "thuoc/trivita-bf-1912.html",
+  "title": "Thuốc Trivita BF Pharmedic điều trị đau nhức thần kinh (10 vỉ x 10 viên)",
+  "short_title": "TRIVITA BF 250 PMD 10X10",
+  "brand": {
+    "name": "Pharmedic",
+    "slug": "thuong-hieu/pharmedic",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+    "name": "Thuốc bổ",
+    "parent_slug": "thuoc/thuoc-bo-and-vitamin"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007552_df012dd4db.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007552_df012dd4db.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007552_trivita_bf_1625795801_a7344e229f.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén",
+  "trust_label": null,
+  "short_description": "<p><strong>Thuốc Trivita BF</strong> của <em>công ty công ty cổ phần Dược liệu  Pharmedic</em>, chứa hỗn hợp các <strong><a href=\"https://nhathuoclongchau.com.vn/bai-viet/nhung-dieu-can-luu-y-khi-su-dung-vitamin-b1-48638.html\">vitamin B1</a></strong> (Thiamin mononitrat), vitamin B6 (Pyridoxinhydroclorid), <strong><a href=\"https://nhathuoclongchau.com.vn/bai-viet/he-lo-nhung-thong-tin-thu-vi-ve-vitamin-b2-46343.html\">vitamin B2</a></strong> (Riboflavin natriphosphat) được dùng trong các trường hợp đau nhức thần kinh, đau nhức gân và bắp thịt, thấp khớp; cơ thể mệt mỏi, biếng ăn, sút cân; nghiện rượu và nhiễm độc rượu.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p><strong>Thuốc Trivita BF</strong> được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Đau nhức thần kinh, đau nhức gân và bắp thịt, <strong><a href=\"https://nhathuoclongchau.com.vn/benh/thap-khop-88.html\">thấp khớp</a></strong>. </li>\n\t<li>Cơ thể mệt mỏi, biếng ăn, sút cân.</li>\n\t<li>Nghiện rượu và nhiễm độc rượu.</li>\n</ul>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Sự kết hợp ở liều cao của 3 vitamin B1, B2, B6, cải thiện nhiều chuyển hóa:</p>\n\n<ul>\n\t<li>Thiamin là coenzym cần thiết cho chuyển hóa carbohydrat. </li>\n\t<li>Riboflavin dạng hoạt tính là những coenzym cần cho phản ứng chuyển hóa oxy hoá – khử và giúp cho hoạt động của pyridoxin. </li>\n\t<li>Pyridoxin chủ yếu tham gia chuyển hóa amino acid, carbohydrat và chất béo.</li>\n</ul>\n\n<p>Sự kết hợp 3 vitamin nhóm B tan trong nước giúp cải thiện tình trạng rối loạn như đã nêu trong phần chỉ định.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Thuốc được hấp thu tốt sau khi uống. </p>\n\n<p>Thuốc phân phối đến các mô của cơ thể và hiện diện trong sữa mẹ. </p>\n\n<p>Thuốc thải trừ qua thận phần lớn ở dạng chuyển hóa. Khi dùng liều cao hơn, lượng thuốc dạng nguyên vẹn sẽ thải trừ qua nước tiểu nhiều hơn.</p>",
+  "ingredients_html": [
+    {
+      "id": 23626,
+      "ingredientId": 40316,
+      "shortDescription": "",
+      "name": "Vitamin B1",
+      "isPrimary": false,
+      "slug": "thanh-phan/vitamin-b1"
+    },
+    {
+      "id": 23627,
+      "ingredientId": 40333,
+      "shortDescription": "250mg",
+      "name": "Vitamin B6",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 23628,
+      "ingredientId": 40318,
+      "shortDescription": "2mg",
+      "name": "Vitamin B12",
+      "isPrimary": false,
+      "slug": "thanh-phan/vitamin-b12"
+    }
+  ],
+  "stock_qty": 0
+}

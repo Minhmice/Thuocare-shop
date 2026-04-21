@@ -1,0 +1,89 @@
+{
+  "id": "00007492",
+  "slug": "thuoc/traluvi-giup-be-het-mo-hoi-trom-hay-an-chong-lon-467.html",
+  "title": "Cao Lỏng Traluvi Traphaco điều trị biếng ăn, ra mồ hôi trộm (100ml)",
+  "short_title": "TRALUVI 100ML",
+  "brand": {
+    "name": "Traphaco",
+    "slug": "thuong-hieu/traphaco",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+    "name": "Thuốc bổ",
+    "parent_slug": "thuoc/thuoc-bo-and-vitamin"
+  },
+  "price_amount": 42000,
+  "compare_at_amount": 0,
+  "unit": "Chai",
+  "pack_note": "Chai x 100ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007492_traluvi_giup_be_het_mo_hoi_trom_hay_an_chong_lon_7875_5b0f_large_ade6591d37.JPG",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007492_traluvi_giup_be_het_mo_hoi_trom_hay_an_chong_lon_7875_5b0f_large_ade6591d37.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007492_traluvi_giup_be_het_mo_hoi_trom_hay_an_chong_lon_1629014500_09dd0c2051.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007492_traluvi_giup_be_het_mo_hoi_trom_hay_an_chong_lon_5147_5b0f_large_e9aa969339.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007492_traluvi_giup_be_het_mo_hoi_trom_hay_an_chong_lon_2345_5b0f_large_74d51d387d.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007492_traluvi_giup_be_het_mo_hoi_trom_hay_an_chong_lon_1127_5b0f_large_68fbb64659.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007492_traluvi_giup_be_het_mo_hoi_trom_hay_an_chong_lon_7063_5b0f_large_e31f77eaf2.JPG"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Siro",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Traluvi của <i>Công ty Cổ phần Công nghệ cao Traphaco</i>, thành phần chính là Thục địa, hoài sơn, sơn thù, mẫu đơn bì, phục linh, trạch tả. Traluvi điều trị <strong>biếng ăn, ra mồ hôi trộm</strong>, cơ thể suy nhược, gầy yếu, người nóng, phòng viêm nhiễm đường hô hấp tái phát ở trẻ em. Thuốc cũng dùng được cho người lớn <strong>gầy yếu</strong>, đau lưng, mỏi gối, ù tai, chóng mặt, di mộng tinh, háo khát, ra mổ hôi trộm.</p>",
+  "description_html": "<p><strong>Giới thiệu thuốc Traluvi:</strong></p><ul><li><strong>Chỉ định: </strong>Biếng ăn, ra mồ hôi trộm, cơ thể suy nhược, gầy yếu ở trẻ em. Thuốc cũng dùng được cho người lớn gầy yếu, đau lưng, mỏi gối.</li><li><strong>Cách dùng:</strong> Thuốc dùng đường uống, lắc kỹ trước khi dùng. Có thể pha loãng với nước chín để cho vị ngọt thích hợp.</li><li><strong>Đối tượng sử dụng: </strong>Trẻ em và người lớn.</li><li><strong>Lưu ý khi sử dụng: </strong>Sản phẩm chứa đường trắng, không sử dụng cho người bệnh tiểu đường và tiểu đường thai kỳ.</li><li><strong>Chống chỉ định: </strong>Người bị bệnh tiểu đường, đang rối loạn tiêu hóa, tiêu chảy, người tỳ vị hư hàn, người thể hàn, mẫn cảm với bất kỳ thành phần nào của thuốc.</li></ul>",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3><p><strong>Thuốc Traluvi</strong> được chỉ định dùng trong các trường hợp sau:</p><ul><li>Trẻ em: Biếng ăn, ra mồ hôi trộm, cơ thể suy nhược, gầy yếu, người nóng, phòng viêm nhiễm đường hô hấp tái phát.</li><li>Người lớn: Người gầy yếu, đau lưng, mỏi gối, ù tai, chóng mặt, di mộng tinh, háo khát, ra mồ hôi trộm.</li></ul><h3><strong>Dược lực học</strong></h3><p>Không có báo cáo.</p><h3><strong>Dược động học</strong></h3><p>Không có báo cáo.</p>",
+  "ingredients_html": [
+    {
+      "id": 26558,
+      "ingredientId": 39013,
+      "shortDescription": "12g",
+      "name": "Trạch tả",
+      "isPrimary": false,
+      "slug": "thanh-phan/trach-ta"
+    },
+    {
+      "id": 26559,
+      "ingredientId": 32516,
+      "shortDescription": "12g",
+      "name": "Phục Linh",
+      "isPrimary": false,
+      "slug": "thanh-phan/phuc-linh"
+    },
+    {
+      "id": 26560,
+      "ingredientId": 26653,
+      "shortDescription": "12g",
+      "name": "Mẫu đơn bì (Vỏ rễ)",
+      "isPrimary": false,
+      "slug": "thanh-phan/mau-don-bi"
+    },
+    {
+      "id": 26561,
+      "ingredientId": 36514,
+      "shortDescription": "16g",
+      "name": "Sơn thù",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 26562,
+      "ingredientId": 22414,
+      "shortDescription": "10g",
+      "name": "Hoài Sơn",
+      "isPrimary": false,
+      "slug": "thanh-phan/hoai-son"
+    },
+    {
+      "id": 26563,
+      "ingredientId": 38361,
+      "shortDescription": "32g",
+      "name": "Thục địa",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

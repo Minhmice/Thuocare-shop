@@ -1,0 +1,44 @@
+{
+  "id": "00500375",
+  "slug": "thuoc/zentason-hop-168ml-34492.html",
+  "title": "Thuốc Zentason 16.8ml CPC1HN điều trị triệu chứng viêm mũi dị ứng ",
+  "short_title": "ZENTASON CPC1HN 16.8ML",
+  "brand": {
+    "name": "CPC1HN",
+    "slug": "thuong-hieu/cpc1hn",
+    "country": ""
+  },
+  "category": {
+    "slug": "thuoc/thuoc-mat-tai-mui-hong/thuoc-tai-mui-hong",
+    "name": "Thuốc tai mũi họng",
+    "parent_slug": "thuoc/thuoc-mat-tai-mui-hong"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp x 16.8ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00500375_6d5c8b82f4.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00500375_6d5c8b82f4.jpg"
+  ],
+  "origin_label": "",
+  "country": "",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Hỗn dịch xịt mũi",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Zentason là sản phẩm của Công ty Cổ phần Dược phẩm CPC1 Hà Nội với thành phần chính là Mometasone Furoate. Thuốc Zentason có tác dụng điều trị triệu chứng viêm mũi dị ứng theo mùa hoặc quanh năm, điều trị polyp mũi, hỗ trợ điều trị viêm xoang.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Điều trị triệu chứng viêm mũi dị ứng theo mùa hoặc quanh năm cho người lớn, thanh thiếu niên và trẻ nhỏ từ 2 tuổi trở lên.</p><p>Ở những bệnh nhân có tiền sử viêm mũi dị ứng theo mùa với triệu chứng từ trung bình đến nặng, nên điều trị dự phòng với Zentason từ 2 - 4 tuần trước khi bắt đầu mùa dị ứng.</p><p>Điều trị polyp mũi và các triệu chứng liên quan như sung huyết và mất mùi ở bệnh nhân từ 18 tuổi trở lên.</p><p>Hỗ trợ điều trị viêm xoang.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 64456,
+      "ingredientId": 27889,
+      "shortDescription": "7mg",
+      "name": "Mometason furoat",
+      "isPrimary": true,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

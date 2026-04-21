@@ -1,0 +1,113 @@
+{
+  "id": "00033841",
+  "slug": "thuoc/bo-khi-thong-huyet-bvp-6x10-33937.html",
+  "title": "Thuốc Bổ Khí Thông Huyết BVP tăng cường lưu thông khí huyết đến não và các chi (6 vỉ x 10 viên)",
+  "short_title": "BỔ KHÍ THÔNG HUYẾT BVP 6X10",
+  "brand": {
+    "name": "BV",
+    "slug": "thuong-hieu/bv",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tang-cuong-tuan-hoan-nao",
+    "name": "Thuốc tăng cường tuần hoàn não",
+    "parent_slug": "thuoc/thuoc-tim-mach-and-mau"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 6 Vỉ x 10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00033841_bo_khi_thong_huyet_bvp_6x10_3025_6259_large_945bcd93b6.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00033841_bo_khi_thong_huyet_bvp_6x10_3025_6259_large_945bcd93b6.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00033841_bo_khi_thong_huyet_bvp_6x10_1650005997_50fbec2397.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00033841_bo_khi_thong_huyet_bvp_6x10_1804_6259_large_2e6a4616f1.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00033841_bo_khi_thong_huyet_bvp_6x10_7824_6259_large_2f8bcbd7cb.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00033841_bo_khi_thong_huyet_bvp_6x10_4270_6259_large_1b4f474f7d.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00033841_bo_khi_thong_huyet_bvp_6x10_3043_6259_large_822a0de70c.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Bổ khí thông huyết là sản phẩm của Công ty Cổ phần BV Pharma có thành phần chính là cao dược liệu khô tự nhiên như: Hoàng kỳ, đào nhân, hồng hoa, địa long. nhân sâm có tác dụng bổ&nbsp;khí, hoạt huyết, giúp cải thiện và tăng cường sự lưu thông của khí huyết đến não và các chi.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p>Bổ khí thông huyết chỉ định giúp cải thiện và tăng cường sự lưu thông của khí huyết đến não và các chi. Thuốc chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Rối loạn tuần hoàn ở não và ngoại biên như: Mệt mỏi, đau đầu, chóng mặt, suy giảm trí nhớ, kém tập trung, rối loạn giấc ngủ, tê mỏi tay chân, đau mỏi vai gáy.</li>\n\t<li>Phòng ngừa và hỗ trợ điều trị xơ vữa động mạch với các triệu chứng: Đau thắt ngực, cơ hàm, lưng khi vận động và stress.</li>\n\t<li>Phòng ngừa tai biến mạch máu não và các di chứng tai biến như: Liệt nhẹ, tay chân khó cử động, nói khó hoặc không nói được, miệng méo, lưỡi lệch.</li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p>Bổ khí thông huyết là sản phẩm dựa trên cơ sở bài cổ phương bổ dương hoàn ngũ thang với chủ dược Hoàng kỳ bố nguyên khí của tỳ vị làm khí vượng thúc đẩy hành huyết khứ ử, Địa long thông kinh hoạt lạc, Đương quy hoạt huyết, khứ ứ cùng sự hỗ trợ thêm của Xuyên khung, Xích thược, Đào nhân và Hồng hoa. Ngoài ra còn thêm 2 vị thuốc Nhân sâm và Bạch thược để tăng cường tác dụng của bài thuốc.</p>\n\n<p>Phương thuốc này được dùng để điều trị các trường hợp rối loạn tuần hoàn não, di chứng do tai biến mạch máu não, giúp tăng cường lưu thông khí huyết.</p>\n\n<h3>Dược động học</h3>\n\n<p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 33993,
+      "ingredientId": 22437,
+      "shortDescription": "760mg",
+      "name": "Hoàng kỳ",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 33994,
+      "ingredientId": 16698,
+      "shortDescription": "70mg",
+      "name": "Đào nhân",
+      "isPrimary": false,
+      "slug": "thanh-phan/dao-nhan"
+    },
+    {
+      "id": 33995,
+      "ingredientId": 22536,
+      "shortDescription": "70mg",
+      "name": "Hồng hoa",
+      "isPrimary": false,
+      "slug": "thanh-phan/hong-hoa-100124"
+    },
+    {
+      "id": 33996,
+      "ingredientId": 17449,
+      "shortDescription": "160mg",
+      "name": "Địa long",
+      "isPrimary": true,
+      "slug": "thanh-phan/dia-long"
+    },
+    {
+      "id": 33997,
+      "ingredientId": 29756,
+      "shortDescription": "50mg",
+      "name": "Nhân Sâm",
+      "isPrimary": false,
+      "slug": "thanh-phan/nhan-sam"
+    },
+    {
+      "id": 33998,
+      "ingredientId": 40801,
+      "shortDescription": "60mg",
+      "name": "Xuyên khung",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 33999,
+      "ingredientId": 10131,
+      "shortDescription": "140mg",
+      "name": "Bạch thược",
+      "isPrimary": false,
+      "slug": "thanh-phan/bach-thuoc"
+    },
+    {
+      "id": 34000,
+      "ingredientId": 18784,
+      "shortDescription": "140mg",
+      "name": "Đương quy",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 34001,
+      "ingredientId": 40744,
+      "shortDescription": "140mg",
+      "name": "Xích thược",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

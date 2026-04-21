@@ -1,0 +1,50 @@
+{
+  "id": "00041174",
+  "slug": "thuoc/catavastatin-10-mg-s-c-antibiotice-3-x10.html",
+  "title": "Thuốc Catavastatin 10mg S.C Antibiotice điều trị tăng cholesterol máu nguyên phát (3 vỉ x 10 viên)",
+  "short_title": "CATAVASTATIN 10MG S.C ANTIBIOTICE 3X10",
+  "brand": {
+    "name": "S.C Antibiotice",
+    "slug": "thuong-hieu/sc-antibiotice",
+    "country": "Romania"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tri-mo-mau",
+    "name": "Thuốc trị mỡ máu",
+    "parent_slug": "thuoc/thuoc-tim-mach-and-mau"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00172_a49dadfd55.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00172_a49dadfd55.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00173_482eeee349.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00174_2df826114d.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00175_8f116c3675.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00176_bb0d51347e.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00178_b91485146e.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00179_b1dc3be312.jpg"
+  ],
+  "origin_label": "Romania",
+  "country": "Romania",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Catavastatin 10 mg của S.C. ANTIBIOTICE S.A, thuốc có thành phần chính là Rosuvastatin. Đây là thuốc được dùng để điều trị tăng cholesterol máu nguyên phát, rối loạn lipid máu hỗn hợp, điều trị tăng cholesterol máu gia đình kiểu đồng hợp tử.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Catavastatin 10 mg được chỉ định dùng trong các trường hợp sau:</p><ul><li>Điều trị tăng cholesterol máu nguyên phát hoặc rối loạn lipid máu hỗn hợp.</li><li>Điều trị tăng cholesterol máu gia đình kiểu đồng hợp tử.</li></ul><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 58956,
+      "ingredientId": 35056,
+      "shortDescription": "10mg",
+      "name": "Rosuvastatin",
+      "isPrimary": false,
+      "slug": "thanh-phan/rosuvastatin"
+    }
+  ],
+  "stock_qty": 0
+}

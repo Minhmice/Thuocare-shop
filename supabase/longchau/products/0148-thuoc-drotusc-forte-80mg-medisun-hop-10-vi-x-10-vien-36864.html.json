@@ -1,0 +1,44 @@
+{
+  "id": "00502605",
+  "slug": "thuoc/drotusc-forte-80mg-medisun-hop-10-vi-x-10-vien-36864.html",
+  "title": "Thuốc Drotusc Forte Medisun điều trị co thắt dạ dày - ruột, hội chứng ruột bị kích thích (10 vỉ x 10 viên)",
+  "short_title": "DROTUSC FORTE 80MG MEDISUN HỘP 10 VỈ X 10 VIÊN",
+  "brand": {
+    "name": "Medisun",
+    "slug": "thuong-hieu/medisun",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat",
+    "name": "Thuốc tiêu hoá & gan mật",
+    "parent_slug": "thuoc"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 10 Vỉ x 10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/664_cc3705d23b.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/664_cc3705d23b.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Drutusc Forte là sản phẩm của Công ty cổ phần Dược phẩm&nbsp;Medisun, thành phần chính chứa <a href=\"https://nhathuoclongchau-com-vn.translate.goog/thanh-phan/drotaverine?_x_tr_sl=vi&amp;_x_tr_tl=en&amp;_x_tr_hl=en&amp;_x_tr_pto=sc\">Drotaverin</a> hydrochlorid 80mg, là thuốc dùng để giảm co thắt cơ trơn, làm giãn cơ, dùng nhiều trong các cơn co thắt dạ dày - ruột.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><ul><li dir=\"ltr\">Co thắt dạ dày-ruột. <a href=\"https://nhathuoclongchau.com.vn/benh/hoi-chung-ruot-kich-thich-118.html\">Hội chứng ruột bị kích thích</a>.</li><li>Cơn đau quặn mật và các co thắt đường mật: Sạn và sỏi đường mật và túi mật, viêm quanh túi mật, viêm đường mật.</li><li>Cơn đau quặn thận và các co thắt đường niệu-sinh dục: Sỏi thận, sỏi niệu quản, viêm bể thận, viêm bàng quang, đau co thắt bàng quang.</li><li>Đau bụng kinh.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p>Drotaverin hydroclorid là dẫn chất isoquinolein tổng hợp. Có tác dụng chống co thắt lên cơ trơn không thuộc nhóm cholin. Cơ chế tác động của thuốc là do ức chế men phosphodiesterase (PDE) IV và làm tăng nồng độ cAMP, dẫn đến giãn cơ trơn thông qua sự bất hoạt men kinase của chuỗi myosin nhẹ (MLCK).</p><p>Drotaverin ức chế men PDE IV in vitro, nhưng không ức chế isoenzym PDE II và PDE V. PDE IV có vai trò quan trọng trong việc phong bế tính co thắt của cơ trơn; dựa trên sự ức chế chọn lọc PDE IV có thể ứng dụng trong điều trị những rối loạn tăng tính vận động và bệnh có kèm co thắt cơ trơn đường tiêu hóa.</p><p>Thuốc có tác dụng với mọi trường hợp co thắt cơ trơn có nguồn gốc thần kinh và cơ.</p><p>Có tác dụng chống co thắt cơ trơn tương tự như papaverin nhưng mạnh hơn, xuất hiện sớm hơn và độc tính cũng ít hơn.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\"><i>Hấp thu:&nbsp;</i></p><p dir=\"ltr\">Thuốc hấp thu hoàn toàn qua đường uống tương đương với đường tiêm.</p><p><i>Phân bố:</i>&nbsp;</p><p>Drotaverin có tỷ lệ gắn kết cao với protein (25-98%), đặc biệt với albumin, gama và beta-globulin. Drotaverin có thể qua được hàng rào nhau thai.</p><p>Nồng độ đỉnh trong huyết tương đạt được trong khoảng 45 đến 60 phút sau khi uống và sau lần chuyển hóa đầu tiên thì 65% liều uống vào được tìm thấy dưới dạng không thay đổi trong hệ tuần hoàn.</p><p><i>Chuyển hóa:&nbsp;</i></p><p>Drotaverin được chuyển hóa ở gan. Thời gian bán hủy sinh học là 8-10 giờ.&nbsp;</p><p><i>Thải trừ:&nbsp;</i></p><p>Trên thực tế thuốc biến mất hoàn toàn trong cơ thể sau 72 giờ. Hơn 50% thuốc được bài tiết qua nước tiểu và khoảng 30% qua phân. Thuốc được bài tiết chủ yếu dưới dạng chuyển hóa chính; không tìm thấy dạng không thay đổi trong nước tiểu.&nbsp;</p>",
+  "ingredients_html": [
+    {
+      "id": 53686,
+      "ingredientId": 18642,
+      "shortDescription": "80mg",
+      "name": "Drotaverin",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

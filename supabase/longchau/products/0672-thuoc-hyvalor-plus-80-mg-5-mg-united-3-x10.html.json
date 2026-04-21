@@ -1,0 +1,52 @@
+{
+  "id": "00039165",
+  "slug": "thuoc/hyvalor-plus-80-mg-5-mg-united-3-x10.html",
+  "title": "Thuốc Hyvalor Plus United International Pharma điều trị cao huyết áp (3 vỉ x 10 viên)",
+  "short_title": "HYVALOR PLUS 80MG/5MG UNITED 3X10",
+  "brand": {
+    "name": "United",
+    "slug": "thuong-hieu/united",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap",
+    "name": "Thuốc tim mạch huyết áp",
+    "parent_slug": "thuoc/thuoc-tim-mach-and-mau"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 3 Vỉ x 10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00039165_f65ceddf09.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00039165_f65ceddf09.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Hyvalor Plus là sản phẩm của Công ty TNHH United International Pharma, có thành phần chính là Valsartan, Amlodipine. Đây là thuốc được sử dụng để điều trị cao huyết áp ở những bệnh nhân không đáp ứng với đơn trị liệu hay với bệnh nhân cần dùng phối hợp thuốc để đạt mục tiêu kiểm soát huyết áp.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Hyvalor Plus được chỉ định dùng trong các trường hợp sau:</p><ul><li>Điều trị cao huyết áp: Những bệnh nhân không đáp ứng với đơn trị liệu hay với bệnh nhân cần dùng phối hợp thuốc để đạt mục tiêu kiểm soát huyết áp.</li></ul><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 57108,
+      "ingredientId": 40025,
+      "shortDescription": "80mg",
+      "name": "Valsartan",
+      "isPrimary": false,
+      "slug": "thanh-phan/valsartan"
+    },
+    {
+      "id": 63637,
+      "ingredientId": 8862,
+      "shortDescription": "5mg",
+      "name": "Amlodipine",
+      "isPrimary": false,
+      "slug": "thanh-phan/amlodipine"
+    }
+  ],
+  "stock_qty": 0
+}

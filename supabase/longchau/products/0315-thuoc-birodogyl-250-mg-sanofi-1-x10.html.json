@@ -1,0 +1,67 @@
+{
+  "id": "00049462",
+  "slug": "thuoc/birodogyl-250-mg-sanofi-1-x10.html",
+  "title": "Thuốc Birodogyl 250mg Sanofi điều trị nhiễm trùng đường miệng cấp tính và mạn tính (1 vỉ x 10 viên)",
+  "short_title": "BIRODOGYL 250MG SANOFI 1X10",
+  "brand": {
+    "name": "Sanofi",
+    "slug": "thuong-hieu/sanofi",
+    "country": "Ý"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-khang-sinh-khang-nam/thuoc-khang-sinh",
+    "name": "Thuốc kháng sinh",
+    "parent_slug": "thuoc/thuoc-khang-sinh-khang-nam"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09901_76ade920c3.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09901_76ade920c3.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09902_0850f88edf.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09903_f176e3a3bf.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09904_5ead51c306.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09905_f04b016b3d.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09906_8f813bea21.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09907_23e4c6a8c5.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09908_0ab8f15a66.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/birodogyl_1_ffc402872e.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/birodogyl_2_cd29d3d818.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/birodogyl_3_4ba1f65706.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/birodogyl_4_d85fd0dee5.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/birodogyl_5_0b48f903ba.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/birodogyl_6_7c9db2387d.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/birodogyl_7_3a4da82b77.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/birodogyl_8_face4a350f.jpg"
+  ],
+  "origin_label": "Ý",
+  "country": "Ý",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "",
+  "description_html": "<p>Thuốc Birodogyl chỉ định chỉ giới hạn đối với các nhiễm trùng đường miệng cấp tính, mạn tính hoặc tái phát: Áp xe răng, viêm tấy, viêm mô tế bào ở hàm, viêm quanh thân răng, viêm nướu răng, viêm miệng, viêm nha chu, viêm tuyến mang tai, viêm tuyến dưới hàm trên. Điều trị dự phòng các biến chứng nhiễm trùng hậu phẫu cục bộ sau phẫu thuật răng miệng.</p>",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Birodogyl chỉ định chỉ giới hạn đối với các nhiễm trùng đường miệng cấp tính, mạn tính hoặc tái phát: Áp xe răng, viêm tấy, viêm mô tế bào ở hàm, viêm quanh thân răng, viêm nướu răng, viêm miệng, viêm nha chu, viêm tuyến mang tai, viêm tuyến dưới hàm trên. Điều trị dự phòng các biến chứng nhiễm trùng hậu phẫu cục bộ sau phẫu thuật răng miệng.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 71601,
+      "ingredientId": 27535,
+      "shortDescription": "250mg",
+      "name": "Metronidazole",
+      "isPrimary": false,
+      "slug": "thanh-phan/metronidazole"
+    },
+    {
+      "id": 71602,
+      "ingredientId": 36693,
+      "shortDescription": "1.5miu",
+      "name": "Spiramycin",
+      "isPrimary": false,
+      "slug": "thanh-phan/spiramycin"
+    }
+  ],
+  "stock_qty": 0
+}

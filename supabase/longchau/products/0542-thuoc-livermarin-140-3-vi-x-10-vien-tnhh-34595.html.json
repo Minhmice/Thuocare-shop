@@ -1,0 +1,44 @@
+{
+  "id": "00500475",
+  "slug": "thuoc/livermarin-140-3-vi-x-10-vien-tnhh-34595.html",
+  "title": "Thuốc Livermarin 140 BRV bảo vệ gan, điều trị rối loạn chức năng gan (3 vỉ x 10 viên)",
+  "short_title": "LIVERMARIN 140 BRV 3X10",
+  "brand": {
+    "name": "Brv",
+    "slug": "thuong-hieu/brv",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-benh-gan",
+    "name": "Thuốc trị bệnh gan",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 3 Vỉ x 10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/18_6f3b725ad1.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/18_6f3b725ad1.png"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang cứng",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Livermarin là sản phẩm của Công ty Cổ phần BV Pharma chứa hoạt chất Silymarin giúp bảo vệ gan, điều trị rối loạn chức năng gan.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Livermarin là sản phẩm của Công ty Cổ phần BV Pharma chứa hoạt chất Silymarin giúp bảo vệ gan, điều trị <a href=\"https://nhathuoclongchau.com.vn/bai-viet/roi-loan-chuc-nang-gan-nhung-dieu-ban-can-biet-de-bao-ve-suc-khoe-cua-la-gan.html\">rối loạn chức năng gan</a>.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 57852,
+      "ingredientId": 36065,
+      "shortDescription": "140mg",
+      "name": "Silymarin",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

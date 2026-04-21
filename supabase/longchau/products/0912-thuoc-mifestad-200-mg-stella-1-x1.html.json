@@ -1,0 +1,51 @@
+{
+  "id": "00048769",
+  "slug": "thuoc/mifestad-200-mg-stella-1-x1.html",
+  "title": "Thuốc Mifestad 200mg Stella (1 viên)",
+  "short_title": "MIFESTAD 200MG STELLA 1X1",
+  "brand": {
+    "name": "Stella Pharm",
+    "slug": "thuong-hieu/stella-pharm",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-tranh-thai",
+    "name": "Thuốc tránh thai",
+    "parent_slug": "thuoc/thuoc-tiet-nieu-sinh-duc"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 1 Vỉ x 1 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03240_4bfa3ccc48.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03240_4bfa3ccc48.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03241_db543e38f0.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03242_e4a38e5e8c.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03243_39f403c15d.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03244_e2022423f7.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03245_1673dd3917.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/Mifestad_200_1_ad7925cc12.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/Mifestad_200_2_5f2a057a56.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Mifestad có thành phần chính là Mifepristone; đây là thuốc được sử dụng để phá thai theo đúng “Hướng dẫn quốc gia về các dịch vụ chăm sóc sức khỏe sinh sản” ban hành kèm theo Quyết định số 4128/QĐ-BYT ngày 29/7/2016 của Bộ trưởng Bộ Y tế.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc Mifestad được chỉ định dùng trong các trường hợp sau:</p><ul><li dir=\"ltr\">Phá thai theo đúng “Hướng dẫn quốc gia về các dịch vụ chăm sóc sức khỏe sinh sản” ban hành kèm theo Quyết định số 4128/QĐ-BYT ngày 29/7/2016 của Bộ trưởng Bộ Y tế.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p><strong>Nhóm dược lý: Hormon sinh dục và các chất điều chỉnh hệ sinh dục khác; Chất điều chỉnh thụ thể progesteron.</strong></p><p><strong>Mã ATC: G03XB01.</strong></p><p>Mifepristone là một steroid tổng hợp có tác động đối kháng progesteron do kết quả của sự cạnh tranh với progesteron tại các thụ thể của progesteron.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Sau khi uống, nồng độ đỉnh trong huyết tương của mifepristone đạt được sau 1 - 2 giờ; sinh khả dụng khoảng 70%. Khoảng 98% mifepristone gắn kết với protein huyết tương, chủ yếu với α<sub>1</sub>-acid glycoprotein. Thuốc được thải trừ qua 2 pha; pha đầu chậm, pha thứ 2 nhanh hơn, thời gian bán thải khoảng 18 giờ. Mifepristone trải qua chuyển hóa oxy hóa ở gan, chủ yếu nhờ isoenzym CYP3A4 của hệ cytochrom P450, các chất chuyển hóa được bài tiết vào mật và đào thải qua phân. Chỉ có một lượng nhỏ được phát hiện trong nước tiểu.</p>",
+  "ingredients_html": [
+    {
+      "id": 5734,
+      "ingredientId": 27636,
+      "shortDescription": "200mg",
+      "name": "Mifepristone",
+      "isPrimary": true,
+      "slug": "thanh-phan/mifepristone"
+    }
+  ],
+  "stock_qty": 0
+}

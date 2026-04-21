@@ -1,0 +1,58 @@
+{
+  "id": "00049514",
+  "slug": "thuoc/ndp-apixan-5-mg-nadyphar-2-x10.html",
+  "title": "Thuốc NDP-Apixan 5mg Nadyphar hỗ trợ phòng ngừa đột quỵ, tăng huyết áp (2 vỉ x 10 viên)",
+  "short_title": "NDP-APIXAN 5MG NADYPHAR 2X10",
+  "brand": {
+    "name": "Nadyphar",
+    "slug": "thuong-hieu/nadyphar",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-chong-dong-mau",
+    "name": "Thuốc chống đông máu",
+    "parent_slug": "thuoc/thuoc-tim-mach-and-mau"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_01387_129f03691b.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_01387_129f03691b.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_01388_62160c563f.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_01389_b4d0880348.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_01390_92427bbd49.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_01391_ee37daaa01.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_01394_33f78744e0.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_01395_6faec4c94f.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/ndp_apixan_5_1_efd35a1a3c.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/ndp_apixan_5_2_8eb2f35b28.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/ndp_apixan_5_3_04c1a4b825.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/ndp_apixan_5_4_4d166546be.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/ndp_apixan_5_5_0a67ddf59f.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/ndp_apixan_5_6_b205bd6c10.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/ndp_apixan_5_7_17a4622401.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/ndp_apixan_5_8_f97cec2b8b.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Thuốc NDP - Apixan 5 dùng trong phòng ngừa đột quỵ và thuyên tắc mạch toàn thân ở người lớn bị rung nhĩ không do bệnh van tim (NVAF), có một hoặc nhiều yếu tố nguy cơ, như trước đó đã bị đột quỵ hoặc cơn thiếu máu não cục bộ thoáng qua (TIA); ≥ 75 tuổi; tăng huyết áp; đái tháo đường; suy tim (phân loại ≥ II, theo NYHA). Điều trị huyết khối tĩnh mạch sâu (DVT) và thuyên tắc phổi (PE), và phòng ngừa tái phát huyết khối tĩnh mạch sâu và thuyên tắc phổi ở người lớn.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc NDP - Apixan 5 dùng trong phòng ngừa đột quỵ và thuyên tắc mạch toàn thân ở người lớn bị rung nhĩ không do bệnh van tim (NVAF), có một hoặc nhiều yếu tố nguy cơ, như trước đó đã bị đột quỵ hoặc cơn thiếu máu não cục bộ thoáng qua (TIA); ≥ 75 tuổi; tăng huyết áp; đái tháo đường; suy tim (phân loại ≥ II, theo NYHA). Điều trị huyết khối tĩnh mạch sâu (DVT) và thuyên tắc phổi (PE), và phòng ngừa tái phát huyết khối tĩnh mạch sâu và thuyên tắc phổi ở người lớn.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chư có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 71670,
+      "ingredientId": 9290,
+      "shortDescription": "5mg",
+      "name": "Apixaban",
+      "isPrimary": true,
+      "slug": "thanh-phan/apixaban"
+    }
+  ],
+  "stock_qty": 0
+}

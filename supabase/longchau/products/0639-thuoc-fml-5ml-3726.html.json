@@ -1,0 +1,49 @@
+{
+  "id": "00003109",
+  "slug": "thuoc/fml-5ml-3726.html",
+  "title": "Thuốc nhỏ mắt FML Allergan điều trị viêm mí mắt, kết mạc nhãn cầu (5ml)",
+  "short_title": "FML LIQUIFILM 0.1% 5ML",
+  "brand": {
+    "name": "Allergan",
+    "slug": "thuong-hieu/allergan",
+    "country": "Hoa Kỳ"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-mat-tai-mui-hong/thuoc-nho-mat",
+    "name": "Thuốc nhỏ mắt",
+    "parent_slug": "thuoc/thuoc-mat-tai-mui-hong"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Chai",
+  "pack_note": "Chai x 5ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00003109_fml_5ml_5634_6103_large_1b93849be0.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003109_fml_5ml_5634_6103_large_1b93849be0.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003109_fml_5ml_8776_6103_large_47ad29c64f.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003109_fml_5ml_9765_6103_large_ddcee63a3d.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003109_fml_5ml_6450_6103_large_b5dd35d1fc.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003109_fml_5ml_9475_6103_large_ad20c0f6ab.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003109_fml_5ml_1825_6103_large_3ab5c21260.jpg"
+  ],
+  "origin_label": "Hoa Kỳ",
+  "country": "Hoa Kỳ",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Hỗn dịch",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Fml của Công ty sản Allergan (Ireland) sản xuất. Thuốc có thành phần chính Fluorometholon và Liquifilm (polyvinyl alcohol). Đây là thuốc nhỏ mắt dùng để điều trị viêm mí mắt, kết mạc nhãn cầu, giác mạc, bán phần trước mắt đáp ứng với steroid.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p>Các chứng viêm đáp ứng với steroid trong viêm mí mắt và viêm kết mạc nhãn cầu, <strong><a href=\"https://nhathuoclongchau.com.vn/benh/viem-giac-mac-555.html\">viêm giác mạc</a></strong> và bán phần trước nhãn cầu.</p>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Fluorometholon ức chế đáp ứng viêm gây ra do các tác nhân có bản chất cơ học, hóa học và miễn dịch học. Chưa có sự giải thích chính thức nào về cơ chế tác động của các steroid này.</p>\n\n<p>Tuy nhiên, các thuốc corticosteroid được cho là tác động thông qua sự cảm ứng phospholipase A2 ức chế protein, gọi chung là lipocortin. Người ta đã thừa nhận rằng những protein này kiểm soát sự sinh tổng hợp những chất trung gian của đáp ứng viêm như là prostaglandin và leukotrien bằng cách ức chế sự phóng thích tiền acid arachidonic của chúng.</p>\n\n<p>Acid arachidonic được phospholipase A2 phóng thích từ các màng phospholipid. Adrenocorticosteroid và chất dẫn xuất của chúng có khả năng gây tăng nhãn áp. Trong các nghiên cứu lâm sàng trên mắt của các bệnh nhân điều trị với cả dexamethason và fluorometholon, fluorometholon cho thấy có khuynh hướng tăng nhãn áp thấp hơn so với dexamethasone.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Dùng tại chỗ hỗn dịch fluorometholon 0.1% có gắn tritium đã làm tăng mức phóng xạ đỉnh trong thủy dịch sau khi nhỏ 30 phút. Nồng độ cao của chất chuyển hóa được tạo ra nhanh đã được tìm thấy cả ở thủy dịch và chất chiết từ giác mạc, cho thấy là fluorometholon có sự thay đổi về chuyển hóa vì nó thâm nhập vào giác mạc và thủy dịch.</p>",
+  "ingredients_html": [
+    {
+      "id": 42187,
+      "ingredientId": 20484,
+      "shortDescription": "1mg",
+      "name": "Fluorometholone",
+      "isPrimary": false,
+      "slug": "thanh-phan/fluorometholone"
+    }
+  ],
+  "stock_qty": 0
+}

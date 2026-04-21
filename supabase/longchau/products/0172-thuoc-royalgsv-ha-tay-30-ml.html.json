@@ -1,0 +1,44 @@
+{
+  "id": "00040484",
+  "slug": "thuoc/royalgsv-ha-tay-30-ml.html",
+  "title": "Thuốc RoyalGSV 30ml Hà Tây giảm triệu chứng viêm mũi dị ứng, ngứa, nổi mề đay mãn tính, trị ho",
+  "short_title": "ROYALGSV HÀ TÂY 30ML",
+  "brand": {
+    "name": "Hà Tây",
+    "slug": "thuong-hieu/ha-tay",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-ho-hap/siro-tri-so-mui",
+    "name": "Siro trị sổ mũi",
+    "parent_slug": "thuoc/thuoc-ho-hap"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 1 Lọ x 30ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/roygal_gsv_8cd7b28982.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/roygal_gsv_8cd7b28982.png"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch uống",
+  "trust_label": null,
+  "short_description": "<p>Thuốc RoyalGSV là sản phẩm của Công ty Cổ phần Dược phẩm Hà Tây chứa hoạt chất Desloratadine giúp làm giảm triệu chứng trong các bệnh: Viêm mũi dị ứng, ngứa, nổi mề đay mãn tính, trị ho và hỗ trợ điều trị viêm đường hô hấp trên.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc RoyalGSV chỉ định điều trị giúp làm giảm triệu chứng trong các bệnh: Viêm mũi dị ứng, ngứa, nổi mề đay mãn tính, trị ho và hỗ trợ điều trị viêm đường hô hấp trên.</p><h3>Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 59596,
+      "ingredientId": 17208,
+      "shortDescription": "0.5mg",
+      "name": "Desloratadine",
+      "isPrimary": true,
+      "slug": "thanh-phan/desloratadine"
+    }
+  ],
+  "stock_qty": 0
+}

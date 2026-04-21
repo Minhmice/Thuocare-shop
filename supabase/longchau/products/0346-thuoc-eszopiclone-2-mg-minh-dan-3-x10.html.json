@@ -1,0 +1,54 @@
+{
+  "id": "00048631",
+  "slug": "thuoc/eszopiclone-2-mg-minh-dan-3-x10.html",
+  "title": "Thuốc Eszopiclone 2mg Minh Dân điều trị chứng mất ngủ (3 vỉ x 10 viên)",
+  "short_title": "ESZOPICLONE 2MG MINH DÂN 3X10",
+  "brand": {
+    "name": "Minh Dân",
+    "slug": "thuong-hieu/minh-dan",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-than-kinh/thuoc-than-kinh",
+    "name": "Thuốc thần kinh",
+    "parent_slug": "thuoc/thuoc-than-kinh"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07093_f3339b7d3c.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07093_f3339b7d3c.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07094_7a74605ead.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07095_7ead45f49c.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07096_8607132240.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07097_50f7298cc6.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07099_0dcb770332.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07100_18727369a4.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/eszopiclone_2_0754607204.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/eszpiclone_2_2_a94ebdb1b7.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/eszopiclone_2_32_03403c8946.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/eszopiclone_2_4_ne_dbb3a0f9f5.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Eszopiclone 2 là sản phẩm của Công ty Cổ phần Dược phẩm Minh Dân có chứa thành phần chính là Eszopiclon 2mg được chỉ định để điều trị chứng mất ngủ.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Eszopiclone 2 chỉ định điều trị chứng mất ngủ.</p><h3>Dược lực học</h3><p><strong>Mã ATC: N05CF04.</strong></p><p><strong>Nhóm dược lý: Thuốc hướng tâm thần.</strong></p><p>Cơ chế tác dụng chính xác của eszopiclon như là một thuốc ngủ chưa được biết rõ, nhưng hiệu quả của nó được cho là kết quả từ sự tương tác của nó với các phức hợp cụ thể GABA tại các vùng liên kết gần hoặc kết hợp với các thụ thể benzodiazepin. Eszopiclon là một chất gây ngủ nonbenzodiazepin là dẫn chất pyrrolopyrazin của lớp cyclopyrrolon với cấu trúc hóa học không liên quan đến pyrazolopyrimidin, imidazopyridin, benzodiazepin, barbiturat hoặc các thuốc khác có đặc tính gây ngủ đã biết.</p><h3>Dược động học</h3><p><i>Hấp thu: </i>Eszopiclon được hấp thu nhanh sau khi uống. Nồng độ đỉnh trong huyết tương đạt được trong khoảng 1 giờ sau khi uống.</p><p><i>Phân bố: </i>Eszopiclon liên kết chủ yếu với protein huyết tương (từ 52% đến 59%).</p><p><i>Chuyển hóa: </i>Sau khi uống, eszopiclon được chuyển hóa rộng rãi bởi quá trình oxy hóa và demethyl hóa. Các chất chuyển hóa huyết tương chính là (S)-zopiclon-N-Oxit và (S)-N-desmethyl zopiclon. Chất chuyển hóa thứ hai liên kết với thụ thể GABA có hiệu lực thấp hơn đáng kể đối với thụ thể này. Các nghiên cứu in vitro đã chỉ ra rằng enzym CYP3A4 và CYP2E1 tham gia vào quá trình chuyển hóa eszopiclon.</p>",
+  "ingredients_html": [
+    {
+      "id": 70364,
+      "ingredientId": 19543,
+      "shortDescription": "2mg",
+      "name": "Eszopiclone",
+      "isPrimary": false,
+      "slug": "thanh-phan/eszopiclone"
+    }
+  ],
+  "stock_qty": 0
+}

@@ -1,0 +1,44 @@
+{
+  "id": "00048501",
+  "slug": "thuoc/ausvair-75-mg-reliv-3-x10.html",
+  "title": "Thuốc Ausvair 75mg Reliv điều trị đau do nguyên nhân thần kinh (3 vỉ x 10 viên)",
+  "short_title": "AUSVAIR 75MG RELIV 3X10",
+  "brand": {
+    "name": "Reliv",
+    "slug": "thuong-hieu/reliv",
+    "country": "Ấn Độ"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-than-kinh/thuoc-than-kinh",
+    "name": "Thuốc thần kinh",
+    "parent_slug": "thuoc/thuoc-than-kinh"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/aus_d031f23c7d.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/aus_d031f23c7d.jpg"
+  ],
+  "origin_label": "Ấn Độ",
+  "country": "Ấn Độ",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang cứng",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Ausvair 75 là sản phẩm có chứa thành phần chính là Pregabalin 75 mg được chỉ định để điều trị đau do nguyên nhân thần kinh: Viêm dây thần kinh ngoại vi (do bệnh đái tháo đường, sau herpes). Phối hợp với các thuốc chống co giật để điều trị động kinh cục bộ ở người lớn, rối loạn lo âu lan tỏa, đau cơ do xơ hóa.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Ausvair 75 chỉ định điều trị trong các trường hợp sau:</p><ul><li>Đau do nguyên nhân thần kinh: Viêm dây thần kinh ngoại vi (do bệnh đái tháo đường, sau herpes).</li><li>Phối hợp với các thuốc chống co giật để điều trị động kinh cục bộ ở người lớn.</li><li>Rối loạn lo âu lan tỏa.</li><li>Đau cơ do xơ hóa.</li></ul><h3>Dược lực học</h3><p>Chưa có dữ liệu</p><h3>Dược động học</h3><p>Chưa có dữ liệu</p>",
+  "ingredients_html": [
+    {
+      "id": 70297,
+      "ingredientId": 33412,
+      "shortDescription": "75mg",
+      "name": "Pregabalin",
+      "isPrimary": true,
+      "slug": "thanh-phan/pregabalin"
+    }
+  ],
+  "stock_qty": 0
+}

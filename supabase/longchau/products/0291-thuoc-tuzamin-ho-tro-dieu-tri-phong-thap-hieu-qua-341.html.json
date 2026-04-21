@@ -1,0 +1,139 @@
+{
+  "id": "00011233",
+  "slug": "thuoc/tuzamin-ho-tro-dieu-tri-phong-thap-hieu-qua-341.html",
+  "title": "Thuốc Tuzamin Mediplantex hỗ trợ điều trị phong thấp, đau lưng (3 vỉ x 10 viên)",
+  "short_title": "TUZAMIN PLANTEX 3X10",
+  "brand": {
+    "name": "Mediplantex",
+    "slug": "thuong-hieu/mediplantex",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-bo-and-vitamin/bo-xuong-khop",
+    "name": "Bổ xương khớp",
+    "parent_slug": "thuoc/thuoc-bo-and-vitamin"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 3 Vỉ x 10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6171_83c74e9da0.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6171_83c74e9da0.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6172_62d1481c0a.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6173_9a2a7e9530.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6174_4ff76031a7.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6175_6b93caf61d.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6176_9a155c49fd.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6177_7b98874460.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/tuzamin_c4c74a42a5.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang",
+  "trust_label": null,
+  "short_description": "<p>Tuzamin của công ty CP Dược Trung ương Mediplantex. Thành phần chính là cao khô hỗn hợp các dược liệu: Tục đoạn, Phòng phong, Hy thiêm, Độc hoạt, Tần giao, Đương quy, Ngưu tất, Thiên niên kiện, Hoàng kỳ, Đỗ trọng. Bột dược liệu: Bạch thược, Xuyên khung. Thuốc dùng điều trị phong thấp, đau lưng, đau dây thần kinh tọa, đau các khớp, đau cột sống.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p>Thuốc Tuzamin được chỉ định để điều trị phong thấp, <a href=\"https://nhathuoclongchau.com.vn/benh/dau-lung-64.html\">đau lưng</a>, đau dây thần kinh tọa, đau các khớp, đau cột sống.</p>\n\n<h3><b>Dược lực học</b></h3>\n\n<p>Chưa có báo cáo.</p>\n\n<h3><b>Dược động học</b></h3>\n\n<p>Chưa có báo cáo.</p>",
+  "ingredients_html": [
+    {
+      "id": 27078,
+      "ingredientId": 39632,
+      "shortDescription": "250mg",
+      "name": "Tục đoạn",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 27079,
+      "ingredientId": 32396,
+      "shortDescription": "250mg",
+      "name": "Phòng phong",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 27080,
+      "ingredientId": 22860,
+      "shortDescription": "250mg",
+      "name": "Hy thiêm",
+      "isPrimary": false,
+      "slug": "thanh-phan/hy-thiem"
+    },
+    {
+      "id": 27081,
+      "ingredientId": 18380,
+      "shortDescription": "200mg",
+      "name": "Độc hoạt",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 27082,
+      "ingredientId": 37441,
+      "shortDescription": "200mg",
+      "name": "Tần giao",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 27083,
+      "ingredientId": 18784,
+      "shortDescription": "150mg",
+      "name": "Đương quy",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 27084,
+      "ingredientId": 29714,
+      "shortDescription": "150mg",
+      "name": "Ngưu tất (Rễ)",
+      "isPrimary": false,
+      "slug": "thanh-phan/nguu-tat"
+    },
+    {
+      "id": 27085,
+      "ingredientId": 38203,
+      "shortDescription": "150mg",
+      "name": "Thiên niên kiện",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 27086,
+      "ingredientId": 22437,
+      "shortDescription": "150mg",
+      "name": "Hoàng kỳ",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 27087,
+      "ingredientId": 18363,
+      "shortDescription": "100mg",
+      "name": "Đỗ trọng",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 27088,
+      "ingredientId": 10131,
+      "shortDescription": "150mg",
+      "name": "Bạch thược",
+      "isPrimary": false,
+      "slug": "thanh-phan/bach-thuoc"
+    },
+    {
+      "id": 27089,
+      "ingredientId": 40801,
+      "shortDescription": "150mg",
+      "name": "Xuyên khung",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

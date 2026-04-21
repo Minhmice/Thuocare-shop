@@ -1,0 +1,44 @@
+{
+  "id": "00502607",
+  "slug": "thuoc/ketosan-cap-hasan-hop-3-vi-x-10-vien-36862.html",
+  "title": "Thuốc Ketosan-Cap Hasan phòng ngừa hen phế quản, điều trị viêm mũi dị ứng (3 vỉ x 10 viên)",
+  "short_title": "KETOSAN-CAP HASAN HỘP 3 VỈ X 10 VIÊN ",
+  "brand": {
+    "name": "Hasan",
+    "slug": "thuong-hieu/hasan",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-di-ung/thuoc-chong-di-ung",
+    "name": "Thuốc chống dị ứng",
+    "parent_slug": "thuoc/thuoc-di-ung"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/ketosan_cap_98f752d8c3.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/ketosan_cap_98f752d8c3.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang cứng",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Ketosan dùng trong phòng ngừa các dạng hen phế quản (bệnh hen, cơn hen, bệnh hen trong trường hợp sốt mùa và viêm phế quản dị ứng).</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p><a href=\"https://nhathuoclongchau.com.vn/thuoc/ketosan-cap-hasan-hop-3-vi-x-10-vien-36862.html\">Thuốc Ketosan-Cap</a> dùng trong các trường hợp sau:</p><ul><li>Phòng ngừa các dạng <a href=\"https://nhathuoclongchau.com.vn/benh/hen-phe-quan-160.html\">hen phế quản</a> (bệnh hen, cơn hen, bệnh hen trong trường hợp sốt mùa và viêm phế quản dị ứng). Khi bắt đầu điều trị nên tiếp tục dùng các thuốc trị hen cơ bản: giãn phế quản, theophyllin hoặc các corticoid.</li><li>Điều trị triệu chứng <a href=\"https://nhathuoclongchau.com.vn/benh/viem-mui-di-ung-473.html\">viêm mũi dị ứng</a>, dị ứng toàn thân, mồ đay, viêm da dị ứng, mẩn ngứa, viêm kết mạc dị ứng.</li></ul><p>Lưu ý: Ketotifen không được chỉ định để trị cơn hen cấp tính.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 54098,
+      "ingredientId": 24535,
+      "shortDescription": "1mg",
+      "name": "Ketotifen",
+      "isPrimary": false,
+      "slug": "thanh-phan/ketotifen"
+    }
+  ],
+  "stock_qty": 0
+}

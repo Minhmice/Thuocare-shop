@@ -1,0 +1,44 @@
+{
+  "id": "00502748",
+  "slug": "thuoc/atmurcat-4mg-20-goi-x-1g-37050.html",
+  "title": "Thuốc cốm Atmurcat 4mg Hóa Dược dự phòng và điều trị các bệnh hô hấp (20 gói x 1g)",
+  "short_title": "ATMURCAT 4MG 20 GÓI X 1G",
+  "brand": {
+    "name": "Hóa Dược",
+    "slug": "thuong-hieu/hoa-duoc",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-ho-hap/thuoc-tri-ho-cam",
+    "name": "Thuốc trị ho cảm",
+    "parent_slug": "thuoc/thuoc-ho-hap"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 20 Gói x 1g",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00502748_7783358d45.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00502748_7783358d45.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Cốm",
+  "trust_label": null,
+  "short_description": "<p>Atmurcat là sản phẩm của Công ty cổ phần hóa Dược Việt Nam với thành phần chính là Montelukast. Thuốc cốm Atmurcat được chỉ định dự phòng và điều trị các bệnh hô hấp, đặc biệt là hen phế quản mạn tính, co thắt phế quản do gắng sức, viêm mũi dị ứng theo mùa, viêm mũi dị ứng quanh năm.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Hen suyễn mãn tính: Thuốc được dùng để phòng ngừa và điều trị hen suyễn mãn tính cho bệnh nhân từ 12 tuổi trở lên, hỗ trợ kiểm soát các triệu chứng và ngăn chặn các cơn hen tái phát.</p><p>Co thắt phế quản do gắng sức: Được chỉ định cho trẻ từ 6 tuổi trở lên và người lớn bị co thắt phế quản do gắng sức, thường xảy ra khi tham gia các hoạt động thể chất hoặc lao động nặng nhọc.</p><p>Viêm mũi dị ứng: Thuốc cũng được sử dụng để điều trị viêm mũi dị ứng theo mùa cho trẻ từ 2 tuổi và viêm mũi dị ứng mạn tính quanh năm đối với bệnh nhân từ 6 tháng tuổi trở lên.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 42268,
+      "ingredientId": 27994,
+      "shortDescription": "4mg",
+      "name": "Montelukast",
+      "isPrimary": false,
+      "slug": "thanh-phan/montelukast"
+    }
+  ],
+  "stock_qty": 0
+}

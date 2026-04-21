@@ -1,0 +1,44 @@
+{
+  "id": "00044133",
+  "slug": "thuoc/caspofungin-acetate-for-injection-50-mg-vial.html",
+  "title": "Thuốc Caspofungin Acetate For Injection 50mg/per Vial điều trị nhiễm Candida, nhiễm Aspergillus",
+  "short_title": "CASPOFUNGIN ACETATE FOR INJECTION 50MG/VIAL",
+  "brand": {
+    "name": "Dr. Reddy",
+    "slug": "thuong-hieu/dr-reddy",
+    "country": "Ấn Độ"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-khang-sinh-khang-nam/thuoc-khang-virus",
+    "name": "Thuốc kháng virus",
+    "parent_slug": "thuoc/thuoc-khang-sinh-khang-nam"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/z7270807555532_3b30556a30d2b2518f04aca1c15c8225_d80a4afa22.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/z7270807555532_3b30556a30d2b2518f04aca1c15c8225_d80a4afa22.png"
+  ],
+  "origin_label": "Ấn Độ",
+  "country": "Ấn Độ",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Bột đông khô pha dung dịch tiêm",
+  "trust_label": null,
+  "short_description": "<p>Caspofungin Acetate for injection 50mg/Vial là sản phẩm của&nbsp;Gland Pharma Limited,&nbsp;thành phần chính Caspofungin,&nbsp;là thuốc dùng để điều trị nhiễm Candida, nhiễm Aspergillus.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc Caspofungin Acetate for injection 50mg/Vial được chỉ định dùng trong các trường hợp sau:</p><ul><li>Điều trị nhiễm Candida xâm nhập ở người lớn hoặc trẻ em.</li><li>Điều trị nhiễm Aspergillus xâm nhập ở người lớn hoặc trẻ em đã bị đề kháng hoặc không dung nạp với amphotericin B, các chế phẩmlipid của amphoteriein B và/hoặ citraconazole. Đề kháng được định nghĩa là sự tiến triển của nhiễm khuẩn hoặc không cải thiện sau tối thiểu 7 ngày điều trị của một liệu pháp kháng nấm hiệu quả.</li><li>Điều trị theo kinh nghiệm các trường hợp được cho là nhiễm nấm (như nhiễm Candida hoặc Aspergillus) ở người lớn hoặc trẻ em bị sốt giảm bạch cầu trung tính.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 62292,
+      "ingredientId": 13174,
+      "shortDescription": "50mg",
+      "name": "Caspofungin",
+      "isPrimary": false,
+      "slug": "thanh-phan/caspofungin"
+    }
+  ],
+  "stock_qty": 0
+}

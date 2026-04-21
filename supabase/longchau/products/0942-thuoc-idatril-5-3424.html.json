@@ -1,0 +1,44 @@
+{
+  "id": "00003906",
+  "slug": "thuoc/idatril-5-3424.html",
+  "title": "Thuốc Idatril 5mg Mebiphar điều trị tăng huyết áp và suy tim xung huyết (3 vỉ x 10 viên)",
+  "short_title": "IDATRIL 5 MBP 3X10",
+  "brand": {
+    "name": "Mebiphar",
+    "slug": "thuong-hieu/mebiphar",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap",
+    "name": "Thuốc tim mạch huyết áp",
+    "parent_slug": "thuoc/thuoc-tim-mach-and-mau"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00003906_idatril_5_6332_609e_large_96c0ca8a3d.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003906_idatril_5_6332_609e_large_96c0ca8a3d.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén",
+  "trust_label": null,
+  "short_description": "<p>Idatril 5 của Công ty TNHH MTV Dược phẩm và Sinh học Y tế (Mebiphar), thành phần chính imidapril hydroclorid, thuốc dùng để điều trị tăng huyết áp và suy tim xung huyết giai đoạn ổn định huyết động.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3><p>Thuốc Idatril 5 được chỉ định dùng trong các trường hợp sau:</p><ul><li><a href=\"https://nhathuoclongchau.com.vn/benh/cao-huyet-ap-225.html\">Tăng huyết áp</a>.</li><li><a href=\"https://nhathuoclongchau.com.vn/benh/suy-tim-314.html\">Suy tim</a> xung huyết giai đoạn ổn định huyết động.</li></ul><h3><strong>Dược lực học</strong></h3><p><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/imidapril\">Imidapril </a>là một tiền chất sau khi uống được hoạt hóa sinh học do thủy phân gốc ethyl ester tạo thành imidaprilat có hoạt tính ức chế men chuyển angiotensin mạnh và có thời gian bán hủy dài cho phép mỗi ngày chỉ cần uống 1 lần. Imidaprilat ức chế men chuyển angiotensin dẫn đến giảm angiotensin II, gây giãn mạch ngoại biên và giảm sức cản thành mạch.</p><h3><strong>Dược động học</strong></h3><p><i>Hấp thu</i></p><p>Imidaprilat là chất chuyển hóa có hoạt tính dược lý của imidapril. Sau khi uống liều duy nhất 10mg ở người khỏe mạnh, nồng độ imidapril trong huyết tương đạt đỉnh sau 2 giờ, và đào thải khỏi huyết tương với thời gian bán hủy là 2 giờ. Imidaprilat đạt nồng độ đỉnh trong huyết tương sau khi dùng từ 6 - 8 giờ khoảng 15 ng/mL và đào thải khỏi huyết tương với thời gian bán hủy là 8 giờ.</p><p><i>Phân bố</i></p><p>Imidaprilat được phân bố rộng rãi trong huyết tương và nhiều loại tế bào nội mô.</p><p><i>Chuyển hóa - thải trừ</i></p><p>Imidapril có 4 chất chuyển hóa và trong đó imidaprilat là chất có hoạt tính. Sau khi uống 1 liều duy nhất 10mg imidapril ở người khỏe mạnh, khoảng 25,5% liều imidapril được bài tiết vào nước tiểu trong 24 giờ.</p><p><i>Tích lũy</i></p><p>Khi uống liên tục 7 ngày, nồng độ imidaprilat trong huyết tương ổn định từ ngày thứ 3 - 5. Không thấy có dấu hiệu tích lũy thuốc. Đối với những người bị giảm chức năng thận thì thời gian bán thải kéo dài hơn và nồng độ imidaprilat trong huyết tương cao hơn.</p>",
+  "ingredients_html": [
+    {
+      "id": 21858,
+      "ingredientId": 23325,
+      "shortDescription": "5mg",
+      "name": "Imidapril",
+      "isPrimary": false,
+      "slug": "thanh-phan/imidapril"
+    }
+  ],
+  "stock_qty": 0
+}

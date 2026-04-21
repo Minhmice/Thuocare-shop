@@ -1,0 +1,48 @@
+{
+  "id": "00005206",
+  "slug": "thuoc/neocin-5ml-2902.html",
+  "title": "Thuốc nhỏ mắt Neocin Pharmedic điều trị viêm kết mạc, giác mạc (5ml)",
+  "short_title": "NEOCIN PMD 5ML",
+  "brand": {
+    "name": "Pharmedic",
+    "slug": "thuong-hieu/pharmedic",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-mat-tai-mui-hong/thuoc-nho-mat",
+    "name": "Thuốc nhỏ mắt",
+    "parent_slug": "thuoc/thuoc-mat-tai-mui-hong"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Chai",
+  "pack_note": "Chai x 5ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005206_neocin_5ml_7136_5c20_large_71b7bf160b.JPG",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005206_neocin_5ml_7136_5c20_large_71b7bf160b.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005206_neocin_5ml_1618576597_0d61909198.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005206_neocin_5ml_1814_5c20_large_71b80de59b.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005206_neocin_5ml_8193_5c20_large_cab8557208.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005206_neocin_5ml_6124_6079_large_d52342aaa8.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch nhỏ mắt",
+  "trust_label": null,
+  "short_description": "<p><strong>Thuốc nhỏ mắt Neocin</strong> được sản xuất bởi <i>Cổ phần Dược phẩm Dược liệu Pharmedic</i>. Thuốc nhỏ mắt Neocin có thành phần chính là <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/neomycin\"><strong>neomycin</strong></a>, thuốc được chỉ định để điều trị các bệnh nhiễm trùng ở mắt do các chủng vi khuẩn nhạy cảm với neomycin như: Viêm kết mạc, giác mạc, viêm mí mắt, viêm túi lệ, các bệnh nhiễm trùng mắt trước hoặc sau khi phẫu thuật mắt và sau chấn thương.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3><p><strong>Thuốc Neocin</strong> được chỉ định dùng trong các trường hợp sau:</p><p>Ðiều trị các bệnh nhiễm trùng ở mắt do các chủng vi khuẩn nhạy cảm với neomycin như: Viêm kết mạc, <a href=\"https://nhathuoclongchau.com.vn/benh/viem-giac-mac-555.html\"><strong>viêm&nbsp;giác mạc</strong></a>, viêm mí mắt, viêm túi lệ, các bệnh nhiễm trùng mắt trước hoặc sau khi phẫu thuật mắt và sau chấn thương.</p><h3><strong>Dược lực học</strong></h3><p><strong>Neomycin</strong> là một kháng sinh diệt khuẩn thuộc nhóm aminosid, có hoạt tính trên phần lớn những chủng gây bệnh liên quan đến nhiễm trùng mắt.&nbsp;</p><p>Phổ kháng khuẩn của Neomycin bao gồm staphylococcus, gonococcus, acinetobacter, brucella, escherichia coli, haemophilus, klebsiella, salmonella, serratia, shigella, yersinia<i>.</i></p><h3><strong>Dược động học</strong></h3><p>Neomycin hấp thu kém qua đường tiêu hoá. Sau khi dùng tại chỗ, lượng thuốc hấp thu không đủ để tạo ra tác dụng toàn thân. Sau khi hấp thu, neomycin nhanh chóng thải ra thận ở dạng hoạt tính.</p>",
+  "ingredients_html": [
+    {
+      "id": 22502,
+      "ingredientId": 29517,
+      "shortDescription": "25mg",
+      "name": "Neomycin sulfat",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

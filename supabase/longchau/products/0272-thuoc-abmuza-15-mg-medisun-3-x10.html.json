@@ -1,0 +1,44 @@
+{
+  "id": "00501395",
+  "slug": "thuoc/abmuza-15-mg-medisun-3-x10.html",
+  "title": "Thuốc Abmuza 15mg Medisun dự phòng đột quỵ và thuyên tắc mạch toàn thân (3 vỉ x 10 viên)",
+  "short_title": "ABMUZA 15MG MEDISUN 3X10",
+  "brand": {
+    "name": "Medisun",
+    "slug": "thuong-hieu/medisun",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap",
+    "name": "Thuốc tim mạch huyết áp",
+    "parent_slug": "thuoc/thuoc-tim-mach-and-mau"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00501395_d9f5ff2717.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00501395_d9f5ff2717.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Abmuza dùng trong điều trị một số bệnh lý về vấn đề huyết khối tĩnh mạch sâu, người bị thuyến tắc phổi và ngăn ngừa bệnh lý này tái phát trên các đối tượng người lớn.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p><a href=\"https://nhathuoclongchau.com.vn/thuoc/abmuza-15-mg-medisun-3-x10.html\">Thuốc Abmuza</a> dùng trong điều trị một số bệnh lý về vấn đề <a href=\"https://nhathuoclongchau.com.vn/benh/huyet-khoi-tinh-mach-sau-239.html\">huyết khối tĩnh mạch sâu</a>, người bị thuyến tắc phổi và ngăn ngừa bệnh lý này tái phát trên các đối tượng người lớn.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 41395,
+      "ingredientId": 34929,
+      "shortDescription": "15mg",
+      "name": "Rivaroxaban",
+      "isPrimary": false,
+      "slug": "thanh-phan/rivaroxaban"
+    }
+  ],
+  "stock_qty": 0
+}

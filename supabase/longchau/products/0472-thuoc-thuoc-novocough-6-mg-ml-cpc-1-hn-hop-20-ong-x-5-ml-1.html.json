@@ -1,0 +1,53 @@
+{
+  "id": "00039238",
+  "slug": "thuoc/thuoc-novocough-6-mg-ml-cpc-1-hn-hop-20-ong-x-5-ml-1.html",
+  "title": "Dung dịch uống Novocough 6mg/ml CPC1HN điều trị triệu chứng ho (20 ống x 5ml)",
+  "short_title": "THUỐC NOVOCOUGH 6MG/ML CPC1HN HỘP 20 ỐNG X 5ML",
+  "brand": {
+    "name": "CPC1HN",
+    "slug": "thuong-hieu/cpc1hn",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-ho-hap/thuoc-tri-ho-cam",
+    "name": "Thuốc trị ho cảm",
+    "parent_slug": "thuoc/thuoc-ho-hap"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 20 Ống x 5ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03327_c00ea600dc.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03327_c00ea600dc.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03322_c388ca6011.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03323_6fdbafb280.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03325_5d42d0f07e.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03326_3d676c3e75.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03328_081c1b1d15.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/Novocough_1_e71d500414.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/Novocough_2_a07e16e8d6.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/Novocough_1_bcd4c34e5f.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/Novocough_2_a07e16e8d6.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch uống",
+  "trust_label": null,
+  "short_description": "<p>Dung dịch uống Novocough là sản phẩm của Công ty Cổ phần Dược phẩm CPC1 Hà Nội chứa hoạt chất Levodropropizine giúp điều trị triệu chứng ho, ho khan.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Dung dịch uống Novocough giúp điều trị triệu chứng &nbsp;ho, ho khan.</p><h3>Dược lực học</h3><p>Nhóm dược lý: Giảm ho. Mã ATC: R05DB27.</p><p>Tác dụng ức chế ho của thuốc này chủ yếu là ngoại vi, do tác động trên phế quản.</p><p>Thuốc ít ảnh hưởng đến hệ thống thần kinh trung ương so với những thuốc chống ho có tác dụng lên trung ương thần kinh nhóm opioid.</p><h3>Dược động học</h3><p>Các nghiên cứu dược động học trên chuột, chó và nam giới khỏe mạnh. Hấp thu, phân bố, chuyển hóa và bài tiết đã được tìm thấy trong ba loài được nghiên cứu là tương tự nhau, với sinh khả dụng trên 75%.</p><p>Hấp thu nhanh và phân bố nhanh sau khi uống, hấp thu 93%. Liên kết với protein huyết tương không đáng kể (11% - 14%).</p><p>Thời gian bán hủy khoảng 1 - 2 giờ. Sự bài tiết chủ yếu qua nước tiểu. Levodropropizin bài tiết cả ở dạng chưa biến đổi và dưới dạng các chất chuyển hóa, ví dụ như levodropropizin liên hợp, như p-hydroxylevodropropiz-in tự do và liên hợp. Sự bài tiết các chất chuyển hóa qua nước tiểu trong thời gian 48 giờ là khoảng 35% liều dùng.</p><p>Các thử nghiệm, trong đó thuốc được dùng nhiều lần, một đợt điều trị kéo dài tám ngày không làm thay đổi đặc tính hấp thu và sự thải trừ của thuốc. Vì vậy, hiện tượng tích lũy hoặc tự động cảm ứng trao đổi chất có thể được loại trừ. Ngay cả ở trẻ em, ở người già và ở bệnh nhân suy thận nhẹ hoặc trung bình, không có khác biệt đáng kể về các đặc tính dược động học.</p>",
+  "ingredients_html": [
+    {
+      "id": 59690,
+      "ingredientId": 25404,
+      "shortDescription": "6mg",
+      "name": "Levodropropizine",
+      "isPrimary": true,
+      "slug": "thanh-phan/levodropropizine"
+    }
+  ],
+  "stock_qty": 0
+}

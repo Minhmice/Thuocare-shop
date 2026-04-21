@@ -1,0 +1,44 @@
+{
+  "id": "00500971",
+  "slug": "thuoc/carmotop-25mg-sc-3x10-35121.html",
+  "title": "Thuốc Carmotop 25mg Magistra C&C điều trị tăng huyết áp, đau thắt ngực (3 vỉ x 10 viên)",
+  "short_title": "CARMOTOP 25MG S.C 3X10",
+  "brand": {
+    "name": "Magistra C&C",
+    "slug": "thuong-hieu/magistra-cc",
+    "country": "Romania"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap",
+    "name": "Thuốc tim mạch huyết áp",
+    "parent_slug": "thuoc/thuoc-tim-mach-and-mau"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/carmotop_995e7f232f.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/carmotop_995e7f232f.jpg"
+  ],
+  "origin_label": "Romania",
+  "country": "Romania",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Carmotop 25mg là sản phẩm của S.C. Magistra C &amp; C SRL với thành phần chính là Metoprolol tartrat. Thuốc Carmotop 25mg được chỉ định điều trị tăng huyết áp, đau thắt ngực, loạn nhịp tim; điều trị duy trì sau nhồi máu cơ tim, hồi hộp do bệnh tim chức năng, cường giáp; dự phòng điều trị đau nửa đầu.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Carmotop 25mg được chỉ định dùng trong các trường hợp sau:</p><ul><li>Tăng huyết áp, đau thắt ngực, loạn nhịp tim.</li><li>Ðiều trị duy trì sau nhồi máu cơ tim, hồi hộp do bệnh tim chức năng, cường giáp.</li><li>Dự phòng điều trị đau nửa đầu.</li></ul><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 33529,
+      "ingredientId": 41920,
+      "shortDescription": "25mg",
+      "name": "Metoprolol tartrate",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

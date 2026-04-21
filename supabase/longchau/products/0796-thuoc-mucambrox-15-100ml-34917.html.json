@@ -1,0 +1,44 @@
+{
+  "id": "00500784",
+  "slug": "thuoc/mucambrox-15-100ml-34917.html",
+  "title": "Siro Mucambrox 15 Borshchahivskiy CPP tiêu chất nhầy trong viêm phế quản (100ml)",
+  "short_title": "MUCAMBROX 15 100ML",
+  "brand": {
+    "name": "PJSC Sic \"Borshchahivskiy CPP\"",
+    "slug": "thuong-hieu/pjsc-sic-borshchahivskiy-cpp",
+    "country": ""
+  },
+  "category": {
+    "slug": "thuoc/thuoc-ho-hap/thuoc-tri-ho-cam",
+    "name": "Thuốc trị ho cảm",
+    "parent_slug": "thuoc/thuoc-ho-hap"
+  },
+  "price_amount": 72000,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp x 100ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00500784_mucambrox_15_100ml_4755_642b_large_3687e44908.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00500784_mucambrox_15_100ml_4755_642b_large_3687e44908.jpg"
+  ],
+  "origin_label": "",
+  "country": "",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Siro",
+  "trust_label": null,
+  "short_description": "<p>Thuốc <a href=\"https://nhathuoclongchau.com.vn/thuoc/mucambrox-15-100ml-34917.html\">Mucambrox 15</a> là sản phẩm của&nbsp;PJSC Sic \"Borshchahivskiy CPP\" chứa hoạt chất&nbsp;Ambroxol hydrochlorid. Đây là thuốc dùng&nbsp;trị liệu tiêu chất nhầy trong các bệnh phế quản phối cấp và mạn tính có kèm tăng tiết dịch phế&nbsp;quản không bình thường và giảm sự khạc đờm.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Mucambrox 15 chỉ định điều trị:</p><p>Mucambrox được sử dụng trong trị liệu tiêu chất nhầy trong các bệnh phế quản phối cấp và mạn tính có kèm tăng tiết dịch phế&nbsp;quản không bình thường và giảm sự khạc đờm.</p><h3>Dược lực học</h3><p><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/ambroxol\">Ambroxol</a> là một chất chuyển hoá của <a href=\"https://nhathuoclongchau.com.vn/thuoc/bromhexin-8-4448.html\">bromhexin</a>,&nbsp;có tác dụng và công dụng tương tự như bromhexin. Ambroxol có tác dụng làm đờm lỏng hơn,&nbsp; ít quánh hơn nên dễ&nbsp;bị tống ra ngoài, vì vậy thuốc có tác dụng long đờm. Một vài tài liệu có nêu ambroxol cải thiện được triệu chứng và làm giảm số đợt cấp tính&nbsp;trong bệnh phổi tắc nghẽn mạn tính nặng.</p><p>Kết quả nghiên cứu gần đây cho thấy ambroxol có tính chất kháng viêm và có hoạt tính của chất chống oxy hoá. Ngoài ra, ambroxol còn có tác dụng gây tê tại chỗ thông qua chẹn kênh natri ở màng tế bào. Ambroxol có thể kích thích tông hợp và bài tiết chất diện hoạt phế nang. Thuốc đã được coi là một chất hoạt hoá chất diện hoạt phế nang. Tuy vậy, thuốc không có hiệu quả khi dùng cho người mẹ để phòng hội chứng suy hô hấp ở trẻ sơ sinh, nhưng thuốc có hiệu quả khiêm tốn khi điều trị sớm cho trẻ nhỏ phát bệnh.</p><h3>Dược động học</h3><p>Hoạt động của thuốc bắt đầu sau 15 phút uống thuốc và tác dụng kéo dài xấp xỉ&nbsp;10 giờ.</p><p>Thuốc được hấp thu nhanh và hoàn toàn. Nông độ đỉnh trong huyết tương đạt được trong thời gian từ 0,5 tới 3 giờ sau khi uống. Liên kết của ambroxol với protein huyết tương là 80 - 90%. Ambroxol nhanh chóng được phân bổ&nbsp;từ máu tới các mô cơ thể&nbsp;và có nồng độ cao trong phổi. Thuốc qua được hàng rào máu não và nhau thai và được tiết vào sữa mẹ.</p><p>Mucambrox được chuyển hóa ở gan qua sự liên hợp. Nửa đời bán thải là 10 tiếng; không thấy có sự tích lũy thuốc. Thuốc cũng như các chất chuyển hóa tan trong nước được thải trừ trong nước tiểu (xấp xỉ&nbsp;90%) và 5% dưới dạng không đổi. Nửa đời bán thải tăng lên ở người suy chức năng thận nặng mạn tính.</p>",
+  "ingredients_html": [
+    {
+      "id": 51607,
+      "ingredientId": 8697,
+      "shortDescription": "15mg",
+      "name": "Ambroxol",
+      "isPrimary": false,
+      "slug": "thanh-phan/ambroxol"
+    }
+  ],
+  "stock_qty": 0
+}

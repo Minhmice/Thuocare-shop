@@ -1,0 +1,60 @@
+{
+  "id": "00503768",
+  "slug": "thuoc/genprozol-vcp-10-g.html",
+  "title": "Kem bôi da Genprozol VCP điều trị các bệnh lý chàm cấp và mạn tính, viêm da tiếp xúc, viêm da dị ứng (10g)",
+  "short_title": "GENPROZOL VCP 10G",
+  "brand": {
+    "name": "Vcp",
+    "slug": "thuong-hieu/vcp",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-da-lieu/thuoc-boi-ngoai-da",
+    "name": "Thuốc bôi ngoài da",
+    "parent_slug": "thuoc/thuoc-da-lieu"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp x 10g",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00503768_747ffb65fb.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00503768_747ffb65fb.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dạng kem",
+  "trust_label": null,
+  "short_description": "<p>Kem bôi da Genprozol là sản phẩm của Công ty Cổ phần Dược phẩm VCP. Đây là thuốc dùng ngoài để điều trị các bệnh lý trên da đáp ứng với corticosteroid (như chàm cấp và mạn tính, viêm da tiếp xúc, viêm da dị ứng, viêm da tăng tiết bã nhờn, liken phẳng mạn tính, viêm da bong vảy, mề đay, bệnh vảy nến, ngứa hậu môn, vết bỏng nhẹ, vết côn trùng cắn) có kèm hoặc nghi ngờ nhiễm trùng do các vi khuẩn còn nhạy cảm với gentamicin và nhiễm nấm do các chủng còn nhạy cảm với clotrimazole.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Kem bôi da <a href=\"https://nhathuoclongchau.com.vn/thuoc/genprozol-vcp-10-g.html\">Genprozol</a> dùng trong điều trị các bệnh lý trên da đáp ứng với corticosteroid (như chàm cấp và mạn tính, viêm da tiếp xúc, <a href=\"https://nhathuoclongchau.com.vn/benh/viem-da-di-ung-1187.html\">viêm da dị ứng</a>, viêm da tăng tiết bã nhờn, liken phẳng mạn tính, viêm da bong vảy, mề đay, bệnh <a href=\"https://nhathuoclongchau.com.vn/benh/vay-nen-619.html\">vảy nến</a>, ngứa hậu môn, vết bỏng nhẹ, vết côn trùng cắn) có kèm hoặc nghi ngờ nhiễm trùng do các vi khuẩn còn nhạy cảm với gentamicin và nhiễm nấm do các chủng còn nhạy cảm với clotrimazole.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 50349,
+      "ingredientId": 21134,
+      "shortDescription": "1g",
+      "name": "Gentamicin",
+      "isPrimary": false,
+      "slug": "thanh-phan/gentamicin"
+    },
+    {
+      "id": 50350,
+      "ingredientId": 15238,
+      "shortDescription": "10mg",
+      "name": "Clotrimazole",
+      "isPrimary": false,
+      "slug": "thanh-phan/clotrimazole"
+    },
+    {
+      "id": 50351,
+      "ingredientId": 10838,
+      "shortDescription": "0.5mg",
+      "name": "Betamethasone",
+      "isPrimary": false,
+      "slug": "thanh-phan/betamethasone"
+    }
+  ],
+  "stock_qty": 0
+}

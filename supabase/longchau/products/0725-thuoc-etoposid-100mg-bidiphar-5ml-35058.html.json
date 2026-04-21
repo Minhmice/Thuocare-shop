@@ -1,0 +1,44 @@
+{
+  "id": "00500918",
+  "slug": "thuoc/etoposid-100mg-bidiphar-5ml-35058.html",
+  "title": "Thuốc Etoposid 100mg Bidiphar điều trị ung thư tinh hoàn kháng trị, u buồng trứng, u lympho (5ml)",
+  "short_title": "ETOPOSID 100MG BIDIPHAR 5ML",
+  "brand": {
+    "name": "Bidiphar",
+    "slug": "thuong-hieu/bidiphar",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-dieu-tri-ung-thu/thuoc-chong-ung-thu",
+    "name": "Thuốc chống ung thư",
+    "parent_slug": "thuoc/thuoc-dieu-tri-ung-thu"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp x 5ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/etoposid_531244dfce.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/etoposid_531244dfce.png"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch đậm đặc để pha dung dịch tiêm truyền",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Etoposid Bidiphar là sản phẩm của Công Ty cổ Phần Dược Trang thiết bị y tế Bình Định - Bidiphar &nbsp;với thành phần chính là Etoposid. Thuốc Etoposid Bidiphar được chỉ định dùng trong điều trị các bệnh ung thư như ung thư tinh hoàn kháng trị, u buồng trứng,… Thuốc còn được sử dụng để điều trị u lympho Hodgkin và không Hodgkin, điều trị củng cố bệnh bạch cầu cấp không thuộc dòng lympho (bệnh bạch cầu tủy bào) hay trong sarcoma Ewing và sarcoma Kaposi kết hợp bệnh AIDS.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p><a href=\"https://nhathuoclongchau.com.vn/thuoc/etoposid-100mg-bidiphar-5ml-35058.html\">Etoposid</a> được chỉ định để điều trị:</p><ul><li><a href=\"https://nhathuoclongchau.com.vn/benh/ung-thu-tinh-hoan-318.html\">Ung thư tinh hoàn</a> trong liệu pháp kết hợp với các tác nhân hóa trị liệu khác.</li><li><a href=\"https://nhathuoclongchau.com.vn/benh/ung-thu-phoi-428.html\">Ung thư phổi</a> tế bào nhỏ trong liệu pháp kết hợp với các tác nhân hóa trị liệu khác.</li><li>Bệnh bạch cầu nguyên bào đơn nhân (AML M5) và bệnh bạch cầu nguyên tủy bào đơn nhân ác tính (AML M4) khi liệu pháp điều trị chuẩn thất bại (liệu pháp kết hợp với các tác nhân hóa trị liệu khác).</li></ul><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 34074,
+      "ingredientId": 19802,
+      "shortDescription": "100mg",
+      "name": "Etoposide",
+      "isPrimary": false,
+      "slug": "thanh-phan/etoposide"
+    }
+  ],
+  "stock_qty": 0
+}

@@ -1,0 +1,50 @@
+{
+  "id": "00002543",
+  "slug": "thuoc/doncef-500mg-3961.html",
+  "title": "Thuốc Doncef Pymepharco điều trị nhiễm khuẩn (3 vỉ x 10 viên)",
+  "short_title": "DONCEF 500MG PYMEPHARCO 3X10",
+  "brand": {
+    "name": "Pymepharco",
+    "slug": "thuong-hieu/pymepharco",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-khang-sinh-khang-nam/thuoc-khang-sinh",
+    "name": "Thuốc kháng sinh",
+    "parent_slug": "thuoc/thuoc-khang-sinh-khang-nam"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002543_doncef_500mg_7587_5b43_large_b24732a433.JPG",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002543_doncef_500mg_7587_5b43_large_b24732a433.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002543_doncef_500mg_1625796237_caf005e16e.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002543_doncef_500mg_5131_5b43_large_bd73e6871b.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002543_doncef_500mg_4927_5b43_large_a4db439529.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002543_doncef_500mg_3155_5b43_large_1b2cc5f37d.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002543_doncef_500mg_9405_5b43_large_374c2721ee.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002543_doncef_500mg_2048_60e7_large_0ea82d9881.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang cứng",
+  "trust_label": null,
+  "short_description": "<p style=\"text-align:justify;\">Thuốc Doncef là dược phẩm của Công ty Cổ phần Pymepharco, có thành phần chính Cefradin, đây là thuốc được sử dụng trong các trường hợp nhiễm khuẩn như: Nhiễm khuẩn da, mô mềm, viêm tuyến tiền liệt và dự phòng nhiễm khuẩn khi thực hiện thủ tục ngoại khoa.</p>",
+  "description_html": "",
+  "usage_html": "<h3><b>Chỉ định</b></h3>\n\n<p>Thuốc Doncef 500mg được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>\n\t<p>Nhiễm khuẩn mô mềm và da.</p>\n\t</li>\n\t<li>\n\t<p>Nhiễm khuẩn đường hô hấp (kể cả <a href=\"https://nhathuoclongchau.com.vn/benh/viem-phoi-180.html\">viêm phổi</a> thùy do cầu khuẩn Gram dương có nhạy cảm với thuốc).</p>\n\t</li>\n\t<li>\n\t<p>Dự phòng nhiễm khuẩn khi thực hiện thủ tục ngoại khoa.</p>\n\t</li>\n\t<li>\n\t<p><a href=\"https://nhathuoclongchau.com.vn/benh/nhiem-trung-tiet-nieu-355.html\">Nhiễm khuẩn đường tiết niệu</a>.</p>\n\t</li>\n\t<li>\n\t<p><a href=\"https://nhathuoclongchau.com.vn/benh/viem-tuyen-tien-liet-373.html\">Viêm tuyến tiền liệt</a> do nhiễm khuẩn.</p>\n\t</li>\n\t<li>\n\t<p>Các bệnh nhiễm khuẩn nặng và mãn tính khác.</p>\n\t</li>\n</ul>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/cefradine\">Cefradin</a> là kháng sinh Cephalosporin bán tổng hợp, thế hệ 1. Có tác dụng diệt khuẩn do ức chế sự tổng hợp mucopeptid ở thành tế bào vi khuẩn.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Cefradin bền vững ở môi trường acid và được hấp thu gần như hoàn toàn qua đường tiêu hoá.</p>\n\n<p>Khoảng 6 – 20% cefradin liên kết với protein huyết tương.</p>\n\n<p>Thời gian bán thải huyết tương của Cefradin khoảng 0,7 – 2 giờ ở người lớn có chức năng thận bình thường.</p>\n\n<p>Cefradin được phân bố rộng rãi trong các mô và dịch thể, nhưng ít vào dịch não tuỷ.</p>\n\n<p>Thuốc qua nhau thai vào hệ tuần hoàn thai nhi và tiết vào sữa mẹ với lượng nhỏ.</p>\n\n<p>Cefradin bài tiết nguyên dạng trong nước tiểu.</p>",
+  "ingredients_html": [
+    {
+      "id": 35947,
+      "ingredientId": 13628,
+      "shortDescription": "500mg",
+      "name": "Cefradine",
+      "isPrimary": false,
+      "slug": "thanh-phan/cefradine"
+    }
+  ],
+  "stock_qty": 0
+}

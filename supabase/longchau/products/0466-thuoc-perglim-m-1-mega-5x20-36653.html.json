@@ -1,0 +1,52 @@
+{
+  "id": "00502425",
+  "slug": "thuoc/perglim-m-1-mega-5x20-36653.html",
+  "title": "Thuốc Perglim M-1 MEGA We care điều trị tiểu đường típ 2 (5 vỉ x 20 viên)",
+  "short_title": "PERGLIM M-1 MEGA 5X20",
+  "brand": {
+    "name": "MEGA We care",
+    "slug": "thuong-hieu/mega-we-care",
+    "country": "Thái Lan"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tri-tieu-duong",
+    "name": "Thuốc trị tiểu đường",
+    "parent_slug": "thuoc"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "20 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00502425_5f15024610.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00502425_5f15024610.jpg"
+  ],
+  "origin_label": "Thái Lan",
+  "country": "Thái Lan",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Perglim M-1 là sản phẩm của Inventia Healthcare Limited, có thành phần chính là Metformin, Glimepiride. Đây là thuốc được sử dụng để điều trị tiểu đường không phụ thuộc insulin (tiểu đường type II) ở bệnh nhân trên 18 tuổi, khi chế độ ăn kiêng, tập thể dục và giảm cân không kiểm soát được đường huyết. Điều trị thay thế ở những bệnh nhân tiểu đường đã điều trị ổn định với Glimepiride (1-2 mg) và Metformin (500 mg dạng phóng thích chậm).</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc Perglim M-1 được chỉ định dùng trong các trường hợp sau:</p><ul><li>Tiểu đường không phụ thuộc insulin (tiểu đường type II) ở bệnh nhân trên 18 tuổi, khi chế độ ăn kiêng, tập thể dục và giảm cân không kiểm soát được đường huyết.&nbsp;</li><li>Điều trị thay thế ở những bệnh nhân tiểu đường đã điều trị ổn định với Glimepiride (1-2 mg) và Metformin (500 mg dạng phóng thích chậm).</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 39493,
+      "ingredientId": 27124,
+      "shortDescription": "500mg",
+      "name": "Metformin",
+      "isPrimary": false,
+      "slug": "thanh-phan/metformin"
+    },
+    {
+      "id": 39494,
+      "ingredientId": 21317,
+      "shortDescription": "1mg",
+      "name": "Glimepiride",
+      "isPrimary": false,
+      "slug": "thanh-phan/glimepiride"
+    }
+  ],
+  "stock_qty": 0
+}

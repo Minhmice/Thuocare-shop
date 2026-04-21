@@ -1,0 +1,44 @@
+{
+  "id": "00500993",
+  "slug": "thuoc/amkuk-mebiphar-100ml-35135.html",
+  "title": "Dung dịch uống Amkuk 100ml Mebiphar ngăn ngừa và điều trị thiếu máu do thiếu sắt",
+  "short_title": "AMKUK MEBIPHAR 100ML",
+  "brand": {
+    "name": "Mebiphar",
+    "slug": "thuong-hieu/mebiphar",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+    "name": "Thuốc bổ",
+    "parent_slug": "thuoc/thuoc-bo-and-vitamin"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp x 100ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/amkik_305c26c979.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/amkik_305c26c979.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch uống",
+  "trust_label": null,
+  "short_description": "<p>Dung dịch uống Amkuk là sản phẩm của Mebiphar - Công ty TNHH một thành viên dược phẩm và sinh học y tế, thành phần chính là Sắt (III) hydroxide polymaltose. Dung dịch uống Amkuk được chỉ định để ngăn ngừa và điều trị thiếu máu do thiếu sắt.&nbsp;</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Dung dịch uống Amkuk được chỉ định dùng trong các trường hợp sau:</p><ul><li>Ngăn ngừa và điều trị thiếu máu do thiếu sắt.&nbsp;</li></ul><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 45044,
+      "ingredientId": 35596,
+      "shortDescription": "50mg",
+      "name": "Sắt",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

@@ -1,0 +1,44 @@
+{
+  "id": "00502366",
+  "slug": "thuoc/lozibin-500-mg-balkanpharma-1-x3.html",
+  "title": "Thuốc Lozibin 500mg Balkanpharma điều trị viêm nhiễm đường hô hấp dưới, trên (1 vỉ x 3 viên)",
+  "short_title": "LOZIBIN 500MG BALKANPHARMA 1X3",
+  "brand": {
+    "name": "Balkan Pharma",
+    "slug": "thuong-hieu/balkan-pharma",
+    "country": "Bulgaria"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-khang-sinh-khang-nam/thuoc-khang-sinh",
+    "name": "Thuốc kháng sinh",
+    "parent_slug": "thuoc/thuoc-khang-sinh-khang-nam"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "3 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00502366_a59ca61058.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00502366_a59ca61058.jpg"
+  ],
+  "origin_label": "Bulgaria",
+  "country": "Bulgaria",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang cứng",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Lozibin 500mg là sản phẩm của Balkanpharma (Antibiotic)-Razgrad AD với thành phần chính là Azithromycin. Thuốc Lozibin 500mg được chỉ định để điều trị các viêm nhiễm do vi khuẩn gây ra trên hệ thống hô hấp, tiết niệu; viêm nhiễm trên da, mô mềm và khắc phục nhiều bệnh lý nghiêm trọng qua đường tình dục.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Viêm đường hô hấp dưới:</p><ul><li>Viêm phế quản.</li><li>Viêm phổi.</li></ul><p>Viêm đường hô hấp trên:</p><ul><li>Viêm xoang.</li><li>Viêm họng.</li><li>Viêm tai giữa.</li><li>Viêm mũi.</li><li>Viêm amidan.</li></ul><p>Viêm nhiễm trên da, mô mềm:</p><ul><li>Chốc lở.</li><li>Mụn nhọt.</li><li>Bệnh mủ da.</li></ul><p>Điều trị các bệnh lây truyền qua quan hệ.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 47744,
+      "ingredientId": 9994,
+      "shortDescription": "500mg",
+      "name": "Azithromycin",
+      "isPrimary": false,
+      "slug": "thanh-phan/azithromycin"
+    }
+  ],
+  "stock_qty": 0
+}

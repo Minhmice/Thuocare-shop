@@ -1,0 +1,89 @@
+{
+  "id": "00007371",
+  "slug": "thuoc/timi-roitin-1986.html",
+  "title": "Thuốc Tmi Roitin bổ sung các vitamin nhóm B (24 vỉ x 5 viên)",
+  "short_title": "TIMI ROITIN PHIL 24X5",
+  "brand": {
+    "name": "Phil",
+    "slug": "thuong-hieu/phil",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-bo-and-vitamin/bo-xuong-khop",
+    "name": "Bổ xương khớp",
+    "parent_slug": "thuoc/thuoc-bo-and-vitamin"
+  },
+  "price_amount": 4379,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "5 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007371_timi_roitin_3917_5bd9_large_e3686d741b.JPG",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007371_timi_roitin_3917_5bd9_large_e3686d741b.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007371_timi_roitin_1630739771_80ab324d11.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007371_timi_roitin_3599_5bd9_large_7cc1b2798b.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007371_timi_roitin_2403_5bd9_large_61ea37b112.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/00007371_timi_roitin_6997_5bd9_large_e294f723fb.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007371_timi_roitin_6738_5bd9_large_d5c2a4f13f.JPG"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang mềm",
+  "trust_label": null,
+  "short_description": "<p><strong>Timi Roitin</strong> của <em>Công ty TNHH Phil Inter Pharma</em>, thành phần chính là chondroitin sulfate natri, nicotinamide, fursultiamine, riboflavin, pyridoxine HCl và calci pantothenate. Timi Roitin là thuốc bổ sung các <strong><a href=\"https://nhathuoclongchau.com.vn/bai-viet/6-vitamin-nhom-b-pho-bien-nhat-hien-nay-48132.html\">vitamin nhóm B</a></strong> trong các trường hợp nghiện rượu, ốm nặng, biếng ăn, cơ thể suy nhược, mỏi cơ, viêm miệng, viêm lưỡi, bệnh đường ruột (như tiêu chảy, viêm ruột); điều trị viêm dây thần kinh ngoại biên, viêm đa dây thần kinh, tê chân tay, đau lưng, đau do thoái hóa khớp (viêm khớp), khô mắt, đau nhức mắt.</p>\n\n<p>Timi Roitin được bào chế dưới dạng viên nang mềm, đóng gói theo quy cách 12 vỉ x 5 viên nang mềm/hộp hoặc 24 vỉ x 5 viên nang mềm/hộp.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<ul>\n\t<li>Bổ sung các vitamin nhóm B trong các trường hợp nghiện rượu, ốm nặng, biếng ăn, cơ thể suy nhược, mỏi cơ, viêm miệng, viêm lưỡi, bệnh đường ruột (như tiêu chảy, viêm ruột).</li>\n\t<li>Điều trị viêm dây thần kinh ngoại biên, viêm đa dây thần kinh, tê chân tay, đau lưng, đau do thoái hóa khớp (<strong><a href=\"https://nhathuoclongchau.com.vn/benh/viem-khop-253.html\">viêm khớp</a></strong>), <strong><a href=\"https://nhathuoclongchau.com.vn/benh/kho-mat-548.html\">khô mắt</a></strong>, đau nhức mắt.</li>\n</ul>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Chưa có báo cáo.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Chưa có báo cáo.</p>",
+  "ingredients_html": [
+    {
+      "id": 23524,
+      "ingredientId": 14605,
+      "shortDescription": "90mg",
+      "name": "Chondroitin",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 23525,
+      "ingredientId": 29896,
+      "shortDescription": "50mg",
+      "name": "Nicotinamid",
+      "isPrimary": false,
+      "slug": "thanh-phan/nicotinamid"
+    },
+    {
+      "id": 23526,
+      "ingredientId": 20819,
+      "shortDescription": "50mg",
+      "name": "Fursultiamine",
+      "isPrimary": false,
+      "slug": "thanh-phan/fursultiamine"
+    },
+    {
+      "id": 23527,
+      "ingredientId": 34748,
+      "shortDescription": "6mg",
+      "name": "Riboflavin",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 23528,
+      "ingredientId": 33933,
+      "shortDescription": "25mg",
+      "name": "Pyridoxine",
+      "isPrimary": false,
+      "slug": "thanh-phan/pyridoxine"
+    },
+    {
+      "id": 23529,
+      "ingredientId": 12384,
+      "shortDescription": "15mg",
+      "name": "Calcium Pantothenate",
+      "isPrimary": false,
+      "slug": "thanh-phan/calcium-pantothenate"
+    }
+  ],
+  "stock_qty": 0
+}

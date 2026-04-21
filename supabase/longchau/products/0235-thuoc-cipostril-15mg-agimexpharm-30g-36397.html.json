@@ -1,0 +1,55 @@
+{
+  "id": "00502188",
+  "slug": "thuoc/cipostril-15mg-agimexpharm-30g-36397.html",
+  "title": "Thuốc mỡ Cipostril 1.5mg Agimexpharm điều trị tại chỗ vảy nến mảng mức độ nhẹ đến vừa (30g)",
+  "short_title": "CIPOSTRIL 1.5MG AGIMEXPHARM 30G",
+  "brand": {
+    "name": "Agimexpharm",
+    "slug": "thuong-hieu/agimexpharm",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-da-lieu/thuoc-boi-ngoai-da",
+    "name": "Thuốc bôi ngoài da",
+    "parent_slug": "thuoc/thuoc-da-lieu"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp x 30g",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03784_9438068a94.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03784_9438068a94.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03788_c9dbd23f86.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03784_9438068a94.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03785_1637e39340.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03786_a73bd1f7c2.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03787_6c46f24234.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03788_c9dbd23f86.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03789_65c30ec1d9.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03790_d4a6bd316c.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03791_c47f3a4e61.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03792_4f0d14eadb.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/cipostril_706b165852.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Thuốc mỡ",
+  "trust_label": null,
+  "short_description": "<p>Thuốc&nbsp;Cipostril là sản phẩm của Công ty Cổ phần Dược phẩm Agimexpharm có thành phần chính là Calcipotriol. Thuốc dùng điều trị tại chỗ vảy nến mảng mức độ nhẹ đến vừa.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3><p><a href=\"https://nhathuoclongchau.com.vn/thuoc/cipostril-15mg-agimexpharm-30g-36397.html\">Thuốc&nbsp;Cipostril</a> chỉ định điều trị trong các trường hợp sau:</p><ul><li>Điều trị tại chỗ vảy nến mảng mức độ nhẹ đến vừa.</li></ul><h3><strong>Dược lực học</strong></h3><p><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/calcipotriol\">Calcipotriol</a> là một dẫn chất tổng hợp của Vitamin D3. Calcipotriol tạo ra sự biệt hóa tế bào và ức chế sự tăng sinh của tế bào sừng. Có tác dụng điều trị vảy nến.</p><p>Tác dụng đầu tiên hết là trên sự bong tróc da, sau đó là trên sự tích tụ của các tế bào bất thường và cuối cùng là trên vùng da ban đỏ, các tác dụng này được ghi nhận sau 2 – 4 tuần điều trị.&nbsp;Hiệu quả tối đa thường đạt được sau 6 tuần.</p><h3><strong>Dược động học</strong></h3><p>Dữ liệu từ một nghiên cứu duy nhất gồm 5 bệnh nhân bệnh vảy nến được điều trị với 0,3 – 1,7g thuốc mỡ calcipotriol cho thấy rằng ít hơn 1% liều được hấp thụ.&nbsp;</p><p>Tuy nhiên, tổng lượng thu hồi trong khoảng thời gian trên 96 giờ dao động từ 6,7 đến 32,6% so với lượng ghi trên nhãn.&nbsp;Không có dữ liệu về&nbsp;phân bố mô&nbsp;<sup>3</sup>H hoặc bài tiết từ phổi.</p>",
+  "ingredients_html": [
+    {
+      "id": 40503,
+      "ingredientId": 12309,
+      "shortDescription": "1.5mg",
+      "name": "Calcipotriol",
+      "isPrimary": false,
+      "slug": "thanh-phan/calcipotriol"
+    }
+  ],
+  "stock_qty": 0
+}

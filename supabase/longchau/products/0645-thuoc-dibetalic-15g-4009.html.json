@@ -1,0 +1,63 @@
+{
+  "id": "00002414",
+  "slug": "thuoc/dibetalic-15g-4009.html",
+  "title": "Thuốc Dibetalic Traphaco điều trị các bệnh ngoài da (15g)",
+  "short_title": "DIBETALIC 15G",
+  "brand": {
+    "name": "Traphaco",
+    "slug": "thuong-hieu/traphaco",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-da-lieu/thuoc-boi-ngoai-da",
+    "name": "Thuốc bôi ngoài da",
+    "parent_slug": "thuoc/thuoc-da-lieu"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Tuýp",
+  "pack_note": "Tuýp x 15g",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_3123_9b72fdfcee.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_3123_9b72fdfcee.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002414_dibetalic_15g_1626112343_35c7c99b9a.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/IMG_3116_d032db5e65.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_3117_9e498cc5e5.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_3118_f3d866d6b7.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_3119_05407622f4.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_3120_5e7e978dbe.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/IMG_3121_5ea4b643a6.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_3122_54404fda5a.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_3124_43e808cce5.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/IMG_3125_1_426aed5efd.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_3126_5d31875192.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Thuốc mỡ",
+  "trust_label": null,
+  "short_description": "<p style=\"text-align:justify;\">Dibetalic của Công ty Cổ phần Traphaco, có thành phần chính là Betamethason dipropionate và acid salicylic.</p>\n\n<p style=\"text-align:justify;\">Đây là thuốc dùng để điều trị các bệnh ngoài da đáp ứng với corticoid có đặc tính dày sừng và tróc vảy. Đặc biệt các bệnh do Lichen hoá, viêm da dị ứng kinh niên, viêm da tiết bã nhờn ở da đầu, vẩy nến, Eczema, á sừng.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p>Thuốc Dibetalic được chỉ định dùng trong các trường hợp sau:</p>\n\n<p>Ðiều trị <a href=\"https://nhathuoclongchau.com.vn/bai-viet/cac-benh-ngoai-da-thuong-gap-o-nguoi-lon-can-biet-de-phong-tranh-58135.html\">các bệnh ngoài da</a> đáp ứng với corticoid có đặc tính dày sừng và tróc vảy. Đặc biệt các bệnh do Lichen hoá, <a href=\"https://nhathuoclongchau.com.vn/benh/viem-da-di-ung-1187.html\">viêm da dị ứng</a> kinh niên, viêm da tiết bã nhờn ở da đầu, <a href=\"https://nhathuoclongchau.com.vn/benh/vay-nen-619.html\">vẩy nến</a>, Eczema, á sừng.</p>\n\n<h3>Dược lực học</h3>\n\n<p><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/betamethasone\">Betamethason dipropionat</a> là corticosteroid tổng hợp có tác dụng chống viêm, chống ngứa.</p>\n\n<p>Acid salicylic ở nồng độ cao trên da có tác dụng thay đổi môi trường da tại nơi bôi thuốc: Thay đổi pH của da, tróc lớp sừng của da... điều này làm bất lợi cho sự phát triển của vi khuẩn và vi nấm trên da.</p>\n\n<h3>Dược động học</h3>\n\n<p>Betamethason dipropionate dễ được hấp thu khi dùng tại chỗ, phân bố nhanh chóng vào tất cả các mô trong cơ thể. Thuốc qua nhau thai và có thể vào sữa mẹ với một lượng nhỏ. Betamethason được chuyển hóa chủ yếu qua gan và bài xuất qua nước tiểu.</p>\n\n<p>Acid salicylic được hấp thu dễ dàng qua da và bài tiết chậm qua nước tiểu.</p>",
+  "ingredients_html": [
+    {
+      "id": 21019,
+      "ingredientId": 10843,
+      "shortDescription": "9.6mg",
+      "name": "Betamethasone dipropionate",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 21020,
+      "ingredientId": 35358,
+      "shortDescription": "0.45g",
+      "name": "Salicylic acid",
+      "isPrimary": false,
+      "slug": "thanh-phan/salicylic-acid"
+    }
+  ],
+  "stock_qty": 0
+}

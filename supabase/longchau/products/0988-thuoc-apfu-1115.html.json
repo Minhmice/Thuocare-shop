@@ -1,0 +1,46 @@
+{
+  "id": "00011354",
+  "slug": "thuoc/apfu-1115.html",
+  "title": "Thuốc Apfu 200mg USP điều trị các nhiễm khuẩn hô hấp (1 vỉ x 10 viên)",
+  "short_title": "APFU USP 1X10",
+  "brand": {
+    "name": "Usp",
+    "slug": "thuong-hieu/usp",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-khang-sinh-khang-nam/thuoc-khang-sinh",
+    "name": "Thuốc kháng sinh",
+    "parent_slug": "thuoc/thuoc-khang-sinh-khang-nam"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00011354_apfu_2251_5b27_large_e7559c66e0.JPG",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00011354_apfu_2251_5b27_large_e7559c66e0.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00011354_apfu_1354_5b27_large_e3b47109c7.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00011354_apfu_6113_5b27_large_fbbc033f44.JPG"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang cứng",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Apfu được sản xuất bởi Công ty TNHH US pharma USA, có thành phần chính là Cefpodoxim. Thuốc Apfu được chỉ định để điều trị các nhiễm khuẩn hô hấp như viêm tai giữa cấp, viêm xoang, viêm amidan, viêm họng, viêm phế quản; viêm phổi cấp tính mắc phải tại cộng đồng; nhiễm lậu cầu cấp chưa có biến chứng; nhiễm khuẩn đường tiết niệu thể nhẹ và vừa chưa có biến chứng; nhiễm khuẩn da và các tổ chức da từ nhẹ đến vừa.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p>Thuốc Apfu được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Để điều trị các nhiễm khuẩn hô hấp: Viêm tai giữa cấp, viêm xoang, viêm amidan, viêm họng, viêm phế quản.</li>\n\t<li>Viêm phổi cấp tính mắc phải tại cộng đồng.</li>\n\t<li>Nhiễm lậu cầu cấp chưa có biến chứng.</li>\n\t<li>Nhiễm khuẩn đường tiết niệu thể nhẹ và vừa chưa có biến chứng.</li>\n\t<li>Nhiễm khuẩn da và các tổ chức da từ nhẹ đến vừa.</li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p>Cefpodoxim là kháng sinh nhóm Cephalosporin thế hệ 3 có phổ kháng khuẩn rộng dùng đường uống. Thuốc có độ bền vững cao đối với beta lactamase, có tác dụng trên cả vi khuẩn Gram (-) và Gram (+). Các VK Gram (-) nhạy cảm với cefpodoxim bao gồm các chủng sinh beta lactamase và không sinh beta lactamase: <em>H. influenzae, E. Coli, Neisseria meningitidis, Nesseria gonorrhoea, Proteus mirabilis, Klebsiella.</em></p>\n\n<p>Các chủng vi khuẩn Gram (+) nhạy cảm bao gồm: <em>Staphylococcus aureus, Streptococcus pyogenes, Streptococcus preumonia, Streptococcus. spp</em> khác...</p>\n\n<p>Cơ chế tác dụng: cefpodoxim ức chế tổng hợp thành tế bào vi khuẩn nhờ sự acyl hóa các enzymes transpeptidase gắn kết màng ngăn cản sự gắn liên kết chéo của các chuỗi peptidoglycan của thành tế bào vi khuẩn.</p>\n\n<h3>Dược động học</h3>\n\n<p><em>Hấp thu:</em> Sau khi uống Cefpodoxim proxetil được hấp thu và thủy phân nhanh thành Cefpodoxim. Thức ăn làm tăng khả năng hấp thu của thuốc. Nồng độ đỉnh trong huyết tương đạt được sau khi uống 2-3 giờ, sinh khả dụng của cefpodoxim khoảng 50%.</p>\n\n<p><em>Phân bố:</em> Thuốc liên kết với protein huyết tương khoảng 40%.</p>\n\n<p><em>Thải trừ:</em> Thuốc được thải trừ qua thận dưới dạng không biến đổi, khoảng 33% liều dùng được bài tiết qua nước tiểu.</p>",
+  "ingredients_html": [
+    {
+      "id": 24539,
+      "ingredientId": 13621,
+      "shortDescription": "200mg",
+      "name": "Cefpodoxime",
+      "isPrimary": false,
+      "slug": "thanh-phan/cefpodoxime"
+    }
+  ],
+  "stock_qty": 0
+}

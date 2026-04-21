@@ -1,0 +1,73 @@
+{
+  "id": "00002256",
+  "slug": "thuoc/dau-phat-linh-truong-son-15ml-4080.html",
+  "title": "Dầu Phật Linh Trường Sơn điều trị cảm, ho, sổ mũi, nhức đầu, say nắng (10 chai x 1.5ml)",
+  "short_title": "DẦU PHẬT LINH 1.5ML",
+  "brand": {
+    "name": "Trường Sơn",
+    "slug": "thuong-hieu/truong-son",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/mieng-dan-cao-xoa-dau/dau-gio",
+    "name": "Dầu gió",
+    "parent_slug": "thuoc/mieng-dan-cao-xoa-dau"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Chai",
+  "pack_note": "10 Chai x 1.5ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002256_dau_phat_linh_truong_son_15ml_7065_5af9_large_5d811da61e.JPG",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002256_dau_phat_linh_truong_son_15ml_7065_5af9_large_5d811da61e.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/van_ung_dau_phat_linh_415f1e3305.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002256_dau_phat_linh_truong_son_15ml_8671_5af9_large_792f16a21e.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002256_dau_phat_linh_truong_son_15ml_8185_5af9_large_3e99239760.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002256_dau_phat_linh_truong_son_15ml_5128_5af9_large_28c6cbca0a.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002256_dau_phat_linh_truong_son_15ml_1027_6110_large_ecd0094658.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch",
+  "trust_label": null,
+  "short_description": "<p>Dầu Gió Phật Linh Trường Sơn 1.5ml của Công Ty Cổ Phần Đông Nam Dược Trường Sơn giúp trị cảm ho, sổ mũi, nhức đầu, đau bụng, chóng mặt, nhức mỏi tay chân, say sóng khi đi tàu xe, buồn nôn, sưng viêm, trật gân, đau răng, nhức răng, có tác dụng làm tan máu tụ, nhức mỏi, giảm đau trong, bong gân và phong tê thấp.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3><p><a href=\"https://nhathuoclongchau.com.vn/thuoc/dau-phat-linh-truong-son-15ml-4080.html\">Dầu Phật Linh 1,5ml</a>&nbsp;được chỉ định dùng trong các trường hợp sau:</p><p>Chuyên trị các bệnh: Cảm, ho, sổ mũi, <a href=\"https://nhathuoclongchau.com.vn/benh/nhuc-dau-24.html\">nhức đầu</a>, say nắng, trúng gió, say tàu xe, buồn nôn, đau bụng, sưng viêm, nhức mỏi, muỗi chích, kiến cắn, tê thấp tay chân.</p><p>Có tác dụng làm tan máu tụ, giảm đau trong, bong gân và phong tê thấp.</p><h3><strong>Dược lực học</strong></h3><p>Chưa có báo cáo về dược lực học của Dầu Gió Phật Linh Trường Sơn.</p><h3><strong>Dược động học</strong></h3><p>Chưa có báo cáo về dược động học của Dầu Gió Phật Linh Trường Sơn.</p>",
+  "ingredients_html": [
+    {
+      "id": 34210,
+      "ingredientId": 38658,
+      "shortDescription": "2mg",
+      "name": "Tinh dầu bạc hà",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 34211,
+      "ingredientId": 18014,
+      "shortDescription": "3mg",
+      "name": "Đinh hương",
+      "isPrimary": false,
+      "slug": "thanh-phan/dinh-huong"
+    },
+    {
+      "id": 34212,
+      "ingredientId": 25837,
+      "shortDescription": "2",
+      "name": "Long não",
+      "isPrimary": false,
+      "slug": "thanh-phan/long-nao"
+    },
+    {
+      "id": 34213,
+      "ingredientId": 24622,
+      "shortDescription": "2ml",
+      "name": "Khuynh diệp",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

@@ -1,0 +1,44 @@
+{
+  "id": "00032980",
+  "slug": "thuoc/quancity-500mg-quapharco-2-vi-x-10-vien-33100.html",
+  "title": "Thuốc Quancity Quapharco phục hồi chức năng cho bệnh nhân sau bệnh đột quỵ, thiếu máu cục bộ (2 vỉ x 10 viên)",
+  "short_title": "QUANCITY 500MG QUAPHARCO 2X10",
+  "brand": {
+    "name": "Quapharco",
+    "slug": "thuong-hieu/quapharco",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tang-cuong-tuan-hoan-nao",
+    "name": "Thuốc tăng cường tuần hoàn não",
+    "parent_slug": "thuoc/thuoc-tim-mach-and-mau"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 2 Vỉ x 10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/9_e4af0f0bef.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/9_e4af0f0bef.png"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Quancity giúp phục hồi chức năng cho bệnh nhân sau bệnh đột quỵ, thiếu máu cục bộ, chứng Alzheimer hay là xuất huyết não. Với các biến chứng như bị suy giảm trí nhớ, nhận thức hay là bị mất trí nhớ. Các tổn thương ở hệ thần kinh, dây thần kinh cột sống và chấn thương não.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p><a href=\"https://nhathuoclongchau.com.vn/thuoc/quancity-500mg-quapharco-2-vi-x-10-vien-33100.html\">Thuốc Quancity</a> giúp phục hồi chức năng cho bệnh nhân sau bệnh <a href=\"https://nhathuoclongchau.com.vn/benh/dot-quy-680.html\">đột quỵ</a>, thiếu máu cục bộ, chứng Alzheimer hay là xuất huyết não. Với các biến chứng như bị <a href=\"https://nhathuoclongchau.com.vn/benh/suy-giam-tri-nho-623.html\">suy giảm trí nhớ</a>, nhận thức hay là bị mất trí nhớ. Các tổn thương ở hệ thần kinh, dây thần kinh cột sống và chấn thương não.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 57884,
+      "ingredientId": 14947,
+      "shortDescription": "500mg",
+      "name": "Citicoline",
+      "isPrimary": false,
+      "slug": "thanh-phan/citicoline"
+    }
+  ],
+  "stock_qty": 0
+}

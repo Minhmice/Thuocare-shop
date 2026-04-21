@@ -1,0 +1,51 @@
+{
+  "id": "00008069",
+  "slug": "thuoc/vocfor-1742.html",
+  "title": "Thuốc Vocfor 4mg Medisun điều trị đau sau phẫu thuật (3 vỉ x 10 viên)",
+  "short_title": "VOCFOR 4 3X10",
+  "brand": {
+    "name": "Medisun",
+    "slug": "thuong-hieu/medisun",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem/thuoc-giam-dau-khang-viem",
+    "name": "Thuốc giảm đau kháng viêm",
+    "parent_slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00008069_vocfor_9992_63d7_large_7ced11d4ea.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00008069_vocfor_9992_63d7_large_7ced11d4ea.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00008069_vocfor_1675047703_d99b8f3bc8.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00008069_vocfor_7272_63d7_large_18b4889977.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00008069_vocfor_3421_63d7_large_b4f852ea0e.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00008069_vocfor_8712_63d7_large_14f7e2f4f8.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00008069_vocfor_1976_63d7_large_e788d1ecb6.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00008069_vocfor_4219_63d7_large_11b4e5a13c.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00008069_vocfor_4360_63d7_large_c7ec712c36.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p><strong>Thuốc Vocfor</strong> là sản phẩm của Medisun có thành phần chính là <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/lornoxicam\"><strong>Lornoxicam</strong></a> có công dụng điều trị ngắn hạn cơn đau cấp tính, giảm đau&nbsp;viêm xương khớp, giảm triệu chứng đau và viêm do viêm khớp dạng thấp.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3><p><strong>Thuốc Vocfor</strong> chỉ định điều trị trong các trường hợp sau:</p><ul><li>Điều trị ngắn hạn cơn đau cấp tính từ nhẹ đến trung bình.</li><li>Giảm triệu chứng đau và viêm trong viêm xương khớp.</li><li>Giảm triệu chứng đau và viêm do <a href=\"https://nhathuoclongchau.com.vn/benh/viem-khop-dang-thap-254.html\"><strong>viêm khớp dạng thấp.</strong></a></li></ul><h3><strong>Dược lực học</strong></h3><p>Lornoxicam (chlortenoxicam), là thuốc kháng viêm không steroid mới (NSAID) của nhóm oxicam, tác dụng giảm đau, chống viêm và hạ sốt. Cơ chế hoạt động của lornoxicam một phần dựa trên sự ức chế sự tổng hợp prostaglandin ức chế enzyme cyclo - oxygenase).</p><h3><strong>Dược động học</strong></h3><p>Lornoxicam được hấp thu nhanh chóng và gần như hoàn toàn qua đường tiêu hóa. Nồng độ tối đa (Cmax) đạt được sau khoảng 1 đến 2 giờ (Tmax). Sinh khả dụng tuyệt đối (tính theo AUC) củalonoxicam là 90 - 100%. Thời gian bán thải trung bình là 3 - 4 giờ. Lormoxicam liên kết với protein huyết tương khoảng 99% và không phụ thuộc nồng độ. Lornoxicam được chuyển hóa hoàn toàn, khoảng 2/3 được đào thải qua gan và 1/3 qua thận dưới dạng chất không hoạt động. Lornoxicam được chuyển hóa bởi cytochrome P450 2C9. Thức ăn sẽ làm giảm Cmax của Lormoxicam 30% tăng Tmax lên 1,5 đến 2,3 giờ và giảm 20% AUC. Dùng đồng thời với thuốc kháng acid không gây ảnh hưởng đến dược động học của Lornoxicam.</p>",
+  "ingredients_html": [
+    {
+      "id": 23837,
+      "ingredientId": 25891,
+      "shortDescription": "4mg",
+      "name": "Lornoxicam",
+      "isPrimary": false,
+      "slug": "thanh-phan/lornoxicam"
+    }
+  ],
+  "stock_qty": 0
+}

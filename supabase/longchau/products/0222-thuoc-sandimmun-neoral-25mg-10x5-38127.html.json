@@ -1,0 +1,44 @@
+{
+  "id": "00503724",
+  "slug": "thuoc/sandimmun-neoral-25mg-10x5-38127.html",
+  "title": "Thuốc Sandimmun Neoral 25mg ức chế miễn dịch, chống đào thải sau ghép tạng (10 vỉ x 5 viên)",
+  "short_title": "SANDIMMUN NEORAL 25MG 10X5",
+  "brand": {
+    "name": "Novartis",
+    "slug": "thuong-hieu/novartis",
+    "country": "Thụy Sĩ"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-dieu-tri-ung-thu/thuoc-chong-ung-thu",
+    "name": "Thuốc chống ung thư",
+    "parent_slug": "thuoc/thuoc-dieu-tri-ung-thu"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 10 Vỉ x 5 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/sandimum_96709fb904.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/sandimum_96709fb904.jpg"
+  ],
+  "origin_label": "Thụy Sĩ",
+  "country": "Thụy Sĩ",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang mềm",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Sandimmun Neoral 25mg là sản phẩm của công ty Novartis Pharma Stein AG, có chứa thành phần chính là Cyclosporine 25 mg. Thuốc có tác dụng ức chế miễn dịch, được dùng cho bệnh nhân sau ghép tạng như ghép gan, ghép thận, bệnh nhân ung thư máu sau quá trình lọc máu nhiều lần.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p><a href=\"https://nhathuoclongchau.com.vn/thuoc/sandimmun-neoral-25mg-10x5-38127.html\"><strong>Thuốc Sandimmun Neoral 25mg</strong></a> được chỉ định dùng trong các trường hợp sau:</p><p><strong>Chỉ định trong ghép tạng</strong></p><p><i>Ghép tạng đặc</i></p><p>Ngăn ngừa thải bỏ mảnh ghép sau khi ghép tạng đặc.</p><p>Điều trị thải ghép tế bào ở bệnh nhân trước đây đã dùng những thuốc ức chế miễn dịch khác.</p><p><i>Ghép tủy xương</i></p><p>Ngăn ngừa sự thải mảnh ghép sau khi dị ghép tủy xương và ghép tế bào gốc.</p><p>Ngăn ngừa hoặc điều trị bệnh mảnh ghép chống lại vật chủ (GVHD).</p><p><strong>Chỉ định trong các bệnh không ghép tạng</strong></p><p><i>Viêm màng bồ đào nội sinh</i></p><p>Điều trị <a href=\"https://nhathuoclongchau.com.vn/benh/viem-mang-bo-dao-983.html\"><strong>viêm màng bồ đào</strong></a> trung gian hoặc màng bồ đào sau đe dọa thị giác và có nguồn gốc không nhiễm khuẩn ở bệnh nhân mà cách trị liệu thông thường đã thất bại hoặc gây nên những tác dụng phụ không thể chấp nhận được.</p><p>Điều trị viêm màng bồ đào beheet với những cơn viêm lặp đi lặp lại ảnh hưởng đến võng mạc ở những bệnh nhân không có các biểu hiện thần kinh.</p><p><i>Hội chứng thận hư</i></p><p><a href=\"https://nhathuoclongchau.com.vn/benh/hoi-chung-than-hu-354.html\"><strong>Hội chứng thận hư</strong></a> phụ thuộc steroid và kháng steroid do các bệnh ở cầu thận như bệnh thận sang thương tối thiểu, xơ hóa cầu thận khu trú từng phần hoặc viêm cầu thận màng.</p><p>Sandimmun neoral có thể được dùng để tạo tác dụng thuyên giảm bệnh và duy trì bệnh ổn định. Cũng có thể dùng để duy trì sự thuyên giảm do điều trị bằng steroid, cho phép ngừng dùng steroid.</p><p><i>Viêm khớp dạng thấp</i></p><p>Điều trị <a href=\"https://nhathuoclongchau.com.vn/benh/viem-khop-dang-thap-254.html\"><strong>viêm khớp dạng thấp</strong></a> nặng, đang hoạt động.</p><p><i>Bệnh vảy nến</i></p><p>Điều trị bệnh vảy nến nặng ở những bệnh nhân mà cách trị liệu thông thường là không thích hợp hoặc không hiệu quả.</p><p><i>Viêm da cơ địa</i></p><p>Sandimun Neoral được chỉ định cho bệnh nhân bị <a href=\"https://nhathuoclongchau.com.vn/benh/viem-da-co-dia-535.html\"><strong>viêm da cơ địa</strong></a> nặng khi cần phải điều trị toàn thân.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 50141,
+      "ingredientId": 14783,
+      "shortDescription": "25mg",
+      "name": "Ciclosporin",
+      "isPrimary": false,
+      "slug": "thanh-phan/ciclosporin"
+    }
+  ],
+  "stock_qty": 0
+}

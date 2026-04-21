@@ -1,0 +1,72 @@
+{
+  "id": "00005644",
+  "slug": "thuoc/osteomed-tablets-2744.html",
+  "title": "Viên nén Osteomed Meyer bổ sung canxi, Magne, kẽm, vitamin D3 và khoáng chất (2 vỉ x 15 viên)",
+  "short_title": "OSTEOMED MEYER 2X15",
+  "brand": {
+    "name": "Meyer",
+    "slug": "thuong-hieu/meyer",
+    "country": "Ấn Độ"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+    "name": "Thuốc bổ",
+    "parent_slug": "thuoc/thuoc-bo-and-vitamin"
+  },
+  "price_amount": 4467,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "15 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005644_osteomed_tablets_2262_5b3a_large_53586907a6.JPG",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005644_osteomed_tablets_2262_5b3a_large_53586907a6.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005644_osteomed_tablets_1627395937_d82d885d0f.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005644_osteomed_tablets_2574_5b3a_large_659445e830.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005644_osteomed_tablets_8007_5b3a_large_09abe1b1f9.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005644_osteomed_tablets_4483_5b3a_large_6ef8eac665.JPG"
+  ],
+  "origin_label": "Ấn Độ",
+  "country": "Ấn Độ",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Osteomed được sản xuất bởi&nbsp;Meyer Organics Pvt (Ấn Độ), với thành phần chính gồm&nbsp;<a href=\"https://nhathuoclongchau.com.vn/thanh-phan/calcium-carbonate\">Calcium carbonate</a>, Magnesium hydroxide, Zinc sulphate monohydrate và Vitamin D3.&nbsp;Thuốc được dùng để bổ sung Calci, Magne, Kẽm và Vitamin D3 trong chế độ ăn&nbsp;ở những tình trạng thiếu hụt khoáng chất.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p>Thuốc Osteomed được chỉ định dùng trong trường hợp bổ sung Calci, Magne, Kẽm và Vitamin D3 trong chế độ ăn, ở những tình trạng thiếu hụt khoáng chất. </p>\n\n<p>Đặc biệt khuyến cáo trong các tình trạng thiếu hụt Calci, Magne, Kẽm và Vitamin D3 sau:</p>\n\n<ul>\n\t<li>\n\t<p>Trong thời kỳ <a href=\"https://nhathuoclongchau.com.vn/benh/man-kinh-nu-485.html\">mãn kinh</a> và sau mãn kinh.</p>\n\t</li>\n\t<li>\n\t<p>Trẻ đang lớn.</p>\n\t</li>\n\t<li>\n\t<p>Phụ nữ mang thai và cho con bú.</p>\n\t</li>\n\t<li>\n\t<p>Người lớn tuổi.</p>\n\t</li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p>Chưa có thông tin.</p>\n\n<h3>Dược động học</h3>\n\n<p>Chưa có thông tin.</p>",
+  "ingredients_html": [
+    {
+      "id": 22673,
+      "ingredientId": 12344,
+      "shortDescription": "",
+      "name": "Calcium Carbonate",
+      "isPrimary": false,
+      "slug": "thanh-phan/calcium-carbonate"
+    },
+    {
+      "id": 22674,
+      "ingredientId": 26346,
+      "shortDescription": "150mg",
+      "name": "Magnesium hydroxide",
+      "isPrimary": false,
+      "slug": "thanh-phan/magnesium-hydroxide"
+    },
+    {
+      "id": 22675,
+      "ingredientId": 41014,
+      "shortDescription": "5mg",
+      "name": "Zinc sulfate",
+      "isPrimary": false,
+      "slug": "thanh-phan/zinc-sulfate"
+    },
+    {
+      "id": 22676,
+      "ingredientId": 40361,
+      "shortDescription": "100IU",
+      "name": "Vitamin D3",
+      "isPrimary": false,
+      "slug": "thanh-phan/vitamin-d3"
+    }
+  ],
+  "stock_qty": 0
+}

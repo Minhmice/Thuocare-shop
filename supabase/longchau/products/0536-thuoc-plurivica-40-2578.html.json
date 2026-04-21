@@ -1,0 +1,102 @@
+{
+  "id": "00006006",
+  "slug": "thuoc/plurivica-40-2578.html",
+  "title": "Cốm Plurivica Nadyphar phòng ngừa và điều trị thiếu vitamin và calci (40g)",
+  "short_title": "PLURIVICA NDP 40G - CỐM",
+  "brand": {
+    "name": "Nadyphar",
+    "slug": "thuong-hieu/nadyphar",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-tang-cuong-suc-de-khang",
+    "name": "Thuốc tăng cường sức đề kháng",
+    "parent_slug": "thuoc/thuoc-bo-and-vitamin"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Chai",
+  "pack_note": "Chai x 40g",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006006_plurivica_40_3343_5b59_large_bc0095c0a6.JPG",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006006_plurivica_40_3343_5b59_large_bc0095c0a6.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006006_plurivica_40_4805_5b59_large_c1a23b99e1.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/11_fab14c13a1.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Thuốc cốm",
+  "trust_label": null,
+  "short_description": "<p>Plurivica 40g được sản xuất bởi Công ty Cổ phần Dược phẩm 2/9 - Nadyphar, có thành phần chính là calci gluconat, vitamin B12, vitamin B1, vitamin B2, vitamin D2, vitamin PP, vitamin B5, calcium, calci pantothenat. Plurivica 40g được sử dụng trong trường hợp tình trạng suy nhược do thiếu vitamin và calci.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p>Plurivica 40g được dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Tình trạng suy nhược do thiếu vitamin và calci (dành cho trẻ em và cả người lớn).</li>\n</ul>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Chưa có báo cáo.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Chưa có báo cáo.</p>",
+  "ingredients_html": [
+    {
+      "id": 47331,
+      "ingredientId": 40316,
+      "shortDescription": "20mg",
+      "name": "Vitamin B1",
+      "isPrimary": false,
+      "slug": "thanh-phan/vitamin-b1"
+    },
+    {
+      "id": 47332,
+      "ingredientId": 40324,
+      "shortDescription": "5mg",
+      "name": "Vitamin B2",
+      "isPrimary": false,
+      "slug": "thanh-phan/vitamin-b2"
+    },
+    {
+      "id": 47333,
+      "ingredientId": 40333,
+      "shortDescription": "50mg",
+      "name": "Vitamin B6",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 47334,
+      "ingredientId": 40318,
+      "shortDescription": "100mcg",
+      "name": "Vitamin B12",
+      "isPrimary": false,
+      "slug": "thanh-phan/vitamin-b12"
+    },
+    {
+      "id": 47335,
+      "ingredientId": 40393,
+      "shortDescription": "100mg",
+      "name": "Vitamin PP",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 47336,
+      "ingredientId": 40360,
+      "shortDescription": "2000IU",
+      "name": "Vitamin D2",
+      "isPrimary": false,
+      "slug": "thanh-phan/vitamin-d2"
+    },
+    {
+      "id": 47337,
+      "ingredientId": 12273,
+      "shortDescription": "656mg",
+      "name": "Calci gluconat",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 47338,
+      "ingredientId": 12285,
+      "shortDescription": "4.5g",
+      "name": "Calci phosphat",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

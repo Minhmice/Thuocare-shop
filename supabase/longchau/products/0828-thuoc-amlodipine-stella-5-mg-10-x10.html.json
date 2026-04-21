@@ -1,0 +1,44 @@
+{
+  "id": "00038181",
+  "slug": "thuoc/amlodipine-stella-5-mg-10-x10.html",
+  "title": "Thuốc Amlodipine 5mg Stella Pharm điều trị tăng huyết áp, đau thắt ngực ổn định mạn tính (10 vỉ x 10 viên)",
+  "short_title": "AMLODIPINE STELLA 5MG 10X10",
+  "brand": {
+    "name": "Stella Pharm",
+    "slug": "thuong-hieu/stella-pharm",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap",
+    "name": "Thuốc tim mạch huyết áp",
+    "parent_slug": "thuoc/thuoc-tim-mach-and-mau"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/1_9b66e7ca1f.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/1_9b66e7ca1f.png"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Amlodipine là một thuốc chẹn dòng ion calci (thuốc chẹn kênh chậm hay chất đối vận ion calci) và ức chế dòng ion calci qua màng tế bào vào trong các tế bào cơ tim và cơ trơn mạch máu. Thuốc được chỉ định điều trị tăng huyết áp, đau thắt ngực ổn định mạn tính, đau thắt ngực do co thắt mạch (đau thắt ngực Prinzmetal).</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Amlodipine chỉ định điều trị trong các trường hợp sau:</p><ul><li>Điều trị tăng huyết áp.</li><li>Đau thắt ngực ổn định mạn tính.</li><li>Đau thắt ngực do co thắt mạch (đau thắt ngực Prinzmetal).</li></ul><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 57105,
+      "ingredientId": 8862,
+      "shortDescription": "5mg",
+      "name": "Amlodipine",
+      "isPrimary": false,
+      "slug": "thanh-phan/amlodipine"
+    }
+  ],
+  "stock_qty": 0
+}

@@ -1,0 +1,44 @@
+{
+  "id": "00038702",
+  "slug": "thuoc/rabepagi-10-mg-agimexpharm-6-x10.html",
+  "title": "Thuốc Rabepagi 10 Agimexpharm điều trị loét tá tràng - dạ dày cấp tính (6 vỉ x 10 viên)",
+  "short_title": "RABEPAGI 10MG AGIMEXPHARM 6X10",
+  "brand": {
+    "name": "Agimexpharm",
+    "slug": "thuong-hieu/agimexpharm",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-da-day",
+    "name": "Thuốc dạ dày",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/rabep_23ac95e65c.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/rabep_23ac95e65c.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Rabepagi 10 là sản phẩm của Công ty Cổ phần Dược phẩm Agimexpharm chứa hoạt chất Rabeprazol sodium dùng trong điều trị: Loét tá tràng cấp tính, loét dạ dày lành tính cấp tính, hội chứng trào ngược dạ dày – thực quản có hoặc không có viêm thực quản, loét hoặc trầy xước, hội chứng Zollinger – Ellison. Loét hành tá tràng và loét dạ dày lành tính: Kết hợp với liệu trình kháng sinh thích hợp để diệt Helicobacter pylori.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Rabepagi 10 chỉ định điều trị trong các trường hợp sau:</p><ul><li>Loét tá tràng cấp tính.</li><li>Loét dạ dày lành tính cấp tính.</li><li>Hội chứng trào ngược dạ dày – thực quản có hoặc không có viêm thực quản, loét hoặc trầy xước.</li><li>Hội chứng Zollinger – Ellison.</li><li>Loét hành tá tràng và loét dạ dày lành tính: Kết hợp với liệu trình kháng sinh thích hợp để diệt Helicobacter pylori.</li></ul><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 54303,
+      "ingredientId": 34212,
+      "shortDescription": "10mg",
+      "name": "Rabeprazol sodium",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

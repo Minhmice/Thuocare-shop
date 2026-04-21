@@ -1,0 +1,63 @@
+{
+  "id": "00002504",
+  "slug": "thuoc/dogarlic-tra-xanh-300mg-260.html",
+  "title": "Thuốc Dogarlic Trà Xanh Domesco hạ cholesterol, điều hòa triglyceride (100 viên)",
+  "short_title": "DOGARLIC TRÀ XANH DMC 100V",
+  "brand": {
+    "name": "Domesco",
+    "slug": "thuong-hieu/domesco",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-da-day",
+    "name": "Thuốc dạ dày",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 100 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002504_dogarlic_tra_xanh_300mg_9933_5c66_large_b04e48be5b.JPG",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002504_dogarlic_tra_xanh_300mg_9933_5c66_large_b04e48be5b.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002504_dogarlic_tra_xanh_300mg_9680_5b16_large_f52da29646.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002504_dogarlic_tra_xanh_300mg_3053_5b16_large_5c38c3f9f4.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002504_dogarlic_tra_xanh_300mg_3026_5c66_large_380aec1914.JPG"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén",
+  "trust_label": null,
+  "short_description": "<p>Dogarlic Trà Xanh được sản xuất bởi Công ty Cổ phần xuất nhập khẩu&nbsp;Y tế Domesco, với thành phần chính tỏi, nghệ và trà xanh. Đây&nbsp;là thuốc dùng để hạ cholesterol, điều hòa triglyceride, phòng bệnh <a href=\"https://nhathuoclongchau.com.vn/benh/thap-khop-88.html\">thấp khớp</a>. Thuốc còn được dùng để phòng và hỗ trợ điều trị viêm loét dạ dày gây bởi helicobacter pylori.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p>Thuốc Dogarlic Trà Xanh được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Hạ cholesterol, điều hòa <a href=\"https://nhathuoclongchau.com.vn/bai-viet/chi-so-mo-mau-triglyceride-la-gi-va-cac-bien-chung-nguy-hiem-62665.html\">triglyceride</a>, phòng bệnh thấp khớp.</li>\n\t<li>Phòng và hỗ trợ điều trị viêm loét dạ dày gây bởi helicobacter pylori.</li>\n</ul>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Tỏi có tác dụng chống <a href=\"https://nhathuoclongchau.com.vn/benh/xo-vua-dong-mach-429.html\">xơ vữa động mạch</a>, hạ lipid máu, chống sự tăng huyết áp, chống lại sự kết tập tiểu cầu, giãn mạch và là chất chống oxy hóa hiệu quả.</p>\n\n<p>Trà xanh có tác dụng lợi tiểu, kích thích ăn ngon, chữa tiêu chảy, chống oxy hóa, chống <a href=\"https://nhathuoclongchau.com.vn/benh/benh-tieu-duong-289.html\">đái tháo đường</a>.</p>\n\n<p>Nghệ có tác dụng làm giảm cholesterol và lipid máu, kháng khuẩn, chống viêm, chống oxy hóa, chống loét dạ dày và rối loạn tiêu hóa.</p>\n\n<p>Qua kết quả nghiên cứu dược lý lâm sàng về tác dụng kháng khuẩn helicobacter pyloricủa Dogarlic Trà Xanh cho thấy có tác dụng kháng khuẩn helicobacter pylori ở cả hai đối tượng nhiễm khuẩn dù có hay không có triệu chứng viêm loét dạ dày. Hiệu năng của chế phẩm tỷ lệ thuận với liều lượng và thời gian điều trị. Tác dụng tuy không rõ ràng trong 2 tuần đầu nhưng tích lũy với hiệu năng mong muốn sau 4 tuần sử dụng.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Chưa có báo cáo.</p>",
+  "ingredients_html": [
+    {
+      "id": 27413,
+      "ingredientId": 14025,
+      "shortDescription": "175mg",
+      "name": "Chè xanh",
+      "isPrimary": false,
+      "slug": "thanh-phan/che-xanh"
+    },
+    {
+      "id": 27414,
+      "ingredientId": 29628,
+      "shortDescription": "30mg",
+      "name": "Nghệ",
+      "isPrimary": false,
+      "slug": "thanh-phan/nghe"
+    },
+    {
+      "id": 27415,
+      "ingredientId": 38883,
+      "shortDescription": "380mg",
+      "name": "Tỏi",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

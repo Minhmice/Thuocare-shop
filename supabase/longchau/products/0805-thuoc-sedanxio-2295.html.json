@@ -1,0 +1,48 @@
+{
+  "id": "00006620",
+  "slug": "thuoc/sedanxio-2295.html",
+  "title": "Thuốc Sedanxio Tilman điều trị chứng lo âu, mất ngủ (5 vỉ x 10 viên)",
+  "short_title": "SEDANXIO",
+  "brand": {
+    "name": "Tilman",
+    "slug": "thuong-hieu/tilman",
+    "country": "Bỉ"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-than-kinh/thuoc-an-than",
+    "name": "Thuốc an thần",
+    "parent_slug": "thuoc/thuoc-than-kinh"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006620_sedanxio_1787_5b27_large_dd3386077e.JPG",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006620_sedanxio_1787_5b27_large_dd3386077e.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006620_sedanxio_2693_5b27_large_a77934ff02.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006620_sedanxio_4620_5b27_large_3981a5092e.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006620_sedanxio_7744_5b27_large_c46bb41be0.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006620_sedanxio_8577_5b27_large_4bcb561969.JPG"
+  ],
+  "origin_label": "Bỉ",
+  "country": "Bỉ",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang cứng",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Sedanxio sản xuất bởi Công ty Tilman S.a. Thuốc được bào chế từ cao khô lạc tiên. Thuốc Sedanxio giúp chữa chứng lo âu, mất ngủ ở người lớn và trẻ em trên 12 tuổi.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p>Thuốc Sedanxio được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Chữa chứng bệnh hay lo âu, mất ngủ ở người lớn và trẻ em trên 12 tuổi.</li>\n</ul>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Alcaloid toàn phần chiết từ cây lạc tiên đã được chứng minh là có tác dụng làm giảm hoạt động của chuột nhắt trắng được kích thích do dùng cafein và kéo dài thời gian gây ngủ của hexobarbital, là thuốc an thần, chống co thắt. Ở Châu Âu dịch chiết cây<em> Passiflora incarnata </em>L. (Ghi trong Dược điển Pháp).</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Chưa có tài liệu nào nghiên cứu.</p>",
+  "ingredients_html": [
+    {
+      "id": 23223,
+      "ingredientId": 41965,
+      "shortDescription": "200mg",
+      "name": "Cao khô chiết ethanol 60% của cây Lạc tiên",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

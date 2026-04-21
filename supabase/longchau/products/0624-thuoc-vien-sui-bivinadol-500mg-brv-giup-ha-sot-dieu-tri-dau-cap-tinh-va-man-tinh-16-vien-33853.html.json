@@ -1,0 +1,49 @@
+{
+  "id": "00033765",
+  "slug": "thuoc/vien-sui-bivinadol-500mg-brv-giup-ha-sot-dieu-tri-dau-cap-tinh-va-man-tinh-16-vien-33853.html",
+  "title": "Thuốc sủi bọt Bivinadol 500mg BRV giảm đau, hạ sốt (4 vỉ x 4 viên)",
+  "short_title": "BIVINADOL 500MG BRV 4X4",
+  "brand": {
+    "name": "Brv",
+    "slug": "thuong-hieu/brv",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem/thuoc-giam-dau-ha-sot",
+    "name": "Thuốc giảm đau hạ sốt",
+    "parent_slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem"
+  },
+  "price_amount": 32000,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 4 Vỉ x 4 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00033765_bivinadol_500mg_brv_4x4_4335_624f_large_f738860084.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00033765_bivinadol_500mg_brv_4x4_4335_624f_large_f738860084.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00033765_bivinadol_500mg_brv_4x4_1649402021_3742e77f11.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00033765_bivinadol_500mg_brv_4x4_2110_624f_large_5b0f83cddd.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00033765_bivinadol_500mg_brv_4x4_1116_624f_large_feba8bc1d0.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00033765_bivinadol_500mg_brv_4x4_9588_624f_large_10a88db2bf.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00033765_bivinadol_500mg_brv_4x4_5977_624f_large_7bd876ea85.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén sủi bọt",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Bivinadol là sản phẩm của Công ty TNHH BRV Healthcare có thành phần chính là Paracetamol dùng giảm đau đầu, đau răng, đau bụng kinh, đau thần kinh, đau khớp và đau cơ; hạ sốt.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p><a href=\"https://nhathuoclongchau.com.vn/thuoc/vien-sui-bivinadol-500mg-brv-giup-ha-sot-dieu-tri-dau-cap-tinh-va-man-tinh-16-vien-33853.html\">Viên sủi Bivinadol</a> chỉ định điều trị trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Điều trị các chứng đau cấp tính và mạn tính như: Đau đầu, đau răng, <a href=\"https://nhathuoclongchau.com.vn/benh/dau-bung-kinh-567.html\">đau bụng kinh</a>, đau thần kinh, đau khớp và đau cơ.</li>\n\t<li>Hạ sốt ở bệnh nhân bị cảm hay những bệnh có liên quan tới sốt.</li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p>Chưa có dữ liệu.</p>\n\n<h3>Dược động học</h3>\n\n<p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 32901,
+      "ingredientId": 31537,
+      "shortDescription": "500mg",
+      "name": "Paracetamol",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

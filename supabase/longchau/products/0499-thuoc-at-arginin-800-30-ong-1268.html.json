@@ -1,0 +1,44 @@
+{
+  "id": "00010470",
+  "slug": "thuoc/at-arginin-800-30-ong-1268.html",
+  "title": "Dung dịch uống A.T Arginin 800 An Thiên điều trị duy trì tăng amoniac máu (30 ống x 10ml)",
+  "short_title": "AT ARGININ 800 6X5 ỐNG",
+  "brand": {
+    "name": "An Thiên",
+    "slug": "thuong-hieu/an-thien",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-benh-gan",
+    "name": "Thuốc trị bệnh gan",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 6 Vỉ x 5 Ống x 10ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00010470_at_arginin_800_30_ong_5864_609c_large_e8a8645d7b.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00010470_at_arginin_800_30_ong_5864_609c_large_e8a8645d7b.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch uống",
+  "trust_label": null,
+  "short_description": "<p><a href=\"https://nhathuoclongchau.com.vn/thuoc/at-arginin-800-30-ong-1268.html\">Arginin 800</a>&nbsp;là sản phẩm thuốc của Công ty Cổ phần Dược phẩm An Thiên với thành phần hoạt chất là Arginin hydroclorid được chỉ định trong điều trị hỗ trợ các rối loạn khó tiêu, cải thiện khả năng luyện tập ở những người bị bệnh tim mạch ổn định và bổ sung dinh dưỡng cho người bị rối loạn chu trình ure như tăng amoniac máu tuýp I và II, tăng citrulin máu, arginosuccinic niệu và thiếu men N-acetyl glutamate synthetase.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3><p>Thuốc AT Arginin 800 được chỉ định dùng trong các trường hợp sau:</p><ul><li>Điều trị duy trì tăng amoniac máu ở bệnh nhân thiếu carbamylphosphate synthetase, thiếu ornithine carbamyl transferase.</li><li>Điều trị duy trì cho bệnh nhân tăng amoniac máu bị citrulin máu, argininoccinic niệu.</li><li>Điều trị hỗ trợ chứng <a href=\"https://nhathuoclongchau.com.vn/benh/roi-loan-tieu-hoa-210.html\">rối loạn khó tiêu</a>.</li><li>Điều trị hỗ trợ nhằm cải thiện khả năng luyện tập ở những người bị <a href=\"https://nhathuoclongchau.com.vn/bai-viet/benh-tim-mach-nguyen-nhan-trieu-chung-va-cach-dieu-tri-49835.html\">bệnh tim mạch</a> ổn định.</li><li>Bổ sung dinh dưỡng cho người bị rối loạn chu trình ure như tăng amoniac máu tuýp I và II, tăng citrulin máu, argininoccinic niệu và thiếu men N-acetyl glutamate synthetase.</li></ul><h3><strong>Dược lực học</strong></h3><p>Arginin 800 là một acid amin cần thiết trong chu trình urê đối với những bệnh nhân thiếu hụt các enzym: N-acetylglutamat synthase (NAGS), carbamyl phosphat synthase (CPS), omithin transcarbamylase (OTC), argininosuccinat synthase (ASS), hay argininosuccinat lyase (ASL).</p><p>Dùng arginin hydroclorid cho những bệnh nhân có rối loạn như trên nhằm khôi phục nồng độ arginin trong máu và giúp ngăn ngừa sự dị hóa protein.</p><p>Những sản phẩm trung gian của chu trình urê ít có độc tính và dễ dàng thải trừ qua nước tiểu hơn so với amoniac và tạo con đường chọn lọc cho quá trình đào thải nitrogen.</p><p>Arginin 800 làm tăng nồng độ glucose huyết. Tác dụng này có thể là tác dụng trực tiếp; lượng glucose giải phóng từ gan có liên quan trực tiếp với lượng acid amin hấp thu. Sự ly giải glycogen và sự phân tạo glucose cũng có thể là trung gian của quá trình arginin kích thích giải phóng glucagon.</p><h3><strong>Dược động học</strong></h3><p>Arginin hydroclorid hấp thu tốt qua đường tiêu hóa, nồng độ đỉnh trong huyết tương đạt được sau khoảng 1 giờ.</p><p>Arginin hydroclorid kết hợp chặt chẽ với nhiều con đường sinh hóa. Acid amin được chuyển hóa qua gan tạo thành ornithin và urê bằng cách thủy phân nhóm guanidin dưới xúc tác của arginase.</p><p>Arginin được lọc ở tiểu cầu thận và tái hấp thu gần như hoàn toàn ở ống thận.</p>",
+  "ingredients_html": [
+    {
+      "id": 40450,
+      "ingredientId": 9425,
+      "shortDescription": "800mg",
+      "name": "Arginin hydroclorid",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

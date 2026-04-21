@@ -1,0 +1,120 @@
+{
+  "id": "00007311",
+  "slug": "thuoc/thong-huyet-dieu-kinh-251.html",
+  "title": "Thuốc Thông Huyết Điều Kinh Hồng Phúc điều trị kinh nguyệt không đều, giảm mụn, nhuận táo (2 vỉ x 10 viên)",
+  "short_title": "THÔNG HUYẾT ĐIỀU KINH 2X10",
+  "brand": {
+    "name": "Hồng Phúc",
+    "slug": "thuong-hieu/hong-phuc",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-noi-tiet-to",
+    "name": "Thuốc nội tiết tố",
+    "parent_slug": "thuoc/thuoc-tiet-nieu-sinh-duc"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 2 Vỉ x 10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007311_thong_huyet_dieu_kinh_9751_5bd9_large_bb18c9aeee.JPG",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007311_thong_huyet_dieu_kinh_9751_5bd9_large_bb18c9aeee.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007311_thong_huyet_dieu_kinh_4854_5bd9_large_552a714c90.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007311_thong_huyet_dieu_kinh_3801_5bd9_large_ae6670a7f7.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007311_thong_huyet_dieu_kinh_9596_5bd9_large_2da5a7f9c1.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007311_thong_huyet_dieu_kinh_9474_5bd9_large_8509c800a6.JPG"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang",
+  "trust_label": null,
+  "short_description": "<p><strong>Thông Huyết Điều Kinh</strong> của <i>Công ty TNHH Y Học Cổ Truyền ĐạI Hồng Phúc</i>. Thuốc&nbsp;có chứa mạch môn, nga truật (thân rễ), giáng hương, khổ hạnh nhân, lô hội, ngũ vị tử, câu kỷ tử, nhân trần, lộc nhung, cam tùng hương.</p><p>Thông Huyết Điều Kinh dùng điều trị kinh nguyệt không đều, khí huyết ứ trệ gây nhức mỏi, táo bón thường xuyên, da dẻ không tươi nhuận, sinh mụn nhọt.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p><strong>Thuốc Thông Huyết Điều Kinh</strong> được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Kinh nguyệt không đều, khí huyết ứ trệ gây nhức mỏi, <strong><a href=\"https://nhathuoclongchau.com.vn/benh/tao-bon-246.html\">táo bón thường xuyên</a></strong>, da dẻ không tươi nhuận, <strong><a href=\"https://nhathuoclongchau.com.vn/benh/mun-nhot-1036.html\">sinh mụn nhọt</a></strong>.</li>\n</ul>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Thông huyết, điều kinh, nhuận táo.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Chưa có báo cáo.</p>",
+  "ingredients_html": [
+    {
+      "id": 27442,
+      "ingredientId": 26251,
+      "shortDescription": "65mg",
+      "name": "Mạch môn",
+      "isPrimary": false,
+      "slug": "thanh-phan/mach-mon"
+    },
+    {
+      "id": 27443,
+      "ingredientId": 29608,
+      "shortDescription": "72mg",
+      "name": "Nga truật (Thân rễ)",
+      "isPrimary": false,
+      "slug": "thanh-phan/nga-truat"
+    },
+    {
+      "id": 27444,
+      "ingredientId": 21197,
+      "shortDescription": "72mg",
+      "name": "Giáng hương",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 27445,
+      "ingredientId": 24574,
+      "shortDescription": "97mg",
+      "name": "Khổ hạnh nhân",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 27446,
+      "ingredientId": 25764,
+      "shortDescription": "145.5mg",
+      "name": "Lô hội",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 27447,
+      "ingredientId": 29693,
+      "shortDescription": "48.5mg",
+      "name": "Ngũ vị tử",
+      "isPrimary": false,
+      "slug": "thanh-phan/ngu-vi-tu"
+    },
+    {
+      "id": 27448,
+      "ingredientId": 13233,
+      "shortDescription": "48.5mg",
+      "name": "Câu kỷ tử",
+      "isPrimary": false,
+      "slug": "thanh-phan/cau-ky-tu"
+    },
+    {
+      "id": 27449,
+      "ingredientId": 29763,
+      "shortDescription": "32.5mg",
+      "name": "Nhân trần",
+      "isPrimary": false,
+      "slug": "thanh-phan/nhan-tran"
+    },
+    {
+      "id": 27450,
+      "ingredientId": 25791,
+      "shortDescription": "27mg",
+      "name": "Lộc Nhung",
+      "isPrimary": false,
+      "slug": "thanh-phan/loc-nhung"
+    },
+    {
+      "id": 27451,
+      "ingredientId": 12485,
+      "shortDescription": "16mg",
+      "name": "Cam tùng hương",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

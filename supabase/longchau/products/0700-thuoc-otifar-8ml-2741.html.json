@@ -1,0 +1,58 @@
+{
+  "id": "00005654",
+  "slug": "thuoc/otifar-8ml-2741.html",
+  "title": "Thuốc nhỏ tai Otifar Pharmedic điều trị nhiễm khuẩn do viêm tai ngoài, viêm tai giữa cấp xung huyết (8ml)",
+  "short_title": "OTIFAR PMD 8ML",
+  "brand": {
+    "name": "Pharmedic",
+    "slug": "thuong-hieu/pharmedic",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-mat-tai-mui-hong/thuoc-nho-tai",
+    "name": "Thuốc nhỏ tai",
+    "parent_slug": "thuoc/thuoc-mat-tai-mui-hong"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Chai",
+  "pack_note": "Chai x 8ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005654_otifar_8ml_4732_5bbd_large_7f9b2c551c.JPG",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005654_otifar_8ml_4732_5bbd_large_7f9b2c551c.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005654_otifar_8ml_9140_5bbd_large_660fa17b96.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005654_otifar_8ml_4367_5bbd_large_64b39ec51a.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005654_otifar_8ml_2344_5bbd_large_9a29480ce6.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/a_177f19e840.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/00005654_otifar_8ml_8914_5bbd_large_b8b80b0aa8.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005654_otifar_8ml_7544_5bbd_large_ded540a247.JPG"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch nhỏ tai",
+  "trust_label": null,
+  "short_description": "<p style=\"text-align:justify;\"><strong>Thuốc Otifar 8 ml</strong> được sản xuất bởi <em>công ty CTCP DPDL Pharmedic</em>, thành phần chính là cloramphenicol, dexamethason acetat, được chỉ định để điều trị nhiễm khuẩn do viêm tai ngoài: Viêm tai giữa cấp xung huyết.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p><strong>Thuốc Otifar 8 ml</strong> được chỉ định dùng trong các trường hợp sau:</p>\n\n<p>Nhiễm khuẩn do viêm tai ngoài: Viêm tai giữa cấp xung huyết.</p>\n\n<h3>Dược lực học</h3>\n\n<p>Cloramphenicol là kháng sinh kìm khuẩn có phổ kháng khuẩn rộng, kháng vi khuẩn gram dương và gram âm.</p>\n\n<p>Dexamethason là corticoid tổng hợp, có tác dụng kháng viêm, kháng dị ứng và ức chế miễn dịch.</p>\n\n<h3>Dược động học</h3>\n\n<p><strong><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/chloramphenicol\">Chloramphenicol</a></strong> hấp thu nhanh qua đường tiêu hoá. Sau khi dùng nhỏ tai, lượng thuốc hấp thu không đủ để tạo ra tác dụng toàn thân. Dexamethason được hấp thu tốt từ đường tiêu hoá. Sau khi dùng tại chỗ, sự hấp thu toàn thân có thể xảy ra nhưng có thể đáng kể ở liều cao. Dexamethason được chuyển hoá ở gan và thải trừ chủ yếu ở thận.</p>",
+  "ingredients_html": [
+    {
+      "id": 22681,
+      "ingredientId": 14396,
+      "shortDescription": "80mg",
+      "name": "Chloramphenicol",
+      "isPrimary": false,
+      "slug": "thanh-phan/chloramphenicol"
+    },
+    {
+      "id": 22682,
+      "ingredientId": 17269,
+      "shortDescription": "4mg",
+      "name": "Dexamethasone",
+      "isPrimary": false,
+      "slug": "thanh-phan/dexamethasone"
+    }
+  ],
+  "stock_qty": 0
+}

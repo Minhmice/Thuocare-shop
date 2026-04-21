@@ -1,0 +1,90 @@
+{
+  "id": "00050178",
+  "slug": "thuoc/cao-sao-vang-tw-3-6-lo-x-17-g.html",
+  "title": "Cao sao vàng TW3 với thành phần tinh dầu dược liệu dùng trị nhức đầu, sổ mũi, cảm cúm, muỗi và côn trùng đốt (6 lọ 17G)",
+  "short_title": "CAO SAO VÀNG TW3 6 LỌ X 17G",
+  "brand": {
+    "name": "Tw3",
+    "slug": "thuong-hieu/tw3",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/mieng-dan-cao-xoa-dau/cao-xoa",
+    "name": "Cao xoa",
+    "parent_slug": "thuoc/mieng-dan-cao-xoa-dau"
+  },
+  "price_amount": 38000,
+  "compare_at_amount": 0,
+  "unit": "Lọ",
+  "pack_note": "6 Lọ x 17g",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07769_4dd7263858.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07769_4dd7263858.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07765_2a74795fdb.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07766_ef67a8aef1.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07767_c49421c777.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07770_10d1cbfbb6.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07771_68a4df6bbd.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/cao_sao_vang_tw3_a20362005f.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Cao",
+  "trust_label": null,
+  "short_description": "<p>Cao sao vàng TW3 với thành phần tinh dầu dược liệu dùng trị <strong>nhức đầu, sổ mũi, cảm cúm, muỗi và côn trùng đốt.</strong></p>",
+  "description_html": "",
+  "usage_html": "<p>Cao sao vàng TW3 dùng trị nhức đầu, sổ mũi, cảm cúm, muỗi và côn trùng đốt.</p>",
+  "ingredients_html": [
+    {
+      "id": 54450,
+      "ingredientId": 25837,
+      "shortDescription": "584.16mg",
+      "name": "Long não",
+      "isPrimary": false,
+      "slug": "thanh-phan/long-nao"
+    },
+    {
+      "id": 54451,
+      "ingredientId": 26940,
+      "shortDescription": "33.66mg",
+      "name": "Menthol",
+      "isPrimary": false,
+      "slug": "thanh-phan/menthol"
+    },
+    {
+      "id": 54452,
+      "ingredientId": 38658,
+      "shortDescription": "178.22mg",
+      "name": "Tinh dầu bạc hà",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 54453,
+      "ingredientId": 38709,
+      "shortDescription": "643.56mg",
+      "name": "Tinh dầu tràm",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 54454,
+      "ingredientId": 22796,
+      "shortDescription": "56.44mg",
+      "name": "Hương nhu trắng",
+      "isPrimary": false,
+      "slug": "thanh-phan/huong-nhu-trang"
+    },
+    {
+      "id": 54455,
+      "ingredientId": 38695,
+      "shortDescription": "56.44mg",
+      "name": "Tinh dầu quế",
+      "isPrimary": false,
+      "slug": "thanh-phan/tinh-dau-que"
+    }
+  ],
+  "stock_qty": 0
+}

@@ -1,0 +1,46 @@
+{
+  "id": "00013666",
+  "slug": "thuoc/clocardigel-75mg-1054.html",
+  "title": "Thuốc Clocardigel OPV giảm các biến cố do xơ vữa động mạch (4 vỉ x 7 viên)",
+  "short_title": "CLOCARDIGEL 75 OPV 4X7",
+  "brand": {
+    "name": "Opv",
+    "slug": "thuong-hieu/opv",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-chong-dong-mau",
+    "name": "Thuốc chống đông máu",
+    "parent_slug": "thuoc/thuoc-tim-mach-and-mau"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "7 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00013666_clocardigel_75mg_4585_5ba0_large_97084fbddc.JPG",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00013666_clocardigel_75mg_4585_5ba0_large_97084fbddc.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00013666_clocardigel_75mg_9043_5ba0_large_4e4cdbfd34.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00013666_clocardigel_75mg_8241_5ba0_large_f72f4d46be.JPG"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Clocardigel của Công ty cổ phần dược phẩm OPV, thành phần chính là clopidogrel. Thuốc được chỉ định để làm giảm các biến cố do xơ vữa động mạch như nhồi máu cơ tim, đột quỵ và tử vong do mạch máu ở bệnh nhân vừa mới bị đột quỵ hoặc nhồi máu cơ tim, bệnh động mạch ngoại vi vừa được xác nhận.</p>\n\n<p>Clocardigel được bào chế dưới dạng viên nén bao phim, đóng gói theo quy cách hộp 3 vỉ x 10 viên hoặc hộp 4 vỉ x 7 viên.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p>Thuốc  Clocardigel được chỉ định dùng trong các trường hợp làm giảm các biến cố do xơ vữa động mạch như <a href=\"https://nhathuoclongchau.com.vn/benh/nhoi-mau-co-tim-595.html\">nhồi máu cơ tim</a>, đột quỵ và tử vong do mạch máu ở bệnh nhân vừa mới bị đột quỵ hoặc nhồi máu cơ tim, bệnh động mạch ngoại vi vừa được xác nhận.</p>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Clopidogrel là thuốc ức chế kết tập tiểu cầu mạnh và đặc hiệu. Vai trò của tiểu cầu đã được xác định trong sinh lý bệnh của bệnh xơ vữa động mạch và các trường hợp huyết khối.</p>\n\n<p>Clopidogrel ức chế chọn lọc việc gắn adenosine diphosphate (ADP) vào thụ thể ở tiểu cầu, và hệ quả của việc gắn này là sự hoạt hóa trung gian ADP của phức hợp GPIIb/IIIa, từ đó ức chế sự kết tập tiểu cầu.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Sau khi dùng đường uống lặp lại liều 75 mg/ngày, clopidogrel nhanh chóng được hấp thu. Tuy nhiên, nồng độ huyết tương của phân tử mẹ là rất thấp và dưới giới hạn xác định (0,00025 mg/l) sau 2 giờ từ khi dùng thuốc. Hấp thu tối thiểu là 50% dựa trên sự thải trừ qua nước tiểu của chất chuyển hóa clopidogrel.</p>\n\n<p>Clopidogrel được chuyển hóa chủ yếu ở gan và chất chuyển hóa không hoạt tính là dẫn xuất acid carboxylic chiếm khoảng 85% thành phần thuốc lưu hành trong huyết tương. Chất chuyển hóa này đạt nồng độ đỉnh trong huyết tương (xấp xỉ 3 mg/l sau khi dùng liều lặp lại 75 mg bằng đường uống).</p>\n\n<p>Khi so sánh với người tình nguyện khỏe mạnh trẻ tuổi, nồng độ trong huyết tương của chất chuyển hóa chính đang lưu hành cao hơn đáng kể ở người cao tuổi (≥ 75 tuổi).</p>\n\n<p>Tuy nhiên, nồng độ cao hơn trong huyết tương này không gắn với sự khác nhau về sự kết tập tiểu cầu và thời gian chảy máu. Không cần điều chỉnh liều ở người lớn tuổi.</p>",
+  "ingredients_html": [
+    {
+      "id": 24645,
+      "ingredientId": 15173,
+      "shortDescription": "75mg",
+      "name": "Clopidogrel",
+      "isPrimary": false,
+      "slug": "thanh-phan/clopidogrel"
+    }
+  ],
+  "stock_qty": 0
+}

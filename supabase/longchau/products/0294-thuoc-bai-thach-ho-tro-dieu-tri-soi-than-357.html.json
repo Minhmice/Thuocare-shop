@@ -1,0 +1,100 @@
+{
+  "id": "00001105",
+  "slug": "thuoc/bai-thach-ho-tro-dieu-tri-soi-than-357.html",
+  "title": "Thuốc Bài Thạch Danapha điều trị sỏi thận - tiết niệu, sỏi mật (45 viên)",
+  "short_title": "BÀI THẠCH DNP 45V",
+  "brand": {
+    "name": "Danapha",
+    "slug": "thuong-hieu/danapha",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-benh-gan",
+    "name": "Thuốc trị bệnh gan",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 45 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00001105_bai_thach_ho_tro_dieu_tri_soi_than_2127_62a1_large_4e65ac9ca1.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00001105_bai_thach_ho_tro_dieu_tri_soi_than_2127_62a1_large_4e65ac9ca1.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00001105_bai_thach_ho_tro_dieu_tri_soi_than_7421_62a1_large_214b1e96ff.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00001105_bai_thach_ho_tro_dieu_tri_soi_than_8933_62a1_large_fd2c0d2fa7.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00001105_bai_thach_ho_tro_dieu_tri_soi_than_8246_62a1_large_7bb0dc9641.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00001105_bai_thach_ho_tro_dieu_tri_soi_than_4524_62a1_large_f660b28a6f.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00001105_bai_thach_ho_tro_dieu_tri_soi_than_9393_62a1_large_cbfc92fe81.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00001105_bai_thach_ho_tro_dieu_tri_soi_than_6189_62a1_large_ed2cb924c7.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00001105_bai_thach_ho_tro_dieu_tri_soi_than_2272_62a2_large_86bd3ae082.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00001105_bai_thach_ho_tro_dieu_tri_soi_than_4979_62a2_large_4f3817f546.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Bài Thạch của Công ty Dược phẩm Danapha, với thành phần chính là cao khô kim tiền thảo và cao khô hỗn hợp dùng trong điều trị và phòng ngừa tái phát sỏi mật, sỏi thận.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3><p>Bài Thạch được chỉ định dùng trong các trường hợp sau:</p><ul><li>Điều trị <a href=\"https://nhathuoclongchau.com.vn/benh/soi-than-358.html\">sỏi thận</a> - tiết niệu, sỏi mật, <a href=\"https://nhathuoclongchau.com.vn/benh/viem-tui-mat-409.html\">viêm túi mật</a>.&nbsp;</li><li>Phòng ngừa tái phát, đặc biệt là sau khi tán sỏi hoặc mổ lấy sỏi.</li></ul><h3><strong>Dược lực học</strong></h3><p>Bài Thạch được phối hợp từ nhiều loại dược liệu có tác dụng bổ sung hiệp đồng với nhau.&nbsp;</p><ul><li>Kim tiền thảo: <a href=\"https://nhathuoclongchau.com.vn/thuoc/he-tim-mach-and-tao-mau/thuoc-loi-tieu\">Lợi tiểu</a>, tiêu viêm, bào mòn sỏi. Tác dụng của Kim tiền thảo được tăng cường và dễ dàng hơn khi được phối hợp với các dược liệu khác có trong công thức.&nbsp;</li><li><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/nhan-tran\">Nhân trần</a>, Binh lang và <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/dai-hoang-than-re\">Đại hoàng</a>: Làm tăng tiết mật, kích thích co bóp.&nbsp;</li><li>Hoàng cầm, Nghệ: Kháng sinh, kháng viêm.&nbsp;</li><li>Mộc hương, Chỉ thực, Hậu phác: Hành khí, giảm đau.</li></ul><h3><strong>Dược động học</strong></h3><p>Không có thông tin.</p>",
+  "ingredients_html": [
+    {
+      "id": 27007,
+      "ingredientId": 22040,
+      "shortDescription": "100mg",
+      "name": "Hậu phác",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 27008,
+      "ingredientId": 29763,
+      "shortDescription": "230mg",
+      "name": "Nhân trần",
+      "isPrimary": false,
+      "slug": "thanh-phan/nhan-tran"
+    },
+    {
+      "id": 27009,
+      "ingredientId": 14060,
+      "shortDescription": "100mg",
+      "name": "Chỉ xác",
+      "isPrimary": false,
+      "slug": "thanh-phan/chi-xac"
+    },
+    {
+      "id": 27010,
+      "ingredientId": 22423,
+      "shortDescription": "150mg",
+      "name": "Hoàng cầm",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 27011,
+      "ingredientId": 29628,
+      "shortDescription": "250mg",
+      "name": "Nghệ",
+      "isPrimary": false,
+      "slug": "thanh-phan/nghe"
+    },
+    {
+      "id": 27012,
+      "ingredientId": 10116,
+      "shortDescription": "500mg",
+      "name": "Bạch mao căn",
+      "isPrimary": false,
+      "slug": "thanh-phan/bach-mao-can"
+    },
+    {
+      "id": 27013,
+      "ingredientId": 27827,
+      "shortDescription": "100mg",
+      "name": "Mộc hương",
+      "isPrimary": false,
+      "slug": "thanh-phan/moc-huong"
+    }
+  ],
+  "stock_qty": 0
+}

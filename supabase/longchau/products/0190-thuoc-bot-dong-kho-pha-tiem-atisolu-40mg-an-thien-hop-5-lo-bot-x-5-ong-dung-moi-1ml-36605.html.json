@@ -1,0 +1,44 @@
+{
+  "id": "00502380",
+  "slug": "thuoc/bot-dong-kho-pha-tiem-atisolu-40mg-an-thien-hop-5-lo-bot-x-5-ong-dung-moi-1ml-36605.html",
+  "title": "Bột đông khô pha tiêm Atisolu 40 inj An Thiên điều trị bệnh lý về da, dạ dày (5 lọ bột x 5 ống dung môi 1ml)",
+  "short_title": "BỘT ĐÔNG KHÔ PHA TIÊM ATISOLU 40 INJ AN THIÊN 5 LỌ BỘT + 5 ỐNG DM",
+  "brand": {
+    "name": "An Thiên",
+    "slug": "thuong-hieu/an-thien",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tiem-chich-and-dich-truyen/thuoc-tiem-chich",
+    "name": "Thuốc tiêm chích",
+    "parent_slug": "thuoc/thuoc-tiem-chich-and-dich-truyen"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 5 Lọ",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/620_9b6dd47738.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/620_9b6dd47738.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Bột pha tiêm",
+  "trust_label": null,
+  "short_description": "<p>Atisolu 40 inj là bột đông khô pha tiêm chứa hoạt chất <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/methylprednisolone\">Methylprednisolon</a> (dưới dạng Methylprednisolon natri succinat) điều trị các bệnh lý về da, dạ dày, bệnh thấp khớp, viêm khớp,… theo chỉ định của bác sĩ.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Atisolu 40 inj điều trị các bệnh lý về da, dạ dày, bệnh thấp khớp, viêm khớp,… theo chỉ định của bác sĩ.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 45951,
+      "ingredientId": 27410,
+      "shortDescription": "40mg",
+      "name": "Methylprednisolone",
+      "isPrimary": false,
+      "slug": "thanh-phan/methylprednisolone"
+    }
+  ],
+  "stock_qty": 0
+}

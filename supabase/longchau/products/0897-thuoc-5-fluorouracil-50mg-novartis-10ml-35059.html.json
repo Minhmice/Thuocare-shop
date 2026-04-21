@@ -1,0 +1,44 @@
+{
+  "id": "00500917",
+  "slug": "thuoc/5-fluorouracil-50mg-novartis-10ml-35059.html",
+  "title": "Thuốc 5-Fluorouracil 50mg Novartis điều trị giảm nhẹ trong nhiều loại ung thư (10ml)",
+  "short_title": "5-FLUOROURACIL 50MG NOVARTIS 10ML ",
+  "brand": {
+    "name": "Novartis",
+    "slug": "thuong-hieu/novartis",
+    "country": "Thụy Sĩ"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-dieu-tri-ung-thu/thuoc-chong-ung-thu",
+    "name": "Thuốc chống ung thư",
+    "parent_slug": "thuoc/thuoc-dieu-tri-ung-thu"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp x 10ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/24_d7e5d51394.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/24_d7e5d51394.png"
+  ],
+  "origin_label": "Thụy Sĩ",
+  "country": "Thụy Sĩ",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch đậm đặc để pha dung dịch tiêm truyền",
+  "trust_label": null,
+  "short_description": "<p>Thuốc 5-Fluorouracil \"Ebewe\" là dung dịch đậm đặc để pha dung dịch tiêm và tiêm truyền chứa hoạt chất 5-Fluorouracil dùng trong điều trị giảm nhẹ trong nhiều loại ung thư, dùng đơn trị liệu hoặc phối hợp trong ung thư đại tràng - trực tràng, ung thư vú, thực quản, dạ dày, tuyến tụy, gan, đi căn gan, ung thư hậu môn, buồng trứng, cổ tử cung, bàng quang, tuyến tiền liệt, ung thư vùng đầu và cổ.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Dung dịch pha tiêm 5-Fluorouracil \"Ebewe\" chỉ định điều trị giảm nhẹ trong nhiều loại ung thư, dùng đơn trị liệu hoặc phối hợp trong ung thư đại tràng - trực tràng, ung thư vú, thực quản, dạ dày, tuyến tụy, gan, đi căn gan, ung thư hậu môn, buồng trứng, cổ tử cung, bàng quang, tuyến tiền liệt, ung thư vùng đầu và cổ.</p><p>Trong y văn, có mô tả tác dụng hiệp đồng khi điều trị phối hợp 5- Fluorouracil với interferon alpha trong ung thư dạ dày - ruột.</p><h3>Dược lực học</h3><p>Fluorouracil là chất chống chuyển hóa, đối kháng pyrimidine có gắn fluor. Sau khi chuyển hóa thành 5-fluoro-desoxyuridin-monophosphat (F-dUMP), thì chất chuyển hóa này ức chế phản ứng methyl hóa của acid desoxyuridilic để ngăn cần tạo acid thymidilic. Bằng cơ chế này, Fluorouracil tre ché su tong hop DNA và kết hợp với 5- F-dUPM để trở thành tiền chất “không thích hợp” của RNA, làm cho sự tổng hợp của RNA cũng bị gián đoạn. 5-Fluorouracil có tác dụng đặc hiệu trên chu kỳ phát triển của tế bào cụ thể, đặc biệt ở pha S.</p><p>Hiệu lực tối đa của thuốc biểu hiện ở các mô đang tăng sinh nhanh (tủy xương. da, niêm mạc).</p><h3>Dược động học</h3><p>Sự hấp thu của 5-Fluorouracil qua đường tiêu hóa sau khi uống thuốc khác nhau khá lớn ở mỗi cá nhân. 5-Fluorouracil chuyển hóa vòng 1 qua gan. Sinh khả dụng từ 0 — 80%.</p><p>Sau khi tiêm tĩnh mạch, 5-Fluorouracil phân bố vào cơ thể và tập trung nhiều ở các mô có sự tăng sinh tế bào nhanh như các khối u, niêm mạc tiêu hóa và tủy xương; 5-Fluorouracil thắm qua hàng rào máu não và nhau thai. Thẻ tích phân bố của thuốc là 0,12L/kg cân nặng, gắn với protein huyết tương khoảng 10%.</p><p>Thời gian bán thải của thuốc khoảng 10 – 20 phút và phụ thuộc vào liều. Không còn thấy thuốc ở dạng nguyên vẹn trong huyết tương sau khi tiêm tĩnh mạch được 3 giờ. 5-Fluorouracil thải trừ chủ yếu (60-80%) đưới dạng carbon dioxide qua phổi. Phần còn lại (7-20%) thải trừ ở đạng không biến đổi qua nước tiêu, trong số này hơn 90% thải trừ ngay giờ đầu. Độ thanh thái qua thận khoảng 170-180 ml/phút. Nếu chức năng thận suy giảm, thuốc sẽ bị thải trừ chậm hơn.</p>",
+  "ingredients_html": [
+    {
+      "id": 33884,
+      "ingredientId": 20493,
+      "shortDescription": "50mg",
+      "name": "Fluorouracil",
+      "isPrimary": false,
+      "slug": "thanh-phan/fluorouracil"
+    }
+  ],
+  "stock_qty": 0
+}

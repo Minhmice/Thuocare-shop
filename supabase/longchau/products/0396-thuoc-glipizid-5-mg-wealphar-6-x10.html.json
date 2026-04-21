@@ -1,0 +1,44 @@
+{
+  "id": "00047330",
+  "slug": "thuoc/glipizid-5-mg-wealphar-6-x10.html",
+  "title": "Thuốc Glipizid 5mg Wealphar điều trị tiểu đường (6 vỉ x 10 viên) ",
+  "short_title": "GLIPIZID 5MG WEALPHAR 6X10",
+  "brand": {
+    "name": "Wealphar",
+    "slug": "thuong-hieu/wealphar",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tri-tieu-duong",
+    "name": "Thuốc trị tiểu đường",
+    "parent_slug": "thuoc"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/glipizid_2_2b5d6cfeb8.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/glipizid_2_2b5d6cfeb8.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Glipizid DWP 5 là sản phẩm của Công ty Cổ phần Dược phẩm Wealphar, có thành phần chính là Glipizide. Đây là thuốc được sử dụng để điều trị tiểu đường không lệ thuộc insulin (NIDDM) khi không có hiệu quả bằng chế độ ăn kiêng.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc Glipizid DWP 5 được chỉ định dùng trong các trường hợp sau:</p><ul><li dir=\"ltr\">Tiểu đường không lệ thuộc insulin (NIDDM) khi không có hiệu quả bằng chế độ ăn kiêng.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 68695,
+      "ingredientId": 21321,
+      "shortDescription": "5mg",
+      "name": "Glipizide",
+      "isPrimary": false,
+      "slug": "thanh-phan/glipizide"
+    }
+  ],
+  "stock_qty": 0
+}

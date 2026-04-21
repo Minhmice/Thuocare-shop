@@ -1,0 +1,44 @@
+{
+  "id": "00502913",
+  "slug": "thuoc/ursimex-300mg-imexpharm-6x10-37214.html",
+  "title": "Thuốc Ursimex®300 Imexpharm điều trị xơ gan mật tiên phát, hòa tan sỏi mật giàu cholesterol (6 vỉ x 10 viên)",
+  "short_title": "URSIMEX 300 IMEXPHARM 6X10",
+  "brand": {
+    "name": "Imexpharm",
+    "slug": "thuong-hieu/imexpharm",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-benh-gan",
+    "name": "Thuốc trị bệnh gan",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00502913_3a8c97391f.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00502913_3a8c97391f.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Ursimex®300 là sản phẩm của Imexpharm dạng viên nén chứa hoạt chất Acid ursodeoxycholic giúp điều trị xơ gan mật tiên phát, hòa tan sỏi mật giàu cholesterol ở người bệnh có túi mật vẫn hoạt động, điều trị xơ nang ở trẻ em từ 6 đến dưới 18 tuổi và không có chống chỉ định.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Ursimex®300 chỉ định điều trị trong các trường hợp sau:</p><ul><li>Điều trị xơ gan mật tiên phát.</li><li>Hòa tan sỏi mật giàu cholesterol ở người bệnh có túi mật vẫn hoạt động.</li><li>Điều trị xơ nang ở trẻ em từ 6 đến dưới 18 tuổi và không có chống chỉ định.</li><li>Điều trị xơ viêm đường mật ở trẻ em và thanh thiếu niên.</li><li>Điều trị tắc mật khi nuôi dưỡng ngoài đường tiêu hóa hoàn toàn ở trẻ em và thanh thiếu niên.</li><li>Ngăn ngừa sỏi mật ở bệnh nhân đang giảm cân nhanh chóng.</li></ul><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 43072,
+      "ingredientId": 39916,
+      "shortDescription": "300mg",
+      "name": "Ursodeoxycholic acid",
+      "isPrimary": true,
+      "slug": "thanh-phan/ursodeoxycholic-acid"
+    }
+  ],
+  "stock_qty": 0
+}

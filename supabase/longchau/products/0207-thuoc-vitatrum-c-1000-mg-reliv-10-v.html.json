@@ -1,0 +1,54 @@
+{
+  "id": "00046199",
+  "slug": "thuoc/vitatrum-c-1000-mg-reliv-10-v.html",
+  "title": "Thuốc Vitatrum C 1000mg Reliv ngăn ngừa và điều trị bệnh do thiếu vitamin C (10 viên)",
+  "short_title": "VITATRUM C 1000MG RELIV 10V",
+  "brand": {
+    "name": "Reliv",
+    "slug": "thuong-hieu/reliv",
+    "country": "Ấn Độ"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+    "name": "Thuốc bổ",
+    "parent_slug": "thuoc/thuoc-bo-and-vitamin"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03491_52f28e9166.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03491_52f28e9166.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03484_66d4d55dc0.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03485_9da789b768.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03486_5b38034b3d.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03487_606d31acc0.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03488_cfddcf8251.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03489_9d753e671d.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03492_5140f57fc7.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03493_72ecb925cb.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03494_b2a56cc3d3.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/Vitatrum_C_85c96ccb64.jpg"
+  ],
+  "origin_label": "Ấn Độ",
+  "country": "Ấn Độ",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén sủi bọt",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Vitatrum C là sản phẩm của Reliv, có thành phần chính là Acid Ascorbic. Đây là thuốc được sử dụng để ngừa và điều trị bệnh do thiếu vitamin C, suy nhược, làm việc quá sức, cảm cúm, thời kỳ dưỡng bệnh; phụ trị trong nhiễm khuẩn làm tăng sức đề kháng.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc Vitatrum C được chỉ định dùng trong các trường hợp sau:</p><ul><li>Ngừa và điều trị bệnh do thiếu vitamin C, suy nhược, làm việc quá sức, cảm cúm, thời kỳ dưỡng bệnh.</li><li>Phụ trị trong nhiễm khuẩn làm tăng sức đề kháng.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 65515,
+      "ingredientId": 7418,
+      "shortDescription": "1000mg",
+      "name": "Acid Ascorbic",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

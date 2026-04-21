@@ -1,0 +1,52 @@
+{
+  "id": "00004068",
+  "slug": "thuoc/kamistad-gel-10g-3370.html",
+  "title": "Nhũ tương Kamistad-Gel N Stada điều trị viêm, đau ở niêm mạc miệng và môi (10g)",
+  "short_title": "KAMISTAD-GEL N STADA 10G",
+  "brand": {
+    "name": "Stada",
+    "slug": "thuong-hieu/stada",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-mat-tai-mui-hong/thuoc-boi-rang-mieng",
+    "name": "Thuốc bôi răng miệng",
+    "parent_slug": "thuoc/thuoc-mat-tai-mui-hong"
+  },
+  "price_amount": 37000,
+  "compare_at_amount": 0,
+  "unit": "Tuýp",
+  "pack_note": "Tuýp x 10g",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/kamista_ged_n_0f0e4504d5.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/kamista_ged_n_0f0e4504d5.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Gel",
+  "trust_label": null,
+  "short_description": "<p>Kamistad-Gel 10g của Stada Arzneimittel AG (Germany) có thành phần chính là lidocaine HCl và dịch chiết hoa cúc, thuốc được dùng để điều trị các chứng viêm, đau ở niêm mạc miệng và môi, kể cả trong trường hợp có mụn nước, viêm lợi (nướu răng) và nứt nẻ môi do trời lạnh; đối với người mang răng giả, thuốc dùng để bôi vào lợi, vòm miệng và niêm mạc bị kích ứng và mẫn cảm; ngoài ra thuốc còn ngăn ngừa các triệu chứng tại chỗ khi mọc răng sữa hoặc răng khôn và dùng trong phẫu thuật chỉnh răng.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p>Thuốc Kamistad-Gel 10g được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>\n\t<p>Các chứng viêm, đau ở viêm mạc miệng và môi, kể cả trong trường hợp có mụn nước, <a href=\"https://nhathuoclongchau.com.vn/benh/viem-loi-1086.html\">viêm lợi</a> (nướu răng) và <a href=\"https://nhathuoclongchau.com.vn/benh/kho-moi-1380.html\">nứt nẻ môi</a> do trời lạnh. </p>\n\t</li>\n\t<li>\n\t<p>Đối với người mang răng giả, thuốc dùng để bôi vào lợi, vòm miệng và niêm mạc bị kích ứng và mẫn cảm.</p>\n\t</li>\n\t<li>\n\t<p>Ngăn ngừa các triệu chứng tại chỗ khi mọc răng sữa hoặc răng khôn và dùng trong phẫu thuật chỉnh răng.</p>\n\t</li>\n</ul>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Kamistad-Gel 10g là thuốc dạng gel dùng cho khoang miệng để điều trị các chứng viêm đau ở lợi, niêm mạc miệng và môi.</p>\n\n<p>Nhờ tính chất giảm đau và sát trùng tại chỗ, Kamistad-Gel 10g cũng thích hợp cho người mang răng giả bôi vào các điểm bị chèn ép để giảm cảm giác quá mẫn đối với vật lạ trong giai đoạn chưa thích nghi.</p>\n\n<p>Với tác dụng gây tê bề mặt đặc biệt, <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/lidocaine\">lidocaine hydroclorid</a> trong Kamistad-Gel 10g giúp giảm đau nhanh chóng và kéo dài, đặc biệt hữu ích khi viêm niêm mạc miệng và lợi. Kamistad-Gel 10g cũng chứa dịch chiết hoa cúc có tác dụng chống viêm.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Chưa có báo cáo.</p>",
+  "ingredients_html": [
+    {
+      "id": 21932,
+      "ingredientId": 25532,
+      "shortDescription": "20mg",
+      "name": "Lidocaine",
+      "isPrimary": false,
+      "slug": "thanh-phan/lidocaine"
+    },
+    {
+      "id": 21933,
+      "ingredientId": 16076,
+      "shortDescription": "185mg",
+      "name": "Cúc hoa",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

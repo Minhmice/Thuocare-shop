@@ -1,0 +1,49 @@
+{
+  "id": "00033639",
+  "slug": "thuoc/methocarbamol-500mg-khapharco-100v-33724.html",
+  "title": "Viên nén Methocarbamol 500mg Khapharco điều trị ngắn hạn các cơn đau, co thắt cơ, bong gân (100 viên)",
+  "short_title": "METHOCARBAMOL 500MG KHAPHARCO 100V",
+  "brand": {
+    "name": "Khapharco",
+    "slug": "thuong-hieu/khapharco",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/co-xuong-khop/thuoc-gian-co",
+    "name": "Thuốc giãn cơ",
+    "parent_slug": "thuoc/co-xuong-khop"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "100 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00033639_methocarbamol_500mg_khapharco_100v_3541_6239_large_19569f4e13.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00033639_methocarbamol_500mg_khapharco_100v_3541_6239_large_19569f4e13.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00033639_methocarbamol_500mg_khapharco_100v_1647914593_d8721a27ea.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00033639_methocarbamol_500mg_khapharco_100v_6006_6239_large_414e9fe656.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00033639_methocarbamol_500mg_khapharco_100v_6379_6239_large_cd99335ae5.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00033639_methocarbamol_500mg_khapharco_100v_3867_6239_large_c379384338.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00033639_methocarbamol_500mg_khapharco_100v_3982_6239_large_29be5efced.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Methocarbamol chứa dược chất chính là methocarbamol hàm lượng 500mg, được dùng để điều trị ngắn hạn các cơn đau và co thắt cơ do chấn thương như bong gân, trật khớp.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p><a href=\"https://nhathuoclongchau.com.vn/thuoc/methocarbamol-500mg-khapharco-100v-33724.html\">Thuốc Methocarbamol</a> được chỉ định dùng trong các trường hợp điều trị ngắn hạn các cơn đau và co thắt cơ do chấn thương như bong gân, trật khớp.</p>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Methocarbamol có tác dụng giãn cơ kéo dài trên các cơ xương bằng cách ức chế chọn lọc trên hệ thần kinh trung ương đặc biệt là các nơron trung gian làm dịu hệ thần kinh trung ương, ức chế co rút, giảm đau trung tâm, giảm cơn đau cấp tính và co thắt cơ.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p><em>Hấp thu</em></p>\n\n<p>Methocarbamol được hấp thu dễ dàng qua đường tiêu hoá sau khi uống và đạt nồng độ đỉnh trong máu sau khi uống từ 1 - 2 giờ.</p>\n\n<p><em>Phân bố</em></p>\n\n<p>Methocarbamol được phân bố rộng rãi ở gan, thận, não, phổi, cơ, xương. Khả năng gắn kết với protein huyết tương 46 - 50%.</p>\n\n<p><em>Thải trừ</em></p>\n\n<p>Thời gian bán thải của methocarbamol là 0,9 - 1,8 giờ, đào thải nhanh chóng và hoàn toàn qua nước tiểu.</p>",
+  "ingredients_html": [
+    {
+      "id": 29630,
+      "ingredientId": 27186,
+      "shortDescription": "500mg",
+      "name": "Methocarbamol",
+      "isPrimary": false,
+      "slug": "thanh-phan/methocarbamol"
+    }
+  ],
+  "stock_qty": 0
+}

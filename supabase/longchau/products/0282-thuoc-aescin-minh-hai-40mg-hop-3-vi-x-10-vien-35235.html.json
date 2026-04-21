@@ -1,0 +1,52 @@
+{
+  "id": "00501089",
+  "slug": "thuoc/aescin-minh-hai-40mg-hop-3-vi-x-10-vien-35235.html",
+  "title": "Viên nén Aescin 40mg Minh Hải điều trị thiểu năng tĩnh mạch, tụ máu (3 vỉ x 10 viên)",
+  "short_title": "MHAESCIN 40 MINH HẢI 3X10",
+  "brand": {
+    "name": "Minh Hải",
+    "slug": "thuong-hieu/minh-hai",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tri-tri-suy-gian-tinh-mach",
+    "name": "Thuốc trị trĩ, suy giãn tĩnh mạch",
+    "parent_slug": "thuoc/thuoc-tim-mach-and-mau"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00501089_aescin_minh_hai_40mg_hop_3_vi_x_10_vien_2903_63d7_large_1f2f02292e.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00501089_aescin_minh_hai_40mg_hop_3_vi_x_10_vien_2903_63d7_large_1f2f02292e.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00501089_aescin_minh_hai_40mg_hop_3_vi_x_10_vien_1675061781_02d9321a2c.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00501089_aescin_minh_hai_40mg_hop_3_vi_x_10_vien_5697_63d7_large_c5743ddc74.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00501089_aescin_minh_hai_40mg_hop_3_vi_x_10_vien_4053_63d7_large_d2753acdb6.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00501089_aescin_minh_hai_40mg_hop_3_vi_x_10_vien_2967_63d7_large_46fd98acae.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00501089_aescin_minh_hai_40mg_hop_3_vi_x_10_vien_2395_63d7_large_847bf9ecbb.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00501089_aescin_minh_hai_40mg_hop_3_vi_x_10_vien_8953_63d7_large_8e76279674.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00501089_aescin_minh_hai_40mg_hop_3_vi_x_10_vien_4481_63d7_large_dbab726ffd.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00501089_aescin_minh_hai_40mg_hop_3_vi_x_10_vien_9278_63d7_large_fb66fa8465.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Aescin là sản phẩm của Dược Minh Hải chứa hoạt chất Escin có tác dụng điều trị thiểu năng tĩnh mạch mãn tính, giãn tĩnh mạch chân, trĩ, viêm tĩnh mạch chân, phòng và điều trị tụ máu, chống viêm, chống phù nề sau phẫu thuật và chấn thương.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p>Thuốc Aescin chỉ định điều trị trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Điều trị thiểu năng tĩnh mạch mãn tính, giãn tĩnh mạch chân, trĩ.</li>\n\t<li>Điều trị viêm tĩnh mạch chân.</li>\n\t<li>Phòng và điều trị tụ máu, chống viêm, chống phù nề sau phẫu thuật và chấn thương.</li>\n</ul>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Chưa có dữ liệu.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 47378,
+      "ingredientId": 7872,
+      "shortDescription": "40mg",
+      "name": "Aescin",
+      "isPrimary": true,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

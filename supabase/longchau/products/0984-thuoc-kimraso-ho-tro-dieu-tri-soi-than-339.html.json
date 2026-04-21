@@ -1,0 +1,57 @@
+{
+  "id": "00004185",
+  "slug": "thuoc/kimraso-ho-tro-dieu-tri-soi-than-339.html",
+  "title": "Viên nén Kimraso Forifarm điều trị sỏi thận, sỏi mật, viêm bể thận, viêm túi mật (60 viên)",
+  "short_title": "KIMRASO 60V",
+  "brand": {
+    "name": "Foripharm",
+    "slug": "thuong-hieu/foripharm",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-benh-gan",
+    "name": "Thuốc trị bệnh gan",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 60 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004185_kimraso_ho_tro_dieu_tri_soi_than_7723_5b1e_large_a0782f523a.JPG",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004185_kimraso_ho_tro_dieu_tri_soi_than_7723_5b1e_large_a0782f523a.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004185_kimraso_ho_tro_dieu_tri_soi_than_1628785203_b6cf969aa4.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/1_56971a3745.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004185_kimraso_ho_tro_dieu_tri_soi_than_7817_5b1e_large_f534a271a9.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004185_kimraso_ho_tro_dieu_tri_soi_than_6656_5b1e_large_726190c7ef.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004185_kimraso_ho_tro_dieu_tri_soi_than_3159_6115_large_9530e2d2fb.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Kimraso là sản phẩm của Công ty Cổ phần Dược phẩm Trung ương 3 có thành phần chính là râu mèo có tác dụng trong điều trị sỏi thận, sỏi mật, viêm bể thận, viêm túi mật.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p>Thuốc Kimraso được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Điều trị <a href=\"https://nhathuoclongchau.com.vn/benh/soi-than-358.html\">sỏi thận</a>, sỏi mật, viêm bể thận, <a href=\"https://nhathuoclongchau.com.vn/benh/viem-tui-mat-409.html\">viêm túi mật</a>.</li>\n</ul>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/kim-tien-thao\">Kim tiền thảo</a> là một loại dược liệu rất công hiệu để chữa trị các bệnh về sỏi thận và sỏi mật (đặc biệt là các bệnh kết sỏi ở hệ thống tiết niệu) mà không gây bất kỳ tác dụng phụ.</p>\n\n<p>Từ lâu Kim tiền thảo đã được đưa vào từ điển Trung Quốc với tên Thạch Lâm Thông. Y học cổ truyền dùng làm thuốc uống trị các bệnh kết sỏi ở hệ thống tiết niệu, làm tiêu viêm, giảm đau.</p>\n\n<p>Râu mèo là loại dược liệu rất tốt để làm lượng nước tiểu tăng lên. Đồng thời còn có tác dụng chữa xung huyết đường mật. Y học cổ truyền dùng làm thuốc thông tiểu tiện trong các bệnh sỏi thận, sỏi mật.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Chưa ghi nhận.</p>",
+  "ingredients_html": [
+    {
+      "id": 27093,
+      "ingredientId": 42360,
+      "shortDescription": "142.8mg",
+      "name": "Cao đặc Kim tiền thảo",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 60900,
+      "ingredientId": 42361,
+      "shortDescription": "46.6mg",
+      "name": "Cao đặc Râu mèo",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

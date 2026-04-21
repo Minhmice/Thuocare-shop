@@ -1,0 +1,171 @@
+{
+  "id": "00033667",
+  "slug": "thuoc/thuoc-ho-bo-phe-truong-bach-diep-125ml-33756.html",
+  "title": "Thuốc ho bổ phế Trường Bạch Diệp Trường Thọ chữa ho tiêu đờm, chuyên trị ho cảm (125ml)",
+  "short_title": "THUỐC HO BỔ PHẾ TRƯỜNG BÁCH DIỆP 125ML",
+  "brand": {
+    "name": "Trường Thọ Pharma",
+    "slug": "thuong-hieu/truong-tho-pharma",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-ho-hap/siro-tri-ho-cam",
+    "name": "Siro trị ho cảm",
+    "parent_slug": "thuoc/thuoc-ho-hap"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Chai",
+  "pack_note": "Chai x 125ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00033667_thuoc_ho_bo_phe_truong_bach_diep_125ml_5652_623c_large_fd346f3bcf.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00033667_thuoc_ho_bo_phe_truong_bach_diep_125ml_5652_623c_large_fd346f3bcf.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00033667_thuoc_ho_bo_phe_truong_bach_diep_125ml_4867_623c_large_edc00801d2.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00033667_thuoc_ho_bo_phe_truong_bach_diep_125ml_9869_623c_large_46395f6cbb.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00033667_thuoc_ho_bo_phe_truong_bach_diep_125ml_5149_623c_large_698057dc1e.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00033667_thuoc_ho_bo_phe_truong_bach_diep_125ml_3687_623c_large_e85db07faa.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00033667_thuoc_ho_bo_phe_truong_bach_diep_125ml_1710_623c_large_ac074bf5d4.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00033667_thuoc_ho_bo_phe_truong_bach_diep_125ml_5374_623c_large_65b8722319.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00033667_thuoc_ho_bo_phe_truong_bach_diep_125ml_7588_623c_large_c236204b85.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Siro",
+  "trust_label": null,
+  "short_description": "<p>Thuốc ho bổ phế Trường Bách Diệp của Công ty Cổ phần dược phẩm Trường Thọ, với thành phần chính là Bạch linh, Cát cánh, Tỳ bà diệp, Tang bạch bì, Ma hoàng, Thiên môn đông, Bạc hà, Bách hộ, Bán hạ, Mơ muối, Cam thảo, Ngũ vị tử,…</p>\n\n<p>Thuốc được dùng theo đơn trong các trường hợp ho, cảm. Chất lỏng sánh, màu nâu vàng, mùi thơm dược liệu, vị ngọt cay, sau tê.</p>\n\n<p>Thuốc được bào chế dưới dạng siro, chứa trong chai thủy tinh màu với dung tích 125ml.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p>Thuốc ho bổ phế Trường Bách Diệp được chỉ định trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Chữa ho tiêu đờm;</li>\n\t<li>Chuyên trị ho cảm, ho gió, ho khan, viêm phế quản, viêm họng.</li>\n</ul>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Chưa có nghiên cứu nào về dược động học của thuốc này.</p>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Chưa có nghiên cứu nào về dược lực học ở thuốc này.</p>",
+  "ingredients_html": [
+    {
+      "id": 46639,
+      "ingredientId": 10112,
+      "shortDescription": "0.9 ",
+      "name": "Bạch linh",
+      "isPrimary": false,
+      "slug": "thanh-phan/bach-linh"
+    },
+    {
+      "id": 46640,
+      "ingredientId": 13188,
+      "shortDescription": "3.750 ",
+      "name": "Cát cánh",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 46641,
+      "ingredientId": 39705,
+      "shortDescription": "9.750 ",
+      "name": "Tỳ bà diệp",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 46642,
+      "ingredientId": 37464,
+      "shortDescription": "5.625 ",
+      "name": "Tang bạch bì",
+      "isPrimary": false,
+      "slug": "thanh-phan/tang-bach-bi"
+    },
+    {
+      "id": 46643,
+      "ingredientId": 26198,
+      "shortDescription": "0.656 ",
+      "name": "Ma hoàng",
+      "isPrimary": false,
+      "slug": "thanh-phan/ma-hoang"
+    },
+    {
+      "id": 46644,
+      "ingredientId": 38199,
+      "shortDescription": "1.208",
+      "name": "Thiên môn đông",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 46645,
+      "ingredientId": 10043,
+      "shortDescription": "1.666",
+      "name": "Bạc hà",
+      "isPrimary": false,
+      "slug": "thanh-phan/bac-ha"
+    },
+    {
+      "id": 46646,
+      "ingredientId": 10099,
+      "shortDescription": "12.500",
+      "name": "Bách hộ",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 46647,
+      "ingredientId": 10274,
+      "shortDescription": "7.500",
+      "name": "Bán hạ chế",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 46648,
+      "ingredientId": 27810,
+      "shortDescription": "2.813",
+      "name": "Mơ muối",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 46649,
+      "ingredientId": 12473,
+      "shortDescription": "0.591",
+      "name": "Cam thảo",
+      "isPrimary": false,
+      "slug": "thanh-phan/cam-thao"
+    },
+    {
+      "id": 46650,
+      "ingredientId": 29693,
+      "shortDescription": "5",
+      "name": "Ngũ vị tử",
+      "isPrimary": false,
+      "slug": "thanh-phan/ngu-vi-tu"
+    },
+    {
+      "id": 46651,
+      "ingredientId": 38658,
+      "shortDescription": "0.010",
+      "name": "Tinh dầu bạc hà",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 46652,
+      "ingredientId": 32190,
+      "shortDescription": "0.208",
+      "name": "Phèn chua",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 46653,
+      "ingredientId": 27192,
+      "shortDescription": "0.075",
+      "name": "Methol",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 46654,
+      "ingredientId": 37331,
+      "shortDescription": "125ml",
+      "name": "Tá dược vừa đủ",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

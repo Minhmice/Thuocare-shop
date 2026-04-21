@@ -1,0 +1,58 @@
+{
+  "id": "00005825",
+  "slug": "thuoc/pepsane-2655.html",
+  "title": "Gel uống Pepsane Rosa Phyto Pharma điều trị triệu chứng đau dạ dày (30 gói)",
+  "short_title": "PEPSANE 30 GÓI",
+  "brand": {
+    "name": "ROSA PHYTO PHARMA",
+    "slug": "thuong-hieu/rosa-phyto-pharma",
+    "country": "Pháp"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-da-day",
+    "name": "Thuốc dạ dày",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 5383,
+  "compare_at_amount": 0,
+  "unit": "Gói",
+  "pack_note": "30 Gói",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005825_pepsane_3469_5b7b_large_93291c6b0d.JPG",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005825_pepsane_3469_5b7b_large_93291c6b0d.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005825_pepsane_1619520373_9e8a777e98.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005825_pepsane_2868_5b7b_large_ff100a34f2.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005825_pepsane_4314_5b7b_large_4c8f678f78.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005825_pepsane_9374_5b7b_large_eecb16d960.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005825_pepsane_8906_5b7b_large_7e9ac20cda.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005825_pepsane_7938_6087_large_44061c1c8b.jpg"
+  ],
+  "origin_label": "Pháp",
+  "country": "Pháp",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Gel uống",
+  "trust_label": null,
+  "short_description": "<p><strong>Thuốc Pepsane®</strong> được sản xuất bởi <i>Công ty Laboratoires Rosa-phytopharma (Pháp)</i>, có thành phần chính là Dimeticon và Guaiazulen, được sử dụng điều trị triệu chứng đau dạ dày, và dùng trong trường hợp trướng bụng.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p><strong>Thuốc Pepsane®</strong> được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>\n\t<p>Điều trị triệu chứng <strong><a href=\"https://nhathuoclongchau.com.vn/benh/dau-da-day-khong-do-viem-loet-453.html\">đau dạ dày</a></strong>.</p>\n\t</li>\n\t<li>\n\t<p>Dùng trong trường hợp trướng bụng.</p>\n\t</li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p>Dược lực học Guaiazulen có tác động như chất đối kháng thụ thể với thromboxan A2 (tác nhân gây co mạch với thời gian bán hủy rất ngắn) và cũng gây ra sự gia tăng lưu lượng máu ở niêm mạc dạ dày, do đó cải thiện các cơ chế bảo vệ niêm mạc và giúp tái tạo các tế bào biểu mô dạ dày.</p>\n\n<p>Bên cạnh đó, Guaiazulen cũng làm giảm phóng thích <strong><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/histamine\">histamin</a></strong> trong dạ dày. Tác dụng này góp phần làm giảm sự kích thích của tế bào thành dạ dày do đó làm giảm tiết acid.</p>\n\n<p>Dimeticon là một chất trơ với tác dụng chống tạo bọt, do khả năng thay đổi sức căng bề mặt của nó. Thuộc tính này làm vỡ bong bóng khí nhỏ dẫn đến sự hình thành các bong bóng lớn hơn hoặc các túi khí, do đó dễ dàng di chuyển và bị loại bỏ.</p>\n\n<p>Tác dụng chống tạo bọt này làm giảm hoặc thay đổi cấu tạo của khí trong đường tiêu hóa. Pepsane không cản tia X.</p>\n\n<h3>Dược động học</h3>\n\n<p>Chưa có dữ liệu về nghiên cứu dược động học của Pepsane. Hoạt chất Dimeticon được hấp thu không đáng kể qua đường tiêu hóa và đào thải trong phần dưới dạng nguyên vẹn. Rất ít thông tin về dược động học của guaiazulen. Khi sử dụng liều cao hơn hẳn so với liều khuyến cáo điều trị, guaiazulen được tìm thấy ở dạng vết trong huyết tương.</p>\n\n<p>Các nghiên cứu trên động vật cho thấy guaiazulen hấp thu tốt tại ruột non khi dùng thuốc đường uống. Không có thông tin về phân bố, chuyển hóa và thải trừ của guaiazulen.</p>",
+  "ingredients_html": [
+    {
+      "id": 59976,
+      "ingredientId": 42026,
+      "shortDescription": "0.004g",
+      "name": "Guaiazulen",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 63524,
+      "ingredientId": 42027,
+      "shortDescription": "3g",
+      "name": "Dimethicon",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

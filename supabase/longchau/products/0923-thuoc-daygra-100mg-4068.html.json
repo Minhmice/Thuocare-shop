@@ -1,0 +1,49 @@
+{
+  "id": "00002293",
+  "slug": "thuoc/daygra-100mg-4068.html",
+  "title": "Thuốc Daygra 100 Abbott điều trị rối loạn cương dương (1 vỉ x 4 viên)",
+  "short_title": "DAYGRA 100MG ABBOTT 1X4",
+  "brand": {
+    "name": "Abbott",
+    "slug": "thuong-hieu/abbott",
+    "country": "Hoa Kỳ"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-tri-roi-loan-cuong-duong",
+    "name": "Thuốc trị rối loạn cương dương",
+    "parent_slug": "thuoc/thuoc-tiet-nieu-sinh-duc"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "4 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002293_daygra_100mg_2315_62c3_large_299f0c1dfd.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002293_daygra_100mg_2315_62c3_large_299f0c1dfd.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002293_daygra_100mg_6778_62c3_large_cc9cd3e69f.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002293_daygra_100mg_9449_62c3_large_6dd285b994.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002293_daygra_100mg_6065_62c3_large_d0e732af12.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002293_daygra_100mg_3181_62c3_large_d203ce5f92.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002293_daygra_100mg_1596_62c3_large_b40d5dfe4d.jpg"
+  ],
+  "origin_label": "Hoa Kỳ",
+  "country": "Hoa Kỳ",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Daygra 100 có thành phần chính sildenafil để điều trị tình trạng rối loạn cương dương, là tình trạng không có khả năng đạt được hoặc duy trì sự cương cứng ở nam giới.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3><p><a href=\"https://nhathuoclongchau.com.vn/thuoc/daygra-100mg-4068.html\">Thuốc Daygra 100</a> được chỉ định dùng trong các trường hợp:</p><ul><li>Điều trị tình trạng <a href=\"https://nhathuoclongchau.com.vn/benh/roi-loan-cuong-duong-494.html\">rối loạn cương dương</a>, là tình trạng không có khả năng đạt được hoặc duy trì sự cương cứng ở nam giới.</li></ul><h3><strong>Dược lực học</strong></h3><p><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/sildenafil\">Sildenafil</a>, một thuốc dùng đường uống trong điều trị rối loạn cương dương (ED), là thuốc ức chế chọn lọc guanosin monophosphat vòng (cGMP) - phosphodiesterase đặc hiệu typ 5 (PDES).</p><p>Cơ chế sinh lý của sự cương dương vật kéo theo sự giải phóng oxid nitric (NO) ở thể hang trong suốt quá trình kích thích tình dục.</p><p>Sau đó, NO hoạt hóa men guanylat cyclase, men này làm tăng nồng độ cGMP, từ đó làm giãn cơ trơn mạch máu ở thể hang và cho phép dòng máu chảy vào.</p><p>Sildenafil không có tác dụng làm giãn trực tiếp trên thể hang phân lập ở người nhưng nó làm tăng tác dụng của NO bằng cách ức chế PDE5, chất này có tác dụng phân hủy cGMP trong thể hang. Khi kích thích tình dục gây ra sự giải phóng NO tại chỗ, thì sự ức chế PDE5 bởi sildenafil làm tăng nồng độ cGMP trong thể hang, từ đó làm giãn cơ trơn và tăng dòng máu tới thể hang.</p><p>Ở liều khuyến cáo, sildenafil không có tác dụng nếu không có kích thích tình dục kèm theo.</p><h3><strong>Dược động học</strong></h3><p>Sau khi uống một liều sildenafil, thuốc được hấp thu nhanh với khả dụng sinh học khoảng 40%. Nồng độ đỉnh trong huyết tương đạt được trong vòng 30 - 120 phút. Mức độ hấp thu giảm khi uống thuốc cùng với thức ăn.</p><p>Sildenafil được phân bố rộng khắp các mô và khoảng 96% gắn kết với protein huyết tương.</p><p>Thuốc được chuyển hóa ở gan chủ yếu bởi enzym cytochrom P450 3A4. Chất chuyển hóa chính, N-desmethylsildenafil, cũng có một vài tác dụng. Nửa đời thải trừ cuối cùng của sildenafil và chất chuyển hóa N-desmethyl là khoảng 4 giờ.</p><p>Sildenafil được thải trừ dưới dạng chất chuyển hóa, chủ yếu trong phân, và một ít trong nước tiểu. Độ thanh thải có thể giảm ở người già và người suy gan hay suy thận nặng.</p>",
+  "ingredients_html": [
+    {
+      "id": 33746,
+      "ingredientId": 35991,
+      "shortDescription": "100mg",
+      "name": "Sildenafil",
+      "isPrimary": false,
+      "slug": "thanh-phan/sildenafil"
+    }
+  ],
+  "stock_qty": 0
+}

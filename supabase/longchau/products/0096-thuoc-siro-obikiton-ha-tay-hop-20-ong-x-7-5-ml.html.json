@@ -1,0 +1,108 @@
+{
+  "id": "00041725",
+  "slug": "thuoc/siro-obikiton-ha-tay-hop-20-ong-x-7-5-ml.html",
+  "title": "Siro Obikiton Hà Tây bổ sung calci, lysin và các vitamin cho trẻ (20 ống x 7.5ml)",
+  "short_title": "SIRO OBIKITON HÀ TÂY HỘP 20 ỐNG X 7.5ML",
+  "brand": {
+    "name": "Hà Tây",
+    "slug": "thuong-hieu/ha-tay",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-bo-and-vitamin/siro-bo",
+    "name": "Siro bổ",
+    "parent_slug": "thuoc/thuoc-bo-and-vitamin"
+  },
+  "price_amount": 14300,
+  "compare_at_amount": 0,
+  "unit": "Ống",
+  "pack_note": "20 Ống x 7.5ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00041725_db4b54106f.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00041725_db4b54106f.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Siro",
+  "trust_label": null,
+  "short_description": "<p>Siro Obikiton là sản phẩm của Công ty Cổ phần Dược phẩm Hà Tây, có thành phần chính là Calcium lactate, vitamin B1, vitamin B2, vitamin B6, vitamin D3, vitamin E, vitamin PP, vitamin B5, Lysine. Đây là thuốc được sử dụng để bổ sung calci, lysin và các vitamin cho trẻ em và thanh thiếu niên trong giai đoạn tăng trưởng; phòng ngừa trường hợp thiếu vitamin như đang theo một chế độ ăn kiêng đặc biệt, trong thời kỳ thời kỳ dưỡng bệnh, cơ thể suy nhược hoặc trong thời gian phục hồi sức khoẻ (sau khi ốm, nhiễm khuẩn hoặc sau phẫu thuật).</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Siro Obikiton được chỉ định dùng trong các trường hợp sau:</p><ul><li>Bổ sung calci, lysin và các vitamin cho trẻ em và thanh thiếu niên trong giai đoạn tăng trưởng.</li><li>Để phòng ngừa trường hợp thiếu vitamin như đang theo một chế độ ăn kiêng đặc biệt, trong thời kỳ thời kỳ dưỡng bệnh, cơ thể suy nhược hoặc trong thời gian phục hồi sức khoẻ (sau khi ốm, nhiễm khuẩn hoặc sau phẫu thuật).</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 5121,
+      "ingredientId": 12375,
+      "shortDescription": "65mg",
+      "name": "Calcium lactate",
+      "isPrimary": false,
+      "slug": "thanh-phan/calcium-lactate"
+    },
+    {
+      "id": 5122,
+      "ingredientId": 40316,
+      "shortDescription": "1.5mg",
+      "name": "Vitamin B1",
+      "isPrimary": false,
+      "slug": "thanh-phan/vitamin-b1"
+    },
+    {
+      "id": 5123,
+      "ingredientId": 40324,
+      "shortDescription": "1.75mg",
+      "name": "Vitamin B2",
+      "isPrimary": false,
+      "slug": "thanh-phan/vitamin-b2"
+    },
+    {
+      "id": 5124,
+      "ingredientId": 40333,
+      "shortDescription": "3mg",
+      "name": "Vitamin B6",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 5125,
+      "ingredientId": 40361,
+      "shortDescription": "200iu",
+      "name": "Vitamin D3",
+      "isPrimary": false,
+      "slug": "thanh-phan/vitamin-d3"
+    },
+    {
+      "id": 5126,
+      "ingredientId": 40363,
+      "shortDescription": "7.5iu",
+      "name": "Vitamin E",
+      "isPrimary": false,
+      "slug": "thanh-phan/vitamin-e"
+    },
+    {
+      "id": 5127,
+      "ingredientId": 40393,
+      "shortDescription": "10mg",
+      "name": "Vitamin PP",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 5128,
+      "ingredientId": 40331,
+      "shortDescription": "5mg",
+      "name": "Vitamin B5",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 5129,
+      "ingredientId": 26159,
+      "shortDescription": "150mg",
+      "name": "Lysine",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

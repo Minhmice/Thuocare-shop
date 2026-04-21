@@ -1,0 +1,55 @@
+{
+  "id": "00039479",
+  "slug": "thuoc/lipagim-200-agimexpharm-3-x10.html",
+  "title": "Thuốc Lipagim 200 Agimexpharm bổ sung cho chế độ ăn uống, điều trị tăng triglycerid máu (3 vỉ x 10 viên)",
+  "short_title": "LIPAGIM 200 AGIMEXPHARM 3X10",
+  "brand": {
+    "name": "Agimexpharm",
+    "slug": "thuong-hieu/agimexpharm",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tri-mo-mau",
+    "name": "Thuốc trị mỡ máu",
+    "parent_slug": "thuoc/thuoc-tim-mach-and-mau"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09706_67d7e2cbeb.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09706_67d7e2cbeb.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09707_48c9a1b59e.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09708_c3fb0ebf2a.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09709_bb4ce9be84.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09710_50d99e9003.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09711_f358b6ee1a.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09713_e4062f1862.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09714_05fd8b778c.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/Lipagim_200_1_086bf8c2d1.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/Lipagim_200_2_c6f6f8db52.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/Lipagim_200_3_e627438b1c.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/Lipagim_200_4_8f882e26c0.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang cứng",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Lipagim là sản phẩm của Công ty Cổ phần Dược phẩm Agimexpharm chứa hoạt chất Fenofibrate được chỉ định như một thuốc bổ sung cho chế độ ăn uống và các điều trị không dùng thuốc khác (ví dụ tập thể dục, giảm cân) trong những trường hợp sau: Điều trị tăng triglycerid máu, tăng lipid máu.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p><a href=\"https://nhathuoclongchau.com.vn/thuoc/lipagim-200-agimexpharm-3-x10.html\">Thuốc Lipagim</a> chỉ định như một thuốc bổ sung cho chế độ ăn uống và các điều trị không dùng thuốc khác (ví dụ tập thể dục, giảm cân) trong những trường hợp sau:</p><ul><li>Điều trị <a href=\"https://nhathuoclongchau.com.vn/bai-viet/goc-thac-mac-tang-triglyceride-mau-don-thuan-la-gi.html\">tăng triglycerid máu</a> nặng có hoặc không có cholesterol HDL thấp.</li><li>Tăng lipid máu hỗn hợp khi statin bị chống chỉ định hoặc không dung nạp.</li><li>Tăng lipid máu hỗn hợp ở những bệnh nhân có nguy cơ tim mạch cao bổ sung cho statin khi triglycerid và cholesterol HDL không được kiểm soát đầy đủ.</li></ul><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 56748,
+      "ingredientId": 20132,
+      "shortDescription": "200mg",
+      "name": "Fenofibrate",
+      "isPrimary": false,
+      "slug": "thanh-phan/fenofibrate"
+    }
+  ],
+  "stock_qty": 0
+}

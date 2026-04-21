@@ -1,0 +1,56 @@
+{
+  "id": "00004828",
+  "slug": "thuoc/melyptol-5ml-3057.html",
+  "title": "Dung dịch xông mũi họng Melyptol Dược 3-2 điều trị hỗ trợ sát khuẩn, giảm đau đường hô hấp (5ml)",
+  "short_title": "MELYPTOL F.T 5ML",
+  "brand": {
+    "name": "Dược 3-2",
+    "slug": "thuong-hieu/duoc-3-2",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-mat-tai-mui-hong/thuoc-tai-mui-hong",
+    "name": "Thuốc tai mũi họng",
+    "parent_slug": "thuoc/thuoc-mat-tai-mui-hong"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Chai",
+  "pack_note": "Chai x 5ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004828_melyptol_5ml_8930_6065_large_668bde88d3.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004828_melyptol_5ml_8930_6065_large_668bde88d3.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004828_melyptol_5ml_4500_6065_large_de8fcbb136.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004828_melyptol_5ml_8911_6065_large_41afe32a2e.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004828_melyptol_5ml_1321_6065_large_d75055f6ad.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004828_melyptol_5ml_1561_6065_large_162cc5bc35.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch",
+  "trust_label": null,
+  "short_description": "<p><strong>Melyptol</strong> của <i>Công ty Cổ phần Dược phẩm 3/2</i>, thành phần chính là cineol và tinh dầu bạc hà. Melyptol là thuốc điều trị hỗ trợ sát khuẩn, giảm đau, làm thông thoáng đường hô hấp; điều trị hỗ trợ trong <a href=\"https://nhathuoclongchau.com.vn/benh/viem-duong-ho-hap-tren-177.html\"><strong>viêm nhiễm đường hô hấp trên</strong></a>, cảm cúm, ho, nghẹt mũi.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3><p><strong>Thuốc Melyptol</strong> được chỉ định trong các trường hợp sau:</p><ul><li>Điều trị hỗ trợ sát khuẩn, giảm đau, làm thông thoáng đường hô hấp.</li><li>Điều trị hỗ trợ trong viêm nhiễm đường hô hấp trên, <a href=\"https://nhathuoclongchau.com.vn/benh/cum-434.html\"><strong>cảm cúm</strong></a>, ho, <a href=\"https://nhathuoclongchau.com.vn/benh/nghet-mui-855.html\">nghẹt mũi</a>.</li></ul><h3><strong>Dược lực học</strong></h3><p>Chưa có báo cáo.</p><h3><strong>Dược động học</strong></h3><p>Chưa có báo cáo.</p>",
+  "ingredients_html": [
+    {
+      "id": 22297,
+      "ingredientId": 38658,
+      "shortDescription": "0.05ml",
+      "name": "Tinh dầu bạc hà",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 22298,
+      "ingredientId": 14839,
+      "shortDescription": "0.25ml",
+      "name": "cineol",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

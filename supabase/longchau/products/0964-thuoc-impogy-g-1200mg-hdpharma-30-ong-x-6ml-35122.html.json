@@ -1,0 +1,44 @@
+{
+  "id": "00500968",
+  "slug": "thuoc/impogy-g-1200mg-hdpharma-30-ong-x-6ml-35122.html",
+  "title": "Dung dịch uống Impory G HD Pharma điều trị bệnh do tổn thương não, thiếu máu cục bộ (30 ống x 6ml)",
+  "short_title": "IMPORY G 1200MG HDPHARMA 30 ỐNG X 6ML",
+  "brand": {
+    "name": "Hdpharma",
+    "slug": "thuong-hieu/hdpharma",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-than-kinh/thuoc-than-kinh",
+    "name": "Thuốc thần kinh",
+    "parent_slug": "thuoc/thuoc-than-kinh"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Ống",
+  "pack_note": "30 Ống x 6ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/10_88f3a28dd8.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/10_88f3a28dd8.png"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch uống",
+  "trust_label": null,
+  "short_description": "<p>Thuốc dung dịch uống Impory G điều trị bệnh do tổn thương não, các triệu chứng của hậu phẫu não, chấn thương não: Loạn tâm thần, đột quỵ, liệt nửa người, thiếu máu cục bộ.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc dung dịch uống <a href=\"https://nhathuoclongchau.com.vn/thuoc/impogy-g-1200mg-hdpharma-30-ong-x-6ml-35122.html\">Impory G</a> điều trị bệnh do tổn thương não, các triệu chứng của hậu phẫu não, chấn thương não: Loạn tâm thần, đột quỵ, <a href=\"https://nhathuoclongchau.com.vn/benh/liet-nua-nguoi-17.html\">liệt nửa người</a>, thiếu máu cục bộ.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 33683,
+      "ingredientId": 32725,
+      "shortDescription": "1200mg",
+      "name": "Piracetam",
+      "isPrimary": false,
+      "slug": "thanh-phan/piracetam"
+    }
+  ],
+  "stock_qty": 0
+}

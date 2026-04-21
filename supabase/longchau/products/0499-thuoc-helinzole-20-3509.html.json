@@ -1,0 +1,46 @@
+{
+  "id": "00003674",
+  "slug": "thuoc/helinzole-20-3509.html",
+  "title": "Thuốc Helinzole 20mg SPM điều trị viêm loét dạ dày, tá tràng (3 vỉ x 8 viên)",
+  "short_title": "HELINZOLE 20 SPM 3X8",
+  "brand": {
+    "name": "S.P.M",
+    "slug": "thuong-hieu/spm",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-da-day",
+    "name": "Thuốc dạ dày",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "8 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/helinzole_189b1b0f0b.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/helinzole_189b1b0f0b.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003674_helinzole_20_1628702933_a07ff208fe.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003674_helinzole_20_8761_6114_large_ab4f63ab78.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang cứng",
+  "trust_label": null,
+  "short_description": "<p>Helinzole của Công ty cổ phần S.P.M, thành phần chính Omeprazole, là thuốc dùng để điều trị trào ngược dịch dạ dày - thực quản, loét dạ dày - tá tràng, hội chứng Zollinger - Ellison. Ngoài ra, thuốc cũng được dùng kết hợp với thuốc kháng sinh để tiêu diệt vi khuẩn H. pylori gây nhiễm trùng dạ dày.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p>Thuốc Helinzole được chỉ định dùng trong các trường hợp sau: Điều trị viêm loét dạ dày, tá tràng, <a href=\"https://nhathuoclongchau.com.vn/benh/viem-thuc-quan-408.html\">viêm thực quản</a> do trào ngược, hội chứng tăng tiết Acid dịch vị (Zollinger-Ellison).</p>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/omeprazole\">Omeprazol</a> thuộc nhóm các hợp chất chống tiết thế hệ mới, có tác dụng ngăn chặn tiết acid dạ dày bằng cách ức chế đặc hiệu hệ thống enzyme H+/K+ ATPase tại mặt tiết của tế bào thành dạ dày.</p>\n\n<p>Omeprazol được mô tả như một chất ức chế bơm Acid dạ dày, phong tỏa giai đoạn cuối cùng của sự sản xuất Acid. Tác dụng này có liên quan đến liều dùng, dẫn đến ức chế cả sự tiết acid cơ bản lẫn sự tiết Acid kích thích bất kể do tác nhân kích thích nào.</p>\n\n<p>Hoạt tính chống tiết: Sau khi uống thuốc, tác dụng chống tiết bắt đầu xuất hiện trong vòng 1 giờ, hiệu quả tối đa đạt được sau 2 giờ. Sự ức chế tiết còn khoảng 50% sau 24 giờ và thời gian ức chế kéo dài đến 72 giờ. Do đó tác dụng chống tiết tồn tại lâu hơn, dù thời gian bán hủy ngắn. Hiệu quả ức chế tiết Acid của Omeprazol gia tăng sau khi dùng liên tục liều duy nhất mỗi ngày, liều dùng thông thường đạt hiệu quả sau 6 ngày.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Hấp thu: Helinzole chứa Omeprazol được bào chế dưới dạng vi hạt tan trong ruột (vì Omeprazol bị phân hủy trong môi trường Acid). Thuốc được hấp thu nhanh, đỉnh trong huyết tương đạt được trong vòng từ 0,5 đến 3,5 giờ. Sinh khả dụng tuyệt đối khoảng 30 - 40% ở liều 20 - 40mg chủ yếu do cơ chế chuyển hoá tiền hệ thống.</p>\n\n<p>Phân bố: Omeprazol gắn nhiều với protein huyết tương (khoảng 95%) và được phân bố ở các mô, đặc biệt là ở các viền của dạ dày.</p>\n\n<p>Chuyển hóa: Thời gian bán hủy trong huyết tương khoảng từ 0,5 đến 1 giờ. Chuyển hóa hoàn toàn tại gan. Các chất chuyển hóa đều không có hoạt tính.</p>\n\n<p>Đào thải: Phần lớn liều dùng (khoảng 80%) được đào thải qua nước tiểu, phần còn lại theo phân.</p>",
+  "ingredients_html": [
+    {
+      "id": 21711,
+      "ingredientId": 30863,
+      "shortDescription": "20mg",
+      "name": "Omeprazol",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

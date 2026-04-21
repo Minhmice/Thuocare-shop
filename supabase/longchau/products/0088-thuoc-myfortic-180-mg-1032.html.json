@@ -1,0 +1,44 @@
+{
+  "id": "00013876",
+  "slug": "thuoc/myfortic-180-mg-1032.html",
+  "title": "Viên nén Myfortic 180mg Novartis dùng cho bệnh nhân ghép thận dị gen (12 vỉ x 10 viên) ",
+  "short_title": "MYFORTIC 180 12X10",
+  "brand": {
+    "name": "Novartis",
+    "slug": "thuong-hieu/novartis",
+    "country": "Thụy Sĩ"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-dieu-tri-ung-thu/thuoc-chong-ung-thu",
+    "name": "Thuốc chống ung thư",
+    "parent_slug": "thuoc/thuoc-dieu-tri-ung-thu"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 12 Vỉ x 10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00013876_myfortic_180_mg_6844_6098_large_52bfa27f71.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00013876_myfortic_180_mg_6844_6098_large_52bfa27f71.png"
+  ],
+  "origin_label": "Thụy Sĩ",
+  "country": "Thụy Sĩ",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén",
+  "trust_label": null,
+  "short_description": "<p><a href=\"https://nhathuoclongchau.com.vn/thuoc/myfortic-180-mg-1032.html\">Myfortic 180mg</a> là sản phẩm của&nbsp;Novartis Pharma Stein AG có thành phần chính là&nbsp;Mycophenolic acid (dưới dạng Mycophenolat natri)&nbsp;dùng phối hợp với ciclosporin dạng vi nhũ tương và corticosteroid để dự phòng sự thải loại mảnh ghép cấp tính ở bệnh nhân ghép thận dị gen.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3><p>Thuốc Myfortic 180mg được chỉ định dùng trong các trường hợp sau:</p><ul><li>Dùng phối hợp với <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/ciclosporin\">ciclosporin</a> dạng vi nhũ tương và corticosteroid để dự phòng sự thải loại mảnh ghép cấp tính ở bệnh nhân ghép thận dị gen.</li></ul><h3><strong>Dược lực học</strong></h3><p>Chưa có dữ liệu</p><h3><strong>Dược động học</strong></h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 24676,
+      "ingredientId": 28218,
+      "shortDescription": "180mg",
+      "name": "Mycophenolic acid",
+      "isPrimary": false,
+      "slug": "thanh-phan/mycophenolic-acid"
+    }
+  ],
+  "stock_qty": 0
+}

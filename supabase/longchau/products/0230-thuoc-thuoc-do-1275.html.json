@@ -1,0 +1,45 @@
+{
+  "id": "00010451",
+  "slug": "thuoc/thuoc-do-1275.html",
+  "title": "Thuốc đỏ Sagopha sát khuẩn vết thương ngoài da (15ml)",
+  "short_title": "THUỐC ĐỎ SGP",
+  "brand": {
+    "name": "Sagopha",
+    "slug": "thuong-hieu/sagopha",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-da-lieu/thuoc-sat-khuan",
+    "name": "Thuốc sát khuẩn",
+    "parent_slug": "thuoc/thuoc-da-lieu"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Chai",
+  "pack_note": "Chai x 15ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00010451_thuoc_do_3386_5b59_large_0f7b201cc9.JPG",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00010451_thuoc_do_3386_5b59_large_0f7b201cc9.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00010451_thuoc_do_3593_5b59_large_4bf0bfb576.JPG"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch",
+  "trust_label": null,
+  "short_description": "<p style=\"text-align:justify;\"><a href=\"https://nhathuoclongchau.com.vn/thuoc/thuoc-do-1275.html\">Thuốc đỏ Sagopha</a> do Công ty TNHH Dược phẩm Sài Gòn sản xuất, thuốc&nbsp;có quy cách đóng gói gồm chai 15ml chứa dung dịch dùng ngoài Mercurochrome 0,15g/15ml. Thuốc đỏ Sagopha là loại <a href=\"https://nhathuoclongchau.com.vn/thuoc/thuoc-da-lieu/thuoc-khu-trung-and-sat-trung-da\"><strong>thuốc khử trùng và sát trùng da</strong></a> có công dụng dùng để sát khuẩn vết thương ngoài da.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3><p>Thuốc đỏ Sagopha được chỉ định dùng trong&nbsp;trường hợp sau: Dùng để sát khuẩn vết thương ngoài da.</p><h3><strong>Dược lực học</strong></h3><p>Khi bôi thuốc đỏ sát trùng Sagopha lên vết thương, <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/mercurochrome\">Mercurochrome</a> trong thuốc sẽ nhuộm thành màu đỏ carmine. Mercurochrome có khả năng sát khuẩn cao nên rất hữu ích đối với các bệnh nhiễm trùng ở ngón tay hoặc móng chân hoặc các vết thương ngoài da.</p><h3><strong>Dược động học</strong></h3><p>Chưa có báo cáo.</p>",
+  "ingredients_html": [
+    {
+      "id": 24361,
+      "ingredientId": 27018,
+      "shortDescription": "0.15",
+      "name": "Mercurochrome",
+      "isPrimary": false,
+      "slug": "thanh-phan/mercurochrome"
+    }
+  ],
+  "stock_qty": 0
+}

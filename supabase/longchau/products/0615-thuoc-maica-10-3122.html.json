@@ -1,0 +1,53 @@
+{
+  "id": "00004660",
+  "slug": "thuoc/maica-10-3122.html",
+  "title": "Thuốc bôi da Maica Việt Phúc giảm đau, giảm khó chịu khi da nứt nẻ, nổi ban (8ml)",
+  "short_title": "MAICA 8ML",
+  "brand": {
+    "name": "Việt Phúc",
+    "slug": "thuong-hieu/viet-phuc",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-da-lieu/thuoc-boi-ngoai-da",
+    "name": "Thuốc bôi ngoài da",
+    "parent_slug": "thuoc/thuoc-da-lieu"
+  },
+  "price_amount": 6900,
+  "compare_at_amount": 0,
+  "unit": "Tuýp",
+  "pack_note": "Tuýp x 8ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_4645_a19de6b5ac.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_4645_a19de6b5ac.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_4640_3a959a2448.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_4641_6f69001d18.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_4644_e74f778893.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_4643_37b02a03b0.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_4642_0548eba5a9.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_4646_13d72fbdcc.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_4647_f27e54a605.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/maica_1_cba793a678.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/maica_2_60aa6426a4.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch",
+  "trust_label": null,
+  "short_description": "<p><strong>Maica</strong>&nbsp;của <i>Công ty TNHH Dược phẩm Việt Phúc</i>, thành phần chính acid boric, là thuốc dùng để điều trị dùng làm chất bảo vệ da để giảm đau, giảm khó chịu trong trường hợp da bị nứt nẻ, nổi ban, da khô, những chỗ da bị cọ sát, <a href=\"https://nhathuoclongchau.com.vn/bai-viet/cach-chua-da-bi-chay-nang-lau-ngay-hieu-qua-cuc-nhanh-59717.html\"><strong>cháy nắng</strong></a>, rát do gió, côn trùng đốt hoặc các kích ứng da khác.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3><p>Thuốc <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/boric-acid\"><strong>acid boric</strong></a> được chỉ định dùng trong các trường hợp sau:</p><ul><li>Dùng làm chất bảo vệ da để giảm đau, giảm khó chịu trong trường hợp da bị nứt nẻ, <a href=\"https://nhathuoclongchau.com.vn/benh/phat-ban-884.html\"><strong>nổi ban</strong></a>, da khô, những chỗ da bị cọ sát, cháy nắng, rát do gió, côn trùng đốt hoặc các kích ứng da khác. Thuốc cũng dùng tại chỗ để điều trị nhiễm nấm trên bề mặt, tuy nhiên hiệu quả chưa được rõ lắm.</li></ul><h3><strong>Dược lực học</strong></h3><p>Acid boric là thuốc sát khuẩn tại chỗ có tác dụng kiềm khuẩn và kiềm nấm yếu.</p><h3><strong>Dược động học</strong></h3><p>Acid boric được hấp thụ qua đường tiêu hóa, qua da bị tổn thương, vết thương và niêm mạc. Thuốc không thấm dễ dàng qua da nguyên vẹn.</p><p>Khoảng 50% lượng thuốc hấp thụ được bài tiết qua nước tiểu trong vòng 12 giờ, phần còn lại có thể bài tiết trong vòng 5 đến 7 ngày.</p>",
+  "ingredients_html": [
+    {
+      "id": 22239,
+      "ingredientId": 11453,
+      "shortDescription": "8mg",
+      "name": "Boric acid",
+      "isPrimary": false,
+      "slug": "thanh-phan/boric-acid"
+    }
+  ],
+  "stock_qty": 0
+}

@@ -1,0 +1,60 @@
+{
+  "id": "00502303",
+  "slug": "thuoc/melankit-mediplantex-7-vi-36533.html",
+  "title": "Thuốc Melankit Mediplantex điều trị loét dạ dày tá tràng, viêm dạ dày mãn tính (7 vỉ x 6 viên)",
+  "short_title": "MELANKIT MEDIPLANTEX 7X6",
+  "brand": {
+    "name": "Mediplantex",
+    "slug": "thuong-hieu/mediplantex",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-da-day",
+    "name": "Thuốc dạ dày",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "6 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00502303_cdb984c4de.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00502303_cdb984c4de.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Melankit là sản phẩm của Mediplantex, có thành phần chính là Tinidazole, Lansoprazol, Clarithromycin. Đây là thuốc được sử dụng để điều trị loét dạ dày tá tràng, viêm dạ dày mãn tính có nhiễm Helicobacter pylori.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc Melankit được chỉ định dùng trong các trường hợp sau:</p><ul><li dir=\"ltr\">Điều trị loét dạ dày tá tràng, viêm dạ dày mãn tính có nhiễm Helicobacter pylori.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 38960,
+      "ingredientId": 38724,
+      "shortDescription": "500mg",
+      "name": "Tinidazole",
+      "isPrimary": false,
+      "slug": "thanh-phan/tinidazole"
+    },
+    {
+      "id": 38961,
+      "ingredientId": 25035,
+      "shortDescription": "30mg",
+      "name": "Lansoprazol",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 38962,
+      "ingredientId": 15053,
+      "shortDescription": "500mg",
+      "name": "Clarithromycin",
+      "isPrimary": false,
+      "slug": "thanh-phan/clarithromycin"
+    }
+  ],
+  "stock_qty": 0
+}

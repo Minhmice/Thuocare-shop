@@ -1,0 +1,52 @@
+{
+  "id": "00002071",
+  "slug": "thuoc/copadein-4168.html",
+  "title": "Thuốc Co-Padein Nadyphar giảm đau nhức xương khớp, nhức đầu, nhức răng (10 vỉ x 10 viên)",
+  "short_title": "COPADEIN 10 NDP 10X10",
+  "brand": {
+    "name": "Nadyphar",
+    "slug": "thuong-hieu/nadyphar",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem/thuoc-giam-dau-ha-sot",
+    "name": "Thuốc giảm đau hạ sốt",
+    "parent_slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002071_copadein_6201_62cd_large_4a4471f153.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002071_copadein_6201_62cd_large_4a4471f153.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Copadein là sản phẩm của Công ty Cổ phần Dược phẩm 2/9 - Nadyphar có thành phần chính là Codein phosphat dùng giảm đau nhức xương khớp, nhức đầu, nhức răng, đau bụng kinh.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p>Thuốc Copadein chỉ định dùng giảm đau nhức xương khớp, nhức đầu, nhức răng, <a href=\"https://nhathuoclongchau.com.vn/benh/dau-bung-kinh-567.html\">đau bụng kinh</a>.</p>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Chưa có dữ liệu.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 20823,
+      "ingredientId": 31537,
+      "shortDescription": "500mg",
+      "name": "Paracetamol",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 20824,
+      "ingredientId": 15491,
+      "shortDescription": "10mg",
+      "name": "Codein",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

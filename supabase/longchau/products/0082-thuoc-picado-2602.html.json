@@ -1,0 +1,60 @@
+{
+  "id": "00005959",
+  "slug": "thuoc/picado-2602.html",
+  "title": "Gel bôi da Picado OPC điều trị các chứng viêm và nhiễm trùng niêm mạc miệng (10g)",
+  "short_title": "PICADO OPC 10G",
+  "brand": {
+    "name": "Opc",
+    "slug": "thuong-hieu/opc",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-mat-tai-mui-hong/thuoc-boi-rang-mieng",
+    "name": "Thuốc bôi răng miệng",
+    "parent_slug": "thuoc/thuoc-mat-tai-mui-hong"
+  },
+  "price_amount": 25000,
+  "compare_at_amount": 0,
+  "unit": "Tuýp",
+  "pack_note": "Tuýp x 10g",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005959_picado_9190_609a_large_dc4be9a9cc.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005959_picado_9190_609a_large_dc4be9a9cc.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Gel",
+  "trust_label": null,
+  "short_description": "<p><strong>Picado</strong> là sản phẩm&nbsp;của <i>Công ty Cổ phần&nbsp;Dược phẩm OPC</i>, có thành phần chính là Đại hoàng (Rhizoma Rhei), Acid salicylic. Thuốc có tác dụng trị các chứng viêm nhiễm trùng ở niêm mạc miệng.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p><strong>Thuốc Picado</strong> được chỉ định dùng trong trường hợp:</p>\n\n<ul>\n\t<li>Điều trị tại chỗ các chứng viêm và nhiễm trùng niêm mạc miệng như: Aptơ, <strong><a href=\"https://nhathuoclongchau.com.vn/benh/loet-mieng-459.html\">viêm miệng</a></strong>, viêm nướu, kích thích do mang răng giả, các vết thương và vết loét vùng miệng.</li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p>Đại hoàng có tác dụng thanh nhiệt, giải độc, kháng khuẩn, là vị thuốc thường dùng để chữa trị các trường hợp sưng tấy vùng họng, miệng lợi sưng đau, mụn nhọt.</p>\n\n<p>Acid salicylic là chất kháng nấm, sát khuẩn nhẹ và có tác dụng làm bong các lớp sừng ở da.</p>\n\n<h3>Dược động học</h3>\n\n<p>Chưa có báo cáo.</p>",
+  "ingredients_html": [
+    {
+      "id": 22886,
+      "ingredientId": 16564,
+      "shortDescription": "500mg",
+      "name": "Đại hoàng",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 22887,
+      "ingredientId": 7448,
+      "shortDescription": "100mg",
+      "name": "Acid syalic",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 22888,
+      "ingredientId": 37331,
+      "shortDescription": "10",
+      "name": "Tá dược vừa đủ",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

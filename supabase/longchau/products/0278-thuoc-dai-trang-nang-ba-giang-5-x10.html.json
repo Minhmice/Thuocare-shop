@@ -1,0 +1,148 @@
+{
+  "id": "00048900",
+  "slug": "thuoc/dai-trang-nang-ba-giang-5-x10.html",
+  "title": "Thuốc Đại tràng nang Bà Giằng điều trị viêm đại tràng co thắt, hội chứng ruột kích thích (5 vỉ x 10 viên)",
+  "short_title": "ĐẠI TRÀNG NANG BÀ GIẰNG 5X10",
+  "brand": {
+    "name": "Bà Giằng",
+    "slug": "thuong-hieu/ba-giang",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tieu-hoa",
+    "name": "Thuốc tiêu hoá",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 1800,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00260_bcca3514dc.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00260_bcca3514dc.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00261_d24b6a52b0.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00262_e48f12acb1.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00263_ecc7ceb973.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00264_9a89b6d27b.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00265_f718ab0f13.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00267_2f3c522497.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/dai_trang_ba_giang_180c398365.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/daitrangbagiang2_0584f8e526.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang cứng",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Đại tràng nang Bà Giằng là thuốc được sử dụng để điều trị viêm đại tràng co thắt, hội chứng ruột kích thích thuộc thể tỳ hư thấp trệ với triệu chứng đau bụng kèm theo đi ngoài phân lỏng nhiều lần trong ngày, đặc biệt sau khi ăn đồ ăn nhiều đạm, dầu mỡ, uống rượu bia.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc <a href=\"https://nhathuoclongchau.com.vn/thuoc/dai-trang-nang-ba-giang-5-x10.html\">Đại tràng nang Bà Giằng</a> được chỉ định dùng trong các trường hợp sau:</p><ul><li>Điều trị <a href=\"https://nhathuoclongchau.com.vn/benh/viem-dai-trang-co-that-140.html\">viêm đại tràng co thắt</a>, hội chứng ruột kích thích thuộc thể tỳ hư thấp trệ với triệu chứng <a href=\"https://nhathuoclongchau.com.vn/benh/dau-bung-994.html\">đau bụng</a> kèm theo đi ngoài phân lỏng nhiều lần trong ngày, đặc biệt sau khi ăn đồ ăn nhiều đạm, dầu mỡ, uống rượu bia.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 70640,
+      "ingredientId": 10138,
+      "shortDescription": "80mg",
+      "name": "Bạch truật",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 70641,
+      "ingredientId": 27827,
+      "shortDescription": "27.2mg",
+      "name": "Mộc hương",
+      "isPrimary": false,
+      "slug": "thanh-phan/moc-huong"
+    },
+    {
+      "id": 70642,
+      "ingredientId": 22441,
+      "shortDescription": "13.6mg",
+      "name": "Hoàng liên",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 70643,
+      "ingredientId": 12473,
+      "shortDescription": "16mg",
+      "name": "Cam thảo",
+      "isPrimary": false,
+      "slug": "thanh-phan/cam-thao"
+    },
+    {
+      "id": 70644,
+      "ingredientId": 10112,
+      "shortDescription": "53.6mg",
+      "name": "Bạch linh",
+      "isPrimary": false,
+      "slug": "thanh-phan/bach-linh"
+    },
+    {
+      "id": 70645,
+      "ingredientId": 16671,
+      "shortDescription": "27.2mg",
+      "name": "Đảng Sâm",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 70646,
+      "ingredientId": 38053,
+      "shortDescription": "27.2mg",
+      "name": "Thần Khúc",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 70647,
+      "ingredientId": 39051,
+      "shortDescription": "53.6mg",
+      "name": "Trần bì",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 70648,
+      "ingredientId": 35265,
+      "shortDescription": "27.2mg",
+      "name": "Sa nhân",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 70649,
+      "ingredientId": 26253,
+      "shortDescription": "27.2mg",
+      "name": "Mạch Nha",
+      "isPrimary": false,
+      "slug": "thanh-phan/mach-nha"
+    },
+    {
+      "id": 70650,
+      "ingredientId": 36521,
+      "shortDescription": "27.2mg",
+      "name": "Sơn Tra",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 70651,
+      "ingredientId": 22414,
+      "shortDescription": "27.2mg",
+      "name": "Hoài Sơn",
+      "isPrimary": false,
+      "slug": "thanh-phan/hoai-son"
+    },
+    {
+      "id": 70652,
+      "ingredientId": 29834,
+      "shortDescription": "53.6mg",
+      "name": "Nhục đậu khấu",
+      "isPrimary": false,
+      "slug": "thanh-phan/nhuc-dau-khau"
+    }
+  ],
+  "stock_qty": 0
+}

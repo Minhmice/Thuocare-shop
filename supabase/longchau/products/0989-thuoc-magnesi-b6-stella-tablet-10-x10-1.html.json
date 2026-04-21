@@ -1,0 +1,52 @@
+{
+  "id": "00046912",
+  "slug": "thuoc/magnesi-b6-stella-tablet-10-x10-1.html",
+  "title": "Thuốc Magnesi - B6 STELLA Tablet điều trị hạ magnesium huyết nặng (10 vỉ x 10 viên)",
+  "short_title": "MAGNESI - B6 STELLA TABLET 10X10",
+  "brand": {
+    "name": "Stella Pharm",
+    "slug": "thuong-hieu/stella-pharm",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+    "name": "Thuốc bổ",
+    "parent_slug": "thuoc/thuoc-bo-and-vitamin"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/magensi_8ba3c2f2e0.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/magensi_8ba3c2f2e0.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Magnesi - B6 STELLA Tablet là sản phẩm của Stellapharm chứa Magnesium lactate, Vitamin B6 dùng trong điều trị hạ magnesium huyết nặng, riêng biệt hoặc kèm theo thiếu hụt khoáng chất khác. Khi có thiếu hụt calci kèm theo, khuyến cáo bổ sung magnesium trước khi bổ sung calci. Điều trị các rối loạn chức năng của những cơn lo âu có kèm tăng thông khí (tạng co giật).</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc <a href=\"https://nhathuoclongchau.com.vn/thuoc/magnesi-b6-stella-tablet-10-x10-1.html\">Magnesi - B6 STELLA Tablet</a> chỉ định điều trị trong các trường hợp sau:</p><ul><li>Điều trị hạ magnesium huyết nặng, riêng biệt hoặc kèm theo thiếu hụt khoáng chất khác. Khi có <a href=\"https://nhathuoclongchau.com.vn/benh/thieu-canxi-302.html\">thiếu hụt calci</a> kèm theo, khuyến cáo bổ sung magnesium trước khi bổ sung calci.</li><li>Điều trị các rối loạn chức năng của những cơn lo âu có kèm tăng thông khí (tạng <a href=\"https://nhathuoclongchau.com.vn/benh/co-giat-765.html\">co giật</a>).</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 54701,
+      "ingredientId": 26349,
+      "shortDescription": "470mg",
+      "name": "Magnesium lactate",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 54702,
+      "ingredientId": 33935,
+      "shortDescription": "5mg",
+      "name": "Pyridoxine hydrochloride",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

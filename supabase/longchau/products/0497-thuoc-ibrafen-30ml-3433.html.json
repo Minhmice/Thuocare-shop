@@ -1,0 +1,49 @@
+{
+  "id": "00003882",
+  "slug": "thuoc/ibrafen-30ml-3433.html",
+  "title": "Hỗn dịch uống Children's Ibrafen OPV điều trị đau từ nhẹ đến vừa, sốt sau tiêm chủng (30ml)",
+  "short_title": "IBRAFEN OPV 30ML",
+  "brand": {
+    "name": "Opv",
+    "slug": "thuong-hieu/opv",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem/thuoc-giam-dau-ha-sot",
+    "name": "Thuốc giảm đau hạ sốt",
+    "parent_slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem"
+  },
+  "price_amount": 34000,
+  "compare_at_amount": 0,
+  "unit": "Chai",
+  "pack_note": "Chai x 30ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00003882_ibrafen_30ml_4071_5b7a_large_6ce9a3f598.JPG",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003882_ibrafen_30ml_4071_5b7a_large_6ce9a3f598.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003882_ibrafen_30ml_1628704186_3ad58d97a9.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003882_ibrafen_30ml_9275_5b7a_large_42a5b923b7.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003882_ibrafen_30ml_9702_5b7a_large_66112f1310.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003882_ibrafen_30ml_4848_5b7a_large_f96c95a23f.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003882_ibrafen_30ml_4426_5b7a_large_ce0e008b78.JPG"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Hỗn dịch uống",
+  "trust_label": null,
+  "short_description": "<p> Ibrafen của Công ty Cổ phần Dược phẩm OPV chứa ibuprofen có tác dụng giảm đau, hạ sốt, kháng viêm.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p>Thuốc Ibrafenđược chỉ định dùng điều trị cho trẻ em từ 3 tháng đến 12 tuổi: Đau từ nhẹ đến vừa, sốt sau tiêm chủng, <a href=\"https://nhathuoclongchau.com.vn/benh/thap-khop-88.html\">thấp khớp</a> hoặc đau cơ bắp, <a href=\"https://nhathuoclongchau.com.vn/benh/nhuc-dau-24.html\">đau đầu</a>, giảm sốt, đau họng, đau mọc răng, đau răng, đau nhức nhẹ, các triệu chứng cảm lạnh và <a href=\"https://nhathuoclongchau.com.vn/benh/cum-434.html\">cúm</a>.</p>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Ibuprofen là thuốc kháng viêm không steroid dẫn xuất từ acid propionic có hiệu quả ức chế tổng hợp prostaglandin. Ở người, ibuprofen làm giảm đau, sưng và sốt do viêm. Hơn nữa, ibuprofen ức chế thuận nghịch sự kết tập tiểu cầu. Các dữ liệu cho thấy ibuprofen có thể ức chế tác dụng của aspirin liều thấp lên sự kết tập tiểu cầu khi dùng đồng thời.</p>\n\n<p>Uống liều đơn ibuprofen 400mg trong vòng 8 giờ trước hoặc trong vòng 30 phút sau khi dùng aspirin 81mg dạng phóng thích tức thời, tác dụng aspirin của sự hình thành thromboxan giảm hoặc xảy ra kết tập tiểu cầu.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p><em>Hấp thu</em></p>\n\n<p>Ibuprofen được hấp thu nhanh ở đường tiêu hóa và nhanh chóng phân bố khắp cơ thể. Nồng độ đạt đỉnh trong huyết tương đạt được khoảng 1 đến 2 giờ sau khi uống cùng với bữa ăn hoặc trong 45 phút nếu uống lúc bụng đói. Những thời gian này có thể khác nhau với các dạng bào chế khác nhau.</p>\n\n<p><em>Phân bố</em></p>\n\n<p>Ibuprofen gắn kết mạnh với protein huyết tương. Trong các nghiên cứu còn hạn chế, ibuprofen xuất hiện trong sữa mẹ với nồng độ rất thấp.</p>\n\n<p><em>Chuyển hóa, thải trừ</em></p>\n\n<p>Ibuprofen được chuyển hóa thành hai chất chuyển hóa không có hoạt tính và chúng được bài tiết nhanh chóng qua nước tiểu. Khoảng 1% ibuprofen được bài tiết qua nước tiểu dưới dạng không đổi và khoảng 14% ibuprofen dưới dạng liên hợp. Bài tiết nhanh chóng và hoàn toàn qua thận. Thời gian bán thải là khoảng 2 giờ.</p>",
+  "ingredients_html": [
+    {
+      "id": 21853,
+      "ingredientId": 23189,
+      "shortDescription": "100mg",
+      "name": "Ibuprofen",
+      "isPrimary": false,
+      "slug": "thanh-phan/ibuprofen"
+    }
+  ],
+  "stock_qty": 0
+}

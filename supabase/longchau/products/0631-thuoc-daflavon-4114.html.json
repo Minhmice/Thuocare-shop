@@ -1,0 +1,53 @@
+{
+  "id": "00002174",
+  "slug": "thuoc/daflavon-4114.html",
+  "title": "Thuốc Daflavon Pymepharco điều trị triệu chứng liên quan đến suy tuần hoàn tĩnh mạch bạch huyết (60 viên)",
+  "short_title": "DAFLAVON 450 PMP 4X15",
+  "brand": {
+    "name": "Pymepharco",
+    "slug": "thuong-hieu/pymepharco",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tri-tri-suy-gian-tinh-mach",
+    "name": "Thuốc trị trĩ, suy giãn tĩnh mạch",
+    "parent_slug": "thuoc/thuoc-tim-mach-and-mau"
+  },
+  "price_amount": 1850,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "15 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002174_daflavon_4395_6093_large_4d261e2b4a.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002174_daflavon_4395_6093_large_4d261e2b4a.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002174_daflavon_1628437849_0ba3619cd8.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Daflavon được sản xuất bởi Công ty Pymepharco, với thành phần chính Diosmin và Hesperidin. Đây là thuốc dùng để điều trị các triệu chứng liên quan đến suy tuần hoàn mạch bạch huyết. Thuốc còn dùng để điều trị bệnh trĩ và cơn cơn trĩ cấp.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p>Thuốc Daflavon được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Ðiều trị các triệu chứng có liên quan đến suy tuần hoàn tĩnh mạch bạch huyết: Đau chân, nặng chân, phù chân, giãn tĩnh mạch, sau viêm tĩnh mạch, vọp bẻ (<a href=\"https://nhathuoclongchau.com.vn/benh/chuot-rut-co-cung-52.html\">chuột rút</a>).</li>\n\t<li>Ðiều trị bệnh trĩ và các cơn <a href=\"https://nhathuoclongchau.com.vn/benh/tri-136.html\">trĩ</a> cấp.</li>\n</ul>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Thuốc bảo vệ mạch máu. Ở tĩnh mạch, thuốc làm giảm tính căng giãn của tĩnh mạch và tình trạng ứ trệ ở tĩnh mạch. Ở vi tuần hoàn, thuốc làm bình thường hoá tính thấm của mao mạch và tăng cường sức bền của mao mạch.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p><u><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/diosmin\">Diosmin</a></u>:</p>\n\n<p>Ở người sau khi uống thuốc với diosmin được đánh dấu C14:</p>\n\n<p><em>Chuyển hoá: </em>Thuốc được chuyển hoá mạnh, được ghi nhận qua sự hiện diện của nhiều acid phenolic khác nhau trong nước tiểu. </p>\n\n<p><em>Thải trừ:</em> Daflavon bài tiết chủ yếu qua phân và bài tiết qua nước tiểu trung bình khoảng 14% so với liều dùng. Thời gian bán thải của thuốc là 11 giờ.</p>\n\n<p><u><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/hesperidin\">Hesperidin</a></u>: </p>\n\n<p><em>Hấp thu: </em>Hesperidin được hấp thu ở ruột non dưới dạng không đổi là glycoside. Aglycone của hesperidin là hesperetin, xuất hiện trong huyết tương 3 giờ sau khi uống và đạt nồng độ đỉnh từ 5 - 7 giờ.</p>\n\n<p><em>Chuyển hoá: </em>Dạng tuần hoàn của hesperetin là glucuronide (87%) và sulfoglucuronide (13%).</p>\n\n<p><em>Thải trừ:</em> Hesperidin được bài tiết qua nước tiểu gần như hoàn toàn sau 24 giờ và không phụ thuộc vào liều dùng.</p>",
+  "ingredients_html": [
+    {
+      "id": 50269,
+      "ingredientId": 18065,
+      "shortDescription": "450mg",
+      "name": "Diosmin",
+      "isPrimary": false,
+      "slug": "thanh-phan/diosmin"
+    },
+    {
+      "id": 50270,
+      "ingredientId": 22170,
+      "shortDescription": "50mg",
+      "name": "Hesperidin",
+      "isPrimary": false,
+      "slug": "thanh-phan/hesperidin"
+    }
+  ],
+  "stock_qty": 0
+}

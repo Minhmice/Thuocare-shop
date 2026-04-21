@@ -1,0 +1,52 @@
+{
+  "id": "00048274",
+  "slug": "thuoc/clenbuxol-7-5-mg-5-mcg-hdpharma-60-ml.html",
+  "title": "Thuốc siro uống Clenbuxol 7.5MG/5mcg Hdpharm điều trị các bệnh đường hô hấp, hen phế quản và viêm phế quản mạn (60ml)",
+  "short_title": "CLENBUXOL 7.5MG/5MCG HDPHARMA 60ML",
+  "brand": {
+    "name": "Hdpharma",
+    "slug": "thuong-hieu/hdpharma",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-ho-hap/siro-tri-ho-cam",
+    "name": "Siro trị ho cảm",
+    "parent_slug": "thuoc/thuoc-ho-hap"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp x 60ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/z7045461545994_78c2336067a0f8bb1e168f899b48ab67_a584eecd5f.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/z7045461545994_78c2336067a0f8bb1e168f899b48ab67_a584eecd5f.png"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Siro",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Clenbuxol 7,5mg/5mcg dùng trong điều trị các bệnh đường hô hấp.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Clenbuxol 7,5mg/5mcg dùng trong điều trị các bệnh đường hô hấp.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 69990,
+      "ingredientId": 8700,
+      "shortDescription": "7.5mg",
+      "name": "Ambroxol hydroclorid",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 69991,
+      "ingredientId": 43523,
+      "shortDescription": "5mcg",
+      "name": "Clenbuterol hydroclorid",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

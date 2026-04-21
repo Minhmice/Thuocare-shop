@@ -1,0 +1,54 @@
+{
+  "id": "00038279",
+  "slug": "thuoc/femalto-cpc-1-hn-30-ml.html",
+  "title": "Dung dịch uống Femalto 30ml CPC1HN bổ sung sắt hữu cơ dạng lỏng",
+  "short_title": "FEMALTO CPC1HN 30ML",
+  "brand": {
+    "name": "CPC1HN",
+    "slug": "thuong-hieu/cpc1hn",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+    "name": "Thuốc bổ",
+    "parent_slug": "thuoc/thuoc-bo-and-vitamin"
+  },
+  "price_amount": 180000,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp x 30ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03366_895f614f53.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03366_895f614f53.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03361_cac41d8e77.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03362_f0163b1be6.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03363_4090b51965.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03364_49648bcf6c.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03365_5abc88f0fd.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03367_2fc2701700.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03370_42fc424b69.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03371_0f2fa0ca4a.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/Femalto_1_6afd27fa8c.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/Femalto_2_55fdfbd981.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch uống",
+  "trust_label": null,
+  "short_description": "<p>Dung dịch uống Femalto là sản phẩm của Công ty Cổ phần Dược phẩm CPC1 Hà Nội chứa hoạt chất sắt (III) hydroxyd polymaltose giúp bổ sung sắt hữu cơ dạng lỏng.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Dung dịch uống Femalto dùng trong điều trị thiếu sắt không kèm theo thiếu máu và thiếu sắt kèm theo thiếu máu cho các bệnh nhân có nguy cơ như:</p><ul><li>Phụ nữ mang thai.</li><li>Phụ nữ cho con bú.</li><li>Người suy dinh dưỡng.</li><li>Người bệnh sau phẫu thuật.</li><li>Người lớn thiếu máu thiếu sắt.</li><li>Trẻ em thiếu máu do thiếu sắt, chậm lớn, còi cọc.</li></ul><h3>Dược lực học</h3><p>Mã ATC: B03AB05</p><p>Cơ chế: Sắt là nguyên liệu để tạo thành huyết sắc tố.</p><p>Sắt hấp thu chủ yếu được lưu trữ ở gan, nơi nó liên kết với ferritin. Sau đó nó được tích hợp trong tủy xương vào huyết sắc tố.</p><h3>Dược động học</h3><p><i>Hấp thu, phân bố</i></p><p>Tỷ lệ hấp thu hay lượng sắt được liên kết với hemoglobin tỷ lệ nghịch với liều. Lượng sắt được hấp thu phụ thuộc vào mức độ thiếu sắt (thiếu sắt càng nặng khả năng hấp thu càng cao). Sử dụng thuốc trong điều trị, tỷ lệ hấp thu khoảng 10%. Thuốc được hấp thu ở ruột non đặc biệt ở hỗng tràng và tá tràng.</p><p><i>Chuyển hóa và thải trừ</i></p><p>Sắt không hấp thu được bài tiết qua phân.</p>",
+  "ingredients_html": [
+    {
+      "id": 57925,
+      "ingredientId": 41532,
+      "shortDescription": "50mg",
+      "name": "Sắt (III) hydroxyd polymaltose",
+      "isPrimary": true,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

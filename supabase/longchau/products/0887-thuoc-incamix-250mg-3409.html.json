@@ -1,0 +1,47 @@
+{
+  "id": "00003951",
+  "slug": "thuoc/incamix-250mg-3409.html",
+  "title": "Thuốc Incamix 250mg HDPharma điều trị các bệnh lý gan cấp và mãn tính (10 vỉ x 10 viên)",
+  "short_title": "INCAMIX 250 10X10",
+  "brand": {
+    "name": "Hải Dương",
+    "slug": "thuong-hieu/hai-duong",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-benh-gan",
+    "name": "Thuốc trị bệnh gan",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00003951_incamix_250mg_3378_60ee_large_de4a8ea91b.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003951_incamix_250mg_3378_60ee_large_de4a8ea91b.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003951_incamix_250mg_9499_60ee_large_a23994c32f.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003951_incamix_250mg_3945_60ee_large_157b70657c.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003951_incamix_250mg_5418_60ee_large_8da81fb9fd.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang mềm",
+  "trust_label": null,
+  "short_description": "<p>Incamix 250 mg là sản phẩm thuốc của công ty cổ phần dược vật tư y tế Hải Dương với thành phần hoạt chất là L - Ornithin L - Aspartat được chỉ định trong điều trị các tình trạng liên quan đến bệnh lý gan cấp và mãn tính.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Incamix 250 mg được chỉ định dùng trong các trường hợp sau:</p><ul><li>Tăng amoniac huyết liên quan đến bệnh lý gan cấp tính và mãn: Xơ gan, gan nhiễm mỡ, viêm gan siêu vi, viêm gan do thuốc, hóa chất, rượu...</li><li>Hỗ trợ điều trị hôn mê gan, tiền hôn mê gan và bệnh não gan.</li></ul><h3>Dược lực học</h3><p><i>L - Ornithin L - Aspartat</i></p><p>Thuộc nhóm thuốc bảo vệ gan. Cơ chế hoạt động của thuốc là do 2 amino acid, thành phần của hoạt chất tham gia vào vòng urê. Bằng cách này, thuốc có tác dụng thúc đẩy quá trình giải độc ở gan và làm tăng quá trình bài tiết chất gây độc thần kinh amoniac. Aspartat và ornithin là các chất nền đối với quá trình tổng hợp glutamate ở các tế bào gan bị tổn thương.</p><p>Sự nghịch chuyển amin, bao gồm sự vận chuyển nhóm amino từ hầu hết các amino acid sang a - ketoglutarate, kết quả là chuyển thành glutamate rồi glutamine, một hợp chất phi độc tố. Đây là chất chủ yếu được hình thành ở các tế bào hệ thống thần kinh trung ương và các tế bào cơ. Glutamine nội bào là chất điều tiết sự tổng hợp của protein và khi lượng glutamine tăng sẽ tăng tổng hợp protein.</p><p>Aspartat tham gia vào vòng acid citric và làm chất xúc tác cho các phản ứng trên xảy ra dễ dàng để bảo vệ các acid amino khác và các acid amino đã tách. Nhóm amino glutamate tham gia vào quá trình tổng hợp carbamoylphosphate nhờ carbamylphosphate synthase. Việc chuyển nhóm carbamoyl tới ornithin trong vòng urê dẫn tới hình thành citrullin rồi đến urê. Trong hệ thống glutamate - glutamine có thể tích luỹ được 1/4 hàm lượng amoniac được tạo ra trong quá trình chuyển hoá.</p><p>Các phản ứng mô tả ở trên xảy ra trong sự hiện diện của ornithine carbamoyltransferase. Ornithin là một chất hoạt hoá của carbamoyl phosphate synthase và carbamoyltransferase. Aspartat tham gia vào quá trình tổng hợp pyrimidine giúp tái tạo lại acid nucleic ở các tế bào gan bị tổn thương. Nhờ cơ chế hoạt động chính này mà mà ornithin aspartat được dùng chủ yếu trong điều trị suy gan với những biến chứng lên não do tăng nồng độ amoniac huyết.</p><h3>Dược động học</h3><p>Trong cơ thể thuốc bị tách ra thành 2 amino acid. Các thông tin về dược động học của ornithin và aspartat chưa được công bố đầy đủ.</p><p>Nửa đời sinh học của ornithin là 0,4 giờ.</p>",
+  "ingredients_html": [
+    {
+      "id": 21872,
+      "ingredientId": 25890,
+      "shortDescription": "250mg",
+      "name": "L-ornithine-L-aspartate",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

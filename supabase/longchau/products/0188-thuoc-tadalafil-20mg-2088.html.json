@@ -1,0 +1,47 @@
+{
+  "id": "00007136",
+  "slug": "thuoc/tadalafil-20mg-2088.html",
+  "title": "Thuốc Tadalafil 20mg Cophavina điều trị rối loạn cương dương (1 vỉ x 4 viên)",
+  "short_title": "TADALAFIL 20 COPHAVINA 1X4",
+  "brand": {
+    "name": "Cophavina",
+    "slug": "thuong-hieu/cophavina",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-tri-roi-loan-cuong-duong",
+    "name": "Thuốc trị rối loạn cương dương",
+    "parent_slug": "thuoc/thuoc-tiet-nieu-sinh-duc"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "4 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007136_tadalafil_20mg_4353_5b27_large_f1c66e544b.JPG",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007136_tadalafil_20mg_4353_5b27_large_f1c66e544b.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007136_tadalafil_20mg_1627309763_5eccbcb778.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007136_tadalafil_20mg_9213_5b27_large_158e94b197.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007136_tadalafil_20mg_7042_60fe_large_7cb942219f.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Tadalafil 20mg do Công ty Cổ phần Armephaco sản xuất có thành phần chính&nbsp;Tadalafil là thuốc điều trị rối loạn cương dương.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p>Thuốc Tadalafil 20mg được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Điều trị rối loạn cương dương ở người nam giới trưởng thành, cần có hoạt động kích thích tình dục thì thuốc mới có hiệu quả. </li>\n</ul>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Thuốc được chỉ định trong điều trị rối loạn cương dương.</p>\n\n<p>Tadalafil là chất ức chế chọn lọc, có hồi phục guanosine monophosphate vòng (cGMP) - đặc biệt là trên men phosphodiesterase tuýp 5 (PDE-5).</p>\n\n<p>Khi kích thích tình dục dẫn đến phóng thích nitric oxide tại chỗ, sự ức chế PDE-5 của tadalafil làm tăng nồng độ cGMP trong thể hang. Điều này đưa tới giãn cơ trơn và làm tăng dòng máu vào trong mô dương vật, từ đó gây cương dương vật. Khi không có kích thích tình dục, Tadalafil không có tác dụng gì.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/tadalafil\">Tadalafil</a> được hấp thu nhanh chóng sau khi uống, nồng độ đỉnh trong huyết tương đạt tối đa khoảng 2 giờ. Sự hấp thu thuốc không bị ảnh hưởng bởi thức ăn và thời điểm dùng thuốc. </p>\n\n<p>Tadalafil được phân bố rộng khắp các mô và khoảng 94% liên kết với protein huyết tương, được chuyển hóa trong gan chủ yếu bởi isoenzyme cytochrome P450 CYP3A4. Chất chuyển hóa chính là methylcatechol glucuronide không hoạt động. Thời gian bán thải trung bình của tadalafil là khoảng 17,5 giờ.</p>\n\n<p>Tadalafil được bài tiết chủ yếu là các chất chuyển hóa, trong phân (61% liều dùng) và nước tiểu (36% liều dùng). Sự thải trừ bị giảm ở người già và bệnh nhân suy thận.</p>",
+  "ingredients_html": [
+    {
+      "id": 42433,
+      "ingredientId": 37349,
+      "shortDescription": "20mg",
+      "name": "Tadalafil",
+      "isPrimary": false,
+      "slug": "thanh-phan/tadalafil"
+    }
+  ],
+  "stock_qty": 0
+}

@@ -1,0 +1,44 @@
+{
+  "id": "00005190",
+  "slug": "thuoc/nebicard-5mg-2908.html",
+  "title": "Viên nén Nebicard-5 Torrent điều trị tăng huyết áp (5 vỉ x 10 viên)",
+  "short_title": "NEBICARD 5 5X10",
+  "brand": {
+    "name": "Torrent",
+    "slug": "thuong-hieu/torrent",
+    "country": "Ấn Độ"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap",
+    "name": "Thuốc tim mạch huyết áp",
+    "parent_slug": "thuoc/thuoc-tim-mach-and-mau"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/nebicard_be68ca04fc.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/nebicard_be68ca04fc.jpg"
+  ],
+  "origin_label": "Ấn Độ",
+  "country": "Ấn Độ",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén",
+  "trust_label": null,
+  "short_description": "<p><strong>Nebicard 5 mg</strong> là sản phẩm thuốc của <em>công ty Torrent Pharmaceuticals Ltd.</em> với thành phần hoạt chất là nebivolol hydrochloride được chỉ định trong điều trị tăng huyết áp.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3><p><strong>Thuốc Nebicard 5 mg</strong> được chỉ định dùng trong điều trị tăng huyết áp.</p><h3><strong>Dược lực học</strong></h3><p><i>Nebivolol</i> là một thuốc chẹn beta thân nước, được sử dụng trên lâm sàng ở dạng một hỗn hợp racemic của hai đồng phân quang học dạng D và L với tỷ lệ bằng nhau. Nó là một chất cạnh tranh, đối kháng chọn lọc cao với receptor beta - 1 và có một số tác động nhẹ tới mạch máu, có thể do sự tương tác theo cơ chế L - arginine/nitric oxid. Nebivolol có tác dụng bảo vệ chức năng hoạt động của tâm thất trái. Thuốc có xu hướng làm giảm tiền gánh và duy trì hoặc giảm hậu gánh. Nhịp tim và áp suất cuối tâm trương tâm thất trái đều giảm trong khi thể tích nhát bóp tăng lên và cung lượng tim được duy trì.</p><h3><strong>Dược động học</strong></h3><p><i>Hấp thu</i></p><p>Sau khi uống viên nén nebivolol, thuốc đạt nồng độ đỉnh trong máu trong vòng 0,5 đến 2 giờ và khoảng thời gian này không bị ảnh hưởng bởi thức ăn. Sinh khả dụng theo đường uống trung bình khoảng 12% ở những người chuyển hoá thuốc tốt và đạt 96% ở những người chuyển hoá thuốc kém.</p><p><i>Phân bố</i></p><p>Trong huyết tương, cả hai đồng phân quang học của nebivolol đều gắn với albumin. Tỷ lệ liên kết với protein huyết tương của SRRR - nebivolol là 98,1% và của RSSS - nebivolol là 97,9%.</p><p><i>Chuyển hoá</i></p><p>Nebivolol bị chuyển hoá mạnh, một phần thành những chất chuyển hoá dạng hydroxyl. Nebivolol bị chuyển hoá thông qua quá trình hydroxyl hóa vòng no và vòng thơm, N - dealkyl hoá và glucuronid hoá; sau đó các chất chuyển hoá dạng hydroxyl cũng liên kết với các hợp chất glucuronid. Sự hydroxyl hoá vòng thơm của nebivolol phụ thuộc vào tính đa hình trong biểu hiện gen của enzym CYP2D6. Do có sự khác nhau trong tốc độ chuyển hoá, liều của nebivolol nên luôn được điều chỉnh tùy theo từng bệnh nhân: Những người chuyển hoá thuốc kém, vì vậy, cần được dùng liều thấp hơn.</p><p><i>Thải trừ</i></p><p>Ở những người chuyển hoá thuốc nhanh, thời gian bán thải của các đồng phân quang học của nebivolol trung bình là 10 giờ. Với những người chuyển hoá thuốc chậm thời gian bán thải kéo dài gấp 3 - 5 lần.</p>",
+  "ingredients_html": [
+    {
+      "id": 22498,
+      "ingredientId": 29438,
+      "shortDescription": "5mg",
+      "name": "Nebivolol",
+      "isPrimary": false,
+      "slug": "thanh-phan/nebivolol"
+    }
+  ],
+  "stock_qty": 0
+}

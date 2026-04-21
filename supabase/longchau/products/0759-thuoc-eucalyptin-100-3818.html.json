@@ -1,0 +1,51 @@
+{
+  "id": "00002910",
+  "slug": "thuoc/eucalyptin-100-3818.html",
+  "title": "Thuốc Eucalyptin Dược 3/2 sát trùng đường hô hấp (10 vỉ x 10 viên)",
+  "short_title": "EUCALYPTIN 100 F.T 10X10",
+  "brand": {
+    "name": "Dược 3-2",
+    "slug": "thuong-hieu/duoc-3-2",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-ho-hap/thuoc-tri-ho-cam",
+    "name": "Thuốc trị ho cảm",
+    "parent_slug": "thuoc/thuoc-ho-hap"
+  },
+  "price_amount": 450,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002910_eucalyptin_100_9598_60f0_large_3f5a39a26a.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002910_eucalyptin_100_9598_60f0_large_3f5a39a26a.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002910_eucalyptin_100_1626355724_7d6112967b.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002910_eucalyptin_100_8955_5bba_large_49f50cd4fe.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002910_eucalyptin_100_7929_5bba_large_abc296b189.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002910_eucalyptin_100_3011_5bba_large_19c64abbda.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002910_eucalyptin_100_6866_60f0_large_5f2f4da55e.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [
+    "Sát khuẩn đường hô hấp"
+  ],
+  "format_tag": "Viên nang mềm",
+  "trust_label": null,
+  "short_description": "<p>Eucalyptin, của công ty Cổ phần Dược phẩm 3/2, thành phần chính là eucalyptin, có tác dụng sát trùng đường hô hấp, chống kích thích, long đờm; được dùng để điều trị hỗ trợ sát trùng đường hô hấp. Thuốc được bào chế dưới dạng viên nang mềm, mỗi viên chứa 100 mg eucalyptol.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p>Thuốc Eucalyptin được chỉ định dùng trong trường hợp sau:</p>\n\n<p>Hỗ trợ sát trùng đường hô hấp.</p>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Eucalyptol có tác dụng sát trùng đường hô hấp, chống kích thích, long đờm.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Eucalyptol được đào thải chủ yếu qua đường hô hấp sau khi phân tán trong huyết tương.</p>",
+  "ingredients_html": [
+    {
+      "id": 21293,
+      "ingredientId": 19829,
+      "shortDescription": "100mg",
+      "name": "Eucalyptol",
+      "isPrimary": false,
+      "slug": "thanh-phan/eucalyptol"
+    }
+  ],
+  "stock_qty": 0
+}

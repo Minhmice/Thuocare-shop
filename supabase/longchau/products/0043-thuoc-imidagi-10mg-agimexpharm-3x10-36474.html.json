@@ -1,0 +1,44 @@
+{
+  "id": "00502236",
+  "slug": "thuoc/imidagi-10mg-agimexpharm-3x10-36474.html",
+  "title": "Thuốc Imidagi 10 Agimexpharm điều trị tăng huyết áp (3 vỉ x 10 viên)",
+  "short_title": "IMIDAGI 10MG AGIMEXPHARM 3X10",
+  "brand": {
+    "name": "Agimexpharm",
+    "slug": "thuong-hieu/agimexpharm",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap",
+    "name": "Thuốc tim mạch huyết áp",
+    "parent_slug": "thuoc/thuoc-tim-mach-and-mau"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/895_f35bc3e5e2.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/895_f35bc3e5e2.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Imidagi 10 là sản phẩm của Công Ty Cổ Phần Dược Phẩm Agimexpharm, thành phần chính là Imidapril hydroclorid. Thuốc được sử dụng trong chỉ định tăng huyết áp.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Imidagi 10 được chỉ định dùng trong các trường hợp sau:</p><ul><li>Tăng huyết áp.</li><li>Tăng huyết áp nhu mô thận.</li></ul><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 40431,
+      "ingredientId": 23325,
+      "shortDescription": "10mg",
+      "name": "Imidapril",
+      "isPrimary": false,
+      "slug": "thanh-phan/imidapril"
+    }
+  ],
+  "stock_qty": 0
+}

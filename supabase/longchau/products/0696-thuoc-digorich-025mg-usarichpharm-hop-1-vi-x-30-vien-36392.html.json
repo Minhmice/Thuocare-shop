@@ -1,0 +1,44 @@
+{
+  "id": "00502169",
+  "slug": "thuoc/digorich-025mg-usarichpharm-hop-1-vi-x-30-vien-36392.html",
+  "title": "Thuốc Digorich 0.25mg Usarichpharm điều trị suy tim, rung nhĩ và cuồng động nhĩ (1 vỉ x 30 viên)",
+  "short_title": "DIGORICH 0.25MG USARICHPHARM 1X30",
+  "brand": {
+    "name": "Usarichpharm",
+    "slug": "thuong-hieu/usarichpharm",
+    "country": ""
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap",
+    "name": "Thuốc tim mạch huyết áp",
+    "parent_slug": "thuoc/thuoc-tim-mach-and-mau"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "30 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/digorich_ff19e99a9d.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/digorich_ff19e99a9d.jpg"
+  ],
+  "origin_label": "",
+  "country": "",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Digorich là sản phẩm của Chi nhánh Công ty Cổ phần Dược phẩm Phong Phú - Nhà máy sản xuất Dược phẩm Usarichpharm, có thành phần chính là Digoxin. Đây là thuốc được sử dụng để điều trị suy tim, rung nhĩ và cuồng động nhĩ nhất là khi có tần số thất quá nhanh, nhịp nhanh trên thất kịch phát.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc Digorich được chỉ định dùng trong các trường hợp sau:</p><ul><li dir=\"ltr\">Điều trị suy tim, rung nhĩ và cuồng động nhĩ nhất là khi có tần số thất quá nhanh, nhịp nhanh trên thất kịch phát.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 59000,
+      "ingredientId": 17788,
+      "shortDescription": "0.25mg",
+      "name": "Digoxin",
+      "isPrimary": false,
+      "slug": "thanh-phan/digoxin"
+    }
+  ],
+  "stock_qty": 0
+}

@@ -1,0 +1,52 @@
+{
+  "id": "00033336",
+  "slug": "thuoc/fendexi-forte-phil-inter-pharma-hop-1-tuyp-10g-33442.html",
+  "title": "Thuốc Fendexi Forte Phil Inter hỗ trợ điều trị các bệnh viêm da (10g)",
+  "short_title": "FENDEXI FORTE PHIL INTER PHARMA 10G",
+  "brand": {
+    "name": "Phil Inter",
+    "slug": "thuong-hieu/phil-inter",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-da-lieu/thuoc-boi-ngoai-da",
+    "name": "Thuốc bôi ngoài da",
+    "parent_slug": "thuoc/thuoc-da-lieu"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 1 Tuýp x 10g",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/fendexiforte_dd0472fa87.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/fendexiforte_dd0472fa87.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dạng kem",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Fendexi Forte là sản phẩm của&nbsp;Phil Inter Pharma, thuốc có thành phần chính&nbsp;là Acid fucidic, Betamethasonvalerat Mikron. Đây là thuốc&nbsp;được dùng trong điều trị bệnh viêm da do nhiễm khuẩn hoặc có thể do nhiễm khuẩn. Bệnh viêm da bao gồm chàm dị ứng, chàm dạng đĩa, viêm da tiết bã nhờn, viêm da tiếp xúc, liken đơn mạn tính, bệnh vảy nến, lupus ban đỏ dạng đĩa.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc Fendexi Forte được chỉ định dùng trong các trường hợp sau:</p><ul><li dir=\"ltr\">Điều trị bệnh viêm da do nhiễm khuẩn hoặc có thể do nhiễm khuẩn. Bệnh viêm da bao gồm chàm dị ứng, chàm dạng đĩa, viêm da tiết bã nhờn, viêm da tiếp xúc, liken đơn mạn tính, bệnh vảy nến, lupus ban đỏ dạng đĩa.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\"><strong>Nhóm dược lý: Betamethason và kháng sinh.</strong></p><p dir=\"ltr\"><strong>Mã ATC: D07CC.</strong></p><p dir=\"ltr\">Fendexi Forte là chế phẩm phối hợp tác dụng kháng khuẩn tại chỗ của acid fusidic và tác dụng chống viêm, chống ngứa của betamethason. Betamethason là steroid dùng tại chỗ có tác dụng nhanh chống viêm da. Khi bôi tại chỗ, acid fusidic có tác dụng chống Staphyloccus aureus, Streptococci, Corynebacteria, Neisseria và các chủng Clostridia và Bacteroides. Tác dụng kháng khuẩn của acid fusidic không bị giảm khi có mặt betamethason.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có thông tin về dược động học của thuốc khi dùng tại chỗ ở người.</p><p dir=\"ltr\">Tuy nhiên, các nghiên cứu in vitro cho thấy acid fusidic thấm tốt qua da. Mức độ thấm qua da phụ thuộc vào yếu tố như thời gian bôi acid fusidic và vùng da bệnh. Acid fusidic được bài tiết chủ yếu qua mật với một lượng ít bài tiết qua nước tiểu.</p><p dir=\"ltr\">Betamethason được hấp thu sau khi dùng tại chỗ. Mức độ hấp thu phụ thuộc vào yếu tố khác nhau bao gồm vùng da bệnh và vị trí bôi. Betamethason được chuyển hóa chủ yếu ở gan nhưng cũng có một lượng nhỏ ở thận, và các chất chuyển hóa không có hoạt tính được bài tiết qua nước tiểu.</p>",
+  "ingredients_html": [
+    {
+      "id": 41926,
+      "ingredientId": 7429,
+      "shortDescription": "100mg",
+      "name": "Acid fucidic",
+      "isPrimary": true,
+      "slug": ""
+    },
+    {
+      "id": 41927,
+      "ingredientId": 10847,
+      "shortDescription": "6.07mg",
+      "name": "Betamethasonvalerat Mikron",
+      "isPrimary": true,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

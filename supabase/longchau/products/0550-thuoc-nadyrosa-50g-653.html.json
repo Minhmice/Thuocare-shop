@@ -1,0 +1,62 @@
+{
+  "id": "00009764",
+  "slug": "thuoc/nadyrosa-50g-653.html",
+  "title": "Phấn thoa da NadyRosa Nadyphar hỗ trợ điều trị rôm sảy, ngứa, sần đỏ da (50g)",
+  "short_title": "NADYROSA NADYPHAR 50G",
+  "brand": {
+    "name": "Nadyphar",
+    "slug": "thuong-hieu/nadyphar",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-da-lieu/thuoc-boi-ngoai-da",
+    "name": "Thuốc bôi ngoài da",
+    "parent_slug": "thuoc/thuoc-da-lieu"
+  },
+  "price_amount": 29530,
+  "compare_at_amount": 0,
+  "unit": "Chai",
+  "pack_note": "Chai x 50g",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00009764_nadyrosa_50g_2684_5b30_large_07901dfde4.JPG",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00009764_nadyrosa_50g_2684_5b30_large_07901dfde4.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00009764_nadyrosa_50g_1630734272_5f11b077ed.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/12323_433e294f56.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dạng bột",
+  "trust_label": null,
+  "short_description": "<p>Phấn thoa Nadyrosa được sản xuất bởi công ty Công ty cổ phần dược phẩm 2/9 – NADYPHAR, Nadyrosa đã được chứng nhận an toàn với thành phần kẽm oxyd có tính chất làm săn da và sát khuẩn nhẹ giúp làm mát da và hỗ trợ điều trị rôm sảy, ngứa, sần đỏ da.</p>\n\n<p>Nadyrosa có dạng trình bày là dạng bột, chai 50g.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p>Phấn thoa Nadyrosa được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Làm mát da.</li>\n\t<li>Trị <a href=\"https://nhathuoclongchau.com.vn/benh/rom-say-981.html\">rôm sảy</a>, ngứa, sần đỏ da.</li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p>Chưa có báo cáo.</p>\n\n<h3>Dược động học</h3>\n\n<p>Chưa có báo cáo.</p>",
+  "ingredients_html": [
+    {
+      "id": 36656,
+      "ingredientId": 24492,
+      "shortDescription": "0.5g",
+      "name": "Kẽm oxyd",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 36657,
+      "ingredientId": 7422,
+      "shortDescription": "0.1g",
+      "name": "Acid Boric",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 36658,
+      "ingredientId": 38777,
+      "shortDescription": "0.3g",
+      "name": "Titan dioxit",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

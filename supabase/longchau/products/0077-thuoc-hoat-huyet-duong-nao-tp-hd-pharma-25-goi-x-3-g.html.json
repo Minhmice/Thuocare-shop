@@ -1,0 +1,52 @@
+{
+  "id": "00039050",
+  "slug": "thuoc/hoat-huyet-duong-nao-tp-hd-pharma-25-goi-x-3-g.html",
+  "title": "Hoạt huyết dưỡng não TP HDpharma 3g điều trị suy giảm trí nhớ, thiểu năng tuần hoàn não (25 gói)",
+  "short_title": "HOẠT HUYẾT DƯỠNG NÃO TP HD PHARMA 25 GÓI X 3G",
+  "brand": {
+    "name": "Hdpharma",
+    "slug": "thuong-hieu/hdpharma",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tang-cuong-tuan-hoan-nao",
+    "name": "Thuốc tăng cường tuần hoàn não",
+    "parent_slug": "thuoc/thuoc-tim-mach-and-mau"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 25 Gói x 3g",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00039050_49cdd17471.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00039050_49cdd17471.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Cốm",
+  "trust_label": null,
+  "short_description": "<p>Thuốc hoạt huyết dưỡng não TP là sản phẩm của Công ty Cổ phần Dược Vật tư Y tế Hải Dương chứa thành phần cao đặc Đinh Lăng và cao Bạch Quả dùng trong phòng và điều trị các bệnh sau: Suy giảm trí nhớ, thiểu năng tuần hoàn não, suy tuần hoàn não.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc hoạt huyết dưỡng não TP chỉ định phòng và điều trị các bệnh sau:</p><ul><li>Suy giảm trí nhớ.</li><li>Thiểu năng tuần hoàn não.</li><li>Suy tuần hoàn não.</li></ul><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 55439,
+      "ingredientId": 18016,
+      "shortDescription": "150mg",
+      "name": "Đinh lăng",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 55440,
+      "ingredientId": 10125,
+      "shortDescription": "75mg",
+      "name": "Bạch quả",
+      "isPrimary": false,
+      "slug": "thanh-phan/bach-qua"
+    }
+  ],
+  "stock_qty": 0
+}

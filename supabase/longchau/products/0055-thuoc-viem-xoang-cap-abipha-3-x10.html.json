@@ -1,0 +1,91 @@
+{
+  "id": "00047549",
+  "slug": "thuoc/viem-xoang-cap-abipha-3-x10.html",
+  "title": "Thuốc viêm xoang Abipha Cap điều trị viêm xoang, nghẹt mũi, sổ mũi, viêm mũi dị ứng (3 vỉ x 10 viên)",
+  "short_title": "THUỐC VIÊM XOANG CAP ABIPHA 3X10",
+  "brand": {
+    "name": "Abipha",
+    "slug": "thuong-hieu/abipha",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-mat-tai-mui-hong/thuoc-tri-viem-xoang",
+    "name": "Thuốc trị viêm xoang",
+    "parent_slug": "thuoc/thuoc-mat-tai-mui-hong"
+  },
+  "price_amount": 3500,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09916_69b5ad66f3.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09916_69b5ad66f3.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09917_8c5fce6ddb.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09918_82ee2af8ae.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09919_d943c1e01e.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09920_d683b842e0.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09921_e2b1a3eab9.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09922_1316638d59.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/viem_xoang_abipha_f1abe23c07.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang cứng",
+  "trust_label": null,
+  "short_description": "",
+  "description_html": "<p>Thuốc viêm xoang cấp Abipha Cap là thuốc điều trị nghẹt mũi, sổ mũi, chảy nước mũi, nhức đầu vùng trán, viêm mũi dị ứng, viêm mũi, viêm xoang cấp và mạn tính.</p>",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc viêm xoang cấp Abipha được chỉ định dùng trong các trường hợp sau:</p><ul><li dir=\"ltr\">Nghẹt mũi, sổ mũi, chảy nước mũi, nhức đầu vùng trán, viêm mũi dị ứng, viêm mũi, viêm xoang cấp và mạn tính.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 69206,
+      "ingredientId": 10072,
+      "shortDescription": "225mg",
+      "name": "Bạch chỉ",
+      "isPrimary": false,
+      "slug": "thanh-phan/bach-chi"
+    },
+    {
+      "id": 69207,
+      "ingredientId": 38387,
+      "shortDescription": "300mg",
+      "name": "Thương nhĩ tử",
+      "isPrimary": false,
+      "slug": "thanh-phan/thuong-nhi-tu"
+    },
+    {
+      "id": 69208,
+      "ingredientId": 32396,
+      "shortDescription": "225mg",
+      "name": "Phòng phong",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 69209,
+      "ingredientId": 22437,
+      "shortDescription": "375mg",
+      "name": "Hoàng kỳ",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 69210,
+      "ingredientId": 37439,
+      "shortDescription": "225mg",
+      "name": "Tân di hoa",
+      "isPrimary": false,
+      "slug": "thanh-phan/tan-di-hoa"
+    },
+    {
+      "id": 69211,
+      "ingredientId": 10043,
+      "shortDescription": "75mg",
+      "name": "Bạc hà",
+      "isPrimary": false,
+      "slug": "thanh-phan/bac-ha"
+    }
+  ],
+  "stock_qty": 0
+}

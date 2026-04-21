@@ -1,0 +1,47 @@
+{
+  "id": "00007190",
+  "slug": "thuoc/tatridat-2063.html",
+  "title": "Thuốc Tatridat 300mg Phil dùng làm tan sỏi mật giàu Cholesterol, điều trị xơ gan (6 vỉ x 10 viên)",
+  "short_title": "TATRIDAT 300 PHIL 6X10",
+  "brand": {
+    "name": "Phil",
+    "slug": "thuong-hieu/phil",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-benh-gan",
+    "name": "Thuốc trị bệnh gan",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007190_tatridat_8089_5b20_large_46135ecc9e.JPG",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007190_tatridat_8089_5b20_large_46135ecc9e.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007190_tatridat_9402_5b20_large_d680abcc1a.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007190_tatridat_5371_5b20_large_dc802ff020.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007190_tatridat_8319_5b20_large_e46385e8e4.JPG"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang mềm",
+  "trust_label": null,
+  "short_description": "<p><strong>Tatridat</strong> của <em>Công ty TNHH Phil Inter Pharma </em>sản xuất. Thuốc có thành phần chính <em>acid ursodeoxycholic</em>, thuốc được chỉ định dùng làm tan sỏi mật giàu cholesterol, điều trị xơ gan mật nguyên phát, dự phòng sỏi mật ở những người giảm cân nhanh.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p><strong>Thuốc Tatridat</strong> được chỉ định dùng trong các trường hợp sau:</p>\n\n<p>Dùng làm tan sỏi mật giàu cholesterol.</p>\n\n<p>Điều trị xơ gan mật nguyên phát.</p>\n\n<p>Dự phòng sỏi mật ở những người giảm cân nhanh.</p>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Acid ursodeoxycholic là một acid mật tự nhiên, hiện diện với lượng nhỏ trong mật người. Acid ursodeoxycholic ức chế gan tổng hợp và bài tiết cholesterol, đồng thời ức chế hấp thu cholesterol ở ruột.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Acid ursodeoxycholic được hấp thu từ đường tiêu hóa và trải qua chu trình gan - ruột. Một phần thuốc được liên hợp tại gan trước khi được tiết vào mật. Nhờ tác dụng của vi khuẩn ở ruột, dạng tự do và dạng liên hợp trải qua quá trình 7α-dehydroxyl hóa thành acid lithocholic, một phần thuốc được thải trừ trực tiếp qua phân. Phần còn lại được hấp thu, phần lớn được liên hợp hóa và sulphat hóa tại gan trước khi thải trừ vào phân.</p>",
+  "ingredients_html": [
+    {
+      "id": 43265,
+      "ingredientId": 41894,
+      "shortDescription": "300mg",
+      "name": "Acid ursodeoxycholic",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

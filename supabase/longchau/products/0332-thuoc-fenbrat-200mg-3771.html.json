@@ -1,0 +1,49 @@
+{
+  "id": "00003017",
+  "slug": "thuoc/fenbrat-200mg-3771.html",
+  "title": "Thuốc Fenofibrate 200mg Domesco điều trị rối loạn lipoprotein huyết (3 vỉ x 10 viên)",
+  "short_title": "FENOFIBRAT 200 DMC 3X10",
+  "brand": {
+    "name": "Domesco",
+    "slug": "thuong-hieu/domesco",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tri-mo-mau",
+    "name": "Thuốc trị mỡ máu",
+    "parent_slug": "thuoc/thuoc-tim-mach-and-mau"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00003017_fenbrat_200mg_9742_6077_large_80c11290b8.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003017_fenbrat_200mg_9742_6077_large_80c11290b8.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003017_fenbrat_200mg_1628330186_35ddae7e80.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003017_fenbrat_200mg_5208_6077_large_1f58fcd412.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003017_fenbrat_200mg_6033_6077_large_b38406a91a.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003017_fenbrat_200mg_6732_6077_large_0f83136fc8.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003017_fenbrat_200mg_6862_610e_large_defc14ff9d.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang cứng",
+  "trust_label": null,
+  "short_description": "<p>Fenofibrate 200 mg được sản xuất bởi Công ty Cổ phần Xuất Nhập khẩu Y tế Domesco, với thành phần chính Fenofibrate micronized, là thuốc dùng để điều trị rối loạn lipoprotein huyết các type IIa, IIb, III, IV và V.</p>\n\n<p>Viên nang cứng số 1, màu cam–cam, bột thuốc bên trong màu trắng.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p>Thuốc Fenofibrate được chỉ định dùng trong các trường hợp sau:</p>\n\n<p>Ðiều trị rối loạn lipoprotein huyết các type IIa, IIb, III, IV và V, phối hợp với chế độ ăn.</p>\n\n<h3>Dược lực học</h3>\n\n<p><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/fenofibrate\">Fenofibrate</a>, dẫn chất của acid fibric,là thuốc hạ lipid máu.Thuốc ức chế sinh tổng hợp cholesterol ở gan, làm giảm các thành phần gây xơ vữa (lipoprotein tỷ trọng rất thấp VLDL và lipoprotein tỷ trọng thấp LDL) làm tăng sản xuất lipoprotein tỷ trọng cao (HDL) và còn làm giảm triglyceride máu. Do đó, cải thiện đáng kể sự phân bố cholesterol trong huyết tương.</p>\n\n<p>Fenofibrate được dùng để điều trị tăng lipoprotein huyết type IIa, IIb, III, IV và V cùng với một chế độ ăn rất hạn chế về lipid.</p>\n\n<p>Fenofibrate có thể làm giảm 20–25% cholesterol toàn phần và 40–50% triglyceride trong máu. Điều trị bằng fenofibrate cần phải liên tục.</p>\n\n<h3>Dược động học</h3>\n\n<p><em>Hấp thu:</em> Fenofibrate hấp thu ngay ở đường tiêu hóa cùng với thức ăn. Hấp thu bị giảm nhiều nếu uống sau khi nhịn ăn qua đêm. Nồng độ đỉnh trong huyết tương xuất hiện khoảng 5 giờ sau khi uống thuốc.</p>\n\n<p><em>Phân bố:</em> Chưa có báo cáo.</p>\n\n<p><em>Chuyển hoá:</em> Thuốc nhanh chóng thủy phân thành acid fenofibric có hoạt tính. Chất này gắn nhiều vào albumin huyết tương và có thể đẩy các thuốc kháng vitamin K ra khỏi vị trí gắn. </p>\n\n<p><em>Thải trừ:</em> Ở người có chức năng thận bình thường, thời gian bán thải trong huyết tương vào khoảng 20 giờ nhưng thời gian này tăng lên rất nhiều ở người bệnh thận và <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/fenofibric-acid\">acid fenofibric</a> tích lũy đáng kể ở người suy thận uống fenofibrate hàng ngày. Acid fenofibric đào thải chủ yếu qua nước tiểu (70% trong vòng 24 giờ, 88% trong vòng 6 ngày), chủ yếu dưới dạng liên hợp glucuronic, ngoài ra còn có acid fenofibric dưới dạng khử và chất liên hợp glucuronic của nó.</p>",
+  "ingredients_html": [
+    {
+      "id": 21399,
+      "ingredientId": 20132,
+      "shortDescription": "200mg",
+      "name": "Fenofibrate",
+      "isPrimary": false,
+      "slug": "thanh-phan/fenofibrate"
+    }
+  ],
+  "stock_qty": 0
+}

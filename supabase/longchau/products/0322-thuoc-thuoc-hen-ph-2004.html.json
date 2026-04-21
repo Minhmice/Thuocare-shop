@@ -1,0 +1,122 @@
+{
+  "id": "00007319",
+  "slug": "thuoc/thuoc-hen-ph-2004.html",
+  "title": "Cao lỏng thuốc hen P/H điều trị các thể hen phế quản (250ml)",
+  "short_title": "THUỐC HEN PH 250ML",
+  "brand": {
+    "name": "Phúc Hưng",
+    "slug": "thuong-hieu/phuc-hung",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-ho-hap/thuoc-tri-hen-suyen",
+    "name": "Thuốc trị hen suyễn",
+    "parent_slug": "thuoc/thuoc-ho-hap"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Chai",
+  "pack_note": "Chai x 250ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007319_thuoc_hen_ph_6471_5b98_large_e7251b8c4e.JPG",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007319_thuoc_hen_ph_6471_5b98_large_e7251b8c4e.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007319_thuoc_hen_ph_1619524232_7d07a838f4.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007319_thuoc_hen_ph_5376_5b98_large_77e0c225de.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007319_thuoc_hen_ph_6220_5b98_large_c71af9f120.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007319_thuoc_hen_ph_1883_5b98_large_9431e78c4b.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007319_thuoc_hen_ph_1140_5b98_large_3025a986ea.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007319_thuoc_hen_ph_3190_6087_large_011d501e13.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Siro",
+  "trust_label": null,
+  "short_description": "<p>Thuốc hen P/H là sản phẩm của Công ty TNHH Đông Dược Phúc Hưng, thành phần chính bao gồm các loại thảo dược như Ma hoàng, Bán hạ, Ngũ vị tử, Tỳ bà diệp, Cam thảo, Tế tân, Can khương, Hạnh nhân, Bối mẫu và Trần bì. Thuốc dùng để điều trị các thể hen phế quản (đặc biệt là thể mạn tính), viêm phế quản mạn tính, viêm phế quản thể co thắt, phổi tắc nghẽn mạn tính. Ngoài ra, thuốc hen P/H còn được chỉ định phòng ngừa cơn hen tái phát.</p>\n\n<p>Thuốc hen P/H được bào chế dạng cao lỏng. Thuốc được đóng gói theo quy cách hộp 1 lọ chứa 250 ml cao lỏng.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p><em>Ðiều trị các thể <a href=\"https://nhathuoclongchau.com.vn/benh/hen-phe-quan-160.html\">hen phế quản</a> (đặc biệt là thể mạn tính), viêm phế quản mạn tính, viêm phế quản thể co thắt, phổi tắc nghẽn mạn tính có biểu hiện: khó thở, ho, tức ngực, đờm nhiều. </em></p>\n\n<p><em>Phòng ngừa cơn hen tái phát.</em></p>\n\n<h3>Dược lực học</h3>\n\n<p>Hen (viêm phế quản mạn tính, viêm phế quản thể co thắt, phổi tắc nghẽn mạn tính) là bệnh phế quản mạn tính thường xảy ra ở người có cơ địa dị ứng. Nếu bệnh không được điều trị triệt để sẽ làm giảm sút sức khỏe, tổn thương phổi, suy hô hấp và dẫn tới <a href=\"https://nhathuoclongchau.com.vn/benh/suy-tim-314.html\">suy tim</a>.</p>\n\n<p>Y học cổ truyền có ưu thế điều trị các bệnh mạn tính, trong đó có bệnh hen phế quản, do tập trung điều trị căn nguyên sinh bệnh. Thuốc hen P/H được bào chế theo bài thuốc cổ phương \"Tiểu thanh long gia giảm\", chiết xuất hoàn toàn từ thảo dược, có tác dụng điều hòa công năng của ba tạng Tỳ - Phế - Thận, giúp bệnh thuyên giảm dần, ổn định và không tái phát.</p>\n\n<p>Sau khi dùng thuốc 4 tuần, bệnh nhân sẽ thấy cơn hen thưa và nhẹ dần, đờm loãng và tống xuất ra ngoài, giảm ho, phổi thông thoáng và dễ thở hơn. Khi điều trị đủ đợt từ 8 - 10 tuần, đa số bệnh nhân không còn lên cơn hen và hoàn toàn yên tâm khi thời tiết thay đổi.</p>\n\n<h3>Dược động học</h3>\n\n<p>Chưa có báo cáo.</p>",
+  "ingredients_html": [
+    {
+      "id": 40984,
+      "ingredientId": 26198,
+      "shortDescription": "20 ",
+      "name": "Ma hoàng",
+      "isPrimary": false,
+      "slug": "thanh-phan/ma-hoang"
+    },
+    {
+      "id": 40985,
+      "ingredientId": 10272,
+      "shortDescription": "30 ",
+      "name": "Bán hạ (Thân, Rễ)",
+      "isPrimary": false,
+      "slug": "thanh-phan/ban-ha"
+    },
+    {
+      "id": 40986,
+      "ingredientId": 29693,
+      "shortDescription": "20 ",
+      "name": "Ngũ vị tử",
+      "isPrimary": false,
+      "slug": "thanh-phan/ngu-vi-tu"
+    },
+    {
+      "id": 40987,
+      "ingredientId": 39705,
+      "shortDescription": "20 ",
+      "name": "Tỳ bà diệp",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 40988,
+      "ingredientId": 37619,
+      "shortDescription": "6 ",
+      "name": "Tế tân",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 40989,
+      "ingredientId": 12535,
+      "shortDescription": "20",
+      "name": "Can khương",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 40990,
+      "ingredientId": 39051,
+      "shortDescription": "20",
+      "name": "Trần bì",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 40991,
+      "ingredientId": 11387,
+      "shortDescription": "20",
+      "name": "Bối mẫu (Thân hành)",
+      "isPrimary": false,
+      "slug": "thanh-phan/boi-mau"
+    },
+    {
+      "id": 40992,
+      "ingredientId": 21967,
+      "shortDescription": "20",
+      "name": "Hạnh nhân",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 40993,
+      "ingredientId": 12473,
+      "shortDescription": "",
+      "name": "Cam thảo",
+      "isPrimary": false,
+      "slug": "thanh-phan/cam-thao"
+    }
+  ],
+  "stock_qty": 0
+}

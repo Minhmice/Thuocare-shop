@@ -1,0 +1,44 @@
+{
+  "id": "00500008",
+  "slug": "thuoc/anbaliv-400-phuong-dong-pharma-6-vi-x-10-vien-34083.html",
+  "title": "Thuốc Anbaliv Phương Đông hỗ trợ điều trị các bệnh về gan (6 vỉ x 10 viên)",
+  "short_title": "ANBALIV 400 PHƯƠNG ĐÔNG PHARMA 6X10",
+  "brand": {
+    "name": "Phương Đông",
+    "slug": "thuong-hieu/phuong-dong",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-benh-gan",
+    "name": "Thuốc trị bệnh gan",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 660000,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 6 Vỉ x 10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/anbaliv_314037c30b.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/anbaliv_314037c30b.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Anbaliv là sản phẩm của Phương Đông Pharma có thành phần chính là Silymarin giúp bảo vệ tế bào gan, tăng cường chức năng gan trong các trường hợp: Viêm gan cấp và mãn tính, suy gan, xơ gan, gan nhiễm mỡ, lợi mật, lợi tiểu, giúp tiêu hóa.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p>Thuốc Anbaliv chỉ định giúp bảo vệ tế bào gan, tăng cường chức năng gan trong các trường hợp: Viêm gan cấp và mãn tính, suy gan, xơ gan, gan nhiễm mỡ, lợi mật, lợi tiểu, giúp tiêu hóa.</p>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Chưa có dữ liệu.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Chưa có dữ liệu</p>",
+  "ingredients_html": [
+    {
+      "id": 57177,
+      "ingredientId": 36065,
+      "shortDescription": "400mg",
+      "name": "Silymarin",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

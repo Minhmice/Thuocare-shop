@@ -1,0 +1,44 @@
+{
+  "id": "00503061",
+  "slug": "thuoc/lungastic-20-hasan-5x10-37346.html",
+  "title": "Thuốc Lungastic 20 Hasan điều trị bệnh hen suyễn, co thắt phế quản (5 vỉ x 10 viên)",
+  "short_title": "LUNGASTIC 20 HASAN 5X10",
+  "brand": {
+    "name": "Hasan",
+    "slug": "thuong-hieu/hasan",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-ho-hap/thuoc-tri-hen-suyen",
+    "name": "Thuốc trị hen suyễn",
+    "parent_slug": "thuoc/thuoc-ho-hap"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/lungastic_9cd327a35f.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/lungastic_9cd327a35f.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Lungastic 20 là sản phẩm của Công ty TNHH Liên doanh Hasan-Dermapharm chứa hoạt chất Bambuterol hydrochloride dùng trong điều trị bệnh hen suyễn, co thắt phế quản và/hoặc tắc nghẽn đường hô hấp có hồi phục.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Lungastic 20 chỉ định điều trị trong các trường hợp sau:</p><ul><li>Điều trị bệnh hen suyễn, co thắt phế quản và/ hoặc tắc nghẽn đường hô hấp có hồi phục.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 43824,
+      "ingredientId": 10256,
+      "shortDescription": "20mg",
+      "name": "Bambuterol",
+      "isPrimary": false,
+      "slug": "thanh-phan/bambuterol"
+    }
+  ],
+  "stock_qty": 0
+}

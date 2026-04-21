@@ -1,0 +1,45 @@
+{
+  "id": "00004922",
+  "slug": "thuoc/mezathin-500mg-3010.html",
+  "title": "Viên nang mềm Mezathin 500mg Hataphar điều trị các bệnh về gan, chán ăn, mệt mỏi (12 vỉ x 5 viên)",
+  "short_title": "MEZATHIN 500 HÀ TÂY 12X5",
+  "brand": {
+    "name": "Hà Tây",
+    "slug": "thuong-hieu/ha-tay",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-benh-gan",
+    "name": "Thuốc trị bệnh gan",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "5 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004922_mezathin_500mg_12x5_7685_9d45_large_399256562d.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004922_mezathin_500mg_12x5_7685_9d45_large_399256562d.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004922_mezathin_500mg_1628790414_9531992ba3.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang mềm",
+  "trust_label": null,
+  "short_description": "<p><strong>Thuốc Mezathin</strong> là sản phẩm&nbsp;của <i>Dược phẩm Hà Tây</i>, có thành phần chính&nbsp; L - Ornithin L - Aspartat với hàm lượng 500 mg. Thuốc dùng để hỗ trợ điều trị các bệnh về gan như: Viêm gan cấp và mạn tính, gan nhiễm mỡ, xơ gan, viêm gan siêu vi, viêm gan do thuốc, do rượu và do hóa chất...; cải thiện tình trạng chán ăn, mệt mỏi, suy nhược cơ thể do suy tế bào gan; giải độc gan do rượu.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p><strong>Thuốc Mezathin</strong> được chỉ định dùng trong các trường hợp hỗ trợ các bệnh về gan như:</p>\n\n<ul>\n\t<li>\n\t<p><strong><a href=\"https://nhathuoclongchau.com.vn/benh/viem-gan-cap-145.html\">Viêm gan cấp</a></strong> và mạn tính, gan nhiễm mỡ, xơ gan.</p>\n\t</li>\n\t<li>\n\t<p>Viêm gan siêu vi, viêm gan do thuốc, do rượu và do hóa chất...</p>\n\t</li>\n\t<li>\n\t<p>Tình trạng chán ăn, mệt mỏi, <strong><a href=\"https://nhathuoclongchau.com.vn/bai-viet/suy-nhuoc-co-the-nen-an-gi-va-han-che-an-gi-thi-tot-47428.html\">suy nhược cơ thể</a></strong> do suy tế bào gan.</p>\n\t</li>\n\t<li>\n\t<p>Giải độc gan do rượu.</p>\n\t</li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p>L - Ornithin L - Aspartat là sự kết hợp hai amino acid quan trọng trong chu trình chuyển hóa gan. Tăng khả năng khử độc ở gan, cải thiện cân bằng năng lượng.Tác dụng tốt trong suy chức năng gan, thúc đẩy tái tạo tế bào gan.</p>\n\n<p>L - Ornithin L - Aspartat kích thích sự sản xuất acid uric trong chu trình urê ở gan và kích thích việc sản xuất glutamine làm giảm thiểu nồng độ ammoniac.</p>\n\n<h3>Dược động học</h3>\n\n<p>Cả 2 acid amin này đều được hấp thu tốt qua đường tiêu hóa. Chưa có báo cáo về quá trình hấp thu, chuyển hóa, thải trừ.</p>",
+  "ingredients_html": [
+    {
+      "id": 22340,
+      "ingredientId": 25890,
+      "shortDescription": "500mg",
+      "name": "L-ornithine-L-aspartate",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

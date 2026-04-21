@@ -1,0 +1,88 @@
+{
+  "id": "00004165",
+  "slug": "thuoc/kim-long-ho-tro-dieu-tri-viem-mui-viem-xoang-433.html",
+  "title": "Thuốc Kim Long chữa chứng hắt hơi, sổ mũi, ngạt mũi, mặt mũi đau nhức (10 gói x 4g)",
+  "short_title": "KIM LONG 10 GÓI",
+  "brand": {
+    "name": "Bảo Long",
+    "slug": "thuong-hieu/bao-long",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-ho-hap/thuoc-tri-ho-cam",
+    "name": "Thuốc trị ho cảm",
+    "parent_slug": "thuoc/thuoc-ho-hap"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 10 Gói x 4g",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004165_kim_long_ho_tro_dieu_tri_viem_mui_viem_xoang_1020_5e9e_large_5e46ed30e3.JPG",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004165_kim_long_ho_tro_dieu_tri_viem_mui_viem_xoang_1020_5e9e_large_5e46ed30e3.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004165_kim_long_ho_tro_dieu_tri_viem_mui_viem_xoang_1627200240_201f3caefe.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004165_kim_long_ho_tro_dieu_tri_viem_mui_viem_xoang_7041_5e9e_large_ace46d09e5.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004165_kim_long_ho_tro_dieu_tri_viem_mui_viem_xoang_7212_5e9e_large_b8284c0e3a.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004165_kim_long_ho_tro_dieu_tri_viem_mui_viem_xoang_4939_60fd_large_55d0297816.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Hoàn cứng",
+  "trust_label": null,
+  "short_description": "<p>Kim Long - Hỗ trợ điều trị viêm mũi, viêm xoang của công ty TNHH đông, nam dược Bảo Long, thành phần chính gồm địa hoàng, mộc tặc, huyền sâm, ké đầu ngựa, cam thảo và cỏ nhọ nồi, thuốc được sử dụng để chữa chứng hắt hơi sổ mũi, ngạt mũi, mặt mũi đau nhức; chảy máu cam, viêm mũi dị ứng, viêm xoang cấp và mạn tính.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p>Thuốc Kim Long - Hỗ trợ điều trị viêm mũi, viêm xoang được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Chữa chứng hắt hơi sổ mũi, ngạt mũi, mặt mũi đau nhức.</li>\n\t<li>Chảy máu cam, <a href=\"https://nhathuoclongchau.com.vn/benh/viem-mui-di-ung-473.html\">viêm mũi dị ứng</a>, viêm xoang cấp và mạn tính.</li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p>Chưa có báo cáo.</p>\n\n<h3>Dược động học</h3>\n\n<p>Chưa có báo cáo.</p>",
+  "ingredients_html": [
+    {
+      "id": 35087,
+      "ingredientId": 22840,
+      "shortDescription": "0.6g",
+      "name": "Huyền sâm",
+      "isPrimary": false,
+      "slug": "thanh-phan/huyen-sam"
+    },
+    {
+      "id": 35088,
+      "ingredientId": 17440,
+      "shortDescription": "0.6g",
+      "name": "Địa hoàng",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 67051,
+      "ingredientId": 27840,
+      "shortDescription": "0.6g",
+      "name": "Mộc tặc",
+      "isPrimary": false,
+      "slug": "thanh-phan/moc-tac"
+    },
+    {
+      "id": 67052,
+      "ingredientId": 24470,
+      "shortDescription": "0.6g",
+      "name": "Ké đầu ngựa",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 67053,
+      "ingredientId": 12473,
+      "shortDescription": "0.56g",
+      "name": "Cam thảo",
+      "isPrimary": false,
+      "slug": "thanh-phan/cam-thao"
+    },
+    {
+      "id": 67054,
+      "ingredientId": 15333,
+      "shortDescription": "0.56g",
+      "name": "Cỏ nhọ nồi",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

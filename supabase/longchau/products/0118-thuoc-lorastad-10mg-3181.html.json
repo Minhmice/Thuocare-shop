@@ -1,0 +1,44 @@
+{
+  "id": "00004545",
+  "slug": "thuoc/lorastad-10mg-3181.html",
+  "title": "Viên nén Lorastad 10mg Stella điều trị viêm mũi dị ứng, hắt hơi, sổ mũi, viêm kết mạc dị ứng (10 vỉ x 10 viên)",
+  "short_title": "LORASTAD 10MG TAB STELLA 10X10",
+  "brand": {
+    "name": "Stella Pharm",
+    "slug": "thuong-hieu/stella-pharm",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-di-ung/thuoc-chong-di-ung",
+    "name": "Thuốc chống dị ứng",
+    "parent_slug": "thuoc/thuoc-di-ung"
+  },
+  "price_amount": 850,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/lorastad_10_da861d6807.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/lorastad_10_da861d6807.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén",
+  "trust_label": null,
+  "short_description": "<p>Lorastad có thành phần chính loratadine. Đây là thuốc dùng để điều trị viêm mũi dị ứng như: Hắt hơi, sổ mũi và ngứa. Viêm kết mạc dị ứng như: Ngứa mắt và nóng mắt. Triệu chứng của mề đay và các rối loạn dị ứng da.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3><p>Thuốc <a href=\"https://nhathuoclongchau.com.vn/thuoc/lorastad-10mg-3181.html\">Lorastad</a> được chỉ định dùng trong các trường hợp cần giảm triệu chứng của <a href=\"https://nhathuoclongchau.com.vn/benh/benh-di-ung-539.html\">dị ứng</a> bao gồm <a href=\"https://nhathuoclongchau.com.vn/benh/viem-mui-472.html\">viêm mũi</a> và mề đay mãn tính.</p><h3><strong>Dược lực học</strong></h3><p>Loratadin là thuốc kháng histamin 3 vòng có tác động kéo dài với hoạt tính đối kháng chọn lọc trên thụ thể H1 ở ngoại biên.</p><h3><strong>Dược động học</strong></h3><p>Loratadin được hấp thu nhanh qua đường tiêu hóa sau khi uống, nồng độ đỉnh trong huyết tương đạt được trong khoảng 1 giờ.</p><p>Sinh khả dụng tăng và thời gian đạt nồng độ đỉnh trong huyết tương chậm khi dùng chung thuốc với thức ăn. Loratadin bị chuyển hóa nhiều. Chất chuyển hóa chính là desloratadin có hoạt tính kháng histamin hiệu quả.</p><p>Thời gian bán thải trung bình đã được báo cáo của loratadin và desloratadin lần lượt là 8.4 và 28 giờ. Loratadin gắn kết khoảng 98% protein huyết tương; desloratadin gắn kết ít hơn. Loratadin và chất chuyển hóa của nó được phát hiện trong sữa mẹ, nhưng không qua được hàng rào máu não với lượng đáng kể. Phần lớn liều thuốc được bài tiết qua nước tiểu và phân với lượng tương đương nhau, chủ yếu ở dạng các chất chuyển hóa.</p><p>Sự phân bố của loratadin không thấy thay đổi đáng kể trên bệnh nhân suy thận nặng và thẩm tách máu không phải là biện pháp hiệu quả thải trừ loratadin hoặc chất chuyển hóa desloratadin ra khỏi cơ thể.</p>",
+  "ingredients_html": [
+    {
+      "id": 22164,
+      "ingredientId": 25881,
+      "shortDescription": "10mg",
+      "name": "Loratadine",
+      "isPrimary": false,
+      "slug": "thanh-phan/loratadine"
+    }
+  ],
+  "stock_qty": 0
+}

@@ -1,0 +1,44 @@
+{
+  "id": "00501840",
+  "slug": "thuoc/lupilopram-20mg-jubilant-3x10-35993.html",
+  "title": "Thuốc Lupilopram 20mg Jubilant điều trị các chứng trầm cảm (3 vỉ x 10 viên)",
+  "short_title": "LUPILOPRAM 20MG JUBILANT 3X10",
+  "brand": {
+    "name": "JUBILANT",
+    "slug": "thuong-hieu/jubilant",
+    "country": "Ấn Độ"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-than-kinh/thuoc-than-kinh",
+    "name": "Thuốc thần kinh",
+    "parent_slug": "thuoc/thuoc-than-kinh"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/lupil_1bb9f33dc1.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/lupil_1bb9f33dc1.jpg"
+  ],
+  "origin_label": "Ấn Độ",
+  "country": "Ấn Độ",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Lupilopram 20 là sản phẩm của JUBILANT, có thành phần chính là Escitalopram. Đây là thuốc được sử dụng để điều trị các chứng trầm cảm trầm trọng, điều trị chứng rối loạn hoảng sợ có hoặc không kèm chứng sợ đám đông, điều trị rối loạn lo âu xã hội (ám ảnh xã hội), điều trị rối loạn lo âu toàn thể, điều trị rối loạn ám ảnh cưỡng chế.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc Lupilopram 20 được chỉ định dùng trong các trường hợp sau:</p><ul><li>Điều trị các chứng trầm cảm trầm trọng.</li><li>Điều trị chứng rối loạn hoảng sợ có hoặc không kèm chứng sợ đám đông.</li><li>Điều trị rối loạn lo âu xã hội (ám ảnh xã hội).</li><li>Điều trị rối loạn lo âu toàn thể.</li><li>Điều trị rối loạn ám ảnh cưỡng chế.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 36374,
+      "ingredientId": 19440,
+      "shortDescription": "20mg",
+      "name": "Escitalopram",
+      "isPrimary": false,
+      "slug": "thanh-phan/escitalopram"
+    }
+  ],
+  "stock_qty": 0
+}

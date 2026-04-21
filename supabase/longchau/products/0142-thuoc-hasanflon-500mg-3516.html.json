@@ -1,0 +1,52 @@
+{
+  "id": "00003652",
+  "slug": "thuoc/hasanflon-500mg-3516.html",
+  "title": "Thuốc Hasanflon 500mg Hasan hỗ trợ điều trị suy tĩnh mạch bạch huyết, cơn trĩ cấp (2 vỉ x 15 viên)",
+  "short_title": "HASANFLON 500 HASAN 2X15",
+  "brand": {
+    "name": "Hasan",
+    "slug": "thuong-hieu/hasan",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tri-tri-suy-gian-tinh-mach",
+    "name": "Thuốc trị trĩ, suy giãn tĩnh mạch",
+    "parent_slug": "thuoc/thuoc-tim-mach-and-mau"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "15 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00003652_hasanflon_500mg_2x15_6440_ea1c_large_31729e5ca2.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003652_hasanflon_500mg_2x15_6440_ea1c_large_31729e5ca2.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Hasanflon 500 mg của công ty TNHH liên doanh Hasan – Dermapharm, thành phần chính diosmin và hesperidin, là thuốc được sử dụng để điều trị các triệu chứng liên quan đến suy tĩnh mạch bạch huyết (nặng chân, đau chân, chân khó chịu vào buổi sáng sớm); các triệu chứng chức năng liên quan đến cơn trĩ cấp.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p>Thuốc Hasanflon 500 mg được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Điều trị các triệu chứng liên quan đến suy tĩnh mạch bạch huyết (nặng chân, đau chân, chân khó chịu vào buổi sáng sớm). </li>\n\t<li>Điều trị các triệu chứng chức năng liên quan đến cơn trĩ cấp.</li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p><em>Tính chất dược lý</em></p>\n\n<p>Thuốc thể hiện tác động kép trên hệ tĩnh mạch: </p>\n\n<ul>\n\t<li>\n\t<p>Trên tĩnh mạch và các tiểu tĩnh mạch, thuốc làm tăng trương lực thành mạch và giảm sự ứ máu tĩnh mạch. </p>\n\t</li>\n\t<li>\n\t<p>Trên tuần hoàn mao mạch, thuốc làm tăng kháng lực mao mạch và làm tính thấm mao mạch trở về bình thường.</p>\n\t</li>\n</ul>\n\n<p><em>Dược lý lâm sàng</em> </p>\n\n<p>Đã có báo cáo về các nghiên cứu mù đôi có kiểm soát để xác định tính chất dược lý của thuốc trên cơ thể người: </p>\n\n<ul>\n\t<li>\n\t<p>Liên quan giữa liều lượng - tác dụng: Tồn tại mối quan hệ có ý nghĩa thống kê giữa liều lượng và tác dụng, thể hiện qua các thông số dung tích mạch máu, tính căng phồng và thời gian làm rỗng mạch máu. Tỉ số hiệu quả giữa liều lượng và tác dụng đạt cao nhất khi sử dụng liều 2 viên/ngày.</p>\n\t</li>\n\t<li>\n\t<p>Thuốc có hoạt tính tăng trương lực tĩnh mạch ở người. </p>\n\t</li>\n\t<li>\n\t<p>Hoạt tính trên tuần hoàn mao mạch: Các nghiên cứu mù đôi có kiểm soát cho thấy sự khác nhau có ý nghĩa thống kê khi so sánh với placebo, thuốc làm tăng kháng lực mao mạch ở bệnh nhân có hệ thống mao mạch yếu.</p>\n\t</li>\n</ul>\n\n<p><em>Trên lâm sàng</em></p>\n\n<p>Các nghiên cứu lâm sàng mù đôi có đối chứng placebo đã chứng minh hiệu quả của thuốc trong điều trị cải thiện cả chức năng và cơ quan ở bệnh nhân suy mạn tính tĩnh mạch chi dưới.</p>\n\n<h3>Dược động học</h3>\n\n<p>Trong cơ thể người, sau khi uống thuốc chữa diosamin được đánh dấu 14C: </p>\n\n<ul>\n\t<li>\n\t<p>Quá trình đào thải chủ yếu qua phân, khoảng 14% liều dùng được bài tiết qua nước tiểu.</p>\n\t</li>\n\t<li>\n\t<p>Thời gian bán thải khoảng 11 giờ. </p>\n\t</li>\n\t<li>\n\t<p>Thuốc được chuyển hóa mạnh, đã tìm thấy được nhiều loại acid phenol trong nước tiểu.</p>\n\t</li>\n</ul>",
+  "ingredients_html": [
+    {
+      "id": 21692,
+      "ingredientId": 18065,
+      "shortDescription": "450mg",
+      "name": "Diosmin",
+      "isPrimary": false,
+      "slug": "thanh-phan/diosmin"
+    },
+    {
+      "id": 21693,
+      "ingredientId": 22170,
+      "shortDescription": "50mg",
+      "name": "Hesperidin",
+      "isPrimary": false,
+      "slug": "thanh-phan/hesperidin"
+    }
+  ],
+  "stock_qty": 0
+}

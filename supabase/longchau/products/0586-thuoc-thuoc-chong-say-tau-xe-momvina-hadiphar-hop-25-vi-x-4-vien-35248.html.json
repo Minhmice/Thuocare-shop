@@ -1,0 +1,53 @@
+{
+  "id": "00501102",
+  "slug": "thuoc/thuoc-chong-say-tau-xe-momvina-hadiphar-hop-25-vi-x-4-vien-35248.html",
+  "title": "Thuốc chống say tàu xe Momvina Hadiphar điều trị chứng buồn nôn, nôn, chóng mặt (25 vỉ x 4 viên)",
+  "short_title": "THUỐC CHỐNG SAY TÀU XE MOMVINA HADIPHAR - HỘP 25 VỈ X 4 VIÊN ",
+  "brand": {
+    "name": "Hadiphar",
+    "slug": "thuong-hieu/hadiphar",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-than-kinh/thuoc-than-kinh",
+    "name": "Thuốc thần kinh",
+    "parent_slug": "thuoc/thuoc-than-kinh"
+  },
+  "price_amount": 91000,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 25 Vỉ x 4 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_02663_072b3867e3.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_02663_072b3867e3.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_02664_850330bffa.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_02665_283153df02.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_02665_283153df02.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_02666_a5631570a9.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_02667_916fc95569.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_02668_4e6f259edd.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_02669_60fe7014d6.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/momvina_1_8693a7a009.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/momvina_2_319e023c37.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén",
+  "trust_label": null,
+  "short_description": "<p>Thuốc chống say tàu xe Momvina là sản phẩm của Công ty cổ phần Dược Hà Tĩnh, thành phần chính là Dimenhydrinat. Thuốc được dùng trong phòng và điều trị chứng buồn nôn, nôn, chóng mặt khi say tàu xe. Điều trị chứng nôn và chóng mặt trong bệnh Ménière và các rối loạn tiền đình khác.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc chống say tàu xe Momvina dùng trong phòng và điều trị chứng buồn nôn, nôn, chóng mặt khi say tàu xe. Điều trị chứng nôn và chóng mặt trong bệnh Ménière và các rối loạn tiền đình khác.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 53681,
+      "ingredientId": 17911,
+      "shortDescription": "50mg",
+      "name": "Dimenhydrinate",
+      "isPrimary": false,
+      "slug": "thanh-phan/dimenhydrinate"
+    }
+  ],
+  "stock_qty": 0
+}

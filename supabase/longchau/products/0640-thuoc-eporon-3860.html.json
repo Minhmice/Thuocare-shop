@@ -1,0 +1,39 @@
+{
+  "id": "00002827",
+  "slug": "thuoc/eporon-3860.html",
+  "title": "Thuốc tra mắt Eporon điều trị viêm mí mắt, viêm kết mạc (5ml)",
+  "short_title": "EPORON SAMCHUNDANG 5ML",
+  "brand": {
+    "name": "Samchundang Pharm",
+    "slug": "thuong-hieu/samchundang-pharm",
+    "country": "Hàn Quốc"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-mat-tai-mui-hong/thuoc-nho-mat",
+    "name": "Thuốc nhỏ mắt",
+    "parent_slug": "thuoc/thuoc-mat-tai-mui-hong"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Chai",
+  "pack_note": "Chai x 5ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002827_eporon_5429_5bbd_large_56f2d0fe0a.JPG",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002827_eporon_5429_5bbd_large_56f2d0fe0a.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002827_eporon_7836_5bbd_large_e0db0adcb5.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002827_eporon_1772_5bbd_large_a404eed8da.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/00002827_eporon_8633_5bbd_large_93b1f0c907.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/00002827_eporon_3248_5bbd_large_32c01ace3a.JPG"
+  ],
+  "origin_label": "Hàn Quốc",
+  "country": "Hàn Quốc",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Hỗn dịch nhỏ mắt",
+  "trust_label": null,
+  "short_description": "<p style=\"text-align:justify;\">Eporon của nhà sản xuất Samchundang Pharm Co., Ltd - Hàn Quốc, có thành phần chính fluorometholone, đây là thuốc dùng để điều trị các bệnh viêm mắt đáp ứng với corticosteroid như viêm kết mạc nhãn cầu và kết mạc mi, viêm giác mạc, viêm mống mắt, viêm màng bồ đào trước và dùng trong phẫu thuật.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p>Thuốc nhỏ mắt Eporon được chỉ định trong:</p>\n\n<p>Điều trị viêm mí mắt, viêm kết mạc, viêm giác mạc và viêm tiền phòng của nhãn cầu có đáp ứng với corticosteroid.</p>\n\n<h3>Dược lực học</h3>\n\n<p><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/fluorometholone\">Fluorometholone</a> là một corticosteroid (glucocorticoid) tổng hợp, một dẫn xuất của desoxyprednisolone. Fluorometholone là một trong các steroid thường được dùng điều trị viêm mắt.</p>\n\n<p>Các glucocorticoid gắn với các thụ thể tế bào chất và kiểm soát sự tổng hợp các chất trung gian gây viêm do đó làm mất các phản ứng viêm (sưng, tiêu huỷ fibrin, giãn mao mạch).</p>\n\n<p>Mặc dù sử dụng corticosteroid nhỏ mắt thường làm tăng nhãn áp ở cả bệnh nhân nhãn áp bình thường và bệnh nhân bị <a href=\"https://nhathuoclongchau.com.vn/bai-viet/tim-hieu-ve-benh-tang-nhan-ap-glocom-47205.html\">tăng nhãn áp</a>, fluorometholone ít gây tăng nhãn áp hơn so với các thuốc khác ví dụ dexamethasone. Một nghiên cứu cho thấy sau 6 tuần điều trị, fluorometholone làm tăng nhãn áp ít hơn so với dexamethasone (dexamethasone: Tăng trung bình 9 mmHg và fluorometholone: Tăng trung bình 3 mmHg).</p>\n\n<h3>Dược động học</h3>\n\n<p>Khi nhỏ mắt hỗn dịch fluorometholone 0.1% được đánh dấu phóng xạ, nồng độ đỉnh của hoạt chất phóng xạ trong thủy dịch đạt được sau 30 phút. Chất chuyển hoá của fluorometholone có nồng độ cao trong cả thuỷ dịch và giác mạc cho thấy fluorometholone được chuyển hóa mạnh khi thâm nhập vào giác mạc và thủy dịch.</p>",
+  "ingredients_html": "<p><meta charset=\"utf-8\" /></p>",
+  "stock_qty": 0
+}

@@ -1,0 +1,52 @@
+{
+  "id": "00502625",
+  "slug": "thuoc/azetatin-40-meyer-bpc-10-x10.html",
+  "title": "Thuốc Azetatin 40 Meyer-BPC điều trị cholesterol máu, tăng lipid máu nguyên phát (10 vỉ x 10 viên)",
+  "short_title": "AZETATIN 40 MEYER-BPC 10X10",
+  "brand": {
+    "name": "MEYER-BPC",
+    "slug": "thuong-hieu/meyer-bpc",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tri-mo-mau",
+    "name": "Thuốc trị mỡ máu",
+    "parent_slug": "thuoc/thuoc-tim-mach-and-mau"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00502625_56d6312dbd.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00502625_56d6312dbd.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Azetatin 40 là sản phẩm của Công ty liên doanh Meyer-BPC với thành phần chính là Atorvastatin (Atorvastatin calci trihydrat), Ezetimibe. Thuốc Azetatin 40 được chỉ định phòng ngừa các bệnh tim mạch, hỗ trợ bệnh nhân người lớn bị tăng cholesterol máu nguyên phát, hỗ trợ chế độ ăn kiêng ở bệnh nhân tăng cholesterol máu có tính gia đình đồng hợp tử.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Điều trị tăng cholesterol máu hoặc rối loạn lipid máu hỗn hợp, như là liệu pháp hỗ trợ chế độ ăn uống, khi chế độ ăn uống và các phương pháp điều trị không dùng thuốc khác (ví dụ: tập thể dục, giảm cân) đáp ứng không đủ.</p><p>Điều trị tăng lipid máu nguyên phát.</p><p>Tăng cholesterol máu có tính gia đình đồng hợp tử (HoFH).</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 41017,
+      "ingredientId": 19939,
+      "shortDescription": "10mg",
+      "name": "Ezetimibe",
+      "isPrimary": false,
+      "slug": "thanh-phan/ezetimibe"
+    },
+    {
+      "id": 41018,
+      "ingredientId": 9727,
+      "shortDescription": "40mg",
+      "name": "Atorvastatin",
+      "isPrimary": false,
+      "slug": "thanh-phan/atorvastatin"
+    }
+  ],
+  "stock_qty": 0
+}

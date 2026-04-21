@@ -1,0 +1,51 @@
+{
+  "id": "00040283",
+  "slug": "thuoc/cynamus-125-mg-5-ml-cpc-1-hn-4-x5-ong.html",
+  "title": "Dung dịch uống Cynamus 125mg/5ml CPC1HN dùng khi ho có đàm, tăng tiết nhiều đàm (4 vỉ x 5 ống)",
+  "short_title": "CYNAMUS 125MG/5ML CPC1HN 4X5 ỐNG",
+  "brand": {
+    "name": "CPC1HN",
+    "slug": "thuong-hieu/cpc1hn",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-ho-hap/thuoc-tri-ho-cam",
+    "name": "Thuốc trị ho cảm",
+    "parent_slug": "thuoc/thuoc-ho-hap"
+  },
+  "price_amount": 3300,
+  "compare_at_amount": 0,
+  "unit": "Ống",
+  "pack_note": "5 Ống",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09829_e8274ff32c.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09829_e8274ff32c.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09824_bca1bb7b4f.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09825_9c15f6276c.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09826_24edc155cd.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09827_7289b69443.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09828_493844b962.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/Cynamus_1_4e85a233b6.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/Cynamus_2_2b665cf365.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch uống",
+  "trust_label": null,
+  "short_description": "<p>Dung dịch uống Cynamus 125mg/5ml là sản phẩm thuốc long đờm của Công ty Cổ phần Dược phẩm CPC1 Hà Nội chứa hoạt chất Carbocistein dùng trong các trường hợp: Ho có đàm, tăng tiết nhiều đàm và nhầy nhớt như trong viêm phế quản cấp và mạn tính, hen phế quản và giãn phế quản.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Dung dịch uống Cynamus 125mg/5ml chỉ định trong các trường hợp: Ho có đàm, tăng tiết nhiều đàm và nhầy nhớt như trong viêm phế quản cấp và mạn tính, hen phế quản và giãn phế quản.</p><h3>Dược lực học</h3><p><strong>Nhóm tác dụng dược lý: Thuốc làm loãng đờm và tiêu đờm</strong></p><p><strong>Mã ATC: R05CB03</strong></p><p>Carbocistein là chất làm loãng đờm. Thuốc hiệu chỉnh những bất thường trong quá trình tổng hợp glycoprotein ở nội bào làm dịch tiết ít nhầy nhớt. Carbocistein làm bình thường hóa các chức năng tiết dịch của biểu mô bề mặt và các tuyến nhầy dưới biểu mô.</p><h3>Dược động học</h3><p>Carbocistein hấp thu tốt và nhanh qua đường tiêu hóa với nồng độ đỉnh trong huyết tương xuất hiện 90 đến 120 phút sau khi uống. Carbocistein thấm tốt qua mô phổi và niêm dịch đường hô hấp. Carbocistein được bài tiết trong nước tiểu dưới dạng không đổi và các chất chuyển hóa. Acetyl hóa, phản ứng khử carboxyl, và sulfoxidation đã được xác định là con đường chuyển hóa chính.</p>",
+  "ingredients_html": [
+    {
+      "id": 59685,
+      "ingredientId": 13011,
+      "shortDescription": "125mg",
+      "name": "Carbocisteine",
+      "isPrimary": true,
+      "slug": "thanh-phan/carbocisteine"
+    }
+  ],
+  "stock_qty": 0
+}

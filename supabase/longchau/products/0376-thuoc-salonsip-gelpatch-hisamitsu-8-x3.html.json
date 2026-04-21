@@ -1,0 +1,77 @@
+{
+  "id": "00044958",
+  "slug": "thuoc/salonsip-gelpatch-hisamitsu-8-x3.html",
+  "title": "Cao dán Salonsip Gel - Patch Hisamitsu giảm đau, kháng viêm do mỏi cơ, đau cơ (8 gói x 3 miếng)",
+  "short_title": "SALONSIP GELPATCH HISAMITSU 8X3",
+  "brand": {
+    "name": "Hisamitsu",
+    "slug": "thuong-hieu/hisamitsu",
+    "country": "Nhật Bản"
+  },
+  "category": {
+    "slug": "thuoc/mieng-dan-cao-xoa-dau/mieng-dan-giam-dau",
+    "name": "Miếng dán giảm đau",
+    "parent_slug": "thuoc/mieng-dan-cao-xoa-dau"
+  },
+  "price_amount": 34000,
+  "compare_at_amount": 0,
+  "unit": "Gói",
+  "pack_note": "8 Gói x 3 Miếng",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00638_2f20f0ff6a.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00638_2f20f0ff6a.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00637_1dd7df9eef.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00626_29a6ece180.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00627_b453028929.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00628_264883ce31.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00630_a2dcded80d.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00631_0f5a05f21e.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00632_ed1c140cd5.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00633_1717aeb9c8.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00635_fd34310f1b.jpg"
+  ],
+  "origin_label": "Nhật Bản",
+  "country": "Nhật Bản",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Miếng dán",
+  "trust_label": null,
+  "short_description": "<p>Salonsip Gel - Patch là cao dán chứa thành phần hoạt chất L-menthol, DL-camphor, Glycol salicylate, Tocopherol acetate dùng cho đối tượng người lớn và trẻ em từ 30 tháng tuổi trở lên giúp <strong>giảm đau, kháng viêm</strong> trong các cơn đau liên quan đến: Mỏi cơ, đau cơ, đau vai, đau lưng đơn thuần, bầm tím, bong gân, căng cơ, viêm khớp.</p>",
+  "description_html": "<p><strong>Giới thiệu thuốc Salonsip Gel - Patch:</strong></p><ul><li><strong>Chỉ định:</strong> Dùng giảm đau, kháng viêm trong các cơn đau liên quan đến: Mỏi cơ, đau cơ, đau vai, đau lưng đơn thuần, bầm tím, bong gân, căng cơ, viêm khớp.</li><li><strong>Cách dùng:</strong> Rửa sạch, lau khô vùng da bị đau. Dán lên vùng da bị đau.</li><li><strong>Đối tượng sử dụng:</strong> Người lớn và trẻ em từ 30 tháng tuổi trở lên cần giảm đau, kháng viêm.</li><li><strong>Lưu ý khi sử dụng:</strong> Chỉ dùng ngoài da. Tránh tiếp xúc với mắt, niêm mạc và vùng da nổi mụn. Không dùng kèm với băng dán nóng. Không băng chặt.</li><li><strong>Chống chỉ định:</strong> Vùng da tổn thương hoặc vết thương hở. Người có tiền sử dị ứng với một trong các thành phần của thuốc. Trẻ em có tiền sử động kinh hoặc co giật do sốt cao.</li></ul>",
+  "usage_html": "<h3>Chỉ định</h3><p>Cao dán Salonsip Gel - Patch chỉ định dùng cho người lớn và trẻ em từ 30 tháng tuổi trở lên dùng giảm đau, kháng viêm trong các cơn đau liên quan đến: Mỏi cơ, đau cơ, đau vai, đau lưng đơn thuần, bầm tím, bong gân, căng cơ, viêm khớp.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 48643,
+      "ingredientId": 25727,
+      "shortDescription": "1g",
+      "name": "L-menthol",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 48644,
+      "ingredientId": 18249,
+      "shortDescription": "0.3g",
+      "name": "DL-camphor",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 48645,
+      "ingredientId": 21501,
+      "shortDescription": "1.25g",
+      "name": "Glycol salicylate",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 48646,
+      "ingredientId": 42320,
+      "shortDescription": "1g",
+      "name": "Tocopherol acetat",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

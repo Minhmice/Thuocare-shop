@@ -1,0 +1,44 @@
+{
+  "id": "00502455",
+  "slug": "thuoc/agirisdon-2mg-agimexpharm-10x10-36705.html",
+  "title": "Thuốc AgiRISDON 2 Agimexpharm điều trị các bệnh loạn thần (10 vỉ x 10 viên)",
+  "short_title": "AGIRISDON 2MG AGIMEXPHARM 10X10",
+  "brand": {
+    "name": "Agimexpharm",
+    "slug": "thuong-hieu/agimexpharm",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-than-kinh/thuoc-than-kinh",
+    "name": "Thuốc thần kinh",
+    "parent_slug": "thuoc/thuoc-than-kinh"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00502455_3c46327064.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00502455_3c46327064.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Thuốc AgiRISDON là sản phẩm của Agimexpharm, có thành phần chính là Risperidone. Đây là thuốc được sử dụng để điều trị các bệnh loạn thần, đặc biệt tâm thần phân liệt cấp tính và mạn tính; điều trị ngắn ngày các đợt hưng cảm cấp từ vừa đến nặng.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc AgiRISDON được chỉ định dùng trong các trường hợp sau:</p><ul><li>Các bệnh loạn thần, đặc biệt tâm thần phân liệt cấp tính và mạn tính.</li><li>Điều trị ngắn ngày các đợt hưng cảm cấp từ vừa đến nặng.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 44345,
+      "ingredientId": 34916,
+      "shortDescription": "2mg",
+      "name": "Risperidone",
+      "isPrimary": false,
+      "slug": "thanh-phan/risperidone"
+    }
+  ],
+  "stock_qty": 0
+}

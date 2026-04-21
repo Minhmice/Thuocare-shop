@@ -1,0 +1,44 @@
+{
+  "id": "00033682",
+  "slug": "thuoc/pit-stat-tablet-1-vi-x-10-vien-am-vi-33766.html",
+  "title": "Thuốc Pit-Stat điều trị trong trường hợp tăng cholesterol máu và rối loạn lipid máu (1 vỉ x 10 viên)",
+  "short_title": "PIT-STAT 1MG TABLET AM VI 1X10",
+  "brand": {
+    "name": "Amvi",
+    "slug": "thuong-hieu/amvi",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tri-mo-mau",
+    "name": "Thuốc trị mỡ máu",
+    "parent_slug": "thuoc/thuoc-tim-mach-and-mau"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 1 Vỉ x 10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/pitstat_4bf25c1b1a.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/pitstat_4bf25c1b1a.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Pit-Stat là sản phẩm của Công ty Cổ phần Dược Am Vi có chứa hoạt chất chính là Pitavastatin. Đây là thuốc dùng điều trị trong trường hợp tăng cholesterol máu và rối loạn lipid máu.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p>Thuốc Pit-Stat là thuốc dùng điều trị trong trường hợp tăng cholesterol máu và rối loạn lipid máu.</p>\n\n<h3>Dược lực học</h3>\n\n<p>Chưa có dữ liệu.</p>\n\n<h3>Dược động học</h3>\n\n<p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 54459,
+      "ingredientId": 32770,
+      "shortDescription": "1mg",
+      "name": "Pitavastatin",
+      "isPrimary": false,
+      "slug": "thanh-phan/pitavastatin"
+    }
+  ],
+  "stock_qty": 0
+}

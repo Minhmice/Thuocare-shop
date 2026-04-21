@@ -1,0 +1,35 @@
+{
+  "id": "00004904",
+  "slug": "thuoc/metronidazol-400mg-3022.html",
+  "title": "Thuốc Metronidazole Stella 400mg điều trị và phòng ngừa nhiễm nấm, nhiễm khuẩn kỵ khí (2 vỉ x 7 viên)",
+  "short_title": "METRONIDAZOLE 400MG STELLA 2X7",
+  "brand": {
+    "name": "Stella Pharm",
+    "slug": "thuong-hieu/stella-pharm",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-khang-sinh-khang-nam/thuoc-khang-nam",
+    "name": "Thuốc kháng nấm",
+    "parent_slug": "thuoc/thuoc-khang-sinh-khang-nam"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "7 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/meotrdinazole_400_6c791d2695.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/meotrdinazole_400_6c791d2695.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Metronidazol 400Mg có thành phần là Metronidazole có tác dụng điều trị nhiễm động vật nguyên sinh nhạy cảm; điều trị và phòng ngừa nhiễm khuẩn kỵ khí; các loại nhiễm khuẩn đặc trưng; điều trị bệnh loét tiêu hóa.</p>",
+  "description_html": "",
+  "usage_html": "<div>\n<ul>\n\t<li>\n\t<p>Điều trị nhiễm động vật nguyên sinh nhạy cảm như nhiễm Trichomonas, nhiễm amíp, bệnh Balantidium, nhiễm Blastocystis hominis, nhiễm Giardia, giun rồng Drucunculus.</p>\n\t</li>\n\t<li>\n\t<p>Điều trị và phòng ngừa nhiễm khuẩn kỵ khí. Các loại nhiễm khuẩn đặc trưng như nhiễm khuẩn phụ khoa, viêm loét nướu hoại tử cấp, bệnh viêm nhiễm vùng chậu và viêm kết tràng do kháng sinh.</p>\n\t</li>\n\t<li>\n\t<p>Điều trị bệnh loét tiêu hóa do Helicobacter pylori (kết hợp với các thuốc khác).</p>\n\t</li>\n</ul>\n</div>",
+  "ingredients_html": "<p><meta charset=\"utf-8\"></p><p><meta charset=\"utf-8\"></p><p dir=\"ltr\">Dược chất chính: Metronidazole</p><p dir=\"ltr\">Loại thuốc: Kháng sinh.</p><p dir=\"ltr\">Dạng thuốc, hàm lượng: Hộp 2 vỉ x 7 viên - Viên nén.</p>",
+  "stock_qty": 0
+}

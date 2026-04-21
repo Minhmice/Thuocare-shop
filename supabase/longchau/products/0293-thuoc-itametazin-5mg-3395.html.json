@@ -1,0 +1,49 @@
+{
+  "id": "00004014",
+  "slug": "thuoc/itametazin-5mg-3395.html",
+  "title": "Viên nén Itametazin 5mg Nova Argentia điều trị hen do phấn hoa, viêm mũi dị ứng, viêm kết mạc (2 vỉ x 7 viên)",
+  "short_title": "ITAMETAZIN 5MG",
+  "brand": {
+    "name": "Nova Argentia",
+    "slug": "thuong-hieu/nova-argentia",
+    "country": "Ý"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-di-ung/thuoc-chong-di-ung",
+    "name": "Thuốc chống dị ứng",
+    "parent_slug": "thuoc/thuoc-di-ung"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "7 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004014_itametazin_5mg_9137_6095_large_f51e8e8b25.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004014_itametazin_5mg_9137_6095_large_f51e8e8b25.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004014_itametazin_5mg_1628704848_99b6bd3437.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004014_itametazin_5mg_9664_6095_large_10ddd29be0.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004014_itametazin_5mg_4354_6095_large_2aa6a9348e.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004014_itametazin_5mg_1715_6095_large_128719340a.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004014_itametazin_5mg_4551_6114_large_ae3b323753.jpg"
+  ],
+  "origin_label": "Ý",
+  "country": "Ý",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén",
+  "trust_label": null,
+  "short_description": "<p>Itametazin 5mg có thành phần chính là Mequitazin 5mg, là thuốc kháng histamin H1 được chỉ định trong các trường hợp hen do phấn hoa, viêm mũi dị ứng, viêm mũi hầu, viêm kết mạc, sốt cỏ khô, ngứa, mề đay, chàm dị ứng, hội chứng phù quincke. Sản phẩm có dạng viên nén Mequitazin 5mg. </p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p>Thuốc Itametazin được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Hen do phấn hoa</li>\n\t<li><a href=\"https://nhathuoclongchau.com.vn/benh/viem-mui-di-ung-473.html\">Viêm mũi dị ứng</a>, viêm mũi hầu, viêm kết mạc</li>\n\t<li>Sốt cỏ khô</li>\n\t<li>Ngứa, <a href=\"https://nhathuoclongchau.com.vn/benh/me-day-527.html\">mề đay</a>, chàm dị ứng</li>\n\t<li>Hội chứng phù quincke</li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/mequitazine\">Mequitazin</a> là thuốc kháng histamin H1, thuộc nhóm phenothiazine mà không gây quái thai hoặc đột biến. Thuốc tác động lên receptor H1 và kìm hãm sự tiết các chất trung gian (histamin và serotonin) ở dưỡng bào. Cấu trúc phân tử của mequitazin giúp cho thuốc này ít bị phân hủy bởi enzym và có tác dụng lâu dài.</p>\n\n<h3>Dược động học</h3>\n\n<p>Tỷ lệ hấp thu qua đường uống của mequitazin vào khoảng 70%.</p>\n\n<p>Thể tích phân bố trong cơ thể là 400L. Thuốc gắn với protein huyết tương ở tỷ lệ khoảng 90%. Thuốc có mặt trong máu sau khi uống 30 phút.</p>\n\n<p>Thuốc chuyển hóa qua gan, đào thải qua nước tiểu và phân.</p>\n\n<p>Thời gian bán thải trong huyết tương khoảng 12 giờ.</p>",
+  "ingredients_html": [
+    {
+      "id": 21889,
+      "ingredientId": 26994,
+      "shortDescription": "5mg",
+      "name": "Mequitazine",
+      "isPrimary": false,
+      "slug": "thanh-phan/mequitazine"
+    }
+  ],
+  "stock_qty": 0
+}

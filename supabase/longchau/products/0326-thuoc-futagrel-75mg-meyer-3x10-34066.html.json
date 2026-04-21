@@ -1,0 +1,44 @@
+{
+  "id": "00345911",
+  "slug": "thuoc/futagrel-75mg-meyer-3x10-34066.html",
+  "title": "Thuốc Futagrel Meyer phòng ngừa nhồi máu cơ tim, bệnh lý động mạch ngoại biên, đột quỵ (3 vỉ x 10 viên)",
+  "short_title": "FUTAGREL 75MG MEYER 3X10",
+  "brand": {
+    "name": "MEYER-BPC",
+    "slug": "thuong-hieu/meyer-bpc",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap",
+    "name": "Thuốc tim mạch huyết áp",
+    "parent_slug": "thuoc/thuoc-tim-mach-and-mau"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/881_85d6b53d36.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/881_85d6b53d36.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Futagrel là sản phẩm của&nbsp;Công ty Liên doanh Meyer - BPC, chứa hoạt chất&nbsp;Clopidogrel (dưới dạng Clopidogrel bisulfat) giúp phòng ngừa các bệnh lý huyết khối tắc mạch như chứng nhồi máu cơ tim, bệnh lý động mạch ngoại biên, đột quỵ. Ngoài ra, thuốc còn phối hợp với aspirin trong điều trị hội chứng mạch vành cấp không có đoạn ST chênh lên.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Futagrel chỉ định điều trị trong các trường hợp sau:</p><ul><li>Phòng ngừa các bệnh lý huyết khối tắc mạch như chứng nhồi máu cơ tim, bệnh lý động mạch ngoại biên, đột quỵ.</li><li>Phối hợp với aspirin trong điều trị hội chứng mạch vành cấp không có đoạn ST chênh lên.</li></ul><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 39829,
+      "ingredientId": 15173,
+      "shortDescription": "75mg",
+      "name": "Clopidogrel",
+      "isPrimary": true,
+      "slug": "thanh-phan/clopidogrel"
+    }
+  ],
+  "stock_qty": 0
+}

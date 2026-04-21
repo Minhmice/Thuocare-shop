@@ -1,0 +1,44 @@
+{
+  "id": "00039037",
+  "slug": "thuoc/ibrance-100-mg-pfizer-1-x7.html",
+  "title": "Thuốc Ibrance 100mg Pfizer cản trở sự phát triển, lan rộng các tế bào ung thư (7 viên)",
+  "short_title": "IBRANCE 100MG PFIZER 1X7",
+  "brand": {
+    "name": "Pfizer",
+    "slug": "thuong-hieu/pfizer",
+    "country": "Mỹ"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-dieu-tri-ung-thu/thuoc-dieu-tri-ung-thu",
+    "name": "Thuốc điều trị ung thư",
+    "parent_slug": "thuoc/thuoc-dieu-tri-ung-thu"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 1 Vỉ x 7 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/ibrance_1_57119dd759.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/ibrance_1_57119dd759.jpg"
+  ],
+  "origin_label": "Mỹ",
+  "country": "Mỹ",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang cứng",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Ibrance là viên uống chứa dược chất <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/palbociclib\">Palbociclib</a>, một loại thuốc trị ung thư có tác dụng cản trở sự phát triển và lan rộng của các tế bào ung thư trong cơ thể.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Ibrance là một loại thuốc trị ung thư có tác dụng cản trở sự phát triển và lan rộng của các tế bào ung thư trong cơ thể.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 55406,
+      "ingredientId": 31376,
+      "shortDescription": "100mg",
+      "name": "Palbociclib",
+      "isPrimary": false,
+      "slug": "thanh-phan/palbociclib"
+    }
+  ],
+  "stock_qty": 0
+}

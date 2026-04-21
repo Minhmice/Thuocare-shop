@@ -1,0 +1,80 @@
+{
+  "id": "00049459",
+  "slug": "thuoc/salonpas-6-5-cm-x-4-2-cm-hisamitsu-5-hop-le-x-4-goi-1.html",
+  "title": "Thuốc Salonpas 6.5cm x 4.2cm Hisamitsu hỗ trợ giảm đau, kháng viêm (5 hộp x 4 gói)",
+  "short_title": "SALONPAS 6.5CM X 4.2CM HISAMITSU 5 HỘP LẺ X 4 GÓI X 10 MIẾNG",
+  "brand": {
+    "name": "Hisamitsu",
+    "slug": "thuong-hieu/hisamitsu",
+    "country": "Nhật Bản"
+  },
+  "category": {
+    "slug": "thuoc/mieng-dan-cao-xoa-dau/mieng-dan-va-cao-dan-giam-dau",
+    "name": "Miếng dán và cao dán giảm đau",
+    "parent_slug": "thuoc/mieng-dan-cao-xoa-dau"
+  },
+  "price_amount": 14500,
+  "compare_at_amount": 0,
+  "unit": "Gói",
+  "pack_note": "4 Gói",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09855_642b533080.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09855_642b533080.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09845_97fded34a6.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09850_4cc3b418ce.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09856_4488293092.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09852_2cfb464e0e.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09846_fd825752ac.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09851_f429de0a32.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09846_fd825752ac.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09848_fafabdd1b3.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09847_1f0116fbc9.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09849_665cbd33f0.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09854_c0371a6a8a.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09857_09b7b7879f.png"
+  ],
+  "origin_label": "Nhật Bản",
+  "country": "Nhật Bản",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Cao dán",
+  "trust_label": null,
+  "short_description": "<p>Cao dán giảm đau Salonpas là sản phẩm của Hisamitsu, có thành phần chính là Tocopherol acetate, L-menthol, DL-camphor, Methyl salicylate. Đây là sản phẩm được sử dụng để giảm đau, kháng viêm.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Cao dán giảm đau Salonpas được chỉ định dùng trong các trường hợp sau:</p><ul><li dir=\"ltr\">Người lớn và trẻ em từ 12 tuổi trở lên: Dùng giảm đau, kháng viêm trong các cơn đau liên quan đến: Đau vai, đau lưng, đau cơ, mỏi cơ, đau khớp, bầm tím, bong gân, căng cơ, đau đầu, đau răng.</li><li dir=\"ltr\">Trẻ em dưới 12 tuổi phải hỏi ý kiến bác sĩ trước khi sử dụng.&nbsp;</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 34683,
+      "ingredientId": 38865,
+      "shortDescription": "2%",
+      "name": "Tocopherol acetate",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 34684,
+      "ingredientId": 25727,
+      "shortDescription": "5.71%",
+      "name": "L-menthol",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 34685,
+      "ingredientId": 18249,
+      "shortDescription": "1.24%",
+      "name": "DL-camphor",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 34686,
+      "ingredientId": 27307,
+      "shortDescription": "6.29%",
+      "name": "Methyl salicylate",
+      "isPrimary": false,
+      "slug": "thanh-phan/methyl-salicylate"
+    }
+  ],
+  "stock_qty": 0
+}

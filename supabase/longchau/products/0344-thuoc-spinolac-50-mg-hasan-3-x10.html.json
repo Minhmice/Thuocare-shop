@@ -1,0 +1,44 @@
+{
+  "id": "00501058",
+  "slug": "thuoc/spinolac-50-mg-hasan-3-x10.html",
+  "title": "Thuốc Spinolac 50mg Hasan điều trị tiền phẫu thuật cho bệnh nhân cường Aldosterone (3 vỉ x 10 viên)",
+  "short_title": "SPINOLAC 50MG HASAN 3X10",
+  "brand": {
+    "name": "Hasan",
+    "slug": "thuong-hieu/hasan",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap",
+    "name": "Thuốc tim mạch huyết áp",
+    "parent_slug": "thuoc/thuoc-tim-mach-and-mau"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/spinolac_50_681326086a.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/spinolac_50_681326086a.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén",
+  "trust_label": null,
+  "short_description": "<p>Spinolac 50 mg là sản phẩm của Công ty TNHH Hasan-Dermapharm với thành phần chính là Spironolacton. Thuốc Spinolac 50 mg được chỉ định sử dụng trong điều trị tiền phẫu thuật cho bệnh nhân cường Aldosterone, tăng HA.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><ul><li>Điều trị tiền phẫu thuật cho bệnh nhân cường Aldosterone.</li><li>Tăng HA.</li></ul><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 33851,
+      "ingredientId": 36701,
+      "shortDescription": "50mg",
+      "name": "Spironolactone",
+      "isPrimary": false,
+      "slug": "thanh-phan/spironolactone"
+    }
+  ],
+  "stock_qty": 0
+}

@@ -1,0 +1,51 @@
+{
+  "id": "00005958",
+  "slug": "thuoc/piascledine-300mg-2603.html",
+  "title": "Thuốc Piascledine 300mg Hyphens điều trị viêm xương khớp hông và khớp gối  (1 vỉ x 15 viên)",
+  "short_title": "PIASCLEDINE 300MG HYPHENS 1X15",
+  "brand": {
+    "name": "Hyphens",
+    "slug": "thuong-hieu/hyphens",
+    "country": "Singapore"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+    "name": "Thuốc bổ",
+    "parent_slug": "thuoc/thuoc-bo-and-vitamin"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "15 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_01179_d00b1c48b7.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_01179_d00b1c48b7.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_01180_67411bffa7.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_01181_2adf2decff.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_01182_374d8882ff.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_01183_03c2a4f92c.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_01184_5b0412bfe8.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_01185_1f379a5ce3.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_20250919_0001_c3f5b6d0ce.jpg"
+  ],
+  "origin_label": "Singapore",
+  "country": "Singapore",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang cứng",
+  "trust_label": null,
+  "short_description": "<p>Piascledine 300mg của Công ty Laboratoires Expanscience có thành phần chính là cao toàn phần không xà phòng hoá quả bơ và đậu nành. Thuốc có tác dụng điều trị triệu chứng trong viêm xương khớp hông và khớp gối, điều trị hỗ trợ viêm nha chu.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3><p>Thuốc <a href=\"https://nhathuoclongchau.com.vn/thuoc/piascledine-300mg-2603.html\">Piascledine</a> 300mg được chỉ định dùng trong các trường hợp sau:</p><ul><li>Khoa cơ xương khớp: Điều trị triệu chứng các biểu hiện bệnh lý của thoái hóa khớp hông và khớp gối.</li><li>Khoa miệng: Điều trị hỗ trợ viêm nha chu.</li></ul><h3><strong>Dược lực học</strong></h3><p><strong>Nhóm dược lý: Thuốc chống viêm và chống thấp khớp khác không steroid</strong></p><p><strong>Mã ATC: M01AX26</strong></p><p>Do đặc tính tác động chậm, khi bắt đầu điều trị với PIASCLEDINE® có thể cần kết hợp với một NSAID và/hoặc thuốc giảm đau với liều lượng có thể giảm khi hiệu quả PIASCLEDINE® tăng.</p><p>Cơ chế tác động của cao toàn phần của phần không xà phòng hóa quả bơ và dầu đậu nành (ASU) đã được đánh giá qua nghiên cứu in vitro và in vivo trong bệnh thoái hóa khớp (OA) cho thấy các tính chất dược lý chủ yếu như sau:</p><p>Cơ chế tác động chính của PIASCLEDINE® bao gồm:</p><p>Sự gia tăng tổng hợp (PG) proteoglycans, đặc biệt nhóm có trọng lượng phân tử cao, với chất lượng tương tự như các PG tự nhiên.</p><p>Tác dụng bổ sung của hai thành phần của PIASCLEDINE®: Ức chế cấp tính sự thoái biến PG và kích thích mãn tính sự tổng hợp PG.</p><p>Sự kích thích tổng hợp collagen bởi tế bào hoạt dịch và tế bào sụn khớp.</p><p>Tác dụng trên collagen là do làm giảm tác dụng ức chế của IL-1 và giảm tổng hợp PGE2 bởi các tế bào sụn.</p><p>PIASCLEDINE® cũng ức chế collagenase tuýp II ở khớp.</p><p>Cuối cùng, PIASCLEDINE® kích thích hoạt động của TGFß1 và TGFß2 và chất ức chế hoạt hóa plasminogen 1 (PAI-1). Các tác động này giải thích hiệu quả có lợi trên sự hồi phục và bảo vệ chất cơ bản ngoại bào.</p><h3>Dược động học</h3><p>Không có phương pháp phân tích chuyên biệt và đủ chính xác cho các nghiên cứu dược động học để phân tích ASU trong dịch sinh học. Vì vậy, không có dữ liệu có giá trị về dược động học của PIASCLEDINE®.</p>",
+  "ingredients_html": [
+    {
+      "id": 22884,
+      "ingredientId": 41762,
+      "shortDescription": "300mg",
+      "name": "Cao toàn phần không xà phòng hóa quả bơ và dầu đậu nành",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

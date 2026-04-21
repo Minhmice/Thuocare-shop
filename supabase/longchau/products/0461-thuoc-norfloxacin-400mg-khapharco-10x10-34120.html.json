@@ -1,0 +1,44 @@
+{
+  "id": "00500040",
+  "slug": "thuoc/norfloxacin-400mg-khapharco-10x10-34120.html",
+  "title": "Thuốc Norfloxacin 400mg Khapharco điều trị nhiễm khuẩn đường tiết niệu (10 vỉ x 10 viên)",
+  "short_title": "NORFLOXACIN 400MG KHAPHARCO 10X10",
+  "brand": {
+    "name": "Khapharco",
+    "slug": "thuong-hieu/khapharco",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-khang-sinh-khang-nam/thuoc-khang-sinh",
+    "name": "Thuốc kháng sinh",
+    "parent_slug": "thuoc/thuoc-khang-sinh-khang-nam"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/28_517e06a0d6.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/28_517e06a0d6.png"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Norfloxacin là sản phẩm của&nbsp;Công ty Cổ phần Dược phẩm Khánh Hoà (Khapharco Pharm) có thành phần chính là&nbsp;Norfloxacin được dùng chủ yếu để điều trị nhiễm khuẩn đường tiết niệu có hoặc không có biến chứng và viêm tuyến tiền liệt do các vi khuẩn nhạy cảm.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p>Norfloxacin được dùng chủ yếu để điều trị nhiễm khuẩn đường tiết niệu có hoặc không có biến chứng và viêm tuyến tiền liệt do các vi khuẩn nhạy cảm.</p>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Phân loại: Norfloxacin là kháng sinh nhóm quinolon (phân nhóm fluoroquinolon). Norfloxacin ức chế DNA - gyrase, một enzym cần thiết cho sự sao chép DNA của vi khuẩn.</p>\n\n<p>Norfloxacin có tác dụng diệt khuẩn với cả vi khuẩn ưa khi Gram dương và Gram âm.</p>\n\n<p>Norfloxacin có tác dụng với hầu hết các tác nhân gây bệnh đường tiết niệu thông thường nhất như: Escherichia coli, Proteus mirabilis, Staphylococcus saprophyticus. Ngoài ra, norfloxacin cũng có tác dụng diệt các khuẩn gây bệnh đường tiết niệu khác như Klebsiella spp., Enterobacter spp., Proteus spp. indol durong. Pseudomonas aeruginosa và Streptococcus faecalis.</p>\n\n<p>Norfoxacin cũng diệt Salmonella spp., Shigella spp., Campylobacter spp., Vibrio cholerae và Yersina enterocolitica, và các vi khuẩn có liên quan. Nó còn có tác dụng diệt Neisseria gonorrhoeae (cả các chủng tạo penicilinase hoặc không tạo ra penicilinase).</p>\n\n<p>Chlamydia và các vi khuẩn yểm khi như Bacteroides spp. không nhạy cảm với norfloxacin.</p>\n\n<p>Norfloxacin cũng thường có tác dụng ngay khi vi khuẩn đã kháng với acid nalidixic.</p>\n\n<p>In vitro, norfloxacin ức chế đa số các chủng nhạy cảm gây bệnh ở mắt như Acinetobacter calcoaceticus, Aeromonas hydrophila, Hemophilus influenzae, Staphylococcus aureus. Đa số các chủng Pseudomonas aeruginosa bị ức chế bởi norfloxacin ở nồng độ 4 microgam/ml hoặc thấp hơn. Norfloxacin tác dụng yếu hơn ciprofloxacin chống các chủng gây bệnh nhạy cảm in vitro, và cũng yếu hơn ciprofloxacin trong một số mô hình viêm giác mạc gây ra bởi Pseudomonas aeruginosa in vivo.</p>\n\n<p>Sự đề kháng đối với norfloxacin truyền qua plasmid chưa được xác định.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Khi dùng liều 200 mg hay 400 mg norfloxacin, trong vòng 1 - 2 giờ nồng độ tối đa của thuốc trong huyết tương tương ứng là 0,8 mglit và 1,5 mg/lit. Norfloxacin được bài tiết theo hai đường: Lọc cầu thận và bài tiết ở ống thận. Nồng độ thuốc tối đa trong nước tiểu đạt được sau<br />\nkhi uống thuốc 2 giờ.</p>\n\n<p>Nồng độ diệt khuẩn của thuốc trong nước tiểu được duy trì trong vòng 12 giờ. Nửa đời của thuốc trong huyết tương khoảng 3 - 5 giờ. Đối với những người suy thận ở mức độ trung bình có độ thanh thải creatinin dưới 30 ml/phút, nửa đời của thuốc trong huyết tương kéo dài gấp đôi (6 - 10 giờ).</p>",
+  "ingredients_html": [
+    {
+      "id": 30293,
+      "ingredientId": 30253,
+      "shortDescription": "400mg",
+      "name": "Norfloxacin",
+      "isPrimary": true,
+      "slug": "thanh-phan/norfloxacin"
+    }
+  ],
+  "stock_qty": 0
+}

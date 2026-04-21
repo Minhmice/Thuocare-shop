@@ -1,0 +1,44 @@
+{
+  "id": "00503547",
+  "slug": "thuoc/xit-tenafin-1-vcp-20ml-37868.html",
+  "title": "Dung dịch xịt Tenafin 1% VCP điều trị trường hợp nhiễm nấm ngoài da (20ml)",
+  "short_title": "XỊT TENAFIN 1% VCP 20ML",
+  "brand": {
+    "name": "Vcp",
+    "slug": "thuong-hieu/vcp",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-mat-tai-mui-hong/thuoc-tai-mui-hong",
+    "name": "Thuốc tai mũi họng",
+    "parent_slug": "thuoc/thuoc-mat-tai-mui-hong"
+  },
+  "price_amount": 95000,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp x 20ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/tenafin_66df5ae981.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/tenafin_66df5ae981.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dạng xịt",
+  "trust_label": null,
+  "short_description": "<p>Tenafin 1% là sản phẩm của Công ty cổ phần dược phẩm VCP, thành phần chính là Terbinafine Hydroclorid. Dung dịch xịt Tenafin 1% được dùng để điều trị các trường hợp nhiễm nấm ngoài da như nấm bàn chân, nấm bẹn do các chủng Trichophyton (như T. rubum, T. mentagrophytes, T. verrucosum, T. violaceum) và Epidermophyton floccosum gây ra.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Dung dịch xịt ngoài da Tenafin 1% được chỉ định dùng trong các trường hợp sau:</p><ul><li>Nhiễm nấm ngoài da như nấm bàn chân, nấm bẹn do các chủng&nbsp;Trichophyton&nbsp;(như&nbsp;T. rubum, T. mentagrophytes, T. verrucosum, T. violaceum) và&nbsp;Epidermophyton floccosum&nbsp;gây ra.</li><li>Bệnh <a href=\"https://nhathuoclongchau.com.vn/benh/nhiem-candida-197.html\">nấm&nbsp;Candida</a>&nbsp;da.</li></ul><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 48004,
+      "ingredientId": 37799,
+      "shortDescription": "10mg",
+      "name": "Terbinafine HCL",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

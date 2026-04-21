@@ -1,0 +1,61 @@
+{
+  "id": "00007362",
+  "slug": "thuoc/tiffy-1993.html",
+  "title": "Siro Tiffy Thai Nakorn Patana điều trị nghẹt mũi, hạ sốt (30ml)",
+  "short_title": "TIFFY NAKORN 30ML",
+  "brand": {
+    "name": "Thai Nakorn Patana",
+    "slug": "thuong-hieu/thai-nakorn-patana",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem/thuoc-giam-dau-ha-sot",
+    "name": "Thuốc giảm đau hạ sốt",
+    "parent_slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem"
+  },
+  "price_amount": 16000,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp x 30ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007362_tiffy_6310_63b3_large_c61d5e5a2e.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007362_tiffy_6310_63b3_large_c61d5e5a2e.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007362_tiffy_6799_63b3_large_b1b6159a9b.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Siro",
+  "trust_label": null,
+  "short_description": "<p><a href=\"https://nhathuoclongchau.com.vn/thuoc/tiffy-1993.html\">Siro Tiffy</a> được sản xuất bởi công ty TNHH Thai Nakorn Patana (Việt Nam), được chỉ định dùng trong trường hợp làm giảm các triệu chứng cảm thông thường: nghẹt mũi, hạ sốt, giảm đau và viêm mũi dị ứng.</p><p>Tiffy syrup là dung dịch siro màu đỏ cam với hương cam, đóng gói trong chai thủy tinh màu hổ phách thể tích 30 ml và 60 ml được đậy kín bằng nắp nhôm và đóng gói trong hộp riêng, ép phim 12 hộp.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Tiffy syrup được chỉ định dùng trong trường hợp làm giảm các triệu chứng cảm thông thường: nghẹt mũi, hạ sốt, giảm đau và <a href=\"https://nhathuoclongchau.com.vn/benh/viem-mui-di-ung-473.html\">viêm mũi dị ứng</a>.</p><h3>Dược lực học</h3><p>Tiffy syrup là một thuốc giảm đau, hạ sốt chống sung huyết và kháng dị ứng.</p><p>Paracetamol: Có tác động giảm đau và hạ sốt do làm giảm sự tổng hợp prostaglandine bằng cách ức chế hệ thống men cyclooxygenase.</p><p>Phenylephrin HCl: Trực tiếp làm co mạch máu ở mũi và đường hô hấp trên, do đó làm giảm nghẹt mũi.</p><p><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/chlorphenamine\">Chlorpheniramin</a> maleat: Có tác động kháng histamine do ức chế lên thụ thể H1 nhờ đó, làm giảm sự tiết nước mũi và chất nhờn ở đường hô hấp trên.</p><h3>Dược động học</h3><p><i>Paracetamol</i></p><ul><li>Paracetamol hấp thu nhanh và gần như hoàn toàn theo đường uông. Nồng độ tối đa trong huyết tương, xuất hiện sau 0,5 đến 2 giờ.</li><li>Paracetamol phân bố nhanh và đồng đều tới các mô trong cơ thể, khoảng 25% kết hợp với protein huyết tương.</li><li>Paracetamol được thải trừ chủ yếu theo đường nước tiểu.</li></ul><p><i>Phenylephrin HCl</i></p><ul><li>Phenylephrin HCl được hấp thu không đều và chuyển hoá dễ dàng qua hệ thống dạ dày, ruột. Sau khi uống thuốc, tác dụng thông mũi xuât hiện sau 15 phút đên 20 phút và kéo dài khoảng 2-4 giờ.</li><li>Phenylephrin HCl được chuyển hóa ở gan và ruột bởi enzym monoamin oxidase. Tác dụng dược lý của Phenylephrin HCl kết thúc khi được hấp thu vào cơ.</li></ul><p><i>Chlorpheniramin maleat</i></p><ul><li>Chlorpheniramin maleat được hấp thu tốt qua đường tiêu họá. Chlorpheniramin maleat xuất hiện trong huyết tương từ 30-60 phút và đạt nồng độ tối đa từ 2 - 6 giờ sau khi uống.</li><li>Chlorpheniramin maleat phân bố trong các mô và dịch của cơ thể chưa được xác định rõ ràng. Chlorpheniramin maleat được phân bố trong nước bọt. Một phần nhỏ chlorpheniramin và chất chuyển hoá của nó được phân bố trong ống mật. Chlorpheniramin maleat và chất chuyển hoá của nó được thải trừ hầu như hoàn toàn qua nước tiểu.</li></ul>",
+  "ingredients_html": [
+    {
+      "id": 34204,
+      "ingredientId": 31537,
+      "shortDescription": "120mg",
+      "name": "Paracetamol",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 34205,
+      "ingredientId": 32319,
+      "shortDescription": "5mg",
+      "name": "Phenylephrine",
+      "isPrimary": false,
+      "slug": "thanh-phan/phenylephrine"
+    },
+    {
+      "id": 34206,
+      "ingredientId": 14504,
+      "shortDescription": "1mg",
+      "name": "Chlorpheniramine",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

@@ -1,0 +1,46 @@
+{
+  "id": "00007093",
+  "slug": "thuoc/sutra-1g15-ml-2119.html",
+  "title": "Hỗn dịch uống Sutra điều trị loét dạ dày, tá tràng (20 gói x 15g)",
+  "short_title": "SUTRA 1G DAVI 20 GÓI",
+  "brand": {
+    "name": "Davipharm",
+    "slug": "thuong-hieu/davipharm",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-da-day",
+    "name": "Thuốc dạ dày",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 4500,
+  "compare_at_amount": 0,
+  "unit": "Gói",
+  "pack_note": "20 Gói x 15g",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007093_d09933e1eb.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007093_d09933e1eb.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007093_sutra_1g15_ml_1628933932_0b4533cadf.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007093_sutra_1g15_ml_9666_6117_large_7d6b2fa84a.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Hỗn dịch uống",
+  "trust_label": null,
+  "short_description": "<p>Hỗn dịch uống SUTRA là thuốc của Công ty Cổ phần Dược phẩm ĐẠT VI PHÚ, thành phần chính là Sucralfat. Hỗn dịch uống SUTRA được dùng để điều trị loét tá tràng, <a href=\"https://nhathuoclongchau.com.vn/benh/loet-da-day-ta-trang-580.html\">loét dạ dày</a> lành tính, điều trị triều chứng <a href=\"https://nhathuoclongchau.com.vn/benh/trao-nguoc-da-day-135.html\">trào ngược dạ dày</a> – thực quản.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p>Thuốc SUTRA được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Điều trị triệu chứng loét dạ dày tá tràng, viêm dạ dày mạn tính, loét lành tính.</li>\n\t<li>Phòng tái phát loét tá tràng, phòng loét do <a href=\"https://nhathuoclongchau.com.vn/benh/stress-34.html\">stress</a>.</li>\n\t<li>Điều trị triệu chứng bệnh trào ngược dạ dày - thực quản.</li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p>Sucralfat là một muối nhôm của sulfat disaccarid, dùng điều trị loét dạ dày. Cơ chế tác dụng của thuốc là tạo một phức hợp với các chất như albumin và fibrinogen của dịch rỉ kết dính với ổ loét, làm thành một hàng rào ngăn cản tác dụng của acid, pepsin và mật.</p>\n\n<p>Sucralfat cũng gắn trên niêm mạc bình thường của dạ dày và tá tràng với nồng độ thấp hơn nhiều so với vị trí loét. Sucralfat còn ức chế hoạt động của pepsin, gắn với muối mật, làm tăng sản xuất prostaglandin E2 và dịch nhầy dạ dày.</p>\n\n<h3>Dược động học</h3>\n\n<p>Có tới 5% phần disaccarid và dưới 0,02% nhôm được hấp thu vào cơ thể sau khi uống một liều sucralfat. Phần lớn thuốc được đào thải ra phân, chỉ có một lượng nhỏ sulfat disaccarid thải ra nước tiểu.</p>",
+  "ingredients_html": [
+    {
+      "id": 40422,
+      "ingredientId": 36992,
+      "shortDescription": "1g",
+      "name": "Sucralfat",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

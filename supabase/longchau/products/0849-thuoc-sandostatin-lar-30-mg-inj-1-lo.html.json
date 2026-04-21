@@ -1,0 +1,44 @@
+{
+  "id": "00041415",
+  "slug": "thuoc/sandostatin-lar-30-mg-inj-1-lo.html",
+  "title": "Thuốc Sandostatin Lar 30mg Novartis điều trị bệnh rối loạn chuyển hóa mạn tính",
+  "short_title": "SANDOSTATIN LAR 30 MG INJ 1 LỌ",
+  "brand": {
+    "name": "Novartis",
+    "slug": "thuong-hieu/novartis",
+    "country": "Thụy Sĩ"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-dieu-tri-ung-thu/thuoc-dieu-tri-ung-thu",
+    "name": "Thuốc điều trị ung thư",
+    "parent_slug": "thuoc/thuoc-dieu-tri-ung-thu"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/685_00041415_b6de1ff1fa.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/685_00041415_b6de1ff1fa.jpg"
+  ],
+  "origin_label": "Thụy Sĩ",
+  "country": "Thụy Sĩ",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Bột pha tiêm",
+  "trust_label": null,
+  "short_description": "<p dir=\"ltr\">Thuốc Sandostatin Lar 30 mg là sản phẩm của Công ty Sandoz GmbH, thành phần chính chứa <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/octreotide\">Octreotid</a>, là thuốc dùng để điều trị bệnh rối loạn chuyển hóa mạn tính do tiết quá mức hormon tăng trưởng (bệnh to cực).</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><ul><li>Bệnh to cực (không phù hợp hoặc không đáp ứng với điều trị phẫu thuật hoặc <a href=\"https://nhathuoclongchau.com.vn/bai-viet/thong-tin-can-biet-lien-quan-den-quy-trinh-xa-tri.html\">xạ trị</a>, hoặc trong giai đoạn chờ đến khi xạ trị tác dụng hoàn toàn).</li><li>Khối u nội tiết dạ dày-ruột-tụy có chức năng (u carcinoid với biểu hiện của <a href=\"https://nhathuoclongchau.com.vn/benh/hoi-chung-carcinoid.html\">hội chứng carcinoid</a>, khối u sản xuất peptide vận mạch ruột, u tế bào alpha đảo tụy, u tế bào tiết gastrin/hội chứng Zollinger-Ellison, u tế bào tiết insulin của đảo tụy, u tế bào tiết yếu tố giải phóng hormon tăng trưởng GRF).</li><li>Khối u thần kinh nội tiết tiến xa nguồn gốc trung tràng hoặc không rõ vị trí khối u nguyên phát.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 59171,
+      "ingredientId": 30650,
+      "shortDescription": "30mg",
+      "name": "Octreotide",
+      "isPrimary": false,
+      "slug": "thanh-phan/octreotide"
+    }
+  ],
+  "stock_qty": 0
+}

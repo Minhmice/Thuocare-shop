@@ -1,0 +1,44 @@
+{
+  "id": "00501380",
+  "slug": "thuoc/ibrance-125mg-pfizer-1x7-35524.html",
+  "title": "Thuốc Ibrance125mg Pfizer điều trị cho bệnh nhân mắc bệnh ung thư vú (1 vỉ x 7 viên)",
+  "short_title": "IBRANCE 125MG PFIZER 1X7",
+  "brand": {
+    "name": "Pfizer",
+    "slug": "thuong-hieu/pfizer",
+    "country": "Mỹ"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-dieu-tri-ung-thu/thuoc-dieu-tri-ung-thu",
+    "name": "Thuốc điều trị ung thư",
+    "parent_slug": "thuoc/thuoc-dieu-tri-ung-thu"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 1 Vỉ x 7 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/ibra_16b1bcb3e4.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/ibra_16b1bcb3e4.png"
+  ],
+  "origin_label": "Mỹ",
+  "country": "Mỹ",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang cứng",
+  "trust_label": null,
+  "short_description": "<p>Thuốc&nbsp;Ibrance125mg&nbsp;là sản phẩm của Công ty Pfizer, thành phần chính là Palbociclib 125mg. Thuốc có tác dụng điều trị cho bệnh nhân mắc bệnh ung thư vú hoặc di căn có thụ thể hormon - HR dương tính, làm chậm hoặc ngừng sự phát triển của các tế bào ung thư.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p><a href=\"https://nhathuoclongchau.com.vn/thuoc/ibrance-125mg-pfizer-1x7-35524.html\">Thuốc&nbsp;Ibrance125mg</a> được chỉ định dùng trong các trường hợp sau:</p><p>Điều trị <a href=\"https://nhathuoclongchau.com.vn/benh/ung-thu-vu-328.html\">ung thư vú</a> di căn hoặc tiến triển tại chỗ, dương tính với thụ thể hormone (HR), thụ thể yếu tố tăng trưởng biểu bì 2 (HER2) âm tính:</p><ul><li>Kết hợp với chất ức chế aromatase, anastrozole, exemestane.</li><li>Kết hợp với fulvestrant ở những phụ nữ đã được điều trị nội tiết trước đó.</li></ul><p>Ở phụ nữ chưa mãn kinh hoặc <a href=\"https://nhathuoclongchau.com.vn/benh/hoi-chung-tien-man-kinh-112.html\">tiền mãn kinh</a>, liệu pháp nội tiết nên được kết hợp với chất chủ vận hormone giải phóng gonadotropin (chất chủ vận GnRH).</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 34838,
+      "ingredientId": 31376,
+      "shortDescription": "125mg",
+      "name": "Palbociclib",
+      "isPrimary": false,
+      "slug": "thanh-phan/palbociclib"
+    }
+  ],
+  "stock_qty": 0
+}

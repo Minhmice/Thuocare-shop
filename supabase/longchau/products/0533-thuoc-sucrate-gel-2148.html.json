@@ -1,0 +1,52 @@
+{
+  "id": "00007042",
+  "slug": "thuoc/sucrate-gel-2148.html",
+  "title": "Hỗn dịch Sucrate Gel Istituto Biochimico Italiano điều trị loét dạ dày - tá tràng (30 gói x 5ml)",
+  "short_title": "SUCRATE GEL 30 GÓI",
+  "brand": {
+    "name": "Istituto Biochimico Italiano",
+    "slug": "thuong-hieu/istituto-biochimico-italiano",
+    "country": "Ý"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-da-day",
+    "name": "Thuốc dạ dày",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Gói",
+  "pack_note": "30 Gói x 5ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007042_sucrate_gel_1464_63ab_large_9fc4f2a794.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007042_sucrate_gel_1464_63ab_large_9fc4f2a794.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007042_sucrate_gel_1672196876_09386b5fdd.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007042_sucrate_gel_2870_63ab_large_173acc360c.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007042_sucrate_gel_3873_63ab_large_2d5479c2c1.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007042_sucrate_gel_9780_63ab_large_b386f93cec.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007042_sucrate_gel_8338_63ab_large_54c0f3d5a6.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007042_sucrate_gel_7997_63ab_large_7f3b39e1e6.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007042_sucrate_gel_7521_63ab_large_9c302c3586.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007042_sucrate_gel_4124_63ab_large_c719706433.jpg"
+  ],
+  "origin_label": "Ý",
+  "country": "Ý",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Hỗn dịch uống",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Sucrate Gel là sản phẩm của công ty Lisapharma - Italy, thành phần chính sucralfate gel, là thuốc đường tiêu hóa được sử dụng để điều trị loét dạ dày, loét tá tràng, viêm dạ dày cấp tính và triệu chứng viêm dạ dày màn tính - loét thực quản.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p>Thuốc Sucrate Gel được chỉ định dùng để điều trị <a href=\"https://nhathuoclongchau.com.vn/benh/loet-da-day-ta-trang-580.html\">loét dạ dày</a>, loét tá tràng, viêm dạ dày cấp tính và triệu chứng <a href=\"https://nhathuoclongchau.com.vn/benh/viem-da-day-137.html\">viêm dạ dày</a> mãn tính - loét thực quản.</p>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Sucralfate Gel là một dạng vật lý của <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/sucralfate\">sucralfate</a> được cấp bằng phát minh đầu tiên cho Lisapharma. Sucralfate Gel có diện tích bề mặt đặc trưng gấp đôi so với bột sucralfate và cho thấy sự bám dính vào niêm mạc rất bền chắc. Đặc tính này xác định tác dụng chống loét của sản phẩm. </p>\n\n<p>Dược lý lâm sàng: Sucralfate bao phủ vết loét nhờ một phức hợp với protein có trên khu vực loét, phức hợp này ngăn ngừa sự tấn công của acid, dịch vị và muối mật.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Chỉ một lượng rất nhỏ suculfate được hấp thu bởi đường dạ dày - ruột và chúng được thải trừ bởi đường niệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 41306,
+      "ingredientId": 36994,
+      "shortDescription": "1g",
+      "name": "Sucralfate",
+      "isPrimary": false,
+      "slug": "thanh-phan/sucralfate"
+    }
+  ],
+  "stock_qty": 0
+}

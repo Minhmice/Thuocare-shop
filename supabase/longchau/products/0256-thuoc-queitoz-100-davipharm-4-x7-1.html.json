@@ -1,0 +1,44 @@
+{
+  "id": "00045046",
+  "slug": "thuoc/queitoz-100-davipharm-4-x7-1.html",
+  "title": "Thuốc Queitoz 100 Davipharm điều trị tâm thần phân liệt, rối loạn lưỡng cực (4 vỉ x 7 viên)",
+  "short_title": "QUEITOZ-100 DAVIPHARM 4X7",
+  "brand": {
+    "name": "Davipharm",
+    "slug": "thuong-hieu/davipharm",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-than-kinh/thuoc-than-kinh",
+    "name": "Thuốc thần kinh",
+    "parent_slug": "thuoc/thuoc-than-kinh"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "7 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00045046_cc6a264198.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00045046_cc6a264198.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Queitoz 100 là sản phẩm của Công ty Cổ phần Dược phẩm Đạt Vi Phú, có thành phần chính là Quetiapine. Đây là thuốc được sử dụng để điều trị tâm thần phân liệt, rối loạn lưỡng cực.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc Queitoz 100 được chỉ định dùng trong các trường hợp sau:</p><p>Điều trị tâm thần phân liệt.</p><p>Điều trị rối loạn lưỡng cực:</p><ul><li>Điều trị con hưng cảm vừa đến nặng trong rối loạn lưỡng cực.</li><li>Điều trị cơn trầm cảm nặng trong rối loạn lưỡng cực.</li><li>Phòng ngừa tái phát cơn hưng cảm hoặc trầm cảm ở bệnh nhân bị rối loạn lưỡng cực đã đáp ứng với điều trị quetiapin trước đó.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 54394,
+      "ingredientId": 34113,
+      "shortDescription": "100mg",
+      "name": "Quetiapine",
+      "isPrimary": false,
+      "slug": "thanh-phan/quetiapine"
+    }
+  ],
+  "stock_qty": 0
+}

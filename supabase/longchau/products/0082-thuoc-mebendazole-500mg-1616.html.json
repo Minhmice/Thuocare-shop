@@ -1,0 +1,51 @@
+{
+  "id": "00008367",
+  "slug": "thuoc/mebendazole-500mg-1616.html",
+  "title": "Viên nén Mebendazole 500mg Mekophar điều trị nhiễm một hay nhiều loại giun (1 viên)",
+  "short_title": "MEBENDAZOLE 500 MKP 1V",
+  "brand": {
+    "name": "Mekophar",
+    "slug": "thuong-hieu/mekophar",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-khang-sinh-khang-nam/thuoc-tri-giun-san",
+    "name": "Thuốc trị giun sán",
+    "parent_slug": "thuoc/thuoc-khang-sinh-khang-nam"
+  },
+  "price_amount": 2200,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 1 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1152_8d773a77b6.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1152_8d773a77b6.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/mebendzole_500mg_d4a8b4739b.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1153_423b199273.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1154_7945a17fdc.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00008367_mebendazole_500mg_7105_605b_large_7853ae7a05.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00008367_mebendazole_500mg_9426_605b_large_9a1fba3360.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1156_94d39c84ac.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1157_e9ae6be805.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Mebendazole là sản phẩm của Công ty Cổ phần Hóa – dược phẩm Mekophar, thành phần chính là mebendazole, là thuốc điều trị nhiễm một hay nhiều loại giun, như giun kim, giun tóc, giun móc, giun đũa và giun lươn.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p>Thuốc Mebendazole chỉ định điều trị trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Điều trị nhiễm một hay nhiều loại giun, như <strong><a href=\"https://nhathuoclongchau.com.vn/benh/nhiem-giun-kim-53.html\">giun kim</a></strong>, giun tóc, <strong><a href=\"https://nhathuoclongchau.com.vn/benh/nhiem-giun-moc-55.html\">giun móc</a></strong>, giun đũa và <strong><a href=\"https://nhathuoclongchau.com.vn/benh/nhiem-giun-luon-54.html\">giun lươn</a></strong>.</li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p>Mebendazole - dẫn chất benzimidazole - có phổ chống giun sán rộng. Thuốc có hiệu quả cao trên các giai đoạn trưởng thành và ấu trùng của giun đũa, giun kim, giun tóc, giun móc,... Thuốc cũng diệt được trứng của giun đũa và giun tóc.</p>\n\n<p>Cơ chế tác dụng do thuốc liên kết với các tiểu quản của ký sinh trùng, qua đó ức chế sự trùng hợp tiểu quản thành các vi quản, cần thiết cho sự hoạt động bình thường của tế bào ký sinh trùng.</p>\n\n<h3>Dược động học</h3>\n\n<p>Chưa có báo cáo.</p>",
+  "ingredients_html": [
+    {
+      "id": 23962,
+      "ingredientId": 26757,
+      "shortDescription": "500mg",
+      "name": "Mebendazole",
+      "isPrimary": false,
+      "slug": "thanh-phan/mebendazole"
+    }
+  ],
+  "stock_qty": 0
+}

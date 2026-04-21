@@ -1,0 +1,44 @@
+{
+  "id": "00010094",
+  "slug": "thuoc/trimebutine-100-mg-tvp-10-x10.html",
+  "title": "Thuốc Trimebutin 100mg TV Pharm điều trị rối loạn tiêu hóa (10 vỉ x 10 viên)",
+  "short_title": "TRIMEBUTINE 100 TVP 10X10",
+  "brand": {
+    "name": "Tv.Pharm",
+    "slug": "thuong-hieu/tvpharm",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/he-tieu-hoa-and-gan-mat/thuoc-dieu-hoa-tieu-hoa-chong-day-hoi-and-khang-viem",
+    "name": "Thuốc điều hòa tiêu hóa, chống đầy hơi & kháng viêm",
+    "parent_slug": "thuoc/he-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00010094_cc88c250bd.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00010094_cc88c250bd.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén",
+  "trust_label": null,
+  "short_description": "<p>Trimebutine 100mg là sản phẩm của Công ty TV. Pharm, thành phần chính Trimebutine maleate, là thuốc dùng để điều trị các chứng rối loạn chức năng tiêu hóa như loét dạ dày-tá tràng (khó tiêu, buồn nôn và nôn), trào ngược dạ dày, hội chứng ruột dễ bị kích thích, co thắt, trướng bụng, táo bón, tiêu chảy.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Trimebutine 100mg được chỉ định dùng trong các trường hợp sau:</p><ul><li>Các chứng rối loạn chức năng tiêu hóa như loét dạ dày-tá tràng (khó tiêu, buồn nôn và nôn), trào ngược dạ dày.&nbsp;</li><li>Hội chứng ruột dễ bị kích thích, co thắt, trướng bụng, táo bón, tiêu chảy.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 24243,
+      "ingredientId": 39366,
+      "shortDescription": "100mg",
+      "name": "Trimebutin",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

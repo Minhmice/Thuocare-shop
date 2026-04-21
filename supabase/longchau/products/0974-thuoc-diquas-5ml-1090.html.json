@@ -1,0 +1,49 @@
+{
+  "id": "00013446",
+  "slug": "thuoc/diquas-5ml-1090.html",
+  "title": "Thuốc nhỏ mắt Diquas Santen điều trị khô mắt (5ml)",
+  "short_title": "DIQUAS 5ML",
+  "brand": {
+    "name": "Santen",
+    "slug": "thuong-hieu/santen",
+    "country": "Nhật Bản"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-mat-tai-mui-hong/thuoc-nho-mat",
+    "name": "Thuốc nhỏ mắt",
+    "parent_slug": "thuoc/thuoc-mat-tai-mui-hong"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Chai",
+  "pack_note": "Chai x 5ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00013446_dung_dich_nho_mat_diquas_4096_6094_large_8648b4621f.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00013446_dung_dich_nho_mat_diquas_4096_6094_large_8648b4621f.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00013446_dung_dich_nho_mat_diquas_1625477281_d2cdf660ae.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00013446_dung_dich_nho_mat_diquas_4200_60e2_large_d6f9a120e2.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00013446_dung_dich_nho_mat_diquas_1969_60e2_large_de5d30184f.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00013446_dung_dich_nho_mat_diquas_8543_60e2_large_aa56053211.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00013446_dung_dich_nho_mat_diquas_6723_60e2_large_c6504d4a66.png"
+  ],
+  "origin_label": "Nhật Bản",
+  "country": "Nhật Bản",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch nhỏ mắt",
+  "trust_label": null,
+  "short_description": "<p>Dung dịch nhỏ mắt Diquas là sản phẩm của Công ty Santen Pharmaceutical Co., Ltd (Nhật Bản), thành phần chính là Natri Diquafosol. Thuốc dùng để điều trị khô mắt kết hợp rối loạn biểu mô kết giác mạc kèm bất thường nước mắt.</p>\n\n<p>Diquas là dung dịch nhỏ mắt thân nước, trong, không màu, vô khuẩn. Sản phẩm có pH 7,2 - 7,8 và áp lực thẩm thấu 1,0 - 1,1. Thuốc được đóng gói theo quy cách: hộp 1 lọ nhựa chứa 5 ml dung dịch.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p>Thuốc nhỏ mắt Diquas được chỉ định dùng trong trường hợp sau:</p>\n\n<ul>\n\t<li>Ðiều trị <a href=\"https://nhathuoclongchau.com.vn/benh/kho-mat-548.html\">khô mắt</a> kết hợp rối loạn biểu mô kết – giác mạc kèm bất thường nước mắt.</li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p>Natri diquafosol kích thích sự bài tiết nước mắt và chất nhầy bằng cách tác động lên thụ thể P2Y2 trên biểu mô kết mạc và màng tế bào goblet và làm tăng nồng độ ion calci trong tế bào. Ngoài ra, natri diquafosol còn cải thiện tổn thương biểu mô giác mạc.</p>\n\n<h3>Dược động học</h3>\n\n<p>Hấp thu: Sau khi nhỏ vào mắt, nồng độ của natri diquafosol trong huyết tương rất thấp và không thể định lượng được.</p>\n\n<p>Phân bố: Chưa có báo cáo.</p>\n\n<p>Chuyển hoá: Natri diquafosol được chuyển hóa nhanh chóng qua microsom tại gan, tạo ra UMP, uridin và uracil.</p>\n\n<p>Thải trừ: Chưa có báo cáo.</p>",
+  "ingredients_html": [
+    {
+      "id": 24582,
+      "ingredientId": 29257,
+      "shortDescription": "3%",
+      "name": "Natri diquafosol",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

@@ -1,0 +1,44 @@
+{
+  "id": "00041275",
+  "slug": "thuoc/becolorat-bepharco-20-goi-x-5-ml.html",
+  "title": "Siro Becolorat Bepharco giảm nhanh các triệu chứng viêm mũi dị ứng và mày đay (20 gói x 5ml)",
+  "short_title": "BECOLORAT BEPHARCO 20 GÓI X 5ML",
+  "brand": {
+    "name": "Bepharco",
+    "slug": "thuong-hieu/bephaco",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-ho-hap/siro-tri-so-mui",
+    "name": "Siro trị sổ mũi",
+    "parent_slug": "thuoc/thuoc-ho-hap"
+  },
+  "price_amount": 5500,
+  "compare_at_amount": 0,
+  "unit": "Gói",
+  "pack_note": "20 Gói x 5ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00041275_11dbcb5065.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00041275_11dbcb5065.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Siro",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Becolorat là sản phẩm của Bepharco, có thành phần chính là Desloratadine. Đây là thuốc được sử dụng để giảm nhanh các triệu chứng liên quan đến viêm mũi dị ứng và mày đay.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc Becolorat được chỉ định dùng trong các trường hợp sau:</p><ul><li>Becolorat được chỉ định để giảm nhanh các triệu chứng liên quan đến viêm mũi dị ứng: Hắt hơi, sổ mũi, ngứa mũi, xung huyết/nghẹt mũi cũng như ngứa, chảy nước mắt, đỏ mắt, ngứa họng và ho.</li><li>Becolorat cũng được chỉ định để giảm các triệu chứng liên quan đến mày đay như giảm ngứa, giảm kích cỡ và số lượng ban.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 59041,
+      "ingredientId": 17208,
+      "shortDescription": "2.5mg",
+      "name": "Desloratadine",
+      "isPrimary": false,
+      "slug": "thanh-phan/desloratadine"
+    }
+  ],
+  "stock_qty": 0
+}

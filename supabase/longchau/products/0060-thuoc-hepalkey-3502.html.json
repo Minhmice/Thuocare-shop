@@ -1,0 +1,57 @@
+{
+  "id": "00003691",
+  "slug": "thuoc/hepalkey-3502.html",
+  "title": "Thuốc Hepalkey Phil dùng trong trường hợp tăng amoniac do viêm gan cấp và mãn tính (12 vỉ x 10 viên)",
+  "short_title": "NEW HEPALKEY PHIL 12X10",
+  "brand": {
+    "name": "Phil",
+    "slug": "thuong-hieu/phil",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-benh-gan",
+    "name": "Thuốc trị bệnh gan",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00003691_hepalkey_4565_5bc6_large_98eeb9a1ed.JPG",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003691_hepalkey_4565_5bc6_large_98eeb9a1ed.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003691_hepalkey_1628703178_349af61d21.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003691_hepalkey_2271_5bc6_large_d492423ded.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003691_hepalkey_9911_5bc6_large_eff4d75c8e.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003691_hepalkey_1819_5bc6_large_af840f69a6.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003691_hepalkey_6501_5bc6_large_80772987d1.JPG"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang mềm",
+  "trust_label": null,
+  "short_description": "<p>Thuốc New Hepalkey của Công ty Công ty TNHH Philinter Pharma có thành phần chính là L-Ornithine -L-Aspartate, DL-alpha tocopheryl acetate. Thuốc được dùng trong trường hợp tăng amoniac do mắc phải các bệnh về gan: Viêm gan cấp và mãn tính, xơ gan, gan nhiễm mỡ.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc New Hepalkey được chỉ định dùng trong các trường hợp&nbsp;tăng amoniac do mắc phải các bệnh về gan: Viêm gan cấp và mãn tính, <a href=\"https://nhathuoclongchau.com.vn/benh/xo-gan-415.html\">xơ gan</a>, <a href=\"https://nhathuoclongchau.com.vn/benh/gan-nhiem-mo-464.html\">gan nhiễm mỡ</a>.</p><h3>Dược lực học</h3><p>Không có thông tin.</p><h3>Dược động học</h3><p>Không có thông tin.</p>",
+  "ingredients_html": [
+    {
+      "id": 21728,
+      "ingredientId": 25890,
+      "shortDescription": "80mg",
+      "name": "L-ornithine-L-aspartate",
+      "isPrimary": true,
+      "slug": ""
+    },
+    {
+      "id": 21729,
+      "ingredientId": 38871,
+      "shortDescription": "50mg",
+      "name": "Tocopheryl acetate",
+      "isPrimary": true,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

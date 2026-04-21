@@ -1,0 +1,68 @@
+{
+  "id": "00006312",
+  "slug": "thuoc/regulon-2437.html",
+  "title": "Thuốc Regulon Gedeon tránh thai hằng ngày (1 vỉ x 21 viên)",
+  "short_title": "REGULON GEDEON 1X21",
+  "brand": {
+    "name": "Gedeon",
+    "slug": "thuong-hieu/gedeon",
+    "country": "Hungary"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-tranh-thai",
+    "name": "Thuốc tránh thai",
+    "parent_slug": "thuoc/thuoc-tiet-nieu-sinh-duc"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 1 Vỉ x 21 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1420_b2684b5d33.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1420_b2684b5d33.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/regulon_1_65e11f5d6d.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1421_48c5d9de47.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1422_063575a906.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1423_02030e0c85.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1424_2fb261cd74.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1425_da30593e62.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1426_3eb428e6fb.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/regulon_2_f074e37199.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/regulon_3_5cd119eac4.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/regulon_4_3719b2360f.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/regulon_5_7fb9681055.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/regulon_6_94ab812ca7.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/regulon_7_c9eec4624d.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/regulon_8_2114b67469.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/regulon_9_94546c962a.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/regulon_10_ae6b5612e7.jpg"
+  ],
+  "origin_label": "Hungary",
+  "country": "Hungary",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Thuốc tránh thai hàng ngày Regulon là một thuốc của công ty Gedeon Richter PLc, chứa hoạt chất chính là Ethinylestradiol, Desogestrel. Thuốc được dùng với tác dụng tránh thai hằng ngày, vỉ có 21 viên. Hộp 1 vỉ hoặc 3 vỉ.&nbsp;</p><p>Dạng bào chế viên nên bao phim màu trắng hoặc gần như trắng, tròn, hai mặt lồi, có đường kính 6,0 mm in chữ P8 trên một mặt và chữ RG trên mặt kia.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc <a href=\"https://nhathuoclongchau.com.vn/thuoc/regulon-2437.html\">Regulon</a> được chỉ định dùng trong trường hợp:</p><p>Thuốc uống ngừa thai.</p><h3>Dược lực học</h3><p>Chưa có báo cáo.</p><h3>Dược động học</h3><p>Chưa có báo cáo.</p>",
+  "ingredients_html": [
+    {
+      "id": 23073,
+      "ingredientId": 17224,
+      "shortDescription": "0.15mg",
+      "name": "Desogestrel",
+      "isPrimary": false,
+      "slug": "thanh-phan/desogestrel"
+    },
+    {
+      "id": 23074,
+      "ingredientId": 19608,
+      "shortDescription": "0.03mg",
+      "name": "Ethinylestradiol",
+      "isPrimary": false,
+      "slug": "thanh-phan/ethinylestradiol"
+    }
+  ],
+  "stock_qty": 0
+}

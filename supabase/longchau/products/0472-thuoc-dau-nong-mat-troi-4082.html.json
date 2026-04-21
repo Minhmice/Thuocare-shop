@@ -1,0 +1,84 @@
+{
+  "id": "00002254",
+  "slug": "thuoc/dau-nong-mat-troi-4082.html",
+  "title": "Dầu nóng Mặt Trời OPC điều trị nhức mỏi, tê thấp, đau lưng, cảm mạo, cúm (60ml)",
+  "short_title": "DẦU NÓNG MẶT TRỜI OPC 60ML",
+  "brand": {
+    "name": "Opc",
+    "slug": "thuong-hieu/opc",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/mieng-dan-cao-xoa-dau/dau-nong-xoa-bop",
+    "name": "Dầu nóng xoa bóp",
+    "parent_slug": "thuoc/mieng-dan-cao-xoa-dau"
+  },
+  "price_amount": 68000,
+  "compare_at_amount": 0,
+  "unit": "Chai",
+  "pack_note": "Chai x 60ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_3316_ac651d13fd.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_3316_ac651d13fd.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_3311_0b9386be12.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_3313_abe3047fe8.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_3312_3bc5b54c93.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_3314_0e3bc25ab2.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_3315_4b877f5a67.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_3317_c65aa6cfd8.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/dau_nong_mat_troi_1_68302327a1.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/dau_nong_mat_troi_2_e28c91325c.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch",
+  "trust_label": null,
+  "short_description": "<p>Dầu nóng mặt trời là sản phẩm của Dược phẩm OPC, với thành phần chính bao gồm: Methyl salicylat, Camphor, Tinh dầu quế (<em>Oleum Cinnamomi</em>), Tinh dầu bạc hà (<em>Oleum Menthae arvensis</em>), Gừng (<em>Rhizoma Zinggiberis</em>). Dầu nóng mặt trời dùng ngoài để xoa bóp lên nơi đau trong trường hợp nhức mỏi, tê thấp, đau lưng, cảm mạo, cúm.</p>\n\n<p>Dầu nóng mặt trời dạng chất lỏng màu vàng đến vàng cam, mùi thơm đặc trưng.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p>Dầu nóng mặt trời được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Dùng ngoài để xoa bóp lên nơi đau trong trường hợp nhức mỏi, tê thấp, đau lưng, cảm mạo, <a href=\"https://nhathuoclongchau.com.vn/benh/cum-434.html\">cúm</a>.</li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p>Chưa có báo cáo.</p>\n\n<h3>Dược động học</h3>\n\n<p>Chưa có báo cáo.</p>",
+  "ingredients_html": [
+    {
+      "id": 20945,
+      "ingredientId": 27307,
+      "shortDescription": "6.21",
+      "name": "Methyl salicylate",
+      "isPrimary": false,
+      "slug": "thanh-phan/methyl-salicylate"
+    },
+    {
+      "id": 20946,
+      "ingredientId": 38695,
+      "shortDescription": "0.11",
+      "name": "Tinh dầu quế",
+      "isPrimary": false,
+      "slug": "thanh-phan/tinh-dau-que"
+    },
+    {
+      "id": 20947,
+      "ingredientId": 38658,
+      "shortDescription": "2.48",
+      "name": "Tinh dầu bạc hà",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 20948,
+      "ingredientId": 21825,
+      "shortDescription": "0.63",
+      "name": "Gừng",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 20949,
+      "ingredientId": 12512,
+      "shortDescription": "2.1",
+      "name": "Camphor",
+      "isPrimary": false,
+      "slug": "thanh-phan/camphor"
+    }
+  ],
+  "stock_qty": 0
+}

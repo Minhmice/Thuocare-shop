@@ -1,0 +1,44 @@
+{
+  "id": "00502812",
+  "slug": "thuoc/bizrani-cefprozil-thien-dat-hop-1-lo-125-mg5-ml-37100.html",
+  "title": "Bột pha hỗn dịch uống Bizrani 125mg/5ml Dopharma điều trị nhiễm khuẩn đường hô hấp (45ml)",
+  "short_title": "BIZRANI 125MG/5ML DOPHARMA 45ML",
+  "brand": {
+    "name": "Dopharma",
+    "slug": "thuong-hieu/dopharma",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-khang-sinh-khang-nam/thuoc-khang-sinh",
+    "name": "Thuốc kháng sinh",
+    "parent_slug": "thuoc/thuoc-khang-sinh-khang-nam"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp x 45ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00502812_14c83a1e6f.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00502812_14c83a1e6f.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Bột pha hỗn dịch uống",
+  "trust_label": null,
+  "short_description": "<p class=\"product-title product_title entry-title cs-titlepro\">Bizrani là sản phẩm của Công ty Cổ phần Dược phẩm Trung Ương 2 - Dopharma với thành phần chính là Cefprozil. Bột pha hỗn dịch uống Bizrani có công dụng chủ yếu dùng để điều trị tình trạng nhiễm khuẩn đường hô hấp trên và dưới, nhiễm trùng da và mô mềm.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Nhiễm khuẩn đường hô hấp dưới như viêm tai giữa, viêm xoang, viêm họng, viêm amidan, viêm phổi, nhiễm trùng cấu trúc mô mềm, da.</p><p>Nhiễm khuẩn đường hô hấp trên như viêm xoang cấp, viêm phổi, viêm phế quản.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 61946,
+      "ingredientId": 13623,
+      "shortDescription": "125mg",
+      "name": "Cefprozil",
+      "isPrimary": false,
+      "slug": "thanh-phan/cefprozil"
+    }
+  ],
+  "stock_qty": 0
+}

@@ -1,0 +1,44 @@
+{
+  "id": "00048180",
+  "slug": "thuoc/zocger-0-075-medipharco-45-g.html",
+  "title": "Thuốc Zocger 0.075% Medipharco bôi ngoài da giúp giảm đau tại chỗ (45g)",
+  "short_title": "ZOCGER 0.075% MEDIPHARCO 45G",
+  "brand": {
+    "name": "Medipharco",
+    "slug": "thuong-hieu/medipharco",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-da-lieu/thuoc-boi-ngoai-da",
+    "name": "Thuốc bôi ngoài da",
+    "parent_slug": "thuoc/thuoc-da-lieu"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp x 45g",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/zocger_3a169d80ce.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/zocger_3a169d80ce.png"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Kem bôi da",
+  "trust_label": null,
+  "short_description": "<p>Kem bôi da Zocger chứa hoạt chất Capsaicin dùng để giảm đau tại chỗ.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Kem bôi da Zocger dùng để giảm đau tại chỗ.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 71895,
+      "ingredientId": 12894,
+      "shortDescription": "0.075% w/w",
+      "name": "Capsaicin",
+      "isPrimary": true,
+      "slug": "thanh-phan/capsaicin"
+    }
+  ],
+  "stock_qty": 0
+}

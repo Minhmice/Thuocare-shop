@@ -1,0 +1,44 @@
+{
+  "id": "00038969",
+  "slug": "thuoc/xanh-methylen-1-17-ml-hoa-duoc-viet-nam.html",
+  "title": "Dung dịch dùng ngoài Xanh Methylen 1% Hóa Dược điều trị chốc lở, viêm da mủ (17ml)",
+  "short_title": "XANH METHYLEN 1% HÓA DƯỢC 17ML",
+  "brand": {
+    "name": "Hóa Dược",
+    "slug": "thuong-hieu/hoa-duoc",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-da-lieu/thuoc-sat-khuan",
+    "name": "Thuốc sát khuẩn",
+    "parent_slug": "thuoc/thuoc-da-lieu"
+  },
+  "price_amount": 13000,
+  "compare_at_amount": 0,
+  "unit": "Lọ",
+  "pack_note": "Lọ x 17ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/602_c00e18fffe.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/602_c00e18fffe.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch dùng ngoài",
+  "trust_label": null,
+  "short_description": "<p>Dung dịch dùng ngoài Xanh Methylen 1% là sản phẩm của Công ty Cổ phần Hóa dược Việt Nam dùng để điều trị chốc lở, <a href=\"https://nhathuoclongchau.com.vn/bai-viet/viem-da-mu-nguyen-nhan-gay-benh-va-luu-y-khi-dieu-tri.html\">viêm da mủ</a>, điều trị nhiễm virus ngoài da.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Dung dịch dùng ngoài Xanh Methylen 1% dùng để điều trị <a href=\"https://nhathuoclongchau.com.vn/benh/choc-lo-518.html\">chốc lở</a>, viêm da mủ, điều trị nhiễm virus ngoài da.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 57107,
+      "ingredientId": 40698,
+      "shortDescription": "0.1g",
+      "name": "Xanh Methylen",
+      "isPrimary": true,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

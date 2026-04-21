@@ -1,0 +1,81 @@
+{
+  "id": "00002255",
+  "slug": "thuoc/dau-nong-truong-son-10ml-10-chai-4081.html",
+  "title": "Dầu nóng Trường Sơn điều trị cảm, ho, số mũi, trúng gió (10 chai x 10ml)",
+  "short_title": "DẦU NÓNG TRƯỜNG SƠN 10ML",
+  "brand": {
+    "name": "Trường Sơn",
+    "slug": "thuong-hieu/truong-son",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/mieng-dan-cao-xoa-dau/dau-nong-xoa-bop",
+    "name": "Dầu nóng xoa bóp",
+    "parent_slug": "thuoc/mieng-dan-cao-xoa-dau"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Chai",
+  "pack_note": "10 Chai x 10ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002255_dau_nong_truong_son_10ml_3834_60a3_large_546997f96a.JPG",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002255_dau_nong_truong_son_10ml_3834_60a3_large_546997f96a.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002255_dau_nong_truong_son_10ml_1618423900_7820939a51.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002255_dau_nong_truong_son_10ml_2628_606d_large_066701891f.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002255_dau_nong_truong_son_10ml_9411_60a3_large_cd90d1859e.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002255_dau_nong_truong_son_10ml_5564_60a3_large_bc3fa3f25d.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002255_dau_nong_truong_son_10ml_4556_60a3_large_dccdce83b8.JPG"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dạng dầu",
+  "trust_label": null,
+  "short_description": "<p>Dầu nóng Trường Sơn là sản phẩm&nbsp;của Đông Nam Dược Trường Sơn, thành phần chính là menthol, tinh dầu bạc hà, eucalyptol, methyl salicylat, long não, hương liệu, được dùng trong cảm, ho, sổ mũi, trúng gió, nhức đầu, say đi tàu xe, xoa bóp chống viêm cảm, muỗi chích, kiến cắn, buồn nôn, đau bụng, nhức mỏi tay chân, đau khớp, trật gân.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Dầu Nóng Trường Sơn dùng giảm các triệu chứng cảm, ho, sổ mũi, trúng gió, <a href=\"https://nhathuoclongchau.com.vn/benh/nhuc-dau-24.html\">nhức đầu</a>, say đi tàu xe, xoa bóp chống viêm cảm, muỗi chích, kiến cắn, buồn nôn, đau bụng, nhức mỏi tay chân, đau khớp, trật gân.</p><h3>Dược lực học</h3><p>Chưa có thông tin.</p><h3>Dược động học</h3><p>Chưa có thông tin.</p>",
+  "ingredients_html": [
+    {
+      "id": 20950,
+      "ingredientId": 27307,
+      "shortDescription": "0.18",
+      "name": "Methyl salicylate",
+      "isPrimary": false,
+      "slug": "thanh-phan/methyl-salicylate"
+    },
+    {
+      "id": 20951,
+      "ingredientId": 10043,
+      "shortDescription": "1",
+      "name": "Bạc hà",
+      "isPrimary": false,
+      "slug": "thanh-phan/bac-ha"
+    },
+    {
+      "id": 20952,
+      "ingredientId": 25837,
+      "shortDescription": "0.3",
+      "name": "Long não",
+      "isPrimary": false,
+      "slug": "thanh-phan/long-nao"
+    },
+    {
+      "id": 20953,
+      "ingredientId": 19840,
+      "shortDescription": "0.3",
+      "name": "Eucalytol",
+      "isPrimary": false,
+      "slug": "thanh-phan/eucalytol"
+    },
+    {
+      "id": 20954,
+      "ingredientId": 26940,
+      "shortDescription": "16",
+      "name": "Menthol",
+      "isPrimary": false,
+      "slug": "thanh-phan/menthol"
+    }
+  ],
+  "stock_qty": 0
+}

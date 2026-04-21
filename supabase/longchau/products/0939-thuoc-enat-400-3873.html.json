@@ -1,0 +1,50 @@
+{
+  "id": "00002782",
+  "slug": "thuoc/enat-400-3873.html",
+  "title": "Thuốc Enat 400 MEGA We care điều trị và dự phòng tình trạng thiếu Vitamin E (3 vỉ x 10 viên)",
+  "short_title": "ENAT 400 MEGA 3X10",
+  "brand": {
+    "name": "MEGA We care",
+    "slug": "thuong-hieu/mega-we-care",
+    "country": "Thái Lan"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+    "name": "Thuốc bổ",
+    "parent_slug": "thuoc/thuoc-bo-and-vitamin"
+  },
+  "price_amount": 135000,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 3 Vỉ x 10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/enat_400_3x10_mega_00002782_4_626d2488ba.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/enat_400_3x10_mega_00002782_4_626d2488ba.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002782_enat_400_1619612617_12670f88e6.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/enat_400_3x10_mega_00002782_1_a442d26e1a.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/enat_400_3x10_mega_00002782_2_75b8be7e52.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/enat_400_3x10_mega_00002782_3_941fb3412d.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/enat_400_3x10_mega_00002782_5_5c4ef2deb9.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/enat_400_3x10_mega_00002782_6_1a10eaa438.png"
+  ],
+  "origin_label": "Thái Lan",
+  "country": "Thái Lan",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang mềm",
+  "trust_label": null,
+  "short_description": "<p>Enat 400 của Công ty Mega Lifesciences Public Company Limited là thuốc cung cấp 400 IU vitamin E cho cơ thể mỗi ngày. Tác dụng chính của thuốc là phòng và điều trị các trường hợp liên quan đến <strong>thiếu hụt vitamin E</strong>.</p>",
+  "description_html": "<p><strong>Giới thiệu thuốc Enat 400:</strong></p><ul><li><strong>Chỉ định: </strong>Ðiều trị và dự phòng tình trạng thiếu vitamin E.</li><li><strong>Cách dùng: </strong>Thuốc dùng đường uống.</li><li><strong>Đối tượng sử dụng:</strong> Người bị thiếu hụt vitamin E.</li><li><strong>Lưu ý khi sử dụng:</strong> Bổ sung liều cao vitamin E nên được ngưng khoảng 1 tháng trước khi phẫu thuật</li><li><strong>Chống chỉ định:</strong> Giảm prothrombin do thiếu hụt vitamin K.</li></ul>",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc <a href=\"https://nhathuoclongchau.com.vn/thuoc/enat-400-3873.html\">Enat 400</a> được chỉ định dùng trong trường hợp sau:</p><p>Ðiều trị và dự phòng tình trạng thiếu <a href=\"https://nhathuoclongchau.com.vn/bai-viet/thieu-vitamin-e-gay-benh-gi-co-nguy-hiem-khong-62397.html\">vitamin E</a>.</p><h3>Dược lực học</h3><p>Vitamin E có tác dụng như một chất chống oxy hóa, giúp cho quá trình bảo vệ các tế bào bị tổn thương gây ra bởi quá trình oxy hóa của các gốc tự do.</p><h3>Dược động học</h3><p>Chưa có báo cáo.</p>",
+  "ingredients_html": [
+    {
+      "id": 21202,
+      "ingredientId": 40363,
+      "shortDescription": "400iu",
+      "name": "Vitamin E",
+      "isPrimary": false,
+      "slug": "thanh-phan/vitamin-e"
+    }
+  ],
+  "stock_qty": 0
+}

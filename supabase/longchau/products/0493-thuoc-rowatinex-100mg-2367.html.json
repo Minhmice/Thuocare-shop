@@ -1,0 +1,97 @@
+{
+  "id": "00006445",
+  "slug": "thuoc/rowatinex-100mg-2367.html",
+  "title": "Thuốc Rowatinex Rowa điều trị bệnh sỏi niệu, sỏi thận (10 vỉ x 10 viên)",
+  "short_title": "ROWATINEX 100 10X10",
+  "brand": {
+    "name": "Rowa",
+    "slug": "thuong-hieu/rowa",
+    "country": "Ireland"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-tri-benh-than",
+    "name": "Thuốc trị bệnh thận",
+    "parent_slug": "thuoc/thuoc-tiet-nieu-sinh-duc"
+  },
+  "price_amount": 3710,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006445_rowatinex_100mg_2260_5b09_large_d522b8f519.JPG",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006445_rowatinex_100mg_2260_5b09_large_d522b8f519.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006445_rowatinex_100mg_1627304007_cb4952cecf.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006445_rowatinex_100mg_3093_5b09_large_7c66f88b13.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006445_rowatinex_100mg_1562_5b09_large_fb670bca9c.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006445_rowatinex_100mg_6021_5b09_large_cab52efb93.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006445_rowatinex_100mg_6822_5b09_large_e64c742e9e.JPG"
+  ],
+  "origin_label": "Ireland",
+  "country": "Ireland",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang mềm",
+  "trust_label": null,
+  "short_description": "<p><strong>Thuốc Rowatinex®</strong> là sản phẩm của <em>Rowa Pharmaceuticals Limited</em>, Ireland sản xuất, có thành phần là sự kết hợp hài hòa các Terpenes, được chỉ định trong sỏi niệu, sỏi thận, cơn đau quặn thận, khó tiểu, ít nước tiểu, <strong><a href=\"https://nhathuoclongchau.com.vn/benh/nhiem-trung-tiet-nieu-355.html\">nhiễm trùng đường niệu</a></strong>, co thắt đường niệu trước và sau phẫu thuật, cải thiện chức năng thận.</p>\n\n<p>Thuốc Rowatinex® bào chế dạng viên nang gelatin mềm tan trong ruột, hình cầu chứa chất dầu màu vàng.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p><a href=\"https://nhathuoclongchau.com.vn/thuoc/rowatinex-100mg-2367.html\"><strong>Thuốc Rowatinex</strong></a> được chỉ định dùng trong các trường hợp sau:</p><ul><li>Thuốc Rowatinex dự phòng và điều trị bệnh sỏi niệu, <a href=\"https://nhathuoclongchau.com.vn/benh/soi-than-358.html\"><strong>sỏi thận</strong></a>, cơn đau quặn thận, khó tiểu, ít nước tiểu, nhiễm trùng đường niệu.</li><li>Điều trị dự phòng sỏi tái phát; các rối loạn về đường niệu như viêm, co thắt đường niệu trước và sau phẫu thuật, cải thiện chức năng thận.</li></ul><h3>Dược lực học</h3><p>Hiệu quả của Rowatinex® là sự kết hợp hài hòa các terpenes làm tan và tống xuất sỏi, giảm viêm đường niệu, kích thích lượng máu qua thận và làm tăng thể tích nước tiểu đào thải.</p><p>Rowatinex® giúp giảm đau hiệu quả, làm lợi tiểu và giảm co thắt đường niệu, vì vậy tạo thuận lợi cho sự đào thải sỏi cũng như ngăn ngừa sỏi tái phát.</p><h3>Dược động học</h3><p>Chưa có thông tin.</p>",
+  "ingredients_html": [
+    {
+      "id": 23139,
+      "ingredientId": 30799,
+      "shortDescription": "33mg",
+      "name": "Olive oil",
+      "isPrimary": false,
+      "slug": "thanh-phan/olive-oil"
+    },
+    {
+      "id": 58795,
+      "ingredientId": 32644,
+      "shortDescription": "31mg",
+      "name": "Pinene",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 58796,
+      "ingredientId": 12511,
+      "shortDescription": "15mg",
+      "name": "Camphene",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 58797,
+      "ingredientId": 11456,
+      "shortDescription": "10mg",
+      "name": "Borneol",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 58798,
+      "ingredientId": 41763,
+      "shortDescription": "4mg",
+      "name": "Fenchone",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 58799,
+      "ingredientId": 41764,
+      "shortDescription": "4mg",
+      "name": "Anethol",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 58800,
+      "ingredientId": 14839,
+      "shortDescription": "3mg",
+      "name": "cineol",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

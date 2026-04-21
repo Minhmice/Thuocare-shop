@@ -1,0 +1,44 @@
+{
+  "id": "00041389",
+  "slug": "thuoc/tiphadocef-200-tipharco-2-x10.html",
+  "title": "Thuốc Tiphadocef 200 Tipharco điều trị nhiễm khuẩn nhẹ đến trung bình ở đường hô hấp dưới (2 vỉ x 10 viên)",
+  "short_title": "TIPHADOCEF 200 TIPHARCO 2X10",
+  "brand": {
+    "name": "Tipharco",
+    "slug": "thuong-hieu/tipharco",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-khang-sinh-khang-nam/thuoc-khang-sinh",
+    "name": "Thuốc kháng sinh",
+    "parent_slug": "thuoc/thuoc-khang-sinh-khang-nam"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/55_bc97e3d011.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/55_bc97e3d011.png"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Tiphadocef 200 là sản phẩm của Công ty Cổ phần Dược Phẩm Tipharco, có thành phần chính là Cefpodoxim. Đây là thuốc được sử dụng để điều trị nhiễm khuẩn nhẹ đến trung bình ở đường hô hấp dưới, đợt kịch phát cấp tính của viêm phế quản mạn; nhiễm khuẩn nhẹ và vừa ở đường hô hấp trên; nhiễm khuẩn đường tiết niệu chưa có biến chứng mức độ nhẹ và vừa; điều trị bệnh lậu cấp, chưa có biến chứng ở nội mạc cổ tử cung, hoặc hậu môn trực tràng ở phụ nữ và bệnh lậu ở niệu đạo của phụ nữ và nam giới; nhiễm khuẩn da và mô mềm mức độ nhẹ và vừa.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Tiphadocef 200 được chỉ định dùng trong các trường hợp sau:</p><ul><li>Nhiễm khuẩn nhẹ đến trung bình ở đường hô hấp dưới, đợt kịch phát cấp tính của viêm phế quản mạn.</li><li>Nhiễm khuẩn nhẹ và vừa ở đường hô hấp trên.</li><li>Nhiễm khuẩn đường tiết niệu chưa có biến chứng mức độ nhẹ và vừa.</li><li>Điều trị bệnh lậu cấp, chưa có biến chứng ở nội mạc cổ tử cung, hoặc hậu môn trực tràng ở phụ nữ và bệnh lậu ở niệu đạo của phụ nữ và nam giới.</li><li>Nhiễm khuẩn da và mô mềm mức độ nhẹ và vừa</li></ul><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 59148,
+      "ingredientId": 13621,
+      "shortDescription": "200mg",
+      "name": "Cefpodoxime",
+      "isPrimary": false,
+      "slug": "thanh-phan/cefpodoxime"
+    }
+  ],
+  "stock_qty": 0
+}

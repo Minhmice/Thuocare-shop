@@ -1,0 +1,67 @@
+{
+  "id": "00005562",
+  "slug": "thuoc/vien-ich-mau-ho-tro-dieu-tri-roi-loan-kinh-nguyet-500.html",
+  "title": "Viên Ích Mẫu OP.CIM OPC hỗ trợ điều trị rối loạn kinh nguyệt (5 vỉ x 10 viên)",
+  "short_title": "OP.CIM OPC 5X10",
+  "brand": {
+    "name": "Opc",
+    "slug": "thuong-hieu/opc",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-dieu-hoa-kinh-nguyet",
+    "name": "Thuốc điều hoà kinh nguyệt",
+    "parent_slug": "thuoc/thuoc-tiet-nieu-sinh-duc"
+  },
+  "price_amount": 60000,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 5 Vỉ x 10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_2571_df538ea754.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_2571_df538ea754.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/vien_ich_mau_5b9f73a7a9.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_2572_ebbb336bbd.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_2573_4f6ff3a2df.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_2574_d2aae1babd.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_2575_5529b8b3c8.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_2578_938810533e.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_2579_d04f6879a6.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang cứng",
+  "trust_label": null,
+  "short_description": "<p><strong>Viên ích mẫu OP.CIM</strong> của <i>Công ty Cổ phần Dược phẩm OPC</i>. Thành phần chính là cao dược liệu với: Ích mẫu (Herba Leonuri japonici); hương phụ (Rhizoma Cyperi); ngải cứu (Herba Artemisiae vulgaris). Thuốc dùng điều trị: Kinh nguyệt không đều, đau bụng kinh. <a href=\"https://nhathuoclongchau.com.vn/benh/roi-loan-kinh-nguyet-281.html\"><strong>Rối loạn kinh nguyệt</strong></a> trong thời kỳ mới có kinh và <a href=\"https://nhathuoclongchau.com.vn/benh/hoi-chung-tien-man-kinh-112.html\"><strong>tiền mãn kinh</strong></a>. Các triệu chứng trong giai đoạn tiền mãn kinh như cảm giác nóng bừng mặt, nhức đầu, cáu gắt, đau bụng.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p><strong>Thuốc Viên ích mẫu OP.CIM</strong> được chỉ định dùng trong các trường hợp sau:</p><ul><li>Kinh nguyệt không đều, <a href=\"https://nhathuoclongchau.com.vn/benh/dau-bung-kinh-567.html\"><strong>đau bụng kinh</strong></a>.</li><li>Rối loạn kinh nguyệt trong thời kỳ mới có kinh và tiền mãn kinh.</li><li>Các triệu chứng trong giai đoạn tiền mãn kinh như cảm giác nóng bừng mặt, <a href=\"https://nhathuoclongchau.com.vn/benh/nhuc-dau-24.html\"><strong>nhức đầu</strong></a>, cáu gắt, đau bụng.</li></ul><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 26434,
+      "ingredientId": 23210,
+      "shortDescription": "4g",
+      "name": "Ích mẫu",
+      "isPrimary": false,
+      "slug": "thanh-phan/ich-mau"
+    },
+    {
+      "id": 26435,
+      "ingredientId": 22798,
+      "shortDescription": "1.25g",
+      "name": "Hương phụ",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 26436,
+      "ingredientId": 29609,
+      "shortDescription": "1g",
+      "name": "Ngải cứu",
+      "isPrimary": false,
+      "slug": "thanh-phan/ngai-cuu"
+    }
+  ],
+  "stock_qty": 0
+}

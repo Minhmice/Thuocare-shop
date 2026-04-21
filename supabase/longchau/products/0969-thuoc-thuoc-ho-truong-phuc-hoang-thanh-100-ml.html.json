@@ -1,0 +1,129 @@
+{
+  "id": "00050857",
+  "slug": "thuoc/thuoc-ho-truong-phuc-hoang-thanh-100-ml.html",
+  "title": "Siro Thuốc ho Trường Phúc điều bổ phế, tiêu đờm, trừ ho (Hộp 100ml)",
+  "short_title": "THUỐC HO TRƯỜNG PHÚC HOÀNG THÀNH 100ML",
+  "brand": {
+    "name": "Hoàng Thành",
+    "slug": "thuong-hieu/hoang-thanh",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-ho-hap/siro-tri-ho-cam",
+    "name": "Siro trị ho cảm",
+    "parent_slug": "thuoc/thuoc-ho-hap"
+  },
+  "price_amount": 70000,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp x 100ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/THUOC_HO_TRUONG_PHUC_HOANG_THANH_100_ML_00050857_4_e8cfb07548.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/THUOC_HO_TRUONG_PHUC_HOANG_THANH_100_ML_00050857_4_e8cfb07548.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/THUOC_HO_TRUONG_PHUC_HOANG_THANH_100_ML_00050857_1_0f0ab6aebb.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/THUOC_HO_TRUONG_PHUC_HOANG_THANH_100_ML_00050857_2_e340dcffaa.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/THUOC_HO_TRUONG_PHUC_HOANG_THANH_100_ML_00050857_3_cde4428a8d.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/THUOC_HO_TRUONG_PHUC_HOANG_THANH_100_ML_00050857_5_e049a14cbe.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/Thuoc_ho_truong_phuc_02025fb459.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Siro",
+  "trust_label": null,
+  "short_description": "<p>Thuốc ho Trường Phúc có thành phần chính là Cao lỏng hỗn hợp, Bách bộ, Bối mẫu, Cát cánh, Huyền sâm, Kim ngân hoa, Mạch môn, Tang bạch bì, Tô Tử, Trần bì, Cam thảo. Đây là thuốc được sử dụng để trị các chứng ho cảm, ho gió, ho lâu ngày khi bị viêm họng; hỗ trợ điều trị viêm phế quản.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc ho Trường Phúc được chỉ định dùng trong các trường hợp sau:</p><ul><li dir=\"ltr\">Trị các chứng ho cảm, ho gió, ho lâu ngày khi bị viêm họng.&nbsp;</li><li dir=\"ltr\">Hỗ trợ điều trị viêm phế quản.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 73411,
+      "ingredientId": 12757,
+      "shortDescription": "50g",
+      "name": "Cao lỏng hỗn hợp",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 73412,
+      "ingredientId": 10064,
+      "shortDescription": "30g",
+      "name": "Bách bộ",
+      "isPrimary": false,
+      "slug": "thanh-phan/bach-bo"
+    },
+    {
+      "id": 73413,
+      "ingredientId": 43559,
+      "shortDescription": "15g",
+      "name": "Bối mẫu",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 73414,
+      "ingredientId": 13188,
+      "shortDescription": "15g",
+      "name": "Cát cánh",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 73415,
+      "ingredientId": 22840,
+      "shortDescription": "15g",
+      "name": "Huyền sâm",
+      "isPrimary": false,
+      "slug": "thanh-phan/huyen-sam"
+    },
+    {
+      "id": 73416,
+      "ingredientId": 24654,
+      "shortDescription": "15g",
+      "name": "Kim ngân hoa",
+      "isPrimary": false,
+      "slug": "thanh-phan/kim-ngan-hoa"
+    },
+    {
+      "id": 73417,
+      "ingredientId": 26251,
+      "shortDescription": "15g",
+      "name": "Mạch môn",
+      "isPrimary": false,
+      "slug": "thanh-phan/mach-mon"
+    },
+    {
+      "id": 73418,
+      "ingredientId": 37464,
+      "shortDescription": "15g",
+      "name": "Tang bạch bì",
+      "isPrimary": false,
+      "slug": "thanh-phan/tang-bach-bi"
+    },
+    {
+      "id": 73419,
+      "ingredientId": 38827,
+      "shortDescription": "15g",
+      "name": "Tô Tử",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 73420,
+      "ingredientId": 39051,
+      "shortDescription": "10g",
+      "name": "Trần bì",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 73421,
+      "ingredientId": 12473,
+      "shortDescription": "8g",
+      "name": "Cam thảo",
+      "isPrimary": false,
+      "slug": "thanh-phan/cam-thao"
+    }
+  ],
+  "stock_qty": 0
+}

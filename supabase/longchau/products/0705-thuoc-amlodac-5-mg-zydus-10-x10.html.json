@@ -1,0 +1,44 @@
+{
+  "id": "00047557",
+  "slug": "thuoc/amlodac-5-mg-zydus-10-x10.html",
+  "title": "Thuốc Amlodac 5mg Zydus điều trị tăng huyết áp, đau thắt ngực ổn định mạn tính (10 vỉ x 10 viên)",
+  "short_title": "AMLODAC 5MG ZYDUS 10X10",
+  "brand": {
+    "name": "ZYDUS",
+    "slug": "thuong-hieu/zydus",
+    "country": "Ấn Độ"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap",
+    "name": "Thuốc tim mạch huyết áp",
+    "parent_slug": "thuoc/thuoc-tim-mach-and-mau"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/amlodca_5_90d735b203.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/amlodca_5_90d735b203.jpg"
+  ],
+  "origin_label": "Ấn Độ",
+  "country": "Ấn Độ",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Amlodac 5 là sản phẩm của Zydus Lifesciences, có thành phần chính là Amlodipine. Đây là thuốc được sử dụng để điều trị tăng huyết áp, điều trị đau thắt ngực ổn định mạn tính, đau đau thắt ngực kiểu Prinzmetal.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc Amlodac 5 được chỉ định dùng trong các trường hợp sau:</p><ul><li>Điều trị tăng huyết áp</li><li>Điều trị đau thắt ngực ổn định mạn tính.</li><li>Đau đau thắt ngực kiểu Prinzmetal.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 69251,
+      "ingredientId": 8862,
+      "shortDescription": "5mg",
+      "name": "Amlodipine",
+      "isPrimary": false,
+      "slug": "thanh-phan/amlodipine"
+    }
+  ],
+  "stock_qty": 0
+}

@@ -1,0 +1,49 @@
+{
+  "id": "00003211",
+  "slug": "thuoc/furosemide-40mg-3688.html",
+  "title": "Thuốc Furosemide Mekophar điều trị phù, tăng huyết áp (10 vỉ x 30 viên)",
+  "short_title": "FUROSEMIDE 40 MKP 10X30",
+  "brand": {
+    "name": "Mekophar",
+    "slug": "thuong-hieu/mekophar",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-loi-tieu",
+    "name": "Thuốc lợi tiểu",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "30 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00003211_furosemide_40mg_8221_605b_large_97abce0e8d.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003211_furosemide_40mg_8221_605b_large_97abce0e8d.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003211_furosemide_40mg_1618128848_9e22a9a90f.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003211_furosemide_40mg_4124_605b_large_6a734ececf.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003211_furosemide_40mg_4885_605b_large_729e9dc27e.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003211_furosemide_40mg_5584_605b_large_1e2c594a5d.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003211_furosemide_40mg_1688_6072_large_e0f10cc030.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Furosemid 40Mg có dạng bào chế viên nén tròn hoặc trắng ngà, hai mặt trơn dùng điều trị phù phổi cấp; phù do tim, gan, thận và các loại phù khác; tăng huyết áp khi có tổn thương thận; tăng calci huyết.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p>Thuốc Furosemid 40Mg được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Phù trong <a href=\"https://nhathuoclongchau.com.vn/benh/suy-tim-314.html\">suy tim</a> sung huyết, bệnh thận và xơ gan.</li>\n\t<li>Hỗ trợ điều trị phù phổi cấp.</li>\n\t<li>Tiểu ít do <a href=\"https://nhathuoclongchau.com.vn/benh/suy-than-679.html\">suy thận</a> cấp hoặc mạn tính.</li>\n\t<li>Tăng huyết áp, đặc biệt do suy tim sung huyết hoặc do suy thận.</li>\n\t<li>Điều trị hỗ trợ cơn <a href=\"https://nhathuoclongchau.com.vn/benh/cao-huyet-ap-225.html\">tăng huyết áp</a>.</li>\n\t<li>Tăng calci huyết.</li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/furosemide\">Furosemid</a> là thuốc lợi tiểu dẫn chất sulfonamid, cơ chế tác dụng chủ yếu là ức chế hệ thống đồng vận chuyển Na+, K+, 2Cl- ở đoạn dày của nhánh lên quai Henle, làm tăng thải trừ những chất điện giải này kèm theo tăng bài xuất nước. Thuốc cũng làm giảm tái hấp thu Na+, 2Cl-  và tăng thải trừ K+ ở ống lượn xa và có thể tác dụng trực tiếp cả trên ống lượn gần. Furosemid không ức chế carbonic anhydrase và không đối kháng với aldosteron. Furosemid làm tăng đào thải Ca2+, Mg2+, hydrogen, amoni, bicarbonat và có thể cả phosphat qua thận.</p>\n\n<h3>Dược động học</h3>\n\n<p>Furosemid được hấp thu nhanh qua đường tiêu hóa, sinh khả dụng khoảng 60 - 70%, nhưng hấp thu thay đổi và thất thường, bị ảnh hưởng bởi dạng thuốc, các quá trình bệnh tật và sự có mặt của thức ăn. Sinh khả dụng có thể giảm xuống 10% ở người bệnh thận, tăng nhẹ trong bệnh gan. Khoảng 99% furosemid trong máu gắn vào albumin huyết tương. Furosemid được thải trừ chủ yếu qua nước tiểu, phần lớn dưới dạng không chuyển hóa. Thời gian bán thải từ 30-120 phút ở người bình thường, kéo dài ở trẻ sơ sinh và người suy gan, thận. Furosemid qua được hàng rào nhau thai và phân phối vào sữa mẹ. Độ thanh thải của furosemid không tăng khi thẩm phân máu.</p>",
+  "ingredients_html": [
+    {
+      "id": 21485,
+      "ingredientId": 20813,
+      "shortDescription": "40mg",
+      "name": "Furosemid",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

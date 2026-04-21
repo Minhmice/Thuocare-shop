@@ -1,0 +1,57 @@
+{
+  "id": "00049483",
+  "slug": "thuoc/ceelin-z-united-60-ml.html",
+  "title": "Siro Ceelin + Z United phòng ngừa và điều trị thiếu vitamin C hoặc thiếu kẽm (60ml)",
+  "short_title": "CEELIN + Z UNITED 60ML",
+  "brand": {
+    "name": "United",
+    "slug": "thuong-hieu/united",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-bo-and-vitamin/siro-bo",
+    "name": "Siro bổ",
+    "parent_slug": "thuoc/thuoc-bo-and-vitamin"
+  },
+  "price_amount": 72000,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp x 60ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09902_e39f241fbd.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09902_e39f241fbd.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09903_dd8fdbb78e.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09897_fc5d6afe44.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09900_c5dd01f510.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09899_0d6eecfbfe.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09901_cc5d1d5fe9.png"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Siro",
+  "trust_label": null,
+  "short_description": "<p>Siro Ceelin+Z có thành phần chính là kẽm, vitamin C; dùng trong phòng ngừa và điều trị thiếu vitamin C và/hoặc thiếu kẽm.</p>",
+  "description_html": "<h3>Giới thiệu thuốc Ceelin Z United</h3><ul><li><strong>Chỉ định: </strong>Thuốc Ceelin Z United được chỉ định dùng trong phòng ngừa và điều trị thiếu vitamin C và/hoặc thiếu kẽm.</li><li><strong>Cách dùng:</strong> Thuốc dùng đường uống, cùng với thức ăn theo hướng dẫn sử dụng.</li><li><strong>Đối tượng sử dụng: </strong>Ceelin Z United dùng cho trẻ em và người lớn có nhu cầu bổ sung vitamin C và kẽm.</li><li><strong>Lưu ý khi sử dụng: </strong>Không dùng quá liều khuyến cáo. Thận trọng khi sử dụng kéo dài hoặc cho người có tiền sử sỏi thận, rối loạn chuyển hóa oxalat.</li><li><strong>Chống chỉ định:</strong> Không dùng cho người quá mẫn với bất kỳ thành phần nào của thuốc.</li></ul>",
+  "usage_html": "<h3>Chỉ định</h3><p>Siro Ceelin+Z dùng trong phòng ngừa và điều trị thiếu vitamin C và/hoặc thiếu kẽm.</p><h3>Dược lực học</h3><p><i>Vitamin C</i></p><p>Vitamin C là một vitamin tan trong nước và là một chất chống oxy hóa hữu hiệu.</p><p>Vitamin C tác dụng như một đồng yếu tố (cofactor) trong một loạt các quá trình sinh học trong cơ thể như sinh tổng hợp collagen, chuyển hóa acid folic, oxy hóa amino acid, hấp thu, vận chuyển và dự trữ sắt.</p><p>Vitamin C cũng rất cần thiết cho sự hình thành và duy trì sự vững chắc và khỏe mạnh của nướu, răng, sụn, mô xương, mạch máu, và mô liên kết.</p><p>Vitamin C đóng vai trò quan trọng trong chống nhiễm trùng, trong chức năng hoạt động bình thường của tế bào lympho T và chức năng thực bào của bạch cầu. Vitamin C cũng bảo vệ tế bào nhờ chống lại ảnh hưởng của quá trình oxy hóa.</p><p><i>Kẽm</i></p><p>Kẽm giúp điều hòa hoạt động của các tế bào tham gia vào chức năng miễn dịch, có tác động chống oxy hóa nhờ vai trò là 1 đồng yếu tố của enzyme superoxide dismutase, enzyme này tham gia vào việc loại bỏ các gốc tự do có hại và là đồng yếu tố của nhiều enzyme tham gia vào sự phân chia và phát triển tế bào.</p><h3>Dược động học</h3><p><i>Vitamin C</i></p><p>Vitamin C được hấp thu nhanh chóng sau khi uống và phân phối rộng rãi trong các mô cơ thể.</p><p>Nồng độ đỉnh trong huyết tương của vitamin C đạt được 4 giờ sau khi uống, sau đó thải trừ nhanh qua nước tiểu. 60% liều uống được thải trừ trong 24 giờ dưới dạng acid ascorbic hoặc dạng chuyển hóa là acid dihydroascorbic.</p><p><i>Kẽm</i></p><p>Kẽm ít được hấp thu sau khi uống, phân bố rộng rãi trong các mô cơ thể, kẽm được bài tiết chủ yếu theo phân, chỉ một lượng nhỏ xuất hiện trong nước tiểu.</p>",
+  "ingredients_html": [
+    {
+      "id": 71644,
+      "ingredientId": 24482,
+      "shortDescription": "10mg",
+      "name": "Kẽm",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 71645,
+      "ingredientId": 40349,
+      "shortDescription": "100mg",
+      "name": "Vitamin C",
+      "isPrimary": false,
+      "slug": "thanh-phan/vitamin-c"
+    }
+  ],
+  "stock_qty": 0
+}

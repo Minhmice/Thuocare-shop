@@ -1,0 +1,59 @@
+{
+  "id": "00033513",
+  "slug": "thuoc/effer-paralmax-c-500150-boston-5x4-33619.html",
+  "title": "Viên sủi Effer-Paralmax C 500/150 Boston giảm đau, hạ sốt (5 vỉ x 4 viên)",
+  "short_title": "EFFER-PARALMAX C 500/150 BOSTON 5X4",
+  "brand": {
+    "name": "Boston",
+    "slug": "thuong-hieu/boston",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem/thuoc-giam-dau-ha-sot",
+    "name": "Thuốc giảm đau hạ sốt",
+    "parent_slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem"
+  },
+  "price_amount": 2300,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "4 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00033513_effer_paralmax_c_500150_boston_5x4_7192_62a1_large_f064f5786f.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00033513_effer_paralmax_c_500150_boston_5x4_7192_62a1_large_f064f5786f.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00033513_effer_paralmax_c_500150_boston_5x4_2525_62a1_large_c489ea4156.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00033513_effer_paralmax_c_500150_boston_5x4_1200_62a1_large_89289d5f20.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00033513_effer_paralmax_c_500150_boston_5x4_9669_62a1_large_aa09b0ebb4.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00033513_effer_paralmax_c_500150_boston_5x4_8568_62a1_large_2195c551ff.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00033513_effer_paralmax_c_500150_boston_5x4_9401_62a1_large_98495e9ab9.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00033513_effer_paralmax_c_500150_boston_5x4_1333_62a2_large_dd8371590c.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00033513_effer_paralmax_c_500150_boston_5x4_3229_62a2_large_8a744573c7.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén sủi bọt",
+  "trust_label": null,
+  "short_description": "<p>Effer-Paralmax C 500/150 là sản phẩm của Công ty Cổ phần Dược phẩm Boston có thành phần chính là paracetamol và acid ascorbic (vitamin C) dùng điều trị triệu chứng đau và/hoặc hạ sốt như đau đầu, đau răng, cảm cúm, đau nhức toàn thân, đau bụng kinh.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p>Effer-Paralmax C 500/150 chỉ định dùng điều trị triệu chứng đau và/hoặc hạ sốt như đau đầu, đau răng, cảm cúm, đau nhức toàn thân, đau bụng kinh.</p>\n\n<h3>Dược lực học</h3>\n\n<p>Chưa có dữ liệu.</p>\n\n<h3>Dược động học</h3>\n\n<p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 36650,
+      "ingredientId": 31537,
+      "shortDescription": "500mg",
+      "name": "Paracetamol",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 58559,
+      "ingredientId": 7418,
+      "shortDescription": "150 mg",
+      "name": "Acid Ascorbic",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

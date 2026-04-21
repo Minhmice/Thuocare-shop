@@ -1,0 +1,73 @@
+{
+  "id": "00004618",
+  "slug": "thuoc/luxanthine-25mg-3140.html",
+  "title": "Thuốc Luxathin-E hỗ trợ điều trị bệnh lý về mắt, khô mắt, nhìn mờ, cải thiện thị lực (3 vỉ x 10 viên)",
+  "short_title": "LUXANTHIN E HÀ TÂY 3X10",
+  "brand": {
+    "name": "Hà Tây",
+    "slug": "thuong-hieu/ha-tay",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+    "name": "Thuốc bổ",
+    "parent_slug": "thuoc/thuoc-bo-and-vitamin"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004618_luxanthine_25mg_1235_5b88_large_ad8a38e19b.JPG",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004618_luxanthine_25mg_1235_5b88_large_ad8a38e19b.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004618_luxanthine_25mg_1625536107_61f86288ca.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004618_luxanthine_25mg_7359_5b88_large_6d42ba23ff.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004618_luxanthine_25mg_5526_5b88_large_5d2cba1127.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/00004618_luxanthine_25mg_7717_5b88_large_f22158a420.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/1_da2266c2e5.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang mềm",
+  "trust_label": null,
+  "short_description": "<p>Luxanthine-E là sản phẩm của Công ty cổ phần dược phẩm Hà Tây (Việt Nam), thành phần chính bao gồm lutein, zeaxanthin, vitamin A và vitamin E. Thuốc dùng trong hỗ trợ điều trị một số bệnh về mắt, trong các trường hợp khô mắt, nhìn mờ, giảm thị lực. Ngoài ra, Luxanthine-E còn được sử dụng trong phòng ngừa các bệnh của mắt ở người lớn tuối và bổ sung nhu cầu các chất cho cơ thể hằng ngày.</p>\n\n<p>Luxanthine-E được bào chế dạng viên nang mềm, màu vàng và được đóng gói theo quy cách: Hộp 3 vỉ x 10 viên.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p>Thuốc Luxanthine E được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Ðiều trị điều trị hỗ trợ một số bệnh về mắt.</li>\n\t<li>Dùng trong các trường hợp <a href=\"https://nhathuoclongchau.com.vn/benh/kho-mat-548.html\">khô mắt</a>, nhìn mờ, giảm thị lực.</li>\n\t<li>Phòng ngừa các bệnh của mắt như bệnh <a href=\"https://nhathuoclongchau.com.vn/benh/duc-thuy-tinh-the-546.html\">đục thủy tinh thể</a>, bệnh thoái hóa hoàng điểm ở người lớn tuổi.</li>\n\t<li>Bổ sung nhu cầu lutein, zeaxanthin, vitamin A và vitamin E cho cơ thể hằng ngày.</li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p>Lutein và zeaxanthin là các carotenoid có tác dụng chống oxy hoá, đặc biệt chỉ có trong điểm vàng và thuỷ tinh thể của mắt. Lutein và zeaxanthin cùng với vitamin A và vitamin E giúp bảo vệ các tế bào trong mắt như giác mạc, thuỷ tinh thể, võng mạc khỏi tác hại có thể dẫn đến thoái hoá điểm vàng của mắt.</p>\n\n<h3>Dược động học</h3>\n\n<p><em>Hấp thu</em>: Vitamin A, vitamin E và carotenoid được hấp thu cùng dầu mỡ trong thức ăn qua màng ruột. Sự hấp thu này dễ dàng nhờ muối mật.</p>\n\n<p><em>Phân bố:</em> Phần lớn được tích trữ tại gan.</p>\n\n<p><em>Chuyển hoá</em>: Chưa có thông tin.</p>\n\n<p><em>Thải trừ</em>: Đào thải qua phân và nước tiểu.</p>",
+  "ingredients_html": [
+    {
+      "id": 22202,
+      "ingredientId": 26065,
+      "shortDescription": "2.5mg",
+      "name": "Lutein",
+      "isPrimary": false,
+      "slug": "thanh-phan/lutein"
+    },
+    {
+      "id": 22203,
+      "ingredientId": 40948,
+      "shortDescription": "0.5mg",
+      "name": "Zeaxanthin",
+      "isPrimary": false,
+      "slug": "thanh-phan/zeaxanthin"
+    },
+    {
+      "id": 22204,
+      "ingredientId": 40309,
+      "shortDescription": "1000iu",
+      "name": "Vitamin A",
+      "isPrimary": false,
+      "slug": "thanh-phan/vitamin-a"
+    },
+    {
+      "id": 22205,
+      "ingredientId": 40363,
+      "shortDescription": "100iu",
+      "name": "Vitamin E",
+      "isPrimary": false,
+      "slug": "thanh-phan/vitamin-e"
+    }
+  ],
+  "stock_qty": 0
+}

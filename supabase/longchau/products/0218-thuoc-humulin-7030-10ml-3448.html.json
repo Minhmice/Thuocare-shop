@@ -1,0 +1,44 @@
+{
+  "id": "00003839",
+  "slug": "thuoc/humulin-7030-10ml-3448.html",
+  "title": "Thuốc tiêm Humulin 70/30 Eli Lilly điều trị bệnh đái tháo đường (10ml)",
+  "short_title": "HUMULIN 70/30 10ML",
+  "brand": {
+    "name": "Lilly",
+    "slug": "thuong-hieu/lilly",
+    "country": "Hoa Kỳ"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tri-tieu-duong",
+    "name": "Thuốc trị tiểu đường",
+    "parent_slug": "thuoc"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Chai",
+  "pack_note": "Chai x 10ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/Humulin_8207adbbd0.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/Humulin_8207adbbd0.jpg"
+  ],
+  "origin_label": "Hoa Kỳ",
+  "country": "Hoa Kỳ",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Hỗn dịch tiêm",
+  "trust_label": null,
+  "short_description": "<p>Humulin 70/30 được sản xuất bởi Eli Lilly and Company. Humulin có thành phần chính là insulin human trong đó 30% insulin hòa tan, 70% insulin isophan.</p>\n\n<p>Humulin 70/30 được dùng để điều trị bệnh nhân đái tháo đường cần insulin để duy trì hằng định nội môi glucose.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3><p>Thuốc Humulin 70/30 được chỉ định dùng trong các trường hợp sau:</p><ul><li>Điều trị bệnh nhân <a href=\"https://nhathuoclongchau.com.vn/benh/benh-tieu-duong-289.html\">đái tháo đường</a> cần insulin để duy trì hằng định nội môi glucose.</li></ul><h3><strong>Dược lực học</strong></h3><p>Humulin 70/30 là hỗn dịch trộn sẵn của insulin tác dụng nhanh và insulin tác dụng trung bình.</p><p>Hoạt tính cơ bản của insulin là điều hòa chuyển hóa glucose.</p><p>Ngoài ra, insulin còn có một số tác dụng đồng hóa và chống dị hóa trên nhiều loại mô khác nhau. Trong mô cơ, tác dụng này bao gồm tăng tổng hợp glycogen, acid béo, glycerol và protein và hấp thu acid amin, đồng thời làm giảm ly giải glycogen, tân tạo glucose, tạo ceton, ly giải mỡ, dị hóa protein và sản xuất acid amin.</p><p>Dáng dấp hoạt tính điển hình (đường cong biểu diễn sự sử dụng glucose) sau khi tiêm dưới da được biểu thị dưới đây bằng đường kẻ đậm. Những sự biến thiên mà bệnh nhân có thể gặp phải về thời gian hoặc cường độ của hoạt tính insulin được biểu diễn ở vùng tối. Những sự thay đổi của từng cá thể sẽ tùy thuộc vào các yếu tố như liều lượng, vị trí tiêm, thân nhiệt và sự hoạt động thể lực của bệnh nhân.</p><h3><strong>Dược động học</strong></h3><p>Dược động học của <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/insulin-human\">insulin</a> không phản ánh tác dụng chuyển hóa của hormon này. Vì vậy, khi cân nhắc hoạt lực của insulin nên quan sát các biểu đồ biểu diễn sự sử dụng glucose (như đã bàn luận ở trên).</p><p><i>An toàn tiền lâm sàng</i></p><p>Humulin 70/30 là insulin người được sản xuất bằng kỹ thuật tái tổ hợp. Hiện chưa có báo cáo về các phản ứng nghiêm trọng trong các nghiên cứu độc tính bán mạn tính. Trong một loạt các phân tích độc tính về di truyền trên in vitro và in vivo, insulin người không gây đột biến về gen.</p>",
+  "ingredients_html": [
+    {
+      "id": 21842,
+      "ingredientId": 41702,
+      "shortDescription": "1000ui",
+      "name": "Insulin người",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

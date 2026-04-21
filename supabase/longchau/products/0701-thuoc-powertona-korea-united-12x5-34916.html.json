@@ -1,0 +1,60 @@
+{
+  "id": "00500779",
+  "slug": "thuoc/powertona-korea-united-12x5-34916.html",
+  "title": "Thuốc Powertona 3g United hỗ trợ điều trị mất trí nhớ ngắn hạn, suy giảm tâm thần (12 vỉ x 5 viên)",
+  "short_title": "POWERTONA KOREA UNITED 12X5",
+  "brand": {
+    "name": "United",
+    "slug": "thuong-hieu/united",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-than-kinh/thuoc-than-kinh",
+    "name": "Thuốc thần kinh",
+    "parent_slug": "thuoc/thuoc-than-kinh"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "5 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/powertona_92933dd4ea.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/powertona_92933dd4ea.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang mềm",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Powertona 3g là sản phẩm của Công ty cổ phần Korea United Pharm, thành phần chính chứa cao <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/nhan-sam-than-re-va-re\">nhân sâm</a>, cao bạch quả, tinh dầu tỏi, là thuốc dùng để hỗ trợ điều trị mất trí nhớ ngắn hạn, suy giảm tâm thần, thiếu nhạy bén và minh mẫn.</p><p>&nbsp;</p><p>&nbsp;</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><ul><li>Điều trị giảm trí nhớ, kém tập trung, chứng hay quên.</li><li>Giảm <a href=\"https://nhathuoclongchau.com.vn/benh/xo-vua-dong-mach-429.html\">xơ vữa động mạch</a> và rối loạn tuần hoàn động mạch ngoại biên.</li><li>Chống mệt mỏi, tăng sức đề kháng, chống lão hóa.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p>Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 44341,
+      "ingredientId": 12642,
+      "shortDescription": "40mg",
+      "name": "Cao bạch quả",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 44342,
+      "ingredientId": 12776,
+      "shortDescription": "40mg",
+      "name": "Cao nhân sâm",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 44343,
+      "ingredientId": 38707,
+      "shortDescription": "10mg",
+      "name": "Tinh dầu tỏi",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

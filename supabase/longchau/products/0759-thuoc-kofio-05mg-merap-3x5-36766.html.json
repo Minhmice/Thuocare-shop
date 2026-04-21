@@ -1,0 +1,44 @@
+{
+  "id": "00502514",
+  "slug": "thuoc/kofio-05mg-merap-3x5-36766.html",
+  "title": "Viên đặt âm đạo Kofio Merap điều trị các triệu chứng tiết niệu - sinh dục do thiếu estrogen, phòng ngừa nhiểm khuẩn (3 vỉ x 5 viên)",
+  "short_title": "KOFIO 0.5MG MERAP 3X5",
+  "brand": {
+    "name": "Merap",
+    "slug": "thuong-hieu/merap",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-dat-am-dao",
+    "name": "Thuốc đặt âm đạo",
+    "parent_slug": "thuoc/thuoc-tiet-nieu-sinh-duc"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "5 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/koffio_5b73e82ff7.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/koffio_5b73e82ff7.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên đặt",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Kofio là sản phẩm của Công ty cổ phần tập đoàn Merap. Thuốc có chứa thành phần chính là hoạt chất Estriol, là một loại estrogen tự nhiên trong cơ thể. Thuốc có tác dụng điều trị các triệu chứng tiết niệu - sinh dục do thiếu estrogen như teo âm đạo, khô và ngứa; phòng ngừa nhiễm khuấn tái diễn ở âm đạo và đường tiết niệu dưới, tiểu rắt và tiểu khó.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc <a href=\"https://nhathuoclongchau.com.vn/thuoc/kofio-05mg-merap-3x5-36766.html\">Kofio</a> được chỉ định dùng trong các trường hợp sau:</p><ul><li>Teo âm đạo, khô và ngứa âm đạo, <a href=\"https://nhathuoclongchau.com.vn/benh/tieu-rat-tieu-kho-1213.html\">tiểu buốt, tiểu khó</a>, kích ứng và rát niêm mạc âm đạo.</li><li>Phòng ngừa tái <a href=\"https://nhathuoclongchau.com.vn/benh/viem-am-dao-504.html\">nhiễm khuẩn ở âm đạo</a> và đường tiết niệu.</li><li><a href=\"https://nhathuoclongchau.com.vn/benh/suy-buong-trung-som-498.html\">Suy giảm chức năng buồng trứng tiên phát</a>.</li><li>Cắt bỏ <a href=\"https://nhathuoclongchau.com.vn/bai-viet/buong-trung-cau-tao-chuc-nang-va-cac-benh-ly-pho-bien-lien-quan-den-buong-trung.html\">buồng trứng</a>, suy giảm chức năng tuyến sinh dục.</li><li>Chảy máu ở tử cung không rõ nguyên nhân.</li></ul><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 40139,
+      "ingredientId": 19515,
+      "shortDescription": "0.5mg",
+      "name": "Estriol",
+      "isPrimary": false,
+      "slug": "thanh-phan/estriol"
+    }
+  ],
+  "stock_qty": 0
+}

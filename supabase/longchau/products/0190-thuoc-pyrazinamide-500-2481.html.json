@@ -1,0 +1,49 @@
+{
+  "id": "00006206",
+  "slug": "thuoc/pyrazinamide-500-2481.html",
+  "title": "Thuốc Pyrazinamide 500mg Mekophar điều trị bệnh lao phổi (10 vỉ x 10 viên)",
+  "short_title": "PYRAZINAMIDE 500 MKP 10X10",
+  "brand": {
+    "name": "Mekophar",
+    "slug": "thuong-hieu/mekophar",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-khang-sinh-khang-nam/thuoc-khang-lao",
+    "name": "Thuốc kháng lao",
+    "parent_slug": "thuoc/thuoc-khang-sinh-khang-nam"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006206_pyrazinamide_500_2659_5bbc_large_19995cb43a.JPG",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006206_pyrazinamide_500_2659_5bbc_large_19995cb43a.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006206_pyrazinamide_500_1627392828_43c43a8485.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006206_pyrazinamide_500_8991_5bbc_large_93858e66b3.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006206_pyrazinamide_500_6411_5bbc_large_203880b741.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006206_pyrazinamide_500_4363_5bbc_large_1eee80342b.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006206_pyrazinamide_500_9826_5bbc_large_0ea85d8dda.JPG"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén",
+  "trust_label": null,
+  "short_description": "<p><strong>Thuốc Pyrazinamide 500mg</strong> là sản phẩm của <i>Hóa – Dược phẩm Mekophar</i> với thành phần chính là <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/pyrazinamide\"><strong>Pyrazinamide</strong></a>. Thuốc được sử dụng trong điều trị bệnh lao phổi cũng như tình trạng các thể <a href=\"https://nhathuoclongchau.com.vn/bai-viet/mot-so-benh-lao-ngoai-phoi-hay-gap-nhat-51125.html\"><strong>bệnh lao ngoài phổi</strong></a>.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p><strong>Thuốc Pyrazinamide 500mg</strong> được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Điều trị lao mới chẩn đoán hoặc tái điều trị bệnh <strong><a href=\"https://nhathuoclongchau.com.vn/benh/lao-phoi-445.html\">lao phổi</a></strong> và ngoài phổi, chủ yếu ở giai đoạn tấn công ban đầu, thường phối hợp với các thuốc kháng lao khác.</li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p>Pyrazinamide là một thuốc trong đa hóa trị liệu chống lao, chủ yếu dùng trong 8 tuần đầu của hóa trị liệu ngắn ngày.</p>\n\n<p>Pyrazinamide có tác dụng diệt trực khuẩn lao Mycobacterium tuberculosis đang tồn tại trong môi trường nội bào có tính acid của đại thực bào.</p>\n\n<h3>Dược động học</h3>\n\n<p><strong>Hấp thu </strong></p>\n\n<p>Pyrazinamide được hấp thu tốt qua đường tiêu hóa. Nồng độ đỉnh trong huyết thanh đạt được 2 giờ sau khi uống một liều 1,5 g là khoảng 35 mcg/ml và với liều 3 g là 66 mcg/ml. </p>\n\n<p><strong>Phân bố</strong></p>\n\n<p>Thuốc phân bố rộng rãi vào mô và dịch của cơ thể kể cả gan, phổi, dịch não tủy.</p>\n\n<p>Pyrazinamide gắn với protein huyết tương khoáng 10%. Thời gian bán hủy của thuốc là 9 - 10 giờ, kéo dài hơn ở người suy gan hoặc suy thận. </p>\n\n<p><strong>Chuyển hóa</strong></p>\n\n<p>Pyrazinamide bị thủy phân ở gan thành chất chuyển hóa chính có hoạt tính là acid pyrazinoic, chất này sau đó bị hydroxyl hóa thành acid 5-hydroxypyrazinoic. </p>\n\n<p><strong>Đào thải</strong></p>\n\n<p>Thuốc đào thải qua thận, chủ yếu do lọc ở cầu thận, khoảng 70% liều uống đào thải trong vòng 24 giờ.</p>",
+  "ingredients_html": [
+    {
+      "id": 23029,
+      "ingredientId": 33895,
+      "shortDescription": "500mg",
+      "name": "Pyrazinamide",
+      "isPrimary": false,
+      "slug": "thanh-phan/pyrazinamide"
+    }
+  ],
+  "stock_qty": 0
+}

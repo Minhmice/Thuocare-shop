@@ -1,0 +1,49 @@
+{
+  "id": "00005146",
+  "slug": "thuoc/natri-clorid-1000ml-2915.html",
+  "title": "Dung dịch vô trùng Natri Clorid 0.9% Dược 3-2 rửa vết thương hở và kín, súc miệng (1000ml)",
+  "short_title": "NATRI CLORID 0.9% F.T 1000ML",
+  "brand": {
+    "name": "Dược 3-2",
+    "slug": "thuong-hieu/duoc-3-2",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-mat-tai-mui-hong/dung-dich-suc-mieng",
+    "name": "Dung dịch súc miệng",
+    "parent_slug": "thuoc/thuoc-mat-tai-mui-hong"
+  },
+  "price_amount": 16000,
+  "compare_at_amount": 0,
+  "unit": "Chai",
+  "pack_note": "12 Chai x 1000ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005146_natri_clorid_1000ml_2375_63ab_large_9dfb38cd40.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005146_natri_clorid_1000ml_2375_63ab_large_9dfb38cd40.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005146_natri_clorid_1000ml_1672202816_178948f3e0.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005146_natri_clorid_1000ml_5150_63ab_large_d324bbb296.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005146_natri_clorid_1000ml_7588_63ab_large_c451ca5d7e.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005146_natri_clorid_1000ml_1019_63ab_large_db5437dc19.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005146_natri_clorid_1000ml_1568_63ab_large_75381c3652.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch dùng ngoài",
+  "trust_label": null,
+  "short_description": "<p>Dung dịch vô trùng Natri Clorid 1000 ml là sản phẩm được sản xuất bởi Công ty Cổ phần Dược phẩm 3/2, sản phẩm có thành phần chính là natri clorid, sản phẩm được dùng để súc miệng, làm sạch vết tương…</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3><p>Dung dịch vô trùng Natri Clorid 1000 ml được chỉ định dùng trong các trường hợp sau:</p><ul><li>Rửa vết thương hở và kín.</li><li>Súc miệng để vệ sinh răng, miệng, họng mỗi ngày.</li></ul><h3><strong>Dược lực học</strong></h3><p>Chưa có thông tin.</p><h3><strong>Dược động học</strong></h3><p>Chưa có thông tin.</p>",
+  "ingredients_html": [
+    {
+      "id": 22492,
+      "ingredientId": 29252,
+      "shortDescription": "0.9g",
+      "name": "Natri clorid",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

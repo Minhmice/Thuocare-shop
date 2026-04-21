@@ -1,0 +1,44 @@
+{
+  "id": "00048619",
+  "slug": "thuoc/irinotecan-40-mg-bidiphar-2-ml.html",
+  "title": "Thuốc Irinotecan 40mg Bidiphar điều trị ung thư ruột kết, trực tràng tiến triển (2ml)",
+  "short_title": "IRINOTECAN 40MG BIDIPHAR 2ML",
+  "brand": {
+    "name": "Bidiphar",
+    "slug": "thuong-hieu/bidiphar",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-dieu-tri-ung-thu/thuoc-chong-ung-thu",
+    "name": "Thuốc chống ung thư",
+    "parent_slug": "thuoc/thuoc-dieu-tri-ung-thu"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp x 2ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/irino_40_e9c2b58eb5.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/irino_40_e9c2b58eb5.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch đậm đặc để pha dung dịch tiêm truyền",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Irinotecan Bidiphar 40mg/2ml là sản phẩm của Công ty Cổ phần Dược - Trang thiết bị Y tế Bình Định (Bidiphar) có chứa thành phần chính là Irinotecan hydroclorid trihydrat được chỉ định để điều trị ung thư ruột kết, trực tràng tiến triển.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Irinotecan Bidiphar 40mg/2ml chỉ định điều trị trong các trường hợp sau: ung thư ruột kết, trực tràng tiến triển.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 70363,
+      "ingredientId": 43556,
+      "shortDescription": "40mg",
+      "name": "Irinotecan hydroclorid trihydrat",
+      "isPrimary": true,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

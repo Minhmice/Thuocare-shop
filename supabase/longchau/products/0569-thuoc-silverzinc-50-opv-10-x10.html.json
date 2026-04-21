@@ -1,0 +1,44 @@
+{
+  "id": "00501354",
+  "slug": "thuoc/silverzinc-50-opv-10-x10.html",
+  "title": "Thuốc Silverzinc 50 OPV phòng ngừa và điều trị thiếu kẽm (10 vỉ x 10 viên)",
+  "short_title": "SILVERZINC 50 OPV 10X10",
+  "brand": {
+    "name": "Opv",
+    "slug": "thuong-hieu/opv",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bu-dien-giai",
+    "name": "Thuốc bù điện giải",
+    "parent_slug": "thuoc/thuoc-bo-and-vitamin"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00501354_ece45a82e8.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00501354_ece45a82e8.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén",
+  "trust_label": null,
+  "short_description": "<p class=\"detail-title\" data-id=\"247249\" data-scenarioid=\"0\" data-cateid=\"10053\">SilverZinc 50 là sản phẩm của Công ty Dược phẩm OPV với thành phần chính là kẽm (dưới dạng kẽm gluconat). Thuốc SilverZinc 50 được dùng như chất bổ sung để phòng ngừa và điều trị thiếu kẽm, ngoài ra thuốc cũng giúp điều trị bệnh Wilson.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><ul><li>SilverZinc 50 dùng như chất bổ sung để phòng ngừa và điều trị thiếu kẽm, ví dụ trong các hội chứng kém hấp thu, trong trường hợp cơ thể bị mất mát (chấn thương, bỏng, tình trạng mất protein), cảm lạnh, tiêu chảy và trong thời kỳ mang thai.</li><li>Điều trị bệnh Wilson.</li></ul><h3>Dược lực học</h3><p>Nhóm dược lý: Bổ sung kẽm. Mã ATC: A12CB02</p><p>Kẽm là thành phần dinh dưỡng cần thiết có mặt trong nhiều loại thực phẩm. Kẽm là một thành phần của nhiều hệ enzym và có mặt trong tất cả các mô. Đặc điểm của thiếu kẽm bao gồm chứng chậm phát triển và khuyết tật ở những mô nhanh chóng phân chia như da, hệ miễn dịch, và niêm mạc ruột. Các muối kẽm tan trong nước được sử dụng như chất bổ sung để điều chỉnh tình trạng thiếu kẽm, ví dụ như trong các hội chứng kém hấp thu, suốt giai đoạn nuôi ăn bằng tĩnh mạch, hoặc các trường hợp cơ thể tăng thất thoát kẽm (như chấn thương, bỏng và tình trạng mất protein) và acrodermatitis enteropathica (một rối loạn di truyền hiếm gặp đặc trưng bởi tình trạng thiếu kẽm nặng). Kẽm đã được thử nghiệm trong việc điều trị nhiều tình trạng có thể liên quan tới thiếu kẽm như là cảm lạnh, tiêu chảy, hoặc bổ sung trong thời kỳ mang thai.</p><h3>Dược động học</h3><p>Sự hấp thu của kẽm qua đường tiêu hóa là không hoàn toàn và bị giảm nếu có sự hiện diện của một số thành phần dinh dưỡng như phytat. Sinh khả dụng của kẽm trong chế độ ăn uống khác nhau và vào khoảng 20-30%. Kẽm được phân bố khắp cơ thể với nồng độ cao nhất được tìm thấy trong cơ bắp, xương, da, mắt và các dịch tuyến tiền liệt. Kẽm chủ yếu được đào thải qua phân. Một lượng nhỏ qua nước tiểu và mồ hôi.</p>",
+  "ingredients_html": [
+    {
+      "id": 34727,
+      "ingredientId": 24482,
+      "shortDescription": "50mg",
+      "name": "Kẽm",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

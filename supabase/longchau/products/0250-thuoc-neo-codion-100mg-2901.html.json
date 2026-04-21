@@ -1,0 +1,70 @@
+{
+  "id": "00005207",
+  "slug": "thuoc/neo-codion-100mg-2901.html",
+  "title": "Viên nén Neo-Codion Bouchara điều trị triệu chứng ho khan (2 vỉ x 10 viên)",
+  "short_title": "NEO-CODION 100 2X10",
+  "brand": {
+    "name": "Bouchara",
+    "slug": "thuong-hieu/bouchara",
+    "country": "Pháp"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-ho-hap/thuoc-tri-ho-cam",
+    "name": "Thuốc trị ho cảm",
+    "parent_slug": "thuoc/thuoc-ho-hap"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07149_ae978c9eab.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07149_ae978c9eab.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07150_33e1005d67.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07151_c82fe3eb73.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07152_2aad46c2e2.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07153_11f3834b8e.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07157_7de47e2993.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07156_1fa44ed34f.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/neo_codion_1_72244556a3.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/neo_codion_2_22a9457c78.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/neo_codion_3_7502947c42.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/neo_codion_4_2cd8f2f64a.jpg"
+  ],
+  "origin_label": "Pháp",
+  "country": "Pháp",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao đường",
+  "trust_label": null,
+  "short_description": "<p><a href=\"https://nhathuoclongchau.com.vn/thuoc/neo-codion-100mg-2901.html\"><strong>Neo-Codion</strong></a> của <i>Laboratoires Bouchara&nbsp;Recordati&nbsp;– Pháp</i>, thành phần chính là codein base, sulfogaiacol (INN), cao mềm grindelia, là thuốc dùng để điều trị triệu chứng ho khan do kích thích ở người lớn.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p><strong>Thuốc Neo-Codion</strong>&nbsp;được chỉ định dùng cho bệnh nhân trên 12 tuổi để điều trị triệu chứng ho khan hoặc kích ứng.</p><h3>Dược lực học</h3><p>Nhóm dược lý: Thuốc chống ho nhóm opiat.</p><p>Mã ATC: R05DA20.</p><p><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/codeine\">Codein</a>: Alkaloid thuốc phiện, có đặc tính chống ho trung ương do tác dụng ức chế trung tâm hô hấp.</p><p>Sulfogaiacol: Long đờm.</p><p>Cao mềm Grindelia: Liệu pháp thực vật có mục đích chống ho.</p><h3>Dược động học</h3><p><i>Codein</i> dùng đường uống: Thời gian đạt nồng độ đỉnh trong huyết tương khoảng 1 giờ, chuyển hóa qua gan, khoảng 10% codein được demethyl hóa và chuyển thành morphin trong cơ thể, thời gian bán hủy trong huyết tương khoảng 3 giờ (ở người lớn), qua nhau thai và vào sữa mẹ.</p><p>Sulfogaiacol được hấp thu nhanh trong cơ thể. Phần lớn được bài tiết theo đường niệu và đường ruột dưới dạng không chuyển hóa. Suốt quá trình trên, sulfogaiacol phóng thích gaiacol trong ống tiêu hóa.</p>",
+  "ingredients_html": [
+    {
+      "id": 30240,
+      "ingredientId": 15491,
+      "shortDescription": "14.93mg",
+      "name": "Codein",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 30241,
+      "ingredientId": 37142,
+      "shortDescription": "100mg",
+      "name": "Sulfogaiacol",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 30242,
+      "ingredientId": 21704,
+      "shortDescription": "20mg",
+      "name": "Grindelia",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

@@ -1,0 +1,50 @@
+{
+  "id": "00004460",
+  "slug": "thuoc/liposic-10g-3217.html",
+  "title": "Gel nhỏ mắt Liposic Eye Gel Bausch And Lomb điều trị triệu chứng cho bệnh khô mắt (10g)",
+  "short_title": "LIPOSIC 10G",
+  "brand": {
+    "name": "Bausch & Lomb",
+    "slug": "thuong-hieu/bausch-lomb",
+    "country": "Hoa Kỳ"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-mat-tai-mui-hong/thuoc-tra-mat",
+    "name": "Thuốc tra mắt",
+    "parent_slug": "thuoc/thuoc-mat-tai-mui-hong"
+  },
+  "price_amount": 69000,
+  "compare_at_amount": 0,
+  "unit": "Tuýp",
+  "pack_note": "Tuýp x 10g",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004460_liposic_10g_5146_62ad_large_da864f5a85.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004460_liposic_10g_5146_62ad_large_da864f5a85.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004460_liposic_10g_1997_62ad_large_ae2335140b.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004460_liposic_10g_6483_62ad_large_7511ca47d3.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004460_liposic_10g_8456_62ad_large_978393f33d.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004460_liposic_10g_9384_62ad_large_4efc027099.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004460_liposic_10g_9855_62ad_large_c7455c5a2a.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004460_liposic_10g_7700_62ad_large_ad8c7a938b.jpg"
+  ],
+  "origin_label": "Hoa Kỳ",
+  "country": "Hoa Kỳ",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Gel",
+  "trust_label": null,
+  "short_description": "<p>Liposic Eye Gel được sản xuất bởi Dr. Gerhard Mann Chem – pharm Fabrik GmbH (Đức), thành phần chính là carbomer, là thuốc dùng thay thế nước mắt trong các trường hợp tiết nước mắt không đủ và điều trị triệu chứng cho bệnh khô mắt.</p><p>Liposic Eye Gel được bào chế dưới dạng gel tra mắt, tuýp 10 g chứa carbomer 20,00 mg. Thuốc được đóng gói theo quy cách: Mỗi hộp chứa một hoặc ba tuýp.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Liposic Eye Gel 10g được chỉ định dùng trong các trường hợp sau:</p><ul><li>Dùng thay thế nước mắt trong các trường hợp tiết nước mắt không đủ và điều trị triệu chứng cho bệnh <a href=\"https://nhathuoclongchau.com.vn/benh/kho-mat-548.html\">khô mắt</a>.</li></ul><h3>Dược lực học</h3><p>Chưa có thông tin.</p><h3>Dược động học</h3><p>Chưa có thông tin.</p>",
+  "ingredients_html": [
+    {
+      "id": 22135,
+      "ingredientId": 13015,
+      "shortDescription": "0.2%",
+      "name": "Carbomer",
+      "isPrimary": false,
+      "slug": "thanh-phan/carbomer"
+    }
+  ],
+  "stock_qty": 0
+}

@@ -1,0 +1,98 @@
+{
+  "id": "00002061",
+  "slug": "thuoc/con-xoa-bop-opc-50ml-4174.html",
+  "title": "Cồn xoa bóp OPC hỗ trợ giảm nhức mỏi, thấp khớp, bong gân (50ml)",
+  "short_title": "CỒN XOA BÓP OPC 50ML",
+  "brand": {
+    "name": "Opc",
+    "slug": "thuong-hieu/opc",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/mieng-dan-cao-xoa-dau/dau-nong-xoa-bop",
+    "name": "Dầu nóng xoa bóp",
+    "parent_slug": "thuoc/mieng-dan-cao-xoa-dau"
+  },
+  "price_amount": 37000,
+  "compare_at_amount": 0,
+  "unit": "Chai",
+  "pack_note": "Chai x 50ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002061_con_xoa_bop_50ml_3654_5af9_large_78448c7c8f.JPG",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002061_con_xoa_bop_50ml_3654_5af9_large_78448c7c8f.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002061_con_xoa_bop_50ml_4134_5af9_large_cf2b88571c.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002061_con_xoa_bop_50ml_7748_5af9_large_04e5930f09.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002061_con_xoa_bop_50ml_6013_5af9_large_e0e20ba756.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002061_con_xoa_bop_50ml_3304_5ba8_large_838ea6dc16.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002061_con_xoa_bop_50ml_3164_5ba8_large_ae77677b67.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002061_con_xoa_bop_50ml_1462_5ba8_large_f9f913dc8c.JPG"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch",
+  "trust_label": null,
+  "short_description": "<p>Cồn Xoa Bóp 50ml của Công ty Cổ phần Dược phẩm OPC, với thành phần chính được chiết xuất từ các loại thảo dược, giúp giảm nhanh các cơn đau nhức như: Thấp khớp, nhức mỏi gân xương, bị thương, bị ngã, bong gân... Cồn Xoa Bóp là sản phẩm giảm nhanh các cơn đau hữu hiệu và an toàn được tin dùng rộng rãi.</p>",
+  "description_html": "",
+  "usage_html": "<h3><b>Chỉ định</b></h3>\n\n<p>Cồn Xoa Bóp được chỉ định dùng để chữa các chứng đau nhức do nhiều nguyên nhân như: <a href=\"https://nhathuoclongchau.com.vn/benh/thap-khop-88.html\">Thấp khớp</a>, nhức mỏi gân xương, bị thương, bị ngã, bong gân.</p>\n\n<h3><b>Dược lực học</b></h3>\n\n<p>Không có thông tin.</p>\n\n<h3><b>Dược động học</b></h3>\n\n<p>Không có thông tin.</p>",
+  "ingredients_html": [
+    {
+      "id": 20808,
+      "ingredientId": 12512,
+      "shortDescription": "0.5g",
+      "name": "Camphor",
+      "isPrimary": false,
+      "slug": "thanh-phan/camphor"
+    },
+    {
+      "id": 20809,
+      "ingredientId": 34074,
+      "shortDescription": "1g",
+      "name": "Quế chi",
+      "isPrimary": false,
+      "slug": "thanh-phan/que-chi"
+    },
+    {
+      "id": 20810,
+      "ingredientId": 16566,
+      "shortDescription": "1g",
+      "name": "Đại hồi",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 20811,
+      "ingredientId": 22844,
+      "shortDescription": "1.5g",
+      "name": "Huyết Giác",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 20812,
+      "ingredientId": 34850,
+      "shortDescription": "2.5g",
+      "name": "Riềng",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 20813,
+      "ingredientId": 17447,
+      "shortDescription": "2.5g",
+      "name": "Địa liền",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 20814,
+      "ingredientId": 38203,
+      "shortDescription": "1.5g",
+      "name": "Thiên niên kiện",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

@@ -1,0 +1,45 @@
+{
+  "id": "00047041",
+  "slug": "thuoc/sodium-chloride-intravenous-infusion-b-p-0-9-b-braun-500-ml-1.html",
+  "title": "Dung dịch truyền tĩnh mạch Sodium Chloride 0.9% B.Braun bổ sung nước (500ml)",
+  "short_title": "SODIUM CHLORIDE INTRAVENOUS INFUSION B.P 0.9% B.BRAUN 500ML",
+  "brand": {
+    "name": "B.Braun",
+    "slug": "thuong-hieu/bbraun",
+    "country": "Đức"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tiem-chich-and-dich-truyen/dich-truyen",
+    "name": "Dịch truyền",
+    "parent_slug": "thuoc/thuoc-tiem-chich-and-dich-truyen"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Chai",
+  "pack_note": "10 Chai x 500ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/z6303789777253_6506cd908d1df05e4d3f35272a99a08d_f8f2bbf87e.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/z6303789777253_6506cd908d1df05e4d3f35272a99a08d_f8f2bbf87e.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/z6303789749934_9cef6d35ef4944bee6c66a865d092c5e_bec28c625c.jpg"
+  ],
+  "origin_label": "Đức",
+  "country": "Đức",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch truyền tĩnh mạch",
+  "trust_label": null,
+  "short_description": "<p>Dung dịch truyền tĩnh mạch Sodium Chloride 0.9% BP là sản phẩm của Công ty TNHH B.Braun Việt Nam chứa hoạt chất Sodium Chloride dùng bổ sung nước trong trường hợp mất nước.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Dung dịch truyền tĩnh mạch Sodium Chloride 0.9% dùng bổ sung nước trong trường hợp mất nước.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 67646,
+      "ingredientId": 36257,
+      "shortDescription": "0.9g",
+      "name": "Sodium Chloride",
+      "isPrimary": false,
+      "slug": "thanh-phan/sodium-chloride"
+    }
+  ],
+  "stock_qty": 0
+}

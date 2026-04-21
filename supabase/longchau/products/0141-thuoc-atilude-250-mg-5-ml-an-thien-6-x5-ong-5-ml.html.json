@@ -1,0 +1,56 @@
+{
+  "id": "00041913",
+  "slug": "thuoc/atilude-250-mg-5-ml-an-thien-6-x5-ong-5-ml.html",
+  "title": "Dung dịch uống AtiLude 250mg/5ml An Thiên tiêu nhầy, rối loạn đường hô hấp (6 vỉ x 5 ống x 5ml)",
+  "short_title": "ATILUDE 250MG/5ML AN THIÊN 6X5 ỐNG 5ML",
+  "brand": {
+    "name": "An Thiên",
+    "slug": "thuong-hieu/an-thien",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-ho-hap/thuoc-tri-ho-cam",
+    "name": "Thuốc trị ho cảm",
+    "parent_slug": "thuoc/thuoc-ho-hap"
+  },
+  "price_amount": 3000,
+  "compare_at_amount": 0,
+  "unit": "Ống",
+  "pack_note": "5 Ống x 5ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_04350_5dfca09de8.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_04350_5dfca09de8.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03353_eb1b51cb2a.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03349_38b3528215.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03350_d84024dc70.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03351_29a89a18d5.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03352_96ad298bbf.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03353_eb1b51cb2a.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03354_c5bf42ec26.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03356_c3577ff4ed.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03357_9fcf6d676b.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03359_bc67f26cb4.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/atilude_2_22f9fead62.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/atilude_1_6b67b6ba94.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch uống",
+  "trust_label": null,
+  "short_description": "<p>Dung dịch uống AtiLude là sản phẩm của Công ty Cổ phần Dược phẩm An Thiên chứa hoạt chất Carbocisteine. Đây là thuốc dùng để làm tiêu nhầy, dùng trong điều trị bổ trợ các rối loạn đường hô hấp có kèm theo tăng tiết chất nhầy nhớt quá mức, bao gồm chứng khó thở đường hô hấp mạn tính.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p><a href=\"https://nhathuoclongchau.com.vn/thuoc/atilude-250-mg-5-ml-an-thien-6-x5-ong-5-ml.html\">Thuốc AtiLude</a> được chỉ định dùng trong các trường hợp sau:</p><ul><li>Carbocisteine là thuốc làm tiêu nhầy, dùng trong điều trị bổ trợ các rối loạn đường hô hấp có kèm theo <a href=\"https://nhathuoclongchau.com.vn/bai-viet/co-hong-nhieu-chat-nhay-canh-bao-dieu-gi.html\">tăng tiết chất nhầy</a> nhớt quá mức, bao gồm chứng <a href=\"https://nhathuoclongchau.com.vn/benh/kho-tho-700.html\">khó thở</a> đường hô hấp mạn tính.</li></ul><h3>Dược lực học</h3><p><strong>Nhóm dược lý: Thuốc tác dụng trên đường hô hấp.</strong></p><p><strong>Mã ATC: R05CB03.</strong></p><p>Carbocisteine cắt đứt các liên kết disulfid trong glycoprotein, yếu tố làm tăng độ nhớt của dịch tiết. Do đó giúp làm giảm độ quánh của chất nhầy, làm thay đổi độ đặc của đàm và giúp khạc ra dễ dàng.</p><h3>Dược động học</h3><p>Sau khi uống, carbocisteine được hấp thu nhanh, nồng độ tối đa trong <a href=\"https://nhathuoclongchau.com.vn/bai-viet/huyet-tuong-la-gi-huyet-tuong-co-chuc-nang-gi-72674.html\">huyết tương</a> đạt được sau hai giờ.</p><p>Sinh khả dụng thấp, dưới 10% liều dùng có thể thông qua chuyển hóa nội mạc vượt qua chuyển hóa gan lần đầu.</p><p>Thời gian bán thải khoảng 2 giờ. Carbocisteine và chất chuyển hóa của nó được thải trừ chủ yếu qua thận.</p>",
+  "ingredients_html": [
+    {
+      "id": 48816,
+      "ingredientId": 13011,
+      "shortDescription": "250mg",
+      "name": "Carbocisteine",
+      "isPrimary": false,
+      "slug": "thanh-phan/carbocisteine"
+    }
+  ],
+  "stock_qty": 0
+}

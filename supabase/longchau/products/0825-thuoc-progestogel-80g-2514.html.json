@@ -1,0 +1,54 @@
+{
+  "id": "00006124",
+  "slug": "thuoc/progestogel-80g-2514.html",
+  "title": "Gel Progestogel 1% Kolmar điều trị các bệnh vú lành tính (80g)",
+  "short_title": "PROGESTOGEL 80G",
+  "brand": {
+    "name": "Besins",
+    "slug": "thuong-hieu/besins",
+    "country": "Pháp"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-da-lieu/thuoc-boi-ngoai-da",
+    "name": "Thuốc bôi ngoài da",
+    "parent_slug": "thuoc/thuoc-da-lieu"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Tuýp",
+  "pack_note": "Tuýp x 80g",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006124_progestogel_80g_5592_6425_large_d20849fb73.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006124_progestogel_80g_5592_6425_large_d20849fb73.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006124_progestogel_80g_1680150632_e6ddc549ef.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006124_progestogel_80g_9508_6425_large_66b49d246e.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006124_progestogel_80g_9072_6425_large_7a617f3257.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006124_progestogel_80g_5983_6425_large_7253fe5867.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006124_progestogel_80g_5533_6425_large_5f4427ecf2.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006124_progestogel_80g_9270_6425_large_039f72cbc4.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006124_progestogel_80g_8269_6425_large_b110ceac1e.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006124_progestogel_80g_1451_6425_large_57530c6954.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006124_progestogel_80g_2818_6425_large_46612746fb.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006124_progestogel_80g_4813_6425_large_1f2f3a9619.jpg"
+  ],
+  "origin_label": "Pháp",
+  "country": "Pháp",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Gel",
+  "trust_label": null,
+  "short_description": "<p><strong>Progestogel 80g</strong> do <i>Công ty Besins&nbsp;Manufacturing Belgium SA</i> sản xuất, có thành phần chính <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/progesterone\"><strong>progesteron</strong></a>, được dùng để điều trị các bệnh vú lành tính: Đau vú đơn thuần hoặc kết hợp với bệnh vú lành tính.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p><strong>Thuốc Progestogel 80 g</strong> được chỉ định dùng trong trường hợp:</p><ul><li>Điều&nbsp;trị các bệnh vú lành tính: Đau vú đơn thuần hoặc kết hợp với bệnh vú lành tính.</li></ul><h3>Dược lực học</h3><p>Khi bôi lên vú, progesterone - một hormon tự nhiên được sinh ra bởi cơ thể con người - có tác dụng: Chống lại sự tăng tính thấm mao mạch gây ra bởi oestrogen; góp phần vào sự tăng trưởng và sự biệt hoá của các ống dẫn sữa và các tuyến nang; ngăn chặn sự gián phân nhanh chóng của các tế bào biểu mô gây ra bởi oestrogen.</p><p>Vì vậy, Progestogel có thể điều trị bệnh vú lành tính do thiếu progesterone cục bộ tuyệt đối hay tương đối.</p><h3>Dược động học</h3><p>Khoảng 10% lượng bôi được hấp thu qua da, làm tăng đáng kể nồng độ progesteron trong mô vú mà không đủ vào máu để gây tác dụng toàn thân, đặc biệt trong tử cung. Hơn nữa, progesterone dùng tại chỗ làm tăng đáng kể tác động của 17-beta-hydroxysteroid dehydrogenase tại vú.&nbsp;Trong thực tế, enzyme này làm thoái biến oestradiol và oestron ở vùng này và do đó góp phần làm giảm tác động của oestrogen trong các mô mục tiêu.</p><p>Tác dụng sinh nhiệt hầu như không tồn tại do các đường chuyển hoá khác nhau của progesterone.&nbsp;Bằng đường qua da, progesterone được chuyển hóa thành các dẫn xuất bị khử ở vị trí alpha.&nbsp;Ngược lại bằng đường dùng thông thường, progesterone sẽ được chuyển hóa thành các dẫn xuất sinh nhiệt bị khử ở vị trí beta.</p>",
+  "ingredients_html": [
+    {
+      "id": 30277,
+      "ingredientId": 33537,
+      "shortDescription": "1%",
+      "name": "Progesterone",
+      "isPrimary": false,
+      "slug": "thanh-phan/progesterone"
+    }
+  ],
+  "stock_qty": 0
+}

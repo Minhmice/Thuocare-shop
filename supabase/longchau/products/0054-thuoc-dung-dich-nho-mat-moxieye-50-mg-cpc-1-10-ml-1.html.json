@@ -1,0 +1,44 @@
+{
+  "id": "00038173",
+  "slug": "thuoc/dung-dich-nho-mat-moxieye-50-mg-cpc-1-10-ml-1.html",
+  "title": "Thuốc nhỏ mắt Moxieye 10ml CPC1HN điều trị nhiễm khuẩn ở mắt ",
+  "short_title": "MOXIEYE 50MG CPC1 10ML",
+  "brand": {
+    "name": "CPC1HN",
+    "slug": "thuong-hieu/cpc1hn",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-mat-tai-mui-hong/thuoc-nho-mat",
+    "name": "Thuốc nhỏ mắt",
+    "parent_slug": "thuoc/thuoc-mat-tai-mui-hong"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp x 10ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/moxieye_5dc54bd623.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/moxieye_5dc54bd623.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch",
+  "trust_label": null,
+  "short_description": "<p>Dung dịch nhỏ mắt Moxieye là sản phẩm của Công ty Cổ phần Dược phẩm CPC1 Hà Nội, có thành phần chính là Moxifloxacin. Đây là thuốc được sử dụng để điều trị nhiễm khuẩn ở mắt do các chủng vi sinh vật nhạy cảm; điều trị viêm loét giác mạc; phòng ngừa tình trạng viêm và nhiễm khuẩn có thể xảy ra sau khi phẫu thuật mắt.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Dung dịch nhỏ mắt Moxieye được chỉ định dùng trong các trường hợp sau:</p><ul><li>Điều trị nhiễm khuẩn ở mắt do các chủng vi sinh vật nhạy cảm; điều trị viêm loét giác mạc; phòng ngừa tình trạng viêm và nhiễm khuẩn có thể xảy ra sau khi phẫu thuật mắt.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 53442,
+      "ingredientId": 28083,
+      "shortDescription": "50mg",
+      "name": "Moxifloxacin",
+      "isPrimary": false,
+      "slug": "thanh-phan/moxifloxacin"
+    }
+  ],
+  "stock_qty": 0
+}

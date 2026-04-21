@@ -1,0 +1,44 @@
+{
+  "id": "00032984",
+  "slug": "thuoc/imfinzi-inj-120mg-vial-astra-1x2-4ml-33096.html",
+  "title": "Thuốc Imfinzi INJ 120mg/2,4ml AstraZeneca điều trị ung thư biểu mô đường niệu, ung thư phổi (2.4ml)",
+  "short_title": "IMFINZI INJ 120MG VIAL ASTRA 1X2 4ML",
+  "brand": {
+    "name": "Astra",
+    "slug": "thuong-hieu/astra",
+    "country": "Anh"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-dieu-tri-ung-thu/thuoc-dieu-tri-ung-thu",
+    "name": "Thuốc điều trị ung thư",
+    "parent_slug": "thuoc/thuoc-dieu-tri-ung-thu"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp x 2.4ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/imfinzi_27330ec3f0.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/imfinzi_27330ec3f0.jpg"
+  ],
+  "origin_label": "Anh",
+  "country": "Anh",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch tiêm truyền",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Imfinzi Inj là sản phẩm của Astrazeneca có thành phần chính là Durvalumab dùng điều trị ung thư biểu mô đường niệu, ung thư phổi không tế bào nhỏ (NSCLC).</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p>Thuốc Imfinzi Inj  dùng điều trị ung thư biểu mô đường niệu, <a href=\"https://nhathuoclongchau.com.vn/benh/ung-thu-phoi-428.html\">ung thư phổi</a> không tế bào nhỏ (NSCLC).</p>\n\n<h3>Dược lực học</h3>\n\n<p>Chưa có dữ liệu.</p>\n\n<h3>Dược động học</h3>\n\n<p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 52002,
+      "ingredientId": 18798,
+      "shortDescription": "120mg",
+      "name": "Durvalumab",
+      "isPrimary": false,
+      "slug": "thanh-phan/durvalumab"
+    }
+  ],
+  "stock_qty": 0
+}

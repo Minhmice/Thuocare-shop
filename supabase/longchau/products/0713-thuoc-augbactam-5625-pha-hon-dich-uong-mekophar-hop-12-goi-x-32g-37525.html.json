@@ -1,0 +1,52 @@
+{
+  "id": "00503228",
+  "slug": "thuoc/augbactam-5625-pha-hon-dich-uong-mekophar-hop-12-goi-x-32g-37525.html",
+  "title": "Thuốc Augbactam 562.5 Mekophar điều trị các trường hợp nhiễm khuẩn đường hô hấp trên và tiết niệu (12 gói x 3.2g)",
+  "short_title": "AUGBACTAM 562.5 PHA HỖN DỊCH UỐNG MEKOPHAR 12 GÓI x 3,2G",
+  "brand": {
+    "name": "Mekophar",
+    "slug": "thuong-hieu/mekophar",
+    "country": ""
+  },
+  "category": {
+    "slug": "thuoc/thuoc-khang-sinh-khang-nam/thuoc-khang-sinh",
+    "name": "Thuốc kháng sinh",
+    "parent_slug": "thuoc/thuoc-khang-sinh-khang-nam"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Gói",
+  "pack_note": "12 Gói x 3.2g",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/agubactam_44dc4b4b56.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/agubactam_44dc4b4b56.jpg"
+  ],
+  "origin_label": "",
+  "country": "",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Cốm pha hỗn dịch uống",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Augbactam 562,5 là sản phẩm của Công ty cổ phần hoá-dược phẩm Mekophar dùng trong điều trị viêm Amidan, viêm xoang, viêm tai giữa, viêm phế quản cấp và mãn, viêm phổi – phế quản, viêm bàng quang, viêm niệu đạo, viêm bể thận, mụn nhọt, áp xe, nhiễm khuẩn vết thương...</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Augbactam 562,5 chỉ định điều trị nhiễm khuẩn trong điều trị viêm Amidan, viêm xoang, viêm tai giữa, viêm phế quản cấp và mãn, viêm phổi – phế quản, viêm bàng quang, viêm niệu đạo, viêm bể thận, mụn nhọt, áp xe, nhiễm khuẩn vết thương...</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 59883,
+      "ingredientId": 41860,
+      "shortDescription": "500mg",
+      "name": "Amoxicilin",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 59884,
+      "ingredientId": 15060,
+      "shortDescription": "62.5mg",
+      "name": "Clavulanic acid",
+      "isPrimary": false,
+      "slug": "thanh-phan/clavulanic-acid"
+    }
+  ],
+  "stock_qty": 0
+}

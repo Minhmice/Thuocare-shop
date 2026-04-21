@@ -1,0 +1,48 @@
+{
+  "id": "00006906",
+  "slug": "thuoc/stiros-125mg-2170.html",
+  "title": "Thuốc Stiros Binex điều trị các bệnh đau xương khớp (10 vỉ x 10 viên)",
+  "short_title": "STIROS 125 BINEX 10X10",
+  "brand": {
+    "name": "Binex",
+    "slug": "thuong-hieu/binex",
+    "country": "Hoa Kỳ"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem/thuoc-giam-dau-khang-viem",
+    "name": "Thuốc giảm đau kháng viêm",
+    "parent_slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006906_stiros_125mg_3363_5b18_large_4089b32eb3.JPG",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006906_stiros_125mg_3363_5b18_large_4089b32eb3.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006906_stiros_125mg_2798_5b18_large_f339bf3a6b.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006906_stiros_125mg_1481_5b18_large_79cecdd2cc.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006906_stiros_125mg_3339_5b18_large_2d1d050bab.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006906_stiros_125mg_3355_5b18_large_1dc28c543a.JPG"
+  ],
+  "origin_label": "Hoa Kỳ",
+  "country": "Hoa Kỳ",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p><strong>Stiros</strong> sản xuất bởi <em>Binex Co.,Ltd (Hàn Quốc)</em>, chứa clonixin có tác dụng điều trị các bệnh đau xương khớp, đau răng, đau đầu.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p><strong>Thuốc Stiros</strong> được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li><strong><a href=\"https://nhathuoclongchau.com.vn/benh/viem-khop-dang-thap-254.html\">Viêm khớp dạng thấp</a></strong>, đau cơ, đau dây thần kinh, đau âm ỉ sau chấn thương và sau phẫu thuật.</li>\n\t<li>Đau đầu, đau răng, đau tai, <strong><a href=\"https://nhathuoclongchau.com.vn/benh/dau-bung-kinh-567.html\">đau bụng kinh</a></strong>.</li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p>Clonixin lysinat là thuốc giảm đau kháng viêm không steroid, một dẫn xuất của acid nicotinic có tác dụng kháng viêm, giảm đau.</p>\n\n<h3>Dược động học</h3>\n\n<p>Khi uống Stiros, thuốc hấp thu nhanh, đạt nồng độ tối đa sau 1 giờ. Sau 24 giờ, 62% lượng thuốc được đào thải qua nước tiểu và hơn 1% trong phân. Sau 120 giờ, hơn 80% được đào thải qua nước tiểu và phân. Clonixin là hợp chất chính được tìm thấy trong huyết tương cho đến 6 giờ sau khi dùng thuốc nhưng clonixin, 4-OH clonixin và 5-OH clonixin là những hợp chất chính được bài tiết qua nước tiểu từ 0-24 giờ.</p>",
+  "ingredients_html": [
+    {
+      "id": 23361,
+      "ingredientId": 15162,
+      "shortDescription": "125mg",
+      "name": "Clonixin",
+      "isPrimary": false,
+      "slug": "thanh-phan/clonixin"
+    }
+  ],
+  "stock_qty": 0
+}

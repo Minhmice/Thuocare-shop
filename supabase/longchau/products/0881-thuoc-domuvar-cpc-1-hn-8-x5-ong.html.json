@@ -1,0 +1,50 @@
+{
+  "id": "00046085",
+  "slug": "thuoc/domuvar-cpc-1-hn-8-x5-ong.html",
+  "title": "Thuốc Domuvar CPC1 điều trị và phòng ngừa rối loạn hệ vi sinh vật đường ruột (8 vỉ x 5 ống)",
+  "short_title": "DOMUVAR CPC1HN 8X5 ỐNG",
+  "brand": {
+    "name": "CPC1HN",
+    "slug": "thuong-hieu/cpc1hn",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tieu-hoa",
+    "name": "Thuốc tiêu hoá",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 6500,
+  "compare_at_amount": 0,
+  "unit": "Ống",
+  "pack_note": "5 Ống",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00413_9fcd2c450b.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00413_9fcd2c450b.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00419_da0b9ae8c1.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00415_890cf486c4.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00417_536fb97844.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/domuvar_1_68d3681ac1.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/domuvar_2_5886b860f1.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00418_275131e80f.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Hỗn dịch uống",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Domuvar dùng trong điều trị chứng loạn khuẩn đường ruột và các biểu hiện lâm sàng của nó, đặc biệt ở trẻ sơ sinh (ví dụ như tiêu chảy). Liệu pháp bổ trợ để phục hồi hệ vi sinh vật đường ruột bị thay đổi trong quá trình điều trị bằng kháng sinh hoặc hóa trị liệu.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Domuvar chỉ định điều trị trong các trường hợp sau:</p><ul><li>Điều trị chứng loạn khuẩn đường ruột và các biểu hiện lâm sàng của nó, đặc biệt ở trẻ sơ sinh (ví dụ như tiêu chảy).</li><li>Liệu pháp bổ trợ để phục hồi hệ vi sinh vật đường ruột bị thay đổi trong quá trình điều trị bằng kháng sinh hoặc hóa trị liệu.</li></ul><h3>Dược lực học</h3><p><strong>Nhóm dược lý: Vi sinh vật chống tiêu chảy</strong></p><p><strong>Mã ATC: A07FA49</strong></p><p>Thử nghiệm lâm sàng của Bacillus subtilis bắt đầu từ những năm 1960 và trong những năm này, người ta đã nhận thấy rằng Bacillus subtilis đại diện cho liệu pháp \"thay thế vi sinh vật đường ruột\" về hiệu quả điều trị.</p><p>Bacillus subtilis không chỉ góp phần phục hồi quá trình tổng hợp ở đường ruột mà còn điều chỉnh lại các hội chứng rối loạn tiêu hóa có biểu hiện hoặc không có biểu hiện, do kháng sinh hoặc hóa trị liệu hoặc do các vấn đề trong chế độ ăn uống. Thuốc có khả năng kháng cao với kháng sinh và do đó, ngăn chặn sự phá hủy hệ vi sinh vật đường ruột sau tác động chọn lọc của kháng sinh.</p><p>Mức độ đề kháng của Bacillus subtilis như sau:</p><ul><li>Penicillin 10 I.U./ml.</li><li>Dicloxacillin 10 µg/ml.</li><li>Tobramycin 10 µg/ml.</li><li>Cefazolin 20 µg/ml.</li><li>Tetracyclin 100 µg/ml.</li><li>Cloramphenicol 100 µg/ml.</li><li>Cycloserin 100 µg/ml.</li><li>Isoniazid 100 µg/ml.</li><li>Streptomycin 1000 µg/ml.</li><li>Neomycin 1000 µg/ml.</li><li>Sulfonamid 1000 µg/ml.</li></ul><h3>Dược động học</h3><p>Bacillus subtilis được sử dụng đường uống, nhờ vào đặc điểm hình thái và sinh hóa của dạng bào tử, Bacillus subtilis vượt qua hàng rào dạ dày vào ruột mà không bị tổn thương, sau đó bào tử chuyển thành các dạng tế bào sinh dưỡng để Bacillus subtilis thực hiện các hoạt động trao đổi chất và các hoạt động của enzym, tái tạo lại hệ vi sinh vật.</p>",
+  "ingredients_html": [
+    {
+      "id": 61835,
+      "ingredientId": 10166,
+      "shortDescription": "2 x 10^9cfu",
+      "name": "Bacillus subtilis",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

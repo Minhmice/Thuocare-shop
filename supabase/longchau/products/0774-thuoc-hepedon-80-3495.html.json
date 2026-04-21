@@ -1,0 +1,46 @@
+{
+  "id": "00003715",
+  "slug": "thuoc/hepedon-80-3495.html",
+  "title": "Thuốc Hepedon 80mg Hankook hỗ trợ tăng cường sức đề kháng của cơ thể (10 vỉ x 10 viên)",
+  "short_title": "HEPEDON 80 10X10",
+  "brand": {
+    "name": "HANKOOK",
+    "slug": "thuong-hieu/hankook",
+    "country": "Hàn Quốc"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-tang-cuong-suc-de-khang",
+    "name": "Thuốc tăng cường sức đề kháng",
+    "parent_slug": "thuoc/thuoc-bo-and-vitamin"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00003715_hepedon_80_4487_60a3_large_1d6663ea62.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003715_hepedon_80_4487_60a3_large_1d6663ea62.jpg"
+  ],
+  "origin_label": "Hàn Quốc",
+  "country": "Hàn Quốc",
+  "badge": null,
+  "benefit_tag": [
+    "Tăng sức đề kháng"
+  ],
+  "format_tag": "Viên nang cứng",
+  "trust_label": null,
+  "short_description": "<p style=\"text-align:justify;\">Hepedon có chứa thành phần chính là thymomodulin. Đây là thuốc&nbsp;được chỉ định để hỗ trợ tăng cường sức đề kháng của cơ thể.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p>Thuốc Hepedon được chỉ định dùng trong các trường hợp sau: Bổ sung thymomodulin, hỗ trợ tăng cường sức đề kháng của cơ thể.</p>\n\n<p>Đối tượng sử dụng:</p>\n\n<ul>\n\t<li>\n\t<p>Người thể trạng yếu, sức đề kháng kém.</p>\n\t</li>\n\t<li>\n\t<p>Người hay bị viêm đường hô hấp khi thay đổi thời tiết, giao mùa do sức đề kháng kém.</p>\n\t</li>\n</ul>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Thymomodulin là 1 chế phẩm có bản chất là các protein có hoạt tính sinh học cao được chiết xuất và tinh chế từ hormone tuyến ức của con bò non bằng kỹ thuật sinh học hiện đại. Các thử nghiệm lâm sàng quy mô trên người với thymomodulin cho thấy thuốc này có thể cải thiện triệu chứng lâm sàng trong nhiều quá trình bệnh khác nhau như: Nhiễm trùng, dị ứng và các bệnh ác tính và cải thiện chức năng miễn dịch ở người già.</p>\n\n<p>Thymomodulin được chứng minh là làm tăng rõ rệt số lượng bạch cầu. Đặc biệt là tăng đáng kể số lượng lympho-T tế bào miễn dịch quan trọng nhất của cơ thể. Hơn nữa thymomodulin có khả năng kích thích tủy xương sản sinh kháng thể, thúc đẩy thành lập phức hợp miễn dịch giúp cơ thể chống lại tác nhân gây bệnh.</p>\n\n<p>Thymomodulin được chỉ định trên lâm sàng để điều trị cho bệnh nhân thiếu hụt sự sản sinh kháng thể, khả năng miễn dịch kém. Thymomodulin cũng được chỉ định để điều hòa khả năng miễn dịch tủy xương và hỗ trợ điều trị trong các trường hợp nhiễm trùng do vi khuẩn, virus viêm nhiễm đường hô hấp, viêm gan,…Đặc biệt, thymomodulin được chỉ định cho bệnh nhân ung thư để làm giảm các tác dụng không mong muốn do hóa trị.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Chưa ghi nhận.</p>",
+  "ingredients_html": [
+    {
+      "id": 21737,
+      "ingredientId": 38448,
+      "shortDescription": "80mg",
+      "name": "Thymomodulin",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

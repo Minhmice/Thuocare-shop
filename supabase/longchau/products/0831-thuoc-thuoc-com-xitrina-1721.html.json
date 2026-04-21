@@ -1,0 +1,48 @@
+{
+  "id": "00008142",
+  "slug": "thuoc/thuoc-com-xitrina-1721.html",
+  "title": "Thuốc cốm Xitrina Vidipha dùng cho ăn không tiêu, đau dạ dày, ói mửa (55g)",
+  "short_title": "XITRINA VDP 55G",
+  "brand": {
+    "name": "Vidipha",
+    "slug": "thuong-hieu/vidipha",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tieu-hoa",
+    "name": "Thuốc tiêu hoá",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Chai",
+  "pack_note": "Chai x 55g",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00008142_thuoc_com_xitrina_4248_5ba4_large_27fad9c7f8.JPG",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00008142_thuoc_com_xitrina_4248_5ba4_large_27fad9c7f8.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00008142_thuoc_com_xitrina_2679_5ba4_large_b7db986f40.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00008142_thuoc_com_xitrina_4444_5ba4_large_2a77925446.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00008142_thuoc_com_xitrina_6988_5ba4_large_8ec37d7677.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00008142_thuoc_com_xitrina_9764_5ba4_large_9e32ab0add.JPG"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Cốm sủi bọt",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Cốm Xitrina của Công ty Cổ phần Dược phẩm Trung ương Vidipha, với thành phần chính gồm hỗn hợp muối natri citrat, dùng để kích thích tiêu hóa. Thuốc được bào chế dưới dạng cốm, mỗi chai 55 g chứa hỗn hợp muối natri citrat 9.16 g.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p><em>Công dụng</em></p>\n\n<p>Kích thích tiêu hóa. </p>\n\n<p><em>Đối tượng sử dụng</em></p>\n\n<ul>\n\t<li>\n\t<p>Trẻ sơ sinh ọc sữa, ăn không tiêu. </p>\n\t</li>\n\t<li>\n\t<p>Người lớn đau dạ dày, ói mửa. </p>\n\t</li>\n\t<li>\n\t<p>Chống thừa acid.</p>\n\t</li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p>Chưa có báo cáo.</p>\n\n<h3>Dược động học</h3>\n\n<p>Chưa có báo cáo.</p>",
+  "ingredients_html": [
+    {
+      "id": 23857,
+      "ingredientId": 42390,
+      "shortDescription": "9.16g",
+      "name": "Hỗn hợp muối Natri citrat",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

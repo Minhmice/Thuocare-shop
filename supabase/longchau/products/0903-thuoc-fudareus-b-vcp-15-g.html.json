@@ -1,0 +1,52 @@
+{
+  "id": "00038671",
+  "slug": "thuoc/fudareus-b-vcp-15-g.html",
+  "title": "Kem Fudareus-B 15g Vcp điều trị các tình trạng chàm da như chàm ở trẻ nhỏ, chàm đầu",
+  "short_title": "FUDAREUS-B VCP 15G",
+  "brand": {
+    "name": "Vcp",
+    "slug": "thuong-hieu/vcp",
+    "country": ""
+  },
+  "category": {
+    "slug": "thuoc/thuoc-da-lieu/thuoc-boi-ngoai-da",
+    "name": "Thuốc bôi ngoài da",
+    "parent_slug": "thuoc/thuoc-da-lieu"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp x 15g",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00038671_FUDAREUS_B_VCP_15_G_fac159b4bd.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00038671_FUDAREUS_B_VCP_15_G_fac159b4bd.png"
+  ],
+  "origin_label": "",
+  "country": "",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dạng kem",
+  "trust_label": null,
+  "short_description": "<p>Kem bôi da Fudareus-B là sản phẩm của Công ty Cổ phần Dược phẩm VCP với thành phần chính là Acid Fusidic, Betamethason. Kem bôi da Fudareus-B có tác dụng điều trị các tình trạng chàm da như chàm ở trẻ nhỏ, chàm đầu, chàm đồng tiền, chàm tiếp xúc,…</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Kem bôi da Fudareus-B được chỉ định dùng trong các trường hợp sau:</p><ul><li>Eczema (chàm), bao gồm chàm dị ứng, chàm ở trẻ em và chàm (eczema) thể đồng tiền, chàm da đầu, chàm do tiếp xúc, viêm da tăng tiết bã nhờn khi nghi ngờ có kèm nhiễm trùng.</li></ul><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 54223,
+      "ingredientId": 7431,
+      "shortDescription": "2%",
+      "name": "Acid fusidic",
+      "isPrimary": false,
+      "slug": "thanh-phan/acid-fusidic"
+    },
+    {
+      "id": 54224,
+      "ingredientId": 10838,
+      "shortDescription": "0.1%",
+      "name": "Betamethasone",
+      "isPrimary": false,
+      "slug": "thanh-phan/betamethasone"
+    }
+  ],
+  "stock_qty": 0
+}

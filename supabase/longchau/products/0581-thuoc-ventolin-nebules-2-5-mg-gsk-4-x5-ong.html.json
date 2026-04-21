@@ -1,0 +1,50 @@
+{
+  "id": "00050895",
+  "slug": "thuoc/ventolin-nebules-2-5-mg-gsk-4-x5-ong.html",
+  "title": "Dung dịch khí dung Ventolin Nebules 2.5mg GSK điều trị, ngăn ngừa co thắt phế quản (4 vỉ x 5 ống)",
+  "short_title": "VENTOLIN NEBULES 2.5MG GSK 4X5 ỐNG",
+  "brand": {
+    "name": "Gsk",
+    "slug": "thuong-hieu/gsk",
+    "country": "Anh"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-ho-hap/thuoc-tri-hen-suyen",
+    "name": "Thuốc trị hen suyễn",
+    "parent_slug": "thuoc/thuoc-ho-hap"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Ống",
+  "pack_note": "5 Ống x 2.5mg",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/dung_dich_khi_dung_ventolin_nebules_2_5mg_gsk_00050895_1_0ce9a2121b.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/dung_dich_khi_dung_ventolin_nebules_2_5mg_gsk_00050895_1_0ce9a2121b.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/dung_dich_khi_dung_ventolin_nebules_2_5mg_gsk_00050895_2_d1e721d3a2.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/dung_dich_khi_dung_ventolin_nebules_2_5mg_gsk_00050895_4_4d80bbbc8d.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/dung_dich_khi_dung_ventolin_nebules_2_5mg_gsk_00050895_3_0806aba4a8.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/dung_dich_khi_dung_ventolin_nebules_2_5mg_gsk_00050895_5_3f7af76434.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/dung_dich_khi_dung_ventolin_nebules_2_5mg_gsk_00050895_6_fd7f84618d.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/dung_dich_khi_dung_ventolin_nebules_2_5mg_gsk_00050895_7_f633b6e7d1.jpg"
+  ],
+  "origin_label": "Anh",
+  "country": "Anh",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch khí dung",
+  "trust_label": null,
+  "short_description": "<p>Ventolin Nebules 2.5mg/2.5ml chứa hoạt chất Salbutamol là chất đồng vận chọn lọc trên thụ thể adrenergic beta<sub>2</sub> được chỉ định để điều trị hoặc ngăn ngừa co thắt phế quản. Điều trị hen nặng cấp tính (cơn hen ác tính).</p>",
+  "description_html": "",
+  "usage_html": "<p>Ventolin Nebules 2.5mg/2.5ml chứa hoạt chất Salbutamol là chất đồng vận chọn lọc trên thụ thể adrenergic beta<sub>2</sub> được chỉ định để điều trị hoặc ngăn ngừa co thắt phế quản. Thuốc có tác dụng giãn phế quản ngắn (4 giờ) trong tắc nghẽn đường thở có khả năng hồi phục do hen, viêm phế quản mạn tính và khí phế thũng. Với những bệnh nhân hen, Salbutamol có thể làm giảm triệu chứng khi xảy ra cơn hen và phòng ngừa trước các tình huống đã biết sẽ khởi phát cơn hen.</p><p>Đối với những bệnh nhân hen dai dằng, thuốc giãn phế quản không nên được sử dụng như là thuốc điều trị duy nhất hoặc như là thuốc điều trị chủ yếu. Đối với những bệnh nhân hen dai dẳng không đáp ứng với Ventolin, cần phải điều trị bằng corticosteroid dạng hít để đạt được và duy trì kiểm soát. Việc không đáp ứng với điều trị bằng Ventolin có thể là dấu hiệu bệnh nhân cần được đánh giá y khoa hoặc điều trị khẩn cấp.</p><p>Ventolin Nebules được chỉ định để:</p><ul><li>Kiểm soát thường xuyên co thắt phế quản mạn - không đáp ứng với điều trị quy ước.</li><li>Điều trị hen nặng cấp tính (cơn hen ác tính).</li></ul>",
+  "ingredients_html": [
+    {
+      "id": 23728,
+      "ingredientId": 35351,
+      "shortDescription": "2.5mg",
+      "name": "Salbutamol",
+      "isPrimary": false,
+      "slug": "thanh-phan/salbutamol"
+    }
+  ],
+  "stock_qty": 0
+}

@@ -1,0 +1,54 @@
+{
+  "id": "00050108",
+  "slug": "thuoc/povidone-10-agimexpharm-20-ml.html",
+  "title": "Povidone 10% Agimex 20ML sát trùng vết thương hay phẫu thuật, vết loét sâu",
+  "short_title": "POVIDONE 10% AGIMEXPHARM 20ML",
+  "brand": {
+    "name": "Agimexpharm",
+    "slug": "thuong-hieu/agimexpharm",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-da-lieu/thuoc-sat-khuan",
+    "name": "Thuốc sát khuẩn",
+    "parent_slug": "thuoc/thuoc-da-lieu"
+  },
+  "price_amount": 6000,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp x 20ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03049_44e70be37a.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03049_44e70be37a.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03044_6a7add1b61.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03045_b6e87c37e2.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03046_245259dc03.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03047_a25ca8d693.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03048_38ec992b17.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03050_f784a3bb4d.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03051_701104bb1e.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03052_074c4ed0c2.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/POVIDONE_1_12866941e0.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/POVIDONE_2_e09f9053ad.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch dùng ngoài",
+  "trust_label": null,
+  "short_description": "<p>Povidone là sản phẩm của Agimexpharm, có thành phần chính là Povidon Iod. Đây là thuốc được sử dụng để khử khuẩn và sát khuẩn các vết thương do chấn thương hay phẫu thuật, vết loét sâu; lau rửa các dụng cụ y tế trước khi tiệt khuẩn.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\"><a href=\"https://nhathuoclongchau.com.vn/thuoc/povidone-10-agimexpharm-20-ml.html\">Povidone</a> được chỉ định dùng trong các trường hợp sau:</p><ul><li>Khử khuẩn và sát khuẩn các vết thương do chấn thương hay <a href=\"https://nhathuoclongchau.com.vn/bai-viet/tim-hieu-phau-thuat-la-gi-cac-buoc-chuan-bi-va-quy-trinh-thuc-hien.html\">phẫu thuật</a>, vết loét sâu.</li><li>Lau rửa các dụng cụ y tế trước khi tiệt khuẩn.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p><strong>Nhóm dược lý: Thuốc sát trùng và khử trùng.</strong></p><p><strong>Mã ATC: D08AG02.</strong></p><p>Povidon iod khi bôi lên niêm mạc sẽ phóng thích iod tự do có tính sát trùng mạnh do có tính oxy hóa. Ngoài ra còn có tác dụng diệt nấm nên được dùng để chữa một số bệnh ngoài da.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Thuốc dùng ngoài có tác dụng trực tiếp trên vi khuẩn, tế bào nấm và được đào thải ở bề mặt niêm mạc.</p>",
+  "ingredients_html": [
+    {
+      "id": 72357,
+      "ingredientId": 42107,
+      "shortDescription": "10%",
+      "name": "Povidon Iod",
+      "isPrimary": true,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

@@ -1,0 +1,52 @@
+{
+  "id": "00047632",
+  "slug": "thuoc/cedipect-imexpharm-5-x10.html",
+  "title": "Thuốc Cedipect Imexpharm giảm triệu chứng ho, long đờm (5 vỉ x 10 viên)",
+  "short_title": "CEDIPECT IMEXPHARM 5X10",
+  "brand": {
+    "name": "Imexpharm",
+    "slug": "thuong-hieu/imexpharm",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-ho-hap/thuoc-tri-ho-cam",
+    "name": "Thuốc trị ho cảm",
+    "parent_slug": "thuoc/thuoc-ho-hap"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00047632_daefe569f8.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00047632_daefe569f8.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang mềm",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Cedipect là sản phẩm của Công ty Cổ phần Dược phẩm Imexpharm có chứa hoạt chất Codein, Glyceryl guaiacolate giúp làm giảm triệu chứng ho và giúp long đàm.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Cedipect chỉ định điều trị trong các trường hợp làm giảm triệu chứng ho và giúp long đàm.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 33877,
+      "ingredientId": 15491,
+      "shortDescription": "10mg",
+      "name": "Codein",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 33878,
+      "ingredientId": 21456,
+      "shortDescription": "100mg",
+      "name": "Glyceryl guaiacolate",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

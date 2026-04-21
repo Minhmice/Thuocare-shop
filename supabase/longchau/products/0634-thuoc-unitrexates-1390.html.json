@@ -1,0 +1,35 @@
+{
+  "id": "00010105",
+  "slug": "thuoc/unitrexates-1390.html",
+  "title": "Thuốc Unitrexates 2.5mg United điều trị ung thư lá nuôi, bệnh bạch cầu, viêm khớp dạng thấp (10 vỉ x 10 viên)",
+  "short_title": "UNITREXATES 2.5 KOREA UNITED 10X10",
+  "brand": {
+    "name": "Korea United",
+    "slug": "thuong-hieu/korea-united",
+    "country": "Hàn Quốc"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-dieu-tri-ung-thu/thuoc-chong-ung-thu",
+    "name": "Thuốc chống ung thư",
+    "parent_slug": "thuoc/thuoc-dieu-tri-ung-thu"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00010105_af8d7dad5a.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00010105_af8d7dad5a.jpg"
+  ],
+  "origin_label": "Hàn Quốc",
+  "country": "Hàn Quốc",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén",
+  "trust_label": null,
+  "short_description": "<p>Unitrexates điều trị ung thư lá nuôi (Ung thư dạ con, u tuyến màng đệm, chửa trứng), bệnh bạch cầu. Viêm khớp dạng thấp. Bệnh vảy nến dạng nặng mà các phương pháp điều trị khác không đáp ứng được.</p>",
+  "description_html": "",
+  "usage_html": "<ul><li>\n\t<p>Ung thư lá nuôi (Ung thư dạ con, u tuyến màng đệm, chửa trứng), bệnh bạch cầu.</p>\n\t</li>\n\t<li>\n\t<p>Viêm khớp dạng thấp.</p>\n\t</li>\n\t<li>\n\t<p>Bệnh vảy nến dạng nặng mà các phương pháp điều trị khác không đáp ứng được.</p>\n\t</li>\n</ul>",
+  "ingredients_html": "<p><meta charset=\"utf-8\" /></p>\r\n\r\n<ul>\r\n\t<li dir=\"ltr\">\r\n\t<p dir=\"ltr\">Dược chất ch&iacute;nh: Methotrexate</p>\r\n\t</li>\r\n\t<li dir=\"ltr\">\r\n\t<p dir=\"ltr\">Loại thuốc: Thuốc điều trị ung thư</p>\r\n\t</li>\r\n\t<li dir=\"ltr\">\r\n\t<p dir=\"ltr\">Dạng thuốc, h&agrave;m lượng: &nbsp;Vi&ecirc;n n&eacute;n; 2,5mg</p>\r\n\t</li>\r\n</ul>",
+  "stock_qty": 0
+}

@@ -1,0 +1,44 @@
+{
+  "id": "00050696",
+  "slug": "thuoc/canpaxel-150-mg-bidiphar-25-ml.html",
+  "title": "Dung dịch tiêm Canpaxel 150mg Điều trị ung thư buồng trứng, ung thư vú Hộp 25ml",
+  "short_title": "CANPAXEL 150MG BIDIPHAR 25ML",
+  "brand": {
+    "name": "Bidiphar",
+    "slug": "thuong-hieu/bidiphar",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-dieu-tri-ung-thu/thuoc-chong-ung-thu",
+    "name": "Thuốc chống ung thư",
+    "parent_slug": "thuoc/thuoc-dieu-tri-ung-thu"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp x 25ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/canpaxel_150_1651350168_68ee140b99.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/canpaxel_150_1651350168_68ee140b99.png"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch đậm đặc để pha dung dịch tiêm truyền",
+  "trust_label": null,
+  "short_description": "<p>Canpaxel 150 dùng trong các trường hợp điều trị ung thư buồng trứng, ung thư vú.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Canpaxel 150 dùng trong các trường hợp điều trị ung thư buồng trứng, ung thư vú.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 73053,
+      "ingredientId": 31346,
+      "shortDescription": "150mg",
+      "name": "Paclitaxel",
+      "isPrimary": false,
+      "slug": "thanh-phan/paclitaxel"
+    }
+  ],
+  "stock_qty": 0
+}

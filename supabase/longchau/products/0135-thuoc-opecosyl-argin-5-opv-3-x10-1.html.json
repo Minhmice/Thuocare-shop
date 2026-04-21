@@ -1,0 +1,44 @@
+{
+  "id": "00045072",
+  "slug": "thuoc/opecosyl-argin-5-opv-3-x10-1.html",
+  "title": "Thuốc OpeCosyl Argin 5 OPV điều trị tăng huyết áp, suy tim sung huyết, bệnh động mạch vành ổn định",
+  "short_title": "OPECOSYL ARGIN 5 OPV 3X10",
+  "brand": {
+    "name": "Opv",
+    "slug": "thuong-hieu/opv",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap",
+    "name": "Thuốc tim mạch huyết áp",
+    "parent_slug": "thuoc/thuoc-tim-mach-and-mau"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/dt_opecosyl_argin_5_opv_thuoc_dieu_tri_tang_huyet_ap_jpg_7d815b5cce.webp",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/dt_opecosyl_argin_5_opv_thuoc_dieu_tri_tang_huyet_ap_jpg_7d815b5cce.webp"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén",
+  "trust_label": null,
+  "short_description": "<p>Thuốc OpeCosyl Argin 5 là sản phẩm của Công ty Cổ phần Dược phẩm OPV chứa hoạt chất Perindopril arginin dùng trong điều trị tăng huyết áp, suy tim sung huyết, bệnh động mạch vành ổn định: Giảm nguy cơ biến cố tim mạch ở bệnh nhân có tiền sử nhồi máu cơ tim và/hoặc tái thông mạch vành.</p><p>&nbsp;</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc OpeCosyl Argin 5 chỉ định điều trị trong các trường hợp sau:</p><ul><li>Tăng huyết áp.</li><li>Suy tim sung huyết.</li><li>Bệnh động mạch vành ổn định: Giảm nguy cơ biến cố tim mạch ở bệnh nhân có tiền sử nhồi máu cơ tim và/hoặc tái thông mạch vành.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 63614,
+      "ingredientId": 41756,
+      "shortDescription": "5mg",
+      "name": "Perindopril arginine",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

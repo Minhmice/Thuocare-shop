@@ -1,0 +1,44 @@
+{
+  "id": "00032925",
+  "slug": "thuoc/drenoxol-laboratorios-4-vi-x-5-ong-10ml-33042.html",
+  "title": "Siro uống Drenoxol Laboratorios điều trị bệnh đường hô hấp, viêm phế quản, hen phế quản (4 vỉ x 5 ống)",
+  "short_title": "DRENOXOL LABORATORIOS 4 VỈ X 5 ỐNG 10ML",
+  "brand": {
+    "name": "Laboratorios Vitoria",
+    "slug": "thuong-hieu/laboratorios-vitoria",
+    "country": "Bồ Đào Nha"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-ho-hap/siro-tri-ho-cam",
+    "name": "Siro trị ho cảm",
+    "parent_slug": "thuoc/thuoc-ho-hap"
+  },
+  "price_amount": 180000,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 4 Vỉ x 5 Ống",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00032925_drenoxol_laboratorios_4_vi_x_5_ong_10ml_9926_61a5_large_8e986522cf.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00032925_drenoxol_laboratorios_4_vi_x_5_ong_10ml_9926_61a5_large_8e986522cf.jpg"
+  ],
+  "origin_label": "Bồ Đào Nha",
+  "country": "Bồ Đào Nha",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Siro",
+  "trust_label": null,
+  "short_description": "<p>Siro uống Drenoxol là sản phẩm của Laboratorios Vitoria, S.A có thành phần chính là Ambroxol hydrochlorid có hiệu quả trong điều trị các bệnh cấp và mãn tính của đường hô hấp có liên quan đến sự tiết bất thường của phế quản và sự vận chuyển chất nhầy bị suy giảm, đặc biệt là viêm phế quản mãn, viêm phế quản dạng hen và hen phế quản.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p>Siro uống Drenoxol chỉ định điều trị trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Các bệnh cấp và mãn tính của đường hô hấp có liên quan đến sự tiết bất thường của phế quản và sự vận chuyển chất nhầy bị suy giảm, đặc biệt là <a href=\"https://nhathuoclongchau.com.vn/benh/viem-phe-quan-man-tinh-179.html\">viêm phế quản mãn</a>, viêm phế quản dạng hen và hen phế quản.</li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p>Ambroxol hydrochloride thuộc nhóm thuốc long đờm.</p>\n\n<p>Mã ATC: R05CB06.</p>\n\n<p>Ambroxol hydrochloride là một chất dẫn xuất của bromhexine, một chất tan đờm. Thuốc có tác dụng kích thích tuyến nhầy tiết dịch, và cắt đứt hệ acid glycoprotein trong đờm nhầy khiến đờm bớt nhầy dính hơn.</p>\n\n<p>Ambroxol hydrochloride giúp kích thích lông nhầy hoạt động và gia tăng khả năng làm sạch của lông nhầy, làm cho việc khạc đờm loãng trở nên dễ dàng hơn.</p>\n\n<h3>Dược động học</h3>\n\n<p><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/ambroxol\">Ambroxol</a> được hấp thu nhanh chóng và gần như hoàn toàn sau khi uống và đạt nồng độ tối đa trong huyết tương trong khoảng từ 1 đến 3 giờ.</p>\n\n<p>Sinh khả dụng tuyệt đối giảm khoảng 1/3 sau khi uống, do bị chuyển hóa lần đầu qua gan. Ambroxol khuếch tán nhanh từ máu đến mô và đạt nồng độ cao nhất trong phổi. Thuốc liên kết với protein huyết tương khoảng 85% và thời gian bán thải của thuốc trong huyết tương từ 7 đến 12 giờ.</p>\n\n<p>Ambroxol được chuyển hóa chủ yếu ở gan. Các sản phẩm chuyển hóa của thuốc (ví dụ acid dibromoanthranilic và các chất liên hợp glucuronid) được đào thải chủ yếu qua thận (~ 90%). Dưới 10% thuốc được đào thải qua thận ở dạng không chuyển hóa.</p>\n\n<p>Thuốc được thải trừ chậm qua đường thẩm tách hoặc tiểu tiện cưỡng bách vì ambroxol gắn mạnh với protein ở mô, thuốc có thể tích phân bổ lớn và thể tích tái phân bố từ mô vào máu ít.</p>\n\n<p>Trong trường hợp suy gan nặng, sự bài tiết ambroxol giảm từ 20 đến 40%.</p>\n\n<p>Ở những bệnh nhân suy thận nặng, thời gian bán thải các chất chuyển hóa của ambroxol kéo dài.</p>\n\n<p>Ambroxol qua hàng rào máu não và nhau thai, thuốc cũng được tìm thấy trong sữa mẹ.</p>",
+  "ingredients_html": [
+    {
+      "id": 48062,
+      "ingredientId": 8700,
+      "shortDescription": "30mg",
+      "name": "Ambroxol hydroclorid",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

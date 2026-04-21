@@ -1,0 +1,53 @@
+{
+  "id": "00049515",
+  "slug": "thuoc/nadypharlax-10-g-nadyphar-20-goi.html",
+  "title": "Thuốc NadypharLax 10g Nadyphar điều trị chứng táo bón ở người lớn (Hộp 20 gói)",
+  "short_title": "NADYPHARLAX 10G NADYPHAR 20 GÓI",
+  "brand": {
+    "name": "Nadyphar",
+    "slug": "thuong-hieu/nadyphar",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-tao-bon",
+    "name": "Thuốc trị táo bón",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 3720,
+  "compare_at_amount": 0,
+  "unit": "Gói",
+  "pack_note": "20 Gói x 10g",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_01332_fc08f69c5d.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_01332_fc08f69c5d.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_01327_77f795f50e.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_01328_ed22b9d44e.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_01329_876fc9a17f.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_01330_bc41bc6768.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_01331_6e5975faf7.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_01333_efa8d85d0a.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_01334_1abd9fc2bd.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/nady_pharlax_1_d07dac0612.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/nady_pharlax_2_acfed6aa1b.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Thuốc bột uống",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Nadypharlax dùng trong điều trị chứng táo bón ở người lớn. Thuốc có thể dùng cho bệnh nhân tiểu đường, phụ nữ có thai và cho con bú.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Nadypharlax dùng trong điều trị chứng táo bón ở người lớn. Thuốc có thể dùng cho bệnh nhân tiểu đường, phụ nữ có thai và cho con bú.</p><h3>Dược lực học</h3><p>Macrogol 4000 (Polyethylen glycol 4000) có công thức: H.(CH<sub>2</sub>.O.CH<sub>2</sub>).OH là hợp chất cao phân tử (Polymer) của ethylen oxyd và nước. Macrogol 4000 là polyme phân tử lớn, trọng lượng phân tử khoảng 4000, ở dạng rắn cứng như sáp, tan trong nước và cồn.</p><p>Dung dịch Macrogol 4000 khi uống vào làm tăng lượng nước trong ruột, không hấp thu theo đường tiêu hóa dạ dày - ruột, có tính nhuận tràng.</p><h3>Dược động học</h3><p>Dung dịch Macrogol 4000 khi uống vào đường tiêu hóa không bị hấp thu và cũng không bị chuyển hóa, được bài xuất theo phân ra ngoài ở dạng không đổi.</p>",
+  "ingredients_html": [
+    {
+      "id": 71671,
+      "ingredientId": 26265,
+      "shortDescription": "10g",
+      "name": "Macrogol 4000",
+      "isPrimary": true,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

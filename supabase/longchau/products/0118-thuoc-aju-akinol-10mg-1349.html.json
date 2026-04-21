@@ -1,0 +1,51 @@
+{
+  "id": "00010235",
+  "slug": "thuoc/aju-akinol-10mg-1349.html",
+  "title": "Thuốc Aju Akinol điều trị mụn trứng cá nang sần (3 vỉ x 10 viên)",
+  "short_title": "AJU AKINOL 10 PHIL 3X10",
+  "brand": {
+    "name": "Phil",
+    "slug": "thuong-hieu/phil",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-da-lieu/thuoc-tri-mun",
+    "name": "Thuốc trị mụn",
+    "parent_slug": "thuoc/thuoc-da-lieu"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00010235_aju_akinol_10mg_1890_6425_large_33a3053d84.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00010235_aju_akinol_10mg_1890_6425_large_33a3053d84.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00010235_aju_akinol_10mg_1680159901_abc16859f4.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00010235_aju_akinol_10mg_8446_6425_large_a32a993e26.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00010235_aju_akinol_10mg_1410_6425_large_8fd0eedf6a.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00010235_aju_akinol_10mg_8938_6425_large_3481b63169.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00010235_aju_akinol_10mg_6064_6425_large_8c8b53b23f.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00010235_aju_akinol_10mg_3998_6425_large_c3c4490f2d.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00010235_aju_akinol_10mg_8204_6425_large_f1158e8519.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang mềm",
+  "trust_label": null,
+  "short_description": "<p>Aju Akinol có thành phần là isotretinoin 10mg. Đây là thuốc dùng để điều trị mụn trứng cá nang sần nặng. Thuốc được đóng gói thành hộp 03 vỉ x 10 viên nang mềm.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p>Thuốc Aju Akinol được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Điều trị mụn trứng cá nang sần nặng.</li>\n\t<li>Nên dùng thuốc này cho những bệnh nhân không đáp ứng với liệu pháp điều trị mụn trứng cá thông thường.</li>\n</ul>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Isotretinoin làm giảm đáng kể sự tiết bã nhờn và làm săn se tuyến bã nhờn. Do đó làm ổn định sự keratin hóa và ngăn chặn hình thành mụn trứng cá. Cơ chế tác dụng của isotretinoin vẫn chưa được biết rõ, tuy nhiên có lẽ nó làm thay đổi quá trình sao mã ADN.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p><em>Hấp thu</em></p>\n\n<p>Do tính chất ưa lipid cao nên isotretionin tăng hấp thu khi dùng thuốc với bữa ăn giàu chất béo. Các nghiên cứu lâm sàng cho thấy không có sự khác biệt về dược động học của isotretinoin trên bệnh nhân bị mụn trứng cá nang sần và những người khỏe mạnh với da bình thường.</p>\n\n<p><em>Phân bố</em></p>\n\n<p>Hơn 99,9% isotretinoin gắn kết với protein huyết tương, chủ yếu là gắn với albumin.</p>\n\n<p><em>Chuyển hóa và thải trừ</em></p>\n\n<p>Sau khi uống isotretinoin, có ít nhất 3 dạng chuyển hóa có mặt trong huyết tương: 4-oxo-isotretinoin, retinoic acid (tretinoin), và 4-oxo-retinoic acid (4-oxo-tretinoin). Retinoic acid và 13-cis-retinoic acid là những đồng phân hình học và có thể chuyển đổi thuận nghịch với nhau. Dùng dạng đồng phân này có thể cho ra dạng đồng phân khác. Isotretinoin cũng được oxy hoá không thuận nghịch thành 4-oxo-isotretinoin, thành đồng phân hình học 4-oxo-tretinoin.</p>\n\n<p>Các nghiên cứu <em>in vitro</em> cho thấy các đồng dạng cơ bản P450 có liên quan đến sự chuyển hóa của isotretinoin là 2C8, 2C9, 3A4, và 2B6. Isotretinoin và chất chuyển hóa của nó tiếp tục được chuyển hóa qua con đường liên hợp để bài tiết vào nước tiểu và phân.</p>",
+  "ingredients_html": [
+    {
+      "id": 24290,
+      "ingredientId": 24209,
+      "shortDescription": "10mg",
+      "name": "Isotretinoin",
+      "isPrimary": false,
+      "slug": "thanh-phan/isotretinoin"
+    }
+  ],
+  "stock_qty": 0
+}

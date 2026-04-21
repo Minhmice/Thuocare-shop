@@ -1,0 +1,49 @@
+{
+  "id": "00006086",
+  "slug": "thuoc/prelone-05mg-2533.html",
+  "title": "Thuốc Prelone 0.5mg Phil điều trị phì đại lành tính tuyến tiền liệt (3 vỉ x 10 viên) ",
+  "short_title": "PRELONE 0.5 PHIL 3X10",
+  "brand": {
+    "name": "Phil",
+    "slug": "thuong-hieu/phil",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-tri-benh-tuyen-tien-liet",
+    "name": "Thuốc trị bệnh tuyến tiền liệt",
+    "parent_slug": "thuoc/thuoc-tiet-nieu-sinh-duc"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006086_prelone_05mg_1225_5b23_large_ae696d7905.JPG",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006086_prelone_05mg_1225_5b23_large_ae696d7905.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006086_prelone_05mg_1628834724_2483bce033.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006086_prelone_05mg_6050_5b23_large_30e267bc58.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006086_prelone_05mg_7993_5b23_large_398d61719b.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006086_prelone_05mg_4677_5b23_large_710d73b32c.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006086_prelone_05mg_1749_5b23_large_7f4935d954.JPG"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang mềm",
+  "trust_label": null,
+  "short_description": "<p>Prelone 0,5mg của công ty TNHH Phil Inter Pharma có thành phần chính là dutasteride. Là thuốc dùng để điều trị phì đại lành tính tuyến tiền liệt.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p>Thuốc Prelone 0,5mg được chỉ định dùng trong trường hợp điều trị phì đại lành tính tuyến tiền liệt.</p>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Dutasteride là chất ức chế kép 5-reductase. Nó ức chế isoenzyme 5-reductase type 1 và type 2 là những enzyme chịu trách nhiệm biến đổi testosterone thành 5-dihydrotestosterone (DHT).</p>\n\n<p>DHT là androgen đóng vai trò chính trong sự phì đại mô tiền liệt tuyến.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Sau khi uống thuốc, đạt nồng độ đỉnh trong huyết thanh sau 1 đến 3 giờ, sinh khả dụng khoảng 60%.</p>\n\n<p>Dutasteride gắn kết cao với protein huyết tương.</p>\n\n<p>Dutasteride được chuyển hóa bởi cytochrome P450: CYP3A4 và CYP3A5 và hầu hết được đào thải ở dạng chuyển hóa qua phân. Ở trạng thái ổn định, thời gian bán thải của dutasteride khoảng 3 đến 5 tuần.</p>",
+  "ingredients_html": [
+    {
+      "id": 40293,
+      "ingredientId": 18802,
+      "shortDescription": "0.5mg",
+      "name": "Dutasteride",
+      "isPrimary": false,
+      "slug": "thanh-phan/dutasteride"
+    }
+  ],
+  "stock_qty": 0
+}

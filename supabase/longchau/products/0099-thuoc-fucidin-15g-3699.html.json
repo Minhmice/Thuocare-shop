@@ -1,0 +1,53 @@
+{
+  "id": "00003189",
+  "slug": "thuoc/fucidin-15g-3699.html",
+  "title": "Kem Fucidin LEO điều trị nhiễm khuẩn (15g)",
+  "short_title": "FUCIDIN LEO 15G",
+  "brand": {
+    "name": "LEO",
+    "slug": "thuong-hieu/leo",
+    "country": "Đan Mạch"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-da-lieu/thuoc-boi-ngoai-da",
+    "name": "Thuốc bôi ngoài da",
+    "parent_slug": "thuoc/thuoc-da-lieu"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Tuýp",
+  "pack_note": "Tuýp x 15g",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_4253_f24645286c.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_4253_f24645286c.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_4246_63da37e576.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_4247_766a6acb21.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_4248_5f4a6a27cc.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_4249_3f05db1ea2.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_4250_359e4d3a82.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_4254_bbd9f8db1b.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_4255_1_4cb042a856.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_4256_1_742f3079b8.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/fucidin_1073077aa0.jpg"
+  ],
+  "origin_label": "Đan Mạch",
+  "country": "Đan Mạch",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Kem",
+  "trust_label": null,
+  "short_description": "<p>Kem Fucidin Cream 2% tuýp 15g của LEO Laboratories Limited, hoạt chất chính là acid fusidic, một chất kháng khuẩn tại chỗ hiệu quả, có tác dụng như thuốc kháng sinh và điều trị những bệnh về da do các chủng vi sinh vật nhạy cảm, đặc biệt là tụ cầu (<i>Staphylococcus aureus</i>). Ngăn ngừa các vi khuẩn gây nhiễm trùng, làm cải thiện tình trạng sưng, viêm, đỏ da...</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Fucidin có tác dụng gì? Thuốc <a href=\"https://nhathuoclongchau.com.vn/thuoc/fucidin-15g-3699.html\">Fucidin</a> Cream 2% được chỉ định dùng trong trường hợp sau:</p><p>Điều trị các nhiễm khuẩn tại chỗ do các chủng vi sinh vật nhạy cảm, đặc biệt là <a href=\"https://nhathuoclongchau.com.vn/bai-viet/vi-khuan-tu-cau-gay-benh-gi-co-nguy-hiem-khong.html\">tụ cầu</a> (<i>Staphylococcus aureus</i>).</p><h3>Dược lực học</h3><p>Kem Fucidin® chứa acid fusidic, một chất kháng khuẩn tại chỗ hiệu quả. <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/fusidic-acid\">Acid fusidic</a> và các dạng muối của nó thể hiện đặc tính hòa tan trong dầu và trong nước với hoạt tính bề mặt mạnh, và ít có khả năng xâm nhập vào vùng da lành.</p><p>Các nồng độ từ 0,03 - 0,12 mcg/ml ức chế hầu hết các chủng Staphylococcus aureus. Fucidin® dùng tại chỗ cũng có tác dụng với <i>Streptococci, Corynebacteria, Neisseria </i>và một vài chủng<i> Clostridia.</i>&nbsp;</p><h3>Dược động học</h3><p>Không có dữ liệu về đặc tính dược động học của kem Fucidin® đường dùng tại chỗ ở người. Tuy nhiên, các nghiên <i>in vitro</i> cho thấy acid fusidic và các dạng muối của nó có thể thẩm thấu qua da lành ở người khi dùng với nồng độ cao hơn giá trị MIC của các vi khuẩn nhạy cảm. Mức độ thẩm thấu phụ thuộc vào các yếu tố như khoảng thời gian bôi thuốc acid fusidic và tình trạng da. Fusidic acid được bài tiết chủ yếu qua mật và một lượng nhỏ bài tiết qua nước tiểu.</p>",
+  "ingredients_html": [
+    {
+      "id": 44722,
+      "ingredientId": 7431,
+      "shortDescription": "2%",
+      "name": "Acid fusidic",
+      "isPrimary": false,
+      "slug": "thanh-phan/acid-fusidic"
+    }
+  ],
+  "stock_qty": 0
+}

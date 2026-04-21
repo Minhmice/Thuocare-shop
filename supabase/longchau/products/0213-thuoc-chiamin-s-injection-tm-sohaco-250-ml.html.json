@@ -1,0 +1,132 @@
+{
+  "id": "00501106",
+  "slug": "thuoc/chiamin-s-injection-tm-sohaco-250-ml.html",
+  "title": "Dịch truyền tĩnh mạch Chiamin-S Injection Siu Guan Chem có tác dụng giảm thiểu stress, các chấn thương nặng, nhiễm trùng nặng (250ml)",
+  "short_title": "CHIAMIN-S INJECTION TM SOHACO 250ML",
+  "brand": {
+    "name": "Siu Guan Chem",
+    "slug": "thuong-hieu/siu-guan-chem",
+    "country": "Đài Loan"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tiem-chich-and-dich-truyen/dich-truyen",
+    "name": "Dịch truyền",
+    "parent_slug": "thuoc/thuoc-tiem-chich-and-dich-truyen"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Chai",
+  "pack_note": "Chai x 250ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00501106_7ce211b512.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00501106_7ce211b512.jpg"
+  ],
+  "origin_label": "Đài Loan",
+  "country": "Đài Loan",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch tiêm truyền",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Chiamin-S Injection là sản phẩm của Siu Guan Chem Ind Co., Ltd. với thành phần chính là L-Isoleucine, L-Leucine, L-Lysine HCL. Thuốc Chiamin-S Injection có tác dụng giảm thiểu stress, các chấn thương nặng, nhiễm trùng nặng, rối loạn hệ tiêu hóa, viêm ruột, tắc ruột, viêm tuyến tụy, lồng ruột, tắc nghẽn cục bộ, suy nhược cơ thể.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Chiamin-S được dùng trong trị liệu dinh dưỡng các trường hợp sau:</p><ul><li>Stress: Chấn thương nặng, bỏng, kém dinh dưỡng sau phẫu thuật, nhiễm khuẩn nặng.</li><li>Rối loạn tiêu hóa và hấp thu: Viêm ruột, ung thư, tắc ruột, viêm tuyến tụy, sự tắc nghẽn cục bộ, hội chứng lồng ruột</li><li>Dinh dưỡng kém và suy nhược cơ thể.</li></ul><h3>Dược lực học</h3><p>Chiamin-S là một loại dinh dưỡng ngoài đường ruột bao gồm các L-amino acid thiết yếu giúp cải thiện tình trạng thiếu protein của cơ thể.</p><p>Chiamin-S có chứa D-Sorbitol như là một carbohydrat nhằm tăng cường hiệu quả sử dụng amino acid trong cơ thể.</p><h3>Dược động học</h3><p><i>Hấp thu:</i></p><p>Nồng độ amino acid huyết tương đã được nghiên cứu qua các thử nghiệm tiêm truyền nhỏ giọt tĩnh mạch ở người trưởng thành khỏe mạnh. Nồng độ tổng cộng các amino acid trong huyết tương đạt mức tối đa ngay sau khi tiêm truyền xong, sau đó giảm nhanh và trở về giá trị ban đầu sau 24 giờ.</p><p><i>Phân bố:</i></p><p>Thuốc được phân bố rộng rãi ở các mô của cơ thể.</p><p><i>Thải trừ:</i></p><p>Thuốc được thải trừ chủ yếu qua nước tiểu. Lượng amino acid thải trừ qua nước tiểu tỉ lệ với lượng dung dịch tiêm đã dùng.</p>",
+  "ingredients_html": [
+    {
+      "id": 56959,
+      "ingredientId": 25671,
+      "shortDescription": "288mg",
+      "name": "L-Isoleucine",
+      "isPrimary": false,
+      "slug": "thanh-phan/l-isoleucine"
+    },
+    {
+      "id": 56960,
+      "ingredientId": 25711,
+      "shortDescription": "327mg",
+      "name": "L-Leucin",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 56961,
+      "ingredientId": 25720,
+      "shortDescription": "361mg",
+      "name": "L-Lysin HCL",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 56962,
+      "ingredientId": 25729,
+      "shortDescription": "288mg",
+      "name": "L-Methionin",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 56963,
+      "ingredientId": 25926,
+      "shortDescription": "192mg",
+      "name": "L-Phenylalanine",
+      "isPrimary": false,
+      "slug": "thanh-phan/l-phenylalanine"
+    },
+    {
+      "id": 56964,
+      "ingredientId": 25975,
+      "shortDescription": "192mg",
+      "name": "L-Threonine",
+      "isPrimary": false,
+      "slug": "thanh-phan/l-threonine"
+    },
+    {
+      "id": 56965,
+      "ingredientId": 25980,
+      "shortDescription": "96mg",
+      "name": "L-Tryptophan",
+      "isPrimary": false,
+      "slug": "thanh-phan/l-tryptophan"
+    },
+    {
+      "id": 56966,
+      "ingredientId": 26088,
+      "shortDescription": "288mg",
+      "name": "L-Valine",
+      "isPrimary": false,
+      "slug": "thanh-phan/l-valine"
+    },
+    {
+      "id": 56967,
+      "ingredientId": 25068,
+      "shortDescription": "300mg",
+      "name": "L-Arginine",
+      "isPrimary": false,
+      "slug": "thanh-phan/l-arginine"
+    },
+    {
+      "id": 56968,
+      "ingredientId": 10,
+      "shortDescription": "138mg",
+      "name": "L-Histidin hydroclorid monohydrat",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 56969,
+      "ingredientId": 21480,
+      "shortDescription": "447mg",
+      "name": "Glycin",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 56970,
+      "ingredientId": 18656,
+      "shortDescription": "12.5g",
+      "name": "D-Sorbit",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

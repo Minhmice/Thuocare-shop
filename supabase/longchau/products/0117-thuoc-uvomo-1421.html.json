@@ -1,0 +1,51 @@
+{
+  "id": "00010006",
+  "slug": "thuoc/uvomo-1421.html",
+  "title": "Thuốc Uvomo Saga điều trị rối loạn tiêu hóa (10 vỉ x 10 viên)",
+  "short_title": "UVOMO 5MG",
+  "brand": {
+    "name": "Saga Laboratories",
+    "slug": "thuong-hieu/saga-laboratories",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-da-day",
+    "name": "Thuốc dạ dày",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00010006_uvomo_7089_6425_large_f935a9ca3e.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00010006_uvomo_7089_6425_large_f935a9ca3e.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00010006_uvomo_1680173265_37c4ae633b.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00010006_uvomo_3382_6425_large_53b48885f1.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00010006_uvomo_9270_6425_large_859b57d184.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00010006_uvomo_2905_6425_large_75575f6066.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00010006_uvomo_5866_6425_large_35b591de19.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00010006_uvomo_3523_6425_large_717aecee12.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00010006_uvomo_4212_6425_large_f443249113.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Uvomo được sản xuất bởi công ty Saga Laboratories - Ấn Độ, thành phần chính Mosaprid citrat dihydrat, được chỉ định trong những trường hợp rối loạn tiêu hóa liên quan đến giảm chuyển động dạ dày ruột như ợ nóng, buồn nôn, nôn.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p>Thuốc Uvomo được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Rối loạn tiêu hóa liên quan đến giảm chuyển động dạ dày ruột như ợ nóng, buồn nôn, nôn.</li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p>Mosaprid là một nhóm prokinetic mới. Là thuốc chủ vận thụ thể 5-HT4 chọn lọc. Phức hợp này làm cho dễ dàng hoặc phục hồi chuyển động dạ dày ruột. Tác động của mosaprid là làm tăng phóng thích acetylcholin và kích thích vận động đường tiêu hóa.</p>\n\n<h3>Dược động học</h3>\n\n<p><em>Hấp thu</em></p>\n\n<p>Sau khi uống, mosaprid được hấp thu nhanh hoàn toàn trong cơ quan tiêu hóa. Các nghiên cứu ở người báo cáo rằng sau khi dùng đường uống liều đơn mosaprid ở những người khỏe mạnh, nồng độ trung bình trong huyết tương của mosaprid đạt đến đỉnh sau 0,5 - 1 giờ.</p>\n\n<p>Những tác động của thức ăn: Mosaprid có thể uống trước hoặc sau khi ăn.</p>\n\n<p><em>Phân bố</em></p>\n\n<p>Mosaprid liên kết với protein trong huyết tương 99%.</p>\n\n<p><em>Chuyển hóa</em></p>\n\n<p>Mosaprid được chuyển hóa chính ở gan bởi enzyme P-450 chủ yếu CYP3A4. Chất chuyển hóa chính là phức hợp des-fluorobenzyl.</p>\n\n<p><em>Bài tiết</em></p>\n\n<p>Mosaprid được bài tiết chính qua nước tiểu và qua phân. Đã được báo cáo sau khi uống liều đơn mosaprid citrat 5 mg ở những người khỏe mạnh khi đói. 0,1 % được bài tiết dưới dạng không đổi trong khi 7% được bài tiết dưới dạng chất chuyển hóa chính. Thời gian bán thải biểu kiến là 1,4 - 2 giờ.</p>",
+  "ingredients_html": [
+    {
+      "id": 24224,
+      "ingredientId": 28046,
+      "shortDescription": "5mg",
+      "name": "Mosaprid Citrat",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

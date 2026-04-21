@@ -1,0 +1,44 @@
+{
+  "id": "00502465",
+  "slug": "thuoc/toussolene-5mg-khanh-hoi-10x25-36695.html",
+  "title": "Thuốc Toussolène 5mg Khahopharma điều trị mày đay và ngứa (10 vỉ x 25 viên)",
+  "short_title": "TOUSSOLÈNE 5MG KHÁNH HỘI 10X25",
+  "brand": {
+    "name": "Khahopharma",
+    "slug": "thuong-hieu/khahopharma",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-di-ung/thuoc-chong-di-ung",
+    "name": "Thuốc chống dị ứng",
+    "parent_slug": "thuoc/thuoc-di-ung"
+  },
+  "price_amount": 140,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "25 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/toussolene_76ded4894b.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/toussolene_76ded4894b.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Toussolène là sản phẩm của Công ty Cổ phần Dược phẩm và Dịch vụ Y tế Khánh Hội có hoạt chất chính Alimemazin tartrat. Đây là thuốc có tác dụng kháng histamin mạnh và chống nôn, được sử dụng điều trị mày đay và ngứa.</p>",
+  "description_html": "",
+  "usage_html": "<p>Trước khi sử dụng thuốc bạn cần đọc kỹ hướng dẫn sử dụng và tham khảo thông tin bên dưới.</p><h3>Chống chỉ định</h3><p>Thuốc Toussolène chống chỉ định trong các trường hợp sau:</p><ul><li>Alimemazin có tác dụng kháng histamin mạnh và chống nôn, được sử dụng điều trị mày đay và ngứa.</li></ul><h3>Dược lực học</h3><p>Alimemazin là dẫn chất phenothiazin, có tác dụng kháng histamin và kháng serotonin mạnh, thuốc còn có tác dụng an thần, giảm ho, chống nôn.</p><p>Alimemazin cạnh tranh với histamin tại các thụ thể histamin H1, do đó có tác dụng kháng histamin H1. Thuốc đối kháng với phần lớn các tác dụng dược lý của histamin, bao gồm các chứng mày đay, ngứa.</p><p>Alimemazin có tác dụng an thần do ức chế enzym histamin N - methyltransferase và do chẹn các thụ thể trung tâm tiết histamin đồng thời với tác dụng trên các thụ thể khác, đặc biệt thụ thể serotoninergic.</p><h3>Dược động học</h3><p>Alimemazin được hấp thu nhanh qua đường tiêu hóa. Sau khi uống 15 – 20 phút, thuốc có tác dụng và kéo dài 6 - 8 giờ. Nồng độ alimemazin trong huyết tương đạt tối đa sau 4,5 giờ với dạng viên nén. Thời gian bán thải là 5 – 8 giờ, liên kết với protein huyết tương là 20 – 30%. Alimemazin chuyển hóa chủ yếu qua gan thành các chất chuyển hóa N - desalkyl chưa rõ hoạt tính và thải trừ qua thận dưới dạng các chất chuyển hóa sulfoxyd (70 – 80%, sau 48 giờ).</p>",
+  "ingredients_html": [
+    {
+      "id": 49076,
+      "ingredientId": 8148,
+      "shortDescription": "5mg",
+      "name": "Alimemazin tartrat",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

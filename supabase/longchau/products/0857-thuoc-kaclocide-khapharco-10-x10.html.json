@@ -1,0 +1,63 @@
+{
+  "id": "00050105",
+  "slug": "thuoc/kaclocide-khapharco-10-x10.html",
+  "title": "Thuốc Kaclocide Khapharco ngừa hình thành cục máu đông (10 vỉ 10 viên)",
+  "short_title": "KACLOCIDE KHAPHARCO 10X10",
+  "brand": {
+    "name": "Khapharco",
+    "slug": "thuong-hieu/khapharco",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-chong-dong-mau",
+    "name": "Thuốc chống đông máu",
+    "parent_slug": "thuoc/thuoc-tim-mach-and-mau"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03061_48dcbfafbc.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03061_48dcbfafbc.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03062_f01d5e2c42.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03063_ad27944c3b.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03064_3fd21b9f57.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03065_29f6cdc28b.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03066_ec29643f06.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03067_e5194b9b83.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03068_7a00170f09.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/Kaclocide_1_eb73206d38.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/Kaclocide_2_bd9707eee0.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/Kaclocide_3_b8a9da0d9a.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/Kaclocide_4_88c42c81e8.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Kaclocide là sản phẩm của Công ty Cổ phần Dược phẩm Khánh Hòa, có thành phần chính là Clopidogrel, Aspirin. Đây là thuốc được sử dụng để phòng ngừa thứ phát do <strong>xơ vữa động mạch</strong>, điều trị <strong>hội chứng mạch vành cấp không có ST chênh lên</strong>, <strong>nhồi máu cơ tim cấp với ST chênh lên</strong> ở bệnh nhân đã điều trị huyết khối tim mạch.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc <a href=\"https://nhathuoclongchau.com.vn/thuoc/kaclocide-khapharco-10-x10.html\">Kaclocide</a> được chỉ định dùng trong các trường hợp sau:</p><p>Phòng ngừa thứ phát do <a href=\"https://nhathuoclongchau.com.vn/benh/xo-vua-dong-mach-429.html\">xơ vữa động mạch</a> ở bệnh nhân người lớn đã dùng cả clopidogrel và aspirin riêng lẻ. Đây là sản phẩm kết hợp cố định để tiếp tục điều trị trong:</p><ul><li>Hội chứng mạch vành cấp không có ST chênh lên (đau thắt ngực không ổn định hay nhồi máu cơ tim không có sóng Q) bao gồm bệnh nhân đã đặt stent mạch vành.</li><li><a href=\"https://nhathuoclongchau.com.vn/bai-viet/nhoi-mau-co-tim-st-chenh-len-dau-hieu-cap-tinh-can-can-thiep-ngay.html\">Nhồi máu cơ tim cấp với ST chênh lên</a> ở bệnh nhân đã điều trị huyết khối tim mạch.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 72353,
+      "ingredientId": 15173,
+      "shortDescription": "75mg",
+      "name": "Clopidogrel",
+      "isPrimary": false,
+      "slug": "thanh-phan/clopidogrel"
+    },
+    {
+      "id": 72354,
+      "ingredientId": 9652,
+      "shortDescription": "75mg",
+      "name": "Aspirin",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

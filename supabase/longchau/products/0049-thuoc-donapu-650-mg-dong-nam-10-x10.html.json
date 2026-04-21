@@ -1,0 +1,44 @@
+{
+  "id": "00040447",
+  "slug": "thuoc/donapu-650-mg-dong-nam-10-x10.html",
+  "title": "Thuốc Donapu 650mg Đông Nam điều trị các chứng đau và sốt từ nhẹ đến vừa (10 vỉ x 10 viên)",
+  "short_title": "DONAPU 650MG ĐÔNG NAM 10X10",
+  "brand": {
+    "name": "Đông Nam",
+    "slug": "thuong-hieu/dong-nam",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem/thuoc-giam-dau-ha-sot",
+    "name": "Thuốc giảm đau hạ sốt",
+    "parent_slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/donapu_5044458dcc.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/donapu_5044458dcc.png"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Donapu 650 là sản phẩm của Dược phẩm Đông Nam chứa hoạt chất Paracetamol được dùng rộng rãi trong điều trị các chứng đau và sốt từ nhẹ đến vừa.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Donapu 650 được dùng rộng rãi trong điều trị các chứng đau và sốt từ nhẹ đến vừa .</p><ul><li>Đau: Được dùng để giảm đau tạm thời trong điều trị chứng đau nhẹ và vừa. Thuốc có hiệu quả nhất là làm giảm đau cường độ thấp có nguồn gốc không phải là nội tạng. Paracetamol không có tác dụng trị thấp khớp, là thuốc thay thế salicylat để giảm đau hoặc hạ sốt.</li><li>Sốt: Thường được dùng để giảm thân nhiệt ở người bệnh sốt.&nbsp;</li></ul><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 58024,
+      "ingredientId": 31537,
+      "shortDescription": "650mg",
+      "name": "Paracetamol",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

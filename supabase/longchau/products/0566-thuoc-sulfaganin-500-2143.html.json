@@ -1,0 +1,48 @@
+{
+  "id": "00007048",
+  "slug": "thuoc/sulfaganin-500-2143.html",
+  "title": "Thuốc Sulfaganin 500 Mekophar điều trị tiêu chảy cấp (10 vỉ x 10 viên)",
+  "short_title": "SULFAGANIN 500 MKP 10X10",
+  "brand": {
+    "name": "Mekophar",
+    "slug": "thuong-hieu/mekophar",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-tieu-chay",
+    "name": "Thuốc trị tiêu chảy",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007048_sulfaganin_500_7996_6059_large_929029452f.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007048_sulfaganin_500_7996_6059_large_929029452f.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007048_sulfaganin_500_1625751855_ee8110e299.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007048_sulfaganin_500_4405_6059_large_e00186d56d.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007048_sulfaganin_500_7736_6059_large_41355cc088.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007048_sulfaganin_500_9604_6059_large_26604af6d4.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén",
+  "trust_label": null,
+  "short_description": "<p><strong>Thuốc Sulfaganin 500</strong> của <em>Công ty Cổ phần Hóa - dược phẩm Mekophar</em>, thành phần chính <em>sulfaguanidine</em>, thuốc được sử dụng để điều trị tiêu chảy cấp do nguyên nhân vi khuẩn mà chưa có các dấu hiệu suy giảm tình trạng cơ thể.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p><strong>Thuốc Sulfaganin 500</strong> được chỉ định dùng điều trị <strong><a href=\"https://nhathuoclongchau.com.vn/benh/tieu-chay-133.html\">tiêu chảy</a></strong> cấp do nguyên nhân vi khuẩn mà chưa có các dấu hiệu suy giảm tình trạng cơ thể.</p>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Sulfaguanidine là một sulfonamide có tác động chủ yếu là kìm khuẩn.</p>\n\n<p>Sulfaguanidine có cầu trúc tương tự acid p-aminobenzoic, do đó cản trở sự tổng hợp acid nucleic ở vi khuẩn nhạy cảm bằng cách ức chế sự chuyển đổi của acid p-aminobenzoic thành coenzyme acid dihydrofolic - một dạng chuyển hóa của acid folic.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Sulfaguanidine hấp thu qua niêm mạc ruột vào máu rất ít (khoảng 20%). Tuy nhiên, hấp thu có thể tăng ở những bệnh nhân có bệnh đường tiêu hóa. Sulfaguanidine cũng như các sulfonamide khác chuyển hóa chủ yếu ở gan, phần lớn thành dẫn xuất acetyl không có hoạt tính và ít tan trong trong nước. Các sulfonamide và chất chuyển hoá của nó thải trừ phần lớn ở thận.</p>",
+  "ingredients_html": [
+    {
+      "id": 23386,
+      "ingredientId": 37071,
+      "shortDescription": "500mg",
+      "name": "Sulfaguanidine",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

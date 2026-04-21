@@ -1,0 +1,52 @@
+{
+  "id": "00500655",
+  "slug": "thuoc/mibeonate-n-hasan-10g-34788.html",
+  "title": "Kem bôi ngoài da Mibeonate - N 10g Hasan điều trị các bệnh nhiễm khuẩn ngoài da nhẹ do tụ cầu ",
+  "short_title": "MIBEONATE-N HASAN 10G",
+  "brand": {
+    "name": "Hasan",
+    "slug": "thuong-hieu/hasan",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-da-lieu/thuoc-boi-ngoai-da",
+    "name": "Thuốc bôi ngoài da",
+    "parent_slug": "thuoc/thuoc-da-lieu"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/mibeo_8f98020e13.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/mibeo_8f98020e13.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Kem bôi da",
+  "trust_label": null,
+  "short_description": "<p>Mibeonate - N là sản phẩm của Công Ty TNHH Hasan Dermapharm, thành phần chính Betamethason dipropionat, là thuốc dùng để điều trị các bệnh nhiễm khuẩn ngoài da nhẹ do tụ cầu và các vi khuẩn khác nhạy cảm; các bệnh collagen như lupus ban đỏ toàn thân, bệnh xơ cứng bì, viêm da cơ; các trạng thái dị ứng như viêm da dị ứng, phản ứng quá mẫn cảm với thuốc và vết côn trùng đốt (cắn); thương tổn thâm nhiễm khu trú, phì đại của liken (lichen) phẳng, liken đơn mạn tính, ban vảy nến, sẹo lồi, lupus ban dạng đĩa, ban đỏ đa dạng (hội chứng Stevens - Johnson), viêm da tróc vảy, viêm da tiếp xúc, viêm da dị ứng, viêm da tiết bã, viêm da do ánh nắng, eczema cấp và mạn tính.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc Mibeonate - N được chỉ định dùng trong các trường hợp sau:</p><ul><li>Điều trị các bệnh nhiễm khuẩn ngoài da nhẹ do tụ cầu và các vi khuẩn khác nhạy cảm.</li><li>Các bệnh collagen: Lupus ban đỏ toàn thân, bệnh xơ cứng bì, viêm da cơ.</li><li>Các trạng thái dị ứng: Viêm da dị ứng, phản ứng quá mẫn cảm với thuốc và vết côn trùng đốt (cắn).</li><li>Thương tổn thâm nhiễm khu trú, phì đại của liken (lichen) phẳng, liken đơn mạn tính, ban vảy nến, sẹo lồi, lupus ban dạng đĩa, ban đỏ đa dạng (hội chứng Stevens - Johnson), viêm da tróc vảy, viêm da tiếp xúc, viêm da dị ứng, viêm da tiết bã, viêm da do ánh nắng, eczema cấp và mạn tính.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 32765,
+      "ingredientId": 29513,
+      "shortDescription": "3.5mg",
+      "name": "Neomycin",
+      "isPrimary": true,
+      "slug": "thanh-phan/neomycin"
+    },
+    {
+      "id": 32766,
+      "ingredientId": 10838,
+      "shortDescription": "1mg",
+      "name": "Betamethasone",
+      "isPrimary": true,
+      "slug": "thanh-phan/betamethasone"
+    }
+  ],
+  "stock_qty": 0
+}

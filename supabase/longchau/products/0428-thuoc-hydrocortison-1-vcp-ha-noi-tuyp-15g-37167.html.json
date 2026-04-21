@@ -1,0 +1,44 @@
+{
+  "id": "00502859",
+  "slug": "thuoc/hydrocortison-1-vcp-ha-noi-tuyp-15g-37167.html",
+  "title": "Kem bôi da Hydrocortison 1% VCP Hà Nội điều trị bệnh viêm da, bệnh eczema cấp và mạn 15g",
+  "short_title": "HYDROCORTISON 1% VCP HÀ NỘI TUÝP 15G",
+  "brand": {
+    "name": "Vcp",
+    "slug": "thuong-hieu/vcp",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-da-lieu/thuoc-boi-ngoai-da",
+    "name": "Thuốc bôi ngoài da",
+    "parent_slug": "thuoc/thuoc-da-lieu"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Tuýp",
+  "pack_note": "Tuýp x 15g",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00502859_0396d52731.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00502859_0396d52731.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Kem",
+  "trust_label": null,
+  "short_description": "<p>Kem bôi da Hydrocortison 1% là sản phẩm của Dược phẩm VCP với thành phần chính là Hydrocortison acetat. Kem bôi da Hydrocortison 1% được dùng ngoài để chữa các bệnh viêm da, các bệnh eczema cấp và mạn do nhiều nguyên nhân khác nhau.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Kem Hydrocortison&nbsp;có tác dụng chống viêm tại chỗ, sử dụng hiệu quả trong điều trị viêm da do kích ứng, viêm da dị ứng do tiếp xúc, phản ứng tại chỗ do côn trùng cắn, eczema từ nhẹ đến vừa.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 65315,
+      "ingredientId": 41949,
+      "shortDescription": "10mg",
+      "name": "Hydrocortison acetat",
+      "isPrimary": true,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

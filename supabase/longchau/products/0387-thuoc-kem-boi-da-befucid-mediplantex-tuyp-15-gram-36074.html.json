@@ -1,0 +1,52 @@
+{
+  "id": "00501934",
+  "slug": "thuoc/kem-boi-da-befucid-mediplantex-tuyp-15-gram-36074.html",
+  "title": "Kem bôi da Befucid Mediplantex điều trị viêm da nhiễm khuẩn, viêm da cơ địa, chàm (15g)",
+  "short_title": "KEM BÔI DA BEFUCID MEDIPLANTEX 15G",
+  "brand": {
+    "name": "Mediplantex",
+    "slug": "thuong-hieu/mediplantex",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-da-lieu/thuoc-boi-ngoai-da",
+    "name": "Thuốc bôi ngoài da",
+    "parent_slug": "thuoc/thuoc-da-lieu"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Tuýp",
+  "pack_note": "Tuýp x 15g",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/befucid_47eccef15a.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/befucid_47eccef15a.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Kem bôi da",
+  "trust_label": null,
+  "short_description": "<p>Kem bôi da Befucid là sản phẩm của Công ty Cổ phần Dược Trung ương Mediplantex có thành phần chính Acid fucidic, Betamethasone. Đây là thuốc dùng điều trị viêm da nhiễm khuẩn hoặc nghi ngờ nhiễm khuẩn bao gồm: Viêm da cơ địa, chàm ở trẻ nhỏ (từ 1 tuổi trở lên), viêm đa thể đồng tiền, viêm da ứ đọng, viêm da tiếp xúc và viêm da tiết dầu.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Kem bôi da Befucid dùng điều trị trong các trường hợp sau:</p><p>Befucid dùng điều trị viêm da nhiễm khuẩn hoặc nghi ngờ nhiễm khuẩn bao gồm: Viêm da cơ địa, chàm ở trẻ nhỏ (từ 1 tuổi trở lên), viêm đa thể đồng tiền, viêm da ứ đọng, viêm da tiếp xúc và viêm da tiết dầu.</p><h3>Dược lực học</h3><p><strong>Nhóm dược lý: Corticosteroid hoạt tính mạnh kết hợp với kháng sinh</strong></p><p><strong>MAATC: D07C C01</strong></p><p>Kem Befucid là sự kết hợp giữa betamethason, có tác dụng chống viêm và chống ngứa, với acid fusidic, có tác dụng kháng khuẩn tại chỗ hoạt tính mạnh.</p><p>Betamethason valerat là một corticosteroid dùng tại chỗ cho hiệu quả nhanh chóng trong các bệnh viêm da nhiễm khuẩn mà thường đáp ứng với phương pháp điều trị này.</p><p>Khi dùng tại chỗ, acid fusidic có tác dụng tốt trên các chủng Staphylococcus aureus, Streptococcus, Corynebacteria, Neisseria và Clostridia và Bacteroides.</p><p>Nồng độ 0,03 đến 0,2 µg/ml ức chế hầu hết các chủng S.aureus. Hoạt tính khángkhuẩn của acid fusidic không bị giảm bớt bởi sự hiện diện của betamethason.</p><h3>Dược động học</h3><p>Chưa có dữ liệu nào xác định được động học của kem acid fucidic và betamethason valerat khi dùng tại chỗ ở người.</p><p>Tuy nhiên, các nghiên cứu in vitro chỉ ra rằng acid fusidic có thể thấm qua da lành ở người. Mức độ thấm qua da phụ thuộc vào các yếu tố như thời gian tiếp xúc, tình trạng của da. Thuốc bài tiết chủ yếu qua một lượng nhỏ bài tiết qua nước tiểu.</p><p>Betamethason được hấp thu khi dùng tại chỗ. Mức độ hấp thu phụ thuộc vào các yếu tố khác nhau, bao gồm tình trạng da và vị trí dùng thuốc. Betamethason được chuyển hóa chủ yếu ở gan nhưng cũng có một lượng nhỏ ở thận, các chất chuyển hóa không hoạt động được bài tiết qua nước tiểu.</p>",
+  "ingredients_html": [
+    {
+      "id": 57812,
+      "ingredientId": 7429,
+      "shortDescription": "300mg",
+      "name": "Acid fucidic",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 57813,
+      "ingredientId": 10838,
+      "shortDescription": "15mg",
+      "name": "Betamethasone",
+      "isPrimary": false,
+      "slug": "thanh-phan/betamethasone"
+    }
+  ],
+  "stock_qty": 0
+}

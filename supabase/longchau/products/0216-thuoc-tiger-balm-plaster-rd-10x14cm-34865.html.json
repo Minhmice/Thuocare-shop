@@ -1,0 +1,81 @@
+{
+  "id": "00500746",
+  "slug": "thuoc/tiger-balm-plaster-rd-10x14cm-34865.html",
+  "title": "Miếng dán Tiger Balm Plaster - RD Haw Par giảm mỏi cơ, đau và nhức cơ (10cm x 14cm)",
+  "short_title": "TIGER BALM PLASTER-RD 10X14CM",
+  "brand": {
+    "name": "Haw Par",
+    "slug": "thuong-hieu/haw-par",
+    "country": "Singapore"
+  },
+  "category": {
+    "slug": "thuoc/mieng-dan-cao-xoa-dau/mieng-dan-giam-dau",
+    "name": "Miếng dán giảm đau",
+    "parent_slug": "thuoc/mieng-dan-cao-xoa-dau"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Túi",
+  "pack_note": "12 Túi x 3 Miếng",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00500746_tiger_balm_plaster_rd_10x14cm_4341_62bd_large_8d2676d091.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00500746_tiger_balm_plaster_rd_10x14cm_4341_62bd_large_8d2676d091.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00500746_tiger_balm_plaster_rd_10x14cm_1656576136_a193678a56.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00500746_tiger_balm_plaster_rd_10x14cm_9274_62bd_large_2f93c72a66.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00500746_tiger_balm_plaster_rd_10x14cm_2657_62bd_large_098385fbef.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00500746_tiger_balm_plaster_rd_10x14cm_2493_62bd_large_162fe0f780.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00500746_tiger_balm_plaster_rd_10x14cm_7465_62bd_large_1a2d7b69af.jpg"
+  ],
+  "origin_label": "Singapore",
+  "country": "Singapore",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Miếng dán",
+  "trust_label": null,
+  "short_description": "<p>Miếng dán Tiger Balm là sản phẩm của Haw Par Healthcare Limited có thành phần chính gồm Camphor, tinh dầu bạc hà, tinh dầu khuynh diệp, menthol, dịch chiết ớt có công dụng giảm các triệu chứng mỏi cơ, đau và nhức cơ, cứng cổ và vai, vết đụng đập, bong gân và đau lưng.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p>Miếng dán Tiger Balm chỉ định giúp giảm các triệu chứng mỏi cơ, đau và nhức cơ, cứng cổ và vai, vết đụng đập, bong gân và đau lưng.</p>\n\n<h3>Dược lực học</h3>\n\n<p>Chưa có dữ liệu.</p>\n\n<h3>Dược động học</h3>\n\n<p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 40560,
+      "ingredientId": 17105,
+      "shortDescription": "0.6%",
+      "name": "Dementholised Mint Oil",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 40561,
+      "ingredientId": 12512,
+      "shortDescription": "1%",
+      "name": "Camphor",
+      "isPrimary": false,
+      "slug": "thanh-phan/camphor"
+    },
+    {
+      "id": 40562,
+      "ingredientId": 26940,
+      "shortDescription": "0.3%",
+      "name": "Menthol",
+      "isPrimary": false,
+      "slug": "thanh-phan/menthol"
+    },
+    {
+      "id": 40563,
+      "ingredientId": 19839,
+      "shortDescription": "0.5%",
+      "name": "Eucalyptus oil",
+      "isPrimary": false,
+      "slug": "thanh-phan/eucalyptus-oil"
+    },
+    {
+      "id": 40564,
+      "ingredientId": 12906,
+      "shortDescription": "0.2%",
+      "name": "Capsicum extract",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

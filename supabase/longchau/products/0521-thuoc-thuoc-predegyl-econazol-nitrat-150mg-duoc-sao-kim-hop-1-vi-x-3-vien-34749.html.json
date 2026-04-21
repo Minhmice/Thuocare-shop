@@ -1,0 +1,44 @@
+{
+  "id": "00500619",
+  "slug": "thuoc/thuoc-predegyl-econazol-nitrat-150mg-duoc-sao-kim-hop-1-vi-x-3-vien-34749.html",
+  "title": "Thuốc Predegyl 150mg Sao Kim điều trị các bệnh viêm âm đạo (1 vỉ x 3 viên)",
+  "short_title": "PREDEGYL ECONAZOL NITRAT 150MG SAO KIM 1X3",
+  "brand": {
+    "name": "Sao Kim",
+    "slug": "thuong-hieu/sao-kim",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-dat-am-dao",
+    "name": "Thuốc đặt âm đạo",
+    "parent_slug": "thuoc/thuoc-tiet-nieu-sinh-duc"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "3 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/PREDEGYL_ECONAZOL_NITRAT_150_MG_SAO_KIM_1_X3_c5ffaed39c.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/PREDEGYL_ECONAZOL_NITRAT_150_MG_SAO_KIM_1_X3_c5ffaed39c.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên trứng",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Predegyl là sản phẩm của Công ty Cổ phần Dược phẩm Sao Kim, có thành phần chính là Econazol. Đây là thuốc được sử dụng để điều trị các bệnh viêm âm đạo do nấm Candida albicans và các nấm khác.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc Predegyl được chỉ định dùng trong các trường hợp sau:</p><ul><li>Predegyl được chỉ định để điều trị các bệnh viêm âm đạo do nấm Candida albicans và các nấm khác.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p>Econazol là dẫn xuất imidazol tổng hợp gắn clor, cấu tạo tương tự clotrimazol, ketoconazol, miconazol.</p><p>Econazol có phổ kháng nấm rộng: các nấm da Trichophyton rubrum, Trichophyton mentagrophytes, Trichophyton tonsurans, Microsporum canis,, Microsporum audouini, Microsporum gypseum, Epidermophyton floccosum, Candida albicans và các loài Candida khác, Pityrosporon orbiculare (Malasseria furfur).</p><p>Thuốc cũng có tác dụng một phần trên vi khuẩn Gram dương.</p><p>Econazol ức chế tổng hợp ergosterol hoặc các sterol khác, làm biến đổi tính thấm của màng tế bào nấm nhạy cảm với thuốc.</p><h3 dir=\"ltr\">Dược động học</h3><p>Econazol hầu như không được hấp thu toàn thân sau khi bôi hoặc đặt âm đạo.</p><p>Mặc dù vẫn còn trên da, thuốc thấm vào lớp sừng rất nhiều, vượt xa nồng độ tối thiểu ức chế đối với các nấm da. Nồng độ ức chế của thuốc cũng đạt được ở lớp biểu bì và trung bì. Dưới 1% liều dùng được thải qua nước tiểu và phân.</p>",
+  "ingredients_html": [
+    {
+      "id": 58082,
+      "ingredientId": 18909,
+      "shortDescription": "150mg",
+      "name": "Econazol",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

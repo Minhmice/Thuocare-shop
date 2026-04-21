@@ -1,0 +1,52 @@
+{
+  "id": "00040454",
+  "slug": "thuoc/vigentin-250-mg-62-5-mg-pharbaco-12-goi-1.html",
+  "title": "Thuốc Vigentin 250mg/62.5mg Pharbaco điều trị nhiễm khuẩn ở đường hô hấp trên và dưới (12 gói)",
+  "short_title": "VIGENTIN 250MG/62.5MG PHARBACO 12 GÓI",
+  "brand": {
+    "name": "Pharbaco",
+    "slug": "thuong-hieu/pharbaco",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-khang-sinh-khang-nam/thuoc-khang-sinh",
+    "name": "Thuốc kháng sinh",
+    "parent_slug": "thuoc/thuoc-khang-sinh-khang-nam"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Gói",
+  "pack_note": "12 Gói",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/vigentin_250mg625mg_k4708_46cc93ab91.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/vigentin_250mg625mg_k4708_46cc93ab91.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Bột pha hỗn dịch uống",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Vigentin là sản phẩm của Pharbaco, có thành phần chính là Amoxicillin, Acid Clavulanic. Đây là thuốc được sử dụng để điều trị trong thời gian ngắn các trường hợp nhiễm khuẩn ở đường hô hấp trên, đường hô hấp dưới bởi các chủng Hinfluenzae và Branhamella catarrbalis sản sinh beta-lactamase, nhiễm khuẩn nặng đường tiết niệu - sinh dục bởi các chủng: E. coli, Klebsiella và Enterobacter sản sinh, nhiễm khuẩn da và mô mềm, xương và khớp, nha khoa,...</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc Vigentin được chỉ định để điều trị trong thời gian ngắn các trường hợp nhiễm khuẩn sau:</p><ul><li>Nhiễm khuẩn đường hô hấp trên: Viêm Amidan, viêm xoang, viêm tai giữa đã được điều trị bằng các kháng sinh thông thường nhưng không đỡ.</li><li>Nhiễm khuẩn đường hô hấp dưới bởi các chủng Hinfluenzae và Branhamella catarrbalis sản sinh beta-lactamase: Viêm phế quản cấp và mạn, viêm phổi - phế quản.</li><li>Nhiễm khuẩn nặng đường tiết niệu - sinh dục bởi các chủng: E. coli, Klebsiella và Enterobacter sản sinh: Viêm bàng quang, viêm niệu đạo, viêm bể thận.</li><li>Nhiễm khuẩn da và mô mềm: Mụn nhọt, áp xe, nhiễm khuẩn vết thương.</li><li>Nhiễm khuẩn xương và khớp: Viêm tuỷ xương.</li><li>Nhiễm khuẩn nha khoa: Áp xe ổ răng.</li><li>Các nhiễm khuẩn khác: Nhiễm khuẩn do nạo thai.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 58025,
+      "ingredientId": 8913,
+      "shortDescription": "250mg",
+      "name": "Amoxicillin",
+      "isPrimary": false,
+      "slug": "thanh-phan/amoxicillin"
+    },
+    {
+      "id": 58026,
+      "ingredientId": 41413,
+      "shortDescription": "62.5mg",
+      "name": "Acid Clavulanic",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

@@ -1,0 +1,56 @@
+{
+  "id": "00005213",
+  "slug": "thuoc/neo-penotran-500mg-2897.html",
+  "title": "Viên đặt âm đạo Neo-Penotran MEGA We Care điều trị  viêm âm đạo (2 vỉ x 7 viên)",
+  "short_title": "NEO-PENOTRAN 500 2X7",
+  "brand": {
+    "name": "MEGA We care",
+    "slug": "thuong-hieu/mega-we-care",
+    "country": "Thái Lan"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-dat-am-dao",
+    "name": "Thuốc đặt âm đạo",
+    "parent_slug": "thuoc/thuoc-tiet-nieu-sinh-duc"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "7 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005213_neo_penotran_500mg_1159_5b8f_large_b23a755bbe.JPG",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005213_neo_penotran_500mg_1159_5b8f_large_b23a755bbe.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005213_neo_penotran_500mg_4231_5b8f_large_c8ebf89997.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005213_neo_penotran_500mg_4778_5b8f_large_e2b3504cb8.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005213_neo_penotran_500mg_3878_5b8f_large_e789857fda.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005213_neo_penotran_500mg_8152_5b8f_large_dc24fcd4a6.JPG"
+  ],
+  "origin_label": "Thái Lan",
+  "country": "Thái Lan",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên đạn đặt âm đạo",
+  "trust_label": null,
+  "short_description": "<p><strong>Neo - Penotran</strong> được sản xuất bởi <em>Exeltic Ilac San. Ve Tic.A.S.</em> của Thổ Nhĩ Kỳ dùng trong các trường hợp <strong><a href=\"https://nhathuoclongchau.com.vn/benh/viem-am-dao-504.html\">viêm âm đạo</a></strong>.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p><strong>Thuốc Neo - Pentronal</strong> được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li><strong><a href=\"https://nhathuoclongchau.com.vn/benh/nhiem-candida-197.html\">Bệnh nấm candida âm đạo</a></strong>, viêm âm đạo do vi khuẩn và trichomonas, hoặc viêm âm đạo do các nhiễm trùng phối hợp.</li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p>Viên đạn đặt âm đạo Neo - penotran chứa <strong><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/miconazole\">miconazol</a></strong> có tác dụng kháng nấm và metronidazol có tác dụng kháng khuẩn và kháng <em>Trichomonas</em>. Miconazol nitrat là thuốc kháng nấm phổ rộng và có hiệu quả với nấm gây bệnh bao gồm nấm <em>Candida albicans</em>. Ngoài ra, miconazol nitrat có hiệu quả trong kháng khuẩn gram (+). Metronidazol là chất kháng vi khuẩn và kháng đơn bào, có hiệu quả chống <em>Gardnerella </em>âm đạo và các vi khuẩn kỵ khí gồm <em>Streptococcus </em>kỵ khí và <em>Trichomonas </em>âm đạo.</p>\n\n<h3>Dược động học</h3>\n\n<p><em>Hấp thu</em></p>\n\n<p>Sự hấp thu miconazol nitrat qua đường âm đạo rất thấp (gần 1,4% liều). Sinh khả dụng của metronidazol qua đường này là 20% so với đường uống. </p>\n\n<p><em>Phân bố</em></p>\n\n<p>Miconidazol nitrat không được tìm thấy trong huyết tương sau khi dùng Neo - Penotran đường âm đạo. Nồng độ ổn định của metronidazol trong huyết tương đạt đến 1,6 - 7,2 mg/ml.</p>\n\n<p><em>Chuyển hóa</em></p>\n\n<p>Metronidazol được chuyển hóa tại gan. Chất chuyển hóa hydroxy này là chất có tác dụng. </p>\n\n<p><em>Thải trừ</em></p>\n\n<p>Thời gian bán hủy của metronidazol là 6 - 11 giờ. Gần 20% lượng thuốc được tiết ra nước tiểu dưới dạng không đổi.</p>",
+  "ingredients_html": [
+    {
+      "id": 22507,
+      "ingredientId": 27535,
+      "shortDescription": "500mg",
+      "name": "Metronidazole",
+      "isPrimary": false,
+      "slug": "thanh-phan/metronidazole"
+    },
+    {
+      "id": 22508,
+      "ingredientId": 27597,
+      "shortDescription": "100mg",
+      "name": "Miconazole",
+      "isPrimary": false,
+      "slug": "thanh-phan/miconazole"
+    }
+  ],
+  "stock_qty": 0
+}

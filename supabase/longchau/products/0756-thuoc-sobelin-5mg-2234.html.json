@@ -1,0 +1,48 @@
+{
+  "id": "00006787",
+  "slug": "thuoc/sobelin-5mg-2234.html",
+  "title": "Thuốc Sobelin 5mg TO Chemicals điều trị rối loạn tuần hoàn não và ngoại biên (10 vỉ x 10 viên)",
+  "short_title": "SOBELIN 5MG 10X10",
+  "brand": {
+    "name": "TO Chemicals",
+    "slug": "thuong-hieu/to-chemicals",
+    "country": "Thái Lan"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem/thuoc-tri-dau-nua-dau",
+    "name": "Thuốc trị đau nửa đầu",
+    "parent_slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006787_sobelin_5mg_4343_5be1_large_9817e172a3.JPG",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006787_sobelin_5mg_4343_5be1_large_9817e172a3.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006787_sobelin_5mg_2870_5be1_large_7372a9d45f.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006787_sobelin_5mg_9359_5be1_large_ca0d71d1f4.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006787_sobelin_5mg_6535_5be1_large_17c8ef7176.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006787_sobelin_5mg_5769_5be1_large_e721aa172b.JPG"
+  ],
+  "origin_label": "Thái Lan",
+  "country": "Thái Lan",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang cứng",
+  "trust_label": null,
+  "short_description": "<p>Sobelin 5mg của T.O. Chemicals (1979)., Ltd , thành phần chính Flunarizine, dùng cho điều trị rối loạn tuần hoàn não và ngoại biên, như hội chứng hoa mắt chóng mặt, rối loạn thăng bằng, chứng đau nửa đầu, rối loạn hành vi. Thuốc được bào chế dưới dạng viên nang.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3><p>Thuốc Sobelin 5mg được chỉ định dùng trong các trường hợp rối loạn tuần hoàn não và ngoại biên, như hội chứng hoa mắt chóng mặt, rối loạn thăng bằng, chứng đau nửa đầu, rối loạn hành vi.</p><h3><strong>Dược lực học</strong></h3><p>Tác dụng của Sobelin trên sự đối kháng chọn lọc vận chuyển canxi qua màng tế bào cơ trơn mạch máu, hồng cầu và tế bào não.</p><h3><strong>Dược động học</strong></h3><p><i>Hấp thu: </i>Thuốc được hấp thu tốt qua đường ruột, đạt nồng độ đỉnh trong vòng 2-4 giờ và đạt trạng thái hằng định ở tuần thứ 5 - 6.</p><p><i>Phân bố:</i> Gắn kết protein&nbsp;90%.</p><p><i>Chuyển hóa:</i> Chuyển hóa hoàn toàn qua gan.</p><p><i>Thải trừ: </i>Thuốc và các chất chuyển hóa được bài tiết ra phân qua đường mật. Thời gian bán hủy thải trừ tận cùng khoảng 18 ngày.</p>",
+  "ingredients_html": [
+    {
+      "id": 23300,
+      "ingredientId": 20436,
+      "shortDescription": "5mg",
+      "name": "Flunarizine",
+      "isPrimary": false,
+      "slug": "thanh-phan/flunarizine"
+    }
+  ],
+  "stock_qty": 0
+}

@@ -1,0 +1,44 @@
+{
+  "id": "00500872",
+  "slug": "thuoc/herceptin-440mg-roche-20ml-35022.html",
+  "title": "Bột pha tiêm Herceptin 440mg Roche chống ung thư vú (20ml)",
+  "short_title": "HERCEPTIN 440MG ROCHE 20ML",
+  "brand": {
+    "name": "Roche",
+    "slug": "thuong-hieu/roche",
+    "country": "Thụy Sĩ"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-dieu-tri-ung-thu/thuoc-dieu-tri-ung-thu",
+    "name": "Thuốc điều trị ung thư",
+    "parent_slug": "thuoc/thuoc-dieu-tri-ung-thu"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp x 20ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/648_ab7c05a73f.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/648_ab7c05a73f.jpg"
+  ],
+  "origin_label": "Thụy Sĩ",
+  "country": "Thụy Sĩ",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Bột pha tiêm",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Herceptin 440mg là bột đông khô pha dung dịch tiêm truyền chứa hoạt chất <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/trastuzumab\">Trastuzumab</a> nằm trong nhóm thuốc chống ung thư vú.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Herceptin 440mg nằm trong nhóm thuốc chống <a href=\"https://nhathuoclongchau.com.vn/benh/ung-thu-vu-328.html\">ung thư vú</a>.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 33728,
+      "ingredientId": 39125,
+      "shortDescription": "440mg",
+      "name": "Trastuzumab",
+      "isPrimary": false,
+      "slug": "thanh-phan/trastuzumab"
+    }
+  ],
+  "stock_qty": 0
+}

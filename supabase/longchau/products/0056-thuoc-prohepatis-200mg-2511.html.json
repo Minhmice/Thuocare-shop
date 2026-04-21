@@ -1,0 +1,45 @@
+{
+  "id": "00006127",
+  "slug": "thuoc/prohepatis-200mg-2511.html",
+  "title": "Thuốc Prohepatis 200mg Phil điều trị sỏi mật, xơ gan mật nguyên phát (20 vỉ x 5 viên)",
+  "short_title": "PROHEPATIS 200 PHIL 20X5",
+  "brand": {
+    "name": "Phil",
+    "slug": "thuong-hieu/phil",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-benh-gan",
+    "name": "Thuốc trị bệnh gan",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "5 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006127_35e1d8eb9b.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006127_35e1d8eb9b.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00006127_prohepatis_200mg_1630403725_81a613130a.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang mềm",
+  "trust_label": null,
+  "short_description": "<p><strong>Prohepatis</strong> có thành phần chính <em>Acid ursodeoxycholic</em> để điều trị sỏi mật, xơ gan mật nguyên phát.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p><strong>Thuốc Prohepatis</strong> được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Làm tan sỏi mật giàu cholesterol không cản quang ở bệnh nhân có chức năng túi mật bình thường. </li>\n\t<li>Điều trị <strong><a href=\"https://nhathuoclongchau.com.vn/benh/xo-gan-415.html\">xơ gan</a></strong> mật nguyên phát.</li>\n\t<li>Trẻ em: Rối loạn gan mật do xơ nang ở trẻ em từ 6 đến dưới 18 tuổi.</li>\n</ul>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Acid ursodeoxycholic (UDCA) là một acid mật, thường chỉ hiện diện với một tỷ lệ rất nhỏ (lên đến 5% trong tổng số các acid mật UDCA dùng đường uống làm tăng tỷ lệ này (liên quan đến liều dùng) và có thể trở thành acid mật chính (40 - 50%), UDCA làm giảm bài tiết cholesterol lipid mật, chủ yếu là do làm giảm hấp thu cholesterol từ ruột. Có vẻ UDCA không ảnh hưởng đến quá trình sinh tổng hợp cholesterol hoặc acid mật. UDCA làm tan cholesterol dần từ sỏi mật.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>UDCA được phát hiện trong huyết thanh khoảng 10 - 40 phút sau khi uống. UDCA chỉ tan vừa ở đoạn ruột non trên nhưng hấp thu tốt ở hỗng tràng và hồi tràng. Nồng độ đỉnh huyết thanh đạt được sau khoảng 1 đến 3 giờ.</p>\n\n<p>UDCA thanh thải qua gan lần đầu khoảng 60% (chủ yếu ở dạng kết hợp với glycine). UDCA nhanh chóng bài tiết vào mật.</p>\n\n<p>Glycine-UDCA dạng liên hợp có thể được thủy phân để giải phóng UDCA. Phần không được hấp thu được vi khuẩn biến đổi thành acid lithocholic, sản phẩm chính do vi khuẩn biến đổi này, ít được hấp thu vào mật.</p>\n\n<p>Chất chuyển hoá khác, acid 7 ketolithocholic có thể được tái hấp thu và chuyển hoá ở gan thành UDCA và acid lithocholic UDCA và các chất chuyển hoá của nó được thải trừ trong phân.</p>",
+  "ingredients_html": [
+    {
+      "id": 22992,
+      "ingredientId": 42377,
+      "shortDescription": "200mg",
+      "name": "Ursodesoxycholic acid",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

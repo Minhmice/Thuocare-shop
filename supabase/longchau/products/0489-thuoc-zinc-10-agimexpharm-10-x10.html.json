@@ -1,0 +1,44 @@
+{
+  "id": "00033472",
+  "slug": "thuoc/zinc-10-agimexpharm-10-x10.html",
+  "title": "Thuốc Zinc 10 Agimexpharm dự phòng và điều trị thiếu kẽm (10 vỉ x 10 viên)",
+  "short_title": "ZINC 10 AGIMEXPHARM 10X10",
+  "brand": {
+    "name": "Agimexpharm",
+    "slug": "thuong-hieu/agimexpharm",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+    "name": "Thuốc bổ",
+    "parent_slug": "thuoc/thuoc-bo-and-vitamin"
+  },
+  "price_amount": 605,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/zinc_10_fa8dddc929.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/zinc_10_fa8dddc929.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén",
+  "trust_label": null,
+  "short_description": "<p>Zinc 10 là sản phẩm của Công ty Cổ phần Dược phẩm Agimexpharm, thành phần chính Zinc Gluconat, là thuốc dùng để dự phòng thiếu kẽm, bổ sung nhu cầu hằng ngày, điều trị thiếu kẽm.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc Zinc 10 được chỉ định dùng trong các trường hợp sau:</p><p><i>Dự phòng thiếu kẽm, bổ sung nhu cầu hằng ngày trong các trường hợp:</i></p><ul><li>Trẻ chậm tăng trưởng, còi xương.</li><li>Phụ nữ có thai và cho con bú.</li><li>Chế độ ăn mất cân đối, ăn kiêng.</li><li>Tiêu chảy cấp và mạn tính.</li><li>Đàn ông trên 40 tuổi giúp tránh nguy cơ phì đại tuyến tiền liệt.</li></ul><p><i>Điều trị thiếu kẽm:</i></p><ul><li>Thiếu kẽm nhẹ trong các trường hợp:<ul><li>Nhiễm trùng tái phát ở đường hô hấp, tiêu hóa, bệnh ngoài da, kể cả mụn và rôm sảy.</li><li>Rối loạn đường tiêu hóa, biếng ăn, ăn không tiêu. Trẻ em suy nhược về thể chất và tinh thần, khó ngủ, khóc đêm. Các trường hợp suy nhược cơ thể.</li></ul></li><li>Các trường hợp thiếu kẽm nặng: Mụn trứng cá lâu năm.</li><li>Các tổn thương ngoài da: Viêm da đầu chi do bệnh đường ruột, da bị sừng hóa, khô ráp, dễ bị dị ứng, chàm, da đầu nhiều gàu.</li><li>Loạn dưỡng móng: Móng có bớt trắng, lâu mọc móng.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 54442,
+      "ingredientId": 24482,
+      "shortDescription": "10mg",
+      "name": "Kẽm",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

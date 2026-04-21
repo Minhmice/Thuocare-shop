@@ -1,0 +1,55 @@
+{
+  "id": "00001764",
+  "slug": "thuoc/cenditan-ho-tro-dieu-tri-tao-bon-tri-giai-doc-gan-532.html",
+  "title": "Thuốc Cenditan Dược 3-2 điều trị táo bón, trĩ (10 vỉ x 5 viên)",
+  "short_title": "CENDITAN F.T 10X5",
+  "brand": {
+    "name": "Dược 3-2",
+    "slug": "thuong-hieu/duoc-3-2",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tri-tri-suy-gian-tinh-mach",
+    "name": "Thuốc trị trĩ, suy giãn tĩnh mạch",
+    "parent_slug": "thuoc/thuoc-tim-mach-and-mau"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 10 Vỉ x 5 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00001764_cenditan_ho_tro_dieu_tri_tao_bon_tri_giai_doc_gan_6311_60f0_large_eb2da0e827.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00001764_cenditan_ho_tro_dieu_tri_tao_bon_tri_giai_doc_gan_6311_60f0_large_eb2da0e827.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00001764_cenditan_ho_tro_dieu_tri_tao_bon_tri_giai_doc_gan_1626355560_19871aea65.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00001764_cenditan_ho_tro_dieu_tri_tao_bon_tri_giai_doc_gan_9957_5b48_large_d34bd65ef7.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00001764_cenditan_ho_tro_dieu_tri_tao_bon_tri_giai_doc_gan_6370_5b48_large_44411cc110.JPG"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang mềm",
+  "trust_label": null,
+  "short_description": "<p>Thuốc tên thương mại: Cenditan.</p>\n\n<p>Tên hãng sản xuất: Công ty dược phẩm 3/2.</p>\n\n<p>Dạng bào chế: Viên nang mềm.</p>\n\n<p>Hàm lượng thuốc: Cao diếp cá 75mg.</p>\n\n<p>Thuốc Cenditan hỗ trợ điều trị các trường hợp sau: Táo bón, trĩ, giải nhiệt, thông tiểu, mát gan, giải độc.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p style=\"text-align:justify;\">Thuốc Cenditan được chỉ định trong các trường hợp:</p>\n\n<ul>\n\t<li>\n\t<p> Trị <a href=\"https://nhathuoclongchau.com.vn/benh/tao-bon-246.html\">táo bón</a>.</p>\n\t</li>\n\t<li>\n\t<p><a href=\"https://nhathuoclongchau.com.vn/benh/tri-136.html\">Trĩ</a>.</p>\n\t</li>\n\t<li>\n\t<p>Giải nhiệt.</p>\n\t</li>\n\t<li>\n\t<p>Thông tiểu.</p>\n\t</li>\n\t<li>\n\t<p>Mát gan.</p>\n\t</li>\n\t<li>\n\t<p>Giải độc.</p>\n\t</li>\n</ul>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Diếp cá: Theo tài liệu của Đỗ Tất Lợi, Võ Văn Chi, Từ điển Bách khoa Dược học, diếp cá có tác dụng trị táo bón, trĩ, giải nhiệt, giải độc, thông tiểu, làm bền mao mạch, sát trùng, kháng viêm.</p>\n\n<p>Rau má: Theo tài liệu của Đỗ Tất Lợi, Võ Văn Chi, Từ điển Bách khoa Dược học, rau má có tác dụng lợi mật, giảm cholesterol trong máu, giảm urê máu, giảm lipid máu, giúp bảo vệ gan nhất là trong ngộ độc rượu, nhuận gan, giải độc, giải nhiệt, thông tiểu, lọc máu.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Chưa có thông tin.</p>",
+  "ingredients_html": [
+    {
+      "id": 26309,
+      "ingredientId": 11650,
+      "shortDescription": "300mg",
+      "name": "Bột rau má",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 26310,
+      "ingredientId": 17679,
+      "shortDescription": "75mg",
+      "name": "Diếp cá",
+      "isPrimary": false,
+      "slug": "thanh-phan/diep-ca"
+    }
+  ],
+  "stock_qty": 0
+}

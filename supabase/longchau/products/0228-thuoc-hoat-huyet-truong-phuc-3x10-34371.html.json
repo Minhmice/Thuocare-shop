@@ -1,0 +1,91 @@
+{
+  "id": "00500234",
+  "slug": "thuoc/hoat-huyet-truong-phuc-3x10-34371.html",
+  "title": "Thuốc Hoạt Huyết Trường Phúc giúp hoạt huyết, trị thiếu năng tuần hoàn (3 vỉ x 10 viên)",
+  "short_title": "HOẠT HUYẾT TRƯỜNG PHÚC 3X10",
+  "brand": {
+    "name": "TRƯỜNG PHÚC",
+    "slug": "thuong-hieu/truong-phuc",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tang-cuong-tuan-hoan-nao",
+    "name": "Thuốc tăng cường tuần hoàn não",
+    "parent_slug": "thuoc/thuoc-tim-mach-and-mau"
+  },
+  "price_amount": 99000,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 3 Vỉ x 10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00500234_hoat_huyet_truong_phuc_3x10_3439_6293_large_fce5c74dce.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00500234_hoat_huyet_truong_phuc_3x10_3439_6293_large_fce5c74dce.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00500234_hoat_huyet_truong_phuc_3x10_1339_6293_large_2fbeef8a80.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00500234_hoat_huyet_truong_phuc_3x10_9001_6293_large_d466889fe8.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00500234_hoat_huyet_truong_phuc_3x10_5493_6293_large_eaef9efed8.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00500234_hoat_huyet_truong_phuc_3x10_5613_6293_large_b6207da4c9.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00500234_hoat_huyet_truong_phuc_3x10_5302_6293_large_cb9d8bb7d0.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00500234_hoat_huyet_truong_phuc_3x10_4217_6293_large_4326471af7.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00500234_hoat_huyet_truong_phuc_3x10_2843_6293_large_9a4a8ee46f.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Hoạt Huyết Trường Phúc là sản phẩm của Công ty TNHH Dược Thảo Hoàng Thành có thành phần chính là cao đặc hỗn hợp các dược liệu đương quy, ích mẫu, ngưu tất, thục địa, xích thược, xuyên khung có công dụng điều trị các chứng huyết hư, ứ trệ. Phòng ngừa và điều trị thiểu năng tuần hoàn não (mệt mỏi, đau đầu, chóng mặt, mất thăng bằng, hoa mắt, mất ngủ, suy giảm trí nhớ), thiểu năng tuần hoàn ngoại vi (đau mỏi vai gáy, tê cứng cổ, đau cách hồi, đau cơ, tê bì chân tay), phòng ngừa và hỗ trợ điều trị xơ vữa động mạch, nghẽn mạch, tai biến mạch máo não.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p><a href=\"https://nhathuoclongchau.com.vn/thuoc/hoat-huyet-truong-phuc-3x10-34371.html\">Hoạt Huyết Trường Phúc</a> chỉ định điều trị trong các trường hợp sau:</p><ul><li>Điều trị&nbsp;các chứng huyết hư, ứ trệ.</li><li>Phòng ngừa và điều trị thiểu năng tuần hoàn não (mệt mỏi, <a href=\"https://nhathuoclongchau.com.vn/benh/nhuc-dau-24.html\">đau đầu</a>, chóng mặt, mất thăng bằng, hoa mắt, <a href=\"https://nhathuoclongchau.com.vn/benh/mat-ngu-846.html\">mất ngủ</a>, suy giảm trí nhớ), thiểu năng tuần hoàn ngoại vi (đau mỏi vai gáy, tê cứng cổ, đau cách hồi, đau cơ, tê bì chân tay).</li><li>Phòng ngừa và hỗ trợ điều trị <a href=\"https://nhathuoclongchau.com.vn/benh/xo-vua-dong-mach-429.html\">xơ vữa động mạch</a>, nghẽn mạch, tai biến mạch máo não.</li></ul><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 37071,
+      "ingredientId": 38361,
+      "shortDescription": "1.5g",
+      "name": "Thục địa",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 37072,
+      "ingredientId": 23210,
+      "shortDescription": "1.5g",
+      "name": "Ích mẫu",
+      "isPrimary": false,
+      "slug": "thanh-phan/ich-mau"
+    },
+    {
+      "id": 37073,
+      "ingredientId": 29714,
+      "shortDescription": "1.5g",
+      "name": "Ngưu tất (Rễ)",
+      "isPrimary": false,
+      "slug": "thanh-phan/nguu-tat"
+    },
+    {
+      "id": 65422,
+      "ingredientId": 18784,
+      "shortDescription": "1.5g",
+      "name": "Đương quy",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 65423,
+      "ingredientId": 40744,
+      "shortDescription": "0.75g",
+      "name": "Xích thược",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 65424,
+      "ingredientId": 40801,
+      "shortDescription": "0.75g",
+      "name": "Xuyên khung",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

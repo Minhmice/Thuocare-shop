@@ -1,0 +1,46 @@
+{
+  "id": "00048392",
+  "slug": "thuoc/avalo-day-0-03-mg-hoa-duoc-1-x28.html",
+  "title": "Thuốc tránh thai hằng ngày Avalo Day 0,03mg Hóa Dược (1 vỉ x 28 viên)",
+  "short_title": "AVALO DAY 0.03MG HÓA DƯỢC 1X28",
+  "brand": {
+    "name": "Hóa Dược",
+    "slug": "thuong-hieu/hoa-duoc",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-tranh-thai",
+    "name": "Thuốc tránh thai",
+    "parent_slug": "thuoc/thuoc-tiet-nieu-sinh-duc"
+  },
+  "price_amount": 25000,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 1 Vỉ x 28 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/avalo_day_3c02a35d68.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/avalo_day_3c02a35d68.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/Avaloday1_4cf1996579.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/avaloday_7ef1907aec.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén",
+  "trust_label": null,
+  "short_description": "<p>Thuốc tránh thai hằng ngày Avalo Day là sản phẩm của Công ty Hóa dược Việt Nam có thành phần chính là Levonorgestrel dùng hằng ngày để tránh thai.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Avalo Day chỉ định dùng hằng ngày để tránh thai.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 70078,
+      "ingredientId": 25436,
+      "shortDescription": "0.03mg",
+      "name": "Levonorgestrel",
+      "isPrimary": true,
+      "slug": "thanh-phan/levonorgestrel"
+    }
+  ],
+  "stock_qty": 0
+}

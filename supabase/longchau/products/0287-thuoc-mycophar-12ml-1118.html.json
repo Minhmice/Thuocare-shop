@@ -1,0 +1,60 @@
+{
+  "id": "00011350",
+  "slug": "thuoc/mycophar-12ml-1118.html",
+  "title": "Dung dịch bôi da Mycophar Nam Việt điều trị lác, lang ben, nấm kẽ tay (12ml)",
+  "short_title": "MYCOPHAR 12ML",
+  "brand": {
+    "name": "Nam Việt",
+    "slug": "thuong-hieu/nam-viet",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-da-lieu/thuoc-boi-ngoai-da",
+    "name": "Thuốc bôi ngoài da",
+    "parent_slug": "thuoc/thuoc-da-lieu"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Chai",
+  "pack_note": "Chai x 12ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00011350_mycophar_12ml_6995_6078_large_29578983f0.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00011350_mycophar_12ml_6995_6078_large_29578983f0.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch dùng ngoài",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Mycophar 12 ml là sản phẩm được sản xuất bởi Công ty TNHH Dược phẩm Nam Việt, thuốc có thành phần hoạt chất gồm: Salicylic acid, benzoic acid. Thuốc Mycophar dược dùng trong điều trị các bệnh ngoài da như lác, lang ben, nấm kẽ tay, nấm kẽ chân…</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p>Thuốc Mycophar 12 ml được chỉ định dùng trong các trường hợp sau:</p>\n\n<p>Điều trị các triệu chứng về lác, lang ben, nấm da như nấm móng tay - chân, nấm kẽ tay chân...</p>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Chưa có thông tin.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Chưa có thông tin.</p>",
+  "ingredients_html": [
+    {
+      "id": 24537,
+      "ingredientId": 35358,
+      "shortDescription": "3%",
+      "name": "Salicylic acid",
+      "isPrimary": false,
+      "slug": "thanh-phan/salicylic-acid"
+    },
+    {
+      "id": 58843,
+      "ingredientId": 7420,
+      "shortDescription": "3.3%",
+      "name": "Acid benzoic",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 58844,
+      "ingredientId": 19591,
+      "shortDescription": "70%",
+      "name": "Ethanol",
+      "isPrimary": false,
+      "slug": "thanh-phan/ethanol"
+    }
+  ],
+  "stock_qty": 0
+}

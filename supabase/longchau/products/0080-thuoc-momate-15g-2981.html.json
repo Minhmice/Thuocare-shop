@@ -1,0 +1,46 @@
+{
+  "id": "00004995",
+  "slug": "thuoc/momate-15g-2981.html",
+  "title": "Kem bôi da Momate Glenmark điều trị viêm và ngứa bệnh vẩy nến (15g) ",
+  "short_title": "MOMATE 15G",
+  "brand": {
+    "name": "Glenmark",
+    "slug": "thuong-hieu/glenmark",
+    "country": "Ấn Độ"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-da-lieu/thuoc-boi-ngoai-da",
+    "name": "Thuốc bôi ngoài da",
+    "parent_slug": "thuoc/thuoc-da-lieu"
+  },
+  "price_amount": 58000,
+  "compare_at_amount": 0,
+  "unit": "Tuýp",
+  "pack_note": "Tuýp x 15g",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/mometasone_ec502f69df.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/mometasone_ec502f69df.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004995_momate_15g_1618483275_450070b464.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004995_momate_15g_4161_6078_large_4fffd2469b.jpg"
+  ],
+  "origin_label": "Ấn Độ",
+  "country": "Ấn Độ",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Kem",
+  "trust_label": null,
+  "short_description": "<p>Momate là thuốc dạng kem dùng để bôi ngoài da có chứa thành phần chính là mometasone furoat 0,1% được sản xuất bởi công ty Glenmark Pharmaceuticals Ltd.. Thuốc được sử dụng để giảm tình trạng ngứa và viêm của da.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p>Thuốc Momate được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Ðiều trị các biểu hiện viêm và ngứa của bệnh <strong><a href=\"https://nhathuoclongchau.com.vn/bai-viet/benh-vay-nen-nguyen-nhan-va-cach-dieu-tri-benh-35920.html\">vẩy nến</a></strong> (ngoại trừ vẩy nến dạng mảng lan rộng).</li>\n\t<li>Ðiều trị viêm da dị ứng.</li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p>Mometason furoat thể hiện hoạt tính kháng viêm và hoạt tính chống vảy nến rõ rệt trong các mô hình dự đoán tiêu chuẩn ở động vật.</p>\n\n<p>Trong thử nghiệm dầu khổ sâm trên chuột nhắt, mometason có hiệu nghiệm tương đương với betamethason valerat sau một lần bôi và có hiệu nghiệm gấp khoảng 8 lần sau năm lần bôi.</p>\n\n<p>Trên chuột lang, mometason có hiệu nghiệm gấp khoảng 2 lần so với betamethason valerat trong việc giảm chứng dày lớp biểu bì do <em>M.ovalis</em> gây ra (tức là hoạt tính chống vảy nến) sau 14 lần bôi.</p>\n\n<h3>Dược động học</h3>\n\n<p>Các nghiên cứu dược động học chỉ ra rằng khả năng hấp thu toàn thân sau khi bôi tại chỗ kem mometason furoat 0,1% là rất ít, khoảng 0,4% liều dùng ở người, phần lớn trong số đó được bài tiết trong vòng 72 giờ sau khi bôi.</p>\n\n<p>Việc xác định đặc tính của các chất chuyển hoá là không khả thi do chỉ có một lượng nhỏ tồn tại trong huyết tương và chất bài tiết.</p>",
+  "ingredients_html": [
+    {
+      "id": 22385,
+      "ingredientId": 27892,
+      "shortDescription": "0.1% w/w",
+      "name": "Mometasone furoate",
+      "isPrimary": false,
+      "slug": "thanh-phan/mometasone-furoate"
+    }
+  ],
+  "stock_qty": 0
+}

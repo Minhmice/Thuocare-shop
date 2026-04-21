@@ -1,0 +1,48 @@
+{
+  "id": "00003084",
+  "slug": "thuoc/flexsa-1500-3744.html",
+  "title": "Bột pha dung dịch uống Flexsa 1500 MEGA We care giảm triệu chứng viêm khớp gối nhẹ và trung bình (30 gói)",
+  "short_title": "FLEXSA 1500 MEGA 30 GÓI",
+  "brand": {
+    "name": "MEGA We care",
+    "slug": "thuong-hieu/mega-we-care",
+    "country": "Thái Lan"
+  },
+  "category": {
+    "slug": "thuoc/co-xuong-khop/thuoc-xuong-khop",
+    "name": "Thuốc xương khớp",
+    "parent_slug": "thuoc/co-xuong-khop"
+  },
+  "price_amount": 11830,
+  "compare_at_amount": 0,
+  "unit": "Gói",
+  "pack_note": "30 Gói",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00003084_flexsa_1500_6719_5b6c_large_7fc6ec6b66.JPG",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003084_flexsa_1500_6719_5b6c_large_7fc6ec6b66.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003084_flexsa_1500_1626109330_ae3103d44d.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003084_flexsa_1500_3416_5b6c_large_6ead8ae611.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003084_flexsa_1500_7304_5b6c_large_398bd94077.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003084_flexsa_1500_1105_5b6c_large_cbec142d1e.JPG"
+  ],
+  "origin_label": "Thái Lan",
+  "country": "Thái Lan",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Bột pha dung dịch uống",
+  "trust_label": null,
+  "short_description": "<p>Flexsa 1500 của Công ty Mega Lifesciences (Australia) PTY. LTD, thành phần chính là glucosamine sulfate, là thuốc được dùng để <strong>giảm triệu chứng</strong> của<strong> thoái hóa khớp gối</strong> nhẹ và trung bình.</p>",
+  "description_html": "<p><strong>Giới thiệu thuốc Flexsa 1500:</strong></p><ul><li><strong>Chỉ định: </strong>Dùng để giảm triệu chứng của viêm khớp gối nhẹ và trung bình.</li><li><strong>Cách dùng: </strong>Dùng đường uống. Hòa với 1 ly nước, uống trong bữa ăn.</li><li><strong>Đối tượng sử dụng:</strong> Người có triệu chứng của viêm khớp gối nhẹ và trung bình.</li><li><strong>Lưu ý khi sử dụng: </strong>Thời gian dùng thuốc tùy theo cá thể, nên dùng liên tục ít nhất trong 2 đến 3 tháng để đảm bảo hiệu quả điều trị.</li><li><strong>Chống chỉ định: </strong>Phụ nữ có thai và phụ nữ cho con bú. Trẻ em, trẻ vị thành niên dưới 18 tuổi. Bệnh nhân mẫn cảm với một trong những thành phần của thuốc.</li></ul>",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Flexsa 1500 được chỉ định dùng trong trường hợp:</p><p>Giảm triệu chứng của <a href=\"https://nhathuoclongchau.com.vn/benh/viem-khop-253.html\">viêm khớp</a> gối nhẹ và trung bình.</p><h3>Dược lực học</h3><p>Glucosamine tác dụng lên quá trình chuyển hóa dinh dưỡng khớp bằng cách kích thích quá trình sinh tổng hợp mucopolysaccharide (thành phần thiết yếu của chất nền của sụn) và trung mô của xương, cải thiện khả năng hấp thu calci của xương. Tăng sản xuất chất nhầy nên tăng độ nhớt của chất nhầy dịch khớp vì thế làm tăng khả năng bôi trơn của khớp.</p><h3>Dược động học</h3><p>Chưa có báo cáo.</p>",
+  "ingredients_html": [
+    {
+      "id": 21431,
+      "ingredientId": 41948,
+      "shortDescription": "1500mg",
+      "name": "Glucosamin sulfate",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

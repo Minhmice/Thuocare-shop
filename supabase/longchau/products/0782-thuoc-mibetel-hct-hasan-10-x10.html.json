@@ -1,0 +1,52 @@
+{
+  "id": "00041542",
+  "slug": "thuoc/mibetel-hct-hasan-10-x10.html",
+  "title": "Thuốc Mibetel HCT 40/12.5 MG Hasan điều trị tăng huyết áp vô căn (10 vỉ x 10 viên)",
+  "short_title": "MIBETEL HCT 40/12.5 MG HASAN 10X10",
+  "brand": {
+    "name": "Hasan",
+    "slug": "thuong-hieu/hasan",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap",
+    "name": "Thuốc tim mạch huyết áp",
+    "parent_slug": "thuoc/thuoc-tim-mach-and-mau"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00041542_8e6c57f724.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00041542_8e6c57f724.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén",
+  "trust_label": null,
+  "short_description": "<p>Mibetel HCT là sản phẩm của Công Ty TNHH Hasan - Dermapharm, thành phần chính Telmisartan và Hydrochlorothiazid, là thuốc dùng để điều trị tăng huyết áp vô căn ở người lớn không đáp ứng đủ với Telmisartan đơn trị.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Mibetel HCT được chỉ định dùng để điều trị tăng huyết áp vô căn ở người lớn không đáp ứng đủ với telmisartan đơn trị.</p><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 59851,
+      "ingredientId": 37732,
+      "shortDescription": "40mg",
+      "name": "Telmisartan",
+      "isPrimary": false,
+      "slug": "thanh-phan/telmisartan"
+    },
+    {
+      "id": 59852,
+      "ingredientId": 22909,
+      "shortDescription": "12.5mg",
+      "name": "Hydroclorothiazid",
+      "isPrimary": false,
+      "slug": "thanh-phan/hydroclorothiazid"
+    }
+  ],
+  "stock_qty": 0
+}

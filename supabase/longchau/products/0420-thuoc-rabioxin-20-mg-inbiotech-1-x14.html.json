@@ -1,0 +1,44 @@
+{
+  "id": "00047090",
+  "slug": "thuoc/rabioxin-20-mg-inbiotech-1-x14.html",
+  "title": "Thuốc Rabioxin 20mg Inbiotech điều trị loét tá tràng và loét dạ dày lành tính (1 vỉ x 14 viên)",
+  "short_title": "RABIOXIN 20MG INBIOTECH 1X14",
+  "brand": {
+    "name": "INBIOTECH",
+    "slug": "thuong-hieu/inbiotech",
+    "country": "Bulgaria"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-da-day",
+    "name": "Thuốc dạ dày",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "14 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/rabioxin_0fb4fd5f88.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/rabioxin_0fb4fd5f88.jpg"
+  ],
+  "origin_label": "Bulgaria",
+  "country": "Bulgaria",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao tan trong ruột",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Rabioxin 20 là sản phẩm của Laboratorios Liconsa, S.A., có thành phần chính là Rabeprazole. Đây là thuốc được sử dụng để điều trị loét tá tràng và loét dạ dày lành tính đang hoạt động; bệnh trào ngược dạ dày - thực quản (GERD) dạng loét, bào mòn, điều trị duy trì dài hạn và kiểm soát triệu chứng từ trung bình đến rất nặng; hội chứng Zollinger-Ellison và các bệnh lý tăng tiết acid dạ dày; kết hợp kháng sinh để tiệt trừ Helicobacter pylori ở bệnh nhân loét tiêu hóa; điều trị triệu chứng GERD mức độ trung bình đến rất nặng ở thanh thiếu niên từ 12 tuổi trở lên.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc <a href=\"https://nhathuoclongchau.com.vn/thuoc/rabioxin-20-mg-inbiotech-1-x14.html\">Rabioxin 20</a> được chỉ định dùng trong các trường hợp sau:</p><ul><li><a href=\"https://nhathuoclongchau.com.vn/benh/loet-da-day-ta-trang-580.html\">Loét tá tràng</a> hoạt động.</li><li>Loét dạ dày lành tính hoạt động.</li><li>Bệnh <a href=\"https://nhathuoclongchau.com.vn/benh/trao-nguoc-da-day-135.html\">trào ngược dạ dày - thực quản</a> dạng loét hoặc dạng bào mòn (GERD).</li><li>Điều trị duy trì dài hạn bệnh trào ngược dạ dày - thực quản.</li><li>Điều trị triệu chứng bệnh trào ngược dạ dày - thực quản từ trung bình đến rất nặng.</li><li>Hội chứng Zollinger-Ellison và các tình trạng tăng tiết acid bệnh lý khác.</li><li>Kết hợp với chế độ điều trị kháng khuẩn thích hợp để tiệt trừ Helicobacter pylori ở những bệnh nhân bị loét đường tiêu hóa.</li></ul><p>Thanh thiếu niên từ 12 tuổi trở lên: Rabioxin 20 mg được chỉ định trong điều trị triệu chứng bệnh trào ngược dạ dày thực quản từ trung bình đến rất nặng.</p><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 67702,
+      "ingredientId": 34213,
+      "shortDescription": "20mg",
+      "name": "Rabeprazole",
+      "isPrimary": false,
+      "slug": "thanh-phan/rabeprazole"
+    }
+  ],
+  "stock_qty": 0
+}

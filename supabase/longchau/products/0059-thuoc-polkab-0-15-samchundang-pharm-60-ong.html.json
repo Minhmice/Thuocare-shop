@@ -1,0 +1,44 @@
+{
+  "id": "00043376",
+  "slug": "thuoc/polkab-0-15-samchundang-pharm-60-ong.html",
+  "title": "Thuốc nhỏ mắt Polkab 0.15% Samchundang Pharm sử dụng cho triệu chứng khô mắt, rối loạn biểu mô giác mạc (60 ống x 0.5ml)",
+  "short_title": "POLKAB 0.15% SAMCHUNDANG PHARM 60 ỐNG",
+  "brand": {
+    "name": "Samchundang Pharm",
+    "slug": "thuong-hieu/samchundang-pharm",
+    "country": "Hàn Quốc"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-mat-tai-mui-hong/thuoc-nho-mat",
+    "name": "Thuốc nhỏ mắt",
+    "parent_slug": "thuoc/thuoc-mat-tai-mui-hong"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Ống",
+  "pack_note": "60 Ống x 0.5ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00043376_d1c6af7934.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00043376_d1c6af7934.jpg"
+  ],
+  "origin_label": "Hàn Quốc",
+  "country": "Hàn Quốc",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch nhỏ mắt",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Polkab 0.15% có thành phần chính là Natri Hyaluronate. Đây là thuốc được sử dụng cho bệnh nhân gặp triệu chứng khô mắt, đối tượng bị rối loạn biểu mô giác mạc do một trong số các nguyên nhân sau: Hội chứng Stevens-Johnson, hội chứng Sjogren, chấn thương mắt, thường xuyên đeo kính áp tròng, sau phẫu thuật liên quan đến mắt.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc Polkab 0.15% được chỉ định dùng trong các trường hợp sau:</p><ul><li>Bệnh nhân gặp triệu chứng khô mắt</li><li>Đối tượng bị rối loạn biểu mô giác mạc do một trong số các nguyên nhân sau: Hội chứng Stevens-Johnson, hội chứng Sjogren, chấn thương mắt, thường xuyên đeo kính áp tròng, sau phẫu thuật liên quan đến mắt.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 62219,
+      "ingredientId": 41409,
+      "shortDescription": "1.5mg",
+      "name": "Natri Hyaluronate",
+      "isPrimary": true,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

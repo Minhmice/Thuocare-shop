@@ -1,0 +1,45 @@
+{
+  "id": "00002813",
+  "slug": "thuoc/entero-caps-200mg-3864.html",
+  "title": "Thuốc Entero-Caps 200mg Domesco điều trị tiêu chảy cấp tính do nhiễm khuẩn (3 vỉ x 10 viên)",
+  "short_title": "ENTERO-CAPS 200 DMC 3X10",
+  "brand": {
+    "name": "Domesco",
+    "slug": "thuong-hieu/domesco",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-tieu-chay",
+    "name": "Thuốc trị tiêu chảy",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002813_entero_caps_200mg_5305_6092_large_6f0ba5c5bb.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002813_entero_caps_200mg_5305_6092_large_6f0ba5c5bb.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00002813_entero_caps_200mg_1625388955_3e9971c1d8.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang cứng",
+  "trust_label": null,
+  "short_description": "<p style=\"text-align:justify;\">Entero - Caps 200mg của Công ty Cổ phần Xuất nhập khẩu Y tế Domesco, có thành phần chính Nifuroxazide, đây là thuốc dùng để điều trị tiêu chảy cấp tính do nhiễm khuẩn, không có dấu hiệu xâm lấn (suy giảm tổng trạng, sốt cao, dấu hiệu nhiễm trùng - nhiễm độc...).</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p>Thuốc Entero-Caps 200Mg được chỉ định dùng trong các trường hợp <a href=\"https://nhathuoclongchau.com.vn/benh/tieu-chay-133.html\">tiêu chảy</a> cấp tính do nhiễm khuẩn. Trị bổ trợ các bệnh đường ruột và <a href=\"https://nhathuoclongchau.com.vn/benh/viem-dai-trang-1309.html\">viêm đại tràng</a>.</p>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Kháng khuẩn đường ruột.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Thuốc hấp thu rất kém qua đường tiêu hóa nếu niêm mạc ruột không bị tổn thương.</p>",
+  "ingredients_html": [
+    {
+      "id": 36350,
+      "ingredientId": 29933,
+      "shortDescription": "200mg",
+      "name": "Nifuroxazide",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

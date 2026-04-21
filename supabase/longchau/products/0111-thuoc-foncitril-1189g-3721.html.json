@@ -1,0 +1,60 @@
+{
+  "id": "00003132",
+  "slug": "thuoc/foncitril-1189g-3721.html",
+  "title": "Cốm Foncitril 4000 Galien điều trị và phòng ngừa sỏi niệu dạng urat và dạng cystin (30 gói)",
+  "short_title": "FONCITRIL",
+  "brand": {
+    "name": "Galien",
+    "slug": "thuong-hieu/galien",
+    "country": "Pháp"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/hormon",
+    "name": "Hormon",
+    "parent_slug": "thuoc/thuoc-tiet-nieu-sinh-duc"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Gói",
+  "pack_note": "30 Gói",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/for_4000_86d3d38654.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/for_4000_86d3d38654.jpg"
+  ],
+  "origin_label": "Pháp",
+  "country": "Pháp",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Cốm",
+  "trust_label": null,
+  "short_description": "<p>Foncitril 4000 của công ty S.E.R.P sản xuất. Thuốc có thành phần chính là acid citric monohydrat, citrat monokali khan, citrat mononatri khan.</p>\n\n<p>Foncitril 4000 có tác dụng tạo thuận lợi cho kiềm hóa nước tiểu để điều trị và phòng ngừa sỏi niệu dạng urat và dạng cystin. Ngoài ra, thuốc được sử dụng như tác nhân kiềm hóa trong điều trị thải acid uric và hủy acid uric, phòng ngừa toan chuyển hóa.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p>Thuốc Foncitril 4000 được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>\n\t<p>Tạo thuận lợi cho kiềm hóa nước tiểu để điều trị và phòng ngừa sỏi niệu dạng urat và dạng cystin. </p>\n\t</li>\n\t<li>\n\t<p>Sử dụng như tác nhân kiềm hóa trong điều trị thải acid uric và hủy acid uric. </p>\n\t</li>\n\t<li>\n\t<p>Phòng ngừa toan chuyển hóa.</p>\n\t</li>\n</ul>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Tác nhân kiềm hóa nước tiểu (G: Niệu khoa).</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Không có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 21449,
+      "ingredientId": 7426,
+      "shortDescription": "1.189g",
+      "name": "Acid Citric khan",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 21450,
+      "ingredientId": 42083,
+      "shortDescription": "1.73g",
+      "name": "Citrat monokali khan",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 21451,
+      "ingredientId": 42084,
+      "shortDescription": "1.845g",
+      "name": "Citrat mononatri khan",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

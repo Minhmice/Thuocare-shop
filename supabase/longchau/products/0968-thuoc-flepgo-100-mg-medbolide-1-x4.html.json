@@ -1,0 +1,44 @@
+{
+  "id": "00048419",
+  "slug": "thuoc/flepgo-100-mg-medbolide-1-x4.html",
+  "title": "Thuốc Flepgo 100mg Điều trị rối loạn cương dương ở nam giới trưởng thành (1 vỉ x 4 viên)",
+  "short_title": "FLEPGO 100MG MEDBOLIDE 1X4",
+  "brand": {
+    "name": "Medbolide",
+    "slug": "thuong-hieu/medbolide",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-tri-roi-loan-cuong-duong",
+    "name": "Thuốc trị rối loạn cương dương",
+    "parent_slug": "thuoc/thuoc-tiet-nieu-sinh-duc"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "4 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/4_0f993817c1.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/4_0f993817c1.png"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Flepgo 100 dùng trong điều trị rối loạn cương dương ở nam giới trưởng thành. Thuốc chỉ có tác dụng khi có sự kích thích tình dục.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Flepgo 100 dùng trong điều trị rối loạn cương dương ở nam giới trưởng thành. Thuốc chỉ có tác dụng khi có sự kích thích tình dục.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 73511,
+      "ingredientId": 9840,
+      "shortDescription": "100mg",
+      "name": "Avanafil",
+      "isPrimary": false,
+      "slug": "thanh-phan/avanafil"
+    }
+  ],
+  "stock_qty": 0
+}

@@ -1,0 +1,44 @@
+{
+  "id": "00007796",
+  "slug": "thuoc/vastarel-mr-35mg-1824.html",
+  "title": "Thuốc Vaspycar MR 35mg Pymepharco điều trị chứng đau thắt ngực ổn định (2 vỉ x 30 viên) ",
+  "short_title": "VASPYCAR MR 35 PMP 2X30",
+  "brand": {
+    "name": "Pymepharco",
+    "slug": "thuong-hieu/pymepharco",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap",
+    "name": "Thuốc tim mạch huyết áp",
+    "parent_slug": "thuoc/thuoc-tim-mach-and-mau"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "30 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007796_vaspycar_mr_35mg_4384_60be_large_c8c06b7144.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00007796_vaspycar_mr_35mg_4384_60be_large_c8c06b7144.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim phóng thích có kiểm soát",
+  "trust_label": null,
+  "short_description": "<p><strong>Vastarel MR</strong> được sản xuất bởi <em>Les Laboratoires Servier Industrie</em>, với thành phần chính trimetazidine dihydrochloride, là thuốc dùng cho người lớn trong liệu pháp bổ sung/hỗ trợ vào biện pháp trị liệu hiện có để điều trị triệu chứng ở bệnh nhân đau thắt ngực ổn định không được kiểm soát đầy đủ hoặc bệnh nhân không dung nạp với các liệu pháp điều trị đau thắt ngực khác.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p><strong>Thuốc Vastarel MR</strong> được chỉ định dùng trong các trường hợp sau: Dùng cho người lớn trong liệu pháp bổ sung/hỗ trợ vào biện pháp trị liệu hiện có để điều trị triệu chứng ở bệnh nhân <strong><a href=\"https://nhathuoclongchau.com.vn/benh/con-dau-that-nguc-228.html\">đau thắt ngực</a></strong> ổn định không được kiểm soát đầy đủ hoặc bệnh nhân không dung nạp với các liệu pháp điều trị đau thắt ngực khác.</p>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Bằng cách bảo toàn chuyển hoá năng lượng ở tế bào bị thiếu oxy hay thiếu máu cục bộ, <strong><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/trimetazidine\">trimetazidine</a></strong> phòng được giảm ATP nội bào, do đó đảm bảo chức năng bơm ion và kênh K/Na xuyên màng trong khi vẫn duy trì cân bằng nội mô tế bào.</p>\n\n<p>Trimetazidine ức chế quá trình beta oxy hóa các acid béo bằng cách ức chế các enzyme long - chain 3 ketoacyl - CoA thiolase ở tế bào thiếu máu cục bộ, năng lượng thu được trong quá trình oxy hóa glucose sẽ giúp tối ưu các quá trình năng lượng tế bào, do đó duy trì được chuyển hóa năng lượng thích hợp trong thời gian thiếu máu. Ở những bệnh nhân thiếu máu cục bộ, trimetazidine hoạt động như một chất chuyển hóa, giúp bảo tồn mức năng lượng phosphate cao nội bào trong tế bào cơ tim. Trimetazidine có tác dụng chống thiếu máu cục bộ nhưng không ảnh hưởng đến huyết động.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p><em>Hấp thu</em></p>\n\n<p>Sau khi uống, nồng độ tối đa đạt được sau 5 giờ. Sau 24 giờ, nồng độ thuốc trong huyết tương vẫn còn ở mức trên hay tương đương 75% nồng độ tối đa trong 11 giờ. Trạng thái ổn định đạt được muộn nhất sau khoảng 60 giờ. Đặc tính dược động học của Vastarel MR không bị ảnh hưởng bởi thức ăn.</p>\n\n<p><em>Phân bố</em></p>\n\n<p>Thế tích phân bố là 4,8l/kg. Thuốc gắn với protein huyết tương thấp, đo in vitro cho giá trị 16%.</p>\n\n<p><em>Thải trừ</em></p>\n\n<p>Trimetazidine được thải trừ chủ yếu qua nước tiểu dưới dạng không đổi. Thời gian bán thải của Vastarel MR trung bình 7 giờ ở người trẻ tình nguyện khỏe mạnh và 12 giờ ở người trên 65 tuổi. Thanh lọc hoàn phần của trimetazidine phần lớn qua thận mà trực tiếp liên quan đến độ thanh thải creatinine, ở mức độ ít hơn là thanh lọc qua gan, việc thanh lọc qua gan giảm theo tuổi.</p>",
+  "ingredients_html": [
+    {
+      "id": 23720,
+      "ingredientId": 39378,
+      "shortDescription": "35mg",
+      "name": "Trimetazidine",
+      "isPrimary": false,
+      "slug": "thanh-phan/trimetazidine"
+    }
+  ],
+  "stock_qty": 0
+}

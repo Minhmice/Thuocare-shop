@@ -1,0 +1,52 @@
+{
+  "id": "00004611",
+  "slug": "thuoc/loutai-100mg-3144.html",
+  "title": "Thuốc Luotai Kunming điều trị đột quỵ, liệt nửa người (30 viên)",
+  "short_title": "LUOTAI 100 30V",
+  "brand": {
+    "name": "KPC Pharma",
+    "slug": "thuong-hieu/kpc-pharma",
+    "country": "Trung Quốc"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tang-cuong-tuan-hoan-nao",
+    "name": "Thuốc tăng cường tuần hoàn não",
+    "parent_slug": "thuoc/thuoc-tim-mach-and-mau"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "30 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004611_loutai_100mg_9587_63db_large_ef5edbc1be.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004611_loutai_100mg_9587_63db_large_ef5edbc1be.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004611_loutai_100mg_1675312825_2c8da29f82.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004611_loutai_100mg_9862_63db_large_682f682b01.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004611_loutai_100mg_3378_63db_large_326fe1b465.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004611_loutai_100mg_8218_63db_large_586581baf4.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004611_loutai_100mg_1047_63db_large_39283bee80.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004611_loutai_100mg_6704_63db_large_c712dc018d.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004611_loutai_100mg_3749_63db_large_bf5fd96b5a.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004611_loutai_100mg_6369_63db_large_d4caff695a.jpg"
+  ],
+  "origin_label": "Trung Quốc",
+  "country": "Trung Quốc",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang mềm",
+  "trust_label": null,
+  "short_description": "<p><strong>Thuốc Luotai </strong>của <i>Công ty Kunming Pharmaceutical Corp.</i>, thành phần chính saponin toàn phần chiết xuất từ rễ tam thất (Panax notoginseng saponins) là&nbsp;một loại thuốc dùng theo đơn, được chỉ định điều trị đột quỵ, liệt nửa người, nhồi máu não do xơ vữa động mạch và huyết khối. Hậu quả của tai biến mạch máu não - tim mạch. Tắc nghẽn mạch máu võng mạc do huyết khối. Bệnh mạch máu tim như đau thắt ngực, đau ngực,...</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3><p><strong>Thuốc Luotai </strong>được chỉ định dùng trong các trường hợp sau:</p><ul><li>Đột quỵ, <a href=\"https://nhathuoclongchau.com.vn/benh/liet-nua-nguoi-17.html\"><strong>liệt nửa người</strong></a>, nhồi máu não do xơ vữa động mạch và huyết khối.</li><li>Hậu quả của tai biến mạch máu não – tim mạch.</li><li>Tắc nghẽn mạch máu võng mạc do huyết khối.</li><li>Bệnh mạch máu tim như <a href=\"https://nhathuoclongchau.com.vn/benh/con-dau-that-nguc-228.html\"><strong>đau thắt ngực</strong></a>, đau ngực,...</li></ul><h3><strong>Dược động học</strong></h3><p>Luotai có tác dụng tăng cường tuần hoàn máu, phân tán cục máu đông, làm bền vững thành mạch. Luotai cũng có tác dụng ức chế kết tập tiểu cầu, cải thiện dòng máu não.</p><h3><strong>Dược lực học</strong></h3><p>Chống thiếu máu não, giảm tỷ lệ đột quỵ gây ra bởi tổn thương do hiện tượng tưới máu lại vùng não bị thiếu máu; làm giảm phần nào nồng độ Ca trong mô não bị tổn thương.</p><p>Tăng cường dòng máu não – tim, cải thiện huyết động học.</p><p>Ức chế sự tạo huyết khối (tỷ lệ ức chế đạt 92,1%) và cải thiện hoạt tính của tPA.</p><p>Ức chế kết tập tiểu cầu gây ra bởi ADP và acid arachidonic trên thỏ (đạt tới 83,7%).</p>",
+  "ingredients_html": [
+    {
+      "id": 22199,
+      "ingredientId": 31458,
+      "shortDescription": "100mg",
+      "name": "panax notoginseng saponins",
+      "isPrimary": true,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

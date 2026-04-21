@@ -1,0 +1,44 @@
+{
+  "id": "00007519",
+  "slug": "thuoc/tributel-1934.html",
+  "title": "Thuốc Tribute Davipharm điều trị rối loạn chức năng đường tiêu hóa (10 vỉ x 10 viên)",
+  "short_title": "TRIBUTEL 200 DAVI 10X10",
+  "brand": {
+    "name": "Davipharm",
+    "slug": "thuong-hieu/davipharm",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tieu-hoa",
+    "name": "Thuốc tiêu hoá",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/tributel_8feadc671d.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/tributel_8feadc671d.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p><strong>Thuốc Tributel</strong> được sản xuất bởi <em>công ty cổ phần dược phẩm Đạt Vi Phú</em>, có thành phần chính là <strong><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/trimebutine\">Trimebutine</a></strong>. Thuốc Tributel được chỉ định trong điều trị các chứng đau do rối loạn chức năng đường tiêu hóa, dạ dày, ruột non, ruột già và đường mật; co thắt và trào ngược thực quản (ợ hơi, nôn, khó nuốt, nấc…); Hội chứng đại tràng kích thích và co thắt đại tràng (đau quặn bụng, đầy hơi, tiêu chảy hoặc tiêu chảy xen kẽ táo bón).</p>\n\n<p>Thuốc Tributel được bào chế dưới dạng viên nén bao phim. Hộp 10 vỉ x 10 viên.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p><strong>Thuốc Tributel</strong> được chỉ định dự phòng dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Điều trị triệu chứng đau do rối loạn chức năng của ống tiêu hóa và đường mật. </li>\n\t<li>Điều trị triệu chứng đau, rối loạn sự chuyển vận, bất ổn ở ruột có liên quan đến rối loạn chức năng của ruột.</li>\n</ul>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Thuốc chống co thắt có tác động trên cơ.</p>\n\n<p>Điều chỉnh sự vận động đường tiêu hóa.</p>\n\n<p>Chất chủ vận enképhalinergique ở ngoại biên.</p>\n\n<p>Trimebutin có thể kích thích sự vận động ở ruột và cũng có thể ức chế sự vận động này nếu trước đó đã bị kích thích.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Thuốc đạt nồng độ tối đa trong máu khi uống từ 1 đến 2 giờ.</p>\n\n<p>Thuốc được thải trừ nhanh và hoàn toàn, chủ yếu ra nước tiểu: Trung bình 70% sau 24 giờ.</p>",
+  "ingredients_html": [
+    {
+      "id": 46209,
+      "ingredientId": 39367,
+      "shortDescription": "200mg",
+      "name": "Trimebutine",
+      "isPrimary": false,
+      "slug": "thanh-phan/trimebutine"
+    }
+  ],
+  "stock_qty": 0
+}

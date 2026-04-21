@@ -1,0 +1,44 @@
+{
+  "id": "00503348",
+  "slug": "thuoc/tiphanicef-300mg-tipharco-2x10-37656.html",
+  "title": "Thuốc TiphaNicef 300 Tipharco điều trị các nhiễm khuẩn thể nhẹ và vừa (2 vỉ x 10 viên)",
+  "short_title": "TIPHANICEF 300MG TIPHARCO 2X10",
+  "brand": {
+    "name": "Tipharco",
+    "slug": "thuong-hieu/tipharco",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-khang-sinh-khang-nam/thuoc-khang-sinh",
+    "name": "Thuốc kháng sinh",
+    "parent_slug": "thuoc/thuoc-khang-sinh-khang-nam"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/tiphanicep_3644c09d50.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/tiphanicep_3644c09d50.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang cứng",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Tiphanicef 300 là sản phẩm của Tipharco, có thành phần chính là Cefdinir. Đây là thuốc dùng để điều trị các nhiễm khuẩn thể nhẹ và vừa do các vi khuẩn còn nhạy cảm gây ra.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Tiphanicef 300 được chỉ định dùng trong các trường hợp sau:</p><ul><li>Điều trị các nhiễm khuẩn thể nhẹ và vừa do các vi khuẩn còn nhạy cảm gây ra.</li></ul><p><i>Người lớn và thanh thiếu niên:</i></p><ul><li>Viêm phổi mắc phải cộng đồng và đợt kịch phát cấp tính của viêm phế quản mạn.</li><li>Nhiễm khuẩn đường hô hấp trên như viêm xoang cấp tính.</li><li>Viêm họng và viêm amiđan.</li><li>Nhiễm khuẩn da và các tổ chức da không biến chứng.</li></ul><p><i>Trẻ em:</i></p><ul><li>Viêm tai giữa cấp.</li><li>Viêm họng và viêm amiđan.</li><li>Nhiễm khuẩn da và các tổ chức da không biến chứng.</li></ul><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 45628,
+      "ingredientId": 13569,
+      "shortDescription": "300mg",
+      "name": "Cefdinir",
+      "isPrimary": false,
+      "slug": "thanh-phan/cefdinir"
+    }
+  ],
+  "stock_qty": 0
+}

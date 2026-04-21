@@ -1,0 +1,51 @@
+{
+  "id": "00041199",
+  "slug": "thuoc/methicowel-500-mg-akums-10-x10.html",
+  "title": "Thuốc Methicowel 500 Akums điều trị các bệnh lý thần kinh ngoại biên, thiếu máu hồng cầu to (10 vỉ x 10 viên)",
+  "short_title": "METHICOWEL 500MCG AKUMS 10X10",
+  "brand": {
+    "name": "Akums",
+    "slug": "thuong-hieu/akums",
+    "country": "Ấn Độ"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-than-kinh/thuoc-than-kinh",
+    "name": "Thuốc thần kinh",
+    "parent_slug": "thuoc/thuoc-than-kinh"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00292_7e1a4cc838.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00292_7e1a4cc838.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00293_ac6a9d3e2e.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00294_ee7d567afa.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00295_a583b5483c.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00296_eb4bce1fbf.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00297_e2b922f78b.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00298_098572c2d6.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00299_0ad5e28e9d.jpg"
+  ],
+  "origin_label": "Ấn Độ",
+  "country": "Ấn Độ",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Methicowel 500 là sản phẩm của Akums Drugs &amp; Pharmaceuticals LTD, có thành phần chính là mecobalamin. Đây là thuốc được sử dụng để điều trị các bệnh lý thần kinh ngoại biên, điều trị thiếu máu hồng cầu to do thiếu vitamin B12.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Methicowel 500 được chỉ định dùng trong các trường hợp sau:</p><ul><li>Điều trị các bệnh lý thần kinh ngoại biên.</li><li>Điều trị thiếu máu hồng cầu to do thiếu vitamin B12.</li></ul><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 58972,
+      "ingredientId": 26789,
+      "shortDescription": "500mcg",
+      "name": "mecobalamin",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

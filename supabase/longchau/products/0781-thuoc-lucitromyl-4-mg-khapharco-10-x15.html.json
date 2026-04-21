@@ -1,0 +1,44 @@
+{
+  "id": "00043770",
+  "slug": "thuoc/lucitromyl-4-mg-khapharco-10-x15.html",
+  "title": "Thuốc Lucitromyl 4mg Khapharco điều trị đau do co cứng cơ (10 vỉ x 15 viên)",
+  "short_title": "LUCITROMYL 4MG KHAPHARCO 10X15",
+  "brand": {
+    "name": "Khapharco",
+    "slug": "thuong-hieu/khapharco",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/co-xuong-khop/thuoc-gian-co",
+    "name": "Thuốc giãn cơ",
+    "parent_slug": "thuoc/co-xuong-khop"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "15 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00043770_68dbbc22ca.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00043770_68dbbc22ca.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Lucitromyl là sản phẩm của Công ty Cổ phần Dược phẩm Khánh Hoà, có thành phần chính là Thiocolchicoside. Đây là thuốc được sử dụng để hỗ trợ điều trị đau do co cứng cơ trong bệnh lý cột sống cấp tính ở người lớn và trẻ vị thành niên trên 16 tuổi.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc Lucitromyl được chỉ định dùng trong các trường hợp sau:</p><ul><li dir=\"ltr\">Hỗ trợ điều trị đau do co cứng cơ trong bệnh lý cột sống cấp tính ở người lớn và trẻ vị thành niên trên 16 tuổi.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 61722,
+      "ingredientId": 38244,
+      "shortDescription": "4mg",
+      "name": "Thiocolchicoside",
+      "isPrimary": false,
+      "slug": "thanh-phan/thiocolchicoside"
+    }
+  ],
+  "stock_qty": 0
+}

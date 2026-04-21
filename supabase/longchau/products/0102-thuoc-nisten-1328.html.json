@@ -1,0 +1,44 @@
+{
+  "id": "00010295",
+  "slug": "thuoc/nisten-1328.html",
+  "title": "Viên nén Nisten 5mg DaViPharm điều trị bệnh mạch vành, đau thắt ngực (2 vỉ x 14 Viên)",
+  "short_title": "NISTEN 5 DAVI 2X14",
+  "brand": {
+    "name": "Davipharm",
+    "slug": "thuong-hieu/davipharm",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap",
+    "name": "Thuốc tim mạch huyết áp",
+    "parent_slug": "thuoc/thuoc-tim-mach-and-mau"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "14 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/nisten_2e0cc2bacc.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/nisten_2e0cc2bacc.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Nisten là sản phẩm được sản xuất bởi Công ty TNHH Đạt Vi Phú (Davipharm), với dược chất chính là ivabradin, thuốc được dùng trong điều trị các bệnh tim mạch: Bệnh đau thắt ngực, bệnh mạch vành…</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p>Thuốc Nisten được chỉ định dùng trong các trường hợp sau:</p>\n\n<p>Điều trị bệnh <a href=\"https://nhathuoclongchau.com.vn/benh/benh-mach-vanh-598.html\">mạch vành</a>.</p>\n\n<p>Điều trị triệu chứng <a href=\"https://nhathuoclongchau.com.vn/benh/con-dau-that-nguc-228.html\">đau thắt ngực</a> ổn định mạn tính ở bệnh nhân mạch vành với nhịp nút xoang bình thường. Ivabradin được dùng cho:</p>\n\n<ul>\n\t<li>Bệnh nhân không dung nạp hoặc chống chỉ định với các thuốc chẹn beta.</li>\n\t<li>\n\t<p>Phối hợp với thuốc chẹn beta ở bệnh nhân không kiểm soát được với thuốc chẹn beta liều tối đa và bệnh nhân có nhịp tim trên 60 lần/phút.</p>\n\t</li>\n</ul>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Ivabradin là một là một chất ức chế chọn lọc và đặc hiệu kênh If ở nút xoang. Ivabradin ức chế dòng ion qua kênh f (If) dẫn đến làm giảm tần số tim đơn thuần mà không ảnh hưởng đến tính co thắt cơ, tính dẫn truyền, hay tái cực cơ tim, không ảnh hưởng đến trương lực mạch ngoại biên.</p>\n\n<p>Đặc tính dược lực chính của ivabradin là giảm nhịp tim phụ thuộc liều dùng. Phân tích mức giảm nhịp tim ở liều 20mg x 2 lần/ngày cho thấy xu hướng tác dụng bình nguyên phù hợp với giảm nguy cơ chậm nhịp tim dưới 40 lần/phút.</p>\n\n<p>Ở liều thông thường, ivabradin làm nhịp tim giảm khoảng 10 lần/phút lúc nghỉ và gắng sức. Điều này giúp giảm tải cho tim và tiêu thụ oxy cơ tim. Ivabradin không ảnh hưởng đến sự dẫn truyền trong tim, tính co cơ tim hoặc tái phân cực tâm thất:</p>\n\n<ul>\n\t<li>\n\t<p>Trong các nghiên cứu điện sinh lý lâm sàng, ivabradin không có tác dụng trên thời gian dẫn truyền nhĩ - thất hoặc trong tâm thất hoặc khoảng QT được điều chỉnh.</p>\n\t</li>\n\t<li>\n\t<p>Ở bênh nhân rối loạn thất trái (phân suất tống máu thất trái LVEF 30 - 45%), ivabradin không có bất kỳ ảnh hưởng có hại nào đến LVEF.</p>\n\t</li>\n</ul>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Ivabradin hấp thu hoàn toàn sau khi uống nhưng sinh khả dụng chỉ đạt khoảng 40% do qua chuyển hóa lần đầu. Nồng độ đỉnh đạt được sau khoảng 1 giờ khi bụng đói nhưng kéo dài thêm 1 giờ khi no và lượng hấp thu tăng khoảng 20 - 30%. Ivabradln gắn kết vơi protein huyết tương khoảng 70%.</p>\n\n<p>Ivabradin chuyển hóa ở gan và ruột qua cytochrom P450 CYP3A4 thành chất chuyển hóa chính N - desmethyl - ivabradin (S - 18982). Chất này được chuyển hóa tiếp theo bởi CYP3A4. Ivabradin có thời gian bán thải khoảng 2 giờ. Các chất chuyển hóa được bài tiết qua nước tiểu và phân. Khoảng 4% liều dùng xuất hiện trong nước tiểu ở dạng nguyên vẹn. Nghiên cứu trên động vât cho thấy Ivabradin có phân bổ vào sữa mẹ.</p>",
+  "ingredients_html": [
+    {
+      "id": 42010,
+      "ingredientId": 24256,
+      "shortDescription": "5mg",
+      "name": "Ivabradine",
+      "isPrimary": false,
+      "slug": "thanh-phan/ivabradine"
+    }
+  ],
+  "stock_qty": 0
+}

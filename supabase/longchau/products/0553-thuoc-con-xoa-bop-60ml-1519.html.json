@@ -1,0 +1,100 @@
+{
+  "id": "00009713",
+  "slug": "thuoc/con-xoa-bop-60ml-1519.html",
+  "title": "Cồn Xoa Bóp OPC điều trị thấp khớp, nhức mỏi xương gân (60ml)",
+  "short_title": "CỒN XOA BÓP OPC 60ML",
+  "brand": {
+    "name": "Opc",
+    "slug": "thuong-hieu/opc",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/mieng-dan-cao-xoa-dau/dau-nong-xoa-bop",
+    "name": "Dầu nóng xoa bóp",
+    "parent_slug": "thuoc/mieng-dan-cao-xoa-dau"
+  },
+  "price_amount": 34000,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp x 60ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00009713_con_xoa_bop_60ml_3554_609a_large_1e7421b489.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00009713_con_xoa_bop_60ml_3554_609a_large_1e7421b489.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch",
+  "trust_label": null,
+  "short_description": "<p>Cồn xoa bóp có thành phần chính là dịch chiết của các dược liệu. Thuốc có tác dụng giảm đau nhức do nhiều nguyên nhân: Thấp khớp, nhức mỏi gân xương, bị thương, bị ngã, bong gân. Cồn xoa bóp được đóng gói thành hộp 1 chai 60ml hoặc 90ml, chai xịt 50ml.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p>Cồn xoa bóp 60ml được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Chữa các chứng đau nhức do nhiều nguyên nhân: Thấp khớp, nhức mỏi gân xương, bị thương, bị ngã, bong gân.</li>\n</ul>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Chưa cập nhật.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Chưa cập nhật.</p>",
+  "ingredients_html": [
+    {
+      "id": 24102,
+      "ingredientId": 17447,
+      "shortDescription": "4.50g",
+      "name": "Địa liền",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 24103,
+      "ingredientId": 34850,
+      "shortDescription": "4.50g",
+      "name": "Riềng",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 24104,
+      "ingredientId": 38203,
+      "shortDescription": "2.70g",
+      "name": "Thiên niên kiện",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 24105,
+      "ingredientId": 22844,
+      "shortDescription": "2.70g",
+      "name": "Huyết Giác",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 24106,
+      "ingredientId": 16566,
+      "shortDescription": "1.80g",
+      "name": "Đại hồi",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 24107,
+      "ingredientId": 34074,
+      "shortDescription": "1.80g",
+      "name": "Quế chi",
+      "isPrimary": false,
+      "slug": "thanh-phan/que-chi"
+    },
+    {
+      "id": 24108,
+      "ingredientId": 12524,
+      "shortDescription": "0.90g",
+      "name": "Camphora",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 24109,
+      "ingredientId": 19591,
+      "shortDescription": "96%",
+      "name": "Ethanol",
+      "isPrimary": false,
+      "slug": "thanh-phan/ethanol"
+    }
+  ],
+  "stock_qty": 0
+}

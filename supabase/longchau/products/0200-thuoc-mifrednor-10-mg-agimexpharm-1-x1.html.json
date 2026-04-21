@@ -1,0 +1,44 @@
+{
+  "id": "00500790",
+  "slug": "thuoc/mifrednor-10-mg-agimexpharm-1-x1.html",
+  "title": "Thuốc Mifrednor 10mg Agimexpharm ngừa thai khẩn cấp (1 vỉ x 10 viên)",
+  "short_title": "MIFREDNOR 10MG AGIMEXPHARM 1X1",
+  "brand": {
+    "name": "Agimexpharm",
+    "slug": "thuong-hieu/agimexpharm",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-tranh-thai",
+    "name": "Thuốc tránh thai",
+    "parent_slug": "thuoc/thuoc-tiet-nieu-sinh-duc"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "1 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00500790_11757a07f5.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00500790_11757a07f5.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén",
+  "trust_label": null,
+  "short_description": "<p title=\"Mifrednor 10\">Mifrednor 10 là sản phẩm của Công ty Cổ phần Dược phẩm Agimexpharm với thành phần chính là Mifepriston. Mifrednor 10 là thuốc ngừa thai khẩn cấp (trong vòng 120 giờ sau giao hợp).</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Ngừa thai khẩn cấp (trong vòng 120 giờ sau giao hợp).</p><h3>Dược lực học</h3><p>Là một antiprogestin.</p><p>Ngừa thai do tác động trước khi có sự làm tổ của trứng thụ tinh. Tác dụng đôi do ngăn chặn sự rụng trứng và ngăn chặn sự nâng đỡ nội mạc. Tác dụng quan trọng nhất là làm chậm sự rụng trứng do phá vỡ sự trưởng thành của nang trứng và chức năng nội tiết của tế bào hạt, ngăn đỉnh LH vào giữa chu kỳ. Cũng có tác dụng trên nội mạc nếu dùng sau khi rụng trứng và ảnh hưởng đến sự làm tổ. Ngoài ra, 50% phụ nữ bị thoái hóa hoàng thể khiến nội mạc dễ bong hơn.</p><p>Tác động:</p><p>Mifepriston tác động như là một chất kháng progesteron bằng cách cạnh tranh với progesteron nội sinh trên sự gắn kết receptor. Nó có ái lực gắn kết rất cao với những receptor này (gấp khoảng từ 2-10 lần so với progesteron).</p><p>Mifepriston ngăn chặn những tác động của progesteron lên màng trong dạ con và màng bụng. Điều này dẫn đến tình trạng thoái hoá và sự bong ra của niêm mạc màng trong dạ con, do đó ngăn ngừa hoặc phá vỡ sự gắn chặt của bào thai.</p><h3>Dược động học</h3><p>Sinh khả dụng của mifepriston khoảng 70 % sau khi uống. Nồng độ đỉnh trong huyết tương đạt được trong vòng từ 1 đến 2 giờ sau khi uống liều duy nhất. Thời gian bán huỷ khoảng 20 tới 30 giờ. Phần mifepriston không gắn kết thì được chuyển hoá nhanh chóng do demethyl hoá và hydroxyl hoá ở gan và sự chuyển hoá này có thể phát hiện được trong huyết tương khoảng 1 giờ sau khi uống.</p><p>Mifepriston và các chuyển hoá của nó đào thải chủ yếu qua phân thông qua hệ thống mật, và một ít qua thận.</p>",
+  "ingredients_html": [
+    {
+      "id": 33235,
+      "ingredientId": 27639,
+      "shortDescription": "10mg",
+      "name": "Mifrednor",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

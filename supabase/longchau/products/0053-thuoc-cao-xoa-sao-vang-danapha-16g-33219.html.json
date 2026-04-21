@@ -1,0 +1,98 @@
+{
+  "id": "00033095",
+  "slug": "thuoc/cao-xoa-sao-vang-danapha-16g-33219.html",
+  "title": "Cao Sao Vàng Danapha điều trị cảm cúm, nhức đầu (16g)",
+  "short_title": "CAO XOA SAO VÀNG DANAPHA 16G",
+  "brand": {
+    "name": "Danapha",
+    "slug": "thuong-hieu/danapha",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/mieng-dan-cao-xoa-dau/cao-xoa",
+    "name": "Cao xoa",
+    "parent_slug": "thuoc/mieng-dan-cao-xoa-dau"
+  },
+  "price_amount": 29000,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp x 16g",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00033095_cao_xoa_sao_vang_danapha_16g_6809_61c9_large_799d989e95.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00033095_cao_xoa_sao_vang_danapha_16g_6809_61c9_large_799d989e95.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00033095_cao_xoa_sao_vang_danapha_16g_1640598544_fd14457ee2.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00033095_cao_xoa_sao_vang_danapha_16g_4453_61c9_large_5ba1c037d3.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00033095_cao_xoa_sao_vang_danapha_16g_7161_61c9_large_5db34242c5.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00033095_cao_xoa_sao_vang_danapha_16g_1013_61c9_large_2001e58d8e.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00033095_cao_xoa_sao_vang_danapha_16g_6333_61c9_large_654f6fc9f3.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00033095_cao_xoa_sao_vang_danapha_16g_4304_61c9_large_dd62cbfaa8.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Cao",
+  "trust_label": null,
+  "short_description": "<p>Cao xoa Sao Vàng là sản phẩm của Công ty Cổ phần Dược Danapha có thành phần chính là Menthol, long não, tinh dầu bạc hà, tinh dầu tràm,  tinh dầu đinh hương, tinh dầu quế dùng trong các trường hợp cảm cúm, nhức đầu, sổ mũi, chóng mặt, đau khớp, bị muỗi và côn trùng khác đốt.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Cao xoa Sao Vàng chỉ định điều trị trong các trường hợp&nbsp;cảm cúm, <a href=\"https://nhathuoclongchau.com.vn/benh/nhuc-dau-24.html\">đau đầu</a>, sổ mũi, <a href=\"https://nhathuoclongchau.com.vn/benh/chong-mat-763.html\">chóng mặt</a>, đau khớp, bị muỗi và côn trùng khác đốt.</p><h3>Dược lực học</h3><p>Sự phối hợp của các tinh dầu trong sản phẩm cao sao vàng làm cho thuốc có tác dụng hiệp lực với thủ pháp xoa lên huyệt, theo kinh nghiệm xoa dầu của Y học Cổ truyền Việt Nam.</p><p>Menthol và tinh dầu bạc hà thường đi vào 2 kinh phế và can, có tác dụng tán phong nhiệt, ra mồ hôi, giảm uất.</p><p><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/long-nao\">Long não</a>: Có tác dụng khử trùng, tiêu viêm, gây tê làm giảm đau, lưu thông khí huyết.</p><p>Tinh dầu Tràm: Đi vào 2 kinh tỳ, phế. Có tác dụng hoạt huyết khu phong, an thần chấn thống, tiêu đàm. Dùng để trị cảm mạo, phong hàn, phổi lạnh, ho đờm, hen suyễn, tức ngực, tiêu hoá kém, lưu thông huyết mạch, trừ phong thấp và đau dây thần kinh.</p><p>Tinh dầu Đinh hương: Đi vào các kinh vị, phế, tỳ. Dùng chữa đau bụng, <a href=\"https://nhathuoclongchau.com.vn/benh/tieu-chay-133.html\">tiêu chảy</a>, nôn mửa.</p><p>Tinh dầu Quế: Đi vào 2 kinh can và thận. Dùng làm thuốc kích thích tuần hoàn, trợ hô hấp, gây co mạch, sát trùng.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 37836,
+      "ingredientId": 12512,
+      "shortDescription": "4.128 ",
+      "name": "Camphor",
+      "isPrimary": false,
+      "slug": "thanh-phan/camphor"
+    },
+    {
+      "id": 37837,
+      "ingredientId": 26940,
+      "shortDescription": "0.656 ",
+      "name": "Menthol",
+      "isPrimary": false,
+      "slug": "thanh-phan/menthol"
+    },
+    {
+      "id": 37838,
+      "ingredientId": 38658,
+      "shortDescription": "2 ",
+      "name": "Tinh dầu bạc hà",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 37839,
+      "ingredientId": 38709,
+      "shortDescription": "1.408 ",
+      "name": "Tinh dầu tràm",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 37840,
+      "ingredientId": 38669,
+      "shortDescription": "0.144 ",
+      "name": "Tinh dầu đinh hương",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 37841,
+      "ingredientId": 38695,
+      "shortDescription": "0.224",
+      "name": "Tinh dầu quế",
+      "isPrimary": false,
+      "slug": "thanh-phan/tinh-dau-que"
+    },
+    {
+      "id": 37842,
+      "ingredientId": 37331,
+      "shortDescription": "16",
+      "name": "Tá dược vừa đủ",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

@@ -1,0 +1,60 @@
+{
+  "id": "00502288",
+  "slug": "thuoc/hantacid-cpc1-20-ong-x-10ml-36548.html",
+  "title": "Thuốc Hantacid CPC1HN điều trị rối loạn tiêu hóa, điều trị triệu chứng của trào ngược dạ dày - thực quản (20 ống x 10ml)",
+  "short_title": "HANTACID CPC1 20 ỐNG X 10ML",
+  "brand": {
+    "name": "CPC1HN",
+    "slug": "thuong-hieu/cpc1hn",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-da-day",
+    "name": "Thuốc dạ dày",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Ống",
+  "pack_note": "5 Ống x 10ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/15_067334327c.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/15_067334327c.png"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch uống",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Hantacid là sản phẩm của Công ty cổ phần Dược phẩm CPC1 Hà Nội, có thành phần chính là magnesi hydroxyd, nhôm hydroxyd, simethicone. Thuốc được sử dụng trong điều trị rối loạn tiêu hóa, điều trị triệu chứng của trào ngược dạ dày - thực quản, viêm loét dạ dày - tá tràng, viêm dạ dày, viêm thực quản do tăng tiết acid dạ dày.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Hantacid CPC1 được chỉ định dùng trong các trường hợp sau:</p><ul><li>Trào ngược dạ dày thực quản.</li><li>Rối loạn tiêu hóa, có các biểu hiện như chướng bụng, khó tiêu, ợ chua, nóng bỏng vùng thượng vị do tăng tiết acid dạ dày.</li><li>Viêm loét dạ dày, tá tràng.</li><li>Viêm dạ dày, viêm thực quản do tăng tiết acid dạ dày.</li><li>Phòng ngừa viêm loét dạ dày - tá tràng.</li></ul><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 46127,
+      "ingredientId": 26296,
+      "shortDescription": "195mg",
+      "name": "Magnesi hydroxyd",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 46128,
+      "ingredientId": 29800,
+      "shortDescription": "220mg",
+      "name": "Nhôm hydroxyd",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 46129,
+      "ingredientId": 36074,
+      "shortDescription": "25mg",
+      "name": "Simethicone",
+      "isPrimary": false,
+      "slug": "thanh-phan/simethicone"
+    }
+  ],
+  "stock_qty": 0
+}

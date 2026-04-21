@@ -1,0 +1,44 @@
+{
+  "id": "00033136",
+  "slug": "thuoc/duvita-1000mg8ml-cpc1-4x5-ong-33257.html",
+  "title": "Dung dịch Duvita 1000mg/8ml CPC1HN hỗ trợ điều trị các triệu chứng rối loạn khó tiêu (4 vỉ x 5 ống)",
+  "short_title": "DUVITA 1000MG/8ML CPC1 4X5 ỐNG",
+  "brand": {
+    "name": "CPC1HN",
+    "slug": "thuong-hieu/cpc1hn",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-benh-gan",
+    "name": "Thuốc trị bệnh gan",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Ống",
+  "pack_note": "5 Ống",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00033136_duvita_1000mg8ml_cpc1_4x5_ong_4147_61d3_large_f643bef451.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00033136_duvita_1000mg8ml_cpc1_4x5_ong_4147_61d3_large_f643bef451.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch uống",
+  "trust_label": null,
+  "short_description": "<p>Duvita là sản phẩm của Công ty Cổ phần Dược phẩm CPC1 Hà Nội có thành phần chính là Arginin hydroclorid (L-Arginin hydroclorid) có tác dụng hỗ trợ điều trị các triệu chứng rối loạn khó tiêu, bổ sung dinh dưỡng cho người bị rối loạn chu trình ure như tăng amoniac máu tuýp I và II, tăng citrulin máu, arginosuccinic niệu và thiếu men N-acetyl glutamate synthetase.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p>Duvita chỉ định điều trị trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Điều trị hỗ trợ các rối loạn khó tiêu.</li>\n\t<li>Điều trị hỗ trợ nhằm cải thiện khả năng luyện tập ở những người bị bệnh tim mạch ổn định.</li>\n\t<li>Bổ sung dinh dưỡng cho người bị rối loạn chu trình ure như tăng amoniac máu tuýp I và II, tăng citrulin máu, arginosuccinic niệu và thiếu men N-acetyl glutamate synthetase.</li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p>Chưa có dữ liệu được báo cáo.</p>\n\n<h3>Dược động học</h3>\n\n<p>Chưa có dữ liệu được báo cáo.</p>",
+  "ingredients_html": [
+    {
+      "id": 46116,
+      "ingredientId": 9425,
+      "shortDescription": "1000mg",
+      "name": "Arginin hydroclorid",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

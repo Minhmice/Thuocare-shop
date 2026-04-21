@@ -1,0 +1,51 @@
+{
+  "id": "00010086",
+  "slug": "thuoc/medibro-tab-30-1399.html",
+  "title": "Viên nén Medibro 30mg Arlico tiêu chất nhầy đường hô hấp (10 vỉ x 10 viên)",
+  "short_title": "MEDIBRO TABS 30MG ARLICO 10X10",
+  "brand": {
+    "name": "Arlico",
+    "slug": "thuong-hieu/arlico",
+    "country": "Hàn Quốc"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-ho-hap/thuoc-tri-ho-cam",
+    "name": "Thuốc trị ho cảm",
+    "parent_slug": "thuoc/thuoc-ho-hap"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00010086_medibro_tab_30_5911_5b06_large_5b3430caec.JPG",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00010086_medibro_tab_30_5911_5b06_large_5b3430caec.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00010086_medibro_tab_30_1627311727_f944c1ea06.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/1_bc087be13b.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00010086_medibro_tab_30_7679_5b06_large_e459a1adca.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00010086_medibro_tab_30_9618_5b06_large_aa23b1897a.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00010086_medibro_tab_30_8532_5b06_large_c9529507ca.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00010086_medibro_tab_30_5157_5b06_large_936b79fe4b.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00010086_medibro_tab_30_3325_60fe_large_2f145b0383.jpg"
+  ],
+  "origin_label": "Hàn Quốc",
+  "country": "Hàn Quốc",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Medibro Tab là sản phẩm của Công ty Korea Arlico Pharm. Co., Ltd. (Hàn Quốc), thành phần chính ambroxol hydroclorid 30mg. Đây là thuốc được dùng trong các trường hợp bệnh lý hô hấp cấp và mãn tính do rối loạn tiết chất nhầy: Viêm phế quản cấp, mãn tính, viêm phế quản dạng hen, viêm xoang, viêm mũi.</p>",
+  "description_html": "",
+  "usage_html": "<h3><b>Chỉ định</b></h3>\n\n<p>Thuốc Medibro Tab là thuốc tiêu chất nhầy đường hô hấp, dùng trong các trường hợp: </p>\n\n<ul>\n\t<li>Các bệnh cấp và mạn tính ở đường hô hấp có kèm tăng tiết dịch phế quản không bình thường, đặc biệt trong đợt cấp của viêm phế quản mạn, hen phế quản, viêm phế quản dạng hen.</li>\n\t<li>Các bệnh nhân sau mổ và cấp cứu để phòng các biến chứng ở phổi.</li>\n</ul>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Ambroxol là một chất chuyển hóa của bromhexin, có tác dụng và công dụng như bromhexin. Ambroxol có tác dụng long đờm và làm tiêu chất nhầy. Trong một vài trường hợp, ambroxol cải thiện được triệu chứng và làm giảm số đợt cấp tính trong viêm phế quản.</p>\n\n<p>Các tài liệu mới đây cho thấy, thuốc có tác dụng đối với bệnh nhân tắc nghẽn phổi nhẹ và trung bình, nhưng không có lợi rõ rệt cho những bệnh nhân bị bệnh tắc nghẽn nặng.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Ambroxol hấp thu nhanh và gần như hoàn toàn khi dùng liều điều trị. Nồng độ tối đa trong huyết tương đạt được trong vòng 0.5 - 3 giờ sau khi dùng thuốc. Thuốc liên kết với protein huyết tương xấp xỉ 90%. Ambroxol khuếch tán nhanh từ máu đến mô với nồng độ thuốc cao nhất trong phổi. Nửa đời trong huyết tương từ 7 - 12 giờ. Khoảng 30% liều uống được thải trừ qua vòng hấp thu đầu tiên. Ambroxol được chuyển hóa chủ yếu ở gan. Tổng lượng bài tiết qua thận khoảng 90%.</p>",
+  "ingredients_html": [
+    {
+      "id": 24240,
+      "ingredientId": 8697,
+      "shortDescription": "30mg",
+      "name": "Ambroxol",
+      "isPrimary": false,
+      "slug": "thanh-phan/ambroxol"
+    }
+  ],
+  "stock_qty": 0
+}

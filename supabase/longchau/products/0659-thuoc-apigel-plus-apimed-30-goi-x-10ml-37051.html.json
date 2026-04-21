@@ -1,0 +1,60 @@
+{
+  "id": "00502747",
+  "slug": "thuoc/apigel-plus-apimed-30-goi-x-10ml-37051.html",
+  "title": "Hỗn dịch uống Apigel-Plus Apimed điều trị viêm dạ dày cấp tính - mãn tính, trào ngược dạ dày thực quản (30 gói x 10ml)",
+  "short_title": "APIGEL-PLUS APIMED 30 GÓI X 10ML",
+  "brand": {
+    "name": "Apimed",
+    "slug": "thuong-hieu/apimed",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-da-day",
+    "name": "Thuốc dạ dày",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 150000,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 30 Gói x 10ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/apigel_plus_d0acc93b3e.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/apigel_plus_d0acc93b3e.png"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Hỗn dịch uống",
+  "trust_label": null,
+  "short_description": "<p>Apigel-Plus Apimed là sản phẩm được sản xuất bởi Công ty Cổ phần dược Apimed, thành phần chính là nhôm hydroxyd, magnesi hydroxyd, simethicon. Thuốc có tác dụng hỗ trợ điều trị viêm dạ dày cấp tính - mãn tính; trào ngược dạ dày thực quản; viêm hang vị dạ dày; viêm loét dạ dày tá tràng; giảm đầy hơi, chướng bụng, đau bụng, khó tiêu hiệu quả.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p><a href=\"https://nhathuoclongchau.com.vn/thuoc/apigel-plus-apimed-30-goi-x-10ml-37051.html\">Apigel-Plus</a> Apimed được chỉ định dùng trong các trường hợp sau:</p><ul><li><a href=\"https://nhathuoclongchau.com.vn/benh/loet-da-day-ta-trang-580.html\">Viêm loét dạ dày - tá tràng</a> cấp và mạn tính.</li><li><a href=\"https://nhathuoclongchau.com.vn/benh/trao-nguoc-da-day-135.html\">Trào ngược dạ dày - thực quản</a>.</li><li>Người bị <a href=\"https://nhathuoclongchau.com.vn/benh/day-hoi-818.html\">đầy hơi</a>, chướng bụng, <a href=\"https://nhathuoclongchau.com.vn/benh/dau-bung-994.html\">đau bụng</a>, khó tiêu, ợ chua,…</li></ul><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 42265,
+      "ingredientId": 36074,
+      "shortDescription": "80mg",
+      "name": "Simethicone",
+      "isPrimary": false,
+      "slug": "thanh-phan/simethicone"
+    },
+    {
+      "id": 42266,
+      "ingredientId": 26296,
+      "shortDescription": "800mg",
+      "name": "Magnesi hydroxyd",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 42267,
+      "ingredientId": 29800,
+      "shortDescription": "800mg",
+      "name": "Nhôm hydroxyd",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

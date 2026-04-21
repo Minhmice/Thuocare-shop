@@ -1,0 +1,44 @@
+{
+  "id": "00503419",
+  "slug": "thuoc/herceptin-sc-600mg5ml-roche-37720.html",
+  "title": "Thuốc Herceptin 600mg/5ml Roche điều trị ung thư vú sớm, ung thư vú tiến triển, ung thư dạ dày tiến triển",
+  "short_title": "HERCEPTIN SC 600MG/5ML ROCHE",
+  "brand": {
+    "name": "Roche",
+    "slug": "thuong-hieu/roche",
+    "country": "Thụy Sĩ"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-dieu-tri-ung-thu/thuoc-dieu-tri-ung-thu",
+    "name": "Thuốc điều trị ung thư",
+    "parent_slug": "thuoc/thuoc-dieu-tri-ung-thu"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp x 5ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/herceptin_9145b29d82.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/herceptin_9145b29d82.jpg"
+  ],
+  "origin_label": "Thụy Sĩ",
+  "country": "Thụy Sĩ",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch tiêm",
+  "trust_label": null,
+  "short_description": "<p>Herceptin 600mg/5ml là sản phẩm của Công ty F.Hoffmann-La Roche Ltd, thành phần chính là Trastuzumab. Thuốc được sử dụng để điều trị ung thư có lượng lớn protein gọi là thụ thể yếu tố tăng trưởng biểu bì 2 (HER2) như là: Ung thư vú sớm, ung thư vú tiến triển, ung thư dạ dày tiến triển.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><ul><li>Điều trị ung thư vú di căn HER2 (BMC) cụ thể đó là:<ul><li>Kết hợp thuốc&nbsp;với paclitaxel để điều trị cho bệnh nhân chưa hóa trị liệu.</li><li>Kết hợp aromatase để điều trị cho bệnh nhân sau mãn kinh đã từng được điều trị bằng trastuzumab.</li><li>Kết hợp thuốc với docetaxel để điều trị cho bệnh nhân chưa hóa trị liệu.</li></ul></li><li>Sử dụng trong điều trị ung thư vú sớm:<ul><li>Sử dụng cho bệnh nhân trong độ tuổi trưởng thành bị ung thu vú sớm HER2 dương tính.</li><li>Sử dụng sau khi phẫu thuật hoặc sau khi hóa trị liều (tân dược hoặc bổ trợ) và xạ trị (nếu có).</li><li>Sử dụng cho bệnh nhân sau khi tiến hành hóa trị bằng doxorubicin và cyclophosphamide.</li><li>Kết hợp sử dụng thuốc với hóa trị bổ trợ như là docetaxel và carboplatin.</li></ul></li><li>Sử dụng trong điều trị ung thư dạ dày di căn:<ul><li>Thuốc được chỉ định kết hợp với capecitabine hoặc 5-fluorouracil truyền tĩnh mạch và cisplatin được để điều trị ung thư dạ dày hoặc ung thư miệng nối dạ dày-thực quản di căn có HER2 dương tính mà trước đó chưa được điều trị chống ung thư cho bệnh ung thư di căn.</li></ul></li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 47806,
+      "ingredientId": 39125,
+      "shortDescription": "600mg",
+      "name": "Trastuzumab",
+      "isPrimary": false,
+      "slug": "thanh-phan/trastuzumab"
+    }
+  ],
+  "stock_qty": 0
+}

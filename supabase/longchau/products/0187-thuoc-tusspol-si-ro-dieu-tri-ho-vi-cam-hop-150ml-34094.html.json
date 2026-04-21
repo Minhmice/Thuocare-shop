@@ -1,0 +1,44 @@
+{
+  "id": "00500017",
+  "slug": "thuoc/tusspol-si-ro-dieu-tri-ho-vi-cam-hop-150ml-34094.html",
+  "title": "Siro Tusspol Polfarmex vị cam - điều trị ho do nhiều nguyên nhân (150ml)",
+  "short_title": "TUSSPOL SI RÔ ĐIỀU TRỊ HO VỊ CAM POLFARMEX 150ML",
+  "brand": {
+    "name": "Polfarmex",
+    "slug": "thuong-hieu/polfarmex",
+    "country": "Ba Lan"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-ho-hap/siro-tri-ho-cam",
+    "name": "Siro trị ho cảm",
+    "parent_slug": "thuoc/thuoc-ho-hap"
+  },
+  "price_amount": 110000,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp x 150ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/42_2a85ad19cd.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/42_2a85ad19cd.png"
+  ],
+  "origin_label": "Ba Lan",
+  "country": "Ba Lan",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Siro",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Tusspol là sản phẩm của Polfarmex S.A, có thành phần chính là Butamirate citrate. Đây là thuốc được sử dụng để điều trị ho trong mọi trường hợp.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc Tusspol được chỉ định dùng trong các trường hợp sau:</p><ul><li>Chỉ định cho bệnh nhân ho trong mọi trường hợp.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p><strong>Nhóm dược lý: Thuốc chống ho.</strong></p><p><strong>Mã ATC: R05DB13</strong></p><p>Butamirate citrate, hoạt chất của Tusspol, là chất ức chế họ, không liên quan đến các alcaloid opioid.</p><p>Butamirate citrate hoạt động ở trung tâm, tuy nhiên cơ chế hoạt động chính xác của chất này chưa được biết. Butamirate citrate có tính kháng cholinergic và làm giãn cuống phổi, làm cho bệnh nhân dễ thở. Tusspol không gây nghiện hay quen thuốc. Tusspol được sử dụng để giảm ho ở người lớn và trẻ em.</p><h3 dir=\"ltr\">Dược động học</h3><p><strong>Hấp thu</strong></p><p>Trong những dữ liệu có sẵn, butamirate tồn tại dưới dạng ester được hấp thụ nhanh chóng sau khi uống. Butamirate được chuyển hóa thông qua thủy phân các chất chuyển hóa (phenyl-2-butyric acid và diethylaminoethoxyethanol). Không có nghiên cứu về sự liên quan giữa tác động của lượng thức ăn dùng đồng thời với thuốc. Sự phụ thuộc tuyến tính giữa sinh khả dụng và liều lượng vẫn chưa được biết.</p><p>Sau khi uống 1 liều sirô chứa 150 mg butamirate citrate, định nồng độ của chất chuyển hóa chính, acid phenyl-2-butyric trong huyết tương là 6,4 mg/ml. Nồng độ này đạt được sau khoảng 1,5 giờ sau khi uống.</p><p><strong>Phân bố</strong></p><p>Thể tích phân bố của thuốc trong cơ thể vẫn chưa được biết. Không có dữ liệu về sự thẩm thấu của butamirate citrate từ nhau thai vào sữa mẹ.</p><p><strong>Chuyển hóa</strong></p><p>Butamirate được thủy phân nhanh chóng và hoàn toàn hình thành acid và diethylaminoethoxyethanol phenyl-2-butyric. Các nghiên cứu trên loài động vật khác nhau cho thấy các chất chuyển hóa nói trên có tác dụng chống họ. Không có dữ liệu tìm thấy diethylaminoethoxyethanol trong con người. Các nghiên cứu đã được tiến hành ở những người sử dụng butamirate gắn đồng vị cacbon 1C, tỷ lệ butamirate gắn với protein huyết tương khoảng 95%. Hydroxyl hóa tiếp các chất chuyển hóa tạo ra sản phẩm acid phenyl-2-butyric.</p><p><strong>Thải trừ</strong></p><p>Ba chất chuyển hóa mô tả ở trên được thải trừ chủ yếu qua thận dưới dạng liên hợp với acid glucuronic. Có sự khác biệt lớn trong giá trị đo được của thời gian bán thải của xirô: Trong một khoảng 6-26 giờ (giá trị lớn nhất là 41 giờ).</p>",
+  "ingredients_html": [
+    {
+      "id": 57820,
+      "ingredientId": 41872,
+      "shortDescription": "1.5mg",
+      "name": "Butamirate citrate",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

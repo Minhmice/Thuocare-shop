@@ -1,0 +1,57 @@
+{
+  "id": "00009602",
+  "slug": "thuoc/salonpas-gel-15g-1562.html",
+  "title": " Gel Salonpas giảm đau, kháng viêm các cơn đau cơ, khớp (30g)",
+  "short_title": "SALONPAS GEL 30G",
+  "brand": {
+    "name": "Hisamitsu",
+    "slug": "thuong-hieu/hisamitsu",
+    "country": "Nhật Bản"
+  },
+  "category": {
+    "slug": "thuoc/mieng-dan-cao-xoa-dau/dau-nong-xoa-bop",
+    "name": "Dầu nóng xoa bóp",
+    "parent_slug": "thuoc/mieng-dan-cao-xoa-dau"
+  },
+  "price_amount": 46000,
+  "compare_at_amount": 0,
+  "unit": "Tuýp",
+  "pack_note": "Tuýp x 30g",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00009602_salonpas_gel_15g_5477_6064_large_fde03abb40.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00009602_salonpas_gel_15g_5477_6064_large_fde03abb40.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00009602_salonpas_gel_15g_1618570424_b0c4f819e8.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00009602_salonpas_gel_15g_8652_6064_large_993d2c51db.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00009602_salonpas_gel_15g_3642_6064_large_c1874c5312.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00009602_salonpas_gel_15g_9438_6064_large_ded303d730.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00009602_salonpas_gel_15g_3131_6079_large_0e705f3e89.jpg"
+  ],
+  "origin_label": "Nhật Bản",
+  "country": "Nhật Bản",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Nhũ tương (Gel)",
+  "trust_label": null,
+  "short_description": "<p>Salonpas Gel được sản xuất bởi <i>Công Ty TNHH Dược Phẩm Hisamitsu Việt Nam</i>, thành phần chính là <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/methyl-salicylate\">methyl salicylate</a> và menthol, được chỉ định để <strong>giảm đau</strong>, kháng viêm <strong>các cơn đau ở cơ và khớp</strong>, đau lưng đơn thuần, viêm khớp, căng cơ, bầm tím và bong gân.</p>",
+  "description_html": "<p><strong>Giới thiệu thuốc Salonpas Gel:</strong></p><ul><li><strong>Chỉ định:</strong> Giảm đau, kháng viêm các cơn đau ở cơ và khớp, đau lưng đơn thuần, viêm khớp, căng cơ, bầm tím và bong gân.</li><li><strong>Cách dùng: </strong>Dùng bôi ngoài da lên vùng bị đau.</li><li><strong>Đối tượng sử dụng:</strong> Người lớn và trẻ em trên 2 tuổi có các cơn đau ở cơ và khớp.</li><li><strong>Lưu ý khi sử dụng: </strong>Chỉ dùng ngoài da. Không được nuốt. Không dùng kèm với băng dán nóng. Không băng chặt.</li><li><strong>Chống chỉ định: </strong>Vùng da bị tổn thương, vết thương hở, niêm mạc và vùng da quanh mắt. Người có tiền sử dị ứng với nhóm salicylate.</li></ul>",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p>Salonpas Gel được chỉ định dùng trong các trường hợp sau:</p>\n\n<p>Giảm đau, kháng viêm các cơn đau ở cơ và khớp, đau lưng đơn thuần, <a href=\"https://nhathuoclongchau.com.vn/benh/viem-khop-253.html\">viêm khớp</a>, căng cơ, bầm tím và bong gân.</p>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Menthol làm giảm ngứa, làm giãn mạch, gây cảm giác lạnh sau đó có tác dụng giảm đau. Methyl salicylat có các tác động điển hình của nhóm salicylat, nó dễ dàng hấp thụ qua da và có đặc tính chống kích ứng. Nhiều tác động kích thích dây chuyền được chỉ rõ trong tác dụng giảm đau.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Hấp thu qua da. Tuy nhiên, nồng độ thuốc trong máu sau khi sử dụng trên da bình thường theo như hướng dẫn sử dụng là thấp. Tuy nhiên, nếu có bất kỳ tác dụng ngoại ý toàn thân nào xuất hiện, hướng dẫn người bệnh rửa sạch vùng da dán thuốc dưới vòi nước chảy, và hướng dẫn thêm cho người bệnh nếu cần.</p>",
+  "ingredients_html": [
+    {
+      "id": 24032,
+      "ingredientId": 26940,
+      "shortDescription": "7%",
+      "name": "Menthol",
+      "isPrimary": false,
+      "slug": "thanh-phan/menthol"
+    },
+    {
+      "id": 24033,
+      "ingredientId": 27307,
+      "shortDescription": "15%",
+      "name": "Methyl salicylate",
+      "isPrimary": false,
+      "slug": "thanh-phan/methyl-salicylate"
+    }
+  ],
+  "stock_qty": 0
+}

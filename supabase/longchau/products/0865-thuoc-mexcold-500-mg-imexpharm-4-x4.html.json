@@ -1,0 +1,44 @@
+{
+  "id": "00049303",
+  "slug": "thuoc/mexcold-500-mg-imexpharm-4-x4.html",
+  "title": "Thuốc Mexcold 500mg Imexpharm điều trị các chứng đau và sốt từ nhẹ đến vừa (4 vỉ 4 viên)",
+  "short_title": "MEXCOLD 500MG IMEXPHARM 4X4",
+  "brand": {
+    "name": "Imexpharm",
+    "slug": "thuong-hieu/imexpharm",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem/thuoc-giam-dau-ha-sot",
+    "name": "Thuốc giảm đau hạ sốt",
+    "parent_slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem"
+  },
+  "price_amount": 2100,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "4 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/mexcold_500mg_4x4_imexpharm_00049303_f554fd28da.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/mexcold_500mg_4x4_imexpharm_00049303_f554fd28da.png"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén sủi bọt",
+  "trust_label": null,
+  "short_description": "<p>Mexcold được chỉ định trong điều trị các chứng đau và sốt từ nhẹ đến vừa.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Mexcold được chỉ định trong điều trị các chứng đau và sốt từ nhẹ đến vừa.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 71308,
+      "ingredientId": 31537,
+      "shortDescription": "500mg",
+      "name": "Paracetamol",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

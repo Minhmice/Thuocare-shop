@@ -1,0 +1,44 @@
+{
+  "id": "00503218",
+  "slug": "thuoc/zoladex-108mg-astra-37524.html",
+  "title": "Thuốc tiêm Zoladex 10.8mg Astra kiểm soát ung thư tiền liệt tuyến, ung thư vú",
+  "short_title": "ZOLADEX 10.8MG ASTRA ",
+  "brand": {
+    "name": "Astra",
+    "slug": "thuong-hieu/astra",
+    "country": "Anh"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-dieu-tri-ung-thu/thuoc-chong-ung-thu",
+    "name": "Thuốc chống ung thư",
+    "parent_slug": "thuoc/thuoc-dieu-tri-ung-thu"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/625_0741b48bd6.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/625_0741b48bd6.jpg"
+  ],
+  "origin_label": "Anh",
+  "country": "Anh",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Thuốc cấy dưới da giải phóng kéo dài chứa trong bơm tiêm",
+  "trust_label": null,
+  "short_description": "<p>Zoladex là thuốc tiêm dưới da (cấy phóng thích chậm) chứa hoạt chất <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/goserelin\">Goserelin</a> (dưới dạng goserelin acetat). Thuốc dùng để kiểm soát ung thư tiền liệt tuyến thích hợp với đáp ứng điều trị qua cơ chế hormone, kiểm soát ung thư vú.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc tiêm dưới da Zoladex dùng để kiểm soát ung thư tiền liệt tuyến thích hợp với đáp ứng điều trị qua cơ chế hormone, kiểm soát <a href=\"https://nhathuoclongchau.com.vn/benh/ung-thu-vu-328.html\">ung thư vú</a>.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 52008,
+      "ingredientId": 21633,
+      "shortDescription": "10.8mg",
+      "name": "Goserelin",
+      "isPrimary": false,
+      "slug": "thanh-phan/goserelin"
+    }
+  ],
+  "stock_qty": 0
+}

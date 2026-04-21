@@ -1,0 +1,52 @@
+{
+  "id": "00038626",
+  "slug": "thuoc/atsypax-600-42-9-mg-hataphar-14-goi-x-2-2-g.html",
+  "title": "Thuốc bột uống Atsypax 600 Hataphar điều trị viêm tai giữa, viêm admidan, viêm họng (14 gói x 2,2g)",
+  "short_title": "ATSYPAX 600 AMOXICILIN 600 MG ACID CLAVULANIC 42,9MG HÀ TÂY - HỘP 1 TÚI 14 GÓI 2,2G",
+  "brand": {
+    "name": "Hà Tây",
+    "slug": "thuong-hieu/ha-tay",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-khang-sinh-khang-nam/thuoc-khang-sinh",
+    "name": "Thuốc kháng sinh",
+    "parent_slug": "thuoc/thuoc-khang-sinh-khang-nam"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 14 Gói x 2.2g",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/atsyoax_337ce29f4f.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/atsyoax_337ce29f4f.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Bột pha hỗn dịch uống",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Atsypax 600 của Công ty Cổ phần Dược phẩm Hà Tây, có thành phần chính là Amoxicillin, Acid Clavulanic. Đây là thuốc dùng để điều trị viêm tai giữa, viêm Amiđan, viêm họng, viêm thanh quản, viêm phế quản, viêm xoang và viêm phổi; điều trị nhiễm trùng tiết niệu, nhiễm trùng da và bệnh lậu.&nbsp;</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Atsypax 600 được chỉ định dùng trong các trường hợp sau:</p><ul><li>Điều trị viêm tai giữa, viêm Amiđan, viêm họng, viêm thanh quản, viêm phế quản, viêm xoang và viêm phổi.</li><li>Điều trị nhiễm trùng tiết niệu, nhiễm trùng da và bệnh lậu.&nbsp;</li></ul><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 57190,
+      "ingredientId": 8913,
+      "shortDescription": "600mg",
+      "name": "Amoxicillin",
+      "isPrimary": false,
+      "slug": "thanh-phan/amoxicillin"
+    },
+    {
+      "id": 57191,
+      "ingredientId": 41413,
+      "shortDescription": "42.9mg",
+      "name": "Acid Clavulanic",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

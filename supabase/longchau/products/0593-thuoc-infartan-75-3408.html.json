@@ -1,0 +1,49 @@
+{
+  "id": "00003958",
+  "slug": "thuoc/infartan-75-3408.html",
+  "title": "Thuốc Infartan 75 OPV phòng ngừa các biến cố do huyết khối động mạch (3 vỉ x 10 viên)",
+  "short_title": "INFARTAN 75 OPV 3X10",
+  "brand": {
+    "name": "Opv",
+    "slug": "thuong-hieu/opv",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-chong-dong-mau",
+    "name": "Thuốc chống đông máu",
+    "parent_slug": "thuoc/thuoc-tim-mach-and-mau"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00003958_infartan_75_9507_5b6d_large_1b442ec733.JPG",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003958_infartan_75_9507_5b6d_large_1b442ec733.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003958_infartan_75_1628704526_fb005ae040.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003958_infartan_75_7329_5b6d_large_3f98a27ae5.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003958_infartan_75_6554_5b6d_large_61192089ef.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003958_infartan_75_2576_5b6d_large_5d046e449a.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003958_infartan_75_7955_6114_large_294aa60e92.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Infartan 75 là sản phẩm của Công ty OPV (Việt Nam), được chỉ định để làm giảm các biến cố do xơ vữa động mạch (nhồi máu cơ tim, đột quỵ) ở bệnh nhân xơ vữa động mạch mà vừa mới bị đột quỵ, vừa mới bị nhồi máu cơ tim, hoặc bệnh động mạch ngoại vi đã được xác định.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p>Clopidogrel được chỉ định để làm giảm các biến cố do xơ vữa động mạch như <a href=\"https://nhathuoclongchau.com.vn/benh/nhoi-mau-co-tim-595.html\">nhồi máu cơ tim</a>, đột quỵ và tử vong do mạch máu ở bệnh nhân vừa mới bị <a href=\"https://nhathuoclongchau.com.vn/benh/dot-quy-680.html\">đột quỵ</a>, vừa mới bị nhồi máu cơ tim, hoặc bệnh động mạch ngoại vi vừa được xác định.</p>\n\n<h3>Dược lực học</h3>\n\n<p>Clopidogrel là thuốc ức chế kết tập tiểu cầu mạnh và đặc hiệu.</p>\n\n<p>Vai trò của tiểu cầu đã được xác định trong sinh lý bệnh của bệnh xơ vữa động mạch và các trường hợp huyết khối.</p>\n\n<p>Clopidogrel ức chế chọn lọc việc gắn adenosine diphosphate (ADP) vào thụ thể ở tiểu cầu. Và hệ quả của việc gắn này là sự hoạt hóa trung gian ADP của phức hợp GPIIb/llla, từ đó ức chế sự kết tập tiểu cầu.</p>\n\n<h3>Dược động học</h3>\n\n<p>Sau khi dùng đường uống lặp lại liều 75 mg/ngày, clopidogrel nhanh chóng được hấp thu. Tuy nhiên, nồng độ trong huyết tương của phân tử mẹ là rất thấp và dưới giới hạn xác định (0,00025 mg/L) sau 2 giờ từ khi dùng thuốc. Hấp thu tối thiểu là 50%, dựa trên sự thải trừ qua nước tiểu của chất chuyển hóa clopidogrel.</p>\n\n<p>Clopidogrel được chuyển hóa chủ yếu ở gan, và chất chuyển hóa không hoạt tính là dẫn xuất acid carboxylic chiếm khoảng 85% thành phần thuốc lưu hành trong huyết tương.</p>\n\n<p>Chất chuyển hóa này đạt nồng độ đỉnh trong huyết tương (xấp xỉ 3 mg/L sau khi dùng liều lặp lại 75 mg bằng đường uống) khoảng 1 giờ sau khi uống.</p>\n\n<p>Khi so sánh với người tình nguyện khỏe mạnh trẻ tuổi, nồng độ trong huyết tương của chất chuyển hóa chính đang lưu hành cao hơn đáng kể ở người cao tuổi (&gt; 75 tuổi).</p>\n\n<p>Tuy nhiên, nồng độ cao hơn trong huyết tương này không gắn với sự khác nhau về sự kết tập tiểu cầu và thời gian chảy máu. Không cần điều chỉnh liều cho người lớn tuổi.</p>",
+  "ingredients_html": [
+    {
+      "id": 41508,
+      "ingredientId": 15173,
+      "shortDescription": "75mg",
+      "name": "Clopidogrel",
+      "isPrimary": false,
+      "slug": "thanh-phan/clopidogrel"
+    }
+  ],
+  "stock_qty": 0
+}

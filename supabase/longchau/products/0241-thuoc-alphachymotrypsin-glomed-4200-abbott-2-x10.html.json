@@ -1,0 +1,45 @@
+{
+  "id": "00041198",
+  "slug": "thuoc/alphachymotrypsin-glomed-4200-abbott-2-x10.html",
+  "title": "Thuốc Alphachymotrypsin Glomed Abbott điều trị phù nề sau chấn thương, phẫu thuật, bỏng (2 vỉ x 10 viên)",
+  "short_title": "ALPHACHYMOTRYPSIN GLOMED 4200 ABBOTT 2X10",
+  "brand": {
+    "name": "Abbott",
+    "slug": "thuong-hieu/abbott",
+    "country": "Hoa Kỳ"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem/thuoc-khang-viem",
+    "name": "Thuốc kháng viêm",
+    "parent_slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03137_65a1274851.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03137_65a1274851.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/alphacymothtrypsin_30558be833.jpg"
+  ],
+  "origin_label": "Hoa Kỳ",
+  "country": "Hoa Kỳ",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Alphachymotrypsin Glomed là sản phẩm của Công ty TNHH dược phẩm Glomed, thành phần chính là Chymotrypsin. Thuốc dùng để điều trị phù nề sau chấn thương, phẫu thuật, bỏng.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p><a href=\"https://nhathuoclongchau.com.vn/thuoc/alphachymotrypsin-glomed-4200-abbott-2-x10.html\">Thuốc Alphachymotrypsin Glomed</a> được chỉ định dùng trong các trường hợp sau:&nbsp;</p><ul><li>Điều trị <a href=\"https://nhathuoclongchau.com.vn/benh/phu-ne-886.html\">phù nề</a> sau <a href=\"https://nhathuoclongchau.com.vn/benh/chan-thuong-960.html\">chấn thương</a>, phẫu thuật, <a href=\"https://nhathuoclongchau.com.vn/benh/bong-da-514.html\">bỏng</a>.</li></ul><h3>Dược lực học</h3><p><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/chymotrypsin\">Chymotrypsin</a> là enzym thủy phân protein được sử dụng đường uống có tác dụng làm giảm tình trạng viêm và phù nề trên mô mềm do phẫu thuật hay chấn thương.</p><h3>Dược động học</h3><p>Không có báo cáo về dược động học của chymotrypsin.</p>",
+  "ingredients_html": [
+    {
+      "id": 58971,
+      "ingredientId": 14703,
+      "shortDescription": "4200usp",
+      "name": "Chymotrypsin",
+      "isPrimary": false,
+      "slug": "thanh-phan/chymotrypsin"
+    }
+  ],
+  "stock_qty": 0
+}

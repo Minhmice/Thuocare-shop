@@ -1,0 +1,85 @@
+{
+  "id": "00003156",
+  "slug": "thuoc/fortrans-64g-3714.html",
+  "title": "Bột Fortrans Ipsen làm sạch đại tràng (4 gói)",
+  "short_title": "FORTRANS 64G 4 GÓI",
+  "brand": {
+    "name": "Ipsen",
+    "slug": "thuong-hieu/ipsen",
+    "country": "Pháp"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-tao-bon",
+    "name": "Thuốc trị táo bón",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 41250,
+  "compare_at_amount": 0,
+  "unit": "Gói",
+  "pack_note": "4 Gói",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00003156_e04b6251e9.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003156_e04b6251e9.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003156_fortrans_64g_1630729302_8d565dcd86.JPG"
+  ],
+  "origin_label": "Pháp",
+  "country": "Pháp",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dạng bọt",
+  "trust_label": null,
+  "short_description": "<p>Fortrans được sản xuất bởi Beaufour Ipsen Industrie, với thành phần chính Macrogol, là thuốc dùng để <strong>làm sạch đại tràng</strong> trước khi nội soi, chụp X-quang đại tràng hoặc phẫu thuật đại tràng.</p>",
+  "description_html": "<p><strong>Giới thiệu thuốc Fortrans:</strong></p><ul><li><strong>Chỉ định: </strong>Dùng để làm sạch đại tràng trước khi nội soi, chụp X-quang đại tràng hoặc phẫu thuật đại tràng.</li><li><strong>Cách dùng: </strong>Thuốc dùng đường uống. Mỗi gói phải được hòa trong 1 L nước.</li><li><strong>Đối tượng sử dụng:</strong> Dùng ở người lớn cần làm sạch đại tràng.</li><li><strong>Lưu ý khi sử dụng: </strong>Dùng thuốc theo hướng dẫn của Bác sĩ.</li><li><strong>Chống chỉ định: </strong>Dị ứng với hoạt chất hoặc bất kỳ thành phần nào của thuốc.&nbsp;</li></ul>",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Fortrans được chỉ định dùng trong trường hợp làm sạch đại tràng để chuẩn bị cho bệnh nhân trước khi:</p><ul><li>Nội soi hoặc chụp X-quang đại tràng.</li><li>Phẫu thuật đại tràng.</li></ul><p>Được chỉ định dùng ở người lớn.</p><h3>Dược lực học</h3><p>Macrogol cao phân tử (4000) là những polymer dài thẳng liên kết với các phân tử nước bằng những cầu nối hydrogen. Khi uống vào, chúng làm tăng lượng dịch trong lòng ruột. Lượng dịch này không bị hấp thu, do đó dung dịch có tác dụng nhuận tràng.</p><h3>Dược động học</h3><p>Điện giải chứa trong dung dịch thuốc đã pha giống như trong ruột non/huyết tương, sự trao đổi điện giải coi như bằng không.</p><p>Những dữ liệu dược động học khẳng định rằng macrogol 4000 không bị hấp thu, và không bị biến đổi sinh học trong đường tiêu hóa khi dùng đường uống.</p>",
+  "ingredients_html": [
+    {
+      "id": 21454,
+      "ingredientId": 29240,
+      "shortDescription": "1.68",
+      "name": "natri bicarbonate",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 21455,
+      "ingredientId": 26265,
+      "shortDescription": "64",
+      "name": "Macrogol 4000",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 21456,
+      "ingredientId": 36257,
+      "shortDescription": "1.46",
+      "name": "Sodium Chloride",
+      "isPrimary": false,
+      "slug": "thanh-phan/sodium-chloride"
+    },
+    {
+      "id": 21457,
+      "ingredientId": 29278,
+      "shortDescription": "0.1",
+      "name": "Natri saccharin",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 21458,
+      "ingredientId": 29283,
+      "shortDescription": "5.7",
+      "name": "Natri sulfat",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 21459,
+      "ingredientId": 33230,
+      "shortDescription": "0.75",
+      "name": "Potassium",
+      "isPrimary": false,
+      "slug": "thanh-phan/potassium"
+    }
+  ],
+  "stock_qty": 0
+}

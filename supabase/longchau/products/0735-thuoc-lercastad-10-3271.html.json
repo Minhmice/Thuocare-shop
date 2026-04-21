@@ -1,0 +1,51 @@
+{
+  "id": "00004364",
+  "slug": "thuoc/lercastad-10-3271.html",
+  "title": "Viên nén Lercastad 10 Stella điều trị tăng huyết áp nguyên phát từ nhẹ đến trung bình (6 vỉ x 10 viên)",
+  "short_title": "LERCASTAD 10 STELLA 6X10",
+  "brand": {
+    "name": "Stella Pharm",
+    "slug": "thuong-hieu/stella-pharm",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap",
+    "name": "Thuốc tim mạch huyết áp",
+    "parent_slug": "thuoc/thuoc-tim-mach-and-mau"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004364_lercastad_10_6162_6424_large_2258444fc7.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004364_lercastad_10_6162_6424_large_2258444fc7.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004364_lercastad_10_1680142794_7c4ef9374f.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004364_lercastad_10_8181_6424_large_a4cfe01c29.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004364_lercastad_10_4597_6424_large_84f590b00f.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004364_lercastad_10_9991_6424_large_c6982a7980.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004364_lercastad_10_1696_6424_large_8673691b60.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004364_lercastad_10_9419_6424_large_8475c408b3.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004364_lercastad_10_6815_6424_large_5263879816.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Lercastad 10 thành phần chính là lercanidipin hydroclorid. Lercastad 10 là thuốc điều trị tăng huyết áp nguyên phát từ nhẹ đến trung bình.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p><strong>Lercastad 10</strong> được chỉ định sử dụng trong trường hợp:</p><ul><li>Điều trị tăng huyết áp nguyên phát từ nhẹ đến trung bình.</li></ul><h3>Dược lực học</h3><p>Tác động hạ huyết áp của lercanidipin chủ yếu là do chất đối hình (S). Lercanidipin là thuốc chẹn kênh calci thuộc nhóm dihydropyridin, ức chế dòng calci di chuyển qua màng tế bào đến cơ trơn mạch máu và cơ tim. Cơ chế hạ huyết áp là do tác động giãn cơ trơn mạch máu trực tiếp nên làm giảm sức cản ngoại vi.&nbsp;</p><p>Tuy thời gian bán thải ngắn, lercanidipin có tác dụng hạ huyết áp kéo dài do có hệ số phân bố trong màng cao và không gây tác động hướng cơ âm tính do có tính chọn lọc cao trên mạch. Vì lercanidipin hydroclorid giãn mạch từ từ lúc khởi đầu nên hiếm gặp các triệu chứng hạ huyết áp cấp với tim đập nhanh do phản xạ trên bệnh nhân cao huyết áp.</p><h3>Dược động học</h3><p><i>Hấp thu</i></p><p>Lercanidipin được hấp thụ hoàn toàn qua đường tiêu hóa sau khi uống nhưng chịu sự chuyển hóa lần đầu đáng kể. Sinh khả dụng của thuốc thấp tuy nhiên tăng khi có sự hiện diện của thức ăn. Nồng độ đỉnh trong huyết tương đạt được sau khi uống thuốc 1,5 – 3 giờ.&nbsp;</p><p><i>Phân bố</i></p><p>Lercanidipin phân bố rộng rãi và nhanh. Trên 98% lercanidipin gắn kết với protein huyết tương.</p><p><i>Chuyển hóa</i></p><p>Lercanidipin chuyển hóa mạnh, chủ yếu bởi isoenzym CYP3A4 của cytochrom P450, thành các chất chuyển hóa không hoạt tính.</p><p><i>Thải trừ</i></p><p>Khoảng 50% liều dùng được bài tiết qua nước tiểu. Thời gian bán thải cuối cùng khoảng 2 - 5 giờ nhưng các nghiên cứu khác sử dụng phương pháp định lượng nhạy hơn đã đưa ra giá trị từ 8 - 10 giờ.</p>",
+  "ingredients_html": [
+    {
+      "id": 22085,
+      "ingredientId": 25313,
+      "shortDescription": "10mg",
+      "name": "Lercanidipine",
+      "isPrimary": false,
+      "slug": "thanh-phan/lercanidipine"
+    }
+  ],
+  "stock_qty": 0
+}

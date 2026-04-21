@@ -1,0 +1,53 @@
+{
+  "id": "00040805",
+  "slug": "thuoc/a-t-ascorbic-syrup-an-thien-30-goi-x-5-ml-dung-dich-uong.html",
+  "title": "Dung dịch uống A.T Ascorbic Syrup 100mg bổ sung vitamin C, điều trị bệnh scorbut (30 gói x 5ml)",
+  "short_title": "A.T ASCORBIC SYRUP 30 GÓI X 5ML ",
+  "brand": {
+    "name": "An Thiên",
+    "slug": "thuong-hieu/an-thien",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+    "name": "Thuốc bổ",
+    "parent_slug": "thuoc/thuoc-bo-and-vitamin"
+  },
+  "price_amount": 51000,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 30 Gói x 5ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09750_87e6defd3d.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09750_87e6defd3d.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09751_147358543c.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09752_7eb663757a.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09753_0317ee6b46.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09754_6792217406.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09755_6f039f3fd4.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09756_ecadddff36.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09757_a1dfb5938f.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/a_t_ascorbic_syrup_100_mg_1_a25df8da4d.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/a_t_ascorbic_syrup_100_mg_2_61c9a60d41.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch uống",
+  "trust_label": null,
+  "short_description": "<p>Thuốc A.T Ascorbic Syrup là sản phẩm của Công ty Cổ phần Dược phẩm An Thiên, có thành phần chính là vitamin C. Đây là sản phẩm được sử dụng để bổ sung vitamin C, phòng và điều trị bệnh scorbut.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p>Thuốc A.T Ascorbic Syrup được chỉ định dùng trong các trường hợp sau:</p><ul><li>Bổ sung vitamin C.</li><li>Phòng và điều trị bệnh scorbut.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 45745,
+      "ingredientId": 40349,
+      "shortDescription": "100mg",
+      "name": "Vitamin C",
+      "isPrimary": false,
+      "slug": "thanh-phan/vitamin-c"
+    }
+  ],
+  "stock_qty": 0
+}

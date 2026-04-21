@@ -1,0 +1,44 @@
+{
+  "id": "00039700",
+  "slug": "thuoc/sofenac-phil-inter-pharma-10-x10.html",
+  "title": "Thuốc Sofenac Phil Inter giảm đau và kháng viêm do viêm xương khớp (10 vỉ x 10 viên)",
+  "short_title": "SOFENAC PHIL INTER PHARMA 10X10",
+  "brand": {
+    "name": "Phil Inter",
+    "slug": "thuong-hieu/phil-inter",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem/thuoc-giam-dau-khang-viem",
+    "name": "Thuốc giảm đau kháng viêm",
+    "parent_slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp 10 Vỉ x 10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/dt_sofenac_1_jpg_85020a5ecf.webp",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/dt_sofenac_1_jpg_85020a5ecf.webp"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang mềm",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Sofenac là sản phẩm của Công ty TNHH Phil Inter Pharma, có thành phần chính là Aceclofenac. Đây là thuốc được sử dụng để giảm đau và kháng viêm trong bệnh viêm xương khớp, viêm khớp dạng thấp, viêm đốt sống dính khớp, viêm quanh khớp cánh tay - bả vai, đau răng, viêm do chấn thương, đau lưng, đau khớp hông, đau do thủ thuật cắt tầng sinh môn và sau khi sinh, bệnh thấp không liên quan đến khớp.</p>",
+  "description_html": "",
+  "usage_html": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc Sofenac được chỉ định dùng trong các trường hợp sau:</p><ul><li>Giảm đau và kháng viêm trong bệnh viêm xương khớp, viêm khớp dạng thấp, viêm đốt sống dính khớp, viêm quanh khớp cánh tay - bả vai, đau răng, viêm do chấn thương, đau lưng, đau khớp hông, đau do thủ thuật cắt tầng sinh môn và sau khi sinh, bệnh thấp không liên quan đến khớp.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 59541,
+      "ingredientId": 7245,
+      "shortDescription": "100mg",
+      "name": "Aceclofenac",
+      "isPrimary": true,
+      "slug": "thanh-phan/aceclofenac"
+    }
+  ],
+  "stock_qty": 0
+}

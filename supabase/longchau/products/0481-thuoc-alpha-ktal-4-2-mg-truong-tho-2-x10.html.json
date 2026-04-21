@@ -1,0 +1,44 @@
+{
+  "id": "00502458",
+  "slug": "thuoc/alpha-ktal-4-2-mg-truong-tho-2-x10.html",
+  "title": "Thuốc Alpha-Ktal 4.2mg Trường Thọ điều trị các trường hợp phù nề (2 vỉ x 10 viên)",
+  "short_title": "ALPHA-KTAL 4.2MG TRƯỜNG THỌ 2X10",
+  "brand": {
+    "name": "Trường Thọ Pharma",
+    "slug": "thuong-hieu/truong-tho-pharma",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem/thuoc-khang-viem",
+    "name": "Thuốc kháng viêm",
+    "parent_slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00502458_65e98c9333.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00502458_65e98c9333.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Alpha-Ktal là sản phẩm của Công ty Cổ phần Dược phẩm Trường Thọ với thành phần chính là hoạt chất Chymotrypsin. Thuốc Alpha-Ktal có tác dụng điều trị các trường hợp phù nề sau chấn thương, vết thương sau phẫu thuật,…</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Alpha-ktal được dùng để: Điều trị các trường hợp phù nề sau chấn thương hay sau phẫu thuật.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 46655,
+      "ingredientId": 14703,
+      "shortDescription": "4.2mg",
+      "name": "Chymotrypsin",
+      "isPrimary": false,
+      "slug": "thanh-phan/chymotrypsin"
+    }
+  ],
+  "stock_qty": 0
+}

@@ -1,0 +1,44 @@
+{
+  "id": "00500890",
+  "slug": "thuoc/mabthera-500mg-roche-50ml-35006.html",
+  "title": "Thuốc Mabthera 500mg Roche dùng trong điều trị ung thư (50ml)",
+  "short_title": "MABTHERA 500MG ROCHE 50ML",
+  "brand": {
+    "name": "Roche",
+    "slug": "thuong-hieu/roche",
+    "country": "Thụy Sĩ"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-dieu-tri-ung-thu/thuoc-dieu-tri-ung-thu",
+    "name": "Thuốc điều trị ung thư",
+    "parent_slug": "thuoc/thuoc-dieu-tri-ung-thu"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp x 50ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/mabthera_4309ae79bc.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/mabthera_4309ae79bc.png"
+  ],
+  "origin_label": "Thụy Sĩ",
+  "country": "Thụy Sĩ",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch đậm đặc để pha dung dịch tiêm truyền",
+  "trust_label": null,
+  "short_description": "<p>Mabthera 500mg/50ml là sản phẩm của Công ty Roche Diagnostics GmbH, thành phần chính là Rituximab với hàm lượng 500mg. Thuốc có tác dụng chống ung thư. Cơ chế hoạt động chính của thuốc là gắn vào các tế bào hồng cầu trong hệ thống miễn dịch của cơ thể làm chúng không phát triển được và dần dần suy yếu đi. Ngoài các công dụng kể trên, thuốc còn có tác dụng giảm đau và tiêu sưng nên được dùng để điều trị bệnh viêm khớp hoặc các bệnh về hệ thống vận mạch thay thế các thuốc khác khi các thuốc khác không có tác dụng.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p class=\"drugtitle\" id=\"ten-thuoc\">Thuốc <a href=\"https://nhathuoclongchau.com.vn/thuoc/mabthera-500mg-roche-50ml-35006.html\">Mabthera</a> 500mg/50ml được chỉ định dùng trong các trường hợp sau:</p><ul><li><a href=\"https://nhathuoclongchau.com.vn/benh/u-lympho-khong-hodgkin.html\">U lympho không Hodgkin</a> dòng B, CD<sub>20</sub> (+).</li><li>Bệnh bạch cầu mạn dòng lympho CD<sub>20</sub> (+).</li><li><a href=\"https://nhathuoclongchau.com.vn/benh/viem-khop-dang-thap-254.html\">Viêm khớp dạng thấp</a> khi các biện pháp điều trị khác không đáp ứng.</li><li>U hạt kèm viêm đa mạch (u hạt Wegener) và viêm đa vi mạch.</li></ul><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 33741,
+      "ingredientId": 34926,
+      "shortDescription": "500mg",
+      "name": "Rituximab",
+      "isPrimary": false,
+      "slug": "thanh-phan/rituximab"
+    }
+  ],
+  "stock_qty": 0
+}

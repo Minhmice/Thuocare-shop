@@ -1,0 +1,50 @@
+{
+  "id": "00004993",
+  "slug": "thuoc/molitoux-50-2983.html",
+  "title": "Thuốc Molitoux 50mg Domesco loãng đờm, long đờm (2 vỉ x 15 viên)",
+  "short_title": "MOLITOUX 50 DMC 2X15",
+  "brand": {
+    "name": "Domesco",
+    "slug": "thuong-hieu/domesco",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-ho-hap/thuoc-tri-ho-cam",
+    "name": "Thuốc trị ho cảm",
+    "parent_slug": "thuoc/thuoc-ho-hap"
+  },
+  "price_amount": 1380,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "15 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004993_molitoux_50_3833_5b88_large_1233406345.JPG",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004993_molitoux_50_3833_5b88_large_1233406345.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004993_molitoux_50_1626111998_691bed3ea5.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004993_molitoux_50_4984_5b88_large_9f63647462.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004993_molitoux_50_7224_5b88_large_134431f278.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004993_molitoux_50_8806_5b88_large_3e8b61e44c.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004993_molitoux_50_1034_5b88_large_69921704c0.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00004993_molitoux_50_9489_60ec_large_9c256c4994.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p><strong>Molitoux 50</strong> của <em>công ty Cổ phần xuất nhập khẩu Y tế Domesco</em>, thành phần chính eprazinon dihydrochlorid 50 mg, là thuốc dùng làm loãng đờm, long đờm để chữa ho, làm dễ thở. Molitoux 50 được bào chế dưới dạng viên nén bao phim.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p><strong>Thuốc Molitoux 50</strong> được chỉ định dùng trong các trường hợp sau:</p>\n\n<p>Làm loãng đờm, long đờm để chữa ho, làm dễ thở: Trong các trường hợp viêm phế quản cấp và mạn, <strong><a href=\"https://nhathuoclongchau.com.vn/benh/viem-mui-472.html\">viêm mũi</a></strong> họng kèm theo chứng nhiều đờm, đờm đặc.</p>\n\n<h3>Dược lực học</h3>\n\n<p>Làm loãng đàm và long đàm do eprazinon gắn lên thụ thể receptor của mucin, giành chỗ không cho protein viêm gắn vào.</p>\n\n<p>Chữa ho.</p>\n\n<p>Làm dễ thở nhờ tác động chống co thắt phế quản.</p>\n\n<h3>Dược động học</h3>\n\n<p>Ở người bình thường, hàm lượng eprazinon cao nhất trong huyết tương đạt được sau 1 giờ. Thuốc được chuyển hóa chủ yếu qua gan. Thời gian bán thải khoảng 6 giờ.</p>",
+  "ingredients_html": [
+    {
+      "id": 41509,
+      "ingredientId": 19327,
+      "shortDescription": "50mg",
+      "name": "Eprazinone",
+      "isPrimary": false,
+      "slug": "thanh-phan/eprazinone"
+    }
+  ],
+  "stock_qty": 0
+}

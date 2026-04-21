@@ -1,0 +1,51 @@
+{
+  "id": "00005917",
+  "slug": "thuoc/phlebodia-2612.html",
+  "title": "Thuốc Phlebodia 600mg Innothera điều trị trĩ cấp tính, suy tuần hoàn (2 vỉ x 15 viên)",
+  "short_title": "PHLEBODIA 600MG",
+  "brand": {
+    "name": "Innothera",
+    "slug": "thuong-hieu/innothera",
+    "country": "Pháp"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tri-tri-suy-gian-tinh-mach",
+    "name": "Thuốc trị trĩ, suy giãn tĩnh mạch",
+    "parent_slug": "thuoc/thuoc-tim-mach-and-mau"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "15 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_04075_62e1500483.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_04075_62e1500483.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_04080_TEM_364d5ac774.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_04076_59f18a5b3f.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_04077_5f3995a7b3.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_04078_d2e62bd3cd.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_04080_274eba9e56.png",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/phlebodia_1_f6a8d73d98.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/phlebodia_2_91750a6bb3.jpg"
+  ],
+  "origin_label": "Pháp",
+  "country": "Pháp",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Phlebodia 600mg là một sản phẩm của công ty Innothera Chouzy – Pháp, thành phần chính là Diosmin, là thuốc dùng trong hỗ trợ điều trị các triệu chứng có liên quan đến suy tuần hoàn tĩnh mạch mạn tính (nặng chân, đau, cảm giác bứt rứt). Điều trị hỗ trợ chứng dễ vỡ mao mạch. Hỗ trợ điều trị các dấu hiệu chức năng có liên quan đến cơn trĩ cấp.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Thuốc Phlebodia 600mg được chỉ định dùng trong các trường hợp sau:</p><ul><li>Hỗ trợ điều trị các triệu chứng có liên quan đến suy tuần hoàn tĩnh mạch mạn tính (nặng chân, đau, cảm giác bứt rứt).</li><li>Điều trị hỗ trợ chứng dễ vỡ mao mạch.</li><li>Hỗ trợ điều trị các dấu hiệu chức năng có liên quan đến cơn trĩ cấp.</li></ul><h3>Dược lực học</h3><p>Thuốc làm giảm sự giãn tĩnh mạch và làm giảm sự ứ trệ máu ở tĩnh mạch.</p><p>Thuốc làm bình thường hoá tính thấm mao mạch và tăng cường sức bền mao mạch.</p><p>Thuôc làm tăng trương lực của tĩnh mạch.</p><h3>Dược động học</h3><p><i>Hấp thu:</i></p><p>Ở người, sau khi uống <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/diosmin\"><strong>diosmin</strong></a> được hấp thu tốt, nồng độ tối đa đạt được sau khi uống 5 giờ.&nbsp;</p><p><i>Phân bố:</i></p><p>Phân bố cao trong thận, gan, phôi và đặc biệt là tĩnh mạch chủ và tĩnh mạch nổi dưới da. Sự gắn kết ưu tiên này của diosmin hoặc các chất chuyển hóa của nó với các mô tĩnh mạch được tăng lên cho đến giờ thứ 9 sau khi dùng và kéo dài trong suốt 96 giờ sau đó.</p><p><i>Chuyển hóa:</i></p><p>Thuốc được chuyển hoá mạnh, nhiều chất chuyển hoá (acid phenolic) khác nhau được phát hiện trong nước tiểu.</p><p><i>Thải trừ:</i></p><p>Thuốc được thải trừ hầu hết qua nước tiểu (79%), qua phân (11%) và qua mật (2,4%). Nửa đời thải trừ khoảng 11 giờ.</p>",
+  "ingredients_html": [
+    {
+      "id": 22871,
+      "ingredientId": 18065,
+      "shortDescription": "600mg",
+      "name": "Diosmin",
+      "isPrimary": false,
+      "slug": "thanh-phan/diosmin"
+    }
+  ],
+  "stock_qty": 0
+}

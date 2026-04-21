@@ -1,0 +1,44 @@
+{
+  "id": "00501715",
+  "slug": "thuoc/vasranta-20-mg-mekophar-2-x30.html",
+  "title": "Thuốc Vasranta 20mg Mekophar điều trị dự phòng cơn đau thắt ngực, nhồi máu cơ tim (2 vỉ x 30 viên)",
+  "short_title": "VASRANTA 20MG MEKOPHAR 2X30",
+  "brand": {
+    "name": "Mekophar",
+    "slug": "thuong-hieu/mekophar",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap",
+    "name": "Thuốc tim mạch huyết áp",
+    "parent_slug": "thuoc/thuoc-tim-mach-and-mau"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "30 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00501715_aef34987d9.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00501715_aef34987d9.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>Vasranta là sản phẩm của Công ty Cổ phần Hóa - Dược phẩm Mekophar với thành phần chính là Trimetazidin hydroclorid. Thuốc Vasranta được sử dụng trong điều trị dự phòng cơn đau thắt ngực, điều trị di chứng nhồi máu cơ tim; điều trị hỗ trợ các triệu chứng chóng mặt và ù tai, hội chứng Ménière; điều trị hỗ trợ trong trường hợp rối loạn thị giác có nguồn gốc tuần hoàn, tổn thương mạch.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><ul><li>Trong tim mạch: Điều trị dự phòng cơn đau thắt ngực, điều trị di chứng nhồi máu cơ tim.</li><li>Điều trị hỗ trợ các triệu chứng chóng mặt và ù tai, hội chứng Ménière.</li><li>Điều trị hỗ trợ trong trường hợp rối loạn thị giác có nguồn gốc tuần hoàn, tổn thương mạch</li></ul><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 41552,
+      "ingredientId": 39378,
+      "shortDescription": "20mg",
+      "name": "Trimetazidine",
+      "isPrimary": false,
+      "slug": "thanh-phan/trimetazidine"
+    }
+  ],
+  "stock_qty": 0
+}

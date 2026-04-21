@@ -1,0 +1,57 @@
+{
+  "id": "00003075",
+  "slug": "thuoc/fleet-enema-3748.html",
+  "title": "Dung dịch thụt trực tràng Fleet Enema giảm chứng táo bón không thường xuyên (133ml)",
+  "short_title": "FLEET ENEMA 133ML",
+  "brand": {
+    "name": "C.B.Fleet",
+    "slug": "thuong-hieu/cbfleet",
+    "country": "Hoa Kỳ"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-tao-bon",
+    "name": "Thuốc trị táo bón",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Chai",
+  "pack_note": "Chai x 133ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00003075_fleet_enema_8656_6061_large_2a3015a27f.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003075_fleet_enema_8656_6061_large_2a3015a27f.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003075_fleet_enema_1626110288_1f2dbce4fb.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003075_fleet_enema_3760_6061_large_ee44b07637.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003075_fleet_enema_9281_6061_large_1215c91fe5.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003075_fleet_enema_9343_6061_large_6440836f0d.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00003075_fleet_enema_2153_60ec_large_36cca3ef86.jpg"
+  ],
+  "origin_label": "Hoa Kỳ",
+  "country": "Hoa Kỳ",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch thụt trực tràng",
+  "trust_label": null,
+  "short_description": "<p>Thuốc Fleet Enema do Công ty C.B. Fleet Company Inc sản xuất có công dụng làm giảm chứng táo bón không thường xuyên, làm sạch phân trong ruột cho bệnh nhân trước khi phẫu thuật hoặc xét nghiệm trực tràng, chuẩn bị để soi đại tràng sigma.</p>\n\n<p>Dung dịch gần như không màu, trong suốt có mùi đặc trưng, không có tạp chất. Dung dịch chứa trong chai nhựa LDPE, có đầu tuýp dài 5 cm cũng làm bằng nhựa LDPE, bao ngoài là hộp carton.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p>Thuốc Fleet Enema được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>\n\t<p>Làm giảm chứng <a href=\"https://nhathuoclongchau.com.vn/benh/tao-bon-246.html\">táo bón</a> không thường xuyên.</p>\n\t</li>\n\t<li>\n\t<p>Làm sạch phân trong ruột cho bệnh nhân trước khi phẫu thuật hoặc xét nghiệm trực tràng. </p>\n\t</li>\n\t<li>\n\t<p>Chuẩn bị để soi đại tràng sigma.</p>\n\t</li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p>Chưa có báo cáo.</p>\n\n<h3>Dược động học</h3>\n\n<p>Chưa có báo cáo.</p>",
+  "ingredients_html": [
+    {
+      "id": 21427,
+      "ingredientId": 27927,
+      "shortDescription": "19g",
+      "name": "Monobasic Natri Phosphat",
+      "isPrimary": false,
+      "slug": ""
+    },
+    {
+      "id": 60761,
+      "ingredientId": 17509,
+      "shortDescription": "7g",
+      "name": "Dibasic Natri Phosphat",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

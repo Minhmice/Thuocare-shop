@@ -1,0 +1,44 @@
+{
+  "id": "00050698",
+  "slug": "thuoc/methotrexat-1000-mg-bidiphar-40-ml.html",
+  "title": "Thuốc Methotrexat 1000mg điều trị ung thư, bệnh tự miễn nặng như viêm khớp dạng thấp, bệnh vẩy nến Hộp 40ml",
+  "short_title": "METHOTREXAT 1000MG BIDIPHAR 40ML",
+  "brand": {
+    "name": "Bidiphar",
+    "slug": "thuong-hieu/bidiphar",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-dieu-tri-ung-thu/thuoc-chong-ung-thu",
+    "name": "Thuốc chống ung thư",
+    "parent_slug": "thuoc/thuoc-dieu-tri-ung-thu"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp x 40ml",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/methotrexatr_6a597f8710.png",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/methotrexatr_6a597f8710.png"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch tiêm",
+  "trust_label": null,
+  "short_description": "<p>Methotrexat 1000mg/40ml dùng trong điều trị ung thư.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Methotrexat 1000mg/40ml dùng trong điều trị ung thư.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 73055,
+      "ingredientId": 27196,
+      "shortDescription": "1000mg",
+      "name": "Methotrexat",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

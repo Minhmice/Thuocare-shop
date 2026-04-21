@@ -1,0 +1,49 @@
+{
+  "id": "00005617",
+  "slug": "thuoc/orthin-500-mg-2755.html",
+  "title": "Viên nang cứng Orthin 500mg Mediplantex điều trị hội chứng tăng amoniac (3 vỉ x 10 viên)",
+  "short_title": "ORTHIN 500 PLANTEX 3X10",
+  "brand": {
+    "name": "Mediplantex",
+    "slug": "thuong-hieu/mediplantex",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-benh-gan",
+    "name": "Thuốc trị bệnh gan",
+    "parent_slug": "thuoc/thuoc-tieu-hoa-and-gan-mat"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "10 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005617_orthin_500_mg_4159_5b35_large_4f5c238472.JPG",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005617_orthin_500_mg_4159_5b35_large_4f5c238472.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005617_orthin_500_mg_1628824958_d97789f33e.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/00005617_orthin_500_mg_9181_5b35_large_c5fe707b8b.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/00005617_orthin_500_mg_5404_5b35_large_dbd9cb4893.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005617_orthin_500_mg_9098_5b35_large_bd1c1fa7c8.JPG",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00005617_orthin_500_mg_1217_5b35_large_c088606a26.JPG"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nang",
+  "trust_label": null,
+  "short_description": "<p><strong>Thuốc Orthin 500mg</strong> được sản xuất bởi <i>Công ty Cổ phần Dược TW Mediplantex</i>, với thành phần chính là l - ornithine - l - aspartate, thuốc dùng để hỗ trợ điều trị hội chứng tăng amoniac trong các bệnh viêm gan cấp và mạn tính, xơ gan, não gan.</p>",
+  "description_html": "",
+  "usage_html": "<h3><strong>Chỉ định</strong></h3>\n\n<p><strong>Thuốc Orthin 500mg</strong> được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Hỗ trợ điều trị hội chứng tăng amoniac trong các bệnh <strong><a href=\"https://nhathuoclongchau.com.vn/benh/viem-gan-cap-145.html\">viêm gan cấp</a></strong> và mạn tính, <strong><a href=\"https://nhathuoclongchau.com.vn/benh/xo-gan-415.html\">xơ gan</a></strong>, não gan.</li>\n</ul>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Ornithine và aspartate là những chất đóng vai trò quan trọng trong việc chuyển hóa amoniac tạo thành urea và glutamine. Vì vậy l - ornithine - l - aspartate tham gia khử độc amoniac theo cả 2 cách.</p>\n\n<p>Trong quá trình nghiên cứu lâm sàng có kiểm soát cho thấy l - ornithine - l - aspartate làm giảm nồng độ amoniac một cách đáng kể ở bệnh nhân bị xơ gan và bệnh não nhẹ.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Chưa có thông tin.</p>",
+  "ingredients_html": [
+    {
+      "id": 43353,
+      "ingredientId": 25890,
+      "shortDescription": "500mg",
+      "name": "L-ornithine-L-aspartate",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

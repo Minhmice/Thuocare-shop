@@ -1,0 +1,44 @@
+{
+  "id": "00041715",
+  "slug": "thuoc/simponi-1-x50-mg-0-5-ml-b-1-1.html",
+  "title": "Thuốc Simponi 50mg/0.5ml Janssen Điều trị viêm khớp dạng thấp, viêm cột sống dính khớp",
+  "short_title": "SIMPONI 50MG JANSSEN 0.5ML",
+  "brand": {
+    "name": "Janssen",
+    "slug": "thuong-hieu/janssen",
+    "country": "Hoa Kỳ"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-dieu-tri-ung-thu/thuoc-chong-ung-thu",
+    "name": "Thuốc chống ung thư",
+    "parent_slug": "thuoc/thuoc-dieu-tri-ung-thu"
+  },
+  "price_amount": 0,
+  "compare_at_amount": 0,
+  "unit": "Hộp",
+  "pack_note": "Hộp",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00041715_0f99c6b9db.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/00041715_0f99c6b9db.jpg"
+  ],
+  "origin_label": "Hoa Kỳ",
+  "country": "Hoa Kỳ",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Dung dịch tiêm",
+  "trust_label": null,
+  "short_description": "<p>Simponi là sản phẩm của Công ty Baxter Pharmaceutical Solution LLC với thành phần chính là Golimumab. Thuốc được chỉ định trong những trường hợp viêm khớp dạng thấp thể hoạt động trung bình-nặng (phối hợp methotrexate (MTX)), viêm khớp vảy nến thể hoạt động, viêm cột sống dính khớp thể hoạt động.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3><p>Simponi được chỉ định dùng trong các trường hợp sau:</p><ul><li>Viêm khớp dạng thấp.</li><li>Simponi kết hợp với methotrexate (MTX) được chỉ định trong:<ul><li>Điều trị viêm khớp dạng thấp thể hoạt động, mức độ trung bình đến nặng ở người lớn khi không đáp ứng đầy đủ với thuốc chống thấp khớp tác dụng chậm bao gồm MTX.</li><li>Điều trị viêm khớp dạng thấp thể hoạt động, mức độ nặng và đang tiến triển ở người lớn chưa được điều trị với MTX trước đây.</li></ul></li><li>Viêm khớp tự phát thiếu niên.</li><li>Viêm khớp vẩy nến.</li><li>Viêm cột sống khớp trục bao gồm cả viêm cột sống dính khớp (AS).</li><li>Viêm cột sống khớp trục không có hình ảnh tổn thương trên X-quang.</li><li>Viêm loét đại tràng.</li></ul><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+  "ingredients_html": [
+    {
+      "id": 59341,
+      "ingredientId": 21614,
+      "shortDescription": "50mg",
+      "name": "Golimumab",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}

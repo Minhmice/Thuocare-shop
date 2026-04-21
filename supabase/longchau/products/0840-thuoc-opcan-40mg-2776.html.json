@@ -1,0 +1,50 @@
+{
+  "id": "00005559",
+  "slug": "thuoc/opcan-40mg-2776.html",
+  "title": "Viên dưỡng não O.P.CAN OPC điều trị giảm trí nhớ, kém tập trung, thiểu năng tuần hoàn não (2 vỉ x 15 viên)",
+  "short_title": "OP.CAN OPC 2X15",
+  "brand": {
+    "name": "Opc",
+    "slug": "thuong-hieu/opc",
+    "country": "Việt Nam"
+  },
+  "category": {
+    "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tang-cuong-tuan-hoan-nao",
+    "name": "Thuốc tăng cường tuần hoàn não",
+    "parent_slug": "thuoc/thuoc-tim-mach-and-mau"
+  },
+  "price_amount": 900,
+  "compare_at_amount": 0,
+  "unit": "Viên",
+  "pack_note": "15 Viên",
+  "image_url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6404_72d769b3dd.jpg",
+  "images": [
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6404_72d769b3dd.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/op_can_e6db0dc25f.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6406_b1c9a60fe1.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6407_8f906bffd2.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6408_c625c460df.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6411_7ab886340f.jpg",
+    "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6412_26a41b475a.jpg"
+  ],
+  "origin_label": "Việt Nam",
+  "country": "Việt Nam",
+  "badge": null,
+  "benefit_tag": [],
+  "format_tag": "Viên nén bao phim",
+  "trust_label": null,
+  "short_description": "<p>OP.CAN 40 mg của Công Ty Cổ Phần Dược Phẩm OPC, thành phần chính là cao khô lá Bạch Quả (Extractum Folium Ginkgo Siccus), là thuốc được chỉ định trong trường hợp giảm trí nhớ, kém tập trung, đặc biệt ở người lớn tuổi. Thiểu năng tuần hoàn não, ù tai, chóng mặt, giảm thính lực. Chân đi khập khiễng cách hồi. Một số trường hợp thiếu máu võng mạc. Hội chứng Raynaud.</p>",
+  "description_html": "",
+  "usage_html": "<h3>Chỉ định</h3>\n\n<p>Thuốc OP.CAN 40 mg được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Giảm trí nhớ, kém tập trung, đặc biệt ở người lớn tuổi. Thiểu năng tuần hoàn não.</li>\n\t<li><strong><a href=\"https://nhathuoclongchau.com.vn/benh/u-tai-572.html\">Ù tai</a></strong>, chóng mặt, giảm thính lực. </li>\n\t<li>Chân đi khập khiễng cách hồi. </li>\n\t<li>Một số trường hợp thiếu máu võng mạc. </li>\n\t<li>Hội chứng Raynaud.</li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p>Điều hòa trên tiểu động mạch, mao mạch, tĩnh mạch (tăng lưu lượng máu). Tác dụng lưu biến máu (giảm độ nhớt, do đối kháng với thụ thể của PAF). </p>\n\n<p>Tác dụng bảo vệ trên chuyển hóa tế bào.</p>\n\n<p>Cải thiện rối loạn dẫn truyền thần kinh.</p>\n\n<p>Đối kháng với sự sản xuất gốc tự do và peroxid hóa lipid màng tế bào.</p>\n\n<h3>Dược động học</h3>\n\n<p>Chưa có báo cáo.</p>",
+  "ingredients_html": [
+    {
+      "id": 22630,
+      "ingredientId": 41471,
+      "shortDescription": "40mg",
+      "name": "Cao khô lá Bạch quả",
+      "isPrimary": false,
+      "slug": ""
+    }
+  ],
+  "stock_qty": 0
+}
