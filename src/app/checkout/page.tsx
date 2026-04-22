@@ -1,11 +1,11 @@
-import { LongChauFooter } from "@/components/longchau-footer";
-import { LongChauHeader } from "@/components/longchau-header";
-import { CheckoutForm } from "@/components/checkout-form";
+import { Footer } from "@/components/layout/footer";
+import { Header } from "@/components/layout/header";
+import { CheckoutForm } from "@/components/checkout/checkout-form";
 
 export default async function Page() {
   return (
     <main className="min-h-screen bg-[color:var(--lc-surface)]">
-      <LongChauHeader />
+      <Header />
       <div className="mx-auto max-w-[800px] px-3 py-8 sm:px-4">
         <div className="rounded-3xl border bg-white p-5 shadow-sm sm:p-7">
           <h1 className="text-xl font-extrabold text-slate-900">Checkout</h1>
@@ -13,7 +13,7 @@ export default async function Page() {
           <CheckoutForm />
         </div>
       </div>
-      <LongChauFooter />
+      <Footer />
     </main>
   );
 }

@@ -1,5 +1,5 @@
-import { LongChauFooter } from "@/components/longchau-footer";
-import { LongChauHeader } from "@/components/longchau-header";
+import { Footer } from "@/components/layout/footer";
+import { Header } from "@/components/layout/header";
 import { getArticleBySlug } from "@/data/articles";
 
 export default async function Page({ params }: { params: Promise<{ slug: string }> }) {
@@ -8,7 +8,7 @@ export default async function Page({ params }: { params: Promise<{ slug: string 
 
   return (
     <main className="min-h-screen bg-[color:var(--lc-surface)]">
-      <LongChauHeader />
+      <Header />
       <div className="mx-auto max-w-[900px] px-3 py-8 sm:px-4">
         <article className="rounded-3xl border bg-white p-5 shadow-sm sm:p-7">
           <h1 className="text-2xl font-extrabold leading-tight text-slate-900">{article?.title ?? "Blog"}</h1>
@@ -22,7 +22,7 @@ export default async function Page({ params }: { params: Promise<{ slug: string 
           </div>
         </article>
       </div>
-      <LongChauFooter />
+      <Footer />
     </main>
   );
 }

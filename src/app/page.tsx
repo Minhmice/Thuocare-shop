@@ -1,15 +1,15 @@
-import { LongChauFooter } from "@/components/longchau-footer";
-import { LongChauHeader } from "@/components/longchau-header";
-import { LongChauHero } from "@/components/longchau-hero";
-import { LongChauQuickActions } from "@/components/longchau-quick-actions";
+import { Footer } from "@/components/layout/footer";
+import { Header } from "@/components/layout/header";
+import { Hero } from "@/components/sections/hero";
+import { QuickActions } from "@/components/sections/quick-actions";
 import {
-  LongChauArticleFeatureSection,
-  LongChauBestSellers,
-  LongChauBrandStrip,
-  LongChauHealthSegments,
-  LongChauPromoCommerce,
-  LongChauTrustBand,
-} from "@/components/longchau-home-sections";
+  ArticleFeatureSection,
+  BestSellers,
+  BrandStrip,
+  HealthSegments,
+  PromoCommerce,
+  TrustBand,
+} from "@/components/sections/home-sections";
 import { getHomepageCollections } from "@/data/collections";
 import { getFeaturedArticle } from "@/data/articles";
 
@@ -21,16 +21,16 @@ export default async function Home() {
 
   return (
     <main className="min-h-screen bg-[color:var(--lc-surface)]">
-      <LongChauHeader />
-      <LongChauHero />
-      <LongChauQuickActions />
-      <LongChauPromoCommerce className="border-t" products={promo} />
-      <LongChauBestSellers className="border-t" products={best.length ? best : promo} />
-      <LongChauBrandStrip className="border-t" />
-      <LongChauArticleFeatureSection className="border-t" featuredArticle={featuredArticle} />
-      <LongChauHealthSegments className="border-t" />
-      <LongChauTrustBand className="border-t" />
-      <LongChauFooter />
+      <Header />
+      <Hero />
+      <QuickActions />
+      <PromoCommerce className="border-t" products={promo} />
+      <BestSellers className="border-t" products={best.length ? best : promo} />
+      <BrandStrip className="border-t" />
+      <ArticleFeatureSection className="border-t" featuredArticle={featuredArticle} />
+      <HealthSegments className="border-t" />
+      <TrustBand className="border-t" />
+      <Footer />
     </main>
   );
 }

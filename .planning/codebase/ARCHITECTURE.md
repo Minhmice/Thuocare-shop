@@ -1,103 +1,138 @@
-```markdown
 # Architecture
 
 **Analysis Date:** 2026-04-21
 
 ## Pattern Overview
 
-**Overall:** Next.js App Router monolith with a thin “data access” layer and Supabase as the backend.
+**Overall:** Next.js App Router + feature-based domain modules + thin infrastructure utilities.
 
 **Key Characteristics:**
-- Server Components for pages by default (`src/app/**/page.tsx`) with targeted client components (`"use client"`) for interactivity
-- Data access functions live in `src/data/*.ts` and call Supabase directly via `src/lib/supabase/server.ts`
-- Privileged server writes happen via Next API routes (`src/app/api/**/route.ts`) and Supabase service role key
+- Server Components for pages and data fetching (async `page.tsx` in `src/app/**`)
+- Domain organization under `src/features/*` (schemas/types/services/repositories)
+- Shared “infrastructure” utilities for HTTP handlers, validation, and logging in `src/infrastructure/*`
 
 ## Layers
 
-**Routing & Rendering (Next.js App Router):**
-- Purpose: Define URLs, layouts, and server-rendered pages
+**App Router (routing + rendering):**
+- Purpose: Page routing, layouts, and API route handlers.
 - Location: `src/app/**`
-- Contains: `layout.tsx`, `page.tsx`, route handlers `api/**/route.ts`
-- Depends on: `src/components/**`, `src/data/**`
+- Contains: `layout.tsx`, `page.tsx`, and route handlers like `route.ts`
+- Depends on: `src/components/**`, `src/data/**`, `src/features/**`, `src/infrastructure/**`
+- Used by: Next.js runtime (`next dev`, `next build`)
 
 **UI Components:**
-- Purpose: Presentational components + interactive client components
+- Purpose: Presentational and interaction components (catalog, checkout, layout, navigation, shared UI).
 - Location: `src/components/**`
-- Contains: “LongChau*” components and `src/components/ui/**` primitives
-- Depends on: `src/lib/**`, `src/hooks/**`, `src/types/**`
+- Contains: shadcn-style components under `src/components/ui/**` and feature-oriented composites under:
+  - `src/components/catalog/**`
+  - `src/components/checkout/**`
+  - `src/components/layout/**`
+  - `src/components/navigation/**`
+  - `src/components/sections/**`
+- Depends on: `src/lib/**`, `src/types/**`, Tailwind globals `src/app/globals.css`
+- Used by: pages in `src/app/**`
 
-**Data Access / Domain Functions:**
-- Purpose: Fetch/transform domain data for pages; encapsulate checkout write logic
-- Location: `src/data/**`
-- Depends on: Supabase client factories `src/lib/supabase/server.ts`, Supabase table types `src/lib/supabase/types.ts`
-- Examples:
-  - Product reads: `src/data/products.ts`
-  - Articles: `src/data/articles.ts`
-  - Orders (server write): `src/data/orders.ts`
+**Data Access (page-oriented queries with mock fallback):**
+- Purpose: Fetch data needed by server components with a “Supabase if configured else mock” strategy.
+- Location: `src/data/*.ts`
+- Contains:
+  - Supabase-backed query functions (e.g. `src/data/products.ts`, `src/data/collections.ts`, `src/data/articles.ts`, `src/data/nav.ts`)
+  - Mock data in `src/data/mock.ts` (used when Supabase env is missing)
+- Depends on: `src/lib/supabase/server.ts`, `src/lib/supabase/types.ts`
+- Used by: App pages (e.g. `src/app/page.tsx` imports `getHomepageCollections` and `getFeaturedArticle`)
 
-**Infrastructure Adapters:**
-- Purpose: Provide shared utilities, DB/env configuration, local storage
-- Location: `src/lib/**`
-- Key files:
-  - Supabase env + clients: `src/lib/supabase/server.ts`
-  - Supabase table types: `src/lib/supabase/types.ts`
-  - Local cart persistence: `src/lib/local-db.ts`
-  - CSS class helper: `src/lib/utils.ts`
+**Domain Features (business logic):**
+- Purpose: Validated business workflows and persistence orchestration.
+- Location: `src/features/**`
+- Contains:
+  - Services (business workflows), e.g. `src/features/checkout/services/create-checkout-order.ts`
+  - Repositories (DB operations), e.g. `src/features/orders/repositories/orders.repository.ts`, `src/features/catalog/repositories/product-pricing.repository.ts`
+  - Schemas, e.g. `src/features/checkout/schemas/checkout-order.schema` (referenced by service layer)
+  - Types, e.g. `src/features/checkout/types/checkout`
+- Depends on: `src/infrastructure/validation/*`, `src/lib/supabase/*`
+- Used by: API route handlers in `src/app/api/**/route.ts`
 
-**Database Schema (Supabase):**
-- Purpose: Define Postgres tables, indexes, RLS policies
-- Location: `supabase/migrations/*.sql`
-- Seed data: `supabase/seed.sql` and `scripts/seed-supabase.ts`
+**Infrastructure (cross-cutting utilities):**
+- Purpose: Shared patterns for API responses, validation, and logging.
+- Location: `src/infrastructure/**`
+- Contains:
+  - HTTP helpers in `src/infrastructure/http/route-handler.ts` (`ok`, `fail`, `parseJson`, request id)
+  - Validation helpers in `src/infrastructure/validation/*` (`ApiError`, Zod helpers)
+  - Logger wrapper in `src/infrastructure/logging/logger.ts`
+- Depends on: standard runtime + Next (`NextResponse` in `src/infrastructure/http/route-handler.ts`)
+- Used by: API routes and services
 
 ## Data Flow
 
-**Product detail page (`/product/[slug]`):**
-1. Route: `src/app/product/[slug]/page.tsx`
-2. Fetch: `getProductBySlug(slug)` in `src/data/products.ts`
-3. Client creation: `createSupabaseAnonServerClient()` in `src/lib/supabase/server.ts`
-4. Queries: `products`, `product_images`, then related products
-5. Render: `LongChauProductDetailView` (`src/components/longchau-product-detail.tsx`)
+**Homepage server render (`/`):**
 
-**Checkout (local cart + server order creation):**
-1. Client cart stored in localStorage (`src/lib/local-db.ts`)
-2. UI submits: `src/components/checkout-form.tsx` -> `fetch("/api/orders")`
-3. API route: `src/app/api/orders/route.ts`
-4. Server write: `createOrderFromLocalCart()` in `src/data/orders.ts` using service role client (`src/lib/supabase/server.ts`)
-5. DB tables: `orders`, `order_items` (`supabase/migrations/0005_init_orders.sql`)
+1. `src/app/page.tsx` (server component) calls `getHomepageCollections()` from `src/data/collections.ts` and `getFeaturedArticle()` from `src/data/articles.ts`.
+2. Each `src/data/*` function gates on Supabase configuration via `isSupabaseConfigured()` from `src/lib/supabase/server.ts`.
+3. If Supabase is configured, `src/data/*` uses `createSupabaseAnonServerClient()` to query tables and return typed shapes from `src/lib/supabase/types.ts`.
+4. If not configured, `src/data/*` returns mock content (e.g. `src/data/mock.ts`) to keep pages functional without backend setup.
+
+**Checkout order creation (API POST):**
+
+1. `src/app/api/orders/route.ts` receives request and uses `parseJson()` from `src/infrastructure/http/route-handler.ts`.
+2. It calls `createCheckoutOrder()` in `src/features/checkout/services/create-checkout-order.ts`.
+3. Service validates input with Zod schema (via `CreateCheckoutOrderInputSchema`) and throws `ApiError` on validation failures (`src/infrastructure/validation/api-error.ts`).
+4. Service reads pricing via repository `src/features/catalog/repositories/product-pricing.repository.ts` (Supabase service role client).
+5. Service writes order and order items via repository `src/features/orders/repositories/orders.repository.ts` (Supabase service role client).
+6. Route handler returns `ok()` response or `fail()` with structured error mapping and logs unexpected exceptions.
 
 **State Management:**
-- Client-only state via React state/hooks; persistent cart in localStorage (`src/hooks/use-local-storage.ts`, `src/lib/local-db.ts`)
-- No global state library detected
+- Client-side state: LocalStorage-backed cart state in `src/lib/local-db.ts` and hook utilities in `src/hooks/*` (e.g. `src/hooks/use-local-storage.ts`)
+- Server-side state: fetched on demand in server components; no global store detected
+
+## Key Abstractions
+
+**Supabase client factories:**
+- Purpose: Centralize env parsing and create anon/service-role Supabase clients.
+- Examples:
+  - `src/lib/supabase/server.ts` (`createSupabaseAnonServerClient`, `createSupabaseServiceRoleServerClient`, `isSupabaseConfigured`)
+  - `src/lib/supabase/admin-server.ts` (`createSupabaseServiceRoleServerClient` with `server-only`)
+- Pattern: Factory functions + explicit env getters with informative errors
+
+**API route handler helpers:**
+- Purpose: Standardize JSON parsing, response shape, request id, and error mapping.
+- Examples: `src/infrastructure/http/route-handler.ts`
+- Pattern: `ok()` returns `{ ok: true, ... }`, `fail()` returns `{ ok: false, code, message, error, fieldErrors? }`
 
 ## Entry Points
 
-**Web app:**
-- Layout: `src/app/layout.tsx`
-- Home page: `src/app/page.tsx`
+**Web App:**
+- Location: `src/app/layout.tsx` and `src/app/page.tsx`
+- Triggers: Next.js App Router
+- Responsibilities:
+  - `layout.tsx`: fonts, global CSS import, metadata wrapper
+  - `page.tsx`: server-side data fetch and composition of sections/components
 
-**API:**
-- Orders endpoint: `src/app/api/orders/route.ts` (POST)
+**API Routes:**
+- Location: `src/app/api/orders/route.ts`
+- Triggers: HTTP requests to `/api/orders`
+- Responsibilities: request validation/parsing and calling feature services
 
-**Data import/seed:**
-- Seed: `scripts/seed-supabase.ts`
-- Import scraped products: `scripts/import-longchau-products.ts`
-- Scrape upstream site: `scripts/longchau_scrape_products.py`
+**Data/DB setup scripts:**
+- Location: `scripts/seed-supabase.ts`, `scripts/import-longchau-products.ts`
+- Triggers: manual execution via `tsx`/Node
+- Responsibilities: seed/import rows into Supabase tables using service role key
 
 ## Error Handling
 
-**Strategy:** Throw on data-layer errors; API routes convert to JSON errors.
+**Strategy:** “Throw `ApiError` for expected failures; map unknowns to standardized API shape.”
 
 **Patterns:**
-- Supabase errors are thrown directly (`src/data/products.ts`, `src/data/articles.ts`, `src/data/orders.ts`)
-- API route catches and returns `{ ok: false, error }` with `400` (`src/app/api/orders/route.ts`)
+- Domain/service layer throws `ApiError` from `src/infrastructure/validation/api-error.ts`
+- API handlers wrap calls and respond via `fail()` from `src/infrastructure/http/route-handler.ts`
+- Unexpected errors are logged with `logger.error()` (`src/infrastructure/logging/logger.ts`)
 
 ## Cross-Cutting Concerns
 
-**Logging:** Minimal (`console.*` in scripts)
-**Validation:** Lightweight runtime checks in data functions (e.g., phone normalization/length in `src/data/orders.ts`)
-**Authentication:** None for users; server privilege via `SUPABASE_SERVICE_ROLE_KEY` only (`src/lib/supabase/server.ts`)
+**Logging:** console wrapper in `src/infrastructure/logging/logger.ts`
+**Validation:** Zod (`src/infrastructure/validation/zod.ts`) + `ApiError`
+**Authentication:** Not detected (no auth middleware or session provider found in scan)
 
 ---
 
 *Architecture analysis: 2026-04-21*
-```
+

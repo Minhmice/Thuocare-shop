@@ -34,6 +34,12 @@ function writeJson(key: string, value: unknown) {
   window.localStorage.setItem(key, JSON.stringify(value));
 }
 
+// Ensure migration runs before any component reads localStorage directly.
+// This keeps `useLocalStorageState(CART_KEY, ...)` in sync on first mount.
+if (typeof window !== "undefined") {
+  migrateLegacyCartIfNeeded();
+}
+
 export const localDb = {
   cart: {
     get(): CartLine[] {

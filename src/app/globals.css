@@ -83,14 +83,24 @@
   --sidebar-ring: oklch(0.708 0 0);
 
   /* Thuocare brand-ish helpers (non-shadcn tokens) */
-  --lc-blue-950: #0a2f86;
-  --lc-blue-900: #0e3aa3;
-  --lc-blue-800: #1447bf;
-  --lc-blue-700: #1a57d8;
-  --lc-blue-600: #1f66ef;
-  --lc-blue-500: #2b74ff;
-  --lc-sky-200: #cfe6ff;
-  --lc-surface: #f3f8ff;
+  --brand-blue-950: #0a2f86;
+  --brand-blue-900: #0e3aa3;
+  --brand-blue-800: #1447bf;
+  --brand-blue-700: #1a57d8;
+  --brand-blue-600: #1f66ef;
+  --brand-blue-500: #2b74ff;
+  --brand-sky-200: #cfe6ff;
+  --brand-surface: #f3f8ff;
+
+  /* Legacy aliases (kept for gradual migration) */
+  --lc-blue-950: var(--brand-blue-950);
+  --lc-blue-900: var(--brand-blue-900);
+  --lc-blue-800: var(--brand-blue-800);
+  --lc-blue-700: var(--brand-blue-700);
+  --lc-blue-600: var(--brand-blue-600);
+  --lc-blue-500: var(--brand-blue-500);
+  --lc-sky-200: var(--brand-sky-200);
+  --lc-surface: var(--brand-surface);
 }
 
 .dark {

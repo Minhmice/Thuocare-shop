@@ -1,9 +1,9 @@
 import type { ProductCard } from "@/types/commerce";
-import type { LongChauTopNavItem } from "@/components/longchau-nav.data";
+import type { TopNavItem } from "@/components/navigation/nav.types";
 import type { DbArticle } from "@/lib/supabase/types";
 import type { HomepageCollection } from "@/data/collections";
 
-export const MOCK_NAV: LongChauTopNavItem[] = [
+export const MOCK_NAV: TopNavItem[] = [
   { id: "tpcn", label: "Thực phẩm chức năng", href: "/supplements", panel: { id: "panel-tpcn", sidebar: [] } },
   { id: "duoc-my-pham", label: "Dược mỹ phẩm", href: "#" },
   { id: "thuoc", label: "Thuốc", href: "#" },

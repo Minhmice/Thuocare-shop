@@ -1,6 +1,6 @@
-import { LongChauFooter } from "@/components/longchau-footer";
-import { LongChauHeader } from "@/components/longchau-header";
-import { LongChauCategoryListing } from "@/components/longchau-category-listing";
+import { Footer } from "@/components/layout/footer";
+import { Header } from "@/components/layout/header";
+import { CategoryListing } from "@/components/catalog/listing/category-listing";
 import { getProductsByCategorySlug } from "@/data/products";
 import { getCategoryMetaBySlug } from "@/data/categories";
 
@@ -16,9 +16,9 @@ export default async function Page({ params }: { params: Promise<{ slug: string[
 
   return (
     <main className="min-h-screen bg-[color:var(--lc-surface)]">
-      <LongChauHeader />
-      <LongChauCategoryListing title={category?.name_en ?? category?.name ?? fullSlug} products={products} />
-      <LongChauFooter />
+      <Header />
+      <CategoryListing title={category?.name_en ?? category?.name ?? fullSlug} products={products} />
+      <Footer />
     </main>
   );
 }

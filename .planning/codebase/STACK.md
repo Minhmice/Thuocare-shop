@@ -1,4 +1,3 @@
-```markdown
 # Technology Stack
 
 **Analysis Date:** 2026-04-21
@@ -6,78 +5,76 @@
 ## Languages
 
 **Primary:**
-- TypeScript (strict) - Next.js app code in `src/**/*.ts`, `src/**/*.tsx` (`tsconfig.json`)
+- TypeScript - App + server code in `src/**/*.ts` and `src/**/*.tsx`
 
 **Secondary:**
-- JavaScript (Node) - tool/scripts (e.g. `scripts/sync-skills.mjs`)
-- Python (stdlib-only) - scraping script `scripts/longchau_scrape_products.py`
-- SQL (Postgres) - Supabase migrations in `supabase/migrations/*.sql`
+- CSS - Global styling in `src/app/globals.css` (Tailwind v4)
+- SQL - Supabase migrations and seed data in `supabase/migrations/*.sql` and `supabase/seed.sql`
 
 ## Runtime
 
 **Environment:**
-- Node.js `>=24` (declared in `package.json#engines`)
+- Node.js (required): `>=24` (from `package.json#engines.node`)
 
 **Package Manager:**
-- npm (lockfile present: `package-lock.json`)
+- npm
+- Lockfile: present (`package-lock.json`)
 
 ## Frameworks
 
 **Core:**
-- Next.js `16.2.1` - App Router in `src/app/**` (`package.json`)
-- React `19.2.4` - UI layer (`package.json`)
+- Next.js `16.2.1` - App Router web application (`src/app/**`)
+- React `19.2.4` / `react-dom` `19.2.4` - UI runtime
+
+**Testing:**
+- Not detected (no `jest`/`vitest` config found; no `*.test.*`/`*.spec.*` surfaced in scan)
 
 **Build/Dev:**
-- Next dev/build/start via `npm run dev|build|start` (`package.json`)
-- TypeScript `^5` with `strict: true` (`tsconfig.json`)
+- Next dev/build/start (scripts in `package.json`)
+- TypeScript `^5` - typechecking via `npm run typecheck` (`tsc --noEmit`)
+- ESLint `^9` - linting via `npm run lint` with Next presets (`eslint.config.mjs`)
 
 **Styling/UI:**
-- Tailwind CSS `^4` via PostCSS plugin `@tailwindcss/postcss` (`postcss.config.mjs`, `package.json`)
-- shadcn (`components.json`) + Base UI (`@base-ui/react`) + class-variance-authority for variants (`src/components/ui/button.tsx`)
-- Icons: `lucide-react` (`package.json`)
-
-**Linting:**
-- ESLint `^9` with `eslint-config-next` (`eslint.config.mjs`)
+- Tailwind CSS `^4` - via PostCSS plugin `@tailwindcss/postcss` (`postcss.config.mjs`) and `@import "tailwindcss";` in `src/app/globals.css`
+- shadcn/ui - configured via `components.json` (RSC enabled; aliases point to `@/components/ui`)
+- `@base-ui/react` `^1.3.0` - headless UI primitives
+- `lucide-react` `^1.6.0` - icon library
+- `class-variance-authority`, `clsx`, `tailwind-merge`, `tw-animate-css` - styling helpers/animations
 
 ## Key Dependencies
 
 **Critical:**
-- `@supabase/supabase-js` `^2.104.0` - data access + server API route writes (`src/lib/supabase/server.ts`, `src/data/*.ts`, `src/app/api/**`)
+- `@supabase/supabase-js` `^2.104.0` - primary backend data store client (server-side usage in `src/lib/supabase/*`, `src/data/*`, `src/features/*/repositories/*`)
+- `zod` `^4.3.6` - runtime validation (`src/infrastructure/validation/zod.ts`, schemas under `src/features/**/schemas/*`)
 
-**UI Utility:**
-- `clsx` + `tailwind-merge` - class composition helper `cn()` (`src/lib/utils.ts`)
+**Infrastructure:**
+- Next.js standalone output - `next.config.ts` sets `output: "standalone"` for production packaging
 
 ## Configuration
 
-**Next.js:**
-- `next.config.ts`:
-  - `output: "standalone"` (Docker-ish deploy-friendly artifact)
-  - `images.remotePatterns` allows `https://cdn.nhathuoclongchau.com.vn` (used across product images)
-
-**TypeScript:**
-- `tsconfig.json`:
-  - path alias `@/*` -> `src/*`
-
 **Environment:**
-- `.env` present (do not commit secrets). Server-side reads are centralized in `src/lib/supabase/server.ts`.
+- Env vars consumed in server code (no values committed):
+  - Supabase URL and keys in `src/lib/supabase/server.ts` and scripts under `scripts/*.ts`
+  - App reads both server (`SUPABASE_*`) and public (`NEXT_PUBLIC_SUPABASE_*`) variants
+- Local env file present (`.env`) - contains environment configuration (do not commit secrets)
+
+**Build:**
+- Next: `next.config.ts`
+- TypeScript: `tsconfig.json` (path alias `@/*` → `src/*`)
+- ESLint: `eslint.config.mjs`
+- PostCSS/Tailwind v4 plugin: `postcss.config.mjs`
+- shadcn: `components.json`
 
 ## Platform Requirements
 
 **Development:**
-```bash
-npm ci
-npm run dev
-```
-
-**Typecheck/lint/build:**
-```bash
-npm run check
-```
+- Node.js `>=24`
+- npm (lockfile is `package-lock.json`)
 
 **Production:**
-- Next.js standalone output (see `next.config.ts`) typically deployed via Node server (`npm run start`) with env vars configured at runtime.
+- Next.js standalone build (`next.config.ts` sets `output: "standalone"`)
 
 ---
 
 *Stack analysis: 2026-04-21*
-```
+

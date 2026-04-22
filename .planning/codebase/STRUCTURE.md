@@ -1,4 +1,3 @@
-```markdown
 # Codebase Structure
 
 **Analysis Date:** 2026-04-21
@@ -7,122 +6,168 @@
 
 ```
 [project-root]/
-├── src/
-│   ├── app/                 # Next.js App Router routes (pages, layouts, API routes)
-│   ├── components/          # App components + `components/ui` primitives
-│   ├── data/                # Data access functions (Supabase reads/writes) + mock data
-│   ├── hooks/               # React hooks (e.g. localStorage state)
-│   ├── lib/                 # Shared utilities + Supabase client/env + local “db”
-│   └── types/               # Shared TS types (domain/UI)
-├── public/                  # Static assets
-├── scripts/                 # Node/Python scripts for scraping/import/seed
-├── supabase/                # Supabase SQL migrations + seed + scraped datasets
-├── docs/                    # Research/spec notes for cloned UX
-├── next.config.ts           # Next config (standalone output; image remote patterns)
-├── tsconfig.json            # TS config + `@/*` alias
-├── eslint.config.mjs         # ESLint config (Next core web vitals + TS)
+├── src/                      # Next.js app code (App Router, features, components)
+│   ├── app/                  # Routes, layouts, API handlers (App Router)
+│   ├── components/           # UI building blocks + page sections
+│   ├── data/                 # Page-oriented data queries (Supabase + mock fallback)
+│   ├── features/             # Feature/domain modules (services, repositories, schemas, types)
+│   ├── hooks/                # Client hooks (e.g. localStorage)
+│   ├── infrastructure/       # Cross-cutting utilities (http, logging, validation)
+│   ├── lib/                  # Shared libraries (Supabase clients, utils, local-db)
+│   └── types/                # Shared TS types
+├── supabase/                 # Supabase project assets: migrations, seed, scraped datasets
+│   ├── migrations/           # SQL migrations for schema + policies
+│   ├── seed.sql              # SQL seed (idempotent upserts)
+│   └── longchau/             # Large scraped product datasets (JSON)
+├── scripts/                  # Node/TSX scripts for seeding/importing Supabase
+├── public/                   # Static assets
+├── docs/                     # Project documentation (non-code)
+├── .planning/                # GSD planning artifacts
+├── next.config.ts            # Next.js config (standalone output, remote images)
+├── tsconfig.json             # TS config (alias @/* → src/*)
+├── eslint.config.mjs         # ESLint config (Next presets)
 ├── postcss.config.mjs        # Tailwind v4 PostCSS plugin
-├── components.json           # shadcn generator config + aliases
-└── .env                      # Local env (present; do not commit values)
+├── components.json           # shadcn/ui config
+└── package.json              # Scripts + dependencies
 ```
 
 ## Directory Purposes
 
 **`src/app/`:**
-- Purpose: Routing + SSR/Server Components + route handlers
+- Purpose: Routing + page composition (Next.js App Router).
+- Contains: `layout.tsx`, `page.tsx`, route segments, and API routes.
 - Key files:
-  - `src/app/layout.tsx` (global layout + fonts + metadata)
-  - `src/app/page.tsx` (home)
-  - `src/app/api/orders/route.ts` (POST checkout order creation)
-  - Dynamic routes: `src/app/product/[slug]/page.tsx`, `src/app/category/[slug]/page.tsx`, `src/app/blog/[slug]/page.tsx`
+  - `src/app/layout.tsx`
+  - `src/app/page.tsx`
+  - `src/app/api/orders/route.ts`
+
+**`src/components/`:**
+- Purpose: UI components and sections used by pages.
+- Contains:
+  - shadcn-like primitives under `src/components/ui/**`
+  - feature composites under `src/components/catalog/**`, `src/components/checkout/**`, `src/components/layout/**`, `src/components/navigation/**`, `src/components/sections/**`
 
 **`src/data/`:**
-- Purpose: “Data access layer” (Supabase queries + mapping to UI types)
-- Key files:
-  - `src/data/products.ts` (product detail + category listing)
-  - `src/data/articles.ts` (featured + by slug)
-  - `src/data/orders.ts` (server-side checkout write)
-  - `src/data/mock.ts` (fallback data when Supabase isn’t configured)
+- Purpose: Server-side data fetching functions used by pages.
+- Contains:
+  - Supabase-backed queries that return mock data if not configured:
+    - `src/data/products.ts`, `src/data/categories.ts`, `src/data/collections.ts`, `src/data/articles.ts`, `src/data/nav.ts`
+  - Mock data: `src/data/mock.ts`
 
-**`src/lib/supabase/`:**
-- Purpose: Centralize env + client creation; define table row types
-- Key files:
-  - `src/lib/supabase/server.ts` (env reads + anon/service role clients)
-  - `src/lib/supabase/types.ts` (Db* types matching migrations)
+**`src/features/`:**
+- Purpose: Feature/domain modules (business logic + persistence orchestration).
+- Contains (current feature dirs):
+  - `src/features/catalog/**`
+  - `src/features/checkout/**`
+  - `src/features/orders/**`
+- Typical contents:
+  - `services/*` for orchestration (e.g. `src/features/checkout/services/create-checkout-order.ts`)
+  - `repositories/*` for DB access (e.g. `src/features/orders/repositories/orders.repository.ts`)
+  - `schemas/*` for Zod validation
+  - `types/*` for feature types
 
-**`scripts/`:**
-- Purpose: One-off/batch operations (scrape/import/seed)
+**`src/infrastructure/`:**
+- Purpose: Cross-cutting app utilities.
+- Contains:
+  - `src/infrastructure/http/route-handler.ts`
+  - `src/infrastructure/validation/api-error.ts` and `src/infrastructure/validation/zod.ts`
+  - `src/infrastructure/logging/logger.ts`
+
+**`src/lib/`:**
+- Purpose: Shared libraries and adapters.
 - Key files:
-  - `scripts/longchau_scrape_products.py` (scrape upstream website sitemap + __NEXT_DATA__)
-  - `scripts/import-longchau-products.ts` (read `src/data/longchau/products.json` and upsert into Supabase)
-  - `scripts/seed-supabase.ts` (seed small demo dataset)
+  - `src/lib/supabase/server.ts` (env parsing + client factories)
+  - `src/lib/supabase/admin-server.ts` (server-only service role client)
+  - `src/lib/supabase/types.ts` (typed DB row shapes)
+  - `src/lib/local-db.ts` (localStorage-backed cart “local DB”)
+  - `src/lib/utils.ts` (shared UI/util helpers)
 
 **`supabase/`:**
-- Purpose: Database schema + RLS + datasets
+- Purpose: Supabase project assets and database schema.
 - Key files:
-  - `supabase/migrations/*.sql` (schema + RLS)
-  - `supabase/seed.sql` (dev seed)
-  - `supabase/longchau/products.json` + `supabase/longchau/products/*.json` (scraped product payloads)
+  - `supabase/migrations/0001_init_catalog.sql` (catalog tables)
+  - `supabase/migrations/0005_init_orders.sql` (order tables)
+  - `supabase/migrations/0006_rls_policies.sql` (RLS policies)
+  - `supabase/seed.sql` (SQL seed)
+- Data dumps: `supabase/longchau/**` (large JSON; treat as dataset)
 
 ## Key File Locations
 
 **Entry Points:**
-- `src/app/layout.tsx`: global HTML shell + metadata
-- `src/app/page.tsx`: home composition
+- `src/app/layout.tsx`: root layout + fonts + global CSS import
+- `src/app/page.tsx`: homepage server component
+- `src/app/api/orders/route.ts`: API endpoint for order creation
 
 **Configuration:**
-- `next.config.ts`: image allowlist + standalone output
-- `tsconfig.json`: strict TS + `@/*` alias
-- `components.json`: shadcn + aliases to match TS paths
+- `next.config.ts`: Next standalone output + remote images allowlist
+- `tsconfig.json`: strict TS + alias `@/*`
+- `eslint.config.mjs`: ESLint presets from Next
+- `postcss.config.mjs`: Tailwind v4 PostCSS plugin
+- `components.json`: shadcn/ui settings and aliases
 
 **Core Logic:**
-- `src/data/*.ts`: Supabase query + mapping logic
+- Feature services: `src/features/**/services/*`
+- Feature repositories: `src/features/**/repositories/*`
+- Supabase client factories: `src/lib/supabase/*`
+- API response helpers: `src/infrastructure/http/route-handler.ts`
 
 **Testing:**
-- Not detected (no `*.test.*` / `*.spec.*` in `src/` and no Jest/Vitest/Playwright configs found)
+- Not detected (no dedicated test directory/config found)
 
 ## Naming Conventions
 
-**Routes:**
-- App Router segments in `src/app/**/page.tsx`
-- API route handlers in `src/app/api/**/route.ts`
+**Files:**
+- App Router: `page.tsx`, `layout.tsx`, `route.ts` under `src/app/**`
+- Feature modules: kebab-case in filenames (e.g. `create-checkout-order.ts`, `product-pricing.repository.ts`)
+- UI components: kebab-case folders/files under `src/components/**` (e.g. `product-detail.tsx`, `mobile-sticky-buy-bar.tsx`)
 
-**Components:**
-- Feature components use `longchau-*` file names in `src/components/` (e.g. `src/components/longchau-header.tsx`)
-- UI primitives in `src/components/ui/*` (shadcn-style)
-
-**Aliases:**
-- Use `@/` for imports from `src/` (configured in `tsconfig.json` and `components.json`)
+**Directories:**
+- Route segments in `src/app/**` follow URL structure, including dynamic segments:
+  - `src/app/product/[slug]/page.tsx`
+  - `src/app/category/[slug]/page.tsx`
+  - `src/app/list/[...slug]/page.tsx`
+- Features are grouped by domain: `src/features/{catalog,checkout,orders}/`
 
 ## Where to Add New Code
 
-**New page/route:**
-- Add `src/app/<segment>/page.tsx` (or `src/app/<segment>/[param]/page.tsx`)
+**New Route/Page:**
+- Add `page.tsx` under `src/app/<route>/page.tsx`
+- If you need an API endpoint, add `route.ts` under `src/app/api/<name>/route.ts` and use helpers from `src/infrastructure/http/route-handler.ts`
 
-**New API endpoint:**
-- Add `src/app/api/<name>/route.ts` (export `GET/POST/etc`)
+**New Feature:**
+- Primary code: create a new folder under `src/features/<feature>/` with:
+  - `schemas/*` (Zod)
+  - `types/*`
+  - `services/*` (business workflows)
+  - `repositories/*` (Supabase writes/privileged reads)
+- Shared UI: add reusable components under `src/components/<area>/`
 
-**New Supabase query / domain operation:**
-- Add or extend `src/data/<domain>.ts`
-- Use `createSupabaseAnonServerClient()` for public reads and `createSupabaseServiceRoleServerClient()` for privileged server writes (`src/lib/supabase/server.ts`)
+**New Data Query used by pages:**
+- Put server-side query functions in `src/data/<topic>.ts`
+- Use `isSupabaseConfigured()` + `createSupabaseAnonServerClient()` from `src/lib/supabase/server.ts` and provide a mock fallback in `src/data/mock.ts` if needed
 
-**New database table:**
-- Add a new migration in `supabase/migrations/` and extend `src/lib/supabase/types.ts` with matching `Db*` types
-
-**New scraping/import logic:**
-- Put it in `scripts/` and keep env access centralized (mirror pattern in `scripts/seed-supabase.ts` / `scripts/import-longchau-products.ts`)
+**Utilities:**
+- General helpers: `src/lib/*`
+- Cross-cutting infrastructure: `src/infrastructure/*`
 
 ## Special Directories
 
 **`.next/`:**
-- Generated: Yes (Next build output)
-- Committed: Appears present locally; should generally be ignored in git (verify `.gitignore`)
+- Purpose: Next build output
+- Generated: Yes
+- Committed: No (build artifact)
 
 **`node_modules/`:**
+- Purpose: dependencies
 - Generated: Yes
 - Committed: No
+
+**`.planning/`:**
+- Purpose: GSD planning artifacts
+- Generated: Yes (workflow artifacts)
+- Committed: depends on workflow; treat as planning docs
 
 ---
 
 *Structure analysis: 2026-04-21*
-```
+

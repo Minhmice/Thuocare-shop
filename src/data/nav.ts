@@ -1,11 +1,11 @@
 import type { ProductCard } from "@/types/commerce";
 import type {
-  LongChauNavIconKey,
-  LongChauNavPanel,
-  LongChauNavSidebarItem,
-  LongChauNavTile,
-  LongChauTopNavItem,
-} from "@/components/longchau-nav.data";
+  NavIconKey,
+  NavPanel,
+  NavSidebarItem,
+  NavTile,
+  TopNavItem,
+} from "@/components/navigation/nav.types";
 import { createSupabaseAnonServerClient, isSupabaseConfigured } from "@/lib/supabase/server";
 import { formatVnd } from "@/lib/money";
 import type { DbBrand, DbNavSidebarItem, DbNavTile, DbProduct } from "@/lib/supabase/types";
@@ -36,11 +36,11 @@ function toProductCard(p: ProductRow): ProductCard {
   };
 }
 
-function asIconKey(iconKey: string): LongChauNavIconKey {
-  return iconKey as LongChauNavIconKey;
+function asIconKey(iconKey: string): NavIconKey {
+  return iconKey as NavIconKey;
 }
 
-export async function getTopNav(): Promise<LongChauTopNavItem[]> {
+export async function getTopNav(): Promise<TopNavItem[]> {
   if (!isSupabaseConfigured()) return MOCK_NAV;
   const supabase = createSupabaseAnonServerClient();
 
@@ -82,14 +82,14 @@ export async function getTopNav(): Promise<LongChauTopNavItem[]> {
 
     return (roots ?? []).map((r) => {
       const kids = childrenByRoot.get(r.id) ?? [];
-      const sidebar: LongChauNavSidebarItem[] = kids.map((k) => ({
+      const sidebar: NavSidebarItem[] = kids.map((k) => ({
         id: k.id,
         label: k.name_en ?? k.name,
         icon: "pill",
         tiles: [],
         bestSellers: [],
       }));
-      const panel: LongChauNavPanel | undefined = sidebar.length ? { id: `panel-${r.id}`, sidebar } : undefined;
+      const panel: NavPanel | undefined = sidebar.length ? { id: `panel-${r.id}`, sidebar } : undefined;
       return {
         id: r.id,
         label: r.name_en ?? r.name,
@@ -125,7 +125,7 @@ export async function getTopNav(): Promise<LongChauTopNavItem[]> {
     .order("sort", { ascending: true });
   if (bestErr) throw bestErr;
 
-  const tilesBySidebar = new Map<string, LongChauNavTile[]>();
+  const tilesBySidebar = new Map<string, NavTile[]>();
   for (const t of tilesRaw ?? []) {
     const arr = tilesBySidebar.get(t.sidebar_id) ?? [];
     arr.push({ id: t.id, label: t.label, icon: asIconKey(t.icon_key), href: t.href ?? undefined });
@@ -144,9 +144,9 @@ export async function getTopNav(): Promise<LongChauTopNavItem[]> {
     bestBySidebar.set(row.sidebar_id, arr);
   }
 
-  const sidebarsByTop = new Map<string, LongChauNavSidebarItem[]>();
+  const sidebarsByTop = new Map<string, NavSidebarItem[]>();
   for (const s of sidebarsRaw ?? []) {
-    const sidebar: LongChauNavSidebarItem = {
+    const sidebar: NavSidebarItem = {
       id: s.id,
       label: s.label,
       icon: asIconKey(s.icon_key),
@@ -160,7 +160,7 @@ export async function getTopNav(): Promise<LongChauTopNavItem[]> {
 
   return (tops ?? []).map((t) => {
     const sidebar = sidebarsByTop.get(t.id);
-    const panel: LongChauNavPanel | undefined = sidebar ? { id: `panel-${t.id}`, sidebar } : undefined;
+    const panel: NavPanel | undefined = sidebar ? { id: `panel-${t.id}`, sidebar } : undefined;
     return { id: t.id, label: t.label, href: t.href ?? undefined, panel };
   });
 }
