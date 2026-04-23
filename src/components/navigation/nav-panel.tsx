@@ -2,111 +2,24 @@
 
 import * as React from "react";
 import Image from "next/image";
-import type { NavIconKey, NavPanel, NavSidebarItem, NavTile } from "@/components/navigation/nav.types";
+import Link from "next/link";
+import type { NavMegaBlock, NavTopItem } from "@/components/navigation/nav.types";
 import { cn } from "@/lib/utils";
 import type { ProductCard } from "@/types/commerce";
-import {
-  Activity,
-  BadgeCheck,
-  Bandage,
-  Brain,
-  Droplet,
-  Eye,
-  FlaskConical,
-  HeartPulse,
-  Leaf,
-  Megaphone,
-  Pill,
-  Ribbon,
-  Shield,
-  ShoppingBag,
-  Sparkles,
-  Stethoscope,
-  Syringe,
-  Star,
-  TestTube,
-} from "lucide-react";
 
-function Icon({ name, className }: { name: NavIconKey; className?: string }) {
-  const props = { className: cn("size-4", className) };
-  switch (name) {
-    case "vitamins":
-      return <TestTube {...props} />;
-    case "shield":
-      return <Shield {...props} />;
-    case "hormones":
-      return <FlaskConical {...props} />;
-    case "eye":
-      return <Eye {...props} />;
-    case "stomach":
-      return <FlaskConical {...props} />;
-    case "brain":
-      return <Brain {...props} />;
-    case "sparkles":
-      return <Sparkles {...props} />;
-    case "droplet":
-      return <Droplet {...props} />;
-    case "heart":
-      return <HeartPulse {...props} />;
-    case "lungs":
-      return <HeartPulse {...props} />;
-    case "bones":
-      return <Activity {...props} />;
-    case "face":
-      return <Sparkles {...props} />;
-    case "body":
-      return <Activity {...props} />;
-    case "skin":
-      return <Sparkles {...props} />;
-    case "hair":
-      return <Sparkles {...props} />;
-    case "makeup":
-      return <Sparkles {...props} />;
-    case "eyeCare":
-      return <Eye {...props} />;
-    case "leaf":
-      return <Leaf {...props} />;
-    case "pill":
-      return <Pill {...props} />;
-    case "flask":
-      return <FlaskConical {...props} />;
-    case "mortar":
-      return <FlaskConical {...props} />;
-    case "syringe":
-      return <Syringe {...props} />;
-    case "bandage":
-      return <Bandage {...props} />;
-    case "activity":
-      return <Activity {...props} />;
-    case "family":
-      return <BadgeCheck {...props} />;
-    case "shopping":
-      return <ShoppingBag {...props} />;
-    case "drops":
-      return <Droplet {...props} />;
-    case "stethoscope":
-      return <Stethoscope {...props} />;
-    case "ribbon":
-      return <Ribbon {...props} />;
-    case "badge":
-      return <BadgeCheck {...props} />;
-    case "megaphone":
-      return <Megaphone {...props} />;
-    case "star":
-      return <Star {...props} />;
-    default:
-      return <Star {...props} />;
-  }
-}
-
-function BestSellerCard({ product }: { product: ProductCard }) {
+function BestSellerCard({ product, href }: { product: ProductCard; href: string }) {
   return (
-    <a
-      href="#"
-      className="group rounded-xl p-2 hover:bg-slate-50 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-(--lc-blue-700)/30"
+    <Link
+      href={href}
+      className={cn(
+        "group rounded-2xl p-2",
+        "transition-[background-color,transform] duration-150 ease-out",
+        "hover:bg-[color:var(--lc-surface)] active:translate-y-px",
+        "focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring/35"
+      )}
     >
       <div className="flex gap-2">
-        <div className="relative size-14 shrink-0 overflow-hidden rounded-lg bg-(--lc-surface) ring-1 ring-slate-200/70">
+        <div className="relative size-14 shrink-0 overflow-hidden rounded-xl bg-(--lc-surface) ring-1 ring-border/70">
           {product.imageUrl ? (
             <Image
               src={product.imageUrl}
@@ -118,118 +31,107 @@ function BestSellerCard({ product }: { product: ProductCard }) {
           ) : null}
         </div>
         <div className="min-w-0">
-          <div className="line-clamp-2 text-xs font-semibold text-slate-800 group-hover:text-(--lc-blue-800)">{product.title}</div>
+          <div className="line-clamp-2 text-xs font-semibold text-slate-800 transition-colors group-hover:text-(--lc-accent-900)">{product.title}</div>
           <div className="mt-1 flex items-baseline gap-1.5">
-            <div className="text-xs font-extrabold text-(--lc-blue-800)">{product.price.display}</div>
+            <div className="text-xs font-extrabold text-(--lc-accent-800)">{product.price.display}</div>
             <div className="text-[11px] text-slate-500">/ {product.unit ?? "Hộp"}</div>
           </div>
         </div>
       </div>
-    </a>
+    </Link>
   );
 }
 
-function Tiles({ tiles }: { tiles: NavTile[] }) {
+function LinksBlock({
+  block,
+}: {
+  block: Extract<NavMegaBlock, { kind: "links" }>;
+}) {
   return (
-    <div className="grid gap-3 sm:grid-cols-3">
-      {tiles.map((t) => (
-        <a
-          key={t.id}
-          href={t.href ?? "#"}
-          className="group flex items-center gap-3 rounded-2xl border bg-white px-4 py-3 shadow-sm transition hover:-translate-y-0.5 hover:shadow"
-        >
-          <div className="grid size-9 place-items-center rounded-xl bg-(--lc-surface) text-(--lc-blue-800)">
-            <Icon name={t.icon} className="size-5" />
-          </div>
-          <div className="min-w-0">
-            <div className="truncate text-sm font-semibold text-slate-900 group-hover:text-(--lc-blue-800)">{t.label}</div>
-          </div>
-        </a>
-      ))}
+    <div>
+      <div className="flex items-center justify-between gap-2">
+        <div className="text-sm font-extrabold text-slate-900">{block.title}</div>
+        {block.viewAll ? (
+          <Link className="text-xs font-semibold text-(--lc-accent-700) hover:underline" href={block.viewAll.href}>
+            {block.viewAll.label}
+          </Link>
+        ) : null}
+      </div>
+      <div className="mt-3 grid gap-2">
+        {block.links.map((l) => (
+          <Link
+            key={l.id}
+            href={l.href}
+            className={cn(
+              "group flex items-center justify-between gap-3 rounded-2xl border bg-white px-4 py-3",
+              "border-border shadow-[0_8px_18px_rgba(0,52,40,0.06)]",
+              "transition-[transform,box-shadow,background-color] duration-150 ease-out",
+              "hover:-translate-y-0.5 hover:bg-[color:var(--lc-surface)] hover:shadow-[0_14px_30px_rgba(0,52,40,0.08)]",
+              "active:translate-y-0 active:shadow-[0_10px_22px_rgba(0,52,40,0.07)]",
+              "focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring/35"
+            )}
+          >
+            <div className="min-w-0">
+              <div className="truncate text-sm font-semibold text-slate-900 transition-colors group-hover:text-(--lc-accent-900)">{l.label}</div>
+              {l.description ? <div className="mt-0.5 line-clamp-1 text-xs text-slate-500">{l.description}</div> : null}
+            </div>
+            <span className="text-xs font-semibold text-slate-400">→</span>
+          </Link>
+        ))}
+      </div>
     </div>
   );
 }
 
-function SidebarItem({
-  item,
-  active,
-  onEnter,
+function BestSellersBlock({
+  block,
 }: {
-  item: NavSidebarItem;
-  active: boolean;
-  onEnter: () => void;
+  block: Extract<NavMegaBlock, { kind: "bestSellers" }>;
 }) {
   return (
-    <button
-      type="button"
-      onMouseEnter={onEnter}
-      onFocus={onEnter}
-      className={cn(
-        "flex w-full items-center gap-3 rounded-xl px-3 py-2 text-left text-sm font-semibold transition",
-        active ? "bg-(--lc-sky-200)/55 text-(--lc-blue-900)" : "text-slate-700 hover:bg-slate-50"
-      )}
-    >
-      <span className={cn("grid size-9 place-items-center rounded-xl", active ? "bg-white" : "bg-slate-50")}>
-        <Icon name={item.icon} className={cn(active ? "text-(--lc-blue-800)" : "text-slate-500")} />
-      </span>
-      <span className="truncate">{item.label}</span>
-    </button>
+    <div>
+      <div className="flex items-center justify-between gap-2">
+        <div className="text-sm font-extrabold text-slate-900">{block.title}</div>
+        {block.href ? (
+          <Link className="text-xs font-semibold text-(--lc-accent-700) hover:underline" href={block.href}>
+            Xem tất cả
+          </Link>
+        ) : null}
+      </div>
+      <div className="mt-2 grid gap-1">{block.products.slice(0, 4).map((p) => <BestSellerCard key={p.id} product={p} href={block.href ?? "/"} />)}</div>
+    </div>
   );
 }
 
-export function NavPanelView({
-  panel,
-  mode,
-  activeSidebarId,
-  setActiveSidebarId,
-  className,
-}: {
-  panel: NavPanel;
-  mode: "desktop" | "mobile";
-  activeSidebarId: string | null;
-  setActiveSidebarId: (id: string) => void;
-  className?: string;
-}) {
-  const first = panel.sidebar[0];
-  const active = panel.sidebar.find((s) => s.id === activeSidebarId) ?? first;
+export function NavPanelView({ topItem, className }: { topItem: NavTopItem | null; className?: string }) {
+  const mega = topItem?.mega;
+  if (!topItem || !mega) return null;
 
-  React.useEffect(() => {
-    if (first) setActiveSidebarId(first.id);
-    // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [panel.id]);
-
-  if (!first || !active) return null;
-
-  const shellClass =
-    mode === "desktop"
-      ? "rounded-3xl border bg-white shadow-[0_18px_50px_rgba(15,23,42,0.18)]"
-      : "rounded-3xl border bg-white shadow-sm";
+  const blocks = mega.blocks;
+  const a = blocks.find((b) => b.kind === "links") as Extract<NavMegaBlock, { kind: "links" }> | undefined;
+  const b = blocks.filter((x) => x.kind === "links")[1] as Extract<NavMegaBlock, { kind: "links" }> | undefined;
+  const c = blocks.find((x) => x.kind === "bestSellers") as Extract<NavMegaBlock, { kind: "bestSellers" }> | undefined;
 
   return (
-    <div className={cn(shellClass, "p-3 sm:p-4", className)}>
-      <div className="grid gap-4 sm:grid-cols-[260px_1fr]">
-        <aside className="rounded-2xl bg-white sm:border-r sm:pr-4">
-          <div className="grid gap-1">
-            {panel.sidebar.map((s) => (
-              <SidebarItem key={s.id} item={s} active={s.id === active.id} onEnter={() => setActiveSidebarId(s.id)} />
-            ))}
-          </div>
-        </aside>
-
-        <section className="min-w-0">
-          <div className="mb-4">
-            <Tiles tiles={active.tiles} />
-          </div>
-
-          <div className="flex items-center justify-between gap-2">
-            <div className="text-sm font-extrabold text-slate-900">Bán chạy nhất</div>
-            <a className="text-xs font-semibold text-(--lc-blue-700) hover:underline" href="#">
-              Xem tất cả
-            </a>
-          </div>
-
-          <div className="mt-2 grid gap-1 sm:grid-cols-2">{active.bestSellers.slice(0, 6).map((p) => <BestSellerCard key={p.id} product={p} />)}</div>
-        </section>
+    <div
+      className={cn(
+        "mx-auto w-[calc(100%-24px)] max-w-[1200px] sm:w-[calc(100%-32px)]",
+        "rounded-3xl border bg-white p-5",
+        "border-border",
+        "shadow-[0_26px_70px_rgba(0,52,40,0.12)]",
+        className
+      )}
+    >
+      <div className="mb-4 flex items-center justify-between gap-3">
+        <div className="text-base font-extrabold text-slate-900">{topItem.label}</div>
+        <Link className="text-sm font-semibold text-(--lc-accent-700) hover:underline" href={topItem.href}>
+          Xem tất cả
+        </Link>
+      </div>
+      <div className="grid gap-4 lg:grid-cols-3">
+        {a ? <LinksBlock block={a} /> : null}
+        {b ? <LinksBlock block={b} /> : null}
+        {c ? <BestSellersBlock block={c} /> : null}
       </div>
     </div>
   );

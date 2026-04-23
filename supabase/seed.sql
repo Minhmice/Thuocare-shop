@@ -36,6 +36,68 @@ set
   sort = excluded.sort,
   is_active = true;
 
+-- catalog_nodes (new core tree)
+insert into public.catalog_nodes (
+  id, node_type, parent_id, name, slug, full_slug, route_path,
+  description, nav_description, sort_order, is_active, is_visible_in_nav
+)
+values
+  (
+    '00000000-0000-0000-0000-000000000101',
+    'category_top',
+    null,
+    'Thực phẩm chức năng',
+    'thuc-pham-chuc-nang',
+    'thuc-pham-chuc-nang',
+    '/thuc-pham-chuc-nang',
+    'Hỗ trợ sức khỏe và bổ sung dinh dưỡng mỗi ngày.',
+    'Bổ sung dinh dưỡng, nâng cao sức khỏe.',
+    1,
+    true,
+    true
+  ),
+  (
+    '00000000-0000-0000-0000-000000000102',
+    'category_child',
+    '00000000-0000-0000-0000-000000000101',
+    'Sinh lý nam',
+    'sinh-ly-nam',
+    'thuc-pham-chuc-nang/sinh-ly-nam',
+    '/thuc-pham-chuc-nang/sinh-ly-nam',
+    null,
+    'Tăng cường sinh lực, hỗ trợ sức khỏe nam giới.',
+    10,
+    true,
+    true
+  ),
+  (
+    '00000000-0000-0000-0000-000000000103',
+    'category_child',
+    '00000000-0000-0000-0000-000000000101',
+    'Sinh lý - Nội tiết tố',
+    'sinh-ly-noi-tiet-to',
+    'thuc-pham-chuc-nang/sinh-ly-noi-tiet-to',
+    '/thuc-pham-chuc-nang/sinh-ly-noi-tiet-to',
+    null,
+    'Cân bằng nội tiết tố, hỗ trợ sinh lý.',
+    11,
+    true,
+    true
+  )
+on conflict (id) do update
+set
+  node_type = excluded.node_type,
+  parent_id = excluded.parent_id,
+  name = excluded.name,
+  slug = excluded.slug,
+  full_slug = excluded.full_slug,
+  route_path = excluded.route_path,
+  description = excluded.description,
+  nav_description = excluded.nav_description,
+  sort_order = excluded.sort_order,
+  is_active = true,
+  is_visible_in_nav = excluded.is_visible_in_nav;
+
 -- products
 insert into public.products (
   id, slug, title, brand_id, category_id, image_url,
@@ -144,6 +206,84 @@ set
   stock_qty = excluded.stock_qty,
   is_active = true;
 
+-- catalog_products (new canonical /san-pham/:slug)
+insert into public.catalog_products (
+  id, name, slug, route_path, short_description, description,
+  brand_name, thumbnail_url, gallery, price, compare_at_price,
+  is_active, is_featured, seo_title, seo_description
+)
+values
+  (
+    '00000000-0000-0000-0000-000000001001',
+    'Viên uống hỗ trợ bổ thận, tăng cường sinh lực Sâm Nhung Bổ Thận NV (30 viên)',
+    'sam-nhung-bo-than-nv-hai-linh-30v-321',
+    '/san-pham/sam-nhung-bo-than-nv-hai-linh-30v-321',
+    'Sâm Nhung Bổ Thận NV giúp bổ thận, tráng dương, tăng cường sinh lực.',
+    'Sâm Nhung Bổ Thận NV hỗ trợ bổ thận, tăng cường sinh lực phái mạnh.',
+    'Dolexphar',
+    'https://cdn.nhathuoclongchau.com.vn/unsafe/800x0/filters:quality(90):format(webp)/sam_nhung_bo_than_nv_hai_linh_30v_321_0_30b8d2a1e0.png',
+    jsonb_build_array(
+      'https://cdn.nhathuoclongchau.com.vn/unsafe/800x0/filters:quality(90):format(webp)/sam_nhung_bo_than_nv_hai_linh_30v_321_0_30b8d2a1e0.png',
+      'https://cdn.nhathuoclongchau.com.vn/unsafe/800x0/filters:quality(90):format(webp)/sam_nhung_bo_than_nv_hai_linh_30v_321_1_4a8c0f6f2b.png'
+    ),
+    125000,
+    null,
+    true,
+    true,
+    null,
+    null
+  )
+on conflict (id) do update
+set
+  name = excluded.name,
+  slug = excluded.slug,
+  route_path = excluded.route_path,
+  short_description = excluded.short_description,
+  description = excluded.description,
+  brand_name = excluded.brand_name,
+  thumbnail_url = excluded.thumbnail_url,
+  gallery = excluded.gallery,
+  price = excluded.price,
+  compare_at_price = excluded.compare_at_price,
+  is_active = true,
+  is_featured = excluded.is_featured;
+
+-- product_node_links (new)
+insert into public.product_node_links (product_id, node_id, is_primary, sort_order)
+values
+  ('00000000-0000-0000-0000-000000001001','00000000-0000-0000-0000-000000000102',true,1)
+on conflict (product_id, node_id) do update
+set
+  is_primary = excluded.is_primary,
+  sort_order = excluded.sort_order;
+
+-- node_featured_links (new)
+insert into public.node_featured_links (node_id, link_type, label, description, href, product_id, target_node_id, sort_order, is_active)
+values
+  (
+    '00000000-0000-0000-0000-000000000101',
+    'custom_link',
+    'Bán chạy',
+    null,
+    '/thuc-pham-chuc-nang',
+    null,
+    null,
+    1,
+    true
+  ),
+  (
+    '00000000-0000-0000-0000-000000000101',
+    'featured_product',
+    'Sâm Nhung Bổ Thận NV',
+    null,
+    null,
+    '00000000-0000-0000-0000-000000001001',
+    null,
+    2,
+    true
+  )
+on conflict do nothing;
+
 -- product_images (dev reset)
 delete from public.product_images
 where product_id = 'sam-nhung-bo-than-nv-hai-linh-30v-321';
@@ -165,13 +305,13 @@ values
 insert into public.nav_top_items (id, label, href, sort, is_active)
 values
   ('tpcn','Thực phẩm chức năng','/thuc-pham-chuc-nang',1,true),
-  ('duoc-my-pham','Dược mỹ phẩm','#',2,true),
-  ('thuoc','Thuốc','#',3,true),
-  ('cham-soc-ca-nhan','Chăm sóc cá nhân','#',4,true),
-  ('thiet-bi-y-te','Thiết bị y tế','#',5,true),
-  ('tiem-chung','Tiêm chủng','#',6,true),
-  ('benh-goc-suc-khoe','Bệnh & Góc sức khỏe','#',7,true),
-  ('he-thong-nha-thuoc','Hệ thống nhà thuốc','#',8,true)
+  ('duoc-my-pham','Dược mỹ phẩm','/duoc-my-pham',2,true),
+  ('thuoc','Thuốc','/thuoc',3,true),
+  ('cham-soc-ca-nhan','Chăm sóc cá nhân','/cham-soc-ca-nhan',4,true),
+  ('thiet-bi-y-te','Thiết bị y tế','/thiet-bi-y-te',5,true),
+  ('tiem-chung','Tiêm chủng','/tiem-chung',6,true),
+  ('benh-goc-suc-khoe','Bệnh & Góc sức khỏe','/goc-suc-khoe',7,true),
+  ('he-thong-nha-thuoc','Hệ thống nhà thuốc','/he-thong-nha-thuoc',8,true)
 on conflict (id) do update
 set
   label = excluded.label,

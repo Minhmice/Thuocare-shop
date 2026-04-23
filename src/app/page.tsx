@@ -1,7 +1,6 @@
 import { Footer } from "@/components/layout/footer";
-import { Header } from "@/components/layout/header";
+import { HeaderServer } from "@/components/layout/header.server";
 import { Hero } from "@/components/sections/hero";
-import { QuickActions } from "@/components/sections/quick-actions";
 import {
   ArticleFeatureSection,
   BestSellers,
@@ -10,20 +9,19 @@ import {
   PromoCommerce,
   TrustBand,
 } from "@/components/sections/home-sections";
-import { getHomepageCollections } from "@/data/collections";
+import { getHomepageFeaturedProducts } from "@/data/home";
 import { getFeaturedArticle } from "@/data/articles";
 
 export default async function Home() {
-  const [collections, featuredArticle] = await Promise.all([getHomepageCollections(), getFeaturedArticle()]);
+  const [featuredProducts, featuredArticle] = await Promise.all([getHomepageFeaturedProducts(12), getFeaturedArticle()]);
 
-  const promo = collections.find((c) => c.id === "home_promo")?.products ?? [];
-  const best = collections.find((c) => c.id === "home_best_sellers")?.products ?? [];
+  const promo = featuredProducts;
+  const best = featuredProducts;
 
   return (
     <main className="min-h-screen bg-[color:var(--lc-surface)]">
-      <Header />
+      <HeaderServer />
       <Hero />
-      <QuickActions />
       <PromoCommerce className="border-t" products={promo} />
       <BestSellers className="border-t" products={best.length ? best : promo} />
       <BrandStrip className="border-t" />

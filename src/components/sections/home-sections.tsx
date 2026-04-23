@@ -114,21 +114,8 @@ export function PromoCommerce({
 }
 
 export function BestSellers({ className, products }: { className?: string; products: ProductCard[] }) {
-  const chips = ["Bán chạy", "Giá tốt", "Cho trẻ em", "Nhập khẩu", "Hỗ trợ miễn dịch"];
   return (
     <SectionShell title="Sản phẩm bán chạy" description="So sánh nhanh theo công dụng, dạng bào chế và quy cách." className={className}>
-      <div className="mb-4 flex flex-wrap gap-2">
-        {chips.map((t) => (
-          <button
-            key={t}
-            type="button"
-            className="rounded-full border bg-white px-3 py-1.5 text-sm font-semibold text-slate-700 shadow-sm hover:border-(--lc-blue-700) hover:text-(--lc-blue-700)"
-          >
-            {t}
-          </button>
-        ))}
-      </div>
-
       <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-4">
         {products.slice(0, 12).map((p) => (
           <ProductCardView key={p.id} product={p} />
@@ -270,7 +257,7 @@ export function VideoRail({ className }: { className?: string }) {
 
 export function ArticleFeatureSection({ className, featuredArticle }: { className?: string; featuredArticle: DbArticle | null }) {
   const featured = featuredArticle
-    ? { title: featuredArticle.title, category: "Kiến thức y khoa", meta: "8 phút đọc", href: `/blog/${featuredArticle.slug}` }
+    ? { title: featuredArticle.title, category: "Kiến thức y khoa", meta: "8 phút đọc", href: `/goc-suc-khoe/${featuredArticle.slug}` }
     : { title: "Bài viết nổi bật", category: "Kiến thức y khoa", meta: "", href: "#" };
   const items = [
     { title: "Triệu chứng cảm cúm: khi nào nên đi khám?", meta: "5 phút đọc" },

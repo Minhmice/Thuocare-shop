@@ -34,30 +34,54 @@ export type NavIconKey =
   | "megaphone"
   | "star";
 
-export type NavTile = {
+export type NavLink = {
   id: string;
   label: string;
-  icon: NavIconKey;
-  href?: string;
+  href: string;
+  description?: string;
+  icon?: NavIconKey;
 };
 
-export type NavSidebarItem = {
+export type NavPromoCard = {
+  kind: "promoCard";
+  id: string;
+  title: string;
+  description?: string;
+  href: string;
+  imageUrl?: string;
+};
+
+export type NavMegaBlock =
+  | {
+      kind: "links";
+      id: string;
+      title: string;
+      links: NavLink[];
+      viewAll?: NavLink;
+    }
+  | {
+      kind: "bestSellers";
+      id: string;
+      title: string;
+      products: ProductCard[];
+      href?: string;
+    }
+  | NavPromoCard;
+
+export type NavTopItem = {
   id: string;
   label: string;
-  icon: NavIconKey;
-  tiles: NavTile[];
-  bestSellers: ProductCard[];
+  href: string;
+  kind: "category" | "service" | "content";
+  mega?: {
+    id: string;
+    blocks: NavMegaBlock[]; // expected: A/B/C blocks (shallow)
+  };
 };
 
-export type NavPanel = {
-  id: string;
-  sidebar: NavSidebarItem[];
-};
-
-export type TopNavItem = {
-  id: string;
-  label: string;
-  href?: string;
-  panel?: NavPanel;
+export type HeaderNavModel = {
+  utility: NavTopItem[];
+  main: NavTopItem[];
+  source: "supabase" | "static" | "fallback";
 };
 

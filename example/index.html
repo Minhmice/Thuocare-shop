@@ -1,0 +1,559 @@
+<!DOCTYPE html>
+
+<html class="light" lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <title>THUOCARE - Thực phẩm chức năng</title>
+    <script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&amp;display=swap"
+        rel="stylesheet" />
+    <link
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap"
+        rel="stylesheet" />
+    <link
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap"
+        rel="stylesheet" />
+    <script id="tailwind-config">
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    "colors": {
+                        "primary-container": "#004d3c",
+                        "on-error-container": "#93000a",
+                        "surface-container-high": "#e8e8e6",
+                        "primary": "#003428",
+                        "primary-fixed": "#aff0d8",
+                        "error": "#ba1a1a",
+                        "inverse-surface": "#2f3130",
+                        "on-secondary-container": "#446d57",
+                        "outline-variant": "#bfc9c3",
+                        "error-container": "#ffdad6",
+                        "tertiary-fixed-dim": "#bec9c4",
+                        "secondary-fixed-dim": "#a4d0b7",
+                        "inverse-primary": "#93d3bd",
+                        "surface-bright": "#f9f9f7",
+                        "surface-container-highest": "#e2e3e0",
+                        "on-background": "#1a1c1b",
+                        "primary-fixed-dim": "#93d3bd",
+                        "on-tertiary-fixed": "#141d1b",
+                        "on-error": "#ffffff",
+                        "on-primary-fixed": "#002118",
+                        "tertiary": "#252f2c",
+                        "on-secondary-fixed": "#002113",
+                        "surface": "#f9f9f7",
+                        "on-primary": "#ffffff",
+                        "secondary": "#3e6752",
+                        "surface-container-low": "#f4f4f1",
+                        "background": "#f9f9f7",
+                        "on-secondary-fixed-variant": "#264e3b",
+                        "secondary-fixed": "#c0edd2",
+                        "on-primary-container": "#7dbda7",
+                        "surface-variant": "#e2e3e0",
+                        "tertiary-fixed": "#dae5e0",
+                        "surface-tint": "#296956",
+                        "outline": "#707974",
+                        "on-tertiary-fixed-variant": "#3f4946",
+                        "surface-container": "#eeeeec",
+                        "surface-dim": "#dadad8",
+                        "on-tertiary-container": "#a7b2ae",
+                        "on-surface-variant": "#404945",
+                        "on-primary-fixed-variant": "#07513f",
+                        "inverse-on-surface": "#f1f1ef",
+                        "tertiary-container": "#3b4542",
+                        "secondary-container": "#c0edd2",
+                        "on-surface": "#1a1c1b",
+                        "on-tertiary": "#ffffff",
+                        "on-secondary": "#ffffff",
+                        "surface-container-lowest": "#ffffff"
+                    },
+                    "borderRadius": {
+                        "DEFAULT": "0.25rem",
+                        "lg": "0.5rem",
+                        "xl": "0.75rem",
+                        "full": "9999px"
+                    },
+                    "spacing": {
+                        "section": "120px",
+                        "lg": "48px",
+                        "xl": "80px",
+                        "xs": "4px",
+                        "sm": "12px",
+                        "md": "24px",
+                        "base": "8px",
+                        "gutter": "24px",
+                        "container-max": "1280px"
+                    },
+                    "fontFamily": {
+                        "display-lg": ["Manrope"],
+                        "display-xl": ["Manrope"],
+                        "headline-md": ["Manrope"],
+                        "body-md": ["Manrope"],
+                        "button": ["Manrope"],
+                        "body-lg": ["Manrope"],
+                        "label-md": ["Manrope"]
+                    },
+                    "fontSize": {
+                        "display-lg": ["48px", { "lineHeight": "1.2", "letterSpacing": "-0.01em", "fontWeight": "600" }],
+                        "display-xl": ["64px", { "lineHeight": "1.1", "letterSpacing": "-0.02em", "fontWeight": "700" }],
+                        "headline-md": ["32px", { "lineHeight": "1.3", "fontWeight": "600" }],
+                        "body-md": ["16px", { "lineHeight": "1.5", "fontWeight": "400" }],
+                        "button": ["15px", { "lineHeight": "1", "fontWeight": "600" }],
+                        "body-lg": ["18px", { "lineHeight": "1.6", "fontWeight": "400" }],
+                        "label-md": ["14px", { "lineHeight": "1.2", "letterSpacing": "0.05em", "fontWeight": "600" }]
+                    }
+                }
+            }
+        }
+    </script>
+</head>
+
+<body
+    class="bg-background text-on-background font-body-md antialiased selection:bg-primary-fixed selection:text-on-primary-fixed">
+    <!-- Main Content Area -->
+    <main class="max-w-container-max mx-auto px-8 py-md">
+        <!-- Breadcrumbs -->
+        <nav aria-label="Breadcrumb" class="flex text-sm text-on-surface-variant mb-md font-label-md">
+            <ol class="inline-flex items-center space-x-2">
+                <li class="inline-flex items-center">
+                    <a class="hover:text-primary transition-colors" href="#">Trang chủ</a>
+                </li>
+                <li>
+                    <div class="flex items-center">
+                        <span class="material-symbols-outlined text-sm mx-1">chevron_right</span>
+                        <a class="hover:text-primary transition-colors" href="#">Chăm sóc sức khỏe</a>
+                    </div>
+                </li>
+                <li aria-current="page">
+                    <div class="flex items-center">
+                        <span class="material-symbols-outlined text-sm mx-1">chevron_right</span>
+                        <span class="text-on-surface">Thực phẩm chức năng</span>
+                    </div>
+                </li>
+            </ol>
+        </nav>
+        <div class="flex flex-col lg:flex-row gap-gutter">
+            <!-- Left Sidebar: Sticky Filter Panel -->
+            <aside class="w-1/4 sticky top-[100px] flex flex-col gap-md h-max scrollbar-hide overflow-y-auto pb-8">
+                <div
+                    class="bg-surface-container-lowest rounded-xl border border-outline-variant p-6 flex flex-col gap-6">
+                    <div class="flex items-center gap-2 mb-2">
+                        <span class="material-symbols-outlined text-primary text-[24px]">filter_alt</span>
+                        <h2 class="font-body-lg text-body-lg font-semibold text-on-surface">Bộ lọc tìm kiếm</h2>
+                    </div>
+                    <!-- Danh mục -->
+                    <div class="flex flex-col gap-3">
+                        <h3 class="font-label-md text-label-md text-on-surface-variant uppercase tracking-wider">Danh
+                            mục
+                        </h3>
+                        <div class="flex flex-col gap-2">
+                            <label class="flex items-center gap-3 cursor-pointer group">
+                                <input checked=""
+                                    class="form-checkbox text-primary border-outline-variant rounded focus:ring-primary focus:ring-offset-0 bg-surface-container-lowest w-4 h-4"
+                                    type="checkbox" />
+                                <span
+                                    class="font-body-md text-body-md text-on-surface group-hover:text-primary transition-colors">Thuốc
+                                    không kê đơn</span>
+                            </label>
+                            <label class="flex items-center gap-3 cursor-pointer group">
+                                <input
+                                    class="form-checkbox text-primary border-outline-variant rounded focus:ring-primary focus:ring-offset-0 bg-surface-container-lowest w-4 h-4"
+                                    type="checkbox" />
+                                <span
+                                    class="font-body-md text-body-md text-on-surface group-hover:text-primary transition-colors">Thực
+                                    phẩm chức năng</span>
+                            </label>
+                            <label class="flex items-center gap-3 cursor-pointer group">
+                                <input
+                                    class="form-checkbox text-primary border-outline-variant rounded focus:ring-primary focus:ring-offset-0 bg-surface-container-lowest w-4 h-4"
+                                    type="checkbox" />
+                                <span
+                                    class="font-body-md text-body-md text-on-surface group-hover:text-primary transition-colors">Chăm
+                                    sóc cá nhân</span>
+                            </label>
+                            <label class="flex items-center gap-3 cursor-pointer group">
+                                <input
+                                    class="form-checkbox text-primary border-outline-variant rounded focus:ring-primary focus:ring-offset-0 bg-surface-container-lowest w-4 h-4"
+                                    type="checkbox" />
+                                <span
+                                    class="font-body-md text-body-md text-on-surface group-hover:text-primary transition-colors">Thiết
+                                    bị y tế</span>
+                            </label>
+                        </div>
+                    </div>
+                    <!-- Thương hiệu (with search) -->
+                    <div class="flex flex-col gap-3 pt-4 border-t border-surface-variant">
+                        <h3 class="font-label-md text-label-md text-on-surface-variant uppercase tracking-wider">Thương
+                            hiệu
+                        </h3>
+                        <div class="relative mb-2">
+                            <span
+                                class="material-symbols-outlined absolute left-3 top-1/2 -translate-y-1/2 text-outline text-[18px]">search</span>
+                            <input
+                                class="w-full bg-surface-container-low border border-outline-variant rounded-md py-2 pl-9 pr-3 text-sm font-body-md text-on-surface focus:border-primary focus:ring-1 focus:ring-primary outline-none transition-all"
+                                placeholder="Tìm thương hiệu..." type="text" />
+                        </div>
+                        <div class="flex flex-col gap-2 max-h-[160px] overflow-y-auto scrollbar-hide pr-2">
+                            <label class="flex items-center gap-3 cursor-pointer group">
+                                <input
+                                    class="form-checkbox text-primary border-outline-variant rounded focus:ring-primary focus:ring-offset-0 bg-surface-container-lowest w-4 h-4"
+                                    type="checkbox" />
+                                <span
+                                    class="font-body-md text-body-md text-on-surface group-hover:text-primary transition-colors">Sanofi</span>
+                            </label>
+                            <label class="flex items-center gap-3 cursor-pointer group">
+                                <input
+                                    class="form-checkbox text-primary border-outline-variant rounded focus:ring-primary focus:ring-offset-0 bg-surface-container-lowest w-4 h-4"
+                                    type="checkbox" />
+                                <span
+                                    class="font-body-md text-body-md text-on-surface group-hover:text-primary transition-colors">AstraZeneca</span>
+                            </label>
+                            <label class="flex items-center gap-3 cursor-pointer group">
+                                <input
+                                    class="form-checkbox text-primary border-outline-variant rounded focus:ring-primary focus:ring-offset-0 bg-surface-container-lowest w-4 h-4"
+                                    type="checkbox" />
+                                <span
+                                    class="font-body-md text-body-md text-on-surface group-hover:text-primary transition-colors">Pfizer</span>
+                            </label>
+                            <label class="flex items-center gap-3 cursor-pointer group">
+                                <input
+                                    class="form-checkbox text-primary border-outline-variant rounded focus:ring-primary focus:ring-offset-0 bg-surface-container-lowest w-4 h-4"
+                                    type="checkbox" />
+                                <span
+                                    class="font-body-md text-body-md text-on-surface group-hover:text-primary transition-colors">GSK</span>
+                            </label>
+                            <label class="flex items-center gap-3 cursor-pointer group">
+                                <input
+                                    class="form-checkbox text-primary border-outline-variant rounded focus:ring-primary focus:ring-offset-0 bg-surface-container-lowest w-4 h-4"
+                                    type="checkbox" />
+                                <span
+                                    class="font-body-md text-body-md text-on-surface group-hover:text-primary transition-colors">Bayer</span>
+                            </label>
+                        </div>
+                    </div>
+                    <!-- Giá bán (Pills) -->
+                    <div class="flex flex-col gap-3 pt-4 border-t border-surface-variant">
+                        <h3 class="font-label-md text-label-md text-on-surface-variant uppercase tracking-wider">Giá bán
+                        </h3>
+                        <div class="flex flex-wrap gap-2">
+                            <button
+                                class="px-3 py-1.5 rounded-full border border-outline-variant font-label-md text-label-md text-on-surface hover:bg-surface-variant transition-colors">Dưới
+                                100k</button>
+                            <button
+                                class="px-3 py-1.5 rounded-full border border-primary bg-primary-fixed text-on-primary-fixed font-label-md text-label-md transition-colors">100k
+                                - 300k</button>
+                            <button
+                                class="px-3 py-1.5 rounded-full border border-outline-variant font-label-md text-label-md text-on-surface hover:bg-surface-variant transition-colors">300k
+                                - 500k</button>
+                            <button
+                                class="px-3 py-1.5 rounded-full border border-outline-variant font-label-md text-label-md text-on-surface hover:bg-surface-variant transition-colors">Trên
+                                500k</button>
+                        </div>
+                    </div>
+                    <!-- Đối tượng sử dụng -->
+                    <div class="flex flex-col gap-3 pt-4 border-t border-surface-variant">
+                        <h3 class="font-label-md text-label-md text-on-surface-variant uppercase tracking-wider">Đối
+                            tượng
+                            sử dụng</h3>
+                        <div class="flex flex-col gap-2">
+                            <label class="flex items-center gap-3 cursor-pointer group">
+                                <input
+                                    class="form-checkbox text-primary border-outline-variant rounded focus:ring-primary focus:ring-offset-0 bg-surface-container-lowest w-4 h-4"
+                                    type="checkbox" />
+                                <span
+                                    class="font-body-md text-body-md text-on-surface group-hover:text-primary transition-colors">Người
+                                    lớn</span>
+                            </label>
+                            <label class="flex items-center gap-3 cursor-pointer group">
+                                <input
+                                    class="form-checkbox text-primary border-outline-variant rounded focus:ring-primary focus:ring-offset-0 bg-surface-container-lowest w-4 h-4"
+                                    type="checkbox" />
+                                <span
+                                    class="font-body-md text-body-md text-on-surface group-hover:text-primary transition-colors">Trẻ
+                                    em</span>
+                            </label>
+                            <label class="flex items-center gap-3 cursor-pointer group">
+                                <input
+                                    class="form-checkbox text-primary border-outline-variant rounded focus:ring-primary focus:ring-offset-0 bg-surface-container-lowest w-4 h-4"
+                                    type="checkbox" />
+                                <span
+                                    class="font-body-md text-body-md text-on-surface group-hover:text-primary transition-colors">Người
+                                    cao tuổi</span>
+                            </label>
+                            <label class="flex items-center gap-3 cursor-pointer group">
+                                <input
+                                    class="form-checkbox text-primary border-outline-variant rounded focus:ring-primary focus:ring-offset-0 bg-surface-container-lowest w-4 h-4"
+                                    type="checkbox" />
+                                <span
+                                    class="font-body-md text-body-md text-on-surface group-hover:text-primary transition-colors">Phụ
+                                    nữ có thai</span>
+                            </label>
+                        </div>
+                    </div>
+                    <!-- Dạng bào chế -->
+                    <div class="flex flex-col gap-3 pt-4 border-t border-surface-variant">
+                        <h3 class="font-label-md text-label-md text-on-surface-variant uppercase tracking-wider">Dạng
+                            bào
+                            chế</h3>
+                        <div class="flex flex-col gap-2">
+                            <label class="flex items-center gap-3 cursor-pointer group">
+                                <input
+                                    class="form-checkbox text-primary border-outline-variant rounded focus:ring-primary focus:ring-offset-0 bg-surface-container-lowest w-4 h-4"
+                                    type="checkbox" />
+                                <span
+                                    class="font-body-md text-body-md text-on-surface group-hover:text-primary transition-colors">Viên
+                                    nén / Viên nang</span>
+                            </label>
+                            <label class="flex items-center gap-3 cursor-pointer group">
+                                <input
+                                    class="form-checkbox text-primary border-outline-variant rounded focus:ring-primary focus:ring-offset-0 bg-surface-container-lowest w-4 h-4"
+                                    type="checkbox" />
+                                <span
+                                    class="font-body-md text-body-md text-on-surface group-hover:text-primary transition-colors">Dung
+                                    dịch / Siro</span>
+                            </label>
+                            <label class="flex items-center gap-3 cursor-pointer group">
+                                <input
+                                    class="form-checkbox text-primary border-outline-variant rounded focus:ring-primary focus:ring-offset-0 bg-surface-container-lowest w-4 h-4"
+                                    type="checkbox" />
+                                <span
+                                    class="font-body-md text-body-md text-on-surface group-hover:text-primary transition-colors">Kem
+                                    / Mỡ bôi ngoài</span>
+                            </label>
+                        </div>
+                    </div>
+                </div>
+            </aside>
+            <!-- Product Grid Area -->
+            <div class="flex-1">
+                <!-- Results Header -->
+                <div class="flex flex-col md:flex-row justify-between items-start md:items-center mb-md gap-4">
+                    <div>
+                        <h1 class="font-display-lg text-display-lg text-on-surface">Thực phẩm chức năng</h1>
+                        <p class="text-on-surface-variant mt-xs font-body-md">208 sản phẩm</p>
+                    </div>
+                    <div class="flex flex-wrap items-center gap-2">
+                        <span class="text-sm text-on-surface-variant mr-2">Sắp xếp theo:</span>
+                        <button
+                            class="px-4 py-2 rounded-full border border-primary bg-primary-container text-on-primary-container font-button text-sm transition-colors">Bán
+                            chạy</button>
+                        <button
+                            class="px-4 py-2 rounded-full border border-surface-variant bg-surface-container-lowest text-on-surface-variant hover:bg-surface-container-low hover:text-on-surface font-button text-sm transition-colors">Phổ
+                            biến</button>
+                        <button
+                            class="px-4 py-2 rounded-full border border-surface-variant bg-surface-container-lowest text-on-surface-variant hover:bg-surface-container-low hover:text-on-surface font-button text-sm transition-colors">Giá
+                            thấp</button>
+                        <button
+                            class="px-4 py-2 rounded-full border border-surface-variant bg-surface-container-lowest text-on-surface-variant hover:bg-surface-container-low hover:text-on-surface font-button text-sm transition-colors">Giá
+                            cao</button>
+                    </div>
+                </div>
+                <!-- Product Grid -->
+                <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+                    <!-- Card 1 -->
+                    <div
+                        class="bg-surface-container-lowest rounded-xl border border-surface-variant overflow-hidden group hover:shadow-md transition-all duration-300 flex flex-col h-full relative">
+                        <div class="absolute top-3 left-3 z-10">
+                            <span
+                                class="bg-primary text-on-primary text-xs font-bold px-2 py-1 rounded-sm uppercase tracking-wider">Chính
+                                hãng</span>
+                        </div>
+                        <div class="absolute top-3 right-3 z-10">
+                            <button
+                                class="p-1.5 bg-white/80 backdrop-blur-sm rounded-full text-on-surface-variant hover:text-error transition-colors">
+                                <span class="material-symbols-outlined text-lg"
+                                    data-icon="favorite_border">favorite_border</span>
+                            </button>
+                        </div>
+                        <div
+                            class="bg-surface-container-low pt-8 pb-4 px-4 flex justify-center items-center h-48 relative overflow-hidden">
+                            <img alt="Vitamin C bottle"
+                                class="w-auto h-full object-contain mix-blend-multiply group-hover:scale-105 transition-transform duration-500"
+                                data-alt="amber glass vitamin supplement bottle with white label on clean light green background soft studio lighting"
+                                src="https://lh3.googleusercontent.com/aida-public/AB6AXuBLorpjtQWi1XZNcW4nVyWCpDB51aTlcgoIKjkNm9wA_EShfSBX6w24d06gda0TkCZ5NYE2jV_WVzA0tJvnTh37l9Z2hcY-PMjZwa4uTAr-q0MDu8-bg22-3UVaIq26S8m5FcVuJ4bJoMxDw_l8McgIW0ejrogjcGUJeLVcI9Lyif-zvgwpL2BfXXybUGqjMg8AfhXq5-CucLCqvgfXMhecwhErGlYuXV3yEYakgJF7WuGOjaWCgKHMDBNlVHIKaBTx-xjObdb0r5A" />
+                        </div>
+                        <div class="p-4 flex flex-col flex-1">
+                            <div class="mb-2">
+                                <span
+                                    class="inline-block bg-secondary-container text-on-secondary-container text-xs px-2 py-0.5 rounded-full font-medium mb-2">Hộp
+                                    60 viên</span>
+                                <h3
+                                    class="font-headline-md text-lg leading-tight text-on-surface line-clamp-2 mb-1 group-hover:text-primary transition-colors">
+                                    Viên uống Vitamin C Blackmores 1000mg</h3>
+                                <p class="text-sm text-on-surface-variant line-clamp-1">Hỗ trợ tăng cường sức đề kháng
+                                </p>
+                            </div>
+                            <div class="mt-auto pt-4">
+                                <div class="flex items-baseline gap-2 mb-3">
+                                    <span class="font-display-lg text-xl text-on-surface">320.000đ</span>
+                                    <span class="text-sm text-on-surface-variant line-through">350.000đ</span>
+                                </div>
+                                <button
+                                    class="w-full bg-primary hover:bg-surface-tint text-on-primary font-button py-2.5 rounded-lg transition-colors flex items-center justify-center gap-2">
+                                    <span class="material-symbols-outlined text-sm"
+                                        data-icon="shopping_cart">shopping_cart</span>
+                                    Chọn mua
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Card 2 -->
+                    <div
+                        class="bg-surface-container-lowest rounded-xl border border-surface-variant overflow-hidden group hover:shadow-md transition-all duration-300 flex flex-col h-full relative">
+                        <div class="absolute top-3 left-3 z-10">
+                            <span
+                                class="bg-primary text-on-primary text-xs font-bold px-2 py-1 rounded-sm uppercase tracking-wider">Úc</span>
+                        </div>
+                        <div class="absolute top-3 right-3 z-10">
+                            <button
+                                class="p-1.5 bg-white/80 backdrop-blur-sm rounded-full text-on-surface-variant hover:text-error transition-colors">
+                                <span class="material-symbols-outlined text-lg"
+                                    data-icon="favorite_border">favorite_border</span>
+                            </button>
+                        </div>
+                        <div
+                            class="bg-surface-container-low pt-8 pb-4 px-4 flex justify-center items-center h-48 relative overflow-hidden">
+                            <img alt="Omega 3 supplement"
+                                class="w-auto h-full object-contain mix-blend-multiply group-hover:scale-105 transition-transform duration-500"
+                                data-alt="clear yellow fish oil capsules spilling from premium white plastic bottle on minimalist white stage soft natural light"
+                                src="https://lh3.googleusercontent.com/aida-public/AB6AXuDPI_U_ncZLpSLzfwqM9yg_A5xdIINceZ00yttjrTevje_mDOLEDndQ1lWmKhB-J5bxSMA2NKmcfbj__mf9_zYy14gblBAOuejqvcn3Dj6XsknBONaT95N2UXTYAzAFg2BTTgOolPrhWs8rGyT2TWZMdlm3DSzpSNJW5scza8WZsfuyZKDxHa1VxVAqvZY-YXwNWXvD_nmCjeE3IKU685DiaU-4TzRv6ZGMCRcEW7vHmqqovVcreWnki0ti_iX84wa17ZqloO9eSzk" />
+                        </div>
+                        <div class="p-4 flex flex-col flex-1">
+                            <div class="mb-2">
+                                <span
+                                    class="inline-block bg-secondary-container text-on-secondary-container text-xs px-2 py-0.5 rounded-full font-medium mb-2">Hộp
+                                    200 viên</span>
+                                <h3
+                                    class="font-headline-md text-lg leading-tight text-on-surface line-clamp-2 mb-1 group-hover:text-primary transition-colors">
+                                    Dầu cá Omega 3 Nature's Way Odourless</h3>
+                                <p class="text-sm text-on-surface-variant line-clamp-1">Tốt cho tim mạch và thị lực</p>
+                            </div>
+                            <div class="mt-auto pt-4">
+                                <div class="flex items-baseline gap-2 mb-3">
+                                    <span class="font-display-lg text-xl text-on-surface">450.000đ</span>
+                                </div>
+                                <button
+                                    class="w-full bg-primary hover:bg-surface-tint text-on-primary font-button py-2.5 rounded-lg transition-colors flex items-center justify-center gap-2">
+                                    <span class="material-symbols-outlined text-sm"
+                                        data-icon="shopping_cart">shopping_cart</span>
+                                    Chọn mua
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Card 3 -->
+                    <div
+                        class="bg-surface-container-lowest rounded-xl border border-surface-variant overflow-hidden group hover:shadow-md transition-all duration-300 flex flex-col h-full relative">
+                        <div class="absolute top-3 left-3 z-10">
+                            <span
+                                class="bg-primary text-on-primary text-xs font-bold px-2 py-1 rounded-sm uppercase tracking-wider">Chính
+                                hãng</span>
+                        </div>
+                        <div class="absolute top-3 right-3 z-10">
+                            <button
+                                class="p-1.5 bg-white/80 backdrop-blur-sm rounded-full text-on-surface-variant hover:text-error transition-colors">
+                                <span class="material-symbols-outlined text-lg"
+                                    data-icon="favorite_border">favorite_border</span>
+                            </button>
+                        </div>
+                        <div
+                            class="bg-surface-container-low pt-8 pb-4 px-4 flex justify-center items-center h-48 relative overflow-hidden">
+                            <img alt="Multivitamin box"
+                                class="w-auto h-full object-contain mix-blend-multiply group-hover:scale-105 transition-transform duration-500"
+                                data-alt="premium silver and white multivitamin box packaging clean clinical background gentle shadows"
+                                src="https://lh3.googleusercontent.com/aida-public/AB6AXuCGExlHv7h2l9Ce8svqG38FLiKuriJiQ16OOOt_Nu20u1RhBru8FLl5I50snlMqNA498A_e6q-97yorxPP9ocIEt6LIe6GJnJpCEPk1EfgzKKiVXgWOkIoJNodnoBau5ulHoL_RPseUwEj1UtEBo171I_tfVGoo_uuBf_zsY7dj0Kn4FXib2mk7OFT_iGo54y0imb_dbUUW927p_O-_gdc6hvKLsundSJqwTPSe1Mx45xPeYQE4ADKFFOnXRfskEsf5A7s-hldHwxg" />
+                        </div>
+                        <div class="p-4 flex flex-col flex-1">
+                            <div class="mb-2">
+                                <span
+                                    class="inline-block bg-secondary-container text-on-secondary-container text-xs px-2 py-0.5 rounded-full font-medium mb-2">Hộp
+                                    30 viên</span>
+                                <h3
+                                    class="font-headline-md text-lg leading-tight text-on-surface line-clamp-2 mb-1 group-hover:text-primary transition-colors">
+                                    Vitamin tổng hợp Doppelherz Aktiv A-Z</h3>
+                                <p class="text-sm text-on-surface-variant line-clamp-1">Bổ sung vitamin và khoáng chất
+                                    thiết yếu</p>
+                            </div>
+                            <div class="mt-auto pt-4">
+                                <div class="flex items-baseline gap-2 mb-3">
+                                    <span class="font-display-lg text-xl text-on-surface">315.000đ</span>
+                                </div>
+                                <button
+                                    class="w-full border border-primary text-primary hover:bg-primary-container hover:text-on-primary-container font-button py-2.5 rounded-lg transition-colors flex items-center justify-center gap-2">
+                                    <span class="material-symbols-outlined text-sm"
+                                        data-icon="shopping_cart">shopping_cart</span>
+                                    Chọn mua
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Card 4 -->
+                    <div
+                        class="bg-surface-container-lowest rounded-xl border border-surface-variant overflow-hidden group hover:shadow-md transition-all duration-300 flex flex-col h-full relative opacity-70">
+                        <div
+                            class="absolute inset-0 bg-white/40 z-20 flex items-center justify-center backdrop-blur-[1px]">
+                            <span
+                                class="bg-inverse-surface text-inverse-on-surface px-3 py-1.5 rounded-full font-label-md text-sm">Tạm
+                                hết hàng</span>
+                        </div>
+                        <div class="absolute top-3 left-3 z-10">
+                            <span
+                                class="bg-primary text-on-primary text-xs font-bold px-2 py-1 rounded-sm uppercase tracking-wider">Mỹ</span>
+                        </div>
+                        <div
+                            class="bg-surface-container-low pt-8 pb-4 px-4 flex justify-center items-center h-48 relative overflow-hidden">
+                            <img alt="Calcium supplement"
+                                class="w-auto h-full object-contain mix-blend-multiply grayscale transition-transform duration-500"
+                                data-alt="white plastic pharmaceutical bottle with blue label on soft gray background clinical sterile lighting"
+                                src="https://lh3.googleusercontent.com/aida-public/AB6AXuA77q5PZFaMz3iWaUn5GglT0ykyVbpRdq7ts5YefjSROTWRUXFF6Ytuq2F6-Q4LSeldYC3iQYEcISKwALKHQbzaaWhpOH2C-dNdehOFM7yL9xL5aB8TnffGuTqOCmfu0b3Nplg9lfkob5qamx_w9YF09ye8mZRPEVEtXPzUVXcs_e1YCMfgWDUB7B0QNmRjGQbqE0288f1slztUBxVpUaGt4dxl4BQPXFq4Uys3mbSsE0bLgH_-CwYz_48o_kcSEE0dk9RBqrZbnsk" />
+                        </div>
+                        <div class="p-4 flex flex-col flex-1">
+                            <div class="mb-2">
+                                <span
+                                    class="inline-block bg-surface-variant text-on-surface-variant text-xs px-2 py-0.5 rounded-full font-medium mb-2">Hộp
+                                    100 viên</span>
+                                <h3 class="font-headline-md text-lg leading-tight text-on-surface line-clamp-2 mb-1">
+                                    Viên uống bổ sung Canxi Kirkland Signature</h3>
+                                <p class="text-sm text-on-surface-variant line-clamp-1">Hỗ trợ xương khớp chắc khỏe</p>
+                            </div>
+                            <div class="mt-auto pt-4">
+                                <div class="flex items-baseline gap-2 mb-3">
+                                    <span class="font-display-lg text-xl text-on-surface-variant">420.000đ</span>
+                                </div>
+                                <button
+                                    class="w-full bg-surface-variant text-on-surface-variant cursor-not-allowed font-button py-2.5 rounded-lg transition-colors flex items-center justify-center gap-2"
+                                    disabled="">
+                                    Xem chi tiết
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Pagination -->
+                <div class="flex justify-center items-center mt-xl space-x-2">
+                    <button
+                        class="w-10 h-10 rounded-full border border-surface-variant flex items-center justify-center text-on-surface-variant hover:bg-surface-container-low hover:text-on-surface transition-colors disabled:opacity-50">
+                        <span class="material-symbols-outlined" data-icon="chevron_left">chevron_left</span>
+                    </button>
+                    <button
+                        class="w-10 h-10 rounded-full bg-primary text-on-primary flex items-center justify-center font-button transition-colors">1</button>
+                    <button
+                        class="w-10 h-10 rounded-full border border-surface-variant flex items-center justify-center text-on-surface hover:bg-surface-container-low transition-colors font-button">2</button>
+                    <button
+                        class="w-10 h-10 rounded-full border border-surface-variant flex items-center justify-center text-on-surface hover:bg-surface-container-low transition-colors font-button">3</button>
+                    <span class="text-on-surface-variant px-1">...</span>
+                    <button
+                        class="w-10 h-10 rounded-full border border-surface-variant flex items-center justify-center text-on-surface hover:bg-surface-container-low transition-colors font-button">8</button>
+                    <button
+                        class="w-10 h-10 rounded-full border border-surface-variant flex items-center justify-center text-on-surface hover:bg-surface-container-low transition-colors">
+                        <span class="material-symbols-outlined" data-icon="chevron_right">chevron_right</span>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </main>
+</body>
+
+</html>

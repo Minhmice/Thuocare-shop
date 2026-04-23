@@ -1,173 +1,152 @@
 # Codebase Structure
 
-**Analysis Date:** 2026-04-21
+**Analysis Date:** 2026-04-22
 
 ## Directory Layout
 
 ```
 [project-root]/
 ├── src/                      # Next.js app code (App Router, features, components)
-│   ├── app/                  # Routes, layouts, API handlers (App Router)
-│   ├── components/           # UI building blocks + page sections
-│   ├── data/                 # Page-oriented data queries (Supabase + mock fallback)
-│   ├── features/             # Feature/domain modules (services, repositories, schemas, types)
+│   ├── app/                  # Routes, layouts, redirects, API handlers (App Router)
+│   ├── components/           # UI building blocks + layout/navigation + page sections
+│   ├── data/                 # Server data access (Supabase + mock fallback)
+│   ├── features/             # Domain modules (services, repositories, schemas, types)
 │   ├── hooks/                # Client hooks (e.g. localStorage)
 │   ├── infrastructure/       # Cross-cutting utilities (http, logging, validation)
-│   ├── lib/                  # Shared libraries (Supabase clients, utils, local-db)
+│   ├── lib/                  # Shared libs (Supabase clients, utils, local-db)
 │   └── types/                # Shared TS types
-├── supabase/                 # Supabase project assets: migrations, seed, scraped datasets
-│   ├── migrations/           # SQL migrations for schema + policies
-│   ├── seed.sql              # SQL seed (idempotent upserts)
-│   └── longchau/             # Large scraped product datasets (JSON)
-├── scripts/                  # Node/TSX scripts for seeding/importing Supabase
+├── supabase/                 # Supabase schema assets + datasets
 ├── public/                   # Static assets
-├── docs/                     # Project documentation (non-code)
-├── .planning/                # GSD planning artifacts
-├── next.config.ts            # Next.js config (standalone output, remote images)
-├── tsconfig.json             # TS config (alias @/* → src/*)
-├── eslint.config.mjs         # ESLint config (Next presets)
-├── postcss.config.mjs        # Tailwind v4 PostCSS plugin
-├── components.json           # shadcn/ui config
+├── docs/                     # Documentation artifacts (non-runtime)
+├── .planning/                # GSD workflow artifacts (includes codebase maps)
+├── next.config.ts            # Next.js config (standalone output, image remotePatterns)
+├── tsconfig.json             # TS config (path alias `@/*` → `src/*`)
 └── package.json              # Scripts + dependencies
 ```
 
 ## Directory Purposes
 
 **`src/app/`:**
-- Purpose: Routing + page composition (Next.js App Router).
-- Contains: `layout.tsx`, `page.tsx`, route segments, and API routes.
+- Purpose: App Router entrypoints (routes, layouts, redirects, API endpoints).
 - Key files:
-  - `src/app/layout.tsx`
-  - `src/app/page.tsx`
-  - `src/app/api/orders/route.ts`
+  - `src/app/layout.tsx` (root wrapper; imports `src/app/globals.css`)
+  - `src/app/page.tsx` (homepage)
+  - `src/app/api/orders/route.ts` (`POST /api/orders`)
 
 **`src/components/`:**
-- Purpose: UI components and sections used by pages.
-- Contains:
-  - shadcn-like primitives under `src/components/ui/**`
-  - feature composites under `src/components/catalog/**`, `src/components/checkout/**`, `src/components/layout/**`, `src/components/navigation/**`, `src/components/sections/**`
+- Purpose: UI composition and layout/navigation.
+- Key areas:
+  - Layout: `src/components/layout/header.tsx`, `src/components/layout/footer.tsx`
+  - Navigation: `src/components/navigation/nav.data.ts`, `src/components/navigation/nav-panel.tsx`, `src/components/navigation/nav.types.ts`
+  - Sections: `src/components/sections/*` (homepage sections)
+  - Catalog & commerce: `src/components/catalog/**`, `src/components/commerce/**`
+  - Shared widgets: `src/components/shared/breadcrumbs.tsx`
+  - Primitives: `src/components/ui/**`
 
 **`src/data/`:**
-- Purpose: Server-side data fetching functions used by pages.
-- Contains:
-  - Supabase-backed queries that return mock data if not configured:
-    - `src/data/products.ts`, `src/data/categories.ts`, `src/data/collections.ts`, `src/data/articles.ts`, `src/data/nav.ts`
-  - Mock data: `src/data/mock.ts`
+- Purpose: Server-side data access called by Server Components in `src/app/**`.
+- Examples:
+  - Navigation query: `src/data/nav.ts` (Supabase + category fallback) and `src/data/mock.ts` (mock nav/products/collections/article)
 
 **`src/features/`:**
-- Purpose: Feature/domain modules (business logic + persistence orchestration).
-- Contains (current feature dirs):
-  - `src/features/catalog/**`
-  - `src/features/checkout/**`
-  - `src/features/orders/**`
-- Typical contents:
-  - `services/*` for orchestration (e.g. `src/features/checkout/services/create-checkout-order.ts`)
-  - `repositories/*` for DB access (e.g. `src/features/orders/repositories/orders.repository.ts`)
-  - `schemas/*` for Zod validation
-  - `types/*` for feature types
+- Purpose: Business logic modules used by API routes.
+- Expected structure: `src/features/<domain>/{schemas,types,services,repositories}/`
+- Example service: `src/features/checkout/services/create-checkout-order.ts` (used by `src/app/api/orders/route.ts`).
 
 **`src/infrastructure/`:**
-- Purpose: Cross-cutting app utilities.
-- Contains:
-  - `src/infrastructure/http/route-handler.ts`
-  - `src/infrastructure/validation/api-error.ts` and `src/infrastructure/validation/zod.ts`
-  - `src/infrastructure/logging/logger.ts`
+- Purpose: cross-cutting utilities for APIs and validation.
+- Example: `src/infrastructure/http/route-handler.ts` (API JSON parsing and response envelope).
 
 **`src/lib/`:**
-- Purpose: Shared libraries and adapters.
-- Key files:
-  - `src/lib/supabase/server.ts` (env parsing + client factories)
-  - `src/lib/supabase/admin-server.ts` (server-only service role client)
-  - `src/lib/supabase/types.ts` (typed DB row shapes)
-  - `src/lib/local-db.ts` (localStorage-backed cart “local DB”)
-  - `src/lib/utils.ts` (shared UI/util helpers)
-
-**`supabase/`:**
-- Purpose: Supabase project assets and database schema.
-- Key files:
-  - `supabase/migrations/0001_init_catalog.sql` (catalog tables)
-  - `supabase/migrations/0005_init_orders.sql` (order tables)
-  - `supabase/migrations/0006_rls_policies.sql` (RLS policies)
-  - `supabase/seed.sql` (SQL seed)
-- Data dumps: `supabase/longchau/**` (large JSON; treat as dataset)
+- Purpose: shared helpers and adapters (including Supabase clients).
+- Example: `src/lib/supabase/server.ts` and `src/lib/supabase/admin-server.ts`.
 
 ## Key File Locations
 
 **Entry Points:**
-- `src/app/layout.tsx`: root layout + fonts + global CSS import
-- `src/app/page.tsx`: homepage server component
-- `src/app/api/orders/route.ts`: API endpoint for order creation
+- `src/app/layout.tsx`: root HTML/body wrapper and metadata; does not render shared header/footer.
+- `src/app/**/page.tsx`: page entrypoints (most pages explicitly render `<Header />` + `<Footer />`).
+- `src/app/api/**/route.ts`: API endpoints (example: `src/app/api/orders/route.ts`).
 
-**Configuration:**
-- `next.config.ts`: Next standalone output + remote images allowlist
-- `tsconfig.json`: strict TS + alias `@/*`
-- `eslint.config.mjs`: ESLint presets from Next
-- `postcss.config.mjs`: Tailwind v4 PostCSS plugin
-- `components.json`: shadcn/ui settings and aliases
+**Navigation + URL sources:**
+- `src/components/layout/header.tsx`: top navigation UI (dropdown behavior + hover state).
+- `src/components/navigation/nav.data.ts`: static `TOP_NAV` menu model used as `Header` default.
+- `src/data/nav.ts`: `getTopNav()` Supabase-backed nav model (not wired into pages by default).
+- `src/components/sections/quick-actions.tsx`: homepage “quick access” links and their slugs.
 
-**Core Logic:**
-- Feature services: `src/features/**/services/*`
-- Feature repositories: `src/features/**/repositories/*`
-- Supabase client factories: `src/lib/supabase/*`
-- API response helpers: `src/infrastructure/http/route-handler.ts`
+## Routing (URL slugs)
 
-**Testing:**
-- Not detected (no dedicated test directory/config found)
+**App Router routes live under `src/app/` and map to URL paths via folders:**
+
+```
+src/app/
+├── page.tsx                                  # GET /
+├── layout.tsx                                # root layout wrapper
+├── checkout/page.tsx                         # GET /checkout
+├── api/
+│   └── orders/route.ts                       # POST /api/orders
+├── product/
+│   ├── [slug]/page.tsx                       # GET /product/:slug
+│   └── sam-nhung-kidney-tonic-nv-hai-linh-30-capsules-321/page.tsx
+│                                              # GET /product/sam-nhung-kidney-tonic-nv-hai-linh-30-capsules-321
+├── category/[slug]/page.tsx                  # GET /category/:slug
+├── list/[...slug]/page.tsx                   # GET /list/* (catch-all)
+├── supplements/
+│   ├── page.tsx                              # GET /supplements
+│   ├── mens-health/page.tsx                  # GET /supplements/mens-health
+│   └── hormones/page.tsx                     # GET /supplements/hormones
+├── blog/[slug]/page.tsx                      # GET /blog/:slug
+├── bai-viet/[slug]/page.tsx                  # GET /bai-viet/:slug → redirects to /blog/:slug
+├── p/[slug]/page.tsx                         # GET /p/:slug → redirects to /product/:slug
+├── danh-muc/
+│   ├── [slug]/page.tsx                       # GET /danh-muc/:slug → redirects to /category/:slug
+│   └── [...slug]/page.tsx                    # GET /danh-muc/* → redirects to /list/*
+└── thuc-pham-chuc-nang/
+    ├── page.tsx                              # GET /thuc-pham-chuc-nang → redirects to /supplements
+    ├── sinh-ly-nam/page.tsx                  # GET /thuc-pham-chuc-nang/sinh-ly-nam → /supplements/mens-health
+    ├── sinh-ly-noi-tiet-to/page.tsx          # GET /thuc-pham-chuc-nang/sinh-ly-noi-tiet-to → /supplements/hormones
+    └── sam-nhung-bo-than-nv-hai-linh-30v-321/page.tsx
+                                               # GET /thuc-pham-chuc-nang/sam-nhung-bo-than-nv-hai-linh-30v-321 → /product/...
+```
 
 ## Naming Conventions
 
-**Files:**
+**Routes:**
 - App Router: `page.tsx`, `layout.tsx`, `route.ts` under `src/app/**`
-- Feature modules: kebab-case in filenames (e.g. `create-checkout-order.ts`, `product-pricing.repository.ts`)
-- UI components: kebab-case folders/files under `src/components/**` (e.g. `product-detail.tsx`, `mobile-sticky-buy-bar.tsx`)
+- Dynamic segments: `[slug]` (example: `src/app/product/[slug]/page.tsx`)
+- Catch-all segments: `[...slug]` (example: `src/app/list/[...slug]/page.tsx`)
 
-**Directories:**
-- Route segments in `src/app/**` follow URL structure, including dynamic segments:
-  - `src/app/product/[slug]/page.tsx`
-  - `src/app/category/[slug]/page.tsx`
-  - `src/app/list/[...slug]/page.tsx`
-- Features are grouped by domain: `src/features/{catalog,checkout,orders}/`
+**App code:**
+- Path alias: import from `@/*` resolves to `src/*` via `tsconfig.json`.
 
 ## Where to Add New Code
 
-**New Route/Page:**
-- Add `page.tsx` under `src/app/<route>/page.tsx`
-- If you need an API endpoint, add `route.ts` under `src/app/api/<name>/route.ts` and use helpers from `src/infrastructure/http/route-handler.ts`
+**New page route:**
+- Add a folder under `src/app/<path>/page.tsx`.
+- If the page should canonicalize/alias an existing slug, implement a redirect via `redirect()` from `next/navigation` (examples in `src/app/p/[slug]/page.tsx`, `src/app/danh-muc/[...slug]/page.tsx`).
 
-**New Feature:**
-- Primary code: create a new folder under `src/features/<feature>/` with:
-  - `schemas/*` (Zod)
-  - `types/*`
-  - `services/*` (business workflows)
-  - `repositories/*` (Supabase writes/privileged reads)
-- Shared UI: add reusable components under `src/components/<area>/`
+**New API endpoint:**
+- Add `src/app/api/<name>/route.ts` and use `src/infrastructure/http/route-handler.ts` helpers (`parseJson`, `ok`, `fail`, `getRequestId`).
 
-**New Data Query used by pages:**
-- Put server-side query functions in `src/data/<topic>.ts`
-- Use `isSupabaseConfigured()` + `createSupabaseAnonServerClient()` from `src/lib/supabase/server.ts` and provide a mock fallback in `src/data/mock.ts` if needed
+**New nav entry (static):**
+- Update `TOP_NAV` in `src/components/navigation/nav.data.ts` and ensure `href` values match App Router slugs.
 
-**Utilities:**
-- General helpers: `src/lib/*`
-- Cross-cutting infrastructure: `src/infrastructure/*`
+**New nav entry (dynamic/Supabase):**
+- Extend `src/data/nav.ts` (tables: `nav_top_items`, `nav_sidebar_items`, `nav_tiles`, `nav_best_sellers`) and pass `nav={await getTopNav()}` into `src/components/layout/header.tsx` from pages that want DB-driven nav.
 
 ## Special Directories
 
 **`.next/`:**
 - Purpose: Next build output
 - Generated: Yes
-- Committed: No (build artifact)
+- Committed: No
 
 **`node_modules/`:**
-- Purpose: dependencies
+- Purpose: Dependencies
 - Generated: Yes
 - Committed: No
 
-**`.planning/`:**
-- Purpose: GSD planning artifacts
-- Generated: Yes (workflow artifacts)
-- Committed: depends on workflow; treat as planning docs
-
 ---
 
-*Structure analysis: 2026-04-21*
+*Structure analysis: 2026-04-22*
 

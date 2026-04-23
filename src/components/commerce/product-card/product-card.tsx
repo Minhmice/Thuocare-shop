@@ -20,10 +20,12 @@ function formatCartCount(lines: { qty: number }[]) {
 export function ProductCard({
   product,
   variant = "grid",
+  imagePriority = false,
   className,
 }: {
   product: ProductCardModel;
   variant?: "grid" | "compact";
+  imagePriority?: boolean;
   className?: string;
 }) {
   const [cartLines, setCartLines] = useLocalStorageState<CartLine[]>(CART_KEY, []);
@@ -54,7 +56,10 @@ export function ProductCard({
               height={320}
               className="h-full w-full object-contain p-2"
               sizes={isCompact ? "220px" : "240px"}
-              loading="lazy"
+              priority={imagePriority}
+              fetchPriority={imagePriority ? "high" : "auto"}
+              loading={imagePriority ? "eager" : "lazy"}
+              unoptimized={product.imageUrl.includes("cdn.nhathuoclongchau.com.vn/unsafe/")}
             />
           ) : (
             <div className="h-full w-full" />

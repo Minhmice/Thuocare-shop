@@ -1,5 +1,5 @@
 import type { ProductCard } from "@/types/commerce";
-import type { TopNavItem } from "@/components/navigation/nav.types";
+import type { HeaderNavModel, NavTopItem } from "@/components/navigation/nav.types";
 
 function vnd(amount: number): { amount: number; display: string } {
   const display = `${amount.toLocaleString("vi-VN")}đ`;
@@ -22,145 +22,228 @@ const BEST_SELLERS_SKIN: ProductCard[] = [
   { id: "skin-5", title: "Sữa rửa mặt ngừa mụn On: The Body Rice Therapy Ric…", imageUrl: "", price: vnd(165000), unit: "Tuýp" },
 ];
 
-export const TOP_NAV: TopNavItem[] = [
+const UTILITY_NAV: NavTopItem[] = [
+  { id: "tiem-chung", label: "Tiêm chủng", href: "/tiem-chung", kind: "service" },
+  { id: "he-thong-nha-thuoc", label: "Hệ thống nhà thuốc", href: "/he-thong-nha-thuoc", kind: "service" },
+  { id: "goc-suc-khoe", label: "Góc sức khỏe", href: "/goc-suc-khoe", kind: "content" },
+  { id: "ho-tro", label: "Hỗ trợ", href: "/ho-tro", kind: "service" },
+  { id: "tra-cuu-don", label: "Tra cứu đơn", href: "/tra-cuu-don", kind: "service" },
+];
+
+const MAIN_NAV: NavTopItem[] = [
+  {
+    id: "thuoc",
+    label: "Thuốc",
+    href: "/thuoc",
+    kind: "category",
+    mega: {
+      id: "mega-thuoc",
+      blocks: [
+        {
+          kind: "links",
+          id: "thuoc-main",
+          title: "Danh mục chính",
+          viewAll: { id: "all-thuoc", label: "Xem tất cả", href: "/thuoc" },
+          links: [
+            { id: "khang-sinh", label: "Kháng sinh", href: "/thuoc/khang-sinh" },
+            { id: "tim-mach", label: "Tim mạch & máu", href: "/thuoc/tim-mach" },
+            { id: "tieu-hoa", label: "Tiêu hoá & gan mật", href: "/thuoc/tieu-hoa" },
+            { id: "than-kinh", label: "Thần kinh", href: "/thuoc/than-kinh" },
+            { id: "ung-thu", label: "Điều trị ung thư", href: "/thuoc/ung-thu" },
+            { id: "giam-dau", label: "Giảm đau - hạ sốt", href: "/thuoc/giam-dau" },
+          ],
+        },
+        {
+          kind: "links",
+          id: "thuoc-needs",
+          title: "Theo nhu cầu",
+          links: [
+            { id: "cam-cum", label: "Cảm cúm", href: "/nhu-cau/cam-cum" },
+            { id: "di-ung", label: "Dị ứng", href: "/nhu-cau/di-ung" },
+            { id: "dau-da-day", label: "Đau dạ dày", href: "/nhu-cau/dau-da-day" },
+            { id: "ho-hap", label: "Hô hấp", href: "/nhu-cau/ho-hap" },
+          ],
+        },
+        {
+          kind: "bestSellers",
+          id: "thuoc-featured",
+          title: "Gợi ý nhanh",
+          href: "/thuoc",
+          products: BEST_SELLERS_MALE.slice(0, 4),
+        },
+      ],
+    },
+  },
   {
     id: "tpcn",
     label: "Thực phẩm chức năng",
-    panel: {
-      id: "panel-tpcn",
-      sidebar: [
-        { id: "vitamins", label: "Vitamin & Khoáng chất", icon: "vitamins", tiles: [
-          { id: "canxi", label: "Canxi", icon: "star" },
-          { id: "omega3", label: "Omega 3", icon: "droplet" },
-          { id: "vitaminC", label: "Vitamin C", icon: "sparkles" },
-          { id: "multivit", label: "Đa vitamin", icon: "badge" },
-          { id: "xem-them", label: "Xem thêm", icon: "shopping" },
-        ], bestSellers: BEST_SELLERS_MALE },
-        { id: "immune", label: "Miễn dịch - Đề kháng", icon: "shield", tiles: [
-          { id: "tang-de-khang", label: "Tăng đề kháng", icon: "shield" },
-          { id: "tre-em", label: "Cho trẻ em", icon: "family" },
-          { id: "nguoi-lon", label: "Cho người lớn", icon: "badge" },
-          { id: "xem-them", label: "Xem thêm", icon: "shopping" },
-        ], bestSellers: BEST_SELLERS_MALE },
-        { id: "hormones", label: "Sinh lý - Nội tiết tố", icon: "hormones", tiles: [
-          { id: "sinh-ly-nam", label: "Sinh lý nam", icon: "activity" },
-          { id: "can-bang-noi-tiet", label: "Cân bằng nội tiết tố", icon: "flask" },
-          { id: "sinh-ly-nu", label: "Sinh lý nữ", icon: "heart" },
-          { id: "tien-man-kinh", label: "Tiền mãn kinh - mãn kinh", icon: "ribbon" },
-        ], bestSellers: BEST_SELLERS_MALE },
-        { id: "eye", label: "Mắt - Thị lực", icon: "eye", tiles: [
-          { id: "bo-sung-mat", label: "Bổ sung cho mắt", icon: "eye" },
-          { id: "xem-them", label: "Xem thêm", icon: "shopping" },
-        ], bestSellers: BEST_SELLERS_MALE },
-        { id: "digest", label: "Tiêu hóa", icon: "stomach", tiles: [
-          { id: "probiotic", label: "Men vi sinh", icon: "flask" },
-          { id: "da-day", label: "Dạ dày", icon: "stomach" },
-          { id: "xem-them", label: "Xem thêm", icon: "shopping" },
-        ], bestSellers: BEST_SELLERS_MALE },
+    href: "/thuc-pham-chuc-nang",
+    kind: "category",
+    mega: {
+      id: "mega-tpcn",
+      blocks: [
+        {
+          kind: "links",
+          id: "tpcn-main",
+          title: "Danh mục chính",
+          viewAll: { id: "all-tpcn", label: "Xem tất cả", href: "/thuc-pham-chuc-nang" },
+          links: [
+            { id: "vitamin-khoang-chat", label: "Vitamin & khoáng chất", href: "/thuc-pham-chuc-nang/vitamin-khoang-chat" },
+            { id: "mien-dich", label: "Miễn dịch - đề kháng", href: "/thuc-pham-chuc-nang/mien-dich" },
+            { id: "tieu-hoa", label: "Tiêu hoá", href: "/thuc-pham-chuc-nang/tieu-hoa" },
+            { id: "noi-tiet", label: "Nội tiết tố", href: "/thuc-pham-chuc-nang/sinh-ly-noi-tiet-to" },
+            { id: "sinh-ly", label: "Sinh lý nam", href: "/thuc-pham-chuc-nang/sinh-ly-nam" },
+          ],
+        },
+        {
+          kind: "links",
+          id: "tpcn-needs",
+          title: "Theo nhu cầu",
+          links: [
+            { id: "tang-de-khang", label: "Tăng đề kháng", href: "/nhu-cau/tang-de-khang" },
+            { id: "xuong-khop", label: "Xương khớp", href: "/nhu-cau/xuong-khop" },
+            { id: "giam-can", label: "Giảm cân", href: "/nhu-cau/giam-can" },
+            { id: "ngu-ngon", label: "Ngủ ngon", href: "/nhu-cau/ngu-ngon" },
+          ],
+        },
+        {
+          kind: "bestSellers",
+          id: "tpcn-featured",
+          title: "Bán chạy",
+          href: "/thuc-pham-chuc-nang",
+          products: BEST_SELLERS_MALE.slice(0, 4),
+        },
       ],
     },
   },
   {
     id: "duoc-my-pham",
     label: "Dược mỹ phẩm",
-    panel: {
-      id: "panel-duoc-my-pham",
-      sidebar: [
-        { id: "face", label: "Chăm sóc da mặt", icon: "face", tiles: [
-          { id: "sua-rua-mat", label: "Sữa rửa mặt (kem, gel, sữa)", icon: "droplet" },
-          { id: "kem-chong-nang", label: "Kem chống nắng da mặt", icon: "sparkles" },
-          { id: "duong-da", label: "Dưỡng da mặt", icon: "sparkles" },
-          { id: "mat-na", label: "Mặt nạ", icon: "leaf" },
-          { id: "serum", label: "Serum, Essence hoặc Ampoule", icon: "flask" },
-          { id: "xem-them", label: "Xem thêm", icon: "shopping" },
-        ], bestSellers: BEST_SELLERS_SKIN },
-        { id: "body", label: "Chăm sóc cơ thể", icon: "body", tiles: [
-          { id: "sua-tam", label: "Sữa tắm", icon: "droplet" },
-          { id: "duong-the", label: "Dưỡng thể", icon: "sparkles" },
-          { id: "xem-them", label: "Xem thêm", icon: "shopping" },
-        ], bestSellers: BEST_SELLERS_SKIN },
-        { id: "hair", label: "Chăm sóc tóc - da đầu", icon: "hair", tiles: [
-          { id: "dau-goi", label: "Dầu gội", icon: "droplet" },
-          { id: "duong-toc", label: "Dưỡng tóc", icon: "sparkles" },
-          { id: "xem-them", label: "Xem thêm", icon: "shopping" },
-        ], bestSellers: BEST_SELLERS_SKIN },
-      ],
-    },
-  },
-  {
-    id: "thuoc",
-    label: "Thuốc",
-    panel: {
-      id: "panel-thuoc",
-      sidebar: [
-        { id: "tra-cuu-thuoc", label: "Tra cứu thuốc", icon: "pill", tiles: [
-          { id: "khang-sinh", label: "Thuốc kháng sinh, kháng nấm", icon: "pill" },
-          { id: "ung-thu", label: "Thuốc điều trị ung thư", icon: "ribbon" },
-          { id: "tim-mach", label: "Thuốc tim mạch & máu", icon: "heart" },
-          { id: "than-kinh", label: "Thuốc thần kinh", icon: "brain" },
-          { id: "tieu-hoa", label: "Thuốc tiêu hoá & gan mật", icon: "stomach" },
-        ], bestSellers: BEST_SELLERS_MALE },
+    href: "/duoc-my-pham",
+    kind: "category",
+    mega: {
+      id: "mega-duoc-my-pham",
+      blocks: [
+        {
+          kind: "links",
+          id: "dmp-main",
+          title: "Danh mục chính",
+          viewAll: { id: "all-dmp", label: "Xem tất cả", href: "/duoc-my-pham" },
+          links: [
+            { id: "cham-soc-da-mat", label: "Chăm sóc da mặt", href: "/duoc-my-pham/cham-soc-da-mat" },
+            { id: "chong-nang", label: "Chống nắng", href: "/duoc-my-pham/chong-nang" },
+            { id: "serum", label: "Serum / Essence", href: "/duoc-my-pham/serum" },
+            { id: "mat-na", label: "Mặt nạ", href: "/duoc-my-pham/mat-na" },
+          ],
+        },
+        {
+          kind: "links",
+          id: "dmp-needs",
+          title: "Theo nhu cầu",
+          links: [
+            { id: "da-mun", label: "Da mụn", href: "/nhu-cau/da-mun" },
+            { id: "da-nhay-cam", label: "Da nhạy cảm", href: "/nhu-cau/da-nhay-cam" },
+            { id: "tri-nam", label: "Trị nám", href: "/nhu-cau/tri-nam" },
+            { id: "duong-am", label: "Dưỡng ẩm", href: "/nhu-cau/duong-am" },
+          ],
+        },
+        {
+          kind: "bestSellers",
+          id: "dmp-featured",
+          title: "Gợi ý",
+          href: "/duoc-my-pham",
+          products: BEST_SELLERS_SKIN.slice(0, 4),
+        },
       ],
     },
   },
   {
     id: "cham-soc-ca-nhan",
     label: "Chăm sóc cá nhân",
-    panel: {
-      id: "panel-cham-soc-ca-nhan",
-      sidebar: [
-        { id: "support-sex", label: "Hỗ trợ tình dục", icon: "activity", tiles: [
-          { id: "bao-cao-su", label: "Bao cao su", icon: "activity" },
-          { id: "gel-boi-tron", label: "Gel bôi trơn", icon: "droplet" },
-        ], bestSellers: [
-          { id: "sex-1", title: "Bao cao su Okamoto Crown kích cỡ nhỏ, siêu…", imageUrl: "https://cdn.nhathuoclongchau.com.vn/unsafe/256x0/filters:quality(90):format(webp)/placeholder_condom_1_53fd2e9f8b.png", badge: "-5%", price: vnd(53200), compareAt: vnd(56000), unit: "Hộp" },
-          { id: "sex-2", title: "Bao cao su Sagami Classic siêu mỏng, nhiều chất bôi trơn…", imageUrl: "https://cdn.nhathuoclongchau.com.vn/unsafe/256x0/filters:quality(90):format(webp)/placeholder_condom_2_2f6d8bb6a7.png", badge: "-10%", price: vnd(133200), compareAt: vnd(148000), unit: "Hộp" },
-          { id: "sex-3", title: "Bao cao su Sagami Love Me Gold siêu mỏng, trơn, không…", imageUrl: "https://cdn.nhathuoclongchau.com.vn/unsafe/256x0/filters:quality(90):format(webp)/placeholder_condom_3_9b13de3c3b.png", badge: "-25%", price: vnd(67500), compareAt: vnd(90000), unit: "Hộp" },
-          { id: "sex-4", title: "Bao cao su Safefit Freezer Max S52 chưa nhiều gel lắ…", imageUrl: "https://cdn.nhathuoclongchau.com.vn/unsafe/256x0/filters:quality(90):format(webp)/placeholder_condom_4_7bf58b6f45.png", badge: "-10%", price: vnd(44100), compareAt: vnd(49000), unit: "Hộp" },
-          { id: "sex-5", title: "Bao cao su Safefit 003 S52 siêu mỏng, không gây kích ứn…", imageUrl: "https://cdn.nhathuoclongchau.com.vn/unsafe/256x0/filters:quality(90):format(webp)/placeholder_condom_5_8745ef6a31.png", badge: "-10%", price: vnd(53100), compareAt: vnd(59000), unit: "Hộp" },
-        ] },
-        { id: "family", label: "Đồ dùng gia đình", icon: "family", tiles: [
-          { id: "ve-sinh-ca-nhan", label: "Vệ sinh cá nhân", icon: "droplet" },
-          { id: "cham-soc-rang", label: "Chăm sóc răng miệng", icon: "sparkles" },
-          { id: "hang-tong-hop", label: "Hàng tổng hợp", icon: "shopping" },
-        ], bestSellers: BEST_SELLERS_MALE },
+    href: "/cham-soc-ca-nhan",
+    kind: "category",
+    mega: {
+      id: "mega-cham-soc-ca-nhan",
+      blocks: [
+        {
+          kind: "links",
+          id: "cscn-main",
+          title: "Danh mục chính",
+          viewAll: { id: "all-cscn", label: "Xem tất cả", href: "/cham-soc-ca-nhan" },
+          links: [
+            { id: "bao-cao-su", label: "Bao cao su", href: "/cham-soc-ca-nhan/bao-cao-su" },
+            { id: "gel-boi-tron", label: "Gel bôi trơn", href: "/cham-soc-ca-nhan/gel-boi-tron" },
+            { id: "ve-sinh", label: "Vệ sinh cá nhân", href: "/cham-soc-ca-nhan/ve-sinh" },
+            { id: "rang-mieng", label: "Răng miệng", href: "/cham-soc-ca-nhan/rang-mieng" },
+          ],
+        },
+        {
+          kind: "links",
+          id: "cscn-needs",
+          title: "Theo nhu cầu",
+          links: [
+            { id: "cho-gia-dinh", label: "Cho gia đình", href: "/nhu-cau/cho-gia-dinh" },
+            { id: "du-lich", label: "Du lịch", href: "/nhu-cau/du-lich" },
+            { id: "me-va-be", label: "Mẹ & bé", href: "/nhu-cau/me-va-be" },
+            { id: "nguoi-cao-tuoi", label: "Người cao tuổi", href: "/nhu-cau/nguoi-cao-tuoi" },
+          ],
+        },
+        {
+          kind: "bestSellers",
+          id: "cscn-featured",
+          title: "Bán chạy",
+          href: "/cham-soc-ca-nhan",
+          products: BEST_SELLERS_MALE.slice(0, 4),
+        },
       ],
     },
   },
-  { id: "tiem-chung", label: "Tiêm chủng", href: "#" },
   {
     id: "thiet-bi-y-te",
     label: "Thiết bị y tế",
-    panel: {
-      id: "panel-thiet-bi-y-te",
-      sidebar: [
-        { id: "dung-cu-y-te", label: "Dụng cụ y tế", icon: "stethoscope", tiles: [
-          { id: "ve-sinh-mui", label: "Dụng cụ vệ sinh mũi", icon: "drops" },
-          { id: "kim", label: "Kim các loại", icon: "syringe" },
-          { id: "massage", label: "Máy massage", icon: "activity" },
-          { id: "tui-chuom", label: "Túi chườm", icon: "bandage" },
-          { id: "vo-gian", label: "Vớ giãn tĩnh mạch", icon: "activity" },
-          { id: "xem-them", label: "Xem thêm", icon: "shopping" },
-        ], bestSellers: BEST_SELLERS_MALE },
+    href: "/thiet-bi-y-te",
+    kind: "category",
+    mega: {
+      id: "mega-thiet-bi-y-te",
+      blocks: [
+        {
+          kind: "links",
+          id: "tbyt-main",
+          title: "Danh mục chính",
+          viewAll: { id: "all-tbyt", label: "Xem tất cả", href: "/thiet-bi-y-te" },
+          links: [
+            { id: "dung-cu", label: "Dụng cụ y tế", href: "/thiet-bi-y-te/dung-cu" },
+            { id: "huyet-ap", label: "Đo huyết áp", href: "/thiet-bi-y-te/huyet-ap" },
+            { id: "massage", label: "Máy massage", href: "/thiet-bi-y-te/massage" },
+            { id: "kim", label: "Kim các loại", href: "/thiet-bi-y-te/kim" },
+          ],
+        },
+        {
+          kind: "links",
+          id: "tbyt-needs",
+          title: "Theo nhu cầu",
+          links: [
+            { id: "cham-soc-tai-nha", label: "Chăm sóc tại nhà", href: "/nhu-cau/cham-soc-tai-nha" },
+            { id: "theo-doi", label: "Theo dõi sức khỏe", href: "/nhu-cau/theo-doi-suc-khoe" },
+            { id: "phuc-hoi", label: "Phục hồi chức năng", href: "/nhu-cau/phuc-hoi" },
+            { id: "cho-nguoi-benh", label: "Cho người bệnh", href: "/nhu-cau/cho-nguoi-benh" },
+          ],
+        },
+        {
+          kind: "bestSellers",
+          id: "tbyt-featured",
+          title: "Gợi ý",
+          href: "/thiet-bi-y-te",
+          products: BEST_SELLERS_MALE.slice(0, 4),
+        },
       ],
     },
   },
-  {
-    id: "benh-goc-suc-khoe",
-    label: "Bệnh & Góc sức khỏe",
-    panel: {
-      id: "panel-benh-goc-suc-khoe",
-      sidebar: [
-        { id: "health-corner", label: "Bệnh & Góc sức khỏe", icon: "heart", tiles: [
-          { id: "goc-suc-khoe", label: "Góc sức khỏe", icon: "heart" },
-          { id: "chuyen-trang-ung-thu", label: "Chuyên trang ung thư", icon: "ribbon" },
-          { id: "benh-thuong-gap", label: "Bệnh thường gặp", icon: "badge" },
-          { id: "tin-khuyen-mai", label: "Tin khuyến mại", icon: "megaphone" },
-          { id: "truyen-thong", label: "Truyền Thông", icon: "star" },
-        ], bestSellers: BEST_SELLERS_MALE },
-      ],
-    },
-  },
-  { id: "he-thong-nha-thuoc", label: "Hệ thống nhà thuốc", href: "#" },
 ];
+
+export const STATIC_HEADER_NAV: HeaderNavModel = {
+  utility: UTILITY_NAV,
+  main: MAIN_NAV,
+  source: "static",
+};
 

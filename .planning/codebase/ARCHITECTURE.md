@@ -1,138 +1,145 @@
 # Architecture
 
-**Analysis Date:** 2026-04-21
+**Analysis Date:** 2026-04-22
 
 ## Pattern Overview
 
-**Overall:** Next.js App Router + feature-based domain modules + thin infrastructure utilities.
+**Overall:** Next.js App Router (under `src/app/`) with page-level composition, feature-based domain modules, and shared infrastructure utilities.
 
 **Key Characteristics:**
-- Server Components for pages and data fetching (async `page.tsx` in `src/app/**`)
-- Domain organization under `src/features/*` (schemas/types/services/repositories)
-- Shared “infrastructure” utilities for HTTP handlers, validation, and logging in `src/infrastructure/*`
+- Routes are defined via the App Router in `src/app/**` with Server Components (`page.tsx`) and route handlers (`route.ts`).
+- Pages compose UI explicitly: most `page.tsx` files render `<Header />` and `<Footer />` directly instead of a shared app shell in `src/app/layout.tsx`.
+- Data access for pages lives in `src/data/**` with “Supabase if configured else mock” behavior (example: `src/data/nav.ts` falls back to `src/data/mock.ts`).
+- Backend-style business logic is organized under `src/features/**` (services/repositories/schemas/types) and used by API routes under `src/app/api/**`.
 
 ## Layers
 
 **App Router (routing + rendering):**
-- Purpose: Page routing, layouts, and API route handlers.
+- Purpose: URL routing, server rendering, redirects, and API handlers.
 - Location: `src/app/**`
-- Contains: `layout.tsx`, `page.tsx`, and route handlers like `route.ts`
-- Depends on: `src/components/**`, `src/data/**`, `src/features/**`, `src/infrastructure/**`
-- Used by: Next.js runtime (`next dev`, `next build`)
+- Contains: `layout.tsx`, route segments, `page.tsx` Server Components, `route.ts` API handlers.
+- Depends on: `src/components/**`, `src/data/**`, `src/features/**`, `src/infrastructure/**`, `src/lib/**`
+- Used by: Next.js runtime (`next dev`, `next build`).
 
-**UI Components:**
-- Purpose: Presentational and interaction components (catalog, checkout, layout, navigation, shared UI).
+**UI Components (layout/navigation/catalog/checkout):**
+- Purpose: Presentational components and client interactions.
 - Location: `src/components/**`
-- Contains: shadcn-style components under `src/components/ui/**` and feature-oriented composites under:
-  - `src/components/catalog/**`
-  - `src/components/checkout/**`
-  - `src/components/layout/**`
-  - `src/components/navigation/**`
-  - `src/components/sections/**`
-- Depends on: `src/lib/**`, `src/types/**`, Tailwind globals `src/app/globals.css`
-- Used by: pages in `src/app/**`
+- Key areas:
+  - Layout: `src/components/layout/header.tsx`, `src/components/layout/footer.tsx`
+  - Navigation UI: `src/components/navigation/nav-panel.tsx`, `src/components/navigation/nav.types.ts`
+  - Page sections: `src/components/sections/*` (homepage composition in `src/app/page.tsx`)
+  - Catalog/listing/detail: `src/components/catalog/**`, commerce card/rail: `src/components/commerce/**`
+  - Shared UI primitives: `src/components/ui/**`
+- Depends on: utilities in `src/lib/**`, types in `src/types/**`.
 
-**Data Access (page-oriented queries with mock fallback):**
-- Purpose: Fetch data needed by server components with a “Supabase if configured else mock” strategy.
-- Location: `src/data/*.ts`
-- Contains:
-  - Supabase-backed query functions (e.g. `src/data/products.ts`, `src/data/collections.ts`, `src/data/articles.ts`, `src/data/nav.ts`)
-  - Mock data in `src/data/mock.ts` (used when Supabase env is missing)
-- Depends on: `src/lib/supabase/server.ts`, `src/lib/supabase/types.ts`
-- Used by: App pages (e.g. `src/app/page.tsx` imports `getHomepageCollections` and `getFeaturedArticle`)
+**Data access for pages (Supabase-backed with mock fallback):**
+- Purpose: Provide server-side query functions used by `src/app/**` pages.
+- Location: `src/data/**`
+- Examples:
+  - Homepage: `src/data/collections.ts`, `src/data/articles.ts` (used by `src/app/page.tsx`)
+  - Navigation: `src/data/nav.ts` → falls back to `src/data/mock.ts` when Supabase is not configured
+- Depends on: Supabase clients/types in `src/lib/supabase/*`.
 
-**Domain Features (business logic):**
-- Purpose: Validated business workflows and persistence orchestration.
+**Domain features (business workflows + persistence orchestration):**
+- Purpose: Validated workflows and DB operations for API routes.
 - Location: `src/features/**`
-- Contains:
-  - Services (business workflows), e.g. `src/features/checkout/services/create-checkout-order.ts`
-  - Repositories (DB operations), e.g. `src/features/orders/repositories/orders.repository.ts`, `src/features/catalog/repositories/product-pricing.repository.ts`
-  - Schemas, e.g. `src/features/checkout/schemas/checkout-order.schema` (referenced by service layer)
-  - Types, e.g. `src/features/checkout/types/checkout`
-- Depends on: `src/infrastructure/validation/*`, `src/lib/supabase/*`
-- Used by: API route handlers in `src/app/api/**/route.ts`
+- Used by: App Router API handlers like `src/app/api/orders/route.ts`.
 
-**Infrastructure (cross-cutting utilities):**
-- Purpose: Shared patterns for API responses, validation, and logging.
+**Infrastructure (cross-cutting helpers):**
+- Purpose: Common response shape, request parsing, error mapping, logging, validation.
 - Location: `src/infrastructure/**`
-- Contains:
-  - HTTP helpers in `src/infrastructure/http/route-handler.ts` (`ok`, `fail`, `parseJson`, request id)
-  - Validation helpers in `src/infrastructure/validation/*` (`ApiError`, Zod helpers)
-  - Logger wrapper in `src/infrastructure/logging/logger.ts`
-- Depends on: standard runtime + Next (`NextResponse` in `src/infrastructure/http/route-handler.ts`)
-- Used by: API routes and services
+- Example: `src/infrastructure/http/route-handler.ts` provides `parseJson()`, `ok()`, `fail()`, `getRequestId()`.
+
+## Routing & Navigation
+
+**Routing implementation:** Next.js App Router rooted at `src/app/` (not a `pages/` router).
+
+**Route tree (current):**
+- `/` → `src/app/page.tsx`
+- `/checkout` → `src/app/checkout/page.tsx`
+- `/api/orders` (POST) → `src/app/api/orders/route.ts`
+- `/product/[slug]` → `src/app/product/[slug]/page.tsx`
+- `/product/sam-nhung-kidney-tonic-nv-hai-linh-30-capsules-321` → `src/app/product/sam-nhung-kidney-tonic-nv-hai-linh-30-capsules-321/page.tsx` (explicit “demo” route)
+- `/category/[slug]` → `src/app/category/[slug]/page.tsx`
+- `/list/[...slug]` (catch-all) → `src/app/list/[...slug]/page.tsx`
+- `/supplements` → `src/app/supplements/page.tsx`
+- `/supplements/mens-health` → `src/app/supplements/mens-health/page.tsx`
+- `/supplements/hormones` → `src/app/supplements/hormones/page.tsx`
+- `/blog/[slug]` → `src/app/blog/[slug]/page.tsx`
+- `/bai-viet/[slug]` → `src/app/bai-viet/[slug]/page.tsx` (redirects to `/blog/[slug]`)
+- `/p/[slug]` → `src/app/p/[slug]/page.tsx` (redirects to `/product/[slug]`)
+- `/danh-muc/[slug]` → `src/app/danh-muc/[slug]/page.tsx` (redirects to `/category/[slug]`)
+- `/danh-muc/[...slug]` → `src/app/danh-muc/[...slug]/page.tsx` (redirects to `/list/[...slug]`)
+- `/thuc-pham-chuc-nang` → `src/app/thuc-pham-chuc-nang/page.tsx` (redirects to `/supplements`)
+- `/thuc-pham-chuc-nang/sinh-ly-nam` → `src/app/thuc-pham-chuc-nang/sinh-ly-nam/page.tsx` (redirects to `/supplements/mens-health`)
+- `/thuc-pham-chuc-nang/sinh-ly-noi-tiet-to` → `src/app/thuc-pham-chuc-nang/sinh-ly-noi-tiet-to/page.tsx` (redirects to `/supplements/hormones`)
+- `/thuc-pham-chuc-nang/sam-nhung-bo-than-nv-hai-linh-30v-321` → `src/app/thuc-pham-chuc-nang/sam-nhung-bo-than-nv-hai-linh-30v-321/page.tsx` (redirects to `/product/...`)
+
+**Navigation sources (menus + hrefs):**
+- Header renders the top nav bar in `src/components/layout/header.tsx` and defaults to `TOP_NAV` from `src/components/navigation/nav.data.ts`.
+- Supabase-backed nav is implemented in `src/data/nav.ts` (`getTopNav()` reads `nav_top_items`, `nav_sidebar_items`, `nav_tiles`, `nav_best_sellers` and falls back to `src/data/mock.ts` / category-derived nav). No app-level wiring is present that passes `getTopNav()` into `<Header nav={...} />`.
+- “Quick access” links on the homepage are hardcoded in `src/components/sections/quick-actions.tsx` and point at slugs like `/supplements`, `/thuc-pham-chuc-nang/...`, and `/checkout`.
+- Breadcrumb links are composed per-view in client components (example: `src/components/catalog/listing/category-listing.tsx` uses `src/components/shared/breadcrumbs.tsx` with `href: "/"` and `href: "/supplements"`).
 
 ## Data Flow
 
 **Homepage server render (`/`):**
+1. `src/app/page.tsx` loads collections/articles via `src/data/collections.ts` and `src/data/articles.ts`.
+2. Homepage composes UI sections + layout components (`src/components/layout/header.tsx`, `src/components/layout/footer.tsx`, `src/components/sections/*`).
 
-1. `src/app/page.tsx` (server component) calls `getHomepageCollections()` from `src/data/collections.ts` and `getFeaturedArticle()` from `src/data/articles.ts`.
-2. Each `src/data/*` function gates on Supabase configuration via `isSupabaseConfigured()` from `src/lib/supabase/server.ts`.
-3. If Supabase is configured, `src/data/*` uses `createSupabaseAnonServerClient()` to query tables and return typed shapes from `src/lib/supabase/types.ts`.
-4. If not configured, `src/data/*` returns mock content (e.g. `src/data/mock.ts`) to keep pages functional without backend setup.
-
-**Checkout order creation (API POST):**
-
-1. `src/app/api/orders/route.ts` receives request and uses `parseJson()` from `src/infrastructure/http/route-handler.ts`.
+**Checkout order creation (`POST /api/orders`):**
+1. `src/app/api/orders/route.ts` parses JSON via `parseJson()` from `src/infrastructure/http/route-handler.ts`.
 2. It calls `createCheckoutOrder()` in `src/features/checkout/services/create-checkout-order.ts`.
-3. Service validates input with Zod schema (via `CreateCheckoutOrderInputSchema`) and throws `ApiError` on validation failures (`src/infrastructure/validation/api-error.ts`).
-4. Service reads pricing via repository `src/features/catalog/repositories/product-pricing.repository.ts` (Supabase service role client).
-5. Service writes order and order items via repository `src/features/orders/repositories/orders.repository.ts` (Supabase service role client).
-6. Route handler returns `ok()` response or `fail()` with structured error mapping and logs unexpected exceptions.
+3. Handler responds with `ok()` or `fail()` (standard API envelope) from `src/infrastructure/http/route-handler.ts`.
 
 **State Management:**
-- Client-side state: LocalStorage-backed cart state in `src/lib/local-db.ts` and hook utilities in `src/hooks/*` (e.g. `src/hooks/use-local-storage.ts`)
-- Server-side state: fetched on demand in server components; no global store detected
+- Client-side state: LocalStorage-backed “local DB” in `src/lib/local-db.ts` and hooks like `src/hooks/use-local-storage.ts`.
+- Server-side state: loaded per-request in Server Components and `src/data/**`; no global server state container is present.
 
 ## Key Abstractions
 
-**Supabase client factories:**
-- Purpose: Centralize env parsing and create anon/service-role Supabase clients.
+**Redirect routes for legacy slugs:**
+- Purpose: Preserve alternate/legacy Vietnamese paths and short URLs while routing to canonical pages.
 - Examples:
-  - `src/lib/supabase/server.ts` (`createSupabaseAnonServerClient`, `createSupabaseServiceRoleServerClient`, `isSupabaseConfigured`)
-  - `src/lib/supabase/admin-server.ts` (`createSupabaseServiceRoleServerClient` with `server-only`)
-- Pattern: Factory functions + explicit env getters with informative errors
+  - `src/app/p/[slug]/page.tsx` → `/product/[slug]`
+  - `src/app/bai-viet/[slug]/page.tsx` → `/blog/[slug]`
+  - `src/app/danh-muc/[slug]/page.tsx` → `/category/[slug]`
+  - `src/app/danh-muc/[...slug]/page.tsx` → `/list/[...slug]`
+  - `src/app/thuc-pham-chuc-nang/*` → `/supplements/*` or `/product/*`
 
 **API route handler helpers:**
-- Purpose: Standardize JSON parsing, response shape, request id, and error mapping.
-- Examples: `src/infrastructure/http/route-handler.ts`
-- Pattern: `ok()` returns `{ ok: true, ... }`, `fail()` returns `{ ok: false, code, message, error, fieldErrors? }`
+- Purpose: Standardize JSON parsing, request id, and response envelope.
+- Location: `src/infrastructure/http/route-handler.ts`
+- Pattern: `ok()` returns `{ ok: true, ... }`; `fail()` returns `{ ok: false, code, message, error, fieldErrors? }`.
 
 ## Entry Points
 
-**Web App:**
-- Location: `src/app/layout.tsx` and `src/app/page.tsx`
-- Triggers: Next.js App Router
-- Responsibilities:
-  - `layout.tsx`: fonts, global CSS import, metadata wrapper
-  - `page.tsx`: server-side data fetch and composition of sections/components
+**Web app root:**
+- Location: `src/app/layout.tsx`
+- Responsibilities: global CSS import (`src/app/globals.css`), font setup, metadata wrapper.
 
-**API Routes:**
-- Location: `src/app/api/orders/route.ts`
-- Triggers: HTTP requests to `/api/orders`
-- Responsibilities: request validation/parsing and calling feature services
+**Pages:**
+- Location: `src/app/**/page.tsx`
+- Responsibilities: Fetch server data (if needed) and compose layout/sections; most pages render `<Header />` and `<Footer />` directly.
 
-**Data/DB setup scripts:**
-- Location: `scripts/seed-supabase.ts`, `scripts/import-longchau-products.ts`
-- Triggers: manual execution via `tsx`/Node
-- Responsibilities: seed/import rows into Supabase tables using service role key
+**API endpoints:**
+- Location: `src/app/api/**/route.ts`
+- Example: `src/app/api/orders/route.ts` handles `POST /api/orders`.
 
 ## Error Handling
 
-**Strategy:** “Throw `ApiError` for expected failures; map unknowns to standardized API shape.”
+**Strategy:** Throw/return typed errors for expected failures; map unknown errors to a standard API response envelope.
 
 **Patterns:**
-- Domain/service layer throws `ApiError` from `src/infrastructure/validation/api-error.ts`
-- API handlers wrap calls and respond via `fail()` from `src/infrastructure/http/route-handler.ts`
-- Unexpected errors are logged with `logger.error()` (`src/infrastructure/logging/logger.ts`)
+- API handlers use `fail()` from `src/infrastructure/http/route-handler.ts` to map errors into `{ ok: false, ... }` responses.
 
 ## Cross-Cutting Concerns
 
-**Logging:** console wrapper in `src/infrastructure/logging/logger.ts`
-**Validation:** Zod (`src/infrastructure/validation/zod.ts`) + `ApiError`
-**Authentication:** Not detected (no auth middleware or session provider found in scan)
+**Logging:** `src/infrastructure/logging/logger.ts` (used in `src/infrastructure/http/route-handler.ts` for unexpected API errors)  
+**Validation:** `src/infrastructure/validation/api-error.ts` + Zod helpers in `src/infrastructure/validation/zod.ts`  
+**Authentication:** Not detected at the routing layer (no auth middleware/providers in `src/app/layout.tsx` / route-level wrappers)
 
 ---
 
-*Architecture analysis: 2026-04-21*
+*Architecture analysis: 2026-04-22*
 

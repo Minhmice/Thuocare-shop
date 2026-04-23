@@ -7,16 +7,16 @@ import type { ProductCard as ProductCardModel } from "@/types/commerce";
 
 export function ProductGrid({
   products,
-  linkForProductId,
+  linksById,
 }: {
   products: ProductCardModel[];
-  linkForProductId?: (productId: string) => string | null | undefined;
+  linksById?: Record<string, string>;
 }) {
   return (
     <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-4">
-      {products.map((p) => {
-        const href = linkForProductId?.(p.id) ?? null;
-        const card = <ProductCard product={p} />;
+      {products.map((p, idx) => {
+        const href = linksById?.[p.id] ?? null;
+        const card = <ProductCard product={p} imagePriority={idx < 4} />;
         return href ? (
           <Link key={p.id} href={href} className="block">
             {card}

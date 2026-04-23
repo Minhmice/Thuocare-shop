@@ -5,6 +5,7 @@ import Link from "next/link";
 import { cn } from "@/lib/utils";
 import { Card } from "@/components/ui/card";
 import { ArrowRight, BadgeCheck, ClipboardList, LayoutGrid, ShoppingCart } from "lucide-react";
+import { STATIC_HEADER_NAV } from "@/components/navigation/nav.data";
 
 type QuickAction = {
   label: string;
@@ -17,13 +18,13 @@ const ACTIONS: QuickAction[] = [
   {
     label: "Danh mục TPCN",
     desc: "Xem danh sách theo nhóm",
-    href: "/supplements",
+    href: STATIC_HEADER_NAV.main.find((i) => i.id === "tpcn")?.href ?? "/thuc-pham-chuc-nang",
     icon: LayoutGrid,
   },
   {
-    label: "Thực phẩm chức năng",
-    desc: "Trang danh mục mẫu",
-    href: "/thuc-pham-chuc-nang",
+    label: "Thuốc",
+    desc: "Trang tổng hợp",
+    href: STATIC_HEADER_NAV.main.find((i) => i.id === "thuoc")?.href ?? "/thuoc",
     icon: ClipboardList,
   },
   {
@@ -35,13 +36,13 @@ const ACTIONS: QuickAction[] = [
   {
     label: "Sản phẩm mẫu",
     desc: "Đi tới trang chi tiết",
-    href: "/thuc-pham-chuc-nang/sam-nhung-bo-than-nv-hai-linh-30v-321",
+    href: "/san-pham/sam-nhung-bo-than-nv-hai-linh-30v-321",
     icon: ArrowRight,
   },
   {
-    label: "Giỏ hàng / Checkout",
-    desc: "Xác nhận đơn nhanh",
-    href: "/checkout",
+    label: "Giỏ hàng",
+    desc: "Sắp có",
+    href: "/",
     icon: ShoppingCart,
   },
 ];
@@ -55,7 +56,7 @@ export function QuickActions({ className }: { className?: string }) {
             <h2 className="text-base font-extrabold text-slate-900 sm:text-lg">Truy cập nhanh</h2>
             <p className="mt-1 text-sm text-slate-600">Lối tắt phổ biến — dễ tìm, dễ bấm, rõ đường đi.</p>
           </div>
-          <Link className="shrink-0 text-sm font-semibold text-(--lc-blue-700) hover:underline" href="/supplements">
+          <Link className="shrink-0 text-sm font-semibold text-(--lc-blue-700) hover:underline" href="/thuc-pham-chuc-nang">
             Xem tất cả
           </Link>
         </div>
